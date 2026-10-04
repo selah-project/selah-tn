@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "A betla ka ⟨את⟩ diatla tsa gagwe mo go ene, mme a mo laela, jaaka Yahwe a buile ka seatla sa Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "a betla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diatla tsa gagwe"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "diatla tsa gagwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "mme a mo laela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:15:47.661306167Z",
+  "model": "glm-5.3"
+}

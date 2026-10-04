@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme malatsi otlhe a Khenoke a nna dingwaga tse di tlhano le di masome a marataro le makgolo a mararo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "a Khenoke"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tlhano"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "le di masome a marataro"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a mararo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:34.995370957Z",
+  "model": "glm-5.3"
+}

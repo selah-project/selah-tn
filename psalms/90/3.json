@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "O busetsa motho go fitlha a nta moriti, mme o re: Buisang, bana ba batho.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "o busetsa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "a nta moriti"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mme o re"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "buisang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:09.838168069Z",
+  "model": "glm-5.3"
+}

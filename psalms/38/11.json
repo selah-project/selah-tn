@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Pelo ya me e lopodisa, maatla a me a tlogetse; mme lesedi la matlho a me, le fa e le bone, ga ba na ⟨את⟩ le nna.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "e lopodisa"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "a tlogetse"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a me"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "mme lesedi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "la matlho a me"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le fa e le"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga ba na"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna",
+      "marks": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:53.505037078Z",
+  "model": "glm-5.3"
+}

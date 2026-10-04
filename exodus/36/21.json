@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Ama di le lesome boleele jwa phane, mme ama le sephatlo sa yona bophara jwa phane e le nngwe.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "di le lesome"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "boleele"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "wa phane"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mme ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le sephatlo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sa ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "jwa phane"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e le nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:05.301941802Z",
+  "model": "glm-5.3"
+}

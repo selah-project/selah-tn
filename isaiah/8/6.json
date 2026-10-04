@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ka gonne setshaba se se latlhile ⟨את⟩ metsi a Shiloakh a sepelang ka didimetse, mme a ikgantsha ka ⟨את⟩ Retshine le morwa wa Remalayahu;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מאס",
+      "gloss": "a latlhile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi a Shiloakh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "a Shiloakh"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "a sepelang"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ka didimetse"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "mme a ikgantsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retshine"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retshine"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "le morwa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "wa Remalayahu"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:38.139846797Z",
+  "model": "glm-5.3"
+}

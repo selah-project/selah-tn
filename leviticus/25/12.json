@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Gore ke Ngwaga wa Yubele, o tlaa nna o itshepile mo go lona; mo masimong lo tlaa ja ⟨את⟩ dijalo tsa wona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Ngwaga wa Yubele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke wona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "o itshepile"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o tlaa nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "masimong"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "lo tlaa ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijalo tsa wona"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dijalo tsa wona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:53.395262255Z",
+  "model": "glm-5.3"
+}

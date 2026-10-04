@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Dinoka tsa me di tlhoka monko, di a fofa, ka ntlha ya bofofu jwa me.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "di tlhoka monko"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "di a fofa"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "dinoka tsa me"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "bofofu jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:38.543556857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Moshe a amogela ⟨את⟩ dikoloi le ⟨את⟩ dikgomo, a di neya ⟨את⟩ Balevi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mme a amogela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikoloi"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "dikoloi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a di neya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "Balevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:56.642044096Z",
+  "model": "glm-5.3"
+}

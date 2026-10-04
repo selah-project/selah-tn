@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Yehue a kgarakgatshega ka koloi ya ntwa, a ya Yizrelela; gonne Yehorame o ne a robetse foo; mme Akhazia kgosi ya Yehuda a ne a tlase go ya go lebelela ⟨את⟩ Yehorame.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "a kgarakgatshega ka koloi ya ntwa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehue"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizrelela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yehorame"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "o ne a robetse"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "foo"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "mme Akhazia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a tlase"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go ya go lebelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehorame"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yehorame"
+    }
+  ],
+  "timestamp": "2026-10-03T23:36:10.172252926Z",
+  "model": "glm-5.3"
+}

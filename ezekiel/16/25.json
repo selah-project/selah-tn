@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 16:25",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Kwa tlhogo ya tsela nngwe le nngwe o agile maemo a gago a kwa godimo, mme wa nyefola ⟨את⟩ bontle jwa gago, mme wa bulela ⟨את⟩ maoto a gago go mongwe le mongwe yo o fetang, mme wa oketsa ⟨את⟩ bohule jwa gago.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nngwe le nngwe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "בנית",
+      "gloss": "wa aga"
+    },
+    {
+      "surface": "רמתך",
+      "gloss": "maemo a gago a kwa godimo"
+    },
+    {
+      "surface": "ותתעבי",
+      "gloss": "wa nyefola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bontle jwa gago"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "bontle jwa gago"
+    },
+    {
+      "surface": "ותפשקי",
+      "gloss": "wa bulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoto a gago"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "maoto a gago"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go mongwe le mongwe"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "yo o fetang"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "wa oketsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohule jwa gago"
+    },
+    {
+      "surface": "תזנתך",
+      "gloss": "bohule jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:36:30.062797770Z",
+  "model": "glm-5.3"
+}

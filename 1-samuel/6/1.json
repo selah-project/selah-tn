@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme arone ya Yahwe ya nna kwa sebakeng sa Bafilisita dikgwedi di le supa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ya nna"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arone"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwa sebakeng sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisita"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "di le supa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "dikgwedi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:08.495112881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Mo go yo o dirang dilo tse di makatsang tse dikgolo, a le esi, gore hesede ya gagwe e nna go ya le bosikhutshweng.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Mo go yo o dirang"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "dilo tse di makatsang"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tse dikgolo"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "a le esi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le bosikhutshweng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:29.961358348Z",
+  "model": "glm-5.3"
+}

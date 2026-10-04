@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme o tla go bogosi jwa kgosi ya borwa, mme a boela mo lefatsheng la gagwe.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "mme o tla"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "go bogosi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ya borwa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "mme a boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "lefatsheng la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:24:39.275170032Z",
+  "model": "glm-5.3"
+}

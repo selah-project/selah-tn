@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Go wena ke ne ke itheetse go tloga molemeng, go tloga mafuring a mme wa me wena o nthuntshile; kgodiso ya me e fitlhela kwa go wena ka bosakhutlhamo.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ke ne ke itheetse"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "go tloga molemeng"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "go tloga mafuring"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "a mme wa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "o nthuntshile"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwa go wena"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "kgodiso ya me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka bosakhutlhamo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:14.586824658Z",
+  "model": "glm-5.3"
+}

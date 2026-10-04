@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 28:5",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Ka bontsi jwa bohlwebo jwa gago, ka kgwebo ya gago o ne wa oketsa madi a gago, mme pelo ya gago ya ikakgakgatsha ka madi a gago.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ka bontsi"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "bohlwebo jwa gago"
+    },
+    {
+      "surface": "ברכלתך",
+      "gloss": "ka kgwebo ya gago"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "o ne wa oketsa"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "madi a gago"
+    },
+    {
+      "surface": "ויגבה",
+      "gloss": "ya ikakgakgatsha"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ka madi a gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:42:55.811446479Z",
+  "model": "glm-5.3"
+}

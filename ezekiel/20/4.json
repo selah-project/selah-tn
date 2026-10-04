@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "A o ba katlhola, a o ba katlhola, morwa wa motho? Dilo tse di tlhoilweng tsa borraabone di ba tlhalosetseng.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "A o katlhola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba (bagodi ba Yisraele)"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "a o ba katlhola"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tse di tlhoilweng"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "dilo tse di tlhoilweng"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "tsa borraabone"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "di ba tlhalosetseng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:39:26.016347420Z",
+  "model": "glm-5.3"
+}

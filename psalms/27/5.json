@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Gore o tlaa mphetlha mo sehubeng sa gagwe ka letsatsi la bosula, o tlaa mphetlha mo sephiring sa tenteng ya gagwe, mo lejeng o tlaa ntlhatlosa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "o tlaa mphetlha"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "mo sehubeng sa gagwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "o tlaa mphetlha"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mo sephiring sa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tenteng ya gagwe"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "mo lejeng"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "o tlaa ntlhatlosa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:26.015171824Z",
+  "model": "glm-5.3"
+}

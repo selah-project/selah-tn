@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Feta mo lefatsheng la gago jaaka Nokeng, morwadia Tarshishe; ga go na sekgapetla sa gago gape.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "feta"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "mo lefatsheng la gago"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "jaaka Nokeng"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "sekgapetla"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:20.160336367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme o tla isa ⟨את⟩ seabo sa gagwe sa boleo go Yahwe — pudi ya tonano e e nang le boitshoko go tswa mo masimeng, ka tekanyo ya gago, e le seabo sa boleo, go mogologi wa badimo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seabo sa gagwe sa boleo"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "seabo sa gagwe sa boleo"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "o tla isa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "pudi ya tonano"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e e nang le boitshoko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mo masimeng"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ka tekanyo ya gago"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "e le seabo sa boleo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mogologi wa badimo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:44.302481554Z",
+  "model": "glm-5.3"
+}

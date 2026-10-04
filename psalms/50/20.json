@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "O nna o tlhoma kgang kgatlhanong le kgaitsadio wa gago, o laola kgang kgatlhanong le morwa wa mme wa gago.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "o nna"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "kgatlhanong le kgaitsadio wa gago"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "kgatlhanong le morwa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "wa mme wa gago"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o neela"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "tshenyego ya leina"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:24.725415928Z",
+  "model": "glm-5.3"
+}

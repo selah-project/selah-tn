@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "O utlwile boikaelo jwa ba botlhofu, Yahwe; o tiisa dipelo tsa bona, o tlhoma seikose sa gago.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "boikaelo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "jwa ba botlhofu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "O utlwile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "o tiisa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dipelo tsa bona"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "o tlhoma"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "seikose sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:43.235470972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Molomo wa me o tla bua ditsela tse di itsegeng thata, le tekatekano ya pelo ya me, botlhale.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ditsela tse di itsegeng thata"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "le tekatekano ya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:19.982843315Z",
+  "model": "glm-5.3"
+}

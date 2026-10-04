@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Ke tla go ruta go tlhalefa le go go tlhagisa mo tseleng e o tlaang ka yona; ke tla go gakolola, leitlho la me le go lebile.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "ke tla go ruta go tlhalefa"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "le go go tlhagisa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "זו",
+      "gloss": "e"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "o tlaang ka yona"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ke tla go gakolola"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go go"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leitlho la me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:07.118384893Z",
+  "model": "glm-5.3"
+}

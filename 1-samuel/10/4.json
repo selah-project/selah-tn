@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "mme ba tlaa go botsha ka kagiso, mme ba go neela senkgwe se sengwe-mabedi; mme o tlaa se tsaya mo diatleng tsa bone.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ba tlaa go botsha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ka kagiso"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ba go neela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "se sengwe-mabedi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "o tlaa se tsaya"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "mo diatleng tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:35.361327479Z",
+  "model": "glm-5.3"
+}

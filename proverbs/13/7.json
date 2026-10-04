@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Go na le yo ipontshang gore o humaneng, mme a se na sepe; le yo ipontshang gore o senneng, mme o na le khumo e ntsi.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "yo ipontshang gore o humaneng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a se na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "yo ipontshang gore o senneng"
+    },
+    {
+      "surface": "והון",
+      "gloss": "khumu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e ntsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:42.378424296Z",
+  "model": "glm-5.3"
+}

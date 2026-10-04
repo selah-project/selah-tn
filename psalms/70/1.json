@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 70,
+  "translation": "Go moetapele, sa Setshaba sa Dawide, go gopotsa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moetapele"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "go gopotsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:59.985410765Z",
+  "model": "glm-5.3"
+}

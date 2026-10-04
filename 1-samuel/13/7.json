@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Bahebera ba ka bongwe ba feta ⟨את⟩ Yorodane, ba ya lefatsheng la Gada le la Gileada; mme Sause a santse a le kwa Gilgale, mme setshaba sotlhe se ne se tshogile se mo salela morago.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Mme Bahebera"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ba feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorodane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba ya lefatsheng"
+    },
+    {
+      "surface": "גד",
+      "gloss": "la Gada"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "le la Gileada"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "mme Sause"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "a santse a le"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "kwa Gilgale"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme setshaba sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "—"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "se ne se tshogile"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "se mo salela morago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:32.957415587Z",
+  "model": "glm-5.3"
+}

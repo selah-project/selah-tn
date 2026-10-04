@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Mme ba re: Yah ga a a bona, mme Elohim wa Yaakobo ga a a tlhaloganya.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "a a bona"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "a a tlhaloganya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:23.944149544Z",
+  "model": "glm-5.3"
+}

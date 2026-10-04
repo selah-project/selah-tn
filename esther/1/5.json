@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 1:5",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme fa malatsi a ja a fedile, kgosi ya dira moletlo wa matlhatso go batho botlhe ba ba neng ba fitlhelwa kwa Shushane moyeng, go tswa go mogolo go fitlha go monnye, moletlo wa malatsi a supa, kwa seraleng sa setharedi sa ntlo ya kgosi.",
+  "tokens": [
+    {
+      "surface": "ובמלואת",
+      "gloss": "fa ... a fedile"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya dira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go batho botlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ba ba neng ba fitlhelwa"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "kwa Shushane"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "moyeng"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "go tswa go mogolo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "monnye"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "moletlo wa matlhatso"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "kwa seraleng"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "sa setharedi"
+    },
+    {
+      "surface": "ביתן",
+      "gloss": "sa ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:17.680976588Z",
+  "model": "glm-5.3"
+}

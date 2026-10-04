@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 32:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme go nna le dikgomo, ditlhaka, dinku, balebedi le balebedi ba basadi; mme ke romela go tlisela kitso mo go mong wa me, gore ke tle ke batle mohau mo mesing ya gago.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go nna le"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "שור",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ditlhaka"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "balebedi"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "balebedi ba basadi"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "ke romela"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "go tlisela kitso"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mo go mong wa me"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "go batla"
+    },
+    {
+      "surface": "חן",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mo mesing ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:24:23.847601969Z",
+  "model": "glm-5.3"
+}

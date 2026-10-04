@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme masole a gagwe, le ba ba balwang ba le bone le dikete di le supa, le makgolo a mataro.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Mme masole a gagwe"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "le ba ba balwang"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ba le bone"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "le dikete di le supa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a mataro"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:54.633348585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme Khizkiyahe kgosi a tsoga kwa mosong go siea, mme a phutha ⟨את⟩ dikgosi tsa toropo, mme a tlola kwa ntlong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a tsoga kwa mosong go siea"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Khizkiyahe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "mme a phutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgosi tsa toropo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tsa toropo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mme a tlola"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kwa ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:56:09.162171380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme ke ne ka romela pele ga lona ⟨את⟩ setshwarwa, mme sa ba kgoba pele ga lona — dikosi tse pedi tsa Haemori — e seng ka tshaka ya gago, le e seng ka uta wa gago.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ke ne ka romela"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshwarwa"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "setshwarwa"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "sa ba kgoba"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "dikosi tse pedi tsa Haemori"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikosi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haemori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "ka tshaka ya gago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le e seng"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ka uta wa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:35.293949484Z",
+  "model": "glm-5.3"
+}

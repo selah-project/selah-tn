@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ⟨o⟩ re: O dirile eng? Mme mowa wa madi a kgaitsadio o go gogela kwa go nna go tswa mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mowa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "madi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "a kgaitsadio"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "go gogela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:11.251651550Z",
+  "model": "glm-5.3"
+}

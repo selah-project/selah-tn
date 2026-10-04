@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 125,
+  "translation": "Yerushalayime — dithaba di mo dikologile, mme Yahwe o dikologile setshaba sa gagwe, go tloga jaanong go fitlha go sa felle.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di mo dikologile"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "o dikologile"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "go tloga jaanong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go sa felle"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:44.479796082Z",
+  "model": "glm-5.3"
+}

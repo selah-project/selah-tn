@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme botlhale jwa Sholomone bo ne bo feta botlhale jwa bana botlhe ba botlhaba, le botlhale jotlhe jwa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "bo ne bo feta"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "jwa Sholomone"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "go feta botlhale jwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ba botlhaba"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "le botlhale jotlhe jwa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:21:37.603468447Z",
+  "model": "glm-5.3"
+}

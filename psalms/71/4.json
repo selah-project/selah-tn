@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Elohim wa me, o ntshololetse mo seatleng sa moloi, mo seatleng sa yo o fofang molao le yo o gatelelang.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "o ntshololetse"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moloi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "yo o fofang molao"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "yo o gatelelang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:32.023619086Z",
+  "model": "glm-5.3"
+}

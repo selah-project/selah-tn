@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Ya beileng moya wa rona mo botshelong, mme ya se ka ya dira maoto a rona go tlhoka.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ya beileng"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moya wa rona"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "mo botshelong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ya se ka ya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya dira"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "go tlhoka"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "maoto a rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:36.737029997Z",
+  "model": "glm-5.3"
+}

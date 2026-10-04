@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Hirame a tswa mo Tzore go ya go bona ⟨את⟩ ditoropo tse Shelomoh a neng a mo neela; mme tsa se ka tsa nna di a siamile mo matlhong a gagwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirame"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mo Tzore"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go ya go bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditoropo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neng a neela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme tsa se ka tsa"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "nna di a siamile"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mo matlhong a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:23:56.549101128Z",
+  "model": "glm-5.3"
+}

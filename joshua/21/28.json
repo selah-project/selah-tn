@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme go tswa mo morafeng wa Yisaskare: ⟨את⟩ Kishione le ⟨את⟩ mafelo a yone a boipelo, ⟨את⟩ Daberathe le ⟨את⟩ mafelo a yone a boipelo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mme go tswa mo morafeng"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaskare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishione"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishione"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a yone a boipelo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mafelo a yone a boipelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberathe"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberathe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a yone a boipelo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mafelo a yone a boipelo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:56.698868353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Yahwe Elohim ya lona o ne a mo oketsa thata, mme bona, le kajeno jaaka dinaledi tsa magodimo ka bontsi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "o ne a lo oketsa thata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona",
+      "marks": "le lona"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "mme bona, le"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "jaaka dinaledi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa magodimo"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ka bontsi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:02.282780914Z",
+  "model": "glm-5.3"
+}

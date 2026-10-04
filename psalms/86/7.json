@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Mo letsatsing lone la tlhokomorago ya me ke tla go bitsa, gore wena o ntsheditsa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "mo letsatsing"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "la tlhokomorago ya me"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ke tla go bitsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "o ntsheditsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:25.772943102Z",
+  "model": "glm-5.3"
+}

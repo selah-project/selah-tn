@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 30:20",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Adonai o tla go neela senkgwe sa kgaruru le metsi a pateletso; mme morutisi wa gago ga a na go iphitlha ga gape, mme matlo a gago a tla bona ⟨את⟩ morutisi wa gago.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "mme o tla go neela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sa kgaruru"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "le metsi"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "a pateletso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יכנף",
+      "gloss": "a na go iphitlha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ga gape"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "morutisi wa gago"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme a tla"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matlo a gago"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "a tla bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morutisi wa gago"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "morutisi wa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:54:44.611542440Z",
+  "model": "glm-5.3"
+}

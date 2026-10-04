@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Bo ile ja romela basetsana ba jone; bo a bitsa kwa mafelong a a kwa godimo a toropo.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "bo ile ja romela"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "basetsana ba jone"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "bo a bitsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "mafelong a"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "a a kwa godimo"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "toropo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:03.905665894Z",
+  "model": "glm-5.3"
+}

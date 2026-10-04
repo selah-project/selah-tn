@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme go tla nna jalo, morago ga go ba ntsha, ke tla boa, mme ke ba ikuelwe, mme ke ba busetsa, mongwe le mongwe kwa bojwaoleng jwa gagwe, le mongwe le mongwe kwa lefatsheeng la gagwe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "go tla nna jalo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "go ba ntsha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ke tla boa"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "ke ba ikuelwe"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "ke ba busetsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kwa bojwaoleng jwa gagwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le mongwe le mongwe"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "kwa lefatsheeng la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:13:27.839167248Z",
+  "model": "glm-5.3"
+}

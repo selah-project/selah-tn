@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 138,
+  "translation": "Dikgosi tsotlhe tsa lefatshe di tla go leboga, wena Yahwe, gonne di utlwile mafoko a molomo wa gago.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "di tla go leboga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Dikgosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "di utlwile"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "a molomo wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:56.992206378Z",
+  "model": "glm-5.3"
+}

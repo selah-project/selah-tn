@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 26:10",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme baeteledipele ba Yuda ba ne ba utlwa ⟨את⟩ mafoko ano, ba tlhatloga go tswa kwa ntlong ya kgosi go ya kwa ntlong ya Yahwe, mme ba dutse kwa sekhurumelong sa kgoro e ncha ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ba ne ba utlwa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "baeteledipele ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko ano"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba tlhatloga"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "go tswa kwa ntlong ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "go ya kwa ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba dutse"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "kwa sekhurumelong sa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "e ncha"
+    }
+  ],
+  "timestamp": "2026-10-04T00:17:50.765173529Z",
+  "model": "glm-5.3"
+}

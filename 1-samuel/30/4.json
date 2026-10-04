@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Dawide le setshaba se se neng se le ⟨את⟩ ene ba tlhatlosa ⟨את⟩ lentswe la bone, ba lela go fitlha ba se na maatla a go lela.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ba tlhatlosa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "le setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ se le ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la bone"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "lentswe la bone"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ba lela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "go"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba se na"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "כח",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "a go lela"
+    }
+  ],
+  "timestamp": "2026-10-03T23:07:26.255440264Z",
+  "model": "glm-5.3"
+}

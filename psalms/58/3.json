@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Ee, mo pelong le dira boshula; lefatsheng le lekanya dikgoka tsa diatla tsa lona.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mo pelong"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "boshula"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "le dira"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dikgoka"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "tsa diatla tsa lona"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "le lekanya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:20.740063837Z",
+  "model": "glm-5.3"
+}

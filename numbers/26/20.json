@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme bana ba Yudha, ka ditshaba tsa bone, ba ne e le: ga Shelae, setshaba sa ba-Shelane; ga Pereze, setshaba sa ba-Pereze; ga Zeraḥe, setshaba sa ba-Zeraḥe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ne e le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka ditshaba tsa bone"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "ga Shelae"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "setshaba sa"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "ba-Shelane"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "ga Pereze"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "setshaba sa"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "ba-Pereze"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "ga Zeraḥe"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "setshaba sa"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ba-Zeraḥe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:14:21.418254966Z",
+  "model": "glm-5.3"
+}

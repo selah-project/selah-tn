@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Yo o romelang lefoko la gagwe lefatshe ka bophara; lefoko la gagwe le a taboga ka bonako.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "yo o romelang"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "lefoko la gagwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe ka bophara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka bophara"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ka bonako"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "le a taboga"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lefoko la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:08.329436416Z",
+  "model": "glm-5.3"
+}

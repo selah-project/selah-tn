@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Fa motho a ka fula kgonthe kana seretse, a romela ⟨את⟩ phologolo, e fula kgontheng ya mongwe, o tla duela ka se se gaisang mo kgontheng ya gagwe le ka se se gaisang mo seretseng sa gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "a ka fula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kgonthe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "seretse"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phologolo"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "e fula"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mo kgontheng"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ya mongwe"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "ka se se gaisang"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "kgonthe ya gagwe"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "le ka se se gaisang"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "seretse sa gagwe"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla duela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:38.846544852Z",
+  "model": "glm-5.3"
+}

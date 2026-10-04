@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Pelo ya mosuwe e ikhakgola mme ga e na sepe, mme pelo ya ba boiteko e tla nona.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "e ikhakgola"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga e na sepe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "pelo ya"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "mosuwe"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "mme pelo ya"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "ba boiteko"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "e tla nona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:46:44.424374146Z",
+  "model": "glm-5.3"
+}

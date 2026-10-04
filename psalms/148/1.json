@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Bakang Yah, bakang ⟨את⟩ Yahwe go tswa kwa magodimong, mo baakanyeng ba mo tlotle kwa godimo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Bakang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bakang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mo baakanyeng ba mo tlotle"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "kwa godimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:07.580985721Z",
+  "model": "glm-5.3"
+}

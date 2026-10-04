@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Gore ba ne ba rulagantse bosula kgatlhanong le wena; ba akantše morero o o sa siamang, mme ba ka ke ba kgona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ba ne ba rulagantse"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kgatlhanong le wena"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ba akantše"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "morero o o sa siamang"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba ka ke ba"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "kgona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:25.488945777Z",
+  "model": "glm-5.3"
+}

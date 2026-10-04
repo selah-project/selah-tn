@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ⟨Farao⟩ a re go bone: a nne jalo Yahwe le lona, jaaka ke tla lo romola lona le bana ba lona ba bannye; le bone, gore boshetse bo le fa pele ga difatlhego tsa lona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "a nne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ke tla lo romola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ le",
+      "marks": "bana ba lona ba bannye"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "bana ba lona ba bannye"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "boshetse"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "difatlhego tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:14.097758180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme o e phuthe ka gauta e e phatswa, mme o dire sekanne sa gauta se dikologa.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "o e phuthe ka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "gauta e e phatswa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e phatswa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go e"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sekanne"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "se dikologa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:03.902124686Z",
+  "model": "glm-5.3"
+}

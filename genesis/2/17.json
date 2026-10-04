@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme wa setlhare sa kitso ya molemo le bosula, o se ka wa ja go tswa go sone; gonne ka letshwai le o tla ka jang go tswa go sone, o tla swa ka tlhogang.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "Mme wa setlhare sa"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "kitso ya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "le bosula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wa ja"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa go sone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letshwai le"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "le o tla ka jang"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa go sone"
+    },
+    {
+      "surface": "מות",
+      "gloss": "o tla swa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ka tlhogang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:36.055163856Z",
+  "model": "glm-5.3"
+}

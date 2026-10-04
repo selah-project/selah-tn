@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme ba mo bona ⟨את⟩ kwa kgakala, mme a sa tsamaisa le go mo atamela thata, ba mo rulaganya ⟨את⟩ gore ba mo bolaye.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Yosefe — mo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kwa kgakala"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "mme pele ga"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "go atamela"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "ba mo rulaganya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "gore ba mo bolaye"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "gore ba mo bolaye"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:11.846067472Z",
+  "model": "glm-5.3"
+}

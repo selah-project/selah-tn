@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme senkgwe sa Solomone sa letsatsi le lesha e ne e le dikori di le masome a mararo tsa seje se se phepa le dikori di le masome a marataro tsa mouomane.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme ... e ne e le"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "sa Solomone"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa letsatsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le lesha"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "di le masome a mararo"
+    },
+    {
+      "surface": "כר",
+      "gloss": "dikori"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tsa seje se se phepa"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "le di le masome a marataro"
+    },
+    {
+      "surface": "כר",
+      "gloss": "dikori"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "tsa mouomane"
+    }
+  ],
+  "timestamp": "2026-10-03T23:23:12.041197097Z",
+  "model": "glm-5.3"
+}

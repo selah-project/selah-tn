@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme o ne o fa ⟨את⟩ setshaba sa gago Yisraele go nna setshaba sa gago go ya ileile; mme wena Yahwe o ne o nna Elohim wa bone.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "mme o ne o fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sa gago Yisraele"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa gago"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "go nna setshaba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ileile"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o ne o nna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wa bone"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T02:41:43.630381344Z",
+  "model": "glm-5.3"
+}

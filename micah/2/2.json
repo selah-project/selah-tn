@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ba nyanya masimo, ba a gaska; le dikago, ba a tsaya; ba gateka monna le ntlo ya gagwe, motho le boswa jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "ba nyanya"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "masimo"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "ba a gaska"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "le dikago"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "ba a tsaya"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "ba gateka"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "le ntlo ya gagwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le motho"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "le boswa jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:02:23.047465481Z",
+  "model": "glm-5.3"
+}

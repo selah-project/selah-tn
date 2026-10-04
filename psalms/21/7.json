@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Gore o mo beile masego ka bosakhutshelo; o mo ntokafatsa ka thabo ya ⟨את⟩ sefatlhego sa gago.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "o mo beile"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "masego"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ka bosakhutshelo"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "o mo ntokafatsa"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka thabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefatlhego sa gago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:04.725794207Z",
+  "model": "glm-5.3"
+}

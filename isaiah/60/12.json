@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Gore setshaba le bogosi tse di sa go direleng di tlaa nyamela; mme ditshaba tseo di tlaa bosoga, di bosoga ka botlalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "le bogosi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "di sa"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "go direle"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "di tlaa nyamela"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "mme ditshaba"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "di bosoga"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "di bosoga ka botlalo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:04:01.465888716Z",
+  "model": "glm-5.3"
+}

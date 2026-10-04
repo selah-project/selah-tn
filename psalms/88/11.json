@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "A kwa go ba ba swang o ka dira dilo tse di makatsang? A Refaime ba ka tswa ba go rorisa? Seleh.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "a kwa go ba ba swang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o ka dira"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "dilo tse di makatsang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaime"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ba ka tswa"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ba go rorisa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seleh"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:05.408228937Z",
+  "model": "glm-5.3"
+}

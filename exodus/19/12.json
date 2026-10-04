@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme o beele setshaba ⟨את⟩ molelwane ka mafela, o re: Ipaakanyetsang go ya kwa godimo ga thaba, le go kgoma molelwane wa yone; mongwe le mongwe yo o e kgomang — o tla bolawa a tlhokafala.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "o beele molelwane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka mafela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Ipaakanyetsang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lo ikanyetsa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "go ya kwa godimo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ga thaba"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "le go kgoma"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "molelwane wa yone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yo o e kgomang"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a tlhokafala"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tla bolawa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:55.426067123Z",
+  "model": "glm-5.3"
+}

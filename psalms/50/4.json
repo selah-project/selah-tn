@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "O bitsa magodimo a kwa godimo, le lefatshe, go atlholopa sechaba sa gagwe.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "o bitsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "a kwa godimo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "go atlholopa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sechaba sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:58.810457546Z",
+  "model": "glm-5.3"
+}

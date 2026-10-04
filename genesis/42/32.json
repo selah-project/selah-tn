@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "ke barwa ba rona ba le lesome le bobedi, ba morwa wa rona; mongwe ga eseng o teng, mme yo monnyane gompieno o na le ⟨את⟩ rre kwa lefatsheng la Kenaane.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "le bobedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "rre"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mongwe"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ga eseng o teng"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "mme yo monnyane"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rre"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "rre"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatsheng la"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaane"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:42.837964832Z",
+  "model": "glm-5.3"
+}

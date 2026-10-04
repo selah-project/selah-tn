@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme mahlo a ba ba bonang a se ke a fifala, mme ditsebe tsa ba ba reeditseng di tla reetsa ka tlhokomelo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ... a se ke"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "a fifala"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "a ba ba bonang"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "mme ditsebe"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "tsa ba ba reeditseng"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "di tla reetsa ka tlhokomelo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:53:06.475687325Z",
+  "model": "glm-5.3"
+}

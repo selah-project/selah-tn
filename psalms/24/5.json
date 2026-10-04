@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "O tla amogela mohau go tswa go ⟨את⟩ Yahwe, le tsedeko go tswa go Elohim wa ✨tokoloho ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "o tla amogela"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "go tswa go Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "le tsedeko"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "go tswa go Elohim wa"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "tokoloho ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:09.820730372Z",
+  "model": "glm-5.3"
+}

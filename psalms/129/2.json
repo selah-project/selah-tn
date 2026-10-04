@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 129,
+  "translation": "Makgetlha a mantsi ba nnatile go tloga bonyaneng jwa me, mme ga ba ka ke ba atla kgatlhanong le me.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Makgetlha a mantsi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ba nnatile"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "go tloga bonyaneng jwa me"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ba ka ke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba atla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kgatlhanong le me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:00.792546952Z",
+  "model": "glm-5.3"
+}

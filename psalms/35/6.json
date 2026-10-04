@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Tsela ya bone e nne lefifi le mokwatlwatlo, mme morwarre wa Yahwe a ba segofatsa.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "e nne"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "tsela ya bone"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "mme mokwatlwatlo"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "mme morwarre wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "a ba segofatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:32.611387281Z",
+  "model": "glm-5.3"
+}

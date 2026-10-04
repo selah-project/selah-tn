@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Ka nako e khutshwane setshaba sa boitshepo jwa gao se ne se sena ⟨⟨את⟩⟩ lefatshe; ba ba re tlhobileng ba epola mangoko boitshepong jwa gao.",
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "Ka nako e khutshwane"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "se ne se sena ⟨את⟩ lefatshe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sa boitshepo jwa gao"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ba ba re tlhobileng"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "ba epola mangoko"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "boitshepong jwa gao"
+    }
+  ],
+  "timestamp": "2026-10-04T00:03:15.439024958Z",
+  "model": "glm-5.3"
+}

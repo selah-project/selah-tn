@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "E seng fa dikgoseng, Lemuwele, e seng fa dikgoseng go nwa beine, le fa bajalefa go batla sekgowa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "E seng"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "fa dikgoseng"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuwele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "fa dikgoseng"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "go nwa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "beine"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "le fa bajalefa"
+    },
+    {
+      "surface": "או",
+      "gloss": "go batla"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sekgowa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:53:01.159913905Z",
+  "model": "glm-5.3"
+}

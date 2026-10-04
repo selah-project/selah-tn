@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme ba feta ⟨את⟩ Yoredene, ba nna kwa Aroere, mo letlhakoreng la moja la toropo e e mo teng ga mola wa Gade, mme ba ya kwa Yeazere.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "Mme ba feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "kwa Aroere"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "moja"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "mola"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ba ya kwa"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yeazere"
+    }
+  ],
+  "timestamp": "2026-10-04T03:09:22.017537548Z",
+  "model": "glm-5.3"
+}

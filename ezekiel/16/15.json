@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 16:15",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme wa tshepa bontle jwa gago, wa dira boaka ka leina la gago, mme wa nokela ⟨את⟩ boaka jwa gago mo go mongwe le mongwe yo o neng a feta; o ne a nna wa gagamodi.",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "wa tshepa"
+    },
+    {
+      "surface": "ביפיך",
+      "gloss": "bontle jwa gago"
+    },
+    {
+      "surface": "ותזני",
+      "gloss": "wa dira boaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "ותשפכי",
+      "gloss": "wa nokela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boaka jwa gago"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "boaka jwa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "yo o fetsang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa gagamodi"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "o ne a nna"
+    }
+  ],
+  "timestamp": "2026-10-04T00:36:41.855225478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "le ⟨את⟩ sekgaharelwana sa matlana a dipoo tse di fidilweng ka bophara, le ⟨את⟩ sekgaharelwana sa matlana a takhashishi, le ⟨את⟩ perekota ya segwagwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekgaharelwana sa matlana a dipoo tse di fidilweng ka bophara"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "sekgaharelwana"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "matlana a"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "dipoo"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "tse di fidilweng ka bophara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekgaharelwana sa matlana a takhashishi"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "sekgaharelwana"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "matlana a"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "takhashishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "perekota ya segwagwa"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perekota"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ya segwagwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:27.700166070Z",
+  "model": "glm-5.3"
+}

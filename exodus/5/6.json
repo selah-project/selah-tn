@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Paroh a laela ka letsatsi leo ⟨את⟩ baperekisi ba setjhaba le ⟨את⟩ balaodi ba gagwe, a re:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baperekisi ba setjhaba"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "baperekisi"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ba setjhaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "balaodi ba gagwe"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "balaodi ba gagwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:49.712214743Z",
+  "model": "glm-5.3"
+}

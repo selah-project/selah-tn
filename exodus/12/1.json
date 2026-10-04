@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Yahwe a bua le Moshe le le Aharone kwa lefatsheng la Mitsrayime, a re:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:46.645793336Z",
+  "model": "glm-5.3"
+}

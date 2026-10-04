@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme ba kokoanya ⟨את⟩ yone moso ka moso, motho yo mongwe le yo mongwe go ya ka selekanyo sa go ja ga gagwe; mme fa letsatsi le ne le baka, e ne ya topa.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "ba kokoanya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yone (senkgwe se, manna)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "go ya ka selekanyo"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sa go ja ga gagwe"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "mme fa letsatsi le ne le baka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "e ne ya topa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:00.108337830Z",
+  "model": "glm-5.3"
+}

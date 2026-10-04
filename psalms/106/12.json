@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme ba dumela mafoko a gagwe, ba opela tero ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "mme ba dumela"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "mafoko a gagwe"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ba opela"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tero ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:40.660035548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Tse thataro tsa maina a bone mo lejeng le le lengwe, le ⟨את⟩ maina a thataro a a setseng mo lejeng la bobedi, go ya ka matsalo a bone.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "tse thataro"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "tsa maina a bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "lejeng"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "le le lengwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "maina a thataro"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina a"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "thataro"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "a a setseng"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "lejeng"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "go ya ka matsalo a bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:56.625618454Z",
+  "model": "glm-5.3"
+}

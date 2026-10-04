@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ⟨את⟩ Izevele dikgote di tla a ja mo seraleng sa Yizreele, mme go se na ope wa go mo bolokela mo mokolong. Mme a bula ⟨את⟩ lebati, mme a taboga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Izevele"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevele"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tla a ja"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dikgote"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "mo seraleng"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreele"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme go se na ope"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "wa go bolokela mo mokolong"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "mme a bula"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "lebati"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "mme a taboga"
+    }
+  ],
+  "timestamp": "2026-10-03T23:35:42.027940348Z",
+  "model": "glm-5.3"
+}

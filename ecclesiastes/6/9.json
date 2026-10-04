@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Go bona ga matlhlo go gaisa go tsamaya ga botshelo; gape se ke hebele le go tlhakatlhakana ga ruakh.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go gaisa"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "matlhlo"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebele"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "le go tlhakatlhakana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:01.839195908Z",
+  "model": "glm-5.3"
+}

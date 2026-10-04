@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 67,
+  "translation": "Go moetapele, ka dithiine tsa mmino. Sefoko sa mmino, koša.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moetapele"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ka dithiine tsa mmino"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sefoko sa mmino"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "koša"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:22.719769386Z",
+  "model": "glm-5.3"
+}

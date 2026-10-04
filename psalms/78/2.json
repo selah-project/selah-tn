@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Ke tla bula molomo wa me ka piana; ke tla tlatsa diphiri tsa bogologolo.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ke tla bula"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "ka piana"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ke tla tlatsa"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "diphiri"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bogologolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:43.268669209Z",
+  "model": "glm-5.3"
+}

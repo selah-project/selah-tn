@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Dawide ga a a batla go epolola kwa go ene ⟨את⟩ areko ya Yahwe go ya kgorong ya Dawide; mme Dawide a eabela ntlong ya Obede-Edome wa Mogati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ga ... a"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "batla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "go epolola"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "areko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "areko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "a eabela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obede-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "wa Mogati"
+    }
+  ],
+  "timestamp": "2026-10-03T23:09:55.136549048Z",
+  "model": "glm-5.3"
+}

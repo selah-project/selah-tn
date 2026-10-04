@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Dikgosi tsa lefatshe, le baagi botlhe ba lefatshe, ga ba ka ba dumela gore moeradipuso le mogoka ba ka tsena ka dikgoro tsa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga ba ka ba"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "dumela"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le baagi botlhe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baagi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ba ka tsena"
+    },
+    {
+      "surface": "צר",
+      "gloss": "moeradipuso"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "le mogoka"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "ka dikgoro"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "tsa Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:11:03.308477574Z",
+  "model": "glm-5.3"
+}

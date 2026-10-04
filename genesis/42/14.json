@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme Yosefe a ba re: Se ke sone se ke neng ke se bua le lona ke re: Lona le maphodisa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se ke sone"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke bua"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ke re"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "maphodisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona le"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:07.016607330Z",
+  "model": "glm-5.3"
+}

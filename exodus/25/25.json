@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme o direla yone sekgala sa tlhako ya letsogo go dikologa, mme o dire sekhurumelo sa gauta go sekgala sa yone sa tlhako sa go dikologa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yone"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "sekgala"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "tlhako ya letsogo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sekhurumelo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "go sekgala sa yone"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:21.213428458Z",
+  "model": "glm-5.3"
+}

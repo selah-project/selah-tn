@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme wena, Yahwe, se o tsamaye o kgakala; maatla a me, o tle ka bonako go nthusа.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "o tsamaye o kgakala"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "maatla a me"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "go nthusа"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ka bonako"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:00.400957621Z",
+  "model": "glm-5.3"
+}

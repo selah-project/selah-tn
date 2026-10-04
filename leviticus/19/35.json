@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "O se ka wa dira boshwa mo katlholong, mo go kanyeng, mo bohekeleng le mo go kanyeng metsi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dira"
+    },
+    {
+      "surface": "עול",
+      "gloss": "boshwa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mo katlholong"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "mo go kanyeng"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "mo bohekeleng"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "le mo go kanyeng metsi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:04:13.595055395Z",
+  "model": "glm-5.3"
+}

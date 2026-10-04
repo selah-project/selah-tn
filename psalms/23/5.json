@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "O rulaganya tafole fa pele ga me, go lebane le ba ba mo tlhoyang; o ntshikinya tlhogo ka mafura; kompo ya me e a tlala.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "o rulaganya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "go lebane le"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "o ntshikinya"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kompo ya me"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "e a tlala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:20.116771670Z",
+  "model": "glm-5.3"
+}

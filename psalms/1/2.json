@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme thabo ya gagwe ke mo Toreng ya Yahwe, mme mo Toreng ya gagwe o bontsha ka tsela ya go e buelela ka teng mosele le bosegile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "thabo ya gagwe"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "mo Toreng ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "mo Toreng ya gagwe"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "o bontsha ka tsela ya go e buelela ka teng"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mosele"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bosegile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:44.509080511Z",
+  "model": "glm-5.3"
+}

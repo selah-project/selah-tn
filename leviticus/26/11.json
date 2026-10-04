@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme ke tlaa bewa ⟨את⟩ Mishkane ya me mahareng ga lona, mme pelo ya me e tlaa se ke wa nyatlha ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tlaa bewa"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishkane ya me"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mahareng ga lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme... e tlaa se ke wa"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "nyatlha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:05.554004988Z",
+  "model": "glm-5.3"
+}

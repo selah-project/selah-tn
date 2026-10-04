@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Reetsang, lwa magodimo, mme o theeletse, lefatshe, gonne Yahwe o buile: bana ba godisitse, ba tlhotlheleditse, mme bona ba tsuologile kgatlhanong le nna.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Reetsang"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "lwa magodimo"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "mme o theeletse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ba godisitse"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "ba tlhotlheleditse"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ba tsuologile"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kgatlhanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:03.586755735Z",
+  "model": "glm-5.3"
+}

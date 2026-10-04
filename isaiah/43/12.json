@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Ke nna ke boaela, mme ke boloka, mme ke boaela; mme go seng ka lona ga go Modimo wa sele. Mme lena baki ba me, go bua Yahwe, mme ke nna El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ke boaela"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "mme ke boloka"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "mme ke boaela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wa sele"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lena"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "baki ba me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme ke nna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:04.750000002Z",
+  "model": "glm-5.3"
+}

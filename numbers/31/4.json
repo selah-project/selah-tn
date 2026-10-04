@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Sekgolo go lekgotla lengwe le le lengwe, sekgolo go lekgotla lengwe le le lengwe, go dikgotla tsotlhe tsa Yisraele, tsietsa go ya motsolong.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "Sekgolo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "go lekgotla lengwe le le lengwe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekgolo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "go lekgotla lengwe le le lengwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go tsotlhe"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "dikgotla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "tsietsa"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "go ya motsolong"
+    }
+  ],
+  "timestamp": "2026-10-03T22:17:38.803071271Z",
+  "model": "glm-5.3"
+}

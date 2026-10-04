@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "O se ka wa tlhopoloha ka ruakha ya gago go tsuologa; gonne bosutu bo ikhutsa mo boseatleng ba maswapi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ka"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "wa tlhopoloha"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ka ruakha ya gago"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "go tsuologa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "bosutu"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "mo boseatleng"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ba maswapi"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "bo ikhutsa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:23.765234555Z",
+  "model": "glm-5.3"
+}

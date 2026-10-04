@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Go moeteleleding. Pesaleme ya Dawide. Yahwe, o ntlolotlitse mme o nthatile.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteleleding"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pesaleme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "o ntlolotlitse"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "mme o nthatile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:35.581093819Z",
+  "model": "glm-5.3"
+}

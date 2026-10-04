@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "mme o re: Go bua kgosi jaana: Bayang ⟨את⟩ mona mo ntlong ya kgolego, mme mo feng senkgwe sa phegelo le metsi a phegelo, go fitlha nka boa ka kagiso.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "mme o re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jaana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Bayang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "ya kgolego"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "mme mo feng"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "sa phegelo"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "le metsi"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "a phegelo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "באי",
+      "gloss": "nka boa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ka kagiso"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:10.402635069Z",
+  "model": "glm-5.3"
+}

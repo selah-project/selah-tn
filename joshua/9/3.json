@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme baagi ba Gibeone ba utlwa ⟨את⟩ se Yehoshua a se dirileng go Yerikho le go Ayi.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Mme baagi ba"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeone"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ba utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se Yehoshua a se dirileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se dirileng"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "go Yerikho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "le go Ayi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:38:04.669320075Z",
+  "model": "glm-5.3"
+}

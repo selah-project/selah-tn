@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Gore ke ne ke tlhoya ba ba ikakantseng, ge ke ne ke bona kagiso ya ba ba molato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ke ne ke tlhoya"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "ba ba ikakantseng"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba molato"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ke bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:16.755835443Z",
+  "model": "glm-5.3"
+}

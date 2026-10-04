@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mafura a bone a ba kwaleditse; molomo wa bone o buile ka boikgogomoso.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "mafura a bone"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "a ba kwaleditse"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "molomo wa bone"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ka boikgogomoso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:00.901341410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Letsatsi la sekalelo sa phemelo, kgatlhanong le diporofase tse di sireletsegileng le kgatlhanong le dikhamera tse di kwa godimo.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "la sekalelo"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "sa phemelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "diporofase"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "tse di sireletsegileng"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le kgatlhanong le"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "dikhamera"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "tse di kwa godimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:05:27.473026114Z",
+  "model": "glm-5.3"
+}

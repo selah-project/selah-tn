@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ela sefako mo molomong wa gago; jaaka lenong ⟨⟨he⟩⟩ o tsamaisa ntlo ya Yahwe, mme ba tlola kgolagano ya me, le kgatlhanong le Torah ya me ba tsuologa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ela"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "mo molomong wa gago"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "sefako"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "jaaka lenong"
+    },
+    {
+      "surface": "על",
+      "gloss": "o tsamaisa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "mme"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ba tlola"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le kgatlhanong le"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ya me"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ba tsuologa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:24.191667850Z",
+  "model": "glm-5.3"
+}

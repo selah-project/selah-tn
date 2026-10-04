@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Ka ntlha ya me, ka ntlha ya me, ke tlaa se dira; ke ka reng ⟨ke⟩ ka rapelelwa? Mme kgalalelo ya me ga ke e neele ⟨mo⟩ yo mongwe.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "ka ntlha ya me"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "ka ntlha ya me"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tlaa se dira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke ka reng"
+    },
+    {
+      "surface": "איך",
+      "gloss": "⟨ka reng⟩"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "ka rapelelwa"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "mme kgalalelo ya me"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "mo yo mongwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke e neele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:59.267231895Z",
+  "model": "glm-5.3"
+}

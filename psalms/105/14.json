@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Ga a letlelle motho go ba sotla, mme a ganaela dikgosi ka ntlha ya bone.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "a letlelle"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "go ba sotla"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "mme a ganaela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka ntlha ya bone"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:39.285866971Z",
+  "model": "glm-5.3"
+}

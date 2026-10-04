@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Merajote a belegatsa ⟨את⟩ Amarja, mme Amarja a belegatsa ⟨את⟩ Ahitube.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajote"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a belegatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarja"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarja"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "mme Amarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a belegatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahitube"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitube"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:29.228397744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Yehoshua a utlwa ⟨את⟩ modumo wa setshaba fa ba ne ba goga, a riala go Moshe: Ga se ⟨is⟩ kwantle — modumo wa ntwa o kwa khampeng.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "fa ba ne ba goga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a riala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "mo khampeng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:13.746376161Z",
+  "model": "glm-5.3"
+}

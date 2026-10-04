@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Mme a re go nna: Mmaidifi wa me ke wena, Yisraele, yo ka ene ke tla iketla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Mmaidifi wa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ke wena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka ene"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ke tla iketla"
+    }
+  ],
+  "timestamp": "2026-10-04T00:00:23.836535186Z",
+  "model": "glm-5.3"
+}

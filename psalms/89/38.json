@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Jaaka ngwedi ⟨e tla⟩ tlhomama go ya leruri, mme paki mo marung e tshepahala. Selaha.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "jaaka ngwedi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "e tla tlhomama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go ya leruri"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme paki"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "mo marung"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "e tshepahala"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:20.810133003Z",
+  "model": "glm-5.3"
+}

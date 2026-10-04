@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme setshwano sa sefathego sa bone, sefathego sa motho; mme sefathego sa tau mo letlhakoreng la moja go ba bane; mme sefathego sa tonki mo letlhakoreng la molema go ba bane; mme sefathego sa lenong go ba bane.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "mme setshwano sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "sefathego sa bone"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "mme sefathego sa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "letlhakoreng la moja"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "go ba bane"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "mme sefathego sa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "tonki"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "mo letlhakoreng la molema"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "go ba bane"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "mme sefathego sa"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "lenong"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "go ba bane"
+    }
+  ],
+  "timestamp": "2026-10-04T00:30:31.235032161Z",
+  "model": "glm-5.3"
+}

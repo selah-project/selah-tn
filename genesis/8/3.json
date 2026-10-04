@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme metsi a boa a tswa mo lefatsheng, a tsamaya a boa; mme metsi a fokotsega ka bokhutlo jwa malatsi a le lekgolo le masome a matlhano.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "a boa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "a tswa mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "a boa"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "a fokotsega"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ka bokhutlo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masome a matlhano"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le lekgolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "malatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:05.567609319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme a re go sechaba sa gagwe: Bonang, sechaba sa bana ba Yisraele se ntsi mme se nonofile go feta rona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sechaba sa gagwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "רב",
+      "gloss": "se ntsi"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "mme se nonofile"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go feta rona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:49.609834354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme kgosi ya Yisraele a re go badiredi ba gagwe: A ga lo itse gore Ramote ya Gilataro ke ya rona, mme re didimetse, re sa e tsaya mo seatleng sa kgosi ya Arame?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "badiredi ba gagwe"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "a ga lo itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ke ya rona"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramote"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Gilataro"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mme re"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "didimetse"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "re sa e tsaya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (Ramote ya Gilataro)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:17.676240530Z",
+  "model": "glm-5.3"
+}

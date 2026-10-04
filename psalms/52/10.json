@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Mme nna, ke tshwana le murele o montala mo ntlong ya Elohim; ke ikanye mo hesedeng ya Elohim, ka bosakhutshweng le go feta.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "ke tshwana le murele"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "o montala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke ikanye"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "mo hesedeng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka bosakhutshweng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go feta"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:18.057316770Z",
+  "model": "glm-5.3"
+}

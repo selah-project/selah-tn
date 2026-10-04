@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Gonne jaaka a kanoka ka moyo wa gagwe, bontsho jwa gagwe ke jalo; 'Ja, nou,' o tla a go re, mme pelo ya gagwe ga e na le wena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "שער",
+      "gloss": "a kanoka"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ka moyo wa gagwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bontsho jwa gagwe ke jwa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o tla a re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "mme pelo ya gagwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga e"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na le wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:50:12.341648231Z",
+  "model": "glm-5.3"
+}

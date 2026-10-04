@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "A o ka bolaya, Eloha, yo o bosula — mme batho ba madi, tlogang go nna!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "A"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "o ka bolaya"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo o bosula"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "mme batho ba"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "tlogang"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:04.522160377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme Yahwe o ne a nna le ⟨את⟩ Yosefe, a neelang hesede mo go ene, mme a mo neela kgodumo mo ditshegong tsa mookamedi wa kgolegelo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o ne a nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le (Yosefe)"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a neelang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "kgodumo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo ditshegong"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa legae"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "kgolegelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:49.977014096Z",
+  "model": "glm-5.3"
+}

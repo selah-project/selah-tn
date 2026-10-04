@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Ditlhaba tse dintsi di le mo\/molatohi, mme yo a ikanelang go Yahwe, hesede lo a mo dikologa.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "tse dintsi"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "Ditlhaba"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "mo\/molatohi"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "mme yo a ikanelang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "lo a mo dikologa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:18.511788376Z",
+  "model": "glm-5.3"
+}

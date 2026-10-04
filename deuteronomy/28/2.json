@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme melaetsa e mentshwa yotlhe e tla tla go go fitlhela, le go go thapa, gonne o reetsa modumong wa Yahwe Elohim ya gago.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "mme e tla tla"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go go fitlhela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "melaetsa e mentshwa e"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "le go go thapa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o reetsa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "modumong wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:45.008653538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 31:52",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Molaki ke mogala o, molaki le pilara: fa nna ga ke fete mogala o go ya go wena, mme fa wena o se ke wa feta ⟨את⟩ mogala o le ⟨את⟩ pilara e go ya go nna ka boleo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Molaki"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "mogala"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "molaki le"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "pilara"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ke fete"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go ya go wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogala o"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "mogala"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "wa feta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go ya go nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogala o"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "mogala"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "pilara e"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "pilara"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "ka boleo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:24:38.835039146Z",
+  "model": "glm-5.3"
+}

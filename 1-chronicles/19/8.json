@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Dawide a utlwa, a romela ⟨את⟩ Yoabe le ⟨את⟩ masole otlhe a bagale.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoabe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masole otlhe a bagale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "masole"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "a bagale"
+    }
+  ],
+  "timestamp": "2026-10-04T02:42:34.677667563Z",
+  "model": "glm-5.3"
+}

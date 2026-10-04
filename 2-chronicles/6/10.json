@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 6:10",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Yahwe o tlhotlheletse ⟨את⟩ lefoko la gagwe a le buile, mme nna ke ne ke eme mo boemong jwa Dawide rraagwe, ke bo ke tlhoma sebele kgorong ya Yisraele, jaaka Yahwe a buile, mme ke ne ka aga ⟨את⟩ ntlo go leina la Yahwe, Elohim wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "o tlhotlheletse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko la gagwe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lefoko la gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "buile"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "ke ne ke eme"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "ke bo ke tlhoma"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kgorong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ka aga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "go leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:09.686495300Z",
+  "model": "glm-5.3"
+}

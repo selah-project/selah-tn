@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme go tswa mo setshabeng sa Dane: ⟨את⟩ Elteke le ⟨את⟩ mabala a yone, ⟨את⟩ Gibethone le ⟨את⟩ mabala a yone;",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mme go tswa mo setshabeng sa"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elteke"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a yone"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a yone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibethone"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibethone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a yone"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a yone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:27.857163471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Ka nnete o tlhaseletse ⟨את⟩ Edome, mme pelo ya gago e go tlhatlhobeditse; iketle ka boiketlo, o nne mo ntlong ya gago; mme ke ka ntlha yang o itlhabela kotsi ka bosula, gore o we, wena, le Yehuda le wena?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Ka nnete"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "o tlhaseletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edome"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "mme e go tlhatlhobeditse"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "iketle ka boiketlo"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "o nne"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mo ntlong ya gago"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mme ke ka ntlha yang"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "o itlhabela kotsi"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ka bosula"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "gore o we"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T23:37:48.377048703Z",
+  "model": "glm-5.3"
+}

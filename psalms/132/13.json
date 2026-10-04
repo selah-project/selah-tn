@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "Gore Yahwe o tlhophile Tsiyone; o e laketse gore e nne bonno jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "o tlhophile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "o e laketse"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "bonno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:28.099073181Z",
+  "model": "glm-5.3"
+}

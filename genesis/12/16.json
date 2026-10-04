@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ba ne ba siamisa Abrahame ka ntlha ya yone; mme o ne a nna le dinku, dikgomo, ditonki, makgoba a banna le a basadi, ditonki tsa namagadi, le dikamela.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "Mme ba ne ba siamisa Abrahame"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ba siamisa"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "ka ntlha ya yone"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme o ne a nna le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ditonki"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "makgoba a banna"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "le makgoba a basadi"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "ditonki tsa namagadi"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "le dikamela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:34.827922241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme ke tla romela mo go lona ⟨את⟩ diphoofolo tsa naga, di tla lo senya bana, di tla fedisa ⟨את⟩ diphoofolo tsa lona, di tla lo fokotsa, mme ditsela tsa lona di tla nna maholo.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Mme ke tla romela"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphoofolo tsa naga"
+    },
+    {
+      "surface": "חית",
+      "gloss": "diphoofolo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tsa naga"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "di tla lo senya bana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "di tla lo senya bana"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "di tla fedisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphoofolo tsa lona"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "diphoofolo tsa lona"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "di tla lo fokotsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "di tla lo fokotsa"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "di tla nna maholo"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ditsela tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:05:12.673537053Z",
+  "model": "glm-5.3"
+}

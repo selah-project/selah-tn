@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o tsea ⟨את⟩ diaparo, mme o apesa ⟨את⟩ Aharone ka ⟨את⟩ kutone, le ⟨את⟩ meila ya efode, le ⟨את⟩ efode, le ⟨את⟩ khoshene; mme o mo gokaganya ka thapo ya efode.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tsea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "mme o apesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutone"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kutone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "meila"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya efode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "khoshene"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "mme o mo gokaganya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ka thapo ya"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efode"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:28.704671389Z",
+  "model": "glm-5.3"
+}

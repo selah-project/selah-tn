@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 24:23",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme go fitlha ngwaga o khutla, sesole sa Arame se ne se tlhatloga kgahlanong le ene, mme se tsena kwa Yehuda le kwa Yerushalayime, se senya ⟨את⟩ ditlhogo tsotlhe tsa setshaba go tswa mo go bone, mme diwatla tsotlhe tsa bone di romela kgosing ya Darmasheke.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go fitlha"
+    },
+    {
+      "surface": "לתקופת",
+      "gloss": "ngwaga o khutla"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "se tlhatloga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kgahlanong le ene"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sa Arame"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mme se tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le kwa Yerushalayime"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "se senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhogo tsotlhe tsa setshaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ditlhogo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tsa setshaba"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "go tswa mo go bone"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ... tsotlhe"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "diwatla tsa bone"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "di romela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kgosing ya"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "Darmasheke"
+    }
+  ],
+  "timestamp": "2026-10-04T02:56:01.423531747Z",
+  "model": "glm-5.3"
+}

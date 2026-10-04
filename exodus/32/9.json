@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Yahwe a re go Moshe: Ke bone ⟨את⟩ setshaba seno, mme bonwe, setshaba se se nang mogala o o thata ke sone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba seno"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "seno"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "o o thata"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "mogala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke sone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:09.171366486Z",
+  "model": "glm-5.3"
+}

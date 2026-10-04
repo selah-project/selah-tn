@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 122,
+  "translation": "Gore koo dikgosi tsa merafe di neng di lebile, dikgosi tsa Yah, bosupi jwa Yisraele, go leboga leina la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "di lebile"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "dikgosi tsa merafe"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "bosupi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "jwa Yisraele"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "go leboga"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:17.464701053Z",
+  "model": "glm-5.3"
+}

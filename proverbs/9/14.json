@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme o dutse kwa sephatloding sa ntlo ya gagwe, mo setulong mo mabaleng a toropo.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "mme o dutse"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "kwa sephatloding"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sa ntlo ya gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulong"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "mo mabaleng"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "a toropo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:50.697124200Z",
+  "model": "glm-5.3"
+}

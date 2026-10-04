@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Ke tlotla ya monna go kgaogana le kgotlhang; mme sefoolofolo se sengwe le se sengwe se tlaa tsenelela kgotlhang.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "tlotla"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ya monna"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "go kgaogana"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "le kgotlhang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme se sengwe le se sengwe"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sefoolofolo"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "se tlaa tsenelela kgotlhang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:48:59.635833232Z",
+  "model": "glm-5.3"
+}

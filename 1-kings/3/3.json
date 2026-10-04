@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Solomone a rata ⟨את⟩ Yahwe, go tsamaya ka melao ya Dawide rraagwe; fela mo mabogelong a godimo ene o ne a ja diphologolo, a bo a thuntsha phofu.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Mme a rata"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go tsamaya ka"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "melao"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "mo mabogelong a godimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "o ne a ja diphologolo"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "a bo a thuntsha phofu"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:45.721287732Z",
+  "model": "glm-5.3"
+}

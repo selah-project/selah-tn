@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Tlhagisa maoto a gago kwa mafelong a senyegileng a bosakhutlolo, go bona bosula jotlhe jo monno a bo dirileng mo boitshepong.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Tlhagisa"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "maoto a gago"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "kwa mafelong a senyegileng"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "a bosakhutlolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "jo monno a bo dirileng"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mo boitshepong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:54.299096840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme go ne go nna jaana: fa bana ba Amonene ba ne ba lwa le Yisraele, bagolo ba Gileada ba ne ba ya go tla go tsesa ⟨את⟩ Yiftakhe mo nageng ya Tobe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go nna jaana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "ba ne ba lwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ba Amonene"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba ne ba ya"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ba Gileada"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "go tla go tsesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiftakhe"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakhe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo nageng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ya Tobe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:51:00.470087452Z",
+  "model": "glm-5.3"
+}

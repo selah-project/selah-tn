@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "⟨E ke⟩ e e jesang ya Shabata, ka Shabata ya yone, ka tlase ga e e jesang ya sengwe le sengwe le yone sego sa yone.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "e e jesang"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ya Shabata"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "ka Shabata ya yone"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka tlase ga"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "e e jesang"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ya sengwe le sengwe"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "le yone sego sa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:15:42.365913580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Sesupa go lla, mme sesupa go tshenya; sesupa go tlhotsa, mme sesupa go bina.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "sesupa"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "go lla"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mme sesupa"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "go tshenya"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sesupa"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "go tlhotsa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mme sesupa"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "go bina"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:59.527292518Z",
+  "model": "glm-5.3"
+}

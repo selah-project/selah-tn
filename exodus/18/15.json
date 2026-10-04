@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Moshe a arabela mokgwe wa gagwe a re: Gore setshaba se tla kwa go nna go batla Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a arabela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "mokgwe wa gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "se tla"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "go batla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:46.790044127Z",
+  "model": "glm-5.3"
+}

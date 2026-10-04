@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Yahwe o tlaa romela go wena ⟨את⟩ seetseho, ⟨את⟩ thogoko, le ⟨את⟩ go kgalema, mo go sengwe le sengwe se o se dirang ka seatla sa gago, go fitlha o senngwa, le go fitlha o senyega ka bonako, ka ntlha ya bobula jwa ditiro tsa gago, tse o ntlogetseng ka tsone.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "o tlaa romela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seetseho"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "seetseho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thogoko"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "thogoko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "go kgalema"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "go kgalema"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go sengwe le sengwe"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "se o se dirang"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ka seatla sa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o se dirang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "o senngwa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go fitlha"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "o senyega"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ka bonako"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobula"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "jwa ditiro tsa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "o ntlogetseng ka tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:32:12.394021624Z",
+  "model": "glm-5.3"
+}

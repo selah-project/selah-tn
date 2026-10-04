@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 33:16",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Dibe tsa gagwe tsotlhe tse a di dirileng di ka se gopolwe go ena; o dirile katlholo le tsedeke — o tla phela sentle.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dibe tsa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a di dirileng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "di ka se"
+    },
+    {
+      "surface": "תזכרנה",
+      "gloss": "gopolwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ena"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "le tsedeke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "phela"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "o tla phela sentle"
+    }
+  ],
+  "timestamp": "2026-10-04T00:45:18.088836907Z",
+  "model": "glm-5.3"
+}

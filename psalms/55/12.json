@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Diphoso di mo teng ga yona; mme kgatelelo le maaka ga di a tloswa mo marekiselong a yona.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "diphoso"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mo teng ga yona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "di a tloswa"
+    },
+    {
+      "surface": "מרחובה",
+      "gloss": "mo marekiselong a yona"
+    },
+    {
+      "surface": "תך",
+      "gloss": "kgatelelo"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "le maaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:23.825809219Z",
+  "model": "glm-5.3"
+}

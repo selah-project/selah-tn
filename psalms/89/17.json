@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Ka leina la gago ba ikgakolola letsatsi lonthe, mme ka tsedeko ya gago ba a godiwa.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "ka leina la gago"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "ba ikgakolola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonthe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "mme ka tsedeko ya gago"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ba a godiwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:47.138322620Z",
+  "model": "glm-5.3"
+}

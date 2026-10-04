@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Yo o beang kagiso mo melelwaneng ya gago; yo o go khotsofatsang ka mafura a korong.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "yo o beang"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "mo melelwaneng ya gago"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "a korong"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "yo o go khotsofatsang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:08.329262008Z",
+  "model": "glm-5.3"
+}

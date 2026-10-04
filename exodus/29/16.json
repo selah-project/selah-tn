@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o tla e tlhaba ⟨את⟩ nku eo, mme o tla tsaya ⟨את⟩ madi a yone, mme o a tshologa mo altarong, mo dikarolong tsotlhe.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "Mme o tla e tlhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nku eo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nku eo"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tla tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a yone"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a yone"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "mme o a tshologa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarong"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mo dikarolong tsotlhe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:16.101110023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Gore go diele se se siameng se mo molomong wa bone; se mo teng ga bone ke boitsheko jwa maswe; segogoro sa bone ke lebitla la butswitswe; ka leleme la bone ba bolela ka borethe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go diele"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "mo molomong wa bone"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "se mo teng ga bone"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "boitsheko jwa maswe"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lebitla"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "la butswitswe"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "segogoro sa bone"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "leleme la bone"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "ba bolela ka borethe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:59.771719574Z",
+  "model": "glm-5.3"
+}

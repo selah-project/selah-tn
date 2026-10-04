@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ba sekama, mme ba ya ka thoko thabeng, mme ba fitlhela mo molapong wa Eshekole, mme ba e tlhatlhoba ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ופנו",
+      "gloss": "mme ba sekama"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mme ba ya ka thoko"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mme ba fitlhela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fithlela"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molapo"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshekole"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "mme ba e tlhatlhoba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:20.043995475Z",
+  "model": "glm-5.3"
+}

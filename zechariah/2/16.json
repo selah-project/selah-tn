@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Yahwe o tla rua ⟨את⟩ Yehuda jaako karolo ya gagwe mo lefatshe le e boitshepo, mme o tla tlhopha Yerushalayime gape.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "mme o tla rua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "jaako karolo ya gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "le e boitshepo"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "mme o tla tlhopha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T01:07:56.803424790Z",
+  "model": "glm-5.3"
+}

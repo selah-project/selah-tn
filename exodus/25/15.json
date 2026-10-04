@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mo dipolaneng tsa Areka matlhare a tla nna; a ka se esiwa mo go yone.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "mo dipolaneng tsa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Areka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "a tla nna"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "matlhare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "esiwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo go yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:33.093072668Z",
+  "model": "glm-5.3"
+}

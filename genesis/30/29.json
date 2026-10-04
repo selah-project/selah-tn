@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme a re kwa ene: Wena o itse ⟨את⟩ se ke se dirileng go wena, le ⟨את⟩ se dikgomo tsa gago di neng di le tsone ⟨את⟩ kwa go nna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa ene"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se ke se dirileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ke se dirileng go wena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "se dikgomo tsa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di neng di le tsone"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "dikgomo tsa gago"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kwa go nna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:23:42.383241431Z",
+  "model": "glm-5.3"
+}

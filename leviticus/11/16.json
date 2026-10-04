@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Le ⟨את⟩ morwadia seyuaneya, le ⟨את⟩ setakhamaese, le ⟨את⟩ seshakhafu, le ⟨את⟩ senete le mofuta wa yone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "morwadia seyuaneya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "seyuaneya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setakhamaese"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "setakhamaese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seshakhafu"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "seshakhafu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "senete"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "senete"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "le mofuta wa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:39.783097553Z",
+  "model": "glm-5.3"
+}

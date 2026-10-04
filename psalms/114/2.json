@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 114,
+  "translation": "Yuda o ne a nna boitshepo jwa Gagwe, Yisraele bommuso jwa Gagwe.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "o ne a nna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "boitshepo jwa Gagwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "bommuso jwa Gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:18.769506390Z",
+  "model": "glm-5.3"
+}

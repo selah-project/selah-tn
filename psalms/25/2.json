@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Elohim wa me, go go ya ke ikemetse; se ka wa ntlhoka tlotlo; se ke ba ba ntlhoyang ba itumelele go nna.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go go ya"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke ikemetse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "wa ntlhoka tlotlo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ba itumelele"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ba ba ntlhoyang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:41.568628350Z",
+  "model": "glm-5.3"
+}

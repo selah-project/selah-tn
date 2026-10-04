@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Ba tsaya ⟨את⟩ hempe ya Yosefe, ba tlhaba pereko ya diphudi, ba ineela ⟨את⟩ hempe mo mading.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ba tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hempe ya Yosefe"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "hempe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ya Yosefe"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ba tlhaba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "pereko"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ya diphudi"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "ba ineela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hempe"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "hempe"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mo mading"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:45.490843370Z",
+  "model": "glm-5.3"
+}

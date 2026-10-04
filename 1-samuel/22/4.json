@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme a ba isa ⟨את⟩ kwa go kgosi ya Moabe, mme ba nna le ene matsatsi otlhe a go nna ga Dawide mo setlhareng sa phogo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "a ba isa kwa go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi ya Moabe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le ene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe a"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "היות",
+      "gloss": "a go nna ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mo setlhareng sa phogo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:05:25.226210917Z",
+  "model": "glm-5.3"
+}

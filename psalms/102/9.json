@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Letsatsi lotlhe baba ba me ba a nthosa; ba ba tlhagalang ka nna ba ikana ka me.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ba a nthosa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "baba ba me"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ba ba tlhagalang ka nna"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka me"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ba ikana"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:58.473052188Z",
+  "model": "glm-5.3"
+}

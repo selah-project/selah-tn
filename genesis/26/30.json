@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme o ba direla mokete, mme ba ja le go nwa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o ba direla"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mokete"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ba nwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:14.293967437Z",
+  "model": "glm-5.3"
+}

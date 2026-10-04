@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Bualang le phuthego yotlhe ya Yisraele, moo re: Ka la bolesome la kgwedi eno, motho mongwe le mongwe a tseye kwanyana ya gagwe, go ya ka ntlo ya bo-ntate, kwanyana ya ntlo.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "bualang le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "moo re"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "ka la bolesome"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "a tseye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ya gagwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho mongwe le mongwe"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ya ka ntlo"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "ya bo-ntate"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ya ntlo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:46.646245453Z",
+  "model": "glm-5.3"
+}

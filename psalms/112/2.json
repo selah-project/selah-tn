@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 112,
+  "translation": "Peo ya gagwe e tla nna yo o nonofileng mo lefatsheng; moloko wa ba siameng o tla dumedisiwa.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "yo o nonofileng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "peo ya gagwe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "moloko"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wa ba siameng"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tla dumedisiwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:54.432924545Z",
+  "model": "glm-5.3"
+}

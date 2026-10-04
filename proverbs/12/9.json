@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Motho yo o tlhokaegetsweng, mme o na le modiri, o molemo go feta yo o ikadimang, mme a sena senkgwe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "yo o tlhokaegetsweng"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "mme o na le modiri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga ene"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "go feta yo o ikadimang"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "mme a sena"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:22.613704513Z",
+  "model": "glm-5.3"
+}

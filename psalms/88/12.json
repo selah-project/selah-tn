@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "A hesede ya gago e ka buiwa kwa lebitleng? A boikanyego jwa gago kwa Abadone?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "a ... e ka buiwa"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "kwa lebitleng"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "boikanyego jwa gago"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "kwa Abadone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:05.408347328Z",
+  "model": "glm-5.3"
+}

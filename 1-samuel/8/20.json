@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "gore re nne le rona jaaka ditshaba tsotlhe, gore kgosi ya rona e re atlhole, e tswe pele ga rona, mme e lwe ⟨את⟩ dintwa tsa rona.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "gore re nne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jaaka tsotlhe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "gore ... e re atlhole"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "kgosi ya rona"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e tswe"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "pele ga rona"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "mme e lwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dintwa tsa rona"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "dintwa tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:25.877159372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "mme ba ba bolelela molato wa letlhoo fa ba ja ⟨את⟩ dilo tse di boitshepo tsa bone; gonne ke nna Yahwe yo ba itshepitseng.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "mme ba ba bolelela"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "molato"
+    },
+    {
+      "surface": "עון",
+      "gloss": "molato"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "wa letlhoo"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "fa ba ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tse di boitshepo tsa bone"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "dilo tse di boitshepo tsa bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "yo ba itshepitseng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:36.988417789Z",
+  "model": "glm-5.3"
+}

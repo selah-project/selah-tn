@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Bapriste ba tle ba tsaya selefera go bone, mongwe le mongwe go tswa go ⟨את⟩ molapeng wa gagwe; mme bone ba tle ba nonotsha ⟨את⟩ phoko ya ntlo, kwa sengwe le sengweng se se ka bonwang foo e le phoko.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "ba tle ba tsaya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bapriste"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tswa go ⟨את⟩",
+      "marks": "molapeng wa gagwe"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "molapeng wa gagwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme bone"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "ba tle ba nonotše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phoko ya ntlo"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "phoko"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa sengwe le sengweng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "se ka bonwang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "phoko"
+    }
+  ],
+  "timestamp": "2026-10-03T23:38:15.744400300Z",
+  "model": "glm-5.3"
+}

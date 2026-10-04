@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "A tlhagisa dikhodue tsa boitsholo go tswa mo lefatsheng, mme a tlosa ⟨את⟩ dithwana tsotlhe tse ditatago tsa gagwe di neng di di dirile.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "a tlhagisa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "dikhodue tsa boitsholo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "mme a tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithwana tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "dithwana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di neng di di dirile"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ditatago tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:27:51.009554700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Se se neng se le teng ke sone se tla diragalang, mme se se dirilweng ke sone se tla dirwaga; mme ga go na sepe se sešwa ka fa tlase ga letsatsi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "se neng se le teng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke sone"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "se tla diragalang"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mme se"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "se se dirilweng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke sone"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "se tla dirwaga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "se sešwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:38.538365621Z",
+  "model": "glm-5.3"
+}

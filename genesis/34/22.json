@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 34:22",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Fela ka se se seng fela banna ba ka dumalana le rona, go tla go nna le rona, go nna setshaba se le sengwe — fa balekane botlhe ba rona ba beolwa, jaaka bone ba beoleditswe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ka se se"
+    },
+    {
+      "surface": "יאתו",
+      "gloss": "ba ka dumalana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rona",
+      "marks": "le rona"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le sengwe"
+    },
+    {
+      "surface": "בהמול",
+      "gloss": "ka go beolwa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ga rona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "balekane"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "נמלים",
+      "gloss": "ba beoleditswe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:45.661127365Z",
+  "model": "glm-5.3"
+}

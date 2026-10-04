@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "book": "habakkuk",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "O tsamaile go tswa go boloka setshaba sa gago, go boloka ⟨את⟩ yo o tloditsweng wa gago; o nonotshitse tlhogo go tswa mo ntlong ya yo o bobeng, o senotse thebolo go fitlha kwa molaleng. Selah.",
+  "tokens": [
+    {
+      "surface": "יצאת",
+      "gloss": "o tsamaile go tswa"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo o tloditsweng wa gago"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "yo o tloditsweng wa gago"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "o nonotshitse"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "go tswa mo ntlong ya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo o bobeng"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "o senotse"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "thebolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "molala"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:05:44.260381381Z",
+  "model": "glm-5.3"
+}

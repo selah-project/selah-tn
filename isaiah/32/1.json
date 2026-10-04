@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Bonang, kgosi e tla busa ka tsedeke, mme balaodi ba tla laola ka katlholo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "e tla busa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "mme balaodi"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ka katlholo"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ba tla laola"
+    }
+  ],
+  "timestamp": "2026-10-03T23:53:06.475314831Z",
+  "model": "glm-5.3"
+}

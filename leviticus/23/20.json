@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme moperesite o tlaa di tlhatlhosa ⟨את⟩ mmogo le senkgwe sa dithollo tsa ntlha, e le tlhatlhoso kwa pele ga Yahwe, mmogo le dikwanyana tse pedi; di tlaa nna boitshepo ba Yahwe, ba moperesite.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "o tlaa di tlhatlhosa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ di",
+      "marks": "dikwanyana le senkgwe sa dithollo tsa ntlha"
+    },
+    {
+      "surface": "על",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "sa dithollo tsa ntlha"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "e le tlhatlhoso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "dikwanyana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di tlaa nna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ba moperesite"
+    }
+  ],
+  "timestamp": "2026-10-04T03:04:40.705056059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ba go bitsa, ba phologile; ba go tshepa, ba seka ba swabisega.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ba go bitsa"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ba phologile"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ba tshepa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba seka"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "ba swabisega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:16.824578513Z",
+  "model": "glm-5.3"
+}

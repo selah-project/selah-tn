@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme a dira ⟨את⟩ khoshene, e dirilweng ka bokgoni, jaaka popego ya efode — gauta, tekelete, argamane, tolaate-shani le sheshe e e pilweng.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khoshene"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "khoshene"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "e dirilweng ka"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "bokgoni"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "jaaka popego ya"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le argamane"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "le tolaate"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le sheshe"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "e e pilweng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:10.698281675Z",
+  "model": "glm-5.3"
+}

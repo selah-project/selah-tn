@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Mme ba llelela Yahwe mo tshenyo ya bone, mme o ba boloka mo dithogokgolelong tsa bone.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "mme ba llelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mo tshenyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ya bone"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "mo dithogokgolelong tsa bone"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "o ba boloka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:13.100352253Z",
+  "model": "glm-5.3"
+}

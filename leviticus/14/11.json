@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme moruti yo o itshepisang o tla emisa ⟨את⟩ monna yo o itshepisang le ⟨את⟩ tseno, kwa pele ga Yahwe, kwa mpakeng wa tenda ya kopano.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "Mme o tla emisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yo o itshepisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna yo o itshepisang"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yo o itshepisang"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "le ⟨את⟩",
+      "marks": "tseno"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa mpakeng"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:55:03.839104707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme wena o thweletse kwa magodimong, mme o dire, mme o atlhole ⟨את⟩ makgweetsi a gago — go latlhela molato wa molatakanyeki, go busedela mo tlhogong ya gagwe tsela ya gagwe; mme go lokafatsa lokologangwe, go mo neela go ya ka tsedeko ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o thweletse"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "o atlhole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makgweetsi a gago"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "makgweetsi a gago"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "go latlhela molato wa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "molatakanyeki"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go busedela"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tsela ya gagwe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "mo tlhogong ya gagwe"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "go lokafatsa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "lokologangwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go neela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "go ya ka tsedeko ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:32.179650117Z",
+  "model": "glm-5.3"
+}

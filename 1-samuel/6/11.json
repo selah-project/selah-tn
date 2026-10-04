@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Ba baya ⟨את⟩ Areka ya Yahwe mo koloineng, mmogo le ⟨את⟩ lepoko, le ⟨את⟩ dinkgwana tsa gauta, le ⟨את⟩ ditshwantsho tsa ditholo tsa bone.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ba baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Areka ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Areka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "koloineng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lepoko"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "lepoko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dinkgwana tsa gauta"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "dinkgwana"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditshwantsho tsa ditholo"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "ditshwantsho"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "tsa ditholo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:04.957832374Z",
+  "model": "glm-5.3"
+}

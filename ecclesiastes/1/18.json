@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Gonne fa botlhale bo tlhaga gongwe, kgalefo e tlhaga gongwe; mme yo o okeditseng kitso o oketsa botlhoko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "fa ... bo tlhaga gongwe"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e tlhaga gongwe"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kgalefo"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "mme yo o okeditseng"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kitso"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "o oketsa"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "botlhoko"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:36.287064821Z",
+  "model": "glm-5.3"
+}

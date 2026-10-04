@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mme Yosefe a re kwa baneng ba ene ba le kwa go bone: Nna ke Yosefe — na ntataake o santse a tshela? Mme baneng ba ene ba se ba ka kgona go mo araba, gonne ba ne ba tshogile thata mo go ene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go bone"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "baneng ba ene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "na o santse"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntataake"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a tshela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba se ba ka"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgona"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "baneng ba ene"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "go mo araba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go mo araba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ba tshogile thata"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:31:48.308832107Z",
+  "model": "glm-5.3"
+}

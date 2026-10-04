@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme bana ba Gomere: Ashkenaze, le Rifate, le Togarema.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mme bana ba"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomere"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaze"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "le Rifate"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "le Togarema"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:36.917692716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 92,
+  "translation": "Gore o ntsheditseditse boitumelo, Yahwe, ka tiro ya gago; ka ditiro tsa diatla tsa gago ke tla opela ka tumelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "o ntsheditseditse boitumelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "ka tiro ya gago"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ka ditiro"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tsa diatla tsa gago"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ke tla opela ka tumelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:31.605718314Z",
+  "model": "glm-5.3"
+}

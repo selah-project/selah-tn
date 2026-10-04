@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme mookamedi wa dinosi a sa gakologelwa ⟨את⟩ Yosefe, mme a mo tlala.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ... ga"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "a gakologelwa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa dinosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "mme a mo tlala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:42.680315394Z",
+  "model": "glm-5.3"
+}

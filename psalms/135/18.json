@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Ba ba di dirang ba tla nna jaaka tsone; le ba le bantsi ba ba ikaegang ka tsone.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "jaaka tsone"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla nna"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ba ba di dirang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "le bontsi jwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ba ikaegang ka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:36.798548025Z",
+  "model": "glm-5.3"
+}

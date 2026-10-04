@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 112,
+  "translation": "Dumedisang Yah! Thabo ⟨ya⟩ monna yo o tshabang ⟨את⟩ Yahwe, yo a ithabisang thata mo ditaelong tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumedisang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Thabo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yo o tshabang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "mo ditaelong tsa gagwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a ithabisa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:54.432695308Z",
+  "model": "glm-5.3"
+}

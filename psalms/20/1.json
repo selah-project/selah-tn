@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Go moeteledipele wa kgopolo. Kgopolo ya ga Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteledipele wa kgopolo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kgopolo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya ga Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:15.560726815Z",
+  "model": "glm-5.3"
+}

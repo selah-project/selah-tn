@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "Psalme ya Asafe. Elohim, ditshaba di tsile kwa bosweng jwa gago, di tlwaelitse ⟨את⟩ tempole ya boitshepo ya gago, di beile ⟨את⟩ Yerushalayime gore e nne matlhano.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "di tsile"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "kwa bosweng jwa gago"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "di tlwaelitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempole ya boitshepo ya gago"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempole"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "boitshepo jwa gago"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "di beile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "gore e nne matlhano"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:37.353718042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme ka yona a dira ⟨את⟩ manala a sefofane sa ⟨the⟩ kgoro ya bohuta jwa setlhabelo, ⟨את⟩ aletare ya tshipi, le ⟨את⟩ marala a yone a tshipi a a nang le one, le ⟨את⟩ dithuso tsotlhe tsa aletare.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "manala"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sefofane sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "bohuta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setlhabelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "aletare ya tshipi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya tshipi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "marala a tshipi"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "marala"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "a tshipi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a nang le one"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithuso tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithuso"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "tsa aletare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:42.061258049Z",
+  "model": "glm-5.3"
+}

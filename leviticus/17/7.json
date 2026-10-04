@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme ba se ka ba tlhabela gape ⟨את⟩ diabelo tsa bone go dikubu tsa bone, tse ba dirang boaka le tsone; molao wa leruri se e tla nna jalo mo go bone, mo ditlolong tsotlhe tsa bone.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ba se ka"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "ba tlhabela gape"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diabelo tsa bone"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "diabelo tsa bone"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "go dikubu tsa bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "ba dirang boaka le"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "tsone"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molao"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa leruri"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla nna jalo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "mo ditlolong tsotlhe tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:04:02.904295572Z",
+  "model": "glm-5.3"
+}

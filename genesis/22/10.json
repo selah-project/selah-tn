@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme Abrahame a golaganya ⟨את⟩ seatla sa gagwe, a bo a tseela ⟨את⟩ thipa go bolaella ⟨את⟩ mora wa gagwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a golaganya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tseela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thipa"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "thipa"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "go bolaella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mora wa gagwe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:19.925322390Z",
+  "model": "glm-5.3"
+}

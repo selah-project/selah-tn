@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Yahwe, ke ratile yog ya ntlo ya gago, le lefelo la Mishkane wa bokgabo jwa gago.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke ratile"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "yog ya"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya gago"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "le lefelo la"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkane wa"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "bokgabo jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:52.748639766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Go robala go se kae, go nowa go se kae, go phutha diatla go se kae go ya go robaleng.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "go se kae"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "go robala"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "go se kae"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "go nowa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "go se kae"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "go phutha diatla"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "go ya go robaleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:44:02.812948512Z",
+  "model": "glm-5.3"
+}

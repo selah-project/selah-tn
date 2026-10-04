@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme go sa siama jalo, ka ntlha ya se, ke go ntshitse o eme, gore ke go bontshe ⟨את⟩ maatla a me, le gore leina la me le bolelwe mo lefatsheng lotlhe.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "mme go sa siama jalo"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ke go ntshitse o eme"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ke go bontshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maatla a me"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a me"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "le gore"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "le bolelwe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "leina la me"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lotlhe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:34.945899237Z",
+  "model": "glm-5.3"
+}

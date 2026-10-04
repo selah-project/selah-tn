@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme a imolola gape, a belega morwa, mme a bitsa ⟨את⟩ leina la gagwe Onane.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "a imolola"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:13.717843881Z",
+  "model": "glm-5.3"
+}

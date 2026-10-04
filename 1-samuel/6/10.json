@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme banna ba dira jalo; ba tsaya dikgomo tse pedi tse di nosetsang masea, ba di golaganya le koloi, mme ⟨את⟩ masea a tsone ba ba phaala mo ntlong.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira jalo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ba tsaya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "tse di nosetsang masea"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "ba di golaganya"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "le koloi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masea a tsone"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "masea a tsone"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ba ba phaala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:04.957585324Z",
+  "model": "glm-5.3"
+}

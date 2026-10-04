@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatote le ⟨את⟩ mafelo a yone a bojang, le ⟨את⟩ Almone le ⟨את⟩ mafelo a yone a bojang — ditoropo di le nne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anatote"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a yone a bojang"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mafelo a yone a bojang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Almone"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a yone a bojang"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mafelo a yone a bojang"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "di le nne"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:43.497451459Z",
+  "model": "glm-5.3"
+}

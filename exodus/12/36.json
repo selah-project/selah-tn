@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Yahwe o ne a neela setšhaba ⟨את⟩ favoro pele ga ba-Mitsrayime, ba ne ba ba neela se ba se kopang. Mme ba ne ba epela ⟨את⟩ ba-Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ne a neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "favoro"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favoro"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ba-Mitsrayime"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "ba ne ba ba neela se ba se kopang"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "ba ne ba epela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba-Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ba-Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:09.926211377Z",
+  "model": "glm-5.3"
+}

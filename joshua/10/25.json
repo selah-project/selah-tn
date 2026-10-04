@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Yehoshua a ba re: Se ke wa tshoga, le se ke wa boifa; nonofile le matlhagale, gonne jaana Yahwe o tlaa dira jalo go ba ba nang le tlhoyo le lona, ba ba leng ba ba lwa ⟨את⟩ bone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ke wa tshoga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le se"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "ke wa boifa"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "nonofile"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "le matlhagale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "jaana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tlaa dira jalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ba ba nang le tlhoyo le lona"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ba ba nang le tlhoyo le lona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "ba ba leng ba ba lwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:39:04.727443575Z",
+  "model": "glm-5.3"
+}

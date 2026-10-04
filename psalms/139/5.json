@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Morago le pele o o mphephetse, mme o ne wa beta ⟨את⟩ seatla sa gago mo go n.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "Morago"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "le pele"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "o o mphephetse"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "o ne wa beta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go n"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "seatla sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:44.012128596Z",
+  "model": "glm-5.3"
+}

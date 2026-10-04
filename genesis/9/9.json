@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme nna, bonang, ke tlhoma ⟨את⟩ kgolagano ya me ⟨את⟩ le lona, le ⟨את⟩ peo ya lona morago ga lona.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ke tlhoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano ya me"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "peo ya lona"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "morago ga lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:22.518529030Z",
+  "model": "glm-5.3"
+}

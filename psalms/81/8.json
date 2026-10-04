@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Kwa kotsing o ne o bitsa, mme ke ne ke a golola; ke ne ke araba kwa boseeng jwa kgadima; ke ne ke a lekola go metsing wa Meriba. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "kwa kotsing"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "o ne o bitsa"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "mme ke ne ke a golola"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ke ne ke araba"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kwa boseeng"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "jwa kgadima"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ke ne ke a lekola"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsing"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:23.076538196Z",
+  "model": "glm-5.3"
+}

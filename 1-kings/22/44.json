@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 22:44",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme mafelo a a kwa godiweng a ne a sa tlhokiwa; setshaba se ntse se neela diphologolo le dinoko kwa mafelong a a kwa godiweng.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Mme ka bosupi"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mafelo a a kwa godiweng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "a sa tlhokiwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "se ntse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "se neela diphologolo"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "le dinoko"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kwa mafelong a a kwa godiweng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:31:20.921523879Z",
+  "model": "glm-5.3"
+}

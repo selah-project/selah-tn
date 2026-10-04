@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 40:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme kopo ya Faro e ne e le mo letsatlng la me; mme ka tseela ⟨את⟩ mabidikwa, mme ka dikotla ⟨אתם⟩ go kopo ya Faro, mme ka neela ⟨את⟩ kopo mo pateng ya Faro.",
+  "tokens": [
+    {
+      "surface": "וכוס",
+      "gloss": "kopo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mo letsatlng la me"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "mme ka tseela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabidikwa"
+    },
+    {
+      "surface": "הענבים",
+      "gloss": "mabidikwa"
+    },
+    {
+      "surface": "ואשחט",
+      "gloss": "mme ka dikotla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "go kopo ya Faro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kopo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mme ka neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopo"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kopo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כף",
+      "gloss": "pateng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:01.881266766Z",
+  "model": "glm-5.3"
+}

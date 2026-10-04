@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Bafalisiti ba ne ba latedela thata Shaule le bana ba gagwe; mme Bafalisiti ba bolaya ⟨את⟩ Yonathane le ⟨את⟩ Abinadabe le ⟨את⟩ Malkishua, bana ba Shaule.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ba ne ba latedela thata"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaule"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mme ba bolaya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonathane"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abinadabe"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    }
+  ],
+  "timestamp": "2026-10-03T23:08:48.044818466Z",
+  "model": "glm-5.3"
+}

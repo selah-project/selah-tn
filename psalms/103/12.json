@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Jaaka sekgala sa botlhabatsatsi go tswa bophirima, jalo o ne a di hudulela kgakala ⟨את⟩ ditshiolho tsa rona go tswa go rona.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "jaaka sekgala sa"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "botlhabatsatsi"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "go tswa bophirima"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "a di hudulela kgakala"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa go rona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshiolho tsa rona"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ditshiolho tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:32.879962834Z",
+  "model": "glm-5.3"
+}

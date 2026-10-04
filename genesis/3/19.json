@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ka metsi a sefatlhego sa gago o tla a ja senkgwe, go fitlha o boela kwa lefatsheng, gonne mo go lona o tserwe; gonne o lerole, mme kwa leroleng o tla a boa.",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "ka metsi a"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "o tla a ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "o boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "o tserwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme kwa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "leroleng"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o tla a boa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:04.275620367Z",
+  "model": "glm-5.3"
+}

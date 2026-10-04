@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mo seatleng sa gago ke a neela ruakh ya me; o nthokolotse, Yahwe, El wa boammaaruri.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Mo seatleng sa gago"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "ke a neela"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya me"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "o nthokolotse"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ruri nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "wa boammaaruri"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:51.491078874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme wa peo ya gago o se ka wa neela ⟨את⟩ go isiwa go Molekhe; mme o se ke wa tlogela boitshepo jwa leina la Elohim wa gago; me ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "mme wa peo ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "neela"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "go isiwa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go Molekhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "tlogela boitshepo jwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:29.401136167Z",
+  "model": "glm-5.3"
+}

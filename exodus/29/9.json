@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 29:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o ba thwae ka meko — Aharone le bana ba gagwe — mme o ba apese didiri tsa ditlhago; mme bokgosi jwa boitshepo bo tla nna jwa bone molaoing o o sa feleng; mme o tlhatlhose ka go tlatsa diatla ⟨את⟩ tsa Aharone le diatla tsa bana ba gagwe.",
+  "tokens": [
+    {
+      "surface": "וחגרת",
+      "gloss": "mme o ba thwae"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone le bana ba gagwe"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "ka meko"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "וחבשת",
+      "gloss": "mme o ba apese"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "didiri tsa ditlhago"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mme e tla nna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jwa bone"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "bokgosi jwa boitshepo"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "molaoing"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "o o sa feleng"
+    },
+    {
+      "surface": "ומלאת",
+      "gloss": "mme o tlhatlhose ka go tlatsa diatla"
+    },
+    {
+      "surface": "יד",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "tsa Aharone"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "le diatla"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "tsa bana ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:25.133166854Z",
+  "model": "glm-5.3"
+}

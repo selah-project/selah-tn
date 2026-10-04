@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Mme wena, Yahwe, o ntse o tsamaisa go ya ka bosakhutlho, le segopotso sa gago go kokomana le kokomana.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya ka bosakhutlho"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "o ntse o tsamaisa"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "le segopotso sa gago"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "go kokomana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le kokomana"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:01.044033969Z",
+  "model": "glm-5.3"
+}

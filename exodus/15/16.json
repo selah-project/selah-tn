@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 15:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Tshogo le dipodi di tlhasela bone; ka bogolo jwa seatla sa gago ba nna ba se molemo jaaka leje, go fitlha setshaba sa gago se feta, Yahwe; go fitlha setshaba se se neng o se rekile se feta.",
+  "tokens": [
+    {
+      "surface": "תפל",
+      "gloss": "di tlhasela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "אימתה",
+      "gloss": "tshogo"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "le dipodi"
+    },
+    {
+      "surface": "בגדל",
+      "gloss": "ka bogolo jwa"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ba nna ba se molemo"
+    },
+    {
+      "surface": "כאבן",
+      "gloss": "jaaka leje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "se feta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "se feta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "זו",
+      "gloss": "se se neng"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "o se rekile"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:09.971678338Z",
+  "model": "glm-5.3"
+}

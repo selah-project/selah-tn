@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Fa o tsaya seapa sa molekane wa gago ka kelipe, o se busetse mo go ene go fitlha letsatsi le sena go tsena.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "go tsaya"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ka kelipe"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "seapa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sa molekane wa gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בא",
+      "gloss": "go tsena ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "o se busetse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:40.838465969Z",
+  "model": "glm-5.3"
+}

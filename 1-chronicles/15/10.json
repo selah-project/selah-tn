@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Ya bana ba Uziyele: Aminadabe yo e neng e le moeteledipele, le bana ba bobedi ba gagwe ba le lekgolo le lesome le pedi.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uziyele"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabe"
+    },
+    {
+      "surface": "השר",
+      "gloss": "moeteledipele"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "le bana ba bobedi ba gagwe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ba le lekgolo"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "le"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome le pedi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:40:00.618891935Z",
+  "model": "glm-5.3"
+}

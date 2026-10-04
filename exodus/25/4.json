@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Le botalo jwa khubama, le bohibidu, le mabenyane a khubedu, le lokwalo le letswai la dienywa tsa dinku.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "botalo jwa khubama"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "khubama"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "mabenyane"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a khubedu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lokwalo"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "letswai la dienywa tsa dinku"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:58.697509251Z",
+  "model": "glm-5.3"
+}

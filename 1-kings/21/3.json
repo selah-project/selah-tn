@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Navothe a re le Ahaba: A se ka fa go nna, mo Yahwe, go neela ⟨את⟩ boswa jwa bo_rraetsho go wena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navothe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fa go nna"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "mo Yahwe"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "go neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boswa jwa bo_rraetsho"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "boswa jwa"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "borraetsho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-03T23:31:07.826243556Z",
+  "model": "glm-5.3"
+}

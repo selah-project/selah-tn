@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Dawide a tsamaya a ya pele a kgolwa, mme Yahwe Elohim wa Tsebaote a ne a le le ene.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "a ya pele"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "a kgolwa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a ne a le le ene"
+    }
+  ],
+  "timestamp": "2026-10-03T23:09:49.532755296Z",
+  "model": "glm-5.3"
+}

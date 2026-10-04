@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme moafokodi o se ka wa mo gatelela; gape le lona le itse ⟨את⟩ mogare wa moafokodi, gonne le ne le le bafokodi kwa lefatsheng la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Mme moafokodi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "wa mo gatelela"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "gape le lona"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "le itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogare wa moafokodi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mogare"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wa moafokodi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bafokodi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "le ne le le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:40.521782269Z",
+  "model": "glm-5.3"
+}

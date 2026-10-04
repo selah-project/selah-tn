@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Bongofang Yah, gonne Yahwe ke molemo; bopaleng leina la gagwe, gonne ke monate.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "bongofang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bopaleng"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "monate"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:40.492001203Z",
+  "model": "glm-5.3"
+}

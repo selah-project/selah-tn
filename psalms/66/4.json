@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Lefatshe lotlhe le tla go tlhopola, le tla opela go wena, le tla rera leina la gaga. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "le tla go tlhopola"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "le tla opela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "le tla rera"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gaga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:04.863554385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme a ntsha φetlho ⟨את⟩ ditoropokgolo tseno, le ⟨את⟩ lefatshe lotlhe la sekgala, le ⟨את⟩ baagi botlhe ba ditoropokgolo, le peo e mengwe ya lefatshe.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "a ntsha φetlho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditoropokgolo tseno"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ditoropokgolo"
+    },
+    {
+      "surface": "האל",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefatshe lotlhe la sekgala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "sekgala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "baagi botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "ישׂבי",
+      "gloss": "baagi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ba ditoropokgolo"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "le peo e mengwe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:19.707079500Z",
+  "model": "glm-5.3"
+}

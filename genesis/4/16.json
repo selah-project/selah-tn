@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Kaine a tsamaela kwa ntle go tswa mo sephiring sa Yahwe, a nna kwa lefatsheng la Node, kwa botlhaba jwa Edene.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tsamaela kwa ntle"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaine"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "go tswa mo sephiring sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatsheng la"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Node"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "kwa botlhaba jwa"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:44.361568775Z",
+  "model": "glm-5.3"
+}

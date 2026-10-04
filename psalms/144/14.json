@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Dikgomo tsa rona di boima ka matlakala; ga go phukubuso, mme ga go tswang, mme ga go lelelo mo megaleng ya rona.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "dikgomo tsa rona"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "di boima ka matlakala"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "phukubuso"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "tswang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "lelelo"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "mo megaleng ya rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:40.741336966Z",
+  "model": "glm-5.3"
+}

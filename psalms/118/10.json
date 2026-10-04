@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 118,
+  "translation": "Ditshaba tsotlhe di ne tsa ntseka; ka leina la Yahwe ke ne ka di raya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "di ne tsa ntseka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ka gore⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ke ne ka di raya"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:50.768869140Z",
+  "model": "glm-5.3"
+}

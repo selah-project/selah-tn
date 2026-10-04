@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "O ne o kgoboketse makasiko a gago otlhe; o ne o faletse go bakgalefa ga sehuba sa gago.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "o kgoboketse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "makasiko a gago"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "o faletse"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "go bakgalefa ga"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sehuba sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:56.233597459Z",
+  "model": "glm-5.3"
+}

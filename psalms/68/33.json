@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Mafatshe a lefatshe, binaleng go Elohim, binelang Adonai — Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "mafatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a lefatshe"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "binaleng"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "binelang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:13.967956020Z",
+  "model": "glm-5.3"
+}

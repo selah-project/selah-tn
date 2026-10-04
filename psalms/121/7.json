@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 121,
+  "translation": "Yahwe o tlaa go tlhomela milele go tswa mo boleng jotlhe; o tlaa tlhomela ⟨את⟩ moya wa gago.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "o tlaa go tlhomela milele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tswa mo boleng jotlhe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bole"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "o tlaa tlhomela milele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moya wa gago"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:52.545984484Z",
+  "model": "glm-5.3"
+}

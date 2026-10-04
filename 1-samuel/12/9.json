@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ba tlhoka ⟨את⟩ Yahwe Elohim ya bone, mme a ba rekisa mo dijatong tsa Sisera, molaodi wa masomo a Hatsore, le mo dijatong tsa Bafelisete, le mo dijatong tsa kgosi ya Moabe; mme ba lwa le bone.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ba tlhoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ya bone"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "a ba rekisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo dijatong tsa"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "masomo"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsore"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "le mo dijatong tsa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafelisete"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "le mo dijatong tsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "le bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:57.439513895Z",
+  "model": "glm-5.3"
+}

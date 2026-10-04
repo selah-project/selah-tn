@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "O roma lentswe la gagwe, mme o ba fodisa, mme o ba golola mo ditshenyegong tsa bone.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "o roma"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentswe la gagwe"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "mme o ba fodisa"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "mme o ba golola"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "mo ditshenyegong tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:13.100479165Z",
+  "model": "glm-5.3"
+}

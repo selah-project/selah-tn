@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme kgosi ya Yisraele a tswa, mme a itaya ⟨את⟩ dipitse le ⟨את⟩ diraete, mme a itaya Arame ka go itaya kgolo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a itaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipitse"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "dipitse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diraete"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "diraete"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "a itaya"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "go itaya"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:30:14.554959187Z",
+  "model": "glm-5.3"
+}

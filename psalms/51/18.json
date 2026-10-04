@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Gore ga o rate sehlabelo; go seng jalo nka se neela. Olahla ga o rate sehlabelo se se fisitsweng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "o rate"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "go seng jalo nka se neela"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sehlabelo se se fisitsweng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "o rate"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:11.589570910Z",
+  "model": "glm-5.3"
+}

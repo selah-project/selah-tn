@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme mosadi a bona ⟨את⟩ Shemuele, a go grida ka lentswe le legolo; mme mosadi a re le Shaul, go re: Ke ka ntlha yang o nthubetse? Wena ke Shaul.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuele"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuele"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "a go grida"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentswe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka ntlha yang"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "o nthubetse"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-10-03T23:06:13.532628979Z",
+  "model": "glm-5.3"
+}

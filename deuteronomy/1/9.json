@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ka nako eo ke ne ke re le lona, ke re: Nna ka bo nna ga nke ke ka kgona go ba go rala lona.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mme ke ne ke re"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ke re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nke ke ka kgona"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ka bo nna"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "go ba go rala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:02.282543224Z",
+  "model": "glm-5.3"
+}

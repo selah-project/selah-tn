@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 121,
+  "translation": "Bonang, ga a robala, mme ga a tsenya boroko yo o bolokang Yisraele.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "a tsenya boroko"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "yo o bolokang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:36.483840632Z",
+  "model": "glm-5.3"
+}

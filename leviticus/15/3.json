@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme se se ka nna se sengwa sa gagwe ka zaave ya gagwe: nama ya gagwe ya tsholla ⟨את⟩ zaave ya gagwe, kgotsa nama ya gagwe e tswaletse go tswa mo zaave ya gagwe — ke se sengwa sa gagwe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "mme se"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "se se ka nna"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "se sengwa sa gagwe"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "ka zaave ya gagwe"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ya tsholla"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zaave ya gagwe"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "zaave ya gagwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "e tswaletse"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya gagwe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "go tswa mo zaave ya gagwe"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "se sengwa sa gagwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-10-03T21:55:37.595328110Z",
+  "model": "glm-5.3"
+}

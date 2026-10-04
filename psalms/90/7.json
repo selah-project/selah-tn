@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "Ka gonne re fedile mo khutlong ya gago, mme ka bogale jwa gago re ne re tshogile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gonne"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "re fedile"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mo khutlong ya gago"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ka bogale jwa gago"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "re ne re tshogile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:20.480548130Z",
+  "model": "glm-5.3"
+}

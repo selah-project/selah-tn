@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "O a segofediwa fa o tsena, mme o a segofediwa fa o tswa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "o a segofediwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "fa o tsena"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "mme o a segofediwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "fa o tswa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:12.933522015Z",
+  "model": "glm-5.3"
+}

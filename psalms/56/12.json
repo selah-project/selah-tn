@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Ka Elohim ke ikemetse, ga ke tsoge — ke eng se motho a ka se dirang go nna?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke ikemetse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ke tsoge"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a ka se dirang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:24.050488113Z",
+  "model": "glm-5.3"
+}

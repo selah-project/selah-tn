@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mmusi wa Yerushalayime, a le mongwe; mmusi wa Kheberone, a le mongwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mmusi wa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mmusi wa"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Kheberone"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:39:17.767352046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme nokana e ne e tswa mo Edene go rusetsa ⟨את⟩ setulo, mme go tswa foo e ne ya kgaogana, mme ya nna dintlha tse nne.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Mme nokana"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e ne e tswa"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "mo Edene"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "go rusetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setulo"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "setulo"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "mme go tswa foo"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ya kgaogana"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ya nna"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "tse nne"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "dintlha"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:18.722097115Z",
+  "model": "glm-5.3"
+}

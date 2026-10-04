@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme a fetsa go dira boitshwarelo ⟨את⟩ boitshepo, le ⟨את⟩ Tele ya kopano, le ⟨את⟩ altare, mme a tleise ⟨את⟩ pudi ya kabasela e e tshelang.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "mme a fetsa"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "go dira boitshwarelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boitshepo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tele ya kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tele"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mme a tleise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pudi ya kabasela e e tshelang"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "pudi ya kabasela"
+    },
+    {
+      "surface": "החי",
+      "gloss": "e e tshelang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:33.024102118Z",
+  "model": "glm-5.3"
+}

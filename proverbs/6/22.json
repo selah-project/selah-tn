@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Fa o tsamaya, e tla go taela; fa o robala, e tla go sireletsa; mme fa o tsoga, e tla bua le wena.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "fa o tsamaya"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "e tla go taela"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "fa o robala"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "e tla go sireletsa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "mme fa o tsoga"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "tla bua le wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:59.729415983Z",
+  "model": "glm-5.3"
+}

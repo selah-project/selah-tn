@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Lentswe lo utlwala mo dithabeng tse di se nang sepe, go lela le dikopo tsa bana ba Yisraele, gonne ba senotse ⟨את⟩ tsela ya bone, ba lebala ⟨את⟩ Yahwe Elohim wa bone.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "dithabeng tse di se nang sepe"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "lo utlwala"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "go lela"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "dikopo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "ba senotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela ya bone"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "tsela ya bone"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ba lebala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa bone"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:09:34.034997386Z",
+  "model": "glm-5.3"
+}

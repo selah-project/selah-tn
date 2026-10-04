@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Go le gontsi jang foo motho, legakgamatsi, le morwa wa motho, phane!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Go le gontsi jang foo"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "legakgamatsi"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "le morwa wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "phane"
+    }
+  ],
+  "timestamp": "2026-10-04T02:00:13.489614406Z",
+  "model": "glm-5.3"
+}

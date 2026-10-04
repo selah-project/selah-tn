@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ke tla dira ⟨את⟩ ntlo ya ga Ahaba jaaka ntlo ya ga Yarovame morwa Nabbate, le jaaka ntlo ya ga Baasha morwa Ahiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya ga Ahaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "jaaka ntlo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nabbate"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "le jaaka ntlo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    }
+  ],
+  "timestamp": "2026-10-03T23:35:42.027691413Z",
+  "model": "glm-5.3"
+}

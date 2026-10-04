@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Fa masole a tlhoma sepele kgahlanong le nna, pelo ya me ga e kitla e tshaba; fa ntwa e simolola kgahlanong le nna, mo go se ke iketlile.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "a tlhoma sepele"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "masole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga e kitla e"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "tshaba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "e simolola"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "mo go se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "iketlile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:38.171051172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Rekhabeame a ya kwa Shekeme, gonne kwa Shekeme Yisraele yotlhe e ne e tla go mo dira kgosi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeame"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "kwa Shekeme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "kwa Shekeme"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e ne e tla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Yisraele yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele yotlhe"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "go mo dira kgosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:47.792561594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Gakologelwa, Yahwe, se mo go rona; lebelela, o bo o bona ⟨את⟩ sona sa rona.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gakologelwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "lebelela"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "o bo o bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sona sa rona"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "sona sa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:42.532859696Z",
+  "model": "glm-5.3"
+}

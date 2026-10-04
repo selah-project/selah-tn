@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "E re lefatshe le se ka la go gogola lona fa lo e tlhwefala, jaaka le ne la gogola ⟨את⟩ setshaba se se neng se le fa pele ga lona.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e re ... le se ka"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "la go gogola"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "fa lo e tlhwefala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "le ne la gogola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng se"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "fa pele ga lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:59.213751351Z",
+  "model": "glm-5.3"
+}

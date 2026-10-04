@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "Mme ba tlaa aga ⟨את⟩ malapa mme ba nne mo go tsone; mme ba tlaa disa ⟨את⟩ merara mme ba je molemo wa yone.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "mme ba tlaa aga"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mme ba tlaa nne mo go tsone"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "mme ba tlaa disa"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "merara"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mme ba tlaa je"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "molemo wa yone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:05:46.503314596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme diphuka tsa one di tlaa tsenngwa mo dikhutshweng; mme diphuka di tlaa nna mo matlhakoreng a mabedi a aletare, fa ⟨את⟩ e ne e isiwa.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "mme di tlaa tsenngwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphuka tsa one"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "diphuka tsa one"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "mo dikhutshweng"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme di tlaa nna"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "diphuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "matlhakoreng a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "fa e ne e isiwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "one (aletare)"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:54.069353326Z",
+  "model": "glm-5.3"
+}

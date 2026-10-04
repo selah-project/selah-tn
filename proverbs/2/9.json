@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Foo o tlaa tlhaloganya tsedeke le tshiamiso le boitshoko, le tsela e ntle e tousiwa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Foo"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "o tlaa tlhaloganya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le tshiamiso"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "le boitshoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e tousiwa"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e ntle"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:48.866040562Z",
+  "model": "glm-5.3"
+}

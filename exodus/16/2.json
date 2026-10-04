@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme setlhopha sotlhe sa bana ba Yisraele ba ngongoregela kgatlhanong le Moshe le kgatlhanong le Aharone kwa sekakeng.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "ba ngongoregela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "setlhopha sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le kgatlhanong le"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa sekakeng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:38.694368069Z",
+  "model": "glm-5.3"
+}

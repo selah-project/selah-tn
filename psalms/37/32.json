@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Yo o bosula o tlhoma leitlho mo mo-tsedeke, mme o batla go mo bolaya.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "o-tlhoma-leitlho"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo-o-bosula"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mo-mo-tsedeke"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "mme-o-batla"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "go-mo-bolaya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:31.237422867Z",
+  "model": "glm-5.3"
+}

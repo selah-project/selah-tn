@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme morago setshaba se ne se tsamaya go tswa Khatsereote, ba phuthela kwa sekakeng sa Parane.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "mme morago"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "go tswa Khatsereote"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba phuthela"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa sekakeng"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "sa Parane"
+    }
+  ],
+  "timestamp": "2026-10-03T22:08:35.847691084Z",
+  "model": "glm-5.3"
+}

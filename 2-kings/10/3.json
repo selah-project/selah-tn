@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "le tlhophe yo o siameng le yo o tlhamaletseng mo baneng ba beng ba lona, mme lo mo beye mo setulong sa ga rraagwe, mme lo lwele ntlo ya beng ba lona.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "le tlhophe"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "le yo o tlhamaletseng"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mo baneng ba"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "beng ba lona"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mme lo mo beye"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulong"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa ga rraagwe"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "mme lo lwele"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ya beng ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:35:38.595353278Z",
+  "model": "glm-5.3"
+}

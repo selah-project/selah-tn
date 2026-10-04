@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 21:7",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Morwa wa motho, bea sefatoko sa gago kwa Yerushalayime, mme o tlhagase kwa mafelong a boitshepo, mme o porofete kgatlhanong le lefatshe la Yisraele.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "שים",
+      "gloss": "bea"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatoko sa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "mme o tlhagase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "mafelong a boitshepo"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "mme o porofete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T00:38:19.038466356Z",
+  "model": "glm-5.3"
+}

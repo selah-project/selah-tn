@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "O tla ba batla mme o se ka wa ba fitlhela — banna ba kganano ya gago; ba tla nna jaaka e se kai le jaaka lefela, banna ba ntwa ya gago.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "o tla ba batla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "o tla ba fitlhela"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "kganano ya gago"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla nna"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "jaaka e se kai"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "le jaaka lefela"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "ntwa ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:17.010799031Z",
+  "model": "glm-5.3"
+}

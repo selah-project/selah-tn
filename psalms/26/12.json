@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Lonao lwa me lwa ema mo lefelong le le tlhamaletseng; mo diphuthegong ke tla loleka Yahwe.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "lonao lwa me"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "lwa ema"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "mo lefelong le le tlhamaletseng"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "mo diphuthegong"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ke tla loleka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:37.621732635Z",
+  "model": "glm-5.3"
+}

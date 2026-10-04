@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Kwa go se builweng sa kgosi go na le taolo, mme ke mang yo o ka buang le ena a re: o dira eng?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "se builweng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa kgosi"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "go na le taolo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mme ke mang"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yo o ka buang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "le ena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o dira"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:41.079174450Z",
+  "model": "glm-5.3"
+}

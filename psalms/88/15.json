@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "Ke ka eng, Yahwe, o latlha botshelo jwa me? o fitlha sefathego sa gago go tswa go nna?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ke ka eng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "o latlha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "botshelo jwa me"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "o fitlha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefathego sa gago"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:24.172563774Z",
+  "model": "glm-5.3"
+}

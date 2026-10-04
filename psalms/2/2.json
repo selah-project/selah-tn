@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Makgosi a lefatshe a itlhoma, mme ba ba busang ba kopanela mmogo, kgatlhanong le Yahwe le kgatlhanong le Mashiakh wa gagwe.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "a itlhoma"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "makgosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a lefatshe"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "mme ba ba busang"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "ba kopanela mmogo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le kgatlhanong le"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiakh wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:33.830747758Z",
+  "model": "glm-5.3"
+}

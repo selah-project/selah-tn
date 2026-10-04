@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 112,
+  "translation": "Sengodiso le khumo di lego mo ntlong ya gagwe; mme tsedeko ya gagwe e eme ka bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "sengodiso"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "le khumo"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mo ntlong ya gagwe"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "mme tsedeko ya gagwe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ka bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:54.433055858Z",
+  "model": "glm-5.3"
+}

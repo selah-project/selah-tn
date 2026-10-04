@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Go moeteledipele; ka ga «Yonate-eleme-rekhokime»; psalema ya Dawide; Mikhitame; fa Bafalishiti ba ne ba tshwara ⟨את⟩ ene kwa Gathe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteledipele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonate"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "eleme"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rekhokime"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhitame"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "fa ba ne ba tshwara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ene"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalishiti"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "kwa Gathe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:55.226272939Z",
+  "model": "glm-5.3"
+}

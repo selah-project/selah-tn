@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Yahwe Adonai wa rona, leina la gago le kgolo thata mo lefatshheng lotlhe, wena o o beileng kutlo ya gago godimo ga magodimo!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wa rona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kgolo thata"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "le kgolo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo lefatshheng lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wena o o"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "beileng"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kutlo ya gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:58.209670866Z",
+  "model": "glm-5.3"
+}

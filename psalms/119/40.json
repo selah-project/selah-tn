@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Bonwe, ke ne ke sa tshele go batla melawana ya gago; ka tsedekeng ya gago mphe botshelo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "ke ne ke sa tshele go batla"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "melawana ya gago"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedekeng ya gago"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "mphe botshelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:10.474543890Z",
+  "model": "glm-5.3"
+}

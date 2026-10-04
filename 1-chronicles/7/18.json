@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme kgaitsadie Hamolekhete o ne a bea ⟨את⟩ Ishode, le ⟨את⟩ Abiezerre, le ⟨את⟩ Makhla.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Mme kgaitsadie"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamolekhete"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "o ne a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishode"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abiezerre"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezerre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Makhla"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Makhla"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:52.582573861Z",
+  "model": "glm-5.3"
+}

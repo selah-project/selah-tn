@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Bonang, phaphatha ya boroko ya ga Solomone; banna ba maatla ba le masome a mataro ba e dikologile, ba tswa mo banneng ba maatla ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "phaphatha ya boroko ya gagwe"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "ya ga Solomone"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ba le masome a mataro"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "banna ba maatla"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ba dikologile"
+    },
+    {
+      "surface": "לה",
+      "gloss": "e"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "mo banneng ba maatla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:07:06.516718849Z",
+  "model": "glm-5.3"
+}

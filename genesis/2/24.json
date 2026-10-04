@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ka ntlha ya seo, monna o tla tlogela ⟨את⟩ rraagwe le ⟨את⟩ mmaagwe, mme a nna le mosadi wa gagwe; mme ba tla nna nama e le nngwe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "o tla tlogela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraagwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mmaagwe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmaagwe"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "mme a nna le"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme ba tla nna"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:32.351285904Z",
+  "model": "glm-5.3"
+}

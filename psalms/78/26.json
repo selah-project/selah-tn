@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "O ne a tlisa phefo ya botlhale kwa magodimong, mme ka maatla a gagwe a etelela phefo ya borwa.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "O ne a tlisa"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "phefo ya botlhale"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "a etelela"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "ka maatla a gagwe"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "phefo ya borwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:48.600772682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme go ba ba kgodisitsweng ba bana ba Yisraele ga a ka a neela seatla sa gagwe; mme ba lebelela ⟨את⟩ Elohim, mme ba ja mme ba nwa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mme go"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "ba ba kgodisitsweng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "ba lebelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ba nwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:23.571001557Z",
+  "model": "glm-5.3"
+}

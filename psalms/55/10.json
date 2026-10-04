@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Adonai, e mo tsweletse, arola lone lefoko la bone, gonne ke bone dikgoka le kgotlhang mo motseng.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "e mo tsweletse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "arola"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lone lefoko la bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dikgoka"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "le kgotlhang"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo motseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:23.825496793Z",
+  "model": "glm-5.3"
+}

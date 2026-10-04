@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Yo mongwe wa batlhanka ba gaga yo e tla fumiwang le ⟨את⟩ ene, a tlhole; mme le rona re tla nna batlhanka ba morena wa rona.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "e tla fumiwang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le ⟨את⟩ ene",
+      "marks": "yo mongwe wa batlhanka ba gaga"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "mongwe wa batlhanka ba gaga"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a tlhole"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "re tla nna"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ba morena wa rona"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "batlhanka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:57.987941788Z",
+  "model": "glm-5.3"
+}

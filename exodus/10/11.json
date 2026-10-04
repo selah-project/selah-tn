@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Go nna jalo ga go a siama; tsamayang ruri lona banna, le dire Yahwe ⟨את⟩, gore seo lo se batlang ke lona; mme a ba tlhotlhomolola ⟨את⟩ ba ba tswa kwa 〈pelong ya〉 Farao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "go nna jalo ga go a siama"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לכו",
+      "gloss": "tsamayang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "lona banna"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "le dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ seo",
+      "marks": "lona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "lo batlang"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "a ba tlhotlhomolola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba ba tswa kwa pelelong ya Farao"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kwa pelelong ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pelo ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:14.097962271Z",
+  "model": "glm-5.3"
+}

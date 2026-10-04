@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "Mo mosong e a thunya mme e feta; bosegong e a segama mme e oma.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Mo mosong"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "e a thunya"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "mme e feta"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "bosegong"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "e a segama"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "mme e oma"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:20.480351092Z",
+  "model": "glm-5.3"
+}

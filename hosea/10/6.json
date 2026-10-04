@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "⟨את⟩ yone gape e tlaa isiwa go ya kwa Ashure, e le minkha go kgosi Yarebe; Efrayime o tlaa amogela tshwenyo, mme Yisraele o tlaa swabisega ka kgakololo ya gagwe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "yone (ntlha)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "go ya kwa Ashure"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "e tlaa isiwa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go kgosi"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarebe"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "tshwenyo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tlaa amogela"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "mme o tlaa swabisega"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "ka kgakololo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:56:13.605562818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "E nne jaaka bontsho jwa go mo apara, le jaaka mokhubu o a o kgarelang ka metlha.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "e nne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "jaaka bontsho"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "jwa go mo apara"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "le jaaka mokhubu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka metlha"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "o a o kgarelang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:24.074971116Z",
+  "model": "glm-5.3"
+}

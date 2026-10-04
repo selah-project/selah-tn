@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Se sutise molelwane wa kale, mme o se ke wa tsena masimong a dihlogwana.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "sutise"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa kale"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "mme ... masimong a"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "dihlogwana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "tsena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:49:56.776925523Z",
+  "model": "glm-5.3"
+}

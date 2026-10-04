@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme a tswelela go belega ⟨את⟩ kgaitsadio, ⟨את⟩ Habhele. Mme Habhele a nna mokolusi wa dinku, mme Kaine a nna mmmedi wa lefatshe.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Mme a tswelela"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "go belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgaitsadio\/ Habhele"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kgaitsadio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Habhele"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Habhele"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Mme a nna"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Habhele"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mokolusi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "mme Kaine"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mmmedi"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:42.625841111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "mme a dira hesede go ya diketeketeng, go ba ba mo ratang le go ba ba bolokang melao ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "go ya diketeketeng"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "go ba ba mo ratang"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "le go ba ba bolokang"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "melao ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:00.839527647Z",
+  "model": "glm-5.3"
+}

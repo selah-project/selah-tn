@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Yahwe a bona Shelomoh la bobedi, jaaka a ne a bonwa ke ene kwa Gibhone.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "a ne a bonwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ke ene"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "kwa Gibhone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:43.249887010Z",
+  "model": "glm-5.3"
+}

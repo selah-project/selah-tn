@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Ditiro tsa gago tsotlhe di tla go leboga, Yahwe, mme baitaabi ba gago ba go neella mohau.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "di tla go leboga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ditiro tsa gago"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "mme baitaabi ba gago"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "ba go neella mohau"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:58.125458563Z",
+  "model": "glm-5.3"
+}

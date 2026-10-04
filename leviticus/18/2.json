@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Bua le bana ba Yisraele, o ba re: Ene, Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ו אמרת",
+      "gloss": "o ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:05.232078897Z",
+  "model": "glm-5.3"
+}

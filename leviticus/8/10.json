@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Moshe a tsaya ⟨את⟩ mafura a go tlodisa, a tlodisa ⟨את⟩ Mishkane le ⟨את⟩ sengwe le sengwe se se mo go sone, mme a di itshepisa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a go tlodisa"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "a tlodisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "se mo go sone"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a di itshepisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:01.371856025Z",
+  "model": "glm-5.3"
+}

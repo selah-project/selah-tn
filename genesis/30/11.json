@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Lea a re: Masego a tlile! Mme a bitsa ⟨את⟩ leina la gagwe Gade.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Masego a tlile"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gade"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:53.676804303Z",
+  "model": "glm-5.3"
+}

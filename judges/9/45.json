@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Abimeleke o ne a lwa kgatlhanong le ⟨the⟩ toropo letsatsi lothe leo; mme a gapa ⟨את⟩ toropo, a bolaya ⟨את⟩ setshaba se se mo go yona; mme a thuba ⟨את⟩ toropo, a e jala letswai.",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Mme Abimeleke"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "o ne a lwa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kgatlhanong le toropo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a gapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a bolaya"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "a thuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "a e jala"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "letswai"
+    }
+  ],
+  "timestamp": "2026-10-03T22:49:45.344389731Z",
+  "model": "glm-5.3"
+}

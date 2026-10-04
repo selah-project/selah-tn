@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Ka gonne jaaka magodimo a kwa godimo ga lefatshe, jalo hesede ya gagwe e nonofile mo go ba ba mo sesifang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "jaaka ... a kwa godimo ga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "e nonofile"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ba ba mo sesifang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:32.879719138Z",
+  "model": "glm-5.3"
+}

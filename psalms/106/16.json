@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Ba ile ba tlhora Moshe kwa kampeng, le Aharone, yo o boitshepo ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ba tlhora"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "kwa kampeng"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "yo o boitshepo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ga Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:44.198673392Z",
+  "model": "glm-5.3"
+}

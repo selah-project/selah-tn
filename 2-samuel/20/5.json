@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Amasa a ya go bitsa ⟨את⟩ Yuda, mme a tlatsa go feta nako e e beilweng e a neng a e mo beile.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "go bitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "mme a tlatsa go feta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "nako e e beilweng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "a neng a e mo beile"
+    }
+  ],
+  "timestamp": "2026-10-03T23:17:19.353718654Z",
+  "model": "glm-5.3"
+}

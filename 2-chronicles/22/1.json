@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 22:1",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme baagi ba Yerushalayime ba ne ba tlhoma ⟨את⟩ Akhaziahu morwawe wa mosetlhana mo bofelong jwa gagwe, gonne setlhopha se se neng se tla le Baarabe kwa kampeng se ne sa bolaya ba ba neng ba le pele ka botlalo; mme Akhaziahu morwa Yehorame, kgosi ya Yehuda, a nna kgosi.",
+  "tokens": [
+    {
+      "surface": "וימליכו",
+      "gloss": "ba ne ba tlhoma"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "baagi ba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhaziahu"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Akhaziahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwawe"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "wa mosetlhana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mo bofelong jwa gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ba ba neng ba le pele"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "sa bolaya"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "setlhopha"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "se se neng se tla"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "le Baarabe"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwa kampeng"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a nna kgosi"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Akhaziahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorame"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-04T02:53:56.942453541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Elohim o buile ka boitshepo jwa gagwe: Ke tla ithabisa, ke tla kgaoganya Shekeme, mme ke ela lefatshe la Sukote.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ka boitshepo jwa gagwe"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ke tla ithabisa"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ke tla kgaoganya"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "mme ... lefatshe"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "la Sukote"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ke ela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:24.148195390Z",
+  "model": "glm-5.3"
+}

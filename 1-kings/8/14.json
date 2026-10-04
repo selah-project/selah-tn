@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme kgosi a kgabohela sefathegong sa gagwe, a aloga ⟨את⟩ phuthego yotlhe ya Yisraele; mme phuthego yotlhe ya Yisraele e eme.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "a kgabohela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefathego sa gagwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefathego sa gagwe"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a aloga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phuthego yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme phuthego yotlhe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "e eme"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:25.026247510Z",
+  "model": "glm-5.3"
+}

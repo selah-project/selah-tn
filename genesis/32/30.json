@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Yaakobo a botsa, a re: Tsenosa ka kopo leina la gago. Mme a re: Ke eng foo o ka botsang leina la me? Mme a mo beatletsa fela gone.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "mme a botsa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "tsenosa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ka kopo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "foo"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "o ka botsang"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "leina la me"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mme a beatletsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Yaakobo)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "fela gone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:24:18.136362887Z",
+  "model": "glm-5.3"
+}

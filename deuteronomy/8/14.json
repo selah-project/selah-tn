@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "pelo ya gago e nne e ikgodise, mme o tlhoka go gakologelwa ⟨את⟩ Yahwe Elohim wa gago, yo o go tsamaisang a go ntsha kwa lefatsheng la Mitsrayime, kwa ntlong ya bokgoba;",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "e ikgodise"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "o tlhoka go gakologelwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "yo o go tsamaisang a go ntsha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kwa lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kwa ntlong ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bokgoba"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:53.700373801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Yahwe, ka ratong ya gago o ne wa dira gore thaba ya me e eme ka nonofo; o ne wa fitlha sefatlhego sa gago, mme ke ne ke tshogile thata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ka ratong ya gago"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "o ne wa dira gore ... e eme"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "thaba ya me"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ka nonofo"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "o ne wa fitlha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "tshogile thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:00.956322124Z",
+  "model": "glm-5.3"
+}

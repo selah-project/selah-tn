@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Pele thapo ya selefera e sa thakanngwa, sejana sa gauta se sa thunngwa, kgogo e sa thunngwa kwa motsweding, mme seetane se sa thunngwa kwa sedibeng.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Pele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨gore⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "thapo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ya selefera"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "se sa thunngwa"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "sejana"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sa gauta"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "e sa thunngwa"
+    },
+    {
+      "surface": "כד",
+      "gloss": "kgogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "motsweding"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "se sa thunngwa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "seetane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "sedibeng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:06.968933233Z",
+  "model": "glm-5.3"
+}

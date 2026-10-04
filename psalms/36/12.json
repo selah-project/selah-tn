@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "A sefonyana sa kgodiso se se ka sa tla go nna, mme seatla sa ba ba bosula se se ka se ka ntshikinya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "A"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "se se ka sa tla go nna"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "sefonyana"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "sa kgodiso"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "mme seatla"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa ba ba bosula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se se ka se ka"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "ntshikinya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:11.978619098Z",
+  "model": "glm-5.3"
+}

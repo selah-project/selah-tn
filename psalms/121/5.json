@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 121,
+  "translation": "Yahwe ke ⟨moloki⟩ wa gago; Yahwe ke morwalela wa gago, mo seatleng sa jaanong ya gago.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ke ⟨moloki⟩ wa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ke morwalela wa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatleng"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sa jaanong ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:58.742237784Z",
+  "model": "glm-5.3"
+}

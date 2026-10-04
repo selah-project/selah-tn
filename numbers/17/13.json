@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme o ne a ema gare ga ba ba swang le ba ba tshelang, mme seetseleo se ne sa emisiwa.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "mme o ne a ema"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ba ba swang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le gare ga"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ba ba tshelang"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "mme se ne sa emisiwa"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "seetseleo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:10:33.203327230Z",
+  "model": "glm-5.3"
+}

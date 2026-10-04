@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "A setulo sa bosula se ka kopana le wena, se bopang boiele ka molao?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "se ka kopana le wena"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "sa bosula"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "se bopang"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "boiele"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חק",
+      "gloss": "molao"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:36.647763535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Uze a belegisa ⟨את⟩ Zerakhia, mme Zerakhia a belegisa ⟨את⟩ Merajote.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Mme Uze"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a belegisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerakhia"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerakhia"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "mme Zerakhia"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a belegisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajote"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajote"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:43.328579666Z",
+  "model": "glm-5.3"
+}

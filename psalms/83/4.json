@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "Ba dira kgakala kgahlanong le setshaba sa gago, mme ba kopana ka bonwe kgahlanong le ba o ba fitlhetse.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "ba dira kgakala"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ka bonwe"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "mme ba kopana ka botsamaisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "ba o ba fitlhetse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:07.557882563Z",
+  "model": "glm-5.3"
+}

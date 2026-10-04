@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "Ba ka se isekele ka bosenki, mme ba ka se begele bana ba tshwenyego; gonne bone ke peo ya ba Yahwe a ba logetseng, le dikokomana tsa bone di na le bone.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba ka se"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "isekele"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ka bosenki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ka se"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "begele"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "bana ba tshwenyego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "a ba logetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bone ke"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "le dikokomana tsa bone"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le ⟨את⟩ bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:05:46.503786623Z",
+  "model": "glm-5.3"
+}

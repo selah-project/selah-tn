@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Yahwe, reetsa thapelo ya me, mme go kua ga me go tle go wena.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "reetsa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "mme go kua ga me"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "go tle"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:15.838354139Z",
+  "model": "glm-5.3"
+}

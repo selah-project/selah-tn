@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Yahwe Tsebaote o na le rona; Elohim wa Yaakobo ke phaka ya rona. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "o na le rona"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "phaka ya rona"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ya rona"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:59.999218503Z",
+  "model": "glm-5.3"
+}

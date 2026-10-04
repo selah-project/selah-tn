@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Gore dithoto tsa bone di ne di le dintsi thata gore ba kgone go nna mmogo; mme lefatshe la bofaladi ba lona le ne le sa kgone go ba rwala, ka ntlha ya dikgomo tsa bone tse dintsi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di ne di le"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "dithoto tsa bone"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dintsi thata"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ... sa"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "bofaladi ba lona"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "go ba rwala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "go ba rwala"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "dikgomo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:34.821212692Z",
+  "model": "glm-5.3"
+}

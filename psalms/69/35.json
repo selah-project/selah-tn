@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "A magodimo le lefatshe a mo dumelwe, mawatle le sengwe le sengwe se se rarang mo go tsone.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "a mo dumelwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mawatle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sengwe le sengwe"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "se se rarang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:23.280296840Z",
+  "model": "glm-5.3"
+}

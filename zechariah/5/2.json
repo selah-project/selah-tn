@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 5:2",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "A m bua kwa go nna: O bona eng? Mme ke re: Ke bona mogala o lofofang; botelele jwa one ke masome a mabedi ka esome, mme bophara jwa one ke lesome ka esome.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A m bua"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "o bona"
+    },
+    {
+      "surface": "ויאמר… ואמר",
+      "gloss": "",
+      "notes": ""
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Mme ke re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "mogala"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "o lofofang"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "botelele jwa one"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka esome"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "mme bophara jwa one"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka esome"
+    }
+  ],
+  "timestamp": "2026-10-04T01:09:11.740038302Z",
+  "model": "glm-5.3"
+}

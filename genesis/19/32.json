@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Tla, re mo nwaye ⟨את⟩ rre wine, re mo robale, gore re boloke peo e e tswang go rre.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "tla"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "re mo nwaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rre"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "rre"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "re mo robale"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "re boloke"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "e e tswang go rre"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:38.833594049Z",
+  "model": "glm-5.3"
+}

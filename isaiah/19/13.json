@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Baetapele ba Tsowane ba ne ba nna bonyofole; baetapele ba Nofe ba ne ba latofetswe; ba ne ba tlhakatlhakantse ⟨את⟩ Mitsrayime, khutlo ya makgotla a yone.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "ba ne ba nna bonyofole"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "baetapele ba"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsowane"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ba ne ba latofetswe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "baetapele ba"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nofe"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "ba ne ba tlhakatlhakantse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "khutlo"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "ya makgotla a yone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:54.767567526Z",
+  "model": "glm-5.3"
+}

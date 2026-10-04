@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "A di nne tsa gago ka bowena, mme go se ke ga nna le bafaladi ⟨את⟩ le wena.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "A di nne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsa gago"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ka bowena"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme go se ke ga nne"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "le bafaladi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:41.122479482Z",
+  "model": "glm-5.3"
+}

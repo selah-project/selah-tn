@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Se akanye ⟨את⟩ motlhanka wa gago wa mosadi jaaka morwadia Beliale; gonne ka bontsi jwa tebelo ya me le bolwetse jwa me ke ne ke bua go fitlha ga jaana.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "akanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motlhanka wa gago wa mosadi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "motlhanka wa gago wa mosadi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ka bontsi jwa"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "tebelo ya me"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "bolwetse jwa me"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke ne ke bua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga jaana"
+    }
+  ],
+  "timestamp": "2026-10-03T22:55:22.195775752Z",
+  "model": "glm-5.3"
+}

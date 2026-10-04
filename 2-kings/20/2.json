@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Khizkiyakhu a boesa ⟨את⟩ sefatlhego sa gagwe kwa boteng, mme a rapela go Yahwe, a re:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "a boesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefatlhego sa gagwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefatlhego sa gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "boteng"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "mme a rapela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:10.173768330Z",
+  "model": "glm-5.3"
+}

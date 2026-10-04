@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ga lo a lo ga leka go tlhatloga, mme lo kgwetlha ⟨את⟩ molomo wa Yahwe Elohim wa lona.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "lo a lo leka"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "go tlhatloga"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "mme lo kgwetlha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:14.373513391Z",
+  "model": "glm-5.3"
+}

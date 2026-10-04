@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "A nna a tsaya banna ba dikete di le tlhano, mme a ba isa kwa go nna ba le borphaphathi magareng ga Bethe-Ele le Aye, kwa bophirima jwa motse.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mme a tsaya"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "ba dikete di le tlhano"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mme a ba isa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "borphaphathi"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "go nna ba le borphaphathi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethe-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le magareng ga"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Aye"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kwa bophirima"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "jwa motse"
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:53.110620022Z",
+  "model": "glm-5.3"
+}

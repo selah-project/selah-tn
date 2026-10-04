@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 149,
+  "translation": "Dithoko tse di kgodisang tsa El di mo mangong a bone, le tshaka ya maphiko a yone ka diatla tsa bone;",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "dithoko tse di kgodisang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "mo mangong a bone"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "le tshaka"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ya maphiko a yone"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ka diatla tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:35.217460677Z",
+  "model": "glm-5.3"
+}

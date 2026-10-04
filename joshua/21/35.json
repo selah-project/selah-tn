@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimena le ⟨את⟩ megolokwane ya yone, ⟨את⟩ Nahalale le ⟨את⟩ megolokwane ya yone — ditoropo di le nne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimena"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "megolokwane ya yone"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "megolokwane ya yone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalale"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "megolokwane ya yone"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "megolokwane ya yone"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "di le nne"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:31.904504676Z",
+  "model": "glm-5.3"
+}

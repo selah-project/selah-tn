@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Gakologelwang dilo tsa gagwe tse di kgakgamatsang tse a di dirileng, diphoso tsa gagwe le dikatlholo tsa molomo wa gagwe.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Gakologelwang"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "dilo tsa gagwe tse di kgakgamatsang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di dirileng"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "diphoso tsa gagwe"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "le dikatlholo tsa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:27.175348710Z",
+  "model": "glm-5.3"
+}

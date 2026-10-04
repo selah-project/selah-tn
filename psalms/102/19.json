@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Se se tla kwalwa mo baneng ba isago, le setshaba se se tlang go bopiwa se tla rotloetsa Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "se se tla kwalwa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "mo baneng"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ba isago"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le setshaba"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "se se tlang go bopiwa"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "se tla rotloetsa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:27.442682642Z",
+  "model": "glm-5.3"
+}

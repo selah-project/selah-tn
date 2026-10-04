@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ngwana yo o humanegileng mme yo nang le bohlale o molemo go feta kgosi e kgolwane e se nang bohlale, ya sa itseng go amogela temoso gape.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "yo o humanegileng"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "mme yo nang le bohlale"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "go feta kgosi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "e kgolwane"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "e se nang bohlale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "itseng"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "go amogela temoso"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:10.351958751Z",
+  "model": "glm-5.3"
+}

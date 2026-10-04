@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Go siame gore o tshware se, mme le go tswa mo se sengweng o se ka wa ikgolola ⟨את⟩ seatla sa gago; gonne yo o tshabang Elohim o tlaa tswa ⟨את⟩ mo go tsone tsotlhe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Go siame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "o tshware"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "go se sengwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "wa ikgolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gago"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yo o tshabang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tlaa tswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsotlhe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mo go tsone tsotlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:40.911235648Z",
+  "model": "glm-5.3"
+}

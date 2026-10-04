@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme go fitlha kwa bofelong jwa malatsi a mane, Noe a bula ⟨את⟩ lebatli la sekeke a se a neng a se dirile.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go diragetse"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "kwa bofelong jwa"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "a mane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebatli la sekeke"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "lebatli"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "la sekeke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a neng a se dirile"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:03.919877246Z",
+  "model": "glm-5.3"
+}

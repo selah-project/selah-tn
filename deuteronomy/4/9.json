@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 4:9",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Fela o ipaakanyetse, mme o sireletse motho wa gago ka tlhoafalo, gore o se ke wa lebala ⟨את⟩ dilo tseo matlho a gago a di boneng, le gore di se ka tsa mela pelo ya gago, matsatsi otlhe a botshelo jwa gago; mme o di tlhalose bana ba gago le bana ba bana ba gago.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "o ipaakanyetse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "mme o sireletse"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "motho wa gago"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ka tlhoafalo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore o se ke"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wa lebala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dilo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "a boneng"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matlho a gago"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "le gore"
+    },
+    {
+      "surface": "יסורו",
+      "gloss": "di se ka tsa mela"
+    },
+    {
+      "surface": "מלבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "botshelo jwa gago"
+    },
+    {
+      "surface": "והודעתם",
+      "gloss": "mme o di tlhalose"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "bana ba gago"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:14.198770522Z",
+  "model": "glm-5.3"
+}

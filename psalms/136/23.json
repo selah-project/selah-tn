@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Yo o neng a gakologelwa rona kwa maemong a rona a kwa tlase: gore ka boshwa hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "kwa maemong a rona a kwa tlase"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yo o neng a gakologelwa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka boshwa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:27.473016699Z",
+  "model": "glm-5.3"
+}

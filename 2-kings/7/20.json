@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme go ne go le jalo go ene: setshaba sa mo tlhatlhoditse ⟨אתו⟩ kwa kgorong, mme a tlhokafala.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go le jalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "sa mo tlhatlhoditse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mothusi wa bone (mo)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kwa kgorong"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mme a tlhokafala"
+    }
+  ],
+  "timestamp": "2026-10-03T23:35:45.817266566Z",
+  "model": "glm-5.3"
+}

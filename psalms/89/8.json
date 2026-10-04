@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "El yo o tshosang thata mo lephirimisong la ba ba boitshepo, mme yo o tshosang botlhe ba ba mo dikologileng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "yo o tshosang"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "mo lephirimisong la"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ba ba boitshepo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "thata"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mme yo o tshosang"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ba ba mo dikologileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:38.087250477Z",
+  "model": "glm-5.3"
+}

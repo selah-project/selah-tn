@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme nna ke ne ke ruta Efrayime go tsamaya, ke ne ke ba tsholetsa ka dikgogo tsa bona; mme ba ne ba sa itse gore ke nna ke ne ke ba fodisa.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ke ne ke ruta go tsamaya"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ke ne ke ba tsholetsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "dikgogo tsa bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ne ba sa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ke ne ke ba fodisa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:15.687639025Z",
+  "model": "glm-5.3"
+}

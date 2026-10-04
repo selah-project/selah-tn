@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "mme fa lo hatela melawana ya me, mme fa mophologo wa lona o kgoreletsa ⟨את⟩ dikatlholo tsa me, go se ke go dirwa ⟨את⟩ ditaelo tsotlhe tsa me, go phutlhama kgolagano ya me,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "melawana ya me"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "lo hatela"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikatlholo tsa me"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikatlholo tsa me"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "o kgoreletsa"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "mophologo wa lona"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "go se ke go"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "dirwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaelo tsotlhe tsa me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ditaelo tsa me"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "go phutlhama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano ya me"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:23.239990184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Yahwe Elohim ya rona, beng ba bangwe, ntle le wena, ba ne ba re laola; ka wena fela re gopola ⟨את⟩ leina la gago.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ya rona"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "ba ne ba nna beng ba rona"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "beng"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "ntle le wena"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "fela"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "re gopola"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:23.576807675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme kgosi ya dira gore kwa Yerushalayime go nne le ⟨את⟩ selefera jaaka maje, mme ⟨את⟩ dikedarose a di neela jaaka dishikomore tse di mo sekgopeng, ka bontsi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ya neela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selefera"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "jaaka maje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikedarose"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "dikedarose"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "jaaka dishikomore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "mo sekgopeng"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ka bontsi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:09:49.816241472Z",
+  "model": "glm-5.3"
+}

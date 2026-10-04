@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme ke ka gore ke eng lo re tlisitse kwa Mitsrayime, go re isa kwa lefelong le le bosula leno? Ga se lefelo la peo, kgotsa la mofige, wa moupo, wa segranate; mme metsi a go nwa ga a yo.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "mme ke ka gore ke eng"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "lo re tlisitse"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "go re isa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ re",
+      "marks": "re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "le le bosula"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "la peo"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "kgotsa la mofige"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "wa moupo"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "wa segranate"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "mme metsi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga a yo"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "a go nwa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:12:20.853937802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme fa bogosi bo ne bo nonofile mo go ene, o ne a bolaya ⟨את⟩ badiri ba gagwe, ba ba neng ba bolaya ⟨את⟩ kgosi rraagwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "bo ne bo nonofile"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bogosi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "o ne a bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badiri ba gagwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "badiri ba gagwe"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ba ba neng ba bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:27:44.506446875Z",
+  "model": "glm-5.3"
+}

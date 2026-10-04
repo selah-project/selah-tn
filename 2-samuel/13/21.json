@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme kgosi Dawide a utlwa ⟨את⟩ mafoko tsotlhe a a ntseng jalo, mme a galefa thata.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Mme kgosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafono tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a a ntseng jalo"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "a galefa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-03T23:11:29.295925669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 6:25",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mafoko a tsedeke a thata jang! mme kganelo e e tswang mo go lona e kgotsofatsa eng?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "jang"
+    },
+    {
+      "surface": "נמרצו",
+      "gloss": "a thata"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "a tsedeke"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mme eng"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "e kgotsofatsa"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "kganelo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "mo go lona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:54:56.124697451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Le ⟨את⟩ dimetheo di le lesome, le ⟨את⟩ dikgeri di le lesome tse di mo godimo ga dimetheo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dimetheo"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dimetheo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "di le lesome"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgeri"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "dikgeri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "di le lesome"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dimetheo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:22:08.034048726Z",
+  "model": "glm-5.3"
+}

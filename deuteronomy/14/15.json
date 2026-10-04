@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "le ⟨את⟩ morwadia yaenae, le ⟨את⟩ takhmase, le ⟨את⟩ shakhafe, le ⟨את⟩ nonyane ya tlhogo e tseneletseng, go ya ka mofuta wa yone",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "morwadia yaenae"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "yaenae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "takhmase"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "takhmase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shakhafe"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "shakhafe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nonyane ya tlhogo e tseneletseng"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "nonyane ya tlhogo e tseneletseng"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "go ya ka mofuta wa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:25:08.748507475Z",
+  "model": "glm-5.3"
+}

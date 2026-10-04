@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme ba se ka ba ntsha ⟨את⟩ Mokanaane yo o neng a nna kwa Gezere; mme Mokanaane o ne a nna mo bogareng jwa Efrayime go fitlha gompieno, mme o nna mmueledi wa tirwana.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ba se ka"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ba ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokanaane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanaane"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "yo o neng a nna"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "kwa Gezere"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme o ne a nna"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanaane"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mo bogareng jwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme o nna"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mmueledi wa tirwana"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tirwana"
+    }
+  ],
+  "timestamp": "2026-10-03T22:41:02.333629600Z",
+  "model": "glm-5.3"
+}

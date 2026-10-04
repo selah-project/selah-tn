@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Mme nna ke mphofo, ga na kitla ke itse; ke nne phologolo fa gare ga wena.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ke mphofo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ke itse"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke nne"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "fa gare ga wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:29.319522907Z",
+  "model": "glm-5.3"
+}

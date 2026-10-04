@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 16:17",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme Omri a tlala go tswa kwa Gibetone, le Yisraele yotlhe ena le ene, mme ba logela Tirtsa.",
+  "tokens": [
+    {
+      "surface": "ויעלה",
+      "gloss": "a tlala"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ena le ene"
+    },
+    {
+      "surface": "מגבתון",
+      "gloss": "go tswa kwa Gibetone"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "mme ba logela"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Tirtsa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:32.425594682Z",
+  "model": "glm-5.3"
+}

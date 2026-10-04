@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Makala a monna yo o mo kgalemang, Yah, le go mo ruta ka Torah ya gago.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Makala"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "a monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "o mo kgalemang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "le ka Torah ya gago"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "go mo ruta"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:33.170353367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Yonathane a thaya ⟨את⟩ setilo sa ba-Pelisethe se se kwa Gebaea; mme ba-Pelisethe ba utlwa. Mme Shaule a bula sefoforo lefatshe ka bophara, a re: A baHeberu ba utlwe.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mme a thaya"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setilo sa ba-Pelisethe"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "setilo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa ba-Pelisethe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "kwa Gebaea"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "mme ba utlwa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ba-Pelisethe"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "mme Shaule"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "sefoforo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka bophara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "a ba utlwe"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "baHeberu"
+    }
+  ],
+  "timestamp": "2026-10-03T23:00:08.118824918Z",
+  "model": "glm-5.3"
+}

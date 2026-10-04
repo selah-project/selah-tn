@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 141,
+  "translation": "Ntshireletse go tswa mo diatleng tsa sephefo ba ba se laleditseng go nna, le mo dithekaneng tsa ba ba dirang boipa.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ntshireletse"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mo diatleng tsa"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sephefo"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "ba ba laleditseng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "le mo dithekaneng"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tsa ba ba dirang"
+    },
+    {
+      "surface": "און",
+      "gloss": "boipa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:19.042353182Z",
+  "model": "glm-5.3"
+}

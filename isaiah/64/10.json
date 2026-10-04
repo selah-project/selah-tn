@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "Ntlo ya rona e e boitshepo le kgalalelo ya rona, kwa bo rona ba neng ba go akgola teng, e ile ya fodiwa ka molelo; mme dilo tsotlhe tse re di ratang di ile tsa senyega.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Ntlo"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "ya rona e e boitshepo"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "le kgalalelo ya rona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwa ... teng"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "ba go akgola"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bo rona"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e ile"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "ya fodiwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme tsotlhe"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "dilo tse re di ratang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di ile"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "tsa senyega"
+    }
+  ],
+  "timestamp": "2026-10-04T00:05:38.362688444Z",
+  "model": "glm-5.3"
+}

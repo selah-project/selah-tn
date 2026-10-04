@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ke ka ntlha yang fa ke ka ba ka bo nna o ba boemong jwa leruo la lona, boikarabelo jwa lona, le dikgotla tsa lona?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "ke ka ntlha yang fa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nna o ba boemong jwa"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ka bo nna"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "leruo la lona"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "boikarabelo jwa lona"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "le dikgotla tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:02.283099625Z",
+  "model": "glm-5.3"
+}

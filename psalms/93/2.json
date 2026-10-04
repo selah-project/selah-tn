@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 93,
+  "translation": "Kgoosi ya gago e tlhophile go tloga bogologolo; o tloga go sa tlhologelelwe.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "e tlhophile"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kgoosi ya gago"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "go tloga bogologolo"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "go sa tlhologelelwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:24.858840134Z",
+  "model": "glm-5.3"
+}

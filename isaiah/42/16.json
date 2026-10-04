@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 42:16",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme ke tla isa bataka mo tseleng e ba sa e itseng, mo ditseleng tse ba sa di itseng ke tla ba isa; ke tla dira lefifi pele ga bona go nela bone, le dithaka tsa go nela lekima. Dilo tse ke di dirile bone, mme ga ke ba tlogela.",
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "mme ke tla isa"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "bataka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba e itse"
+    },
+    {
+      "surface": "בנתיבות",
+      "gloss": "mo ditseleng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba di itse"
+    },
+    {
+      "surface": "אדריכם",
+      "gloss": "ke tla ba isa"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ga bona"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "go nela bone"
+    },
+    {
+      "surface": "ומעקשים",
+      "gloss": "le dithaka"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "go nela lekima"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dilo tse"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dilo tse"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ke di dirile bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "עזבתים",
+      "gloss": "ke ba tlogela"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:36.536913547Z",
+  "model": "glm-5.3"
+}

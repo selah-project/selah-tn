@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "O se ka wa amogela puo ya maaka, o se ka wa beya seatla sa gogo kafa go nang le yo o bobokaemetseng, go nna paki ya tlhogo ya sepe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wa amogela"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "puo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ya maaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "wa beya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gogo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kafa go nang le"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo o bobokaemetseng"
+    },
+    {
+      "surface": "להית",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "paki"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ya tlhogo ya sepe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:35.192889327Z",
+  "model": "glm-5.3"
+}

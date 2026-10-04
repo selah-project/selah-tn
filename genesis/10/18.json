@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Le ⟨את⟩ Moarvadi, le ⟨את⟩ Mozemari, le ⟨את⟩ Mohamati; mme moragonyana malapa a Mokenaane a ne a phatlalala.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Moarvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Moarvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mozemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Mozemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mohamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Mohamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme moragonyana"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "a ne a phatlalala"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a Mokenaane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:03.990143515Z",
+  "model": "glm-5.3"
+}

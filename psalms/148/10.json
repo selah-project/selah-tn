@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Diphologolo tsa naga, le leruo lotlhe; diphologolo tse di tsamayang fatshe, le dinonyane tsa mafuka.",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "diphologolo tsa naga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le lotlhe"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "leruo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "diphologolo tse di tsamayang fatshe"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "le dinonyane"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "tsa mafuka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:59.213654527Z",
+  "model": "glm-5.3"
+}

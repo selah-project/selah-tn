@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Ba banna ba Rama le ba Gaba, makgolo a thataro, masome a mabedi le mongwe.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ba banna ba"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "le ba Gaba"
+    },
+    {
+      "surface": "שש",
+      "gloss": "thataro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "le mongwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:32:18.206549896Z",
+  "model": "glm-5.3"
+}

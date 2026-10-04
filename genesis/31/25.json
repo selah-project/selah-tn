@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Labane a tsaya Yaakobo ka morataro; mme Yaakobo o ne a tshikinya ⟨את⟩ tenthe ya gagwe mo thabeng, mme Labane a tshikinya ⟨את⟩ bokaulengwe ba gagwe mo thabeng ya Gileade.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "a tsaya ka morataro"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "mme Yaakobo"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "o ne a tshikinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenthe ya gagwe"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tenthe ya gagwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mo thabeng"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "mme Labane"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "a tshikinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokaulengwe ba gagwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bokaulengwe ba gagwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mo thabeng"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ya Gileade"
+    }
+  ],
+  "timestamp": "2026-10-03T21:23:42.910424111Z",
+  "model": "glm-5.3"
+}

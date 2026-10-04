@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme setshaba sa lefatshe se ne se bopamatsa diatla tsa setshaba sa Yuda, mme se tshwenya ⟨את⟩ bone go aga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "se ne se bopamatsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "diatla tsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "mme se tshwenya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone (setshaba sa Yuda)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "go aga"
+    }
+  ],
+  "timestamp": "2026-10-04T03:25:39.027920683Z",
+  "model": "glm-5.3"
+}

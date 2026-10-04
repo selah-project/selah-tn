@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mmoni wa Amoni le Mmoni wa Moaba ga ba a ka ba tsena mo phuthegong ya Yahwe; lelovya la bona la bošome ga lo a ka lwa lo tsena mo phuthegong ya Yahwe, go ya bosakhutleng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "Mmoni wa Amoni"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "le Mmoni wa Moaba"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mo phuthegong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "דור",
+      "gloss": "lovya"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "la bošome"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "lo tsena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "la bona"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mo phuthegong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bosakhutleng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:01.549915806Z",
+  "model": "glm-5.3"
+}

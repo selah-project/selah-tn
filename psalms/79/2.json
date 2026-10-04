@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "Ba ne ba neela ⟨את⟩ dinawa tsa badiri ba gago e le dijo tsa dinonyane tsa magodimo, nama ya ba itshepileng ba gago e le dijo tsa phologolo ya lefatshe.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ba ne ba neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinawa tsa badiri ba gago"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "dinawa tsa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "badiri ba gago"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "e le dijo"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "tsa dinonyane"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa magodimo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "ya ba itshepileng ba gago"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "tsa phologolo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:37.353990097Z",
+  "model": "glm-5.3"
+}

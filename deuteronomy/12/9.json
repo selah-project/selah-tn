@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Gore ga lo tsena go fitlha jaanong kwa phomolong le kwa bosweng jo Yahwe Elohim ya lona a nyalang lona jone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "lo tsena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "phomolong"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "bosweng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a nyalang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:07.781860366Z",
+  "model": "glm-5.3"
+}

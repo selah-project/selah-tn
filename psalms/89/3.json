@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Gore ke ne ke re: Leruri hesede e agilwe; magodimo, o a itsema boikanyego jwa gago mo go tsone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "leruri"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "e agilwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "o a itsema"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "boikanyego jwa gago"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:52.427789879Z",
+  "model": "glm-5.3"
+}

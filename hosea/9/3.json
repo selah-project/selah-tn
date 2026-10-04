@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ga ba nne mo lefatsheng la Yahwe; mme Efrayime o tla boela mo Mitsrayime, le mo Ashure ba tla ja dilo tse di sa itshepang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba nne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "mme o tla boela"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mo Mitsrayime"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "le mo Ashure"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tse di sa itshepang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla ja"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:49.446327252Z",
+  "model": "glm-5.3"
+}

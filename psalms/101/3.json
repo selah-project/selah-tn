@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 101,
+  "translation": "Ga ke duele sepe se se senang boleng fa pele ga matlho a me; tiro ya ba ba tlola kgolakgola ke e mo tlhoyang; e ka se nke mo go nna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ke duele"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "se se senang boleng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "ya ba ba tlola kgolakgola"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke e mo tlhoyang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ka se"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:22.898518411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme go ne go le jalo, fa motlhanka wa Abrahame a utlwile ⟨את⟩ mafoko a bone, a ineela a thubama fatshe go Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go le jalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a utlwile"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "motlhanka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "wa Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a bone"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "mafoko a bone"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a ineela a thubama"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:28.291919871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme a ntsha ⟨את⟩ molomo wa yone wa ka fa teng le manyalo a yone, a e latlhela kwa botlhabatsatsi jwa altare, kwa lefelong la marothodi.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo wa yone wa ka fa teng"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "molomo wa yone wa ka fa teng"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "le manyalo a yone"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "a e latlhela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kwa botlhabatsatsi jwa altare"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kwa botlhabatsatsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "la marothodi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:42.014909392Z",
+  "model": "glm-5.3"
+}

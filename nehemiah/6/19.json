@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 6:19",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Gape dilo tsa gagwe tse dintle di ne di buiwa pele ga me, mme mafoko a me a ne a ntshiwa a ya kwa go ene; mangolo Tobiyah o ne a romela go ntsogisa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Gape"
+    },
+    {
+      "surface": "טובתיו",
+      "gloss": "dilo tsa gagwe tse dintle"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di ne di"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "buiwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga me"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "mme mafoko a me"
+    },
+    {
+      "surface": "היו",
+      "gloss": "a ne a"
+    },
+    {
+      "surface": "מוציאים",
+      "gloss": "a ntshiwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ya kwa go ene"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "mangolo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o ne a romela"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tobiyah"
+    },
+    {
+      "surface": "ליראני",
+      "gloss": "go ntsogisa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:30:13.326343273Z",
+  "model": "glm-5.3"
+}

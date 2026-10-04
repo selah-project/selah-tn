@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme Shaule a kgwisa ⟨את⟩ Amaleke, go tswa kwa Havila, go ya kwa Shure, e e leng kwa pele ga Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mme ... a kgwisa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleke"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "go tswa kwa Havila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e leng"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:01:13.635832158Z",
+  "model": "glm-5.3"
+}

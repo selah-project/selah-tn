@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Estere ga a ka a bolelela ⟨את⟩ setshaba sa gagwe le ⟨את⟩ losika lwa gagwe, gonne Mordekai o ne a mo laeditseng gore a se ka a bolelela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga a ka a"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "bolelela"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sa gagwe"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "losika lwa gagwe"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "losika lwa gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o ne a mo laeditseng"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ka a"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "bolelela"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:32.605461869Z",
+  "model": "glm-5.3"
+}

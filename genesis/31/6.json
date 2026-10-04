@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme lona lo a itse gore ka maatla a me otlhe ke ne ke direla ⟨את⟩ ra lona.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "lo a itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... otlhe"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a me"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ke ne ke direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ra lona"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ra lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:24:14.999952909Z",
+  "model": "glm-5.3"
+}

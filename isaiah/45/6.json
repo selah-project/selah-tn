@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Gore ba itse go tswa mo go tlhatloga ga letsatsi le go tswa bophirima, gore ga go sepe ntle le nna; ke nna Yahwe, mme ga go ⟨sepe⟩ se se santse.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba itse"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "go tswa mo go tlhatloga"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ga letsatsi"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "le go tswa bophirima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ga go sepe"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ntle le nna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "se se santse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:59:57.134152939Z",
+  "model": "glm-5.3"
+}

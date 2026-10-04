@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 11:7",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Ka jalo jalo o bua Adonai Yahwe: Ba lo bolaileng, ba lo ba beileng mo teng ga yona — ba ke nama, mme yona ke setshelo; mme ⟨את⟩ lona lo tla ntshiwa mo teng ga yona.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka jalo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "ba lo bolaileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "lo ba beileng"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "mo teng ga yona"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mme yona"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "setshelo"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (ba ba tlang go ntshiwa)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "lo tla ntshiwa"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "mo teng ga yona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:34:14.095173165Z",
+  "model": "glm-5.3"
+}

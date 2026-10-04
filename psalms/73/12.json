@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Bonang, baba ke bona; ba ba phedisang ka boitumelo bosakhutlhe ba okeditse maatla.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ba ba phedisang ka boitumelo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bosakhutlhe"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "ba okeditse"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "maatla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:39.266879797Z",
+  "model": "glm-5.3"
+}

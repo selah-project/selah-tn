@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme sekati sa gagwe, rraagwe wa mosetsana, a mo tshwara ka natla, a nna ⟨את⟩ le ene matsatsi a le mararo; ba je, ba nwa, ba robala koo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a mo tshwara ka natla"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "sekati sa gagwe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "wa mosetsana"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le ene"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a le mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ba je"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ba nwa"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ba robala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:53:46.188765524Z",
+  "model": "glm-5.3"
+}

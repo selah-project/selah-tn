@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 16:8",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme Yishai a bitla Abinadabe, mme a mo isa a tlhagisa fa pele ga Shemuelea; mme a re: Gape yo o mo go ene Yahwe ga a ka a mo tlhopha.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a bitla"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabe"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "mme a mo isa a tlhagisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuelea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "mo go yo o mo go ene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "a tlhopha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:00:49.426870631Z",
+  "model": "glm-5.3"
+}

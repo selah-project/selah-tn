@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "A ga lefatshe lothe lo kwa pele ga gago? Kgaoganya, ke kople, o se tloge fela nna; fa o ya ka molema, mme nna ke tla ya ka moja; le fa o ya ka moja, mme nna ke tla ya ka molema.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "kwa pele ga gago"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "kgaoganya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kople"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "molema"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "mme nna ke tla ya ka moja"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "le fa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "moja"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "mme nna ke tla ya ka molema"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:41.650931830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Dawide a ka oketsa eng gape go go buela? Mme wena o itse ⟨את⟩ modiredi wa gago, Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "mme eng"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "a ka oketsa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go go buela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modiredi wa gago"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiredi wa gago"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:10:27.378462555Z",
+  "model": "glm-5.3"
+}

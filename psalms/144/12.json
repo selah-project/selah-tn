@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Ya barwa ba rona e le jaaka ditlhari tse di moieditsweng mo bohutong jwa bona; barwadi ba rona e le jaaka dikhutlo, tse di segilweng go ya ka sebopego sa legodimo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "barwa ba rona"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "jaaka ditlhari tse di moieditsweng"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "go godilogang"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "mo bohutong jwa bona"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "barwadi ba rona"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "jaaka dikhutlo"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "tse di segilweng"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "go ya ka sebopego"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "sa legodimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:49.753689507Z",
+  "model": "glm-5.3"
+}

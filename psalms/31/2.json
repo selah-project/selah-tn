@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mo go wena, Yahwe, ke ne ke tshegetsa tshepho ya me; se ka ntšha maitemogelo go ya ka bosakhare; ka tsedeko ya gago, ntlhabolola.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Mo go wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke ne ke tshegetsa tshepho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ntšha maitemogelo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya ka bosakhare"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedeko ya gago"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ntlhabolola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:13.892681130Z",
+  "model": "glm-5.3"
+}

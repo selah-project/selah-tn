@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Theetsa, morwadie, mme o bone; o tlhophe tlhako ya gago; mme o lebale setshaba sa gago le ntlo ya rraago.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Theetsa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadie"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "mme o bone"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "o tlhophe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tlhako ya gago"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "mme o lebale"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "le ntlo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya rraago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:09.640893923Z",
+  "model": "glm-5.3"
+}

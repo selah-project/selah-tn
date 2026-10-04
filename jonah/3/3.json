@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Yonha a tshoga, a ya go Nineve, jaaka lefoko la Yahwe le ntse. Mme Nineve e ne e le motse o mogolo go Elohim, loeto la malatsi a tharo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tshoga"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jaaka lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Mme Nineve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "loeto"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "la malatsi a tharo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:41.654110204Z",
+  "model": "glm-5.3"
+}

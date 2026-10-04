@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme a tsamaya, a tserea ⟨את⟩ Gomere morwadia Diblayime; mme a imolola, a belega mo ngwana wa mosimane.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mme a tsamaya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tserea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomere"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomere"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayime"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "mme a imolola"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngwana wa mosimane"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:45.609103562Z",
+  "model": "glm-5.3"
+}

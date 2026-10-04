@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme lo tlaa e itshepisa ⟨את⟩ ngwaga wa masome a matlhano, mme lo tlaa bolelela kgololosego mo lefatshheng go baagi ba lona botlhe; ke Ngwaga wa Yubele, o tlaa nna wa lona, mme lo tlaa boela mongwe le mongwe kwa adaeng ya gagwe, mme mongwe le mongwe lo tlaa boela kwa losikeng lwa gagwe.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "lo tlaa e itshepisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwaga"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "wa masome a matlhano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "lo tlaa bolelela"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "kgololosego"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatshheng"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go botlhe"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "baagi ba lona"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Ngwaga wa Yubele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o tlaa nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wa lona"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "lo tlaa boela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "adaeng ya gagwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme mongwe le mongwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "losikeng lwa gagwe"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "lo tlaa boela"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:53.394921263Z",
+  "model": "glm-5.3"
+}

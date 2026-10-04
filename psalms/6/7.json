@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Ke lapile ka go nouga ga me; bosigo jotlhe ke dira gore bolao jwa me bo thume; ke a nyafatsa setulo sa go robala sa me ka matsogo a me.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ke lapile"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ka go nouga ga me"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "bo thume"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "bolao jwa me"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "ka matsogo a me"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "setulo sa go robala sa me"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "ke a nyafatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:26.023023525Z",
+  "model": "glm-5.3"
+}

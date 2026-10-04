@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Moshe a ⟨את⟩ ba laela, a re: Kwa bofelong jwa dingwaga tse supa, ka nako e e beilweng, ka ngwaga wa go tlhola dikoloto, moletlong wa dikhukhu,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a ba laela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba (bakaulengwe le babogolo)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "kwa bofelong jwa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tse supa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "ka nako e e beilweng"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ka ngwaga wa"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "wa go tlhola dikoloto"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "moletlong wa"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "dikhukhu"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:11.313795610Z",
+  "model": "glm-5.3"
+}

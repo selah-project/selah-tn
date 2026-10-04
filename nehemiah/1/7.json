@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Re go dirile ka tsela e e maswe, mme ra seka ra boloka ⟨את⟩ mehyo le ⟨את⟩ melawana le ⟨את⟩ dikatlholo, o di laetseng ⟨את⟩ Moshe modiri wa gago.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "ka tsela e e maswe"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "re go dirile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ra seka ra"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehyo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mehyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "melawana"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikatlholo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dikatlholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o di laetseng"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T02:29:14.938392570Z",
+  "model": "glm-5.3"
+}

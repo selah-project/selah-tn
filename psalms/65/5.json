@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "Go itumelela ga motho yo o mo tlhophang, mme o mo gaisetsa, a nne mo dikgorong tsa gago; re tla a tlala ka botoka jwa ntlo ya gago, boitshepo jwa tempole ya gago.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "go itumelela ga"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "o mo tlhophang"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "mme o mo gaisetsa"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "a nne"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "mo dikgorong tsa gago"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "re tla a tlala"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka botoka"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "jwa ntlo ya gago"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "jwa tempole ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:39.409605095Z",
+  "model": "glm-5.3"
+}

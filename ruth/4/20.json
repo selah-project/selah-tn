@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Aminadabe o begetse ⟨את⟩ Nakhashone, mme Nakhashone o begetse ⟨את⟩ Salma.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "mme Aminadabe"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o begetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhashone"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhashone"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "mme Nakhashone"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o begetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma"
+    }
+  ],
+  "timestamp": "2026-10-04T02:08:53.261650440Z",
+  "model": "glm-5.3"
+}

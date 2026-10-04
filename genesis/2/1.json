@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme magodimo le lefatshe di ne tsa fela, le masimo a tsone tsotlhe.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "di ne tsa fela"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "le lefatshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "masimo a tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:18.509084666Z",
+  "model": "glm-5.3"
+}

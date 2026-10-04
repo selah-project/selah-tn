@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Ka tsotlhe matsatsi a go senyegile go tla ikhutla ⟨את⟩ se se sa keng sa ikhutla mo malatsing a lona a Shabata, fa lona le nna mo go lona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "go senyegile"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "go tla ikhutla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se sa keng sa ikhutla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "ikhutla"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "mo malatsing a lona a Shabata"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "fa lona le nna"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo go yona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:06.243055310Z",
+  "model": "glm-5.3"
+}

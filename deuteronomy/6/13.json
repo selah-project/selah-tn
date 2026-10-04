@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahwe Elohim wa gago o tlaa mo tshaba, mme ⟨את⟩ one o tlaa mo direla, mme ka leina la gagwe o tlaa ikana.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "o tlaa mo tshaba"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "mme ⟨את⟩ one",
+      "marks": "one (Yahwe)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tlaa mo direla"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "mme ka leina la gagwe"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "o tlaa ikana"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:40.362107162Z",
+  "model": "glm-5.3"
+}

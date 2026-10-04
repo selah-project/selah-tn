@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "A ba ke ba leboga Yahwe ka hesede ya gagwe, le diphodiso tsa gagwe go bana ba batho!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "a ba ke ba leboga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ka hesede ya gagwe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le diphodiso tsa gagwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:17.611059493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Phutha mahuto go tswa go nna, gore ke nne monate, pele ke tsamaya mme ke seka wa nna.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "phutha mahuto"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa go nna"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "gore ke nne monate"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "mme ke seka wa nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:44.452387409Z",
+  "model": "glm-5.3"
+}

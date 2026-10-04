@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "E le neelano ya mabolokgware a ntlha o di neelang ⟨אתם⟩ go Yahwe; mme di se ka wa di isa mo altareng e le sefofane se se kgothatsang.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "neelano"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ya mabolokgware a ntlha"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "o di neelang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "go Yahwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme go"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mo altareng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "di se ka wa di isa"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "di ka godugela"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "e le sefofane"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "se se kgothatsang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:41.346518324Z",
+  "model": "glm-5.3"
+}

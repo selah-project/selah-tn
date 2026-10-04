@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme barwa ba Aharone ba tla di sekatse ⟨את⟩ mo altareng, mo godimo ga sephiro sa go fisang se se mo dikgotleng tse di mo molelong — mmamo wa phiro ya molelo, o o khotsofatsang go Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ba tla di sekatse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "di (mafura a sephiro sa kagiso)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ba Aharone"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mo altareng"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sephiro sa go fisang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dikgotleng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האש",
+      "gloss": "molelong"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "phiro ya molelo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "mmamo"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "o o khotsofatsang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:48.886113767Z",
+  "model": "glm-5.3"
+}

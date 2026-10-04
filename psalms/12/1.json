@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Go mokaedi, go ya ga ⟨⟨borobabobedi⟩⟩, moko wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go mokaedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ga"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "borobabobedi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:52.162705461Z",
+  "model": "glm-5.3"
+}

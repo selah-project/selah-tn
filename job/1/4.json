@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme barwa ba gagwe ba ne ba ya, ba dira mopitso mo ntlong ya motho ka letsatsi la gagwe; mme ba romela, ba bitsa barwadie bone ba le bararo go ja le go nwa le bone.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ba ne ba ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mopitso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo ntlong ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ka letsatsi la gagwe"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "ba romela"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ba bitsa"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ba le bararo"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "barwadie bone"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "le go nwa"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "le bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:53:28.129232972Z",
+  "model": "glm-5.3"
+}

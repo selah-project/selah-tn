@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Ba ne ba tshaba ⟨את⟩ Yahwe, mme ba ne ba direla ⟨את⟩ medimo ya bone, jaaka tlwaelo ya ditshaba tse di neng di ba tlolisitse ⟨את⟩ bone koo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ne"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "ba tshaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ba direla ⟨את⟩",
+      "marks": "medimo ya bone"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "medimo ya bone"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ne"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ba direla"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "jaaka tlwaelo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya ditshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "di ba tlolisitse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "משם",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:34.874954561Z",
+  "model": "glm-5.3"
+}

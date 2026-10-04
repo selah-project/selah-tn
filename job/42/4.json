@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Reetsa, ke kopa wena, mme nna ke tla bua; ke tla go botsa potso, mme o mpontshe.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "reetsa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "",
+      "note": "token missing"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke tla bua"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ke tla go botsa potso"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "o mpontshe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:06:39.727961957Z",
+  "model": "glm-5.3"
+}

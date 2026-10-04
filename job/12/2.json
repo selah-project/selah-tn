@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Ruri, lona ke setshaba, mme botlhale bo tla swa le lona.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "bo tla swa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:54.197310969Z",
+  "model": "glm-5.3"
+}

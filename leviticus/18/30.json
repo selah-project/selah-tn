@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme lona lo tla nna le tlhokomelo ya ⟨את⟩ tlhokomelo ya me, gore le se ka wa dira melawana ya dilo tse di tlhobileng e e neng ya dirwa fa pele ga lona, mme le se ka wa itshwara ka tsone; nna ke Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "lo tla nna le tlhokomelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhokomelo ya me"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "tlhokomelo ya me"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "gore le se ka wa"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "dira"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "melawana ya"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "dilo tse di tlhobileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e neng ea"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "dirwa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "fa pele ga lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le se ka wa"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "itshwara"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka tsone"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:27.222978157Z",
+  "model": "glm-5.3"
+}

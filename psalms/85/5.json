@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "O re busetse, Elohim wa polokego ya rona, mme o phimole bogale jwa gago go rona.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "o re busetse"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "wa polokego ya rona"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "mme o phimole"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "bogale jwa gago"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "go rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:20.383948341Z",
+  "model": "glm-5.3"
+}

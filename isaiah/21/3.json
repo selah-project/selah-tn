@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Ka jalo sehuba sa me se ne sa tletse botlhoko; dikgatelelo di nkile, jaaka dikgatelelo tsa mosadi yo o belegang; ke ne ke kgobamile ka go utlwa, ke ne ke tshotse ke go bona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka jalo (ka ntlha ya foo)"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "se ne sa tletse"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "sehuba sa me"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "botlhoko"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "dikgatelelo"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "di nkile"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "jaaka dikgatelelo"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "tsa mosadi yo o belegang"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "ke ne ke kgobamile"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ka go utlwa"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "ke ne ke tshotse"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ke go bona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:00.058922218Z",
+  "model": "glm-5.3"
+}

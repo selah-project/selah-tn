@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "ka letsatsi leo batlhotlhomisi ba ntlo ba ka thothomela, ba ba nonnileng ba ka ikhobosa, ba gatsang ba ka ema ka gonne ba fokotsegile, le ba lebelelang ka difang ba ka fifala;",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi leo"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "ba ka thothomela"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "batlhotlhomisi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ba ntlo"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "ba ka ikhobosa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ba ba nonnileng"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ba ba nonnileng"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "ba ka ema"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "ba gatsang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "ba fokotsegile"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "ba ka fifala"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ba lebelelang"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "ka difang"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:19.458054908Z",
+  "model": "glm-5.3"
+}

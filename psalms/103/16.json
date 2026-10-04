@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Gore ruakh e fetile ka ene, mme a se ka wa nna; mme lefelo la gagwe le sa mo itse gape.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "e fetile"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka ene"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "mme a se ka wa nna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "le sa mo itse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "lefelo la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:25.223655310Z",
+  "model": "glm-5.3"
+}

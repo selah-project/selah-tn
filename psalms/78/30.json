@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Ba ne ba sa fologe mo takatsong ya bone; naamane ya bone e ne e sa ntse e le mo molomong wa bone.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "fologe"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "mo takatsong ya bone"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "e sa ntse"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "naamane ya bone"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "mo molomong wa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:10.412086100Z",
+  "model": "glm-5.3"
+}

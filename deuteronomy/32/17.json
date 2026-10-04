@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Ba ne ba abela boshedim, e seng Eloha; ba medimo e ba neng ba sa e tseba, e ncha, e tswang kwa gaufu e neng ya tla, e bomalwaelwae ba lona ba neng ba sa e boife.",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "ba ne ba abela"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "boshedim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "e tseba"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "e ncha"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "e tswang kwa gaufu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "e neng ya tla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "e boife"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bomalwaelwae ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:19.801966395Z",
+  "model": "glm-5.3"
+}

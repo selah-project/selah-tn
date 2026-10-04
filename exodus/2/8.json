@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme morwadia Faro a re go yena: Tsamaya. Mme naswana a tsamaya, mme a bitsa ⟨את⟩ mma ngwana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Tsamaya"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "mme a tsamaya"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "naswana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "mme a bitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mma ngwana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mma"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:45.811758797Z",
+  "model": "glm-5.3"
+}

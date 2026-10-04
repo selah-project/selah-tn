@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Mme Yahwe o ne a iketlile go mo panya, a mo tlhola a tlhotlhora; fa o ka dira bophelo jwa gagwe mpho ya molato, o tla bona peo, o tla oketsa matsatsi a gagwe; mme thato ya Yahwe e tla atlega mo seatleng sa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o ne a iketlile"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "go mo panya"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "a mo tlhotlhora"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "o ka dira"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "mpho ya molato"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bophelo jwa gagwe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o tla bona"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "o tla oketsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "mme thato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "e tla atlega"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:42.025763454Z",
+  "model": "glm-5.3"
+}

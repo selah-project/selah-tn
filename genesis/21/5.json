@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Abrahame a nna ngwana wa dingwaga di le lekgolo, ge ⟨את⟩ Yitshake mora wa gagwe a belegwa go ena.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Mme Abrahame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "ge a belegwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshake mora wa gagwe"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:03.324089889Z",
+  "model": "glm-5.3"
+}

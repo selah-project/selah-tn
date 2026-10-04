@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 1:8",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Bukhana e ya Torah e se ka ya fapoga mo molomong wa gago; mme o bue mo go yona ka letsatsi le ka bosigo, gore o tlhokomele go dira go ya ka sengwe le sengwe se se kwadilweng mo go yona; gore fela o tla dira ⟨את⟩ ditsela tsa gago di atlege, mme fela o tla nna le bohlale.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "e tla fapoga"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bukhana"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ya Torah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "mo molomong wa gago"
+    },
+    {
+      "surface": "והגית",
+      "gloss": "mme o bue"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le ka bosigo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "o tlhokomele"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "go ya ka sengwe le sengwe"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "se se kwadilweng"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אז",
+      "gloss": "fela"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "o tla dira di atlege"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditsela tsa gago"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ditsela tsa gago"
+    },
+    {
+      "surface": "ואז",
+      "gloss": "mme fela"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "o tla nna le bohlale"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:35.057378591Z",
+  "model": "glm-5.3"
+}

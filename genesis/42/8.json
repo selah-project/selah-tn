@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme Yosefe a itse ⟨את⟩ bokaulengwe ba gagwe, mme bone ba ne ba sa mo itse.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "a itse"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokaulengwe ba gagwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bokaulengwe ba gagwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme bone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "mo itse"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:52.008519301Z",
+  "model": "glm-5.3"
+}

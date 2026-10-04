@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "A nonyane e tla wa mo sepaneng sa lefatshe, mme sepana se se nang sepe sa go e tshwara? A sepana se tla tlhatloga mo lefatsheng, mme se sa tshware sepe?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "a e tla wa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "nonyane"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sepaneng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "mme sepana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "se se nang sepe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa go e tshwara"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "a se tla tlhatloga"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sepana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "mme go tshwara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "tshware sepe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:57:39.953649896Z",
+  "model": "glm-5.3"
+}

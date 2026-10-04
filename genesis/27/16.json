@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme ⟨את⟩ matlalo a manamane a dipodi a apesitse mo diatleng tsa gagwe, le mo sephatsweng sa molala wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matlalo a manamane"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "matlalo"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "a manamane"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "a dipodi"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "a apesitse"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "diatleng tsa gagwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "sephatsweng"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "molala wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:25.423244605Z",
+  "model": "glm-5.3"
+}

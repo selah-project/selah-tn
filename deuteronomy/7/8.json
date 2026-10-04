@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme ka ntlha ya gore Yahwe o lo rata, le ka boloka ⟨את⟩ sealamo se a se tshekileng go borrae lona, Yahwe o lo ntshitse ka seatla se se matla, mme a lo golola mo ntlong ya makgoba, mo seatleng sa Faro, kgosi ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka ntlha ya gore"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "ka lerato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "le ka boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sealamo"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sealamo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a se tsheka"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "go borrae lona"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "o lo ntshitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "se se matla"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "mme a lo golola"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ya makgoba"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "sa Faro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:14.361408262Z",
+  "model": "glm-5.3"
+}

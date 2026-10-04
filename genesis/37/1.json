@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme Yaakobo o ne a nna mo lefatsheng la go nna ga rraagwe, mo lefatsheng la Kenane.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "la go nna ga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:08.761653855Z",
+  "model": "glm-5.3"
+}

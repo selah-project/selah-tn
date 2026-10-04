@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Dawide a re kwa Elohim: Ke ne ke dira boleo jo bo boima, ka gonne ke dirile ⟨את⟩ se se; mme jaanong ke kopa o fuduse ⟨את⟩ boleo jwa modiri wa gago, gonne ke ne ke le setlaela thata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ke dira boleo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "jo bo boima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "o fuduse"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boleo"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "boleo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jwa modiri wa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "ke ne ke le setlaela"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-04T02:41:45.732427849Z",
+  "model": "glm-5.3"
+}

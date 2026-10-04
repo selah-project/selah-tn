@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme ba ba lelelang ba tla araba mo malapeng a tsona a sieo, le diphaene malapeng a kgosi a boitumelo; mme nako ya yone ya go tla e a atamela, mme matsatsi a yone ga a kitla a nnela ruri.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ba tla araba"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ba ba lelelang"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "mo malapeng a tsona a sieo"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "le diphaene"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "malapeng a kgosi"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "a boitumelo"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "e a atamela"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "go tla"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nako ya yone"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "mme matsatsi a yone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "a kitla a nnela ruri"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:03.689972723Z",
+  "model": "glm-5.3"
+}

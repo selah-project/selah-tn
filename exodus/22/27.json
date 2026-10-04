@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Elohim o se ke wa mo nyosa, le mookamedi wa setshaba sa gago o se ke wa mo sega.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "mo nyosa"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "le mookamedi"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "wa setshaba sa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "mo sega"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:40.838835877Z",
+  "model": "glm-5.3"
+}

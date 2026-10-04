@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Nna ke Yahwe Elohim wa gago, yo o go nayang tlhatologo go tswa mo lefatsheng la Mitsrayime; atosa molomo wa gago, mme ke tlaa o jalodisa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "yo o go nayang tlhatologo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tswa mo lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "atosa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa gago"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "mme ke tlaa o jalodisa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:32.722289780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "A ba dumedise Yahwe ka ntlha ya hesede ya gagwe, le diphodiso tsa gagwe kwa baneng ba batho!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "a ba dumedise"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le diphodiso tsa gagwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa baneng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:44.133545089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme motho —⟨את⟩ ditshepo tsa gagwe— go ene di tla nna tsa gagwe; sepe se motho a se nayang moperesti, go ene se tla nna sa gagwe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "mme motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshepo tsa gagwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ditshepo tsa gagwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di tla nna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sepe se"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a se nayang"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "moperesti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla nna"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:41.691624418Z",
+  "model": "glm-5.3"
+}

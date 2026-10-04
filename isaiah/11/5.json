@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme tsedeke e tla nna thempe ya sefonong sa gagwe, mme boikanyego thempe ya mangongo a gagwe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla nna"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "thempe"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "ya sefonong sa gagwe"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "mme boikanyego"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "thempe"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "ya mangongo a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:16.455039067Z",
+  "model": "glm-5.3"
+}

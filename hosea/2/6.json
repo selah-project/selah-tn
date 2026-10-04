@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ⟨את⟩ bana ba gagwe ke tla se ka ba kgomotsa; gonne ke bana ba bonyatsi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ke ba kgomotsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "bonyatsi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:13.566812374Z",
+  "model": "glm-5.3"
+}

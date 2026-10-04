@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "A ipaakanyetsa tseleng ya bogale jwa gagwe; ga a ka a sireletsa botshelo jwa bone mo losong, mme o ne a neela botshelo jwa bone go bolwetse bjo bo anameng.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "a ipaakanyetsa"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "ya bogale jwa gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a ka a sireletsa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mo losong"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "botshelo jwa bone"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "le botshelo jwa bone"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go bolwetse bjo bo anameng"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "a neela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:28.583263520Z",
+  "model": "glm-5.3"
+}

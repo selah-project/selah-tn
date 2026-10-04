@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Gape fa ba robala ba babedi, mme go futhuma mo go bone; mme yo o lebang, jang a ka futhuma?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Gape"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ba robala"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "mme go futhuma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "mme yo o lebang"
+    },
+    {
+      "surface": "איך",
+      "gloss": "jang"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "a ka futhuma"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:21.775409912Z",
+  "model": "glm-5.3"
+}

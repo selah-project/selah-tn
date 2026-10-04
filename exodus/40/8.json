@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme o baye ⟨את⟩ lesaka le dikologo, mme o beke ⟨את⟩ phudugo ya kgoro ya lesaka.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "mme o baye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lesaka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lesaka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "le dikologo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o beke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phudugo ya kgoro"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "phudugo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ya kgoro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya lesaka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:05.560577719Z",
+  "model": "glm-5.3"
+}

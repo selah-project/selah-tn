@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 1:11",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Gore ba neelane kgosikgati ⟨את⟩ Washete go tla fa pele ga kgosi a apere korone ya bogosi, go bontsha ditshaba le badisa ⟨את⟩ boremele jwa gagwe, gonne o ne a le wa sekao se se siameng.",
+  "tokens": [
+    {
+      "surface": "להביא",
+      "gloss": "go neelane ... go tla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosikgati Washete"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Washete"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kgosikgati"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "בכתר",
+      "gloss": "a apere korone"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ya bogosi"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "go bontsha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "le badisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boremele jwa gagwe"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "boremele jwa gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "wa se a siameng"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "sekao"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o ne a le"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:21.077937247Z",
+  "model": "glm-5.3"
+}

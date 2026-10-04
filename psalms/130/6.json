@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 130,
+  "translation": "Botlheletso jwa me go Adonai, go feta batlhokomedi ba go lela moso, batlhokomedi ba go lela moso.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "botlheletso jwa me"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "go Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "go feta batlhokomedi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ba go lela moso"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "batlhokomedi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ba go lela moso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:22.221412828Z",
+  "model": "glm-5.3"
+}

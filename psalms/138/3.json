@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 138,
+  "translation": "Ka letsatsi le ke neng ke go bitsa, wena o ne oa araba; o ne oa nnonofatsa mo moyeng wa me ka maatla.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "le ke neng ke go bitsa"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "o ne oa araba"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "o ne oa nnonofatsa"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "mo moyeng wa me"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ka maatla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:56.992031062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "O kgantsha ditshaba ka fa tlase ga rona, le merafe ka fa tlase ga dinao tsa rona.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "o kgantsha"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "ka fa tlase ga rona"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "le merafe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "dinao tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:43.081355118Z",
+  "model": "glm-5.3"
+}

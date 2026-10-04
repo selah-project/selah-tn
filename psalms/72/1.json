@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Ya Shelomo. Elohim, naya kgosi dikatlholo tsa gago, le tsedeke ya gago morweng wa kgosi.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "ya Shelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikatlholo tsa gago"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "naya"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "le tsedeke ya gago"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "morweng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa kgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:05.593239875Z",
+  "model": "glm-5.3"
+}

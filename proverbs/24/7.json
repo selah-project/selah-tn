@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Botlhale bo kwa godimo go sefoolong; kwa kgoreng ga a bule molomo wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "bo kwa godimo"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "go sefoolong"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kwa kgoreng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "a bule"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:49:47.056693749Z",
+  "model": "glm-5.3"
+}

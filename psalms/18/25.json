@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Yahwe o busetse go nna go ya ka tsedeke ya me, go ya ka boitshepo jwa diatla tsa me fa pele ga matlhagonye a gagwe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mme o busetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "go ya ka tsedeke ya me"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "go ya ka boitshepo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ja diatla tsa me"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matlhagonye a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:44.592852040Z",
+  "model": "glm-5.3"
+}

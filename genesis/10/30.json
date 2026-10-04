@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme bo duleng jwa bone bo ne bo le go tswa go Mesha, go ya koo go ya kwa Sefara, thabeng ya bo sepela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme bo ne bo le"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "bo duleng jwa bone"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "go tswa go Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "go ya koo"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "kwa Sefara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "ya bo sepela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:03.867422844Z",
+  "model": "glm-5.3"
+}

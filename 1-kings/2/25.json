@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme kgosi Shelomo a romela ka seatla sa Benayahu morwa Yahoyada; mme a mo tlhasela, mme a tlhokafala.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yahoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "a mo tlhasela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a tlhokafala"
+    }
+  ],
+  "timestamp": "2026-10-03T23:21:25.835740877Z",
+  "model": "glm-5.3"
+}

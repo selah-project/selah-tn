@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Se ke la dira jalo go Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "se ke la"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "dira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:06:30.083909721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 16:3",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Gore gore jalo o bua Yahwe ka banana le ka banakwana ba ba belegwang kwa lefelong leno, le ka bomme ba ba ba belegang, le ka borra bone ba ba ba belegang mo lefatsheng leno:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "כה",
+      "gloss": "gore jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "banana"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "banakwana"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "ba ba belegwang"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwa lefelong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leno"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "אמתם",
+      "gloss": "bomme ba bone"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ba ba ba belegang"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "borrra bone"
+    },
+    {
+      "surface": "המולדים",
+      "gloss": "ba ba ba belegang"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leno"
+    }
+  ],
+  "timestamp": "2026-10-04T00:13:38.721951604Z",
+  "model": "glm-5.3"
+}

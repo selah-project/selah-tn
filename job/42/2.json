@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Ke a itse gore o ka dira sengwe le sengwe, mme ga go morero o o ka gagolwang mo go wena.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ke a itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "o ka dira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "o ka gagolwang"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "morero"
+    }
+  ],
+  "timestamp": "2026-10-04T02:06:39.727644782Z",
+  "model": "glm-5.3"
+}

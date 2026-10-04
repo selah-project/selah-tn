@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Dikgosi tsa masomo di tshabela, di tshabela; mme yo o nang kwa gae o kgaoganya ⟨את⟩ tlhapo.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "masomo"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "di tshabela"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "di tshabela"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "mme yo o nang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kwa gae"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "o kgaoganya"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "tlhapo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:25.500440324Z",
+  "model": "glm-5.3"
+}

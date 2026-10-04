@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "fa a tlhoga, a tsamaya kwa ntle ka thlako ya gagwe, yo o kgwisitseng o tla gololwa; a dupe fela mokgwa wa gagwe wa go ikgafa, mo go alafeng a mo alafe ka botlalo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "a tlhoga"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kwa ntle"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "thlako ya gagwe"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "o tla gololwa"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "yo o kgwisitseng"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "mokgwa wa gagwe wa go ikgafa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a dupe"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "mo alafe ka botlalo"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "go alafa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:47.375968164Z",
+  "model": "glm-5.3"
+}

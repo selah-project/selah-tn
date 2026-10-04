@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Yahwe a re go nna: Ba re, Lo se ka wa ya godimo mme lo se ka wa lwa, gonne nna ga ke mo gare ga lona; e seng gore lo tlowa thoko foo pele ga ba ba nang le leina la go lo tlhoya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ka"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "wa ya godimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme lo se ka"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "wa lwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "nna ga ke"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "mo gare ga lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e seng gore"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "lo tlowa thoko foo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ba ba lo tlhoyang"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:13.754199963Z",
+  "model": "glm-5.3"
+}

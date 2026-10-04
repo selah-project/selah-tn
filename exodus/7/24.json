@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme baremi botlhe ba Mitsrayime ba ne ba epa metsi a mo dikakeng tsa noka go a nwa, gonne ba ne ba se kgone go nwa metsi a mo nokeng.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "ba ne ba epa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baremi ba Mitsrayime"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "mo dikakeng tsa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "noka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "go a nwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "go nwa"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mo nokeng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:01.548074784Z",
+  "model": "glm-5.3"
+}

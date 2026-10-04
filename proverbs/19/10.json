@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Boitumelo jwa khutlofalo ga bo siamela sekoko; e tlwaetse go le gontsi, modiri go busa dikgosana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "bo siamela"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "sekoko"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "Boitumelo jwa khutlofalo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "e tlwaetse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "go le gontsi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "modiri"
+    },
+    {
+      "surface": "משל",
+      "gloss": "go busa"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "dikgosana"
+    }
+  ],
+  "timestamp": "2026-10-04T01:48:41.320970695Z",
+  "model": "glm-5.3"
+}

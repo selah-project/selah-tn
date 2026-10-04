@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme monna a mo fitlhela, mme bonwe, o tlhaira mo masimong; mme monna yoo a mo botsa, a re: O batla eng?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "a mo fitlhela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonwe"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "o tlhaira"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mo masimong"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "a mo botsa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna yoo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "O batla"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:07.041819170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Kgalalelo ya tlotlo ya boimanega jwa gago, le mafoko a dilo tsa gago tse di makatsang, ke tla akanya ka one ka sephiri.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ya tlotlo"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ya boimanega jwa gago"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "le mafoko"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "a dilo tsa gago tse di makatsang"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke tla akanya ka one ka sephiri"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:52.294481332Z",
+  "model": "glm-5.3"
+}

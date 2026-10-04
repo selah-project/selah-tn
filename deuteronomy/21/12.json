@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "mo isa mo teng ga ntlo ya gago, mme o tla paga ⟨את⟩ sehuba sa gagwe, mme a dira ⟨את⟩ menwana ya gagwe",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "mo isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "teng ga"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya gago"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "mme o tla paga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehuba sa gagwe"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "sehuba sa gagwe"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menwana ya gagwe"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "menwana ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:40.653269713Z",
+  "model": "glm-5.3"
+}

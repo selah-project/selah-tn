@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "⟨את⟩ setshaba se se tlhabile ga o kitla o sa se bona — setshaba sa puo e e tebileng e e sa utlwaleng, ya loleme lo lo sotlang, go sena tlhaloganyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba se se tlhabile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "se se tlhabile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga…kitla"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o bona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba sa"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "e e tebileng"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "puo"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "e e sa utlwaleng"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "lo lo sotlang"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ya loleme"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go sena"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "tlhaloganyo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:53:36.714959362Z",
+  "model": "glm-5.3"
+}

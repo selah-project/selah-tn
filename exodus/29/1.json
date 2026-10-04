@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme se ke se o tlaa se dira go bone, go ba itsepisa gore ba nne baruti go nna: o tsee kgomo e le nngwe, morwa wa podi, le dinokwane tse pedi tse di itekanetseng.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "mme se ke"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "seleko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tlaa se dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "go ba itsepisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "baruti"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "gore ba nne baruti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o tsee"
+    },
+    {
+      "surface": "פר",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "wa podi"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "le dinokwane"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "tse di itekanetseng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:25.543027144Z",
+  "model": "glm-5.3"
+}

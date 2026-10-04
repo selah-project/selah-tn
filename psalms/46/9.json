@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Tlang, le bone ditiro tsa Yahwe, yo o neng a dira tshenyo lefatshe ka bophara.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ditiro tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o neng a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dira"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "tshenyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe ka bophara"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:59.998591835Z",
+  "model": "glm-5.3"
+}

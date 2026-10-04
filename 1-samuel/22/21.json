@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme Ebiathare a bega ⟨את⟩ Dawide gore Shaule o bolaye ⟨את⟩ baperesiti ba Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a bega"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebiathare"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "o bolaye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baperesiti ba Yahwe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "baperesiti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:04:15.824407476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Abrahame a rapela go Elohim, mme Elohim a fodisa ⟨את⟩ Abimeleke le ⟨את⟩ mosadi wa gagwe le makgarebe a gagwe a lenyalo; mme ba belega.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "a rapela"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "a fodisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimeleke"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mosadi wa gagwe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "le makgarebe a gagwe a lenyalo"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "mme ba belega"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:57.164379880Z",
+  "model": "glm-5.3"
+}

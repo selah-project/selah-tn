@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme bana ba Yisraele ba ne ba dira jaaka Moshe a ne a bua, mme ba kopa go tswa go ba-Mitsrayime dilo tsa selefera le dilo tsa gauta, le diaparo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mme bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba ne ba dira"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jaaka a ne a bua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "mme ba kopa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go tswa go ba-Mitsrayime"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dilo tsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "le dilo tsa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "le diaparo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:09.925989334Z",
+  "model": "glm-5.3"
+}

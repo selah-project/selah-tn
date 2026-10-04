@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme Mikayahu a re: Yahwe a tshele, gore ⟨את⟩ se Yahwe a tlaa se mpuela, seledo ke sone se ke tlaang se bua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme Mikayahu a re"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a tshele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se Yahwe a tlaa se mpuela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a tlaa se mpuela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "se ke tlaang se bua"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke tlaang se bua"
+    }
+  ],
+  "timestamp": "2026-10-03T23:31:44.056347448Z",
+  "model": "glm-5.3"
+}

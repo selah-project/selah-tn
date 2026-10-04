@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mo Yahwe moya wa me o ikgantsha; ba ba ikobaeditseng ba a utlwa, mme ba itumelela.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Mo Yahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "o ikgantsha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ba a utlwa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba ba ikobaeditseng"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "mme ba itumelela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:31.245572237Z",
+  "model": "glm-5.3"
+}

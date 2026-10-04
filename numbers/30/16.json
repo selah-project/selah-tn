@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme fa a ka di fedisa morago ga go di utlwa, o tla rwala ⟨את⟩ molato wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a ka di fedisa"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ditshepo le dikgolagano tsa gagwe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "go di utlwa"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "o tla rwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molato wa gagwe"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "molato wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:18:15.024622846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme setshaba se ile sa tsena ka bosec ka letsats leo go tsena motsa, jaaka setshaba se tlang ka bosec fa se retetse se tswa mo ntwa.",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "sa tsena ka bosec"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsats"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motsa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "se tlang ka bosec"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "fa se retetse"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "se tswa"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mo ntwa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:16:38.227537540Z",
+  "model": "glm-5.3"
+}

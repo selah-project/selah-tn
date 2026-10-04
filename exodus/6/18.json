@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme bana ba Kehate: Amirame, Yitshar, Khebrone le Usiele; mme dingwaga tsa botshelo jwa Kehate di ne di le lekgolo le masome a mararo le tharo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mme bana ba"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehate"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amirame"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Yitshar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Khebrone"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Usiele"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "mme dingwaga tsa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "botshelo jwa"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehate"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le masome a mararo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le lekgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:55.698504339Z",
+  "model": "glm-5.3"
+}

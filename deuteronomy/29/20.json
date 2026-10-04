@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 29:20",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "mme Yahwe a mo kgaoganyetse boleo go tswa go ditshaba tsotlhe tsa Yisraele, go ya ka dikgala tsotlhe tsa kgolagano e e kwadilweng mo bukeng ya Torah e.",
+  "tokens": [
+    {
+      "surface": "וְהִבְדִּילוֹ",
+      "gloss": "mme a mo kgaoganyetse"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לְרָעָה",
+      "gloss": "boleo"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "go tswa go tsotlhe"
+    },
+    {
+      "surface": "שִׁבְטֵי",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "sa Yisraele"
+    },
+    {
+      "surface": "כְּכֹל",
+      "gloss": "go ya ka tsotlhe"
+    },
+    {
+      "surface": "אָלוֹת",
+      "gloss": "dikgala"
+    },
+    {
+      "surface": "הַבְּרִית",
+      "gloss": "tsa kgolagano"
+    },
+    {
+      "surface": "הַכְּתוּבָה",
+      "gloss": "e e kwadilweng"
+    },
+    {
+      "surface": "בְּסֵפֶר",
+      "gloss": "mo bukeng"
+    },
+    {
+      "surface": "הַתּוֹרָה",
+      "gloss": "ya Torah"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-10-03T22:33:08.262641795Z",
+  "model": "glm-5.3"
+}

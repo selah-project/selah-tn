@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Yahwe a bua le Moshe: Yo o nnileng le dibe kgatlhanong le me, ke mo phimola mo bukeng ya me.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme … a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nnileng le dibe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kgatlhanong le me"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "ke mo phimola"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "mo bukeng ya me"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:59.542326782Z",
+  "model": "glm-5.3"
+}

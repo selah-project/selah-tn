@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Go moetapele, go ya ka Yedutune; wa Asafe; moko.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go moetapele"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutune"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Asafe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:32.126910627Z",
+  "model": "glm-5.3"
+}

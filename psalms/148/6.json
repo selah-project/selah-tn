@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Mme a di tlhomamisa ka bosikhutshweng, go ya go sa fela; o ne a bea molao o o sa tlang wa fetoga.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "mme a di tlhomamisa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ka bosikhutshweng"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya go sa fela"
+    },
+    {
+      "surface": "חק",
+      "gloss": "molao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ne a bea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o sa tlang wa"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "fetoga"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:22.468236246Z",
+  "model": "glm-5.3"
+}

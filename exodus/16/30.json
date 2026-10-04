@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme setshaba sa khutla ka letsatsi la bosupa.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "sa khutla"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "la bosupa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:24.932394502Z",
+  "model": "glm-5.3"
+}

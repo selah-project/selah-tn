@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Moshe a tlalatsa ⟨את⟩ seatla sa gagwe kwa godimo ga magodimo; mme go nna le sephiriphi se se tseneletseng mo lefatsheng la Mitsrayime ka bobotlana, malatsi a mararo.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "a tlalatsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa godimo ga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna le"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sephiriphi"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "se se tseneletseng"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo lefatsheng ka bobotlana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:59.935986521Z",
+  "model": "glm-5.3"
+}

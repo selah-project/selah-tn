@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "O se ka wa tsena le mo ntlong ya moletlo go dula ⟨את⟩ go ja le go nwa le bone.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "le mo ntlong"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ya moletlo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "go dula"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "go ja le go nwa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "le go nwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:13:14.845523224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme a kokoanya ⟨את⟩ dikgosi tsotlhe tsa Yisraele, le baberesiti le Balevi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Mme a kokoanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgosi tsotlhe tsa Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisraele"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "le baberesiti"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le Balevi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:43:40.101815643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Ditsebe di na le tsone, mme ga di a utlwa; gape ga go ⟨go nna⟩ sepe se se mosola mo molomong wa tsone — ga go na ruakh mo molomong wa tsone.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ditsebe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "di na le tsone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "di a utlwa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨go nna⟩ sepe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "mo molomong wa tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:36.798073764Z",
+  "model": "glm-5.3"
+}

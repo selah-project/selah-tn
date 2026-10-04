@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "A se sengwe se o se dirileng mo go wena — ka go tloga ga gago ⟨את⟩ Yahwe Elohim ya gago, ka nako e a neng a go isa mo tseleng?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "a ga se jwalo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o se dirile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "o tlogile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako e"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "a go isa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:54.703431562Z",
+  "model": "glm-5.3"
+}

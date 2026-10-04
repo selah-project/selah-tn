@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Ba ne ba botsa, mme a isa selave, mme ka senkgwe sa magodimo a ba tlisa ka botlalo.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Ba ne ba botsa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme a isa"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "selave"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "mme ka senkgwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa magodimo"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "a ba tlisa ka botlalo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:28.950578103Z",
+  "model": "glm-5.3"
+}

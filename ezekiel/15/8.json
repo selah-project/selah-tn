@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 15:8",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme ke tlaa dira ⟨את⟩ lefatshe go nna lefela, ka gonne ba ile ba ikanyetsa ka go ikanyetsa — go bua Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Mme ke tlaa dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "go nna lefela"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ba ile ba ikanyetsa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka go ikanyetsa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:37:04.195510873Z",
+  "model": "glm-5.3"
+}

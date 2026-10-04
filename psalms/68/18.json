@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Dikoloi tsa Elohim ke diketekete tse dikete, dikete tsa dikete; Adonai o mo go tsone — ⟨jaaka⟩ kwa Sinayi, mo boitshepelong.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "dikoloi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "ke diketekete tse dikete"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "dikete tsa"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "o mo go tsone"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "kwa Sinayi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mo boitshepelong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:33.136722891Z",
+  "model": "glm-5.3"
+}

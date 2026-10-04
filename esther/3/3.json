@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme badiri ba kgosi ba ba neng ba le kwa kgoreng ya kgosi ba ne ba re go Mordekai: O tlola jang ⟨את⟩ taelo ya kgosi?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba ne ba re"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ba kgosi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba neng ba le"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kwa kgoreng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "go Mordekai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "jang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "o tlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo ya kgosi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:12.883298195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 124,
+  "translation": "Pina ya go ya kwa godimo, ya Dawide. E sekae go nna jalo fa Yahwe a ne a sa nna le rona — a re jaanong, e se Yisraele:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya go ya kwa godimo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "e sekae go nna jalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "a ne a nna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:36.014757737Z",
+  "model": "glm-5.3"
+}

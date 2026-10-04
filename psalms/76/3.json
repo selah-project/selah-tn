@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 76,
+  "translation": "Mme mo Shaleme go na le tente ya gagwe, le bonno jwa gagwe mo Tsiyone.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go na le"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "mo Shaleme"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "tente ya gagwe"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "le bonno jwa gagwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "mo Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:47.862715482Z",
+  "model": "glm-5.3"
+}

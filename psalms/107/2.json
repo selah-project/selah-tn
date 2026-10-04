@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "A ba goloditsweng ke Yahwe ba re jalo, bao a ba goloditseng mo seatleng sa mogatlapedi;",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re jalo"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "ba goloditsweng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "a ba goloditseng"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mogatlapedi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:23.692347604Z",
+  "model": "glm-5.3"
+}

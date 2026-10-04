@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme bana ba Yisraele ba ne ba fa Balevi ditoropo ⟨את⟩ tseno le ⟨את⟩ mafelo a tsone a boephemelo, jaaka Yahwe a ne a laela ka seatla sa Moshe, ka kgoro.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Mme ba ne ba fa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditoropo tseno"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a tsone a boephemelo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "mafelo a tsone a boephemelo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a ne a laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ka kgoro"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:52.923230308Z",
+  "model": "glm-5.3"
+}

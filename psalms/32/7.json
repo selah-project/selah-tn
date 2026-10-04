@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Wena lefihleo la me; o ka ntshosetsa kwa tsietsing, o ka nna ka dikopelo tsa pholoso. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "lefihleo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "la me"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "kwa tsietsing"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "o ka ntshosetsa"
+    },
+    {
+      "surface": "רני",
+      "gloss": "dikopelo"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "tsa pholoso"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "o ka nna ka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:07.118268597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme ba ne ba re motho yo mongwe le yo mongwe go kgaitsadi wa gagwe: A re beeng tlhogo, mme re boele kwa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba ne ba re"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kgaitsadi wa gagwe"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a re beeng"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "mme re boele"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "kwa Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T22:09:15.910898845Z",
+  "model": "glm-5.3"
+}

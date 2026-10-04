@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Mme peo ya gagwe ke tlaa e baya ka bosaka, le setulo sa gagwe sa bogosi jaaka malatsi a magodimo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "mme ke tlaa baya"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ka bosaka"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "peo ya gagwe"
+    },
+    {
+      "surface": "וככסאו",
+      "gloss": "le setulo sa gagwe sa bogosi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "jaaka malatsi a"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:48.662743068Z",
+  "model": "glm-5.3"
+}

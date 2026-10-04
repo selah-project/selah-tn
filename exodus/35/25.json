@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme basadi botlhe ba ba nang le bohalahala jwa pelo ba ne ba bofa ka diatla tsa bone, mme ba isa sebofo: ⟨את⟩ tlhaga, le ⟨את⟩ phodise, ⟨את⟩ khunou, le ⟨את⟩ lenane.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mme botlhe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ba ba nang le bohalahala"
+    },
+    {
+      "surface": "לב",
+      "gloss": "jwa pelo"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ka diatla tsa bone"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "ba ne ba bofa"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mme ba isa"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "sebofo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhaga"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tlhaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phodise"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "phodise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khunou"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "serethe sa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "khunou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lenane"
+    },
+    {
+      "surface": "השש",
+      "gloss": "lenane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:13.572009625Z",
+  "model": "glm-5.3"
+}

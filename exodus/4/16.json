@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ene o tlaa buela kwa setshabeng; mme o tlaa wela, ene o tlaa nna molomo wa gago, wena o tlaa mo nna Elohim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "O tlaa buela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshabeng"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme o tlaa wela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tlaa nna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa gago"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o tlaa nna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo nna"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:11.071765973Z",
+  "model": "glm-5.3"
+}

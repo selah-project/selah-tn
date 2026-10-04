@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Elohim a bitsa lefatshe le omileng re le lefatshe, mme phuthhego ya metsi a e bitsa mawatle; mme Elohim a bona gore go a siama.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "lefatshe le omileng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "mme phuthhego ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a e bitsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mawatle"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "go a siama"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:23.311563873Z",
+  "model": "glm-5.3"
+}

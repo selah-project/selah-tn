@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mong wame, ntheditswe: lefatshe — dikobo di le nne tsa shekele tsa selefera, ke fa gare ga me le ga wena; ke eng se? Mme fitlhela ⟨את⟩ mmuela wago.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Mong wame"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "ntheditswe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "di le nne"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dikobo tsa"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekele"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tsa selefera"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "fa gare ga me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "le ga wena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mmuela wago"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "mmuela wago"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "fitlhela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:19.540092832Z",
+  "model": "glm-5.3"
+}

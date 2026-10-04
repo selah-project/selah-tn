@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme yo o tsang mo ntlong ka malatsi otelelang a go tswalelwa ⟨את⟩ yona, o tlaa nna mo go sa tlhwatlhweng go fihlela maabile.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "mme yo o tsang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otelelang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ka malatsi"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "a go tswalelwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "o tlaa nna mo go sa tlhwatlhweng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "maabile"
+    }
+  ],
+  "timestamp": "2026-10-03T21:55:43.663478651Z",
+  "model": "glm-5.3"
+}

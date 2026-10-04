@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "mme a re busetse ⟨את⟩ arka ya Elohim wa rona go rona, gonne ga re a e batla mo matshelong a Shaole.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "mme a re busetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka ya Elohim wa rona"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim wa rona"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga re a"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "e batla"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mo matshelong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "a Shaole"
+    }
+  ],
+  "timestamp": "2026-10-04T02:40:55.652135334Z",
+  "model": "glm-5.3"
+}

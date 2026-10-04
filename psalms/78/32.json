@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Ka tsotlhe tseo ba ne ba santse ba leka go tlola, mme ba sa believing mo diphosong tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ka tsotlhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba tlola"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ba santse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "believe"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "mo diphosong tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:10.412403835Z",
+  "model": "glm-5.3"
+}

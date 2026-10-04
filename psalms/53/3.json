@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Elohim o lebile kwa tlase go tswa kwa magodimong go bala bana ba batho, go bona a go na le yo o nang le boitshoko, yo o batlang ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "go tswa kwa magodimong"
+    },
+    {
+      "surface": "השקיפ",
+      "gloss": "o lebile kwa tlase"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba batho"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "היש",
+      "gloss": "a go na le"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yo o nang le boitshoko"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yo o batlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:34.998251696Z",
+  "model": "glm-5.3"
+}

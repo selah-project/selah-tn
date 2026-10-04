@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme gape ka malatsi ao, go bua Yahwe, ga ke kitla ke dira go fela ⟨את⟩ ka wena.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ka malatsi"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke dire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka wena",
+      "marks": "ka wena"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "go fela"
+    }
+  ],
+  "timestamp": "2026-10-04T00:09:08.607576193Z",
+  "model": "glm-5.3"
+}

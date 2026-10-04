@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme ba ne ba na mo bojweng jwa bone ba-Beyere-Shebe, le Shebe, le Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme ba ne ba na"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "mo bojweng jwa bone"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beyere-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shebe"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "le Shebe"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "le Molada"
+    }
+  ],
+  "timestamp": "2026-10-03T22:41:51.907864922Z",
+  "model": "glm-5.3"
+}

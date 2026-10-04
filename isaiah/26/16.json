@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Yahwe, mo tshenyetsoong ba go batlile; ba ne ba dutla sepelo se se nang le moya o kwa tlase fa kotlhao ya gago e ne e le mo go bone.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mo tshenyetsoong"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "ba go batlile"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "ba dutile"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "sepelo se se nang le moya o kwa tlase"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "kotlhao ya gago"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:23.577524584Z",
+  "model": "glm-5.3"
+}

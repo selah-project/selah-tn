@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Go reka bahumanegi ka selefera, le mohumanegi ka didiriswa tsa dinao, le go rekisa aloe ya peo.",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "go reka"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ka selefera"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "bahumanegi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le mohumanegi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "didiriswa tsa dinao"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "le go rekisa aloe"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ya peo"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "go reka-lekisa peo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:59:35.305881537Z",
+  "model": "glm-5.3"
+}

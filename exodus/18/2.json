@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Yitroo, rrakgadi wa Moshe, a tsaya ⟨את⟩ Tseporaa, mosadi wa Moshe, morago ga go mo romela gae.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitroo"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "rrakgadi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tseporaa"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tseporaa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "go mo romela gae"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:55.832293344Z",
+  "model": "glm-5.3"
+}

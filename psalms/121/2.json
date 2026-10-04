@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 121,
+  "translation": "Thušo ya me e tswa go Yahwe, yo o dirileng magodimo le lefatshe.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Thušo ya me"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "e tswa go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirileng"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:36.483577867Z",
+  "model": "glm-5.3"
+}

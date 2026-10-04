@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Bana ba gago ba itemogetse ka bonako; ba ba senyang le ba ba e senyang ba tla tswa mo go wena.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "ba itemogetse ka bonako"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba gago"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "ba ba senyang"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "le ba ba e senyang"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba tla tswa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:00:32.779384567Z",
+  "model": "glm-5.3"
+}

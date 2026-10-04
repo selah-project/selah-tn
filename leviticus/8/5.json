@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Moshe a re go phuthego: Se ke se go laetse go dira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "go laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:31.081291528Z",
+  "model": "glm-5.3"
+}

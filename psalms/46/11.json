@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Le ikgolole, le itse gore ke nna Elohim; ke a kgothaletswa mo ditshabeng, ke a kgothaletswa mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Le ikgolole"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "le itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ke a kgothaletswa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ke a kgothaletswa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:59.999079996Z",
+  "model": "glm-5.3"
+}

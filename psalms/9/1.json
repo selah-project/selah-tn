@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Go mookamedi, go ya ka Almote Labene; moko wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go mookamedi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Almote"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labene"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:29.416611574Z",
+  "model": "glm-5.3"
+}

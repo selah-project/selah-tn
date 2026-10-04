@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme Yahwe a bua le Moshe, a re:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:58.696927567Z",
+  "model": "glm-5.3"
+}

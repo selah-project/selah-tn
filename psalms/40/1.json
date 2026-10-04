@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Motsamaisi wa mmino. Moko wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Motsamaisi wa mmino"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:03.086701191Z",
+  "model": "glm-5.3"
+}

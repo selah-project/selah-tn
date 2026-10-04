@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme di ne di na le diatla tsa motho ka fa tlase ga mafuka a tsone, mo melaeng ya tsone ya bohle e le nne; mme difatlhego tsa tsone le mafuka a tsone, tsotlhe e le nne di ne di na le a tsone.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "Mme di ne di na le diatla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tsa motho"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "mafuka a tsone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "e le nne"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "melaeng ya tsone"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "mme difatlhego tsa tsone"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "le mafuka a tsone"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "tsotlhe e le nne"
+    }
+  ],
+  "timestamp": "2026-10-04T00:30:01.007663374Z",
+  "model": "glm-5.3"
+}

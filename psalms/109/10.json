@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Mme bana ba gagwe ba tsamaye ba fologo-fologe, ba kope, mme ba batle senkgwe kwa diphologolong tsa bone tse di senyegileng.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "mme ba fologo-fologe"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "ba tsamaye ba fologo-fologe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ba kope"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ba batle"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "kwa matlong a bone a a senyegileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:04.903610088Z",
+  "model": "glm-5.3"
+}

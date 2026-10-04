@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme a phutha ⟨את⟩ dikherube ka gauta.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "mme a phutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikherube"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "dikherube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T23:22:40.830786527Z",
+  "model": "glm-5.3"
+}

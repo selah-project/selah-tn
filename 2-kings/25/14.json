@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme ba tsaya ⟨את⟩ dinkgo, le ⟨את⟩ dipheres, le ⟨את⟩ diphapha tsa dikobo, le ⟨את⟩ dikhawa, le ⟨את⟩ didiriswa tsotlhe tsa tshipi tse ba neng ba direla ka tsone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dinkgo"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "dinkgo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dipheres"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "dipheres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diphapha tsa dikobo"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "diphapha tsa dikobo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikhawa"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "dikhawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "didiriswa tsotlhe tsa tshipi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tsa tshipi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "ba neng ba direla"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsone"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ba tsaya"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:16.238297091Z",
+  "model": "glm-5.3"
+}

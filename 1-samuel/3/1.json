@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme morwa Shemuele a direla ⟨את⟩ Yahwe kua go pele ga Eli, mme lefoko la Yahwe le ne le le bocuka mo matsatsing ao, go sena ponatshegelo e e phuthuilweng.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Mme morwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuele"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "a direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kua go pele ga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mme lefoko la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "le ne le le"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "bocuka"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mo matsatsing"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go sena"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ponatshegelo"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "e e phuthuilweng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:02.583653675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ka kgwedi ya bobedi, ka la lesome le nne, gare ga mafifi ba tla e dira ⟨את⟩; ka dikuku tse di sa tlhophang le dimonamone ba e ja.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Ka kgwedi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya bobedi"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ka la lesome"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le nne"
+    },
+    {
+      "surface": "יום",
+      "gloss": "la"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mafifi"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba tla e dira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "dikuku tse di sa tlhophang"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "le dimonamone"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ba e ja"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:48.040324231Z",
+  "model": "glm-5.3"
+}

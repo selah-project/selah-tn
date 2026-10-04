@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 99,
+  "translation": "Ba rate leina la gago, le le legolo le le thabisang tlhoko, o moitshepo ⟨⟨he⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ba rate"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le le legolo"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "le le thabisang tlhoko"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "o moitshepo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:09.946775095Z",
+  "model": "glm-5.3"
+}

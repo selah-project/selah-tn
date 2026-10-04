@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Ba ba ikakatsang ga ba ka ke ba ema pele ga matlho a gago; o mo tlhoya ba ba dirang bobe botlhe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "ba ka ke ba ema"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "ba ba ikakatsang"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matlho a gago"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "o mo tlhoya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:21.034552941Z",
+  "model": "glm-5.3"
+}

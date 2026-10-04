@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Yahwe a batla ⟨את⟩ Saraa, jaaka a ne a bua; mme Yahwe a dira go Saraa jaaka a ne a bua.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "a batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saraa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "go Saraa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bua"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:28.121201833Z",
+  "model": "glm-5.3"
+}

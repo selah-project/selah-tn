@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Gore ruri go utswa ke ne ke utswetswe mo lefatsheng la Baheberu; mme le fano ga ke a dire sepe, mme ba ne ba ntshela ⟨את⟩ nna mo sedibeng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "go utswa"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "ke utswetswe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Baheberu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "פה",
+      "gloss": "fano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke a dire"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme gore"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ba ntshela"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna mo sedibeng"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "mo sedibeng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:51.555318930Z",
+  "model": "glm-5.3"
+}

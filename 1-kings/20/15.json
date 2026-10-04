@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "A haba ⟨את⟩ banana ba ditlhoko tsa diporofense, mme ba nna makgolo a mabedi, masome a mabedi le boraro; mme morago ga bona a haba ⟨את⟩ batho botlhe, bana botlhe ba Yisraele, dikete tse supa.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "A haba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banana ba ditlhoko tsa diporofense"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "banana ba"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ditlhoko tsa"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "diporofense"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme ba nna"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a mabedi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "masome a mabedi le boraro"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": ""
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "mme morago ga bona"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "a haba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "dikete tse supa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-03T23:30:15.221014776Z",
+  "model": "glm-5.3"
+}

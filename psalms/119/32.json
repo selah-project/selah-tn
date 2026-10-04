@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Tselaa ditaelo tsa gago ke e tabogang, gonne o atolosetsе pelo ya me.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ya ditaelo tsa gago"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "ke e tabogang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "o atolosetsе"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:37.734140555Z",
+  "model": "glm-5.3"
+}

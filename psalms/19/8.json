@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Torah ya Yahwe ⟨ke⟩ ya go felela, e busetsa botshelo; bopaki jwa Yahwe bo ikanyegile, bo naya bohlale yo o bonolo.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torah ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "ya go felela"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "e busetsa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "bopaki jwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "bo ikanyegile"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "bo naya bohlale"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "yo o bonolo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:15.498983115Z",
+  "model": "glm-5.3"
+}

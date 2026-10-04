@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme ka tshaka ya gago o tla tshela, mme ⟨את⟩ kgaenyo wa gago o tla mo direla tiro; mme go tla nna fa o tlhologeloba, o tla golola pato ya gagwe go tswa mo molaleng wa gago.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "tshaka ya gago"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "o tla tshela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kgaenyo wa gago"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kgaenyo wa gago"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tla mo direla tiro"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme go tla nna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "o tlhologeloba"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "o tla golola"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "pato ya gagwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "molaleng wa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:32.075806165Z",
+  "model": "glm-5.3"
+}

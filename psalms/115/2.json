@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Ke eng gore ditshaba di re: Elohim ya bone e kae gone jaanong?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ke eng gore"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "di re"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "איה",
+      "gloss": "e kae"
+    },
+    {
+      "surface": "נא",
+      "gloss": "gone jaanong"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:19.742315913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme a tlhatlosa sefatlhego sa gagwe kwa fensetareng, mme a re: Ke mang ⟨את⟩ o nang le nna? ke mang? Mme ba-eunuch ba babedi kgotsa ba bararo ba ne ba lebelela kwa go ene.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "mme a tlhatlosa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefatlhego sa gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fensetareng"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna",
+      "marks": "nna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "mme ba ne ba lebelela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba bararo"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "ba-eunuch"
+    }
+  ],
+  "timestamp": "2026-10-04T03:10:49.810121614Z",
+  "model": "glm-5.3"
+}

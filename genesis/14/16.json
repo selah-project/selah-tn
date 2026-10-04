@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme a busa ⟨את⟩ dithoto tsotlhe, mme gape a busa ⟨את⟩ Lothe kgaitsadie le dithoto tsa gagwe, le ⟨את⟩ basadi le ⟨את⟩ setshaba.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithoto tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "dithoto"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lothe"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lothe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kgaitsadie"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "le dithoto tsa gagwe"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basadi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:54.097575816Z",
+  "model": "glm-5.3"
+}

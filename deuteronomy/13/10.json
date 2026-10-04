@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme ka tlhomamo o mmolae; seatla sa gago se tla nna semaila mo go ene sa ntlha go mo bolaya, mme seatla sa setshaba sotlhe sa bofelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "bolaya"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "o mmolae ka tlhomamo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "sa ntlha"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "go mo bolaya"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "mme seatla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa setshaba sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa setshaba"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sa bofelo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:25:26.038180696Z",
+  "model": "glm-5.3"
+}

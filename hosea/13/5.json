@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Ke ne ke a go itse kwa naganeng, kwa lefatshe la komelelo e kgolo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ne ke a go itse"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa naganeng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatshe"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "la komelelo e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:25.608110094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Fa a ka kgona go lwa ⟨את⟩ le nna a ka mpaia, re tla nna makgoba a lona; mme fa nna ke ka kgona go mo fenya a ka mpaia, lona lo tla nna makgoba a rona, lo dire ⟨את⟩ rona.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "a ka kgona"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "a ka mpaia"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "re tla nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a lona"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "makgoba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ke ka kgona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go mo fenya"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "a ka mpaia"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "lo tla nna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a rona"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "makgoba"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "lo dire"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "rona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:01:50.447303636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme nna ke tla kotofatsa ⟨את⟩ pelo ya Faro, mme ke tla oketsa ⟨את⟩ diaitsego tsa me le ⟨את⟩ diphodiso tsa me lefatsheng la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ke tla kotofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya Faro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Faro"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ke tla oketsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaitsego tsa me"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "diaitsego tsa me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diphodiso tsa me"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "diphodiso tsa me"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:57.653535032Z",
+  "model": "glm-5.3"
+}

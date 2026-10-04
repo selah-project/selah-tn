@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ka go tsuologa ga Yaakobo go tsile ⟨את⟩ tsotlhe tseo, le ka dibeka tsa ntlo ya Yisraele. Ke eng go tsuologa ga Yaakobo? A ga se Shomere? Mme ke eng maemo a kwa godimo a Yuda? A ga se Yerushalayime?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "ka go tsuologa ga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "le ka dibeka tsa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "go tsuologa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ga Yaakobo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga se"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomere"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mme ke eng"
+    },
+    {
+      "surface": "במות",
+      "gloss": "maemo a kwa godimo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yuda"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga se"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T03:17:19.513183114Z",
+  "model": "glm-5.3"
+}

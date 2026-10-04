@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Dumelang Yahwe, masomo a gagwe onyana; batlhanka ba gagwe, ba ba dirang thato ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Dumelang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onyana"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "masomo a gagwe"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "batlhanka ba gagwe"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "thato ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:48.201027729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "O a ntshegiwa mo toropong, mme o a ntshegiwa kwa masimong.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "o a ntshegiwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo toropong"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "mme o a ntshegiwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwa masimong"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:45.008782476Z",
+  "model": "glm-5.3"
+}

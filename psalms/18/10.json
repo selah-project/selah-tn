@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme o ne wa ikgatelela magodimo, a wa fa fatshe, mme lefifi le ne le le ka fa tlase ga dinao tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "mme o ne wa ikgatelela"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a wa fa fatshe"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "mme lefifi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "dinao tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:20.243540316Z",
+  "model": "glm-5.3"
+}

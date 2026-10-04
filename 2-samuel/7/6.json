@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Gore ga ke a nna ka ntlo go tloga ka letsatsi le ke neng ke ntsha ⟨את⟩ bana ba Yisraaele go tswa mo Mitsrayime, go fitlha le gompieno; mme ke ne ke ntse ke tsamaya ka tente le mo Mishkaneng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ke a nna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlo"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "go tloga ka letsatsi"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "ke neng ke ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraaele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go tswa mo Mitsrayime"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha le"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "mme ke ne ke"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ntse ke tsamaya"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ka tente"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "le mo Mishkaneng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:09:24.294758423Z",
+  "model": "glm-5.3"
+}

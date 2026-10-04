@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Bana ba gago ba betlehile, ba robetse kwa tlhakoreng ya meila yotlhe, jaaka phuti e e tshwereng mo lekaneng; ba tletse bosulu jwa Yahwe, kgalefo ya Elohim ya gago.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Bana ba gago"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "ba betlehile"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "ba robetse"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "kwa tlhakoreng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya meila yotlhe"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ya meila"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "jaaka phuti"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "mo lekaneng"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ba tletse"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bosulu jwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "kgalefo ya"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:02:32.821357335Z",
+  "model": "glm-5.3"
+}

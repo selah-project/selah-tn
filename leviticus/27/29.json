@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Chereme ya motho yo mongwe le yo mongwe yo o segeditsweng go tswa mo bathong ga e ka go gololwa; a bolawe, a sule.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ya motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "chereme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "o segeditsweng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bathong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "e ka go gololwa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a bolawe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a sule"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:21.634422808Z",
+  "model": "glm-5.3"
+}

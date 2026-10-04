@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Tswa mo arekeng, wena le mosadi wa gago le bana ba gago le basadi ba bana ba gago, ⟨את⟩ le wena.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Tswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arekeng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "le mosadi wa gago"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "le bana ba gago"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "le basadi ba"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba gago"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:16.321587151Z",
+  "model": "glm-5.3"
+}

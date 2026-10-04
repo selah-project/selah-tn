@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "O tla nna o segofetswe go feta ditshaba tsotlhe; ga go kitla go nna le motho yo o sa tsaleng kgotsa mosadi yo o sa tsaleng mo go wena, le mo diphoofolong tsa gago.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "o segofetswe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o tla nna"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditshaba tsotlhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "motho yo o sa tsaleng"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "mosadi yo o sa tsaleng"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "le mo diphoofolong tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:06.505635248Z",
+  "model": "glm-5.3"
+}

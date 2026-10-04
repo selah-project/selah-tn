@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Ke tla go leboga, Adonai Elohim wa me, ka pelo ya me yotlhe; mme ke tla tlotla leina la gago go ya le lelele.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ke tla go leboga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... yotlhe"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "mme ke tla tlotla"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lelele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:51.104593640Z",
+  "model": "glm-5.3"
+}

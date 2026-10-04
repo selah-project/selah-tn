@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "fa a ne a bontsha ⟨את⟩ khumo ya tlotlo ya bogosi jwa gagwe, le ⟨את⟩ boleng jwa kgalalelo ya botlhokwa jwa gagwe — matsatsi a mantsi, masome a robabobedi le lekgolo la matsatsi.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "fa a ne a bontsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khumo ya tlotlo ya bogosi jwa gagwe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tlotlo"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "bogosi jwa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "boleng jwa kgalalelo ya botlhokwa jwa gagwe"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "boleng"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "botlhokwa jwa gagwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "masome a robabobedi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le lekgolo la"
+    },
+    {
+      "surface": "יום",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:17:22.636927819Z",
+  "model": "glm-5.3"
+}

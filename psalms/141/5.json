@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 141,
+  "translation": "Yo o siameng a nteye ka hesede, mme a nkgakolole; e tla nna mafura a tlhogo — a se ka a gana tlhogo ya me; gonne e ntse le thapelo ya me ka diphofo tsa bone.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "a nteye"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "mme a nkgakolole"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a tlhogo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "יני",
+      "gloss": "a gana"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tlhogo ya me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "e ntse"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "le thapelo ya me"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "ka diphofo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:18.591204857Z",
+  "model": "glm-5.3"
+}

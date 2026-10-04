@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "O kaoloke, moyo wa me, ⟨את⟩ Yahwe. Yahwe, Elohim wa me, o golo thata; o apere ⟨את⟩ botlhale le ⟨את⟩ boswa.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "o kaoloke"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wa me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "o golo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "le boswa"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "o apere"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:47.044213171Z",
+  "model": "glm-5.3"
+}

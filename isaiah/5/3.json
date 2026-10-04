@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "E bile jaanong, lona ba ba dulang Yerushalayime le motho wa Yhudha: khololang, ke kopa lona, fa ga me le seropa sa me.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e bile jaanong"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ba ba dulang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le motho wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yhudha"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "khololang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa lona"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "fa ga me"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "seropa sa me"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:14.334298240Z",
+  "model": "glm-5.3"
+}

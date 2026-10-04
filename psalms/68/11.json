@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Setshaba sa gago se nnile mo go sona; ka botoka jwa gago o baakantshitse go ya go fithlwa, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "se nnile mo go sona"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go sona"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "o baakantshitse"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "ka botoka jwa gago"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "go ya go fithlwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:00.637949452Z",
+  "model": "glm-5.3"
+}

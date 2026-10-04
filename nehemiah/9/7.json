@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Wena ⟨ke⟩ wena Yahwe Elohim ya o tlhophileng Avrame, mme wa mo ntsha go tswa kwa Oore ya Bakasde, mme wa tlhoma leina la gagwe Abrahame.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "o tlhophileng"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "Avrame"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "wa mo ntsha"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "go tswa kwa Oore"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ya Bakasde"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "wa tlhoma"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    }
+  ],
+  "timestamp": "2026-10-04T02:33:35.917078191Z",
+  "model": "glm-5.3"
+}

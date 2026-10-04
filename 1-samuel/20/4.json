@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Yonathane a re mo go Dawide: Moya wa gago o re eng, mme ke o dire mo go wena?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Moya wa gago"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mme ke o dire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo go wena"
+    }
+  ],
+  "timestamp": "2026-10-03T23:03:44.471629196Z",
+  "model": "glm-5.3"
+}

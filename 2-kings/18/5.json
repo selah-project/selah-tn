@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "O ikemetse go Yahwe, Elohim wa Yisraele; mme morago ga gagwe ga go a ka go nna yo a tshwanang le ene mo dikgosing tsotlhe tsa Yehuda, le mo go ba pe ba neng ba le pele ga gagwe.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "o ikemetse"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "mme morago ga gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go a ka go nna"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "yo a tshwanang le ene"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo tsotlhe tsa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosing"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le mo go ba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba neng ba le"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:12.968001033Z",
+  "model": "glm-5.3"
+}

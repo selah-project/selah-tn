@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mo go tlhopha jalo ke kgosi: se ka la bosetsa ke Khizkiyahu, gonne o ka se kgone go go boloka ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mo go tlhopha jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "la bosetsa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "o ka se kgone"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:56:20.405330301Z",
+  "model": "glm-5.3"
+}

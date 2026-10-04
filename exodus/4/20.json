@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Moshe a tshwara ⟨את⟩ mosadi wa gagwe le ⟨את⟩ bana ba gagwe, a ba kweetsa mo khama, a boela kwa lefatsheng la Mitsrayime; mme Moshe a tshwara ⟨את⟩ letlhare la Elohim ka letlhogo la gagwe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tshwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa gagwe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "a ba kweetsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "khama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kwa lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tshwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letlhare la Elohim"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "letlhare"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka letlhogo la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:32.021806206Z",
+  "model": "glm-5.3"
+}

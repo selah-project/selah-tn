@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Wa bolesomepedi go Elyashibe, wa bolesometharo go Yakime.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "go Elyashibe"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "wa bolesomepedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨e le⟩ kgatlhanong"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "go Yakime"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kgatlhanong"
+    }
+  ],
+  "timestamp": "2026-10-04T02:43:06.008481092Z",
+  "model": "glm-5.3"
+}

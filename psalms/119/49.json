@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Gakologoha ka lefoko la go ea kwa modirung wa gago, leo o nnileng ka ntlafatsa tshepo ka lona.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "gakologoha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "go ea kwa modirung wa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "o nnileng ka ntlafatsa tshepo ka lona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:32.542630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mme a romela ⟨את⟩ bakaulengwe ba gagwe, mme ba tsamaya; mme a ba re: Lo se ka la kgalana mo tseleng.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mme a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakaulengwe ba gagwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bakaulengwe ba gagwe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mme ba tsamaya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lo se ka la"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "kgalana \/ tshwenyega"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:31:15.051070741Z",
+  "model": "glm-5.3"
+}

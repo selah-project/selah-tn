@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "Go bonagale tiro ya gago go badiri ba gago, le bogolo jwa gago go bana ba bone.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Go bonagale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "badiri ba gago"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "tiro ya gago"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "le bogolo jwa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana ba bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:09.154913233Z",
+  "model": "glm-5.3"
+}

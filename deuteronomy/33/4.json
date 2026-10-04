@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Torah eo Moshe a e laetseng rona; e ne e le boswa jwa phuthego ya Yaakobo.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a e laetseng"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "boswa"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "jwa phuthego"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:01.081334915Z",
+  "model": "glm-5.3"
+}

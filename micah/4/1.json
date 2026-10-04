@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 4:1",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme e tla nna ka bofelo jwa malatsi: thaba ya ntlo ya Yahwe e tla nna e tlhomilwe kwa tlhogo ya dithaba, mme ⟨e⟩ tla tlhatloga godimo ga dikgwapha, mme ditshaba di tla elela go yona.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla nna"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ka bofelo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jwa malatsi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e tlhomilwe"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "kwa tlhogo"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ya dithaba"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mme e tla tlhatloga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "godimo ga dikgwapha"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "mme di tla elela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:02:38.253413288Z",
+  "model": "glm-5.3"
+}

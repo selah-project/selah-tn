@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Setshingwana se se tswaletsweng, kgaitsadie, ngwetsi ya ka; seke se se tswaletsweng, metsi a a kgabile, a a tswaletsweng.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "setshingwana"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "se se tswaletsweng"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kgaitsadie"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ngwetsi ya ka"
+    },
+    {
+      "surface": "גל",
+      "gloss": "seke"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "se se tswaletsweng"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "metsi a a kgabile"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "a a tswaletsweng, a a kgabisitsweng ka seka"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:13.951824311Z",
+  "model": "glm-5.3"
+}

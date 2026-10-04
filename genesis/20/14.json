@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Abimeleke a tsaya dinku le dikgomo, makgoba le basadi ba ba direlang, a di neela Abrahame; mme a mo busetsa ⟨את⟩ Sara mosadi wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "le dikgomo"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "le makgoba"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "le basadi ba ba direlang"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "go Abrahame"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a busetsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:38.847948443Z",
+  "model": "glm-5.3"
+}

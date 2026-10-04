@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ditsela tsa gagwe di tsidifala ka nako tsotlhe; dikatlholo tsa gago di kwa godimo, kgakala le ene; baba ba gagwe botlhe o ba phefodula.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "di tsidifala"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ditsela tsa gagwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako tsotlhe"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "di kwa godimo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikatlholo tsa gago"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "kgakala le ene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "baba ba gagwe"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "o ba phefodula"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:47.954094213Z",
+  "model": "glm-5.3"
+}

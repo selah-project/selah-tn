@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Go bua jalo Yahwe, yo o e dirileng ⟨את⟩; Yahwe, yo o e tlhamileng go e tiisa; Yahwe ke leina la gagwe.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Go bua jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yo o bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o e dirileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "yo o e tlhamileng"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "go e tiisa (dilo tse a di dirileng)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "go e tiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:21:57.142293058Z",
+  "model": "glm-5.3"
+}

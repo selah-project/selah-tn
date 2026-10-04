@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "O ne wa latlha kgolagano ya modiri wa gago; wa tlhotlha setswerwe sa gagwe go fitlha lefatshe.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "wa latlha"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ya modiri wa gago"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "wa tlhotlha"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "go fitlha lefatshe"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "setswerwe sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:20.810447595Z",
+  "model": "glm-5.3"
+}

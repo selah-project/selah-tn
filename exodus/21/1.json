@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme tseno ke ditatlholo tse o di tlang go bea pele ga bone.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme tseno"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ditatlholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "o di tlang go bea"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ga bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:43.304790523Z",
+  "model": "glm-5.3"
+}

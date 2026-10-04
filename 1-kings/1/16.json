@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Batsheba a itlhaganela, a tlhamafa kgosi; mme kgosi a re: Ke eng se o se batlang?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Mme … a itlhaganela"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Batsheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "a tlhamafa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme … a re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ke eng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "se o se batlang"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:26.624054876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Lebelela, araba nna, Yahwe Elohim wa me; neela mahodisa a me bosetlhare, fela gore ke se ka tlala boroko jwa loso.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Lebelela"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "araba nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "neela bosetlhare"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahodisa a me"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fela gore ke se ka"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "tlala boroko"
+    },
+    {
+      "surface": "המות",
+      "gloss": "jwa loso"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:54.304301143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Magodimo ke a Yahwe, mme lefatshe o ne a se neela bana ba batho.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ke a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mme lefatshe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ne a se neela"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:49.047053032Z",
+  "model": "glm-5.3"
+}

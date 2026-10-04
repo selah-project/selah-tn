@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme ba direla ⟨את⟩ medimo ya tsone; mme e nna lorokho go bona.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Mme ba direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya tsone"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "medimo ya tsone"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme e nna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "lorokho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:54.748970428Z",
+  "model": "glm-5.3"
+}

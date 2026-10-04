@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 54:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 54,
+  "translation": "O se ke wa tshaba, gonne ga o ka ke wa mahuma; mme o se ke wa ikutlwa botlhoko, gonne ga o ka ke wa tshwenyega; gonne o tla lebala mahumo a bo Banana ga gago, mme se molato sa bo tlhokagadi ga gago ga o tla se gopola go sa le gale.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ke"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "wa tshaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "o ka ke wa mahuma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ke"
+    },
+    {
+      "surface": "תכלמי",
+      "gloss": "wa ikutlwa botlhoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תחפירי",
+      "gloss": "o ka ke wa tshwenyega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "mahumo"
+    },
+    {
+      "surface": "עלומיך",
+      "gloss": "a bo Banana ga gago"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "o tla lebala"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "mme se molato"
+    },
+    {
+      "surface": "אלמנותיך",
+      "gloss": "sa bo tlhokagadi ga gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "o tla se gopola"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "go sa le gale"
+    }
+  ],
+  "timestamp": "2026-10-04T00:02:16.672960601Z",
+  "model": "glm-5.3"
+}

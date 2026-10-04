@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Gore Yahwe o rata katlholo, mme o ka se tlogele ⟨את⟩ ba ba ikanyegang ba gagwe; go ya ile ba a sireletswa, mme peo ya ba ba bobe e tla raganwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o rata"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o ka se"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "tlogele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba ikanyegang ba gagwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ba ba ikanyegang ba gagwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya ile"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "ba a sireletswa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "mme peo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya ba ba bobe"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "e tla raganwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:32.595728615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Yahwe a go araba ka letsatsi la tebekano; leina la Elohim wa ga Yaakobo le go godise:",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "a go araba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tebekano"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "le go godise"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina la"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:15.561017099Z",
+  "model": "glm-5.3"
+}

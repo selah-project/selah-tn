@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Ditshaba tsotlhe, lo otla ka diatla; lo gogomosa lentswe go ya go Elohim ka lentswe la go thaba.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "lo otla ka diatla"
+    },
+    {
+      "surface": "כף",
+      "gloss": "sefatlhafo sa letshwao"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "lo gogomosa lentswe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go ya go Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentswe"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "la go thaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:43.081031238Z",
+  "model": "glm-5.3"
+}

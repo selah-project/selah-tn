@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mongwe le mongwe yo o bonwang o tla thuntshiwa ka dibetsa; mme mongwe le mongwe yo o tshwarwang o tla wa ka tshaka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yo o bonwang"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "o tla thuntshiwa ka dibetsa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme mongwe le mongwe"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "yo o tshwarwang"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "o tla wa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:27.807341476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 149,
+  "translation": "go dira botlhano mo ditshabeng, dikatlholo mo mererong ya batho;",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "botlhano"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "dikatlholo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mererong ya batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:35.217613921Z",
+  "model": "glm-5.3"
+}

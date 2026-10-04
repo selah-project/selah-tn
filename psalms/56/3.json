@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Ba ba ntlhoileng ba ntsea letsatsi lotlhe, gonne ba bantsi ba lwa le nna, wena yo o kwa godimo.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ba ntsea"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ba ba ntlhoileng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bantsi"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yo o kwa godimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:55.226675607Z",
+  "model": "glm-5.3"
+}

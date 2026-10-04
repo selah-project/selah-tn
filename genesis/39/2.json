@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme Yahwe o ne a le le ⟨את⟩ Yosefe, mme a nna motho yo o atlegileng; mme o ne a nna mo ntlong ya mong wa gagwe, wa Moitsraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme o ne a le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme a nna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "yo o atlegileng"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme o ne a nna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ya mong wa gagwe"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "wa Moitsraele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:59.557521669Z",
+  "model": "glm-5.3"
+}

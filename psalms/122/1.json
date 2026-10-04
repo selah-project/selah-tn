@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 122,
+  "translation": "Pina ya maemitso, ya Dawide. Ke ne ke itumelela fa ba ne ba mpolelela: A re ye kwa ntlong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maemitso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Ke ne ke itumelela"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "fa ba ne ba mpolelela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "A re ye"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:17.464079136Z",
+  "model": "glm-5.3"
+}

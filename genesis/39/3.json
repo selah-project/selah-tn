@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme mong wa gagwe a bona gore Yahwe o na le ⟨את⟩ ene, le gore sengwe le sengwe se a se dirang, Yahwe a se dira go atlega mo seatleng sa gagwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mme ... a bona"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mong wa gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le ⟨את⟩",
+      "marks": "ene"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "se dirang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "a se dira go atlega"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:59.557654658Z",
+  "model": "glm-5.3"
+}

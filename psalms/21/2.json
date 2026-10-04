@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Yahwe, ka maatla a gago kgosi e itumelela, mme ka tokololo ya gago e a talama thata!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ka maatla a gago"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "e itumelela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "mme ka tokololo ya gago"
+    },
+    {
+      "surface": "מה",
+      "gloss": "thata"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "e a talama"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ka tshoganyetso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:18.975150550Z",
+  "model": "glm-5.3"
+}

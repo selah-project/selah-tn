@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Le ⟨את⟩ mafura — a tswa go poo le go poo ya dipudi: mosela o mafura, le sephuthedi, le diphio, le tlhatlagano ya sebete.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a tswa go"
+    },
+    {
+      "surface": "השור",
+      "gloss": "poo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le go"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "poo ya dipudi"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "mosela o mafura"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "le sephuthedi"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "le diphio"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "le tlhatlagano"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sebete"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:20.981402553Z",
+  "model": "glm-5.3"
+}

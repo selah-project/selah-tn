@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 4:7",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ke tla baya ⟨את⟩ yoo o lemang e le masalela, le yoo o neng a tsewa kgakala e le setshaba se se nonofileng; mme Yahwe o tla busa bone kwa Thabeng ya Tsiyone, go tloga jaanong go fitlha bosakhutlhe.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ke tla baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoo o lemang"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "yoo o lemang"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "e le masalela"
+    },
+    {
+      "surface": "והנהלאה",
+      "gloss": "le yoo o neng a tsewa kgakala"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "e le setshaba"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "se se nonofileng"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "o tla busa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwa Thabeng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsiyone"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "go tloga jaanong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bosakhutlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:30.928525763Z",
+  "model": "glm-5.3"
+}

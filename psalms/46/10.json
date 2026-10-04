@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "O emisa dintwa go fitlhea kwa mafelelong a lefatshe; o thuba matlhare, o ka gapa dintlhare, dikgokgo tsa dibuka di a di fisa ka molelo.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "O emisa"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "dintwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlhea"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kwa mafelelong a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "matlhare"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "o thuba"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "o ka gapa dintlhare"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "dintlhare"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "dikgokgo tsa dibuku"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "di a di fisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:59.998916414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "O ba eleletse jaaka metsi a a elelang; ba nna boroko; mo mosong ba tlhaga jaaka dinoka tse di tlhatlogang.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "O ba eleletse jaaka metsi a a elelang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "boroko"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jaaka dinoka tse di tlhatlogang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:20.479970915Z",
+  "model": "glm-5.3"
+}

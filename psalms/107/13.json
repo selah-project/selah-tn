@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Mme ba goa kua Yahwe mo nakong ya mathata a bone, mme o ba boloka mo dithateng tsa bone.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Mme ba goa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mo nakong ya mathata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "mo dithateng tsa bone"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "o ba boloka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:12.304985359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Ya Dawide, moko wa mminoa. Ya Yahwe ⟨⟨ke⟩⟩ lefatshe le selegae sa yone, lefatshe le batho ba ba nnang mo go lona.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko wa mminoa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Ya Yahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "le selegae sa yone"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "le batho ba ba nnang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go lona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:13.162347243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Ena o humanegileng o ne a golela kwa, mme Yahwe a mo utlwa, mme a mo tlhabolola mo mathateng a gagwe otlhe.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ena"
+    },
+    {
+      "surface": "עני",
+      "gloss": "o humanegileng"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o ne a golela kwa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a mo utlwa"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "mo... otlhe"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "mathateng a gagwe"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "a mo tlhabolola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:18.307589641Z",
+  "model": "glm-5.3"
+}

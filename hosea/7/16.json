@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 7:16",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Ba boela, mme e seng kwa godimo; ba ntlhophang jaaka ota ya maaka; balaodi ba bone ba tla wa ka tshaka, ka ntlha ya bogale jwa meleme ya bone; se ke seko sa bone mo lefatsheng la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Ba boela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ntlhophang"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "jaaka ota"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ya maaka"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ba tla wa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "balaodi ba bone"
+    },
+    {
+      "surface": "מזעם",
+      "gloss": "ka ntlha ya bogale"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "jwa meleme ya bone"
+    },
+    {
+      "surface": "זו",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעגם",
+      "gloss": "ke seko sa bone"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:42.903607140Z",
+  "model": "glm-5.3"
+}

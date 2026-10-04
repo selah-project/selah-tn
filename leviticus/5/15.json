@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 5:15",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Fa motho a ikhakantsha a bo a dira molato ka phoso mo dilo tse di boitshepo tsa Yahwe, o tla isa ⟨את⟩ mpho ya gagwe ya molato go Yahwe: pudi e e tono e e se nang maswe, e tswa mo poditing, ka go lekanywa ga gago ka selefera — mashekele ka shekele ya boitshepo — jaaka mpho ya molato.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תמעל",
+      "gloss": "a ikhakantsha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "boikhakantsho"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "a dira molato"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "ka phoso"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mo dilo tse di boitshepo tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "o tla isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya gagwe ya molato"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "mpho ya gagwe ya molato"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "pudi e e tono"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e e se nang maswe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e tswa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mo poditing"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ka go lekanywa ga gago"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ka selefera"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "mashekele"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ka shekele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya boitshepo"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "jaaka mpho ya molato"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:19.825176903Z",
+  "model": "glm-5.3"
+}

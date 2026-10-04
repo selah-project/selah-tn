@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Ka letsatsi leo, Yahwe o ile a ralana le ⟨את⟩ Abrahame kgolagano, a re: Go peo ya gago ke ne ke fa ⟨את⟩ lefatshe le, go tswa molambo wa Mitsrayime go fitlha molambo o mogolo, molambo wa Perate.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a ralana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Go peo ya gago"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke ne ke fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe le"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "go tswa molambo wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "molambo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "molambo wa"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perate"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:32.396114266Z",
+  "model": "glm-5.3"
+}

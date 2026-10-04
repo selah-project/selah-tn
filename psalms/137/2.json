@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 137,
+  "translation": "Mo dikgweng tsa mokala mo gare ga yone, ra kgomareda dikanere tsa rona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Mo"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "dikgweng tsa mokala"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "mo gare ga yone"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ra kgomareda"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "dikanere tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:36.597640598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Yehoshua a tsoga ka moso, mme a tlhatlhoba ⟨את⟩ setshaba, mme a tlhatloga — ene le bagodi ba Yisraele — pele ga setshaba, kwa Aye.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a tsoga ka pele"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "a tlhatlhoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a tlhatloga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "le bagodi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Aye"
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:14.309056202Z",
+  "model": "glm-5.3"
+}

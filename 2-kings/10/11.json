@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Yehu o ile a betla ⟨את⟩ botlhe ba ba neng ba salile mo ntlong ya Ahabe kwa Yizrele, le dikgolo tsa gagwe botlhe, le ba ba neng ba mo itse, le baperesiti ba gagwe, go fitlha a sa siea sepe sa gagwe se se salang.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "a betla"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botlhe ba ba neng ba salile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ba ba salileng"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mo ntlong ya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabe"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "kwa Yizrele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le botlhe"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "dikgolo tsa gagwe"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "le ba ba mo itseng"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "le baperesiti ba gagwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "a siea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa gagwe"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "sepe se se salang"
+    }
+  ],
+  "timestamp": "2026-10-03T23:35:34.537617307Z",
+  "model": "glm-5.3"
+}

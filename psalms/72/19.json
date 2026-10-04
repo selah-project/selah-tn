@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Mme yo o lo boditsweng ke leina la botlhaga jwa gagwe ka bosakhutlho; mme botlhaga jwa gagwe bo jalale ⟨את⟩ lefatshe lotlhe. Amene, mme Amene.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Mme yo o lo boditsweng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "la botlhaga jwa gagwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosakhutlho"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "mme bo jalale"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "botlhaga jwa gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe lotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "mme Amene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:52.134029485Z",
+  "model": "glm-5.3"
+}

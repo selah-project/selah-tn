@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ba phutlhama ⟨את⟩ setshwantsho sa Baale, mme ba phutlhama ⟨את⟩ ntlo ya Baale; mme ba e dira lefelo la diphologolo go fitlha gompieno.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "ba phutlhama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshwantsho sa Baale"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "setshwantsho"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "sa Baale"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ba phutlhama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Baale"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baale"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ba e dira"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "lefelo la diphologolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    }
+  ],
+  "timestamp": "2026-10-03T23:34:55.775522079Z",
+  "model": "glm-5.3"
+}

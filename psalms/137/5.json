@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 137,
+  "translation": "Fa ke se ka wa go gopola, Yerushalayime, a letsogo la me la moja le lobe go gopola.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ke se ka wa go gopola"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "le lobe go gopola"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "letsogo la me la moja"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:20.001499579Z",
+  "model": "glm-5.3"
+}

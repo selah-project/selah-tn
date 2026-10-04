@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Yahwe Adonai wa rona, leina la gago le kgalofatsa thata mo lefatsheng lotlhe!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wa rona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kgalofatsa thata"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kgalofatsa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo lefatsheng lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:29.375048375Z",
+  "model": "glm-5.3"
+}

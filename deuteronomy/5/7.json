@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "O se ka wa nna le medimo e mengwe fa pele ga nna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nna le"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gago"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e mengwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele ga nna"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:33.277345566Z",
+  "model": "glm-5.3"
+}

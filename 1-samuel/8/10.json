@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Samuele a bua ⟨את⟩ mafoko botlhe a Yahwe go setshaba se se kopolang mo go ene ⟨את⟩ kgosi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme Samuele a bua"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko botlhe a Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "se se kopolang"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "mo go ene ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:49.528096595Z",
+  "model": "glm-5.3"
+}

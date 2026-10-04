@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 112,
+  "translation": "Lesedi le tlhagelela mo lefifing go ba siameng — yo mohau, yo o nang le kutlwelobotlhoko, le yo siameng.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "le tlhagelela"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mo lefifing"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lesedi"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "go ba siameng"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "yo mohau"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "yo o nang le kutlwelobotlhoko"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "le yo siameng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:54.433219579Z",
+  "model": "glm-5.3"
+}

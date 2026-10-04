@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ke bone ⟨את⟩ tiro ye Elohim a neng a e neetse bana ba motho, gore ba dumedisiwe ka yona.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ke bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiro"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a e neetse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "gore ba dumedisiwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:04.878912360Z",
+  "model": "glm-5.3"
+}

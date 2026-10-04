@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Kwa kgweding ya ntlha, ka la bolesome le bongwe la kgwedi, magareng ga mafifi, ⟨go nna⟩ Pesake ya Yahwe;",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Kwa kgweding"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya ntlha"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ka la bone"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome le bongwe"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mafifi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:23.710993020Z",
+  "model": "glm-5.3"
+}

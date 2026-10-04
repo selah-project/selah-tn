@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme kwa tshimologong ya go nna ga bone koo, ba ne ba sa boife ⟨את⟩ Yahwe; jalo Yahwe o ne a romela mo go bone ⟨את⟩ ditau, mme di ne di ba bolaya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go le"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "kwa tshimologong ya"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "go nna ga bone"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba boife"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "jalo o ne a romela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditau"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "ditau"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme di ne di"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "ba bolaya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T23:40:28.742282091Z",
+  "model": "glm-5.3"
+}

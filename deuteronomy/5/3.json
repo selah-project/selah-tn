@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Ga go ⟨את⟩ borraalona bao Yahwe a neng a rula ⟨את⟩ kgolagano eno le bone; ke ⟨את⟩ le rona — rona — fano gompieno, rona botlhe re tshela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borraalona"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "borraalona"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a neng a rula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano eno"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rona"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "rona"
+    },
+    {
+      "surface": "פה",
+      "gloss": "fano"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "rona botlhe"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "re tshela"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:01.423762355Z",
+  "model": "glm-5.3"
+}

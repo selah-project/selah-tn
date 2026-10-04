@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme ba bua le Moshe, ba re: Setshaba se ntse se dira go oketsa go isa dilo go feta se se lekaneng go dira tiragatso ya mosebetsi oo Yahwe a laetseng go o dira ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "go oketsa go isa dilo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "go isa"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "go feta se se lekaneng"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "tiragatso"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "ya mosebetsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi oo (tiragatso ya mosebetsi)"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:34.053138858Z",
+  "model": "glm-5.3"
+}

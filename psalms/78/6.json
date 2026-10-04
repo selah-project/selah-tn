@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Gore moloko o o tlang o o itseeng, bana ba tlaa belegwang, ba tloge ba bo bolelele bana ba bone.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "o o itseeng"
+    },
+    {
+      "surface": "דור",
+      "gloss": "moloko"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "o o tlang"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ba tlaa belegwang"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ba tloge"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "mme ba bo bolelele"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bana ba bone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:26.962405204Z",
+  "model": "glm-5.3"
+}

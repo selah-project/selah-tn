@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Pele ga bo-ntate-ba-none ba bona o ne a dira dilo tse di gakgamatsang, mo lefatsheng la Mitsrayime, kwa masimong a Tsoane.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "Pele ga"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bo-ntate-ba-none ba bona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ne a dira"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "dilo tse di gakgamatsang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kwa masimong a"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoane"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:28.811129716Z",
+  "model": "glm-5.3"
+}

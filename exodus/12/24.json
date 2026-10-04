@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme lo tla sireletsa ⟨את⟩ ruri eno e nne molao go lona le go bana ba lona go ya ho ile lefatshe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Mme lo tla sireletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruri eno"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "molao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "וילבניך",
+      "gloss": "le go bana ba lona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho ile lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:30.445531371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme go seka ga go nna motho a kganana, le go seka ga a okaoka motho, gonne batho ba gago ke ba ba tshwanang le ba ba kgananang le moruti.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "mme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go seka ga"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "a kganana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go seka ga"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "a okaoka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "batho ba gago"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "ba ba tshwanang le ba ba kgananang le"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moruti"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:39.774179572Z",
+  "model": "glm-5.3"
+}

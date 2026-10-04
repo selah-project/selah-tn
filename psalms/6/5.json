@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Boela, Yahwe; ntolola botshelo jwa me; mpholose ka ntlha ya hesede ya gago.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Boela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ntolola"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "botshelo jwa me"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mpholose"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:26.022622254Z",
+  "model": "glm-5.3"
+}

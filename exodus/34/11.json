@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "O nne o sireletse go wena ⟨את⟩ se nna ke go laelang gompieno; bona, nna ke ntsha mo pelaung ya gago ⟨את⟩ ba More, le ba Kenaane, le ba Chete, le ba Pereze, le ba Chive, le ba Jebuse.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "o nne o sireletse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se nna ke go laelang gompieno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ke go laelang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bona nna"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ke ntsha"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "mo pelaung ya gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba More"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ba More"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "le ba Kenaane"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "le ba Chete"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "le ba Pereze"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "le ba Chive"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le ba Jebuse"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:28.121478886Z",
+  "model": "glm-5.3"
+}

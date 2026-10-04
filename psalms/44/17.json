@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Ka lentswe la yo o tlhaolang le yo o nyatsa ka molomo, ka ntlha ya moganatsi le yo o ipusang.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ka lentswe la"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "yo o tlhaolang"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "le yo o nyatsa ka molomo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "moganatsi"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "le yo o ipusang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:50.841107498Z",
+  "model": "glm-5.3"
+}

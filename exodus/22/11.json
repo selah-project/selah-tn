@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme fa go fiwa e fisiwa mo go ene, o tla duela mong wa yone.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "go fiwa"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "e fisiwa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla duela"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "mong wa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:31.563198459Z",
+  "model": "glm-5.3"
+}

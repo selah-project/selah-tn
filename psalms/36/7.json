@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Tsedeke ya gago e tshwana le dithaba tsa El; katlholo ya gago ke lewatle le legolo; motho le phologolo o ba pholosa, Yahwe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeke ya gago"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "e tshwana le dithaba tsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "katlholo ya gago"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "le phologolo"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "o ba pholosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:47.289036422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ke ka eng o ntshitse go tswa mo mpeng? A ke ne ke ka tlhokafala, mme leitlho le ne le sa ka la nthla!",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "mme ke ka eng"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "go tswa mo mpeng"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ke tlhokafala"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "mme leitlho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "la nthla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:57.537797862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme a aga ⟨את⟩ sebageng se se agilweng kgatlhanong le ntlo yotlhe, boleele jwa jone bo le dikama di le tlhano; mme se ne sa tshwara ntlo ka pego ya diarara.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mme a aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebageng"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "sebageng"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "di le tlhano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "boleele jwa jone"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "mme sa tshwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ka pego ya"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "diarara"
+    }
+  ],
+  "timestamp": "2026-10-03T23:21:33.750593471Z",
+  "model": "glm-5.3"
+}

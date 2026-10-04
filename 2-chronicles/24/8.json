@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme kgosi ya laela, mme ba dira sethapo se le sengwe, mme ba se beya kwa kgoreng ya ntlo ya Yahwe, kwa ntle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme kgosi ya laela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba dira"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sethapo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le sengwe"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "mme ba se beya"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kwa kgoreng ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "kwa ntle"
+    }
+  ],
+  "timestamp": "2026-10-04T02:53:56.595421264Z",
+  "model": "glm-5.3"
+}

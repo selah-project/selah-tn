@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Ka mafuka a gagwe o tla go phutha, mme o tla iphutha mo mafukeng a gagwe; tshepe ya gagwe e ne e le sekatoloko le sechaba.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Ka mafuka a gagwe"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "o tla go phutha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "mo mafukeng a gagwe"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "mafukeng"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "o tla iphutha"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "sekatoloko"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "tshepe ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:34.945023909Z",
+  "model": "glm-5.3"
+}

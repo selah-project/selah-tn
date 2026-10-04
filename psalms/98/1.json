@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 98,
+  "translation": "Psalme. Binkang go Yahwe pincha e ntšha, gonne o direte dilo tse di makatsang; letlhogo la gagwe le mo lokisetse poloko, le seatla sa gagwe se se boitshepo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Binkang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pincha"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e ntšha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "dilo tse di makatsang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o direte"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "poloko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "letlhogo la gagwe"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "le seatla sa gagwe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "se se boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:27.425225446Z",
+  "model": "glm-5.3"
+}

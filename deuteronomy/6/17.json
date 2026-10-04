@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Boloka thata — le tlaa boloka ⟨את⟩ ditaelo tsa Yahwe Elohim ya lona, le bopaki ba gagwe, le melawana ya gagwe e a neng a la lona.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "le tlaa boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaelo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ditaelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "le bopaki ba gagwe"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "le melawana ya gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "a la lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:10.363791851Z",
+  "model": "glm-5.3"
+}

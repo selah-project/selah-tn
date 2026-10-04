@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme sekgo, sephinithara, tlhaka ya matsogo, phuthi le mabadi di nna mo metsing ya bona; mme ⟨את⟩ tiro ya Yahwe ga ba e sedimoseng, le tiro ya diatla tsa gagwe ga ba e boneng.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme di nna"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "sekgo"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "sephinithara"
+    },
+    {
+      "surface": "תף",
+      "gloss": "tlhaka ya matsogo"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "phuthi"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "le mabadi"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "mo metsing ya bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiro ya Yahwe"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ba e sedimoseng"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "le tiro ya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "diatla tsa gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ba e boneng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:34.750922173Z",
+  "model": "glm-5.3"
+}

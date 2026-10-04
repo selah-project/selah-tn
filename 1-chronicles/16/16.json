@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "e a e rmaileng le ⟨את⟩ Abrahame, le kolotso ya gagwe go Yitshake;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a e rmaileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "le kolotso ya gagwe"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "go Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-04T02:40:43.559960423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 123,
+  "translation": "Pina ya maemo. Go wena ke ne ke tlhatlosa ⟨את⟩ matlho a me, wena yo o dulang kwa magodimong.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maemo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke ne ke tlhatlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlho a me"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "yo o dulang"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:04.305891732Z",
+  "model": "glm-5.3"
+}

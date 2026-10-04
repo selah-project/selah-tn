@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Labane a tsoga kwa bofelong jwa bosigo go ya kwa mosong, a reta ⟨את⟩ bana ba gagwe ba basha le barwa... Mme Labane a tlhatloga ka moso, a reta ⟨את⟩ barwa ba gagwe le ⟨את⟩ diwedi tsa gagwe, mme a ba tlhomologisa; mme a tsamaya, Labane a boela kwa lefelong la gagwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a tlhatloga ka moso"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "a reta"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "le diwedi tsa gagwe"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a ba tlhomologisa"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mme a tsamaya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "kwa lefelong la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:24:28.896584271Z",
+  "model": "glm-5.3"
+}

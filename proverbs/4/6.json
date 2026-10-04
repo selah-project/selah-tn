@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "O se ka wa mo tlogela, mme o tlaa go tlhokomela; mo rate, mme o tlaa go sireletsa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "tlogela"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "mme o tlaa go tlhokomela"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "mo rate"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "mme o tlaa go sireletsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:20.118491750Z",
+  "model": "glm-5.3"
+}

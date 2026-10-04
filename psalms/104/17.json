@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Koo dinonyane di agang mefuta ya diphapo; khuduge e nang le bopelonomi, dipherese ke ntlo ya yone.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "koo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "fela koo"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "dinonyane"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "di aga diphapo"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "khuduge"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "dipherese"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ntlo ya yone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:43.242338943Z",
+  "model": "glm-5.3"
+}

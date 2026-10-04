@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Bafalisiti ba ne ba lwa kgatlhanong le Yisraele, mme banna ba Yisraele ba ne ba tshaba kwa pele ga Bafalisiti, mme ba wa ba bolawa thabeng ya Gilaboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Mme Bafalisiti"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "ba ne ba lwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kgatlhanong le Yisraele"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mme ba ne ba tshaba"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalisiti"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "mme ba wa"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ba bolawa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilaboa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:08:48.044532931Z",
+  "model": "glm-5.3"
+}

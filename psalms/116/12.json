@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Ke eng se ke se busang go Yahwe, kgatlhanong le dipoelo tsa gagwe tsotlhe tse di nnang mo go nna?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "se ke se busang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "dipoelo tsa gagwe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tse di nnang mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:53.954769898Z",
+  "model": "glm-5.3"
+}

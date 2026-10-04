@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "E ne e romela ⟨את⟩ mathapo a yone go fitlha kwa lewatle, le ⟨את⟩ maselana a yone go ya kwa noka.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "e ne e romela"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "mathapo a yone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kwa lewatle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go ya"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "kwa noka"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "maselana a yone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:04.489930146Z",
+  "model": "glm-5.3"
+}

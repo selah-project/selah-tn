@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "O se ka wa loma ka khokahano go kgaitsadio — khokahano ya selefera, khokahano ya dijo, khokahano ya sengwe le sengwe se se ka khokahanwang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "wa loma ka khokahano"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "go kgaitsadio"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "khokahano"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya selefera"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "khokahano"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ya dijo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "khokahano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya sengwe le sengwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "se ka khokahanwang"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:30.967776849Z",
+  "model": "glm-5.3"
+}

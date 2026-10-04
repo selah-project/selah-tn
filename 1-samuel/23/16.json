@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme Yehonathane morwa wa Shaole a tlhaga, mme ya ya go ya kwa go Dawide kwa sekgweng, mme a nonotsha ⟨את⟩ seatla sa gagwe ka Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Mme a tlhaga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Shaole"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mme ya ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "kwa sekgweng"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "mme a nonotsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T23:04:36.111805669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Fa letsatsi le tlhagetse mo go ena, madi a duelwa mo go ena; o tla duela ka botlalo; fa a se na sepe, o tla rekisiwa ka bobodu jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "le tlhagetse"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ena"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ena"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "o tla duela"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "a se na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "o tla rekisiwa"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "ka bobodu jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:38.846227120Z",
+  "model": "glm-5.3"
+}

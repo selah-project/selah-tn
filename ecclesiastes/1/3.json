@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Pholo efe e motho a e bonang ka tiro ya gagwe yotho ye a e dirang kafa tlase ga letsatsi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "efe"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "Pholo"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... yotho"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "tiro ya gagwe"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ye a e dirang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kafa tlase ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:04.688893935Z",
+  "model": "glm-5.3"
+}

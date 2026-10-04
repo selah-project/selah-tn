@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Gore ba ne ba tlhoya ⟨את⟩ ruakh ya gagwe, mme a bua ka se se sa siamang ka molomo wa gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ba ne ba tlhoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya gagwe"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ya gagwe"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "mme a bua ka se se sa siamang"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ka molomo wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:54.748429814Z",
+  "model": "glm-5.3"
+}

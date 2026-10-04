@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ba nonofile ba lefatshe ba tla ja le go ikhunyega fa pele ga gagwe; ba tsamayang ba ya go lerole ba tla nonotsha mangole fa pele ga gagwe, mme mo mangolong a gagwe a sa tlhokomeleng, o se ka wa matlafatsa botshelo.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "ba tla ja"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "le go ikhunyega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba nonofile ba lefatshe ba yo o seng"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "ba nonofile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fa pele ga gagwe"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ba tla nonotsha mangole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba yo o seng"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ba tsamayang ba ya"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "go lerole"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "mme mo mangolong a gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "matlafatsa botshelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:09.445276156Z",
+  "model": "glm-5.3"
+}

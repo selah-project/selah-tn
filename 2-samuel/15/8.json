@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Gonne motlhanka wa gago o sefofetse sefofu a nna kwa Geshure, mo Arame, a re: Fa Yahwe a ntsholola ebile a nbusa kwa Yerushalayime, ke tla direla ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "sefofu"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "o sefofetse"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "motlhanka wa gago"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "kwa Geshure"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "mo Arame"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "a ntsholola ebile"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "a nbusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "ke tla direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:13:47.398207569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Lo se ke la dira ⟨את⟩ le nna medimo ya selefera le medimo ya gauta; lo se ke la di direla lona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Lo se ke la"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "dira"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo ya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "le medimo ya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ke la"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:57.930648574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "E tsamaya kwa borwa, mme e dikologa kwa bokone; e dikologa, e dikologa fa e tsamaya — ruakh; mme go dikologa ga yona ruakh e a boela.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "e tsamaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "mme e dikologa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "bokone"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "e dikologa"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "e dikologa"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "fa e tsamaya"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme go"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "dikologo tsa yona"
+    },
+    {
+      "surface": "שב",
+      "gloss": "e boela"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:28.266622022Z",
+  "model": "glm-5.3"
+}

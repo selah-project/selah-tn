@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Ba ya ba direla medimo e mengwe, ba e khunama, medimo e ba neng ba e sa e itse, le e ba neng ba sa e abelwa;",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba direla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e mengwe"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ba khunama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e (khunamela)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "e itse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ba sa"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "e abelwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "(go bona)"
+    }
+  ],
+  "timestamp": "2026-10-03T22:32:08.944407305Z",
+  "model": "glm-5.3"
+}

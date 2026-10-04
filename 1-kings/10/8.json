@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mahlogologolo a banna ba gago, mahlogologolo a badiredi ba gwe bale, b ba emeng pele ga wena ka bososi, ba reedunang ⟨את⟩ sephotho sa gago.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahlogologolo"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "a banna ba gago"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Mahlogologolo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "a badiredi ba gago"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bale"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ba emeng"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga wena"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka bososi"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ba reedunang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sephotho sa gago"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "sephotho sa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:23:38.057560520Z",
+  "model": "glm-5.3"
+}

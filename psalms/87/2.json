@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 87,
+  "translation": "Yahwe o rata dikgoro tsa Tsione, go feta Mishkane tsotlhe tsa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "o rata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "dikgoro tsa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Mishkane tsotlhe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:14.062219632Z",
+  "model": "glm-5.3"
+}

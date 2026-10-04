@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Gore matlho a lona a bone a bone ⟨את⟩ tiro yotlhe e kgolo ya Yahwe, ye a e diritseng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "matlho a lona"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "a bone a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiro yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a e diritseng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:24.200069541Z",
+  "model": "glm-5.3"
+}

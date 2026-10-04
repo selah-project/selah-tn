@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme a dira ⟨את⟩ aletare ya go fisega, ka sekgwa sa shitime: di-ama tse tlhano bolelele jwa yone, le di-ama tse tlhano bophara jwa yone — e ne e le khutlonne — le di-ama tse tharo bogoding jwa yone.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aletare ya go fisega"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya go fisega"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ka sekgwa sa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitime"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse tlhano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "di-ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bolelele jwa yone"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "le tse tlhano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "di-ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara jwa yone"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "khutlonne"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "le tse tharo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "di-ama"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bogodimo jwa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:48.572718015Z",
+  "model": "glm-5.3"
+}

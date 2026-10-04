@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Jaanong tsamaya o tloga ka moso, wena le badiri ba mong wa gago ba ba tlang ⟨את⟩ le wena, mme fa lo santse lo tlogile ka moso mme phirimile, lo tsamaye.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "tsamaya o tloga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "le badiri"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ba mong wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "lo tlogile"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "mme phirimile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "lo tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-03T23:05:58.174542973Z",
+  "model": "glm-5.3"
+}

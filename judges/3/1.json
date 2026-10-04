@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme e ne e le ditshaba tseno tse Yahwe a neng a di tlogela, go di dirisa go leka ka tsone ⟨את⟩ Yisraele — botlhe ba ba neng ba sa itse ⟨את⟩ dikgotlhang tsotlhe tsa Kanaane.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme e ne e le"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba tseno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "a neng a di tlogela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "go di dirisa go leka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgotlhang tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "dikgotlhang"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "tsa Kanaane"
+    }
+  ],
+  "timestamp": "2026-10-03T22:45:15.744764532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 84,
+  "translation": "Boitumelo jwa motho yo o nang le nonofo mo go wena; ditsela tsa pelelo di mo pelong ya bona.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "jwa motho"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "nonofo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ditsela tsa pelelo"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "mo pelong ya bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:45.730845212Z",
+  "model": "glm-5.3"
+}

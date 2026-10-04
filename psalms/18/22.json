@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Gonne ke ne ke sireletsa ditsela tsa Yahwe, mme ga ke a dira boshula kgahlanong le Elohim ya me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ke ne ke sireletsa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ke a dira boshula"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "kgahlanong le Elohim ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:10.367129838Z",
+  "model": "glm-5.3"
+}

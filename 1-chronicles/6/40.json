@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ba ne ba mo neela ⟨את⟩ Kheberone, mo lefatsheng la Yudha, le ⟨את⟩ mafelo a mosha onale a yone a dikarolo tse di mabapi.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ba ne ba neela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kheberone"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Kheberone"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "la Yudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a mosha onale a yone"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mafelo a mosha onale a yone"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "dikarolo tse di mabapi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:33.400903200Z",
+  "model": "glm-5.3"
+}

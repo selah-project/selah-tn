@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Noahe a dira jalo; jaaka Elohim a neng a mo laetse ⟨את⟩ sengwe le sengwe, jalo ka tsela eo o ne a se dira.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme ... a dira"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jaaka sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a neng a mo laetse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "o (Noahe)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo ka tsela eo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ne a se dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:31.316896924Z",
+  "model": "glm-5.3"
+}

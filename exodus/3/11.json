@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Moshe a bua le Elohim: Ke mang nna, gore ke ye kwa go Farao, mme gore ke ntshe ⟨את⟩ bana ba Yisraele go tswa mo Mitsrayime?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a bua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mme gore"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ke ntshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go tswa mo Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:21.269334878Z",
+  "model": "glm-5.3"
+}

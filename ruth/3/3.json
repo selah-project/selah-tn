@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ka jaka o tlhapa, o lota mafura, o apara diaparo tsa gago, o ya kwa sefofaneng; motho a go tseye se o ntse o sa itsege go fitlha a fetsa go ja le go nwa.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "o tlhapa"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "o lota mafura"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "o apara"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "diaparo tsa gago"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go o"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "o ya kwa tlase"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "kwa sefofaneng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "go tseye se o ntse o sa itsege"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "a fetsa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "le go nwa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:09:19.664700964Z",
+  "model": "glm-5.3"
+}

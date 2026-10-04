@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Eliya a re go setshaba sotlhe: Tlang kwa go nna. Mme setshaba sotlhe se ne se mo atamela, mme o ne a baakanya ⟨את⟩ altare ya Yahwe e e neng e runtse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go setshaba sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "se ne se mo atamela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "a baakanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare ya Yahwe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "e e neng e runtse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:51.998711090Z",
+  "model": "glm-5.3"
+}

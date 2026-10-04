@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Se mo teng ga bone ke gore malapa a bone a tsamaya go ya bosakhutlho, Mishkane ya bone go maloko le maloko; ba biditse maina a bone mo merafeng.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "se mo teng ga bone"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "malapa a bone"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya bosakhutlho"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "Mishkane ya bone"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "go maloko"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le maloko"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ba biditse"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "maina a bone"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "merafeng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:09.676421206Z",
+  "model": "glm-5.3"
+}

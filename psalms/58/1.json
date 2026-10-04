@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Go moeteledipele wa korwa. Se o senye. Pina ya Dawide. Miktame.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteledipele wa korwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "o senye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:20.739599843Z",
+  "model": "glm-5.3"
+}

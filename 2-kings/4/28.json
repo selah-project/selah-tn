@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme a re: Ke ne ke kopa ngwana kwa go ⟨את⟩ mong wa me? A ga ke a re: O se ka wa ntlhoka ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "ke ne ke kopa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa go ⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa me"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "wa ntlhoka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    }
+  ],
+  "timestamp": "2026-10-03T23:34:00.722396955Z",
+  "model": "glm-5.3"
+}

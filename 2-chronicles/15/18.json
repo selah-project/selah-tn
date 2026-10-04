@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme a isa ⟨את⟩ dilo tsa boitshepo tsa rraagwe le tsa gagwe tsa boitshepo mo ntlong ya Elohim — selefera le gauta le didiriswa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mme a isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tsa boitshepo tsa rraagwe"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "dilo tsa boitshepo tsa rraagwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "le tsa gagwe tsa boitshepo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "le didiriswa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:50:45.004391484Z",
+  "model": "glm-5.3"
+}

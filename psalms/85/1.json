@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "Motsamaisi, wa bana ba Korakhe, moko wa khwiri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Motsamaisi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko wa khwiri"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:56.233023247Z",
+  "model": "glm-5.3"
+}

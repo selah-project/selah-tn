@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Jaaka tonki e e tsamayang kwa phaping, ruakh ya Yahwe e ne ya mo phomotsa; jalo o ne wa kaela setshaba sa gago, go dira gore o nne le leina la boitumelo.",
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "jaaka tonki"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "kwa phaping"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "e e tsamayang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "e ne ya mo phomotsa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "o ne wa kaela"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go o nne le"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "la boitumelo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:03:39.667099493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme e tla nna foo, fa ba sa ka ba go dumela, mme ba sa reetse modumo wa seka sa ntlha, ba tla dumela modumo wa seka sa bofelo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme e tla nna foo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa ka"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "ba dumela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "reetse"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "modumo wa"
+    },
+    {
+      "surface": "האת",
+      "gloss": "seka"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "sa ntlha"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "ba tla dumela"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "modumo wa"
+    },
+    {
+      "surface": "האת",
+      "gloss": "seka"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "sa bofelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:47.475631107Z",
+  "model": "glm-5.3"
+}

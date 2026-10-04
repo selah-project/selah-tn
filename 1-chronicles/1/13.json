@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Kenane a belega ⟨את⟩ Tsiodone, wa ntlha wa botsalo jwa gagwe, le ⟨את⟩ Khehte.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Mme Kenane"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiodone"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsiodone"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "wa ntlha wa botsalo jwa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khehte"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khehte"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:59.177267047Z",
+  "model": "glm-5.3"
+}

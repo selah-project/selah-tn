@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Mme Yosefe a ba ntsha go tswa mo magetlhong a gagwe, mme a ikhukuntsha ka sefatsha sa gagwe mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "a ba ntsha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bana (ba)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "mo magetlhong a gagwe"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a ikhukuntsha"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "ka sefatsha sa gagwe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:27.115298725Z",
+  "model": "glm-5.3"
+}

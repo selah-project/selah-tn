@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 120,
+  "translation": "I ⟨am for⟩ peace; but when I speak, they ⟨are for⟩ war.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "but when"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "I speak"
+    },
+    {
+      "surface": "המה",
+      "gloss": "they"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for war"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:32.849456424Z",
+  "model": "glm-5.3"
+}

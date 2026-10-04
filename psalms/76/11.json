@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 76,
+  "translation": "Gore bogale jwa motho bo tla go tlotla; masalela a bogale o a di apesa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "jwa motho"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "bo tla go tlotla"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "masalela a"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "o a di apesa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:40.402016935Z",
+  "model": "glm-5.3"
+}

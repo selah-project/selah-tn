@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Lekang ⟨את⟩ kgwedi ya Abibe, o dire Paseka go Yahwe Elohim ya gago; gonne ka kgwedi ya Abibe Yahwe Elohim ya gago o ne a go ntsha mo Mitsrayime bosigo.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Lekang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgwedi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ya Abibe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ka kgwedi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ya Abibe"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "a go ntsha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mo Mitsrayime"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:26:29.812535169Z",
+  "model": "glm-5.3"
+}

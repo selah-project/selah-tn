@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme ba baabelwa ba Yisraele ba tsena go reka mmogo le ba ba neng ba tsena, gonne tlala e ne e le mo lefatsheng la Kenaane.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba baabelwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "go reka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ba ba neng ba tsena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenaane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:52.007791565Z",
+  "model": "glm-5.3"
+}

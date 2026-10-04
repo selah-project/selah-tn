@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Ke tlaa neela go lona mohau, mme a lo rheleha ⟨את⟩, mme a lo busetse ⟨את⟩ kwa lefatsheng la lona.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ke tlaa neela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "a lo rheleha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "mme a lo busetse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "lefatsheng la lona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:26:30.384508754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Selefera ke ya me, mme gauta ke ya me, go bua Yahwe Tsebaote.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ke ya me"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "mme ke ya me"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    }
+  ],
+  "timestamp": "2026-10-04T01:06:15.046351325Z",
+  "model": "glm-5.3"
+}

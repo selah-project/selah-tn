@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme a tsamaya ka tsela e nngwe, mme ga a boa ka tsela e a neng a tsene ka yona ya go ya kwa Beit Ele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mme a tsamaya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a boa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a neng a tsena"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:07.217349368Z",
+  "model": "glm-5.3"
+}

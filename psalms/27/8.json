@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Go wena pelo ya me e ile ya re: Batlang sefala! Sefala sa gago, Yahwe, ke tla se batla.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "e ile ya re"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Batlang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefala (la me)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefala sa gago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefala sa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ke tla se batla"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:09.891467715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Setshaba se se neng se tsamaya mo lefifing se bone ⟨את⟩ lesedi le legolo; ba ba neng ba dutse mo lefatsheng la sebatla sa loso, lesedi le phatsimile mo go bone.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "se se neng se tsamaya"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mo lefifing"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "se bone"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lesedi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba ba neng ba dutse"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "la sebatla sa loso"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lesedi"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "le phatsimile"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:46.731042440Z",
+  "model": "glm-5.3"
+}

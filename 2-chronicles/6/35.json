@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "mme o utlwe kwa magodimong ⟨את⟩ thapelo ya bona le ⟨את⟩ kopo ya bona, mme o dire katlholo ya bona.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "mme o utlwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thapelo ya bona"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "thapelo ya bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kopo ya bona"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "kopo ya bona"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "katlholo ya bona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:52.772214232Z",
+  "model": "glm-5.3"
+}

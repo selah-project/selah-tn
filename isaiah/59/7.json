@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Dinao tsa bone di tabogela bosula, mme di thoga go thula madi a se nang molato; megopolo ya bone ke megopolo ya boaka, phuduso le senyelo di mo ditseleng tsa bone.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "dinao tsa bone"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "di tabogela"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "mme di thoga"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "go thula"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a se nang molato"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "megopolo ya bone"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "megopolo"
+    },
+    {
+      "surface": "און",
+      "gloss": "ya boaka"
+    },
+    {
+      "surface": "שד",
+      "gloss": "phuduso"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "le senyelo"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "di mo ditseleng tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:05:00.873581330Z",
+  "model": "glm-5.3"
+}

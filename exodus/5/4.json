@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme kgosi ya Mitsrayime e ba re: Ke ka ntlha yang, Moshe le Aharone, le laolang ⟨את⟩ batho go tswa mo mešomong ya bone? Eyang go dilwana tsa lona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme e re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka ntlha yang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "le laolang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "go tswa mo mešomong ya bone"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eyang"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "go dilwana tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:46.408597534Z",
+  "model": "glm-5.3"
+}

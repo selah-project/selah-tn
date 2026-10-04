@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Sengwe le sengwe se se nang leseni ga lo a tshwanela go se tlisa, gonne se ke se se ka se amogelwa ka lona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "se nang"
+    },
+    {
+      "surface": "מום",
+      "gloss": "leseni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "lo a tshwanela go se tlisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "se ka se amogelwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ke se se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:43.236697216Z",
+  "model": "glm-5.3"
+}

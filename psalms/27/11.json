@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Nthuta, Yahwe, tsela ya gago, mme o ntlhagise mo tseleng e e thamalegileng, ka ntlha ya ba ba mo tlhoyang.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "nthuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya gago"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "mme o ntlhagise"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "e e thamalegileng"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ba ba mo tlhoyang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:15.680609202Z",
+  "model": "glm-5.3"
+}

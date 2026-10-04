@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Shaeule a re mmotedi wa gagwe: Lefoko la gago le siame; a re tsamayeng, re ye. Ba ya kwa toropong e mo go yona motho wa Elohim a neng a le teng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaeule"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "mmotedi wa gagwe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le siame"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lefoko la gago"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "a re tsamayeng"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "re ye"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e mo go yona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a neng a le teng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:45.549505591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "Pelo ya me e tlhomile, Elohim; ke tla opela, ee, ke tla dira mmino, le kgalalelo ya me.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "e tlhomile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla opela"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "mme ke tla dira mmino"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee, le"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kgalalelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:52.085131437Z",
+  "model": "glm-5.3"
+}

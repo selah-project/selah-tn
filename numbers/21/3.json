@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Yahwe a utlwa lentswe la Yisraele, a neela ⟨את⟩ Mokanana; mme Yisraele a ba hlaola ka go senya, ⟨את⟩ bona le ⟨את⟩ difuze fela; mme ba bitsha leina la lefelo foo Khorama.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokanana"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanana"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "a hlaola ka go senya"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "Mokanana le batho ba gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "difuze"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "difuze fela"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mme ba bitsha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "la lefelo foo"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Khorama"
+    }
+  ],
+  "timestamp": "2026-10-03T22:12:37.925857637Z",
+  "model": "glm-5.3"
+}

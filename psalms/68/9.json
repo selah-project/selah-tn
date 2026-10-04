@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Lefatshe le ne le thothoka, mme magodimo a ne aanela kwa pele ga Elohim; se ke Sinaye, kwa pele ga Elohim, Elohim wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "le ne le thothoka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mme"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "a ne aanela"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:00.637467018Z",
+  "model": "glm-5.3"
+}

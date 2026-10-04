@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme a baya go ema ⟨את⟩ ba ba bonwang botlhe ba kwa Yerushalayime le Benyamine; mme baagi ba Yerushalayime ba dira go ya ka kgolagano ya Elohim, Elohim wa bo-rra bona.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a baya go ema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba bonwang botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ba ba bonwang"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ba kwa Yerushalayime"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "le Benyamine"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baagi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayime"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "go ya ka kgolagano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "wa bo-rra bona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:05.881902733Z",
+  "model": "glm-5.3"
+}

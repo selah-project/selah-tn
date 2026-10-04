@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Lo nyeditse maano a motho o o tlhokang, mme Yahwe ke sekalabelo sa gagwe.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "maano"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a motho o o tlhokang"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "lo nyeditse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "ke sekalabelo sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:12.131648558Z",
+  "model": "glm-5.3"
+}

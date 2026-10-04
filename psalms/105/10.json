@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "mme a e tlhomamisa jaaka molao go Yaakobo, jaaka kgolagano ya lerilele go Yisraele",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "mme a e tlhomamisa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "go Yaakobo"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "jaaka molao"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya lerilele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:00.522135757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme kwa Yerushalayime go ne go nnele ba morwa wa Yehudha, le ba morwa wa Benyamine, le ba morwa wa Efrawime le Manashe.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "mme kwa Yerushalayime"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "go ne go nnele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamine"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrawime"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "le Manashe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:39:06.887551886Z",
+  "model": "glm-5.3"
+}

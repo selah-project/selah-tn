@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Bonwe, o kwadilwe mo mangwaneng a diatla tsa me; dikgoro tsa gago di ntse fa pele ga me ka bosakhutshwane.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mangwaneng a diatla tsa me"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "o kwadilwe"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "dikgoro tsa gago"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "fa pele ga me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka bosakhutshwane"
+    }
+  ],
+  "timestamp": "2026-10-03T23:59:58.509661010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme ⟨את⟩ ntlo ya kgosi le ⟨את⟩ ntlo ya setshaba Bakashdi ba ne ba e fisetsa ka molelo; mme ⟨את⟩ mabota a Yerushalayime ba a thuba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "ntlo ya kgosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya setshaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ba ne ba e fisetsa"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Bakashdi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mabota a Yerushalayime"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "mabota a"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ba a thuba"
+    }
+  ],
+  "timestamp": "2026-10-04T00:24:12.157530149Z",
+  "model": "glm-5.3"
+}

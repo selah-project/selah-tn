@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Ke tla go leboga, gore o ntshireletse ka tsela e e makatsang; ditiro tsa gago ke diphoso-morago tsa makatsa, mme moyo o wa me o a di itse botoka.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ke tla go leboga"
+    },
+    {
+      "surface": "על",
+      "gloss": "gore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ka tsela e e makatsang"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "o ntshireletse"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "diphoso-morago tsa makatsa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ditiro tsa gago"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "mme moyo o wa me"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o a di itse"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "botoka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:57.171043017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Fika le sethopha sa veine ga di di fepa, mme veine e mntšhwa e tla fedela mo go yone.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "fika"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "le sethopha sa veine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "di di fepa"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "mme veine e mntšhwa"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "e tla fedela"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go yone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:49.446176731Z",
+  "model": "glm-5.3"
+}

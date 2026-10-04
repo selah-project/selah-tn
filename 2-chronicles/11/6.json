@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "A aga ⟨את⟩ Beite-Lekeme, le ⟨את⟩ Eytame, le ⟨את⟩ Tekoae;",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beite-Lekeme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beite-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekeme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Eytame"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Eytame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tekoae"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoae"
+    }
+  ],
+  "timestamp": "2026-10-04T02:48:39.875433775Z",
+  "model": "glm-5.3"
+}

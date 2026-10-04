@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 149,
+  "translation": "Ba dumele leina la gagwe ka go bina; ka sekgumatha le sekinore ba opelе mo go ene.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ba dumele"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ka go bina"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ka sekgumatha"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "le sekinore"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ba opelе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:35.469951721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "mme Akhisare motheledi wa ⟨the⟩ ntlo, le Adonirame morwa Abda, motheledi wa makgetho.",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "mme Akhisare"
+    },
+    {
+      "surface": "על",
+      "gloss": "motheledi wa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "le Adonirame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "Abda"
+    },
+    {
+      "surface": "על",
+      "gloss": "motheledi wa"
+    },
+    {
+      "surface": "המס",
+      "gloss": "makgetho"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:52.459046766Z",
+  "model": "glm-5.3"
+}

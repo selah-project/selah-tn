@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme Dawide a bua kwa Shaule: Ke eng o utlwa ⟨את⟩ mafoko a batho a re: Bonwe, Dawide o batla bosula jwa gago?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwa Shaule"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a batho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "o batla"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "bosula jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:05:16.989935518Z",
+  "model": "glm-5.3"
+}

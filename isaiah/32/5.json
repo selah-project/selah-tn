@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Sefoolo ga sa tlaa bidiwa gape ⟨the⟩ yo o pelonomi, mme yo o pelotlhwafading ga sa tlaa rewa gore ke morui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "go bidiwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "sefoolo"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "yo o pelonomi"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "mme yo o pelotlhwafading"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "go rewa"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "morui"
+    }
+  ],
+  "timestamp": "2026-10-03T23:54:02.585734446Z",
+  "model": "glm-5.3"
+}

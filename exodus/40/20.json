@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme a tsaya, a baya ⟨את⟩ bopaki mo arekeng, a baya ⟨את⟩ ditlhapana mo arekeng, mme a bea ⟨את⟩ Khaphorete mo arekeng kwa godimo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bopaki"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arekeng"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhapana"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ditlhapana"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arekeng"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khaphorete"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Khaphorete"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arekeng"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kwa godimo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:30.568648898Z",
+  "model": "glm-5.3"
+}

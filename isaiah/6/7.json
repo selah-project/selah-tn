@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme a se ama sefeko sa me, a re: Bonwe, se se ama manope a gago, mme bolekane bjo bo tlogetse, bokolodi jwa gago bo ka kwadisiwa.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "mme a se ama"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sefeko sa me"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "se se ama"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "manope a gago"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "mme bo tlogetse"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "bolekane bjo"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "bokolodi jwa gago"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "bo ka kwadisiwa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:12.552740115Z",
+  "model": "glm-5.3"
+}

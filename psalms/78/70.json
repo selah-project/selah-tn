@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme a tlhopha Dawide, modiri wa gagwe, mme a mo tsega kwa dikgorong tsa dinku.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "a tlhopha"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "modiri wa gagwe"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "a mo tsega"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "kwa dikgorong tsa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:10.978212405Z",
+  "model": "glm-5.3"
+}

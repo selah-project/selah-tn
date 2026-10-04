@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ Arevede, le ⟨את⟩ Tsemare, le ⟨את⟩ Khemate.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Arevede"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arevede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsemare"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khemate"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Khemate"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:59.177919209Z",
+  "model": "glm-5.3"
+}

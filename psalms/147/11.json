@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Yahwe o rataga le ⟨את⟩ ba ba mo eletsalang, ⟨את⟩ le ba ba tshepelang hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "o rataga le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba mo eletsalang"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ba ba mo eletsalang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba tshepelang hesede ya gagwe"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "le ba ba tshepelang"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:47.308750151Z",
+  "model": "glm-5.3"
+}

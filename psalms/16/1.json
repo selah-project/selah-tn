@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mikhthame ya Dawide. Ntshireletse, El, gonne ke tshegitse go wena.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhthame"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Ntshireletse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke tshegitse"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:13.636708735Z",
+  "model": "glm-5.3"
+}

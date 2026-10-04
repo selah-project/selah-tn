@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 16:6",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme ba bagolo le bannye ba tla swa mo lefatsheng le; ga ba ka go bolokwa, ga go na go lla mo go bone, ga go na go ipolaka le go ikarola mo go bone.",
+  "tokens": [
+    {
+      "surface": "ומתו",
+      "gloss": "ba tla swa"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ba bagolo"
+    },
+    {
+      "surface": "וקטנים",
+      "gloss": "le bannye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יקברו",
+      "gloss": "ba ka bolokwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ga"
+    },
+    {
+      "surface": "יספדו",
+      "gloss": "go lla"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ga"
+    },
+    {
+      "surface": "יתגדד",
+      "gloss": "go ipolaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ga"
+    },
+    {
+      "surface": "יקרח",
+      "gloss": "go ikarola"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:13:14.845206188Z",
+  "model": "glm-5.3"
+}

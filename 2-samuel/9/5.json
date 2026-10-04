@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme kgosi Dawide a romela, mme a mo tseela kwa ntlong ya Makire, morwa Ammiyele, kwa Lodebare.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "a mo tseela"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kwa ntlong ya"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makire"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiyele"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "kwa Lodebare"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lodebare"
+    }
+  ],
+  "timestamp": "2026-10-03T23:10:39.328720482Z",
+  "model": "glm-5.3"
+}

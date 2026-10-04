@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Motho o tshwana le sephiri; malatsi a gagwe a tshwana le sekhurumo se se fang.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Motho"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "le sephiri"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "o tshwana"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "malatsi a gagwe"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "a tshwana le sekhurumo"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "se se fang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:13.224082078Z",
+  "model": "glm-5.3"
+}

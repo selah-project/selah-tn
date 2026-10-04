@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ke fihla kwa Yerushalayime, mme ke nna foo matsatsi a le mararo.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ke fihla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "a le mararo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:55.705005272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Megopo ya rona e emetse Yahwe; yoo ena muthuwa wa rona le sekgwatla sa rona.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "megopo ya rona"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "e emetse"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "muthuwa wa rona"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "le sekgwatla sa rona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yoo ena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:22.207029139Z",
+  "model": "glm-5.3"
+}

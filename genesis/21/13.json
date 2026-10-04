@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ⟨את⟩ morwa wa molatedi wa mošomong le ena ke tla mo dira setšhaba, gonne ke peo ya gago.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa molatedi wa mošomong"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ke tla mo dira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ena"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:43.484296136Z",
+  "model": "glm-5.3"
+}

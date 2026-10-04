@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Akhimaatse mo Naftalire; gape ene o ne a tsaya ⟨את⟩ Bashmate, morwadia Solomone, go nna mosadi.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Akhimaatse"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "mo Naftalire"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o ne a tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bashmate"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashmate"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "go nna mosadi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:10:12.682691811Z",
+  "model": "glm-5.3"
+}

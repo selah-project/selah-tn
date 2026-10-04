@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 141,
+  "translation": "O beele, Yahwe, tsela ya go tshwara molomo wa me; o tlhokomele lebati la molomo wa me.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "O beele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "tsela ya go tshwara"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "o tlhokomele"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "דל",
+      "gloss": "lebati"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:55.382334378Z",
+  "model": "glm-5.3"
+}

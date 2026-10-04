@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "O e nosetse ka bontsi mo meleng ya yone, wa bofa mebileng ya yone; o e bobotsa ka dipula tse dinnye, wa tshegofatsa mmela wa yone.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "mo meleng ya yone"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "o e nosetse ka bontsi"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "wa bofa"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "mebileng ya yone"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "ka dipula tse dinnye"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "o e bobotsa"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "mmela wa yone"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "wa tshegofatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:07.792459763Z",
+  "model": "glm-5.3"
+}

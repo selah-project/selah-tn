@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Bobe jwa gago bo ama motho yo o tshwanang le wena; mme tsedeke ya gago e thusa morwa wa motho.",
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "yo o tshwanang le wena"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "Bobe jwa gago"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "mme ... morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeke ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T02:04:02.887363207Z",
+  "model": "glm-5.3"
+}

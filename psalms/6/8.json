@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Seso sa me se a folofera ka ntlha ya tlhotlhomora; se a godimeka ka ntlha ya baba ba me ba botlhe.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "se a folofera"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "ka ntlha ya tlhotlhomora"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "seso sa me"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "se a godimeka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ba botlhe"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "baba ba me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:26.023165664Z",
+  "model": "glm-5.3"
+}

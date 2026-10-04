@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Mme setshaba sa me ga sa reetse lentswe la me, mme Yisraele ga ka ntshwara le nna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ... ga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "reetse"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "lentswe la me"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "mme Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ka ntshwara le"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:32.722424655Z",
+  "model": "glm-5.3"
+}

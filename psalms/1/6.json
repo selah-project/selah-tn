@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Gore Yahwe o itse tsela ya ba ba siameng, mme tsela ya ba ba bosula e tla senyega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ya ba ba siameng"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mme tsela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya ba ba bosula"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "e tla senyega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:43.176514519Z",
+  "model": "glm-5.3"
+}

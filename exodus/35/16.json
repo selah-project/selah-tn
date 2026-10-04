@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "⟨את⟩ altare ya polao ya go fisega le ⟨את⟩ sebala sa tshipi se se mo go yone, ⟨את⟩ misele ya yone le ⟨את⟩ didiriswa tsa yone tsotlhe; ⟨את⟩ beseni le ⟨את⟩ motheo wa yone.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare ya polao ya go fisega"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya polao ya go fisega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sebala sa tshipi"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "sebala"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "sa tshipi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misele ya yone"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "misele ya yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa yone tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tsa yone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beseni"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "beseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "motheo wa yone"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "motheo wa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:50.679148152Z",
+  "model": "glm-5.3"
+}

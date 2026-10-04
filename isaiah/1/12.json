@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Fa lo tsena go tla go mpona sefatheo sa me, ke mang yo o laletseng se se tswang mo diatleng tsa lona, go dikakatsa dijwale tsa me?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "lo tsena"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go tla go mpona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatheo sa me"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "yo o laletseng"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "se se tswang mo diatleng tsa lona"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "go dikakatsa"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "dijwale tsa me"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:23.682201219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Matla a me a omile jaaka sekapu sa kgetsana, mme leleme la me le nametse metseke ya me; o ntsehiditse mo leroleng la loso.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "a omile"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "jaaka sekapu sa kgetsana"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "matla a me"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "mme leleme la me"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "le nametse"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "metseke ya me"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "mo leroleng"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la loso"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "o ntsehiditse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:59.116823195Z",
+  "model": "glm-5.3"
+}

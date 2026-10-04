@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Gore yo o batlang madi o gakologotse ⟨את⟩ bone; ga a a tlhala sehu sa ba humanegileng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yo o batlang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "o gakologotse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a a"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "tlhala"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "sehu"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ba humanegileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:10.718517910Z",
+  "model": "glm-5.3"
+}

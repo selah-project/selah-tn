@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme jaanong, morwa wa me, utlwa lentswe la me, go se se ke se laelang ⟨את⟩ wena.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jaanong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa wa me"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utlwa"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "lentswe la me"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "go se se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "se laelang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:46.594607729Z",
+  "model": "glm-5.3"
+}

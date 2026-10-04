@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Le yo o boitshepo o bontsha boitshepo; mme le yo o khubamang o bontsha go khubama.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "yo o boitshepo"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "o bontsha boitshepo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "yo o khubamang"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "o bontsha go khubama"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:44.593247235Z",
+  "model": "glm-5.3"
+}

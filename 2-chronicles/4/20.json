@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Le ⟨את⟩ dikandela le mebane ya tsone, go di fentsha go ya ka tlwaelo, kwa pele ga debire — gauta e e phepa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Le ⟨את⟩",
+      "marks": "dikandela"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "dikandela"
+    },
+    {
+      "surface": "וונרתיהם",
+      "gloss": "le mebane ya tsone"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "go di fentsha"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "go ya ka tlwaelo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debire"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "e e phepa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:09.108638162Z",
+  "model": "glm-5.3"
+}

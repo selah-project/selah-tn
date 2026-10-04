@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 141,
+  "translation": "Ba ba bosula a ba we mmogo mo mekgosing ya bona, mme nna ⟨a⟩ ka feta fitlha ke boa.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "a ba we"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "mo mekgosing ya bona"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fitlha"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ka feta"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:19.042623001Z",
+  "model": "glm-5.3"
+}

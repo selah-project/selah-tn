@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Adonai o rometse ⟨את⟩ lefoko mo Yaakobo, mme lone le tlile mo Yisraele.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o rometse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "mo Yaakobo"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "mme le tlile"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mo Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:10.150735258Z",
+  "model": "glm-5.3"
+}

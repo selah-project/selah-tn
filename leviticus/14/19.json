@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme mopriste a dira ⟨את⟩ seabe sa boleo, mme a itshwarela yo o batlhegang go tswa bosego jwa gagwe; mme morago ga moo a bolaile ⟨את⟩ seabe sa go fisiwa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seabe sa boleo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "seabe sa boleo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a itshwarela"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yo o batlhegang"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "go tswa bosego jwa gagwe"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme morago ga moo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "a bolaile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seabe sa go fisiwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "seabe sa go fisiwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:42.725027405Z",
+  "model": "glm-5.3"
+}

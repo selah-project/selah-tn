@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme go botoka go ba bobedi ⟨את⟩ yena yo o sa nnang a seyo gompieno, yo a sa bonang ⟨את⟩ tiro e e bosula e e dirwang fa tlase ga letsatsi.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "go botoka"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "go ba bobedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yena yo o sa nnang a seyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a seyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiro e e bosula"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "e e bosula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "dirwang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fa tlase ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:54.784132978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme ba romela ⟨את⟩ Riebeka kgaitsadiabone, le ⟨את⟩ mmaesi wa gagwe, le ⟨את⟩ letlhanka la Abrahame le ⟨את⟩ banna ba gagwe.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ba romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Riebeka kgaitsadiabone"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Riebeka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "kgaitsadiabone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mmaesi wa gagwe"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "mmaesi wa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "letlhanka la Abrahame"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "letlhanka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "la Abrahame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "banna ba gagwe"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "banna ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:30.513389074Z",
+  "model": "glm-5.3"
+}

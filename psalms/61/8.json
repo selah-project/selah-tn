@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 61,
+  "translation": "A a nne mo go Elohim go ya bosakhutleng; hesede le boammaaruri a a di rulaganye gore di mo sireletse.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "a a nne"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go ya bosakhutleng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "le boammaaruri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a a di rulaganye"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "gore di mo sireletse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:28.048991013Z",
+  "model": "glm-5.3"
+}

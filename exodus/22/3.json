@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Fa selodu se bonwa se le mo diateng tsa gagwe, se tshela — go tloga kgomong ya go thika go ya kgomong ya porota go ya kwanyneng — o tla duela gabedi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "se bonwa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo diateng tsa gagwe"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "selodu"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kgomo ya go thika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go tloga"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "kgomo ya porota"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "se tshela"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gabedi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla duela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:38.846369677Z",
+  "model": "glm-5.3"
+}

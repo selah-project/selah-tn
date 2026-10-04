@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 12:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Ditlha tse di supileng di tla jele machepa; fela mo letsatsing la ntlha lo tla phimosa sewa mo matlong a lona; gonne mongwe le mongwe o o jang se se tswetseng, semetse sa motho yoo le tla bo le phimotswitswe mo go Yisraele, go tloga letsatsing la ntlha go fitlha letsatsing la bosupa.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "tse di supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ditlha"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "machepa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "lo tla ja"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mo letsatsing"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "la ntlha"
+    },
+    {
+      "surface": "תשביתו",
+      "gloss": "lo tla phimosa"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "sewa"
+    },
+    {
+      "surface": "מבתיכם",
+      "gloss": "mo matlong a lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "o o jang"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "se se tswetseng"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "le tla bo le phimotswitswe"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "semetse"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sa motho yoo"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "mo go Yisraele"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "go tloga letsatsing"
+    },
+    {
+      "surface": "הראשן",
+      "gloss": "la ntlha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsing"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "la bosupa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:26.691641616Z",
+  "model": "glm-5.3"
+}

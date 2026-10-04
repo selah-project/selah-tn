@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Koo ba ba dirang bofero ba ne ba wa; ba tsamaisiwa fa fatshe, mme ba ne ba sa kgone go tlhama.",
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "Koo"
+    },
+    {
+      "surface": "נָפְלוּ",
+      "gloss": "ba ne ba wa"
+    },
+    {
+      "surface": "פֹּעֲלֵי",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "אָוֶן",
+      "gloss": "bofero"
+    },
+    {
+      "surface": "דֹּח֗וּ",
+      "gloss": "ba tsamaisiwa fa fatshe"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "mme ba ne ba sa kgone"
+    },
+    {
+      "surface": "יָכְלוּ",
+      "gloss": "ba sa kgone"
+    },
+    {
+      "surface": "קוּם",
+      "gloss": "go tlhama"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:46.710643915Z",
+  "model": "glm-5.3"
+}

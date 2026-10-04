@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme go ya kwa thakong ya bobedi ya Mishkane, kwa letlhakoreng la bokone, phabolo e tla nna masome a mabedi.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Mme go ya kwa thakong"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya Mishkane"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya bobedi"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kwa letlhakoreng la"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "bokone"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "phabolo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:20.202936343Z",
+  "model": "glm-5.3"
+}

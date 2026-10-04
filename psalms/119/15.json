@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Mo ditaolong tsa gago ke tla akanya, mme ke tla lebelela ditsela tsa gago.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "mo ditaolong tsa gago"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke tla akanya"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "mme ke tla lebelela"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ditsela tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:22.837117131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme fa a se na bana ba gagwe ba banna, le tla fa ⟨את⟩ boswa jwa gagwe bana ba rragwe ba banna.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "a se na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bana ba gagwe ba banna"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "le tla fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boswa jwa gagwe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "boswa jwa gagwe"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rragwe ba banna"
+    }
+  ],
+  "timestamp": "2026-10-03T22:15:57.612782509Z",
+  "model": "glm-5.3"
+}

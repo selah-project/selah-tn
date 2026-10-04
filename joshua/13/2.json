@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Se ke lefatshe le se setseng: dikgaolo tsotlhe tsa Ba-Falisete, le Ba-Geshure tsotlhe.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ke lefatshe"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "le se setseng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "dikgaolo"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "tsa Ba-Falisete"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … tsotlhe"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Ba-Geshure"
+    }
+  ],
+  "timestamp": "2026-10-03T22:39:39.600449518Z",
+  "model": "glm-5.3"
+}

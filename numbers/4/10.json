@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ba tla ⟨את⟩ e bea, le ⟨את⟩ didiriswa tsotlhe tsa yone, mo sekoferong sa letlalo la takhase, mme ba di bea mo thageng.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba tla bea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ e",
+      "marks": "e (menora le didiriswa tsa yone)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "didiriswa tsotlhe tsa yone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "didiriswa tsa yone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "sekoferong"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "la takhase"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ba di bea"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "thaga"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:50.666467726Z",
+  "model": "glm-5.3"
+}

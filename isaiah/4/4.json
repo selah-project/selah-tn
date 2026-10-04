@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Fa Adonai a ka tlhapatla ⟨את⟩ leswe la barwadibommaa ba Tsiyone, mme a tlhatswa ⟨את⟩ madi a Yerushalayime mo legareng la yone, ka ruakh ya katlholo le ka ruakh ya go fisa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "a ka tlhapatla"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leswe la barwadibommaa ba Tsiyone"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "leswe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barwadibommaa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ba Tsiyone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "madi a Yerushalayime"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayime"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "a tlhatswe"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "mo legareng la yone"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ya katlholo"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "le ka ruakh"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ya go fisa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:50.175530677Z",
+  "model": "glm-5.3"
+}

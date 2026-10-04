@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Fela mafelo a a kwa godimo ga a a tloswa; setshaba sa ntse sa abela le go foka mokena kwa mafelong a a kwa godimo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mafelo a a kwa godimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "a a tloswa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa ntse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "sa abela"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "le go foka mokena"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kwa mafelong a a kwa godimo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:38:01.903692241Z",
+  "model": "glm-5.3"
+}

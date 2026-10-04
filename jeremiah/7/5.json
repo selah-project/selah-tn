@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Gore fa lo ka siamisa thata ⟨את⟩ ditsela tsa lona le ⟨את⟩ ditiro tsa lona, fa lo ka dira katlholo gare ga monna le mogwawa wa gagwe,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "go siamisa thata"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "lo ka siamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditsela tsa lona"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ditsela tsa lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditiro tsa lona"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ditiro tsa lona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "go dira thata"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "lo ka dira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le gare ga"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mogwawa wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:09:33.564468605Z",
+  "model": "glm-5.3"
+}

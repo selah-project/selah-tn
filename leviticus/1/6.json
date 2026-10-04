@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme a epole ⟨את⟩ ofara ya molelo, a e kgaole dikarolo tsa yone.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "mme a epole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofara ya molelo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofara ya molelo"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "a e kgaole"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dikarolo tsa yone"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "dikarolo tsa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:26.326957782Z",
+  "model": "glm-5.3"
+}

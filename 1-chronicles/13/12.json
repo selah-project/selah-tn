@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Dawide a tshaba ⟨את⟩ Elohim ka letsatsi leo, a re: Ke tla isa jang kwa go nna ⟨את⟩ arona ya Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "a tshaba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "היך",
+      "gloss": "jang"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "Ke tla isa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arona ya Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arona"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T02:40:23.399658412Z",
+  "model": "glm-5.3"
+}

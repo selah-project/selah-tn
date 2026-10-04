@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Botlhale bo a siama le boswa; mme se se oketsegileng ke sa ba ba bonang letsatsi.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "bo a siama"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Botlhale"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "boswa"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "mme se se oketsegileng"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ke sa ba ba bonang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:23.765635547Z",
+  "model": "glm-5.3"
+}

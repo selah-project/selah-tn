@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Faro o ne a laela banna ka ga ene, mme ba mo romela ⟨את⟩ ene, le ⟨את⟩ mosadi wa gagwe, le ⟨את⟩ tsotlhe tse a nang le tsone.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka ga ene"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ba mo romela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "ene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mosadi wa gagwe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsotlhe tse a nang le tsone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a nang le tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:33.252839317Z",
+  "model": "glm-5.3"
+}

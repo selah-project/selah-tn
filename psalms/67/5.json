@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 67,
+  "translation": "Ditshaba di itumele, di opela ka botsogo, gonne o tla katlhola ⟨את⟩ ditshaba ka tlhamalalo, mme ditshaba mo lefatsheng o di kaela. Selaha.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "di itumele"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "di opela ka botsogo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "o tla katlhola"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ka tlhamalalo"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "mme ditshaba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "o di kaela"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:15.249095674Z",
+  "model": "glm-5.3"
+}

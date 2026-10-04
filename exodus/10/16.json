@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Faro a iketla go bitira Moshe le Aharone, mme a re: Ke ne ke direla boleo go ya go Yahwe, Elohim ya lona, le go ya go lona.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "a iketla"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "go bitira"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Ke ne ke direla boleo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go ya go Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "le go ya go lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:53.985718261Z",
+  "model": "glm-5.3"
+}

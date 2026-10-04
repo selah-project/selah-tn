@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Nne ka mohumo go nna, Elohim, gonne motho o ntsea; letsatsi lotlhe a lwa, a nkganela.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "nne ka mohumo go nna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "o ntsea"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "a lwa"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "a nkganela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:55.226530954Z",
+  "model": "glm-5.3"
+}

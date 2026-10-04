@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme fa setshaba sa lefatshe se tswalela ⟨את⟩ matlho a bone go tswa go motho yo, ka nako ya go neela ga ena sepe sa peo ya gagwe go Moleke, ba sa ⟨את⟩ mo bolae;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "go tswalela"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "ba tla bo ba tswaletse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlho a bone"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "matlho a bone"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa go"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "ka go neela ga ena"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "sepe sa peo ya gagwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go Moleke"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "המית",
+      "gloss": "mo bolae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:31.287748917Z",
+  "model": "glm-5.3"
+}

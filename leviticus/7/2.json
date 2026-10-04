@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Kwa lefelong le ba bolaelang ⟨את⟩ setlhabelo sa go gopolwa kwa go sona, ba tlaa bolaela ⟨את⟩ se ašame; mme ⟨את⟩ madi a yone o tlaa a phunyeka mo altareng, ka dikakaretso.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "kwa lefelong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ba bolaelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setlhabelo sa go gopolwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "setlhabelo sa go gopolwa"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ba tlaa bolaela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ašame"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ašame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "madi a yone"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a yone"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "o tlaa a phunyeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareng"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka dikakaretso"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:44.810560034Z",
+  "model": "glm-5.3"
+}

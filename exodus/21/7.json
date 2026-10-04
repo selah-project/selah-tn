@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme fa monna a ka rekhisa ⟨את⟩ morwadia wa gagwe go nna setlhankana, ga a tloge go tswa jaaka go tswa ga ditlhanka tsa banna.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "a ka rekhisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwadia wa gagwe"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "morwadia wa gagwe"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "go nna setlhankana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "a tloge go tswa"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "jaaka go tswa ga"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ditlhanka tsa banna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:23.227756538Z",
+  "model": "glm-5.3"
+}

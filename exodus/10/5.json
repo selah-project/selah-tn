@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme di tlaa khupetsa ⟨את⟩ sefathego sa lefatshe, mme motho a se ka wa kgona go bona ⟨את⟩ lefatshe; mme di tlaa ja ⟨את⟩ masalela a a falotseng, a a saleng mo go lona go tswa mo sehubeng, mme di tlaa ja ⟨את⟩ setlhare sotlhe se se mo go go tlhaga ga lona mo paepeng",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "mme di tlaa khupetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefathego sa lefatshe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sefathego"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kgona"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mme di tlaa ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masalela"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "masalela"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "a a falotseng"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "a a saleng mo go lona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "sehubeng"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mme di tlaa ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setlhare sotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "setlhare"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "se se tlhagang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "paepeng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:31.429156356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme batho botlhe ba kgomola ⟨את⟩ dikhomose tsa gauta tse di neng di mo dikgotleng tsa bone, mme ba di isa kwa go Aharone.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "ba kgomola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikhomose tsa gauta"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "dikhomose"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di neng di"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "mo dikgotleng tsa bone"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ba di isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:59.818388081Z",
+  "model": "glm-5.3"
+}

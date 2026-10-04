@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Morwa wa motho, basadi ba babedi, banabana ba mma a le mongwe, ba ne ba le teng.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "banabana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba mma"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ne ba le teng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:15:22.030499756Z",
+  "model": "glm-5.3"
+}

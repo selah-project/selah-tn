@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme pudi e tla di bea mo go yona ⟨את⟩ ditlolo tsotlhe tsa bone, go ya kwa lefatsheng le le kgaogantsweng; mme a romela ⟨את⟩ pudi eo kwa ntlheng.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "mme e tla di bea"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "pudi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlolo tsotlhe tsa bone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "ditlolo tsa bone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "le le kgaogantsweng"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "mme a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pudi eo"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "pudi eo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa ntlheng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:01.546975552Z",
+  "model": "glm-5.3"
+}

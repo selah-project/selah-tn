@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme ba oketsa go dira boleo mo go yena, go ganwa ga Elyone ka ditsela tse di omileng.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "ba oketsa go dira boleo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "go ya pele"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "boleo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go yena"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "go ganwa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "ka ditsela tse di omileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:25.106825763Z",
+  "model": "glm-5.3"
+}

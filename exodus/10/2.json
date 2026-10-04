@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme gore o kgone go bolelela mo ditsebeng tsa ngwana wa gago le ngwana wa ngwana wa gago se ke neng ke se dira mo Mitsrayime, le ⟨את⟩ dinepe tsa me tse ke neng ke di bula mo go tsone — gore lo itse gore nna ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Mme gore"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "o kgone go bolelela"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mo ditsebeng tsa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ngwana wa gago"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "le ngwana wa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ngwana wa gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ke neng ke se dira"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mo Mitsrayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinepe tsa me"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "dinepe tsa me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ke neng ke di bula"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "gorre lo itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gorre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:19.916598051Z",
+  "model": "glm-5.3"
+}

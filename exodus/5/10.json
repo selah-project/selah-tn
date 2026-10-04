@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme barwadisi ba setshaba le batlhokomedi ba one ba ntse ba tswele, ba re go setshaba, ba re: Mo go tshwanetse jalo Farao o buile: Ga ke na go lo neela bochhabi.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba ntse ba tswele"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "barwadisi ba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ושטריו",
+      "gloss": "le batlhokomedi ba one"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mo go tshwanetse jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ga ke na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "go neela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "bochhabi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:42.665601120Z",
+  "model": "glm-5.3"
+}

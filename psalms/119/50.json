@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ke ⟨⟨e⟩⟩ tlhompho ya me mo diphatseng tsa me; gonne lefoko la gago le ntshisitse botshelo.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ke ⟨⟨e⟩⟩"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "tlhompho ya me"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "mo diphatseng tsa me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lefoko la gago"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "le ntshisitse botshelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:32.542862381Z",
+  "model": "glm-5.3"
+}

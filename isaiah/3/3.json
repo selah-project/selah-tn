@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mookamedi wa masome a matlhano, le yo a amogetsweng sefatlogo, le mogakolodi, le yo o botlhale mo baeneding, le yo o tlhaloganyang sephiri.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masome a matlhano"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "le yo a amogetsweng"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefatlogo"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "le mogakolodi"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "le yo o botlhale"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "mo baeneding"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "le yo o tlhaloganyang"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "sephiri"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:45.755570096Z",
+  "model": "glm-5.3"
+}

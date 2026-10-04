@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Gore o tla laela bamelaedi ba gagabo ka wena, go go sireletsa mo ditseleng tsa gago tsotlhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "bamelaedi ba gagabo"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "o tla laela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "go go sireletsa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo ditseleng tsotlhe"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:46.906990651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 114,
+  "translation": "Kwa pele ga Adonai — tlhothagotlhe, lefatshe; kwa pele ga Eloha ga Yaakobo.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "tlhothagotlhe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:58.719520769Z",
+  "model": "glm-5.3"
+}

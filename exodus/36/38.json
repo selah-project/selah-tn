@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Le ⟨את⟩ dikolomo tsa yone di le tlhano, le ⟨את⟩ dihooki tsa yone; mme o ne a di kgwetsa ka gauta ditlhogo tsa tsone le dikgolaganyo tsa tsone; mme madulo a yone a le tlhano e ne e le sekoporo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikolomo tsa yone"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "dikolomo tsa yone"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "tlhano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dihooki tsa yone"
+    },
+    {
+      "surface": "ואת וויהם",
+      "gloss": "le ⟨את⟩ dihooki tsa yone"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "a di kgwetsa"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ditlhogo tsa tsone"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "le dikgolaganyo tsa tsone"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "mme madulo a yone"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "tlhano"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sekoporo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:40.797130289Z",
+  "model": "glm-5.3"
+}

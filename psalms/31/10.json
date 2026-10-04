@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Nnele mohau, Yahwe, gonne ke a gatelelwa; leitlho la me le fadehetse ka botlhoko, le moyo wa me le mmala wa me.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "nnele mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ke a gatelelwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "le fadehetse"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "ka botlhoko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leitlho la me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wa me"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "le mmala wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:49.232310816Z",
+  "model": "glm-5.3"
+}

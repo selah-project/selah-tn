@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Yehuda ya ya kwa Bakanane, yo o neng a dutse kwa Kheberone; mme leina la Kheberone kwa tshimologong e ne e le Kiryate-Arba; mme ba gogela ba otla ⟨את⟩ Sheshai le ⟨את⟩ Akhimane le ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mme Yehuda ya ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Bakanane"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "yo o neng a dutse"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "kwa Kheberone"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme leina la"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Kheberone"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kwa tshimologong"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryate-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mme ba gogela ba otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Akhimane"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Akhimane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-10-03T22:43:56.109579562Z",
+  "model": "glm-5.3"
+}

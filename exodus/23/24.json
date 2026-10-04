@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "O se ka wa ikobamela medimo ya bone, mme o se ka wa e direla tiro, mme o se ka wa dira jaaka ditiro tsa bone; mme o di senye ka botlalo, mme o thuntshanye matshwao a bone a maje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "O se ka"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "wa ikobamela"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "medimo ya bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "wa e direla tiro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wa dira"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "jaaka ditiro tsa bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "o di senye ka botlalo"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "o di senye"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "mme o thuntshanye ka botlalo"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "o thuntshanye"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "matshwao a bone a maje"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:11.980068370Z",
+  "model": "glm-5.3"
+}

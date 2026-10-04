@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 25:24",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme a tsaya gauta yotlhe le selefera, le ⟨את⟩ dithoto tsotlhe tse di bonwang mo ntlong ya Elohim, mmogo le tsa ga Ovede-Edome, le ⟨את⟩ ditsamaiso tsa ntlo ya kgosi, le ⟨את⟩ bana ba ba neng ba tserwe jaaka dithomelo; mme a boela Shomorone.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "le selefera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dithoto tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "dithoto"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "tse di bonwang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmogo le tsa ga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ovede-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditsamaiso tsa ntlo ya kgosi"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "ditsamaiso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba ba neng ba tserwe jaaka dithomelo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "ba ba neng ba tserwe jaaka dithomelo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomorone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:27:47.084783038Z",
+  "model": "glm-5.3"
+}

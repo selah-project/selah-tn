@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "mme fa letsatsi le tsile mme a phuthologile, morago ga moo o ka ja mo dilong tse di boitshepo, gonne ke sejo sa gagwe;",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "mme fa ... le tsile"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "mme a phuthologile"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "morago ga moo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "o ka ja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "dilong tse di boitshepo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "sejo sa gagwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:20.550246517Z",
+  "model": "glm-5.3"
+}

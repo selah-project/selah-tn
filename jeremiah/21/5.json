@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ke ene ke tlaa lwa le lona ⟨את⟩ ka seatla se se ologileng, le ka letsogo le le nonofileng, le ka bogale, le ka letlhoo, le ka kgalefo e kgolo.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "ke tlaa lwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke ene"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona",
+      "marks": "le lona"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "se se ologileng"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "le ka letsogo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "le le nonofileng"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "le ka bogale"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "le ka letlhoo"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "le ka kgalefo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:16:18.580355395Z",
+  "model": "glm-5.3"
+}

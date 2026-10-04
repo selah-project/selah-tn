@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Sefelwa le lesego — le se ka wa ba sotla.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bongwe le bongwe"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "sefelwa"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "le lesego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ka"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "wa ba sotla"
+    }
+  ],
+  "timestamp": "2026-10-04T03:03:19.649038048Z",
+  "model": "glm-5.3"
+}

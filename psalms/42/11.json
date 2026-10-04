@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Jaaka go ritsha mo marapong a me, ba ba mo tlhoyang ba me ba ntlhaola, fa ba bua go nna letsatsi lotlhe: Elohim wa gago o kae?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "jaaka go ritsha"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "mo marapong a me"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ba ntlhaola"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ba ba mo tlhoyang ba me"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "fa ba bua"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "o kae"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:24.135036287Z",
+  "model": "glm-5.3"
+}

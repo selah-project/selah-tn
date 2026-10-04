@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Setulo sengwe le sengwe se a robalang mo go sona mo siameng se sengwa; mme setlhare sengwe le sengwe se a dulang mo go sona se tlaa nna se sengwa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "setulo sa boroko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go sona"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "mo siameng se sengwa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "se sengwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme sengwe le sengwe"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "setlhare sa go dula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go sona"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "se tlaa nna se sengwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:55:37.595502029Z",
+  "model": "glm-5.3"
+}

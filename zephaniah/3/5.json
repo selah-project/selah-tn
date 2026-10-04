@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Yahwe yo o siameng o mo gare ga yona; ga a dire phoso; moso le moso o neela katlholo ya gagwe, e nna sepele; ga e kgaotsa; mme yo o fositseng ga a itse seco.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mo gare ga yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a dire"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "phoso"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le moso"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "katlholo ya gagwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o neela"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "e nna sepele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "e kgaotsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "a itse"
+    },
+    {
+      "surface": "עול",
+      "gloss": "seco"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "yo o fositseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:07:36.968069020Z",
+  "model": "glm-5.3"
+}

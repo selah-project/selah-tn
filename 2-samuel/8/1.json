@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme morago ga moo Dawide o ne a itaya ⟨את⟩ Ba-Plisiti mme a ba fenya; mme Dawide o ne a tsaya ⟨את⟩ mutlha wa toropokgolo mo seatleng sa Ba-Plisiti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o ne a nna"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a itaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba-Plisiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Plisiti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "a ba fenya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutlha wa toropokgolo"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "mutlha"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa toropokgolo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Plisiti"
+    }
+  ],
+  "timestamp": "2026-10-04T03:09:17.275809400Z",
+  "model": "glm-5.3"
+}

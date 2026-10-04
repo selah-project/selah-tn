@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme kgosigadi ya Sheba, a utlwa ⟨את⟩ se buiwang ka ga Solomone ka ntlha ya Leina la Yahwe, a tsena go mo lekisa ka diphiri.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "mme kgosigadi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ya Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se buiwang ka ga Solomone"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "se buiwang"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ka ga Solomone"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ka ntlha ya Leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "go mo lekisa"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "ka diphiri"
+    }
+  ],
+  "timestamp": "2026-10-04T03:10:13.819580131Z",
+  "model": "glm-5.3"
+}

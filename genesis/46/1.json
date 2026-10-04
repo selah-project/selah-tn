@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Mme Yisraele a tsamaya le sengwe le sengwe se a nang le sone, mme a tsena kwa Beer-Sheba, mme a neela dipheretlho go Elohim wa rraagwe Yitshake.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a nang le sone"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "kwa Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "dipheretlho"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa rraagwe"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T21:31:33.911865699Z",
+  "model": "glm-5.3"
+}

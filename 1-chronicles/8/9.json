@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a belegwa ke Hodeshe, mosadi wa gagwe: ⟨את⟩ Yovabe, le ⟨את⟩ Tsivea, le ⟨את⟩ Mesha, le ⟨את⟩ Malkame.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "a belegwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodeshe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovabe"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsivea"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Malkame"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkame"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:20.795016442Z",
+  "model": "glm-5.3"
+}

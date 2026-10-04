@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme Bafalisiti ba tswaletse metsi ewala otlhe a metsi bao badiri ba rraagwe ba neng ba a tela ka malatsi a Abrahame rraagwe, ba a tlatsa ka lerole.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "metsi ewala a metsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ba neng ba a tela"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiri ba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ka malatsi a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "ba tswaletse"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalisiti"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "ba a tlatsa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:23.568004243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Moshe a bala, jaaka Yahwe a mo laetse, ⟨את⟩ dikokotana tsotlhe mo baneng ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Mme Moshe a bala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "dikokotana"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mo baneng ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:27.828653786Z",
+  "model": "glm-5.3"
+}

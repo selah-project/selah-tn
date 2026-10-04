@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme ba re mongwe le mongwe go moagisani wa gagwe: A re, a re baye matena, mme a re a fise ka molelo go fisa thata. Mme tena e ne ya nna leje la bone, mme kharara e ne e le serethe sa bone.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moagisani wa gagwe"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "a re"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "a re baye"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "matena"
+    },
+    {
+      "surface": "ונשרפה",
+      "gloss": "mme a re a fise"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "go fisa thata"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mme e ne ya nna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "la bone"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "tena"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "leje"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "mme kharara"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "להם",
+      "gloss": "la bone"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "serethe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:07.525314091Z",
+  "model": "glm-5.3"
+}

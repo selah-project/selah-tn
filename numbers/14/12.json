@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Ke tla ba tlhasela ka bolwetse, ba menola, mme ke tla go dira ⟨את⟩ wena setshaba se segolo le se nonofileng go feta sona.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "ke tla ba tlhasela"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka bolwetse"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "ba menola"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ke tla go dira"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "se segolo"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "le se nonofileng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go feta sona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:08:44.869252097Z",
+  "model": "glm-5.3"
+}

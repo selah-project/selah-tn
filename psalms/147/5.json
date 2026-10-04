@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Adonai wa rona o mogolo, mme o na le maatla a mantsi; go tlhalogany ga ga gagwe ga go na ⟨⟨את⟩⟩ palo.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai wa rona"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mme o na le maatla a mantsi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "go tlhalogany ga gagwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:12.675191873Z",
+  "model": "glm-5.3"
+}

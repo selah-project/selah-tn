@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Dithlare tsa Yahwe di a kgoroga; dikedaroso tsa Lebanone, tse a di beschirietseng.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "di a kgoroga"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dithlare tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "dikedaroso tsa"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "a di beschirietseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:38.117781339Z",
+  "model": "glm-5.3"
+}

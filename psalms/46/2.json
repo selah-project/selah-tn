@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Elohim ⟨⟨e⟩⟩ botshabelo jwa rona le maatla, mooki o o bonwang thata mo dikgwetsong.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "jwa rona"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "botshabelo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "le maatla"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "mooki"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mo dikgwetsong"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "o bonwang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:12.126883186Z",
+  "model": "glm-5.3"
+}

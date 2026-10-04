@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 57:16",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "Gore ga ke na go ganela ka bosakhutleng, mme ga ke na go Tlhokaletsa kosakosa; gore ruakh o ka tswa fela fa pele ga me, le moya — nna ke ba bopa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosakhutleng"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ke na go ganela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kosakosa"
+    },
+    {
+      "surface": "אקצוף",
+      "gloss": "ke na go tlhokaletsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fa pele ga me"
+    },
+    {
+      "surface": "יעטוף",
+      "gloss": "o ka tswa fela"
+    },
+    {
+      "surface": "ונשמות",
+      "gloss": "le moya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke ba bopa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:03:10.007223603Z",
+  "model": "glm-5.3"
+}

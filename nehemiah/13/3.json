@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme fa ba utlwile ⟨את⟩ Torah, ba kgaogantsha go tswa mo Yisraele setlhopha sotlhe se se tlhakaneng.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "fa ba utlwile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "ba kgaogantsha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "setlhopha se se tlhakaneng"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "go tswa mo Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:32.713004472Z",
+  "model": "glm-5.3"
+}

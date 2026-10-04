@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Thee, Yahwe, lentswe la me — ke a bitsa; nne molemo ⟨mo⟩ go nna, mme o arabe.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Thee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentswe la me"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke a bitsa"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "nne molemo ⟨mo⟩ go nna"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "mme o arabe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:09.891196779Z",
+  "model": "glm-5.3"
+}

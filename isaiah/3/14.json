@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Yahwe o tla tsena mo katlholong le bagolo ba setshaba sa gagwe, le dikgosi tsa sone; mme lona lo je ⟨את⟩ serala sa mmu wa dibinela, phogo ya motho o o humanegileng e mo matlong a lona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mo katlholong"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o tla tsena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo ba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "le dikgosi tsa sone"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "lo je"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "⟨את⟩ serala sa mmu wa dibinela",
+      "marks": "serala sa mmu wa dibinela"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "phogo ya"
+    },
+    {
+      "surface": "העני",
+      "gloss": "motho o o humanegileng"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "mo matlong a lona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:07.106070935Z",
+  "model": "glm-5.3"
+}

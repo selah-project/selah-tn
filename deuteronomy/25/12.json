@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "a boela a kgabola ⟨את⟩ seatla sa gagwe; puntlha ya gago e se ka ya mo khutlifatsa.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "a boela a kgabola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e se ka"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ya mo khutlifatsa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "puntlha ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:24.244407474Z",
+  "model": "glm-5.3"
+}

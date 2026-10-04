@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Nteke, Yahwe, mme o nteke; ikatisetse botlhamong jwa me le pelo ya me.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Nteke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "mme o nteke"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "o ikatise"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "botlhamong jwa me"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "le pelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:31.193312261Z",
+  "model": "glm-5.3"
+}

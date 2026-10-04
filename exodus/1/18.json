@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme kgosi ya Mitsrayime a bitla baroki, mme a ba re: Ke ka ntlha yang fa lo dirile se? mme lo boloka bophelo jwa ⟨את⟩ bana ba basha.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a bitla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "baroki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a ba re"
+    },
+    {
+      "surface": "להן",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ke ka ntlha yang fa"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "lo dirile"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "mme lo boloka bophelo jwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba basha"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bana ba basha"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:24.183995130Z",
+  "model": "glm-5.3"
+}

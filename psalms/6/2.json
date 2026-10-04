@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Yahwe, o se kitla o ntshwenye ka tlhogo ya gago, gape o se kitla o nkatlhole ka bolawe ja gago.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se kitla"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ka tlhogo ya gago"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "o ntshwenye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gape o se kitla"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "ka bolawe ja gago"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "o nkatlhole"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:28.341114649Z",
+  "model": "glm-5.3"
+}

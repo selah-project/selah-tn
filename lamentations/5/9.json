@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Ka moya wa rona re ne re isa senkgwe sa rona, ka ntlha ya tshaka ya sekaka.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ka moya wa rona"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "re ne re isa"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "senkgwe sa rona"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ya sekaka"
+    }
+  ],
+  "timestamp": "2026-10-04T03:23:45.539173028Z",
+  "model": "glm-5.3"
+}

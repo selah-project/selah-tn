@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme ba agele nna boitshepo, mme ke tla nna mo gare ga bone;",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Mme ba age"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ele nna"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "mme ke tla nna"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "mo gare ga bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:18.273029511Z",
+  "model": "glm-5.3"
+}

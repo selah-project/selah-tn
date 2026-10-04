@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Bitsa ka mogala, o se ke wa thibela; jaaka shofare godolola moya wa gago, mme o senole setshaba sa me ditlolo tsa sone, le ntlo ya Yaakobo dibe tsa bone.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Bitsa"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "ka mogala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "thibela"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "jaaka shofare"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "godolola"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "moya wa gago"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "mme o senole"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ditlolo tsa sone"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "le ntlo ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dibe tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:04:43.026059681Z",
+  "model": "glm-5.3"
+}

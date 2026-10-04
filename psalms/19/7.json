@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Go tswa kwa bofelong jwa magodimo go tsamaya ga yone, mme potologo ya yone go fitlha kwa mafelelong a tsone; mme ga go sepe se se fitlhisitsweng mo molatung wa yone.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "kwa bofelong jwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "go tsamaya ga yone"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "mme potologo ya yone"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "mafelelong a tsone"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "sepe se se fitlhisitsweng"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "mo molatung wa yone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:15.498742492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Le wena o tla nwa o tlhakane, o tla fitlwa; le wena o tla batla botshego ka ntlha ya moganeng.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "o tla nwa o tlhakane"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "o tla nna"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "o fitlilwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "o tla batla"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "botshego"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "ka moganeng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:03:55.254327870Z",
+  "model": "glm-5.3"
+}

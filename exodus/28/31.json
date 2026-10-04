@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme o tla dira ⟨את⟩ kobo ya epode, yotlhe ya mmala wa serolwana.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ya epode"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ya mmala wa serolwana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:34.916897011Z",
+  "model": "glm-5.3"
+}

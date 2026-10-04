@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme bana ba Yisraele ba nna difikanelo kwa Gilgale, mme ba dira ⟨את⟩ Pesake ka letsatsi la lesome le bone la kgwedi, maitseboa, kwa tshese ya Yeriḫo.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "ba nna difikanelo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "kwa Gilgale"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesake"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesake"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "la lesome le bone"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "maitseboa"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "kwa tshese"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ya Yeriḫo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:35:10.503320776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ka nako eo Khizkiya a sega ⟨את⟩ mabati a tempele ya Yahwe le ⟨את⟩ dikolona tse Khizkiya kgosi ya Yuda a neng a di aparetse ka gauta, mme a di neela kgosing ya Ashure.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "a sega"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabati a tempele ya Yahwe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "mabati a"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempele ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikolona"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "dikolona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "a di aparetse ka gauta"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "mme a di neela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kgosing ya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:33.488883682Z",
+  "model": "glm-5.3"
+}

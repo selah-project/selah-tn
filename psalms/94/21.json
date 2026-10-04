@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Ba tlhakana kgatlhanong le motho yo o lokileng, mme ba latlhola madi a a sa nyaleng molato.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "ba tlhakana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo o lokileng"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "mme madi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a a sa nyaleng molato"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "ba latlhola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:29.698825595Z",
+  "model": "glm-5.3"
+}

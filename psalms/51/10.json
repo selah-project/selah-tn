@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Mpolelele ketumelo le boitumelo, gore marapo a o o kgobile a kele.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "mpolelele"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ketumelo"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "le boitumelo"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "a kele"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "a o kgobile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:09.809293295Z",
+  "model": "glm-5.3"
+}

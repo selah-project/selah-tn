@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Yahwe Elohim wa rona o ne a bua le rona kwa Khorebe, a re: Go lekane go lona go nna kwa thabeng eno.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o ne a bua"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kwa Khorebe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "רב",
+      "gloss": "go lekane"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwa thabeng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eno"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:36.595293070Z",
+  "model": "glm-5.3"
+}

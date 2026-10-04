@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mo ⟨את⟩ mang o ne a ka mo kgakolola, a mo tlhalosetsa? A mo ruta tsela ya katlholo; a mo ruta tsebo, mme tsela ya botlhale a mo tlhalosetsa?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Mo mang"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "o ne a ka mo kgakolola"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "a mo tlhalosetsa"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "a mo ruta"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ya katlholo"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "a mo ruta"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mme tsela"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ya botlhale"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "a mo tlhalosetsa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:38.194944491Z",
+  "model": "glm-5.3"
+}

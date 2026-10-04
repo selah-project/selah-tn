@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "mme a bona ⟨את⟩ tshaka e tla mo go ⟨the⟩ naga, mme a letla ka shofara, mme a gakolola ⟨את⟩ setshaba;",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshaka"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "באה",
+      "gloss": "e tla"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "naga"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "mme a letla"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "ka shofara"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "mme a gakolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T00:45:21.111796044Z",
+  "model": "glm-5.3"
+}

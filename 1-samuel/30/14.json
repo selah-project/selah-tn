@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Re ne re tlhasetse borwa jwa ba-Kerete, le sepe se se leng sa Yehuda, le borwa jwa Kalebe; mme re fisitse ⟨את⟩ Tsiklage ka molelo.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "re tlhasetse"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "jwa ba-Kerete"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se leng"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "jwa Kalebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklage"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklage"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "re fisitse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:06:56.882004706Z",
+  "model": "glm-5.3"
+}

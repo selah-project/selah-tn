@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "jeremiah 51:45",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Etso sechaba sa me, tlogang mo gare ga yona, mme motho a pholose ⟨את⟩ bophelo jwa gagwe go tswa go bogale jwa bohale jwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "צאו",
+      "gloss": "tlogang"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "mo gare ga yona"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sechaba sa me"
+    },
+    {
+      "surface": "ומלטו",
+      "gloss": "mme ... a pholose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo jwa gagwe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bophelo jwa gagwe"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "go tswa go bogale"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jwa bohale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:30:58.016859597Z",
+  "model": "glm-5.3"
+}

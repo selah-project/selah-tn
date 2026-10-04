@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Ka tekanyo ya gauta e e phatlalala a e dirile ⟨את⟩ yone, le ⟨את⟩ didiriswa tsotlhe tsa yone.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "tekanyo ya gauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e phatlalala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a e dirile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsotlhe tsa yone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "didiriswa tsa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:48.449629125Z",
+  "model": "glm-5.3"
+}

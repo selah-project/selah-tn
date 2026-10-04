@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Fa o ka tlhapa go ja senkgwe le ⟨את⟩ mogosi, tlhaloganya sentle ⟨את⟩ se se mo pele ga gago.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "o ka tlhapa"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "go ja senkgwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogosi"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "mogosi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tlhaloganya"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "sentle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se mo pele ga gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mo pele ga gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:50:12.698783589Z",
+  "model": "glm-5.3"
+}

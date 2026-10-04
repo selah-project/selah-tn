@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "⟨את⟩ Tse tsa tsone le ka go ja: ⟨את⟩ haarabe go ya ka mofuta wa yone, le ⟨את⟩ hasalaame go ya ka mofuta wa yone, le ⟨את⟩ hakhargole go ya ka mofuta wa yone, le ⟨את⟩ hakhagabe go ya ka mofuta wa yone.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tse"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Tse"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "tsa tsone"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ka go ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haarabe"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "haarabe"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "go ya ka mofuta wa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "hasalaame"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "hasalaame"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "go ya ka mofuta wa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "hakhargole"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hakhargole"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "go ya ka mofuta wa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "hakhagabe"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hakhagabe"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "go ya ka mofuta wa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:17.394584570Z",
+  "model": "glm-5.3"
+}

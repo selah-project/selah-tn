@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim a jala setshwarwa sa Edene, kwa botlhabatsatsi, mme a baya fono ⟨את⟩ motho yo a neng a mo bopa.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "Mme ... a jala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "setshwarwa"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "sa Edene"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kwa botlhabatsatsi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mme a baya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "fono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "a neng a mo bopa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:20.464389281Z",
+  "model": "glm-5.3"
+}

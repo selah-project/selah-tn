@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ke utlwa ⟨את⟩ lentswe la Adonai le re: Ke ore ke romelang ⟨את⟩ mang, mme ke mang ya tlang go ya ka rona? Mme ke re: Bonwe ke nna, ntsere.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "mme ke utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "la Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "le re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ke romelang"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mme ke mang"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ya tlang go ya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka rona"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mme ke re"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonwe ke nna"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ntsere"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:12.552880787Z",
+  "model": "glm-5.3"
+}

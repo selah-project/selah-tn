@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme ka ba ntsha mo lefatsheng la Mitsrayime, mme ka ba isa kwa ntlheng e e omeletseng.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "mme ka ba ntsha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "mme ka ba isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ntlheng e e omeletseng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:38:44.878517171Z",
+  "model": "glm-5.3"
+}

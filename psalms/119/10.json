@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ka pelo ya me yotlhe ke go batile; se ka ntlogela ke tlhoka tseleng mo melawong ya gago.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ka ... yotlhe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ke go batile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ntlogela ke tlhoka tseleng"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "mo melawong ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:43.871630127Z",
+  "model": "glm-5.3"
+}

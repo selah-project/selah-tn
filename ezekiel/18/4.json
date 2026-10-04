@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Bonang, mafoko otlhe ke a me; jaaka Setswana se se buang — moSetswana se se buang ka yone — le jaaka Setswana se se buang, ke a me. Mme Setswana se se buang — se se buang, se tla swa. — Corrected: Bonang, meya yotlhe e a me; jaaka moyo wa rraago le jaaka moyo wa morwa, ke a me. Mme moyo o o dirang dibe, oo o tla swa. —",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meya yotlhe"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "meya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke a me"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "e a me"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "jaaka moyo"
+    },
+    {
+      "surface": "האב",
+      "gloss": "wa rraago"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "le jaaka moyo"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "wa morwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke a me"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "e a me"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "o o dirang dibe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "o tla swa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:37:44.790915755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Ntshwarele, Elohim, go ya ka hesede ya gago; go ya ka bontsi jwa melaumo ya gago, phimola diphoso tsa me.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ntshwarele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "go ya ka hesede ya gago"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "go ya ka bontsi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "jwa melaumo ya gago"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "phimola"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "diphoso tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:19.581919470Z",
+  "model": "glm-5.3"
+}

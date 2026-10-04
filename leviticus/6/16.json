@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme minkha ya mopriste yotlhe e tla fediwa ka molelo ka bo botlhe; e se ka go jewa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mme ... yotlhe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha ya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ka bo botlhe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla fediwa ka molelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a go"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "go jewa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:50.129997562Z",
+  "model": "glm-5.3"
+}

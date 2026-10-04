@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Merafe, lo tlotse Elohim wa rona, mme lo utlise lentswe la keteko ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "lo tlotse"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Merafe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "mme lo utlise"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "la keteko ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:35.932088748Z",
+  "model": "glm-5.3"
+}

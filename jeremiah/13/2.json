@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme ka reka ⟨את⟩ thogo eo, jaaka lefoko la Yahwe, mme ka e beisa mo moteng ya me.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "mme ka reka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thogo eo"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "thogo eo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jaaka lefoko la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "mme ka e beisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "moteng ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:13:21.808091103Z",
+  "model": "glm-5.3"
+}

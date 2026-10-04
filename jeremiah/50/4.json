@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 50:4",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Ka malatsi ao, le ka nako eo, go bua Yahwe, bana ba Yisraele ba tla, bona mmogo le bana ba Yuda; ba tsamaya ba lela, ba batla ⟨את⟩ Yahwe Elohim wa bone.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Ka malatsi"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "le ka nako"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "ba lela"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yahwe Elohim wa bone"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bone"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ba batla"
+    }
+  ],
+  "timestamp": "2026-10-04T00:29:19.829167223Z",
+  "model": "glm-5.3"
+}

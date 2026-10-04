@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Senkgwe ga lo a se ja, mme waine le sekhara ga lo a a nwa, gore lo itse gore ke nna Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "lo a se ja"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "mme waine"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "le sekhara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "lo a a nwa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "lo itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:42.531597983Z",
+  "model": "glm-5.3"
+}

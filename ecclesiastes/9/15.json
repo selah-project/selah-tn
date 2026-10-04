@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme go fitlhelwa mo go sone monna yo mo humanegileng, yo o bonwang e le mohlale; mme ene o ne a boloka ⟨את⟩ setseke ka bohlale jwa gagwe; mme motho ga a ka a gopola ⟨את⟩ monna yo mo humanegileng yoo.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "mme go fitlhelwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go sone"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "yo mo humanegileng"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mohlale"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "mme o ne a boloka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setseke"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "setseke"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "ka bohlale jwa gagwe"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "mme motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "a ka a gopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "yo mo humanegileng"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yoo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:44.364522756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme moengele wa Yahwe a bonala mo go mosadi yo mme a bua mo go ene a re: Bonwe fela, wena o sa tsele, o sa ise o belege; mme o tla ima, mme o tla belega mora.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bonala"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "moengele wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fela"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena",
+      "marks": "עקרה — o sa tsele"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "o sa tsele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o sa ise"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "o belege"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "o tla ima"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "o tla belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    }
+  ],
+  "timestamp": "2026-10-03T22:51:49.343342726Z",
+  "model": "glm-5.3"
+}

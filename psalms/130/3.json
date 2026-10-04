@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 130,
+  "translation": "Fa o bolaela diphoso, Yah, Adonai, mang yo o ka emang?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "diphoso"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "o bolaela"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "yo o ka emang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:52.491118023Z",
+  "model": "glm-5.3"
+}

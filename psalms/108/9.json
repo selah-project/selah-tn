@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "Gileade ke ya me, Manase ke ya me; mme Efurame ⟨ke⟩ tshireletso ya tlhago ya me; Yuda ke mmopi wa melao ya me.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ya me"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya me"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manase"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "mme Efurame"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "tshireletso"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tlhago ya me"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mmopi wa melao ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:49.169436701Z",
+  "model": "glm-5.3"
+}

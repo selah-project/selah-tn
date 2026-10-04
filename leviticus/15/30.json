@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme moperesite a dire ⟨את⟩ e nngwe e le dhefho ya boleo, mme ⟨את⟩ e nngwe e le dhefho ya go fiswa; mme moperesite a mo itshwarele kwa pele ga Yahwe ka ntlha ya metsotla a bosula jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mme a dire"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e nngwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dhefho ya boleo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "e nngwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "dhefho ya go fiswa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a itshwarele"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesite"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "ka ntlha ya metsotla"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "a bosula jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:11.948868499Z",
+  "model": "glm-5.3"
+}

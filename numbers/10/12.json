@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme bana ba Yisraele ba ne ba tsamaya ka maeto a bone go tswa mo sekakeng sa Sinaye, mme seya se ne sa nna mo sekakeng sa Parane.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Mme ba ne ba tsamaya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "ka maeto a bone"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "go tswa mo sekakeng sa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaye"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "mme se ne sa nna"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "seya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo sekakeng sa"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parane"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:17.640101879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Ba ba sepelang tsela botlhe ba mo utswa; o ne a nna seromo go baagisanyi ba gagwe.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "ba mo utswa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ba ba sepelang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ne a nna"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "seromo"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "go baagisanyi ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:38.173275439Z",
+  "model": "glm-5.3"
+}

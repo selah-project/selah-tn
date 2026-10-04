@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 4:11",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Go feta foo, fa banna ba ba bosula ba bolotse ⟨את⟩ monna yo o siameng mo tlung ya gagwe, mo borong jwa gagwe — jaanong a ga ke kitla ke batla ⟨את⟩ madi a gagwe mo diatleng tsa ⟨את⟩ lona, mme ke tlaa lo phimola mo lefatsheng?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "foo fa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ba bolotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mo tlung ya gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "borong jwa gagwe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga… kitla"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ke batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a gagwe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a gagwe"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "mo diatleng tsa lona"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "ke tlaa lo phimola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:09:31.902667745Z",
+  "model": "glm-5.3"
+}

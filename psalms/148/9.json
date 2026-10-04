@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Dithaba, le dithaba tse dinnye tsotlhe; ditlhare tsa maungo, le disedare tsotlhe.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "dithaba tse dinnye"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ditlhare"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "tsa maungo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "disedare"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:59.213439887Z",
+  "model": "glm-5.3"
+}

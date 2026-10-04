@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "El wa dikatlholo, Yahwe; El wa dikatlholo, tlhaga!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "wa dikatlholo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "wa dikatlholo"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "tlhaga"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:22.446930472Z",
+  "model": "glm-5.3"
+}

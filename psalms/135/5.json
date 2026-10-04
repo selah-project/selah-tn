@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Gore nna ke a itse gore Yahwe ke mogolo, mme Adonai wa rona o kwa godimo ga medimo yotlhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke a itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "mme Adonai wa rona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go feta yotlhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:45.899024569Z",
+  "model": "glm-5.3"
+}

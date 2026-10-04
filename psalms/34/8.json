@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mmangeloi wa Yahwe o didimala a dikologile ba ba mo segofatseng, mme a ba tlhabolola.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "o didimala"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Mmangeloi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a dikologile"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ba ba mo segofatseng"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "mme a ba tlhabolola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:18.307707613Z",
+  "model": "glm-5.3"
+}

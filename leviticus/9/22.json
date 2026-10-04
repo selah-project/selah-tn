@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Aharone o ne a tlhatlosa ⟨את⟩ seatla sa gagwe a lebisitse kwa setshabeng, mme a a gatelela; mme a tlola a sena go dira sehlabelo sa boleo le se jeletsang le sa kagisano.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "a tlhatlosa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a lebisitse kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshabeng"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "a a gatelela"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a tlola"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "a sena go dira"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sehlabelo sa boleo"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "le se jeletsang"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "le sa kagisano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:05.594859149Z",
+  "model": "glm-5.3"
+}

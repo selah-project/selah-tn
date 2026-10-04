@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "le ⟨את⟩ dikosi tsotlhe tsa Araba, le ⟨את⟩ dikosi tsotlhe tsa ba ba tlhakanetsweng, ba ba nnang mo sekakeng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikosi tsotlhe tsa Araba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikosi tsa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikosi tsotlhe tsa ba ba tlhakanetsweng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikosi tsa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ba ba tlhakanetsweng"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "ba ba nnang"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo sekakeng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:16:50.352382672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Ke tla go kgothatsa, Yahwe, gonne o ntshitse ⟨את⟩ me, mme o sa letle ba ba mo tlhoyang go nna boitumelo ka nna.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "ke tla go kgothatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o sa letle"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "go nna boitumelo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:57.406204724Z",
+  "model": "glm-5.3"
+}

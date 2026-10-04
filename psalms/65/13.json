@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "Bofelo jwa sekaka bo a laela, mme dithaba tse dinnye di ikhaba ka boitumelo.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "bo a laela"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "bofelo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sekaka"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "mme boitumelo"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "dithaba tse dinnye"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "di ikhaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:27.464054325Z",
+  "model": "glm-5.3"
+}

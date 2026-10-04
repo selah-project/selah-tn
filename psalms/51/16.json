@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Ntlolola mo mading, Elohim, Elohim wa poloko ya me, mme lobala lwa me lo tla opela ka tsedeke ya gago.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ntlolola"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "mo mading"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "poloko ya me"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "lo tla opela"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lobala lwa me"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeke ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:16.834648203Z",
+  "model": "glm-5.3"
+}

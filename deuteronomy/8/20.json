@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Jaaka ditshaba tse Yahwe a di nyeditseng pele ga lonna, jalo lona le tla nyelela, ka gonne lo sa reetle sekgowa sa Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "jaaka ditshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "a di nyeditseng"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pele ga lonna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "le tla nyelela"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo sa"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "reetle"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sekgowa sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:00.385002738Z",
+  "model": "glm-5.3"
+}

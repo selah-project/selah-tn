@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme lefoko la Shemuele le ne la fitlha go Yisraele yotlhe; mme Yisraele a tswa go ya go kopana le Bafilisitim ka ntwae, mme ba tlhoma matlhare kwa Ebene-Ezere; mme Bafilisitim ba tlhoma matlhare kwa Afeke.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go le"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "la Shemuele"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ... yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mme ... a tswa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "go ya go kopana le"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisitim"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ka ntwae"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "mme ba tlhoma matlhare"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "leje"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "la thuso"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "mme Bafilisitim"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ba tlhoma matlhare"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "kwa Afeke"
+    }
+  ],
+  "timestamp": "2026-10-03T22:57:39.044665910Z",
+  "model": "glm-5.3"
+}

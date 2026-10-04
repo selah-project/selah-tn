@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Tsedeke ya me e gaufi, tokololo ya me e tsile, mahumo a me a tlaa atlholola ditshaba; ditshitshinge di tlaa lela ka me, mme ka sehudu sa me di tlaa tshepana.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "e gaufi"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "tsedeke ya me"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e tsile"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "tokololo ya me"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "mahumo a me"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "a tlaa atlholola"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka me"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ditshitshinge"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "di tlaa lela"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ka"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "sehudu sa me"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "di tlaa tshepana"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:38.706140260Z",
+  "model": "glm-5.3"
+}

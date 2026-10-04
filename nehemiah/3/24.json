@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 3:24",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Morago ga gagwe Binoi morwa wa Chenadade o ile a tiisa mopolo wa bobedi, go tswa kwa ntlong ya Azaria go fitlha kwa makgonopong le go fitlha kwa kgonong.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "morago ga gagwe"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "o ile a tiisa"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Binoi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "wa Chenadade"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "mopolo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "go tswa kwa ntlong"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ya Azaria"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "kwa makgonopong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go fitlha"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "kwa kgonong"
+    }
+  ],
+  "timestamp": "2026-10-04T02:30:00.453544840Z",
+  "model": "glm-5.3"
+}

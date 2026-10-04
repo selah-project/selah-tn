@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme moperesiti o e neela ko altareng, a loga ⟨את⟩ tlhogo ya yone, a e fisa mo altareng; mme madi a yone a budulwa mo lebota la altare.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "o e neela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesiti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ko"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareng"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "a loga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhogo ya yone"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tlhogo ya yone"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a e fisa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mo altareng"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "a budulwa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a yone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "lebota"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "la altare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:42.014759291Z",
+  "model": "glm-5.3"
+}

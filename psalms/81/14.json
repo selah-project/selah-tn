@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Ee, ge e ka nna setshaba sa me se ne sa mmatla, Yisraele se ne se tsamaya mo ditseleng tsa me!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Ee, ge e ka nna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "se ne sa mmatla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mo ditseleng tsa me"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "se ne se tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:48.484338593Z",
+  "model": "glm-5.3"
+}

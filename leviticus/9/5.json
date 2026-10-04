@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ba ne ba tseela kwa pele ga tebo ya kopano se se neng se tlaa tlhoma ⟨את⟩ se Moshe a se laetse, mme setlhopha sotlhe se ne sa atamela, mme ba ema kwa pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ba ne ba tseela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se Moshe a se laetse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a se laetse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tebo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "se ne sa atamela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setlhopha"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ba ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:05.795733475Z",
+  "model": "glm-5.3"
+}

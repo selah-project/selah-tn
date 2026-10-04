@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 133,
+  "translation": "E tshwana jaaka moro wa Herimone, o o namang mo dithabeng tsa Tsione; gonne koo Yahwe a laetseng ⟨את⟩ tshegofatso — botshelo go fitlha go ilelele.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "jaaka moro"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Herimone"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "o o namang"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "dithabeng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshegofatso"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "tshegofatso"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "go ilelele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:04.974444545Z",
+  "model": "glm-5.3"
+}

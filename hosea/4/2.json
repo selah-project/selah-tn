@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Go tlhopha, le maaka, le go bolaya, le go utswa, le go dira boaka; dilo di tswelela, mme madi a kgobokantse le madi a mangwe.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "go tlhopha"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "le maaka"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "le go bolaya"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "le go utswa"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "le go dira boaka"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "di tswelela"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "mme madi"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "le madi a mangwe"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "a kgobokantse"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:39.773885795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Shimehi a tsoga, a beola ⟨את⟩ tonki ya gagwe, a ya kwa Gate, go Akishe, go batla ⟨את⟩ ditlhanka tsa gagwe; mme Shimehi a ya, a isa gae ⟨את⟩ ditlhanka tsa gagwe a tswa kwa Gate.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tsoga"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimehi"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "a beola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tonki ya gagwe"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "tonki ya gagwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "kwa Gate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishe"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "go batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhanka tsa gagwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ditlhanka tsa gagwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimehi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a isa gae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhanka tsa gagwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ditlhanka tsa gagwe"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "a tswa kwa Gate"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:44.654886958Z",
+  "model": "glm-5.3"
+}

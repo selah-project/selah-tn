@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Dawide o robetse le bo-ntate ba gagwe, mme a fitlhiwa mo toropong ya ga Dawide.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "o robetse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate ba gagwe"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mme a fitlhiwa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo toropong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya ga Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:01.236119032Z",
+  "model": "glm-5.3"
+}

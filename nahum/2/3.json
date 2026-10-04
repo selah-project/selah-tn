@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Gore Yahwe o buseditse ⟨את⟩ sethaba sa Yaakobo, jaaka sethaba sa Yisraele; gore ba ba nosang ba nositse bone, ba senyetse dithollo tsa bone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שב",
+      "gloss": "o buseditse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sethaba sa Yaakobo"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "sethaba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "jaaka sethaba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "ba ba nosang"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "ba nositse"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "dithollo tsa bone"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ba senyetse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:04:59.536800638Z",
+  "model": "glm-5.3"
+}

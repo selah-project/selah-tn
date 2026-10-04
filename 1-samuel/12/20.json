@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 12:20",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Samuele a re go setshaba: Se ka wa boifa. Lo dirile bosula jotlhe jotlhe; fela se ka wa fapoga morago ga Yahwe, mme direlang Yahwe ka pelo ya lona sotlhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "wa boifa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "lo dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosula jotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "wa fapoga"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "mme direlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka sotlhe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pelo ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:32.051656952Z",
+  "model": "glm-5.3"
+}

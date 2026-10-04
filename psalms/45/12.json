@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mme kgosi e tla rata bosa jwa gago; gonne ke mong wa gago; o mo tlhophe.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "Mme... e tla rata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "bosa jwa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mong wa gago"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "o mo tlhophe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:09.641012454Z",
+  "model": "glm-5.3"
+}

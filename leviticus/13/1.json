@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Yahwe a bua le Moshe le le Aharone, a re:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le le"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T21:55:24.193833640Z",
+  "model": "glm-5.3"
+}

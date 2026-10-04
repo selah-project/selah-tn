@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "O se ka wa re go moaganyo wa gago: Tsamaya, o boele gape, mme moso ke tla neela, fa o na le ⟨את⟩ sone le wena.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ka"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wa re"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "go moaganyo wa gago"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tsamaya"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "o boele gape"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "mme moso"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla neela"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "fa o na le"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sone le wena",
+      "marks": "sone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:34.188581436Z",
+  "model": "glm-5.3"
+}

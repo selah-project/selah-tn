@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Dira dikeleo di le pedi tsa selefera, go dirilweng ka go betla ga o di dire ⟨את⟩; mme di tla nna tsa gago go balaletsa setshaba le go isa ⟨את⟩ ditshwaneng tsa go tsamaya.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsa gago"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "di le pedi"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "dikeleo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "go betlilweng"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o di dire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "dikeleo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "di tla nna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsa gago"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "go balaletsa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "le go isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshwaneng"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "ditshwana"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:27.874156896Z",
+  "model": "glm-5.3"
+}

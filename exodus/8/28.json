@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Farao a boele a kwadirisa ⟨את⟩ pelo ya gagwe le ka lekgetlo le, mme a sa romela ⟨את⟩ setjhaba.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "a kwadirisa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya gagwe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ka lekgetlo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:54.419841037Z",
+  "model": "glm-5.3"
+}

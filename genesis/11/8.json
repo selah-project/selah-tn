@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Yahwe a ba anamisa go tswa koo mo sefatlheng sa lefatshe lotlhe; mme ba emisa go aga toropo.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "a ba anamisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone"
+    },
+    {
+      "surface": "משם",
+      "gloss": "go tswa koo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatlheng sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe la"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ba emisa"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:51.714268537Z",
+  "model": "glm-5.3"
+}

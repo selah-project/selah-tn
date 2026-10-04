@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Gore wena, Yahwe, o maikhutlo a me; Elyone o beile bonno jwa gago.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "maikhutlo a me"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "o beile"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "bonno jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:46.906573037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme o tsamaya ka tsela ya dikgosi tsa Yisraele, mme o dira gore ⟨את⟩ Yuda le ⟨את⟩ baagi ba Yerushalayime ba gwele bosula, jaaka ntlo ya Ahabe e neng ya gwele bosula; mme gape ⟨את⟩ banne ba gago, ba ntlo ya rraago, ba ba botoka go wena, o ba bolaye.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "mme o tsamaya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ya dikgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "tsa Yisraele"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "mme o dira gore… ba gwele bosula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "baagi ba Yerushalayime"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baagi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayime"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "jaaka bosula jwa go gwele bosula jwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banne ba gago"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "banne ba gago"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rraago"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ba ba botoka"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "o ba bolaye"
+    }
+  ],
+  "timestamp": "2026-10-04T02:53:10.084213Z",
+  "model": "glm-5.3"
+}

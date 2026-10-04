@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme go ne go le jaana: fa Dawide le banna ba gagwe ba fihla Tsiqlage ka letsatsi la boraro, Ba-Amaleke ba ne ba tlhasetse kwa Borwa le kwa Tsiqlage, ba otla ⟨את⟩ Tsiqlage, mme ba e jele ka molelo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le jaana"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "fa ba fihla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba gagwe"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiqlage"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "la boraro"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "Ba-Amaleke"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "ba tlhasetse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Borwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiqlage"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiqlage"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiqlage"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ba e jele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (Tsiqlage)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:07:26.254875480Z",
+  "model": "glm-5.3"
+}

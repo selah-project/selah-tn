@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme banna bao ba ne ba ntsha ⟨את⟩ seatla sa bone, mme ba tlisa ⟨את⟩ Lote kwa go bone, mo ntlong, mme ⟨את⟩ lebati ba ne ba la tswalela.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "mme ba ne ba ntsha"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna bao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa bone"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "seatla sa bone"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mme ba tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lote"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa go bone"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "lebati"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "lebati"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ba ne ba la tswalela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:04.029044886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 146,
+  "translation": "Baka Yah, moya wa me; baka ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Baka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "baka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:54.342717887Z",
+  "model": "glm-5.3"
+}

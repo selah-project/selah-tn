@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Kgotsa e tlhasela mora, kgotsa e tlhasela morwadi — go ya ka katlholo eno go tla dirwa mo go ene.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Kgotsa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "e tlhasela"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "e tlhasela"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "go ya ka katlholo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "go tla dirwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:01.298136973Z",
+  "model": "glm-5.3"
+}

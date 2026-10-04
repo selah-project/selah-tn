@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "Mme rona — batho ba gago, le dipoo tsa motsamao wa gago — re tla go tumela go ya leruri, kokomana e nngwe le e nngwe; re tla bolelela dipoo tsa gago.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "mme rona"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "batho ba gago"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "le dipoo"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "motsamao wa gago"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "re tla go tumela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya leruri"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kokomana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le kokomana"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "re tla bolelela"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "dipoo tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:23.114678246Z",
+  "model": "glm-5.3"
+}

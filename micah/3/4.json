@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ka nako eo ba tla kua go Yahwe, mme a ka ba araba; mme o tla fitlha sefatlhego sa gagwe go bo le bone ka nako eo, ka gonne ba dirile bosula mo ditirong tsa bone.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "ba tla kua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a ka"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ba araba"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone (baeteledipele)"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "mme o tla fitlha"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefatlhego sa gagwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "go bo le bone"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaoka ba"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "dirile bosula"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "mo ditirong tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:02:24.919288063Z",
+  "model": "glm-5.3"
+}

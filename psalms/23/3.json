@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Moya wa me o a boa; o ntaisa mo ditseleng tsa tsedeke, ka ntlha ya leina la gagwe.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "o a boa"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "o ntaisa"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "mo ditseleng"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:32.567475076Z",
+  "model": "glm-5.3"
+}

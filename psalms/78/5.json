@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme o ne a tlhoma boikanye mo Yaakobo, mme a bea Torah mo Yisraele, eo a neng a e laela ⟨את⟩ bologi ba rona, gore ba bo bontshe bana ba bone.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tlhoma"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "boikanye"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "mo Yaakobo"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "mme Torah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mo Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bologi ba rona"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bologi ba rona"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "gor e ba bo bontshe"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bana ba bone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:26.962166747Z",
+  "model": "glm-5.3"
+}

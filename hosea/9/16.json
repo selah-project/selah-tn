@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Efrayime o kgwapilwe; modu wa bone o omile; ba ka se dire maungo. Ee, le fa ba ka belega, ke tlaa bolaya dilo tse di kgahlegang tsa mpeng ya bone.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "o kgwapilwe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "modu wa bone"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "o omile"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "maungo"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ba ka a di dira"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "le fa"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "ba ka belega"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "ke tlaa bolaya"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "dilo tse di kgahlegang"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "mpeng ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:03.903701931Z",
+  "model": "glm-5.3"
+}

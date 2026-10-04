@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 127,
+  "translation": "Jaaka misebe mo seatleng sa mogaka, jalo ke bana ba ba tlhageletseng mo botsalanong jwa botshwana.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Jaaka misebe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sa mogaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ke bana"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ba ba tlhageletseng mo botsalanong jwa botshwana"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:10.158886248Z",
+  "model": "glm-5.3"
+}

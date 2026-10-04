@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Fa Natene moporofeti a tla kwa go ene, morago ga goroga ga gagwe kwa Batsehabeng.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Fa a goroga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nate"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "goroga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Batseha"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:19.581772302Z",
+  "model": "glm-5.3"
+}

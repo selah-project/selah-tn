@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Sefatlhego se se bolelang kwa nageng e e senang batho: Baakanyang tselana ya Yahwe, ba nonotsheng kwa nagolokgolokgolo tsela ya Elohim ya rona.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sefatlhego"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "se se bolelang"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa nageng e e senang batho"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "baakanyang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tselana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ba nonotsheng"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "kwa nagolokgolokgolo"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ya Elohim ya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:42.250426563Z",
+  "model": "glm-5.3"
+}

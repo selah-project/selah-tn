@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme re tsereng ⟨את⟩ lefatshe la bone, mme ra se naya e le boswa go ba-Raubene, go ba-Gade, le go karolo ya kgaru ya ba-Manase.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Mme re tsereng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la bone"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lefatshe la bone"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "mme ra se naya"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "e le boswa"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "go ba-Raubene"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "go ba-Gade"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "le go karolo ya"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kgaru"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "ya ba-Manase"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:42.532081394Z",
+  "model": "glm-5.3"
+}

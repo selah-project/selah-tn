@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Setshaba se se itumedisitsweng ke se se nang se se seng jalo; setshaba se se itumedisitsweng ke se se nang Yahwe Elohim wa sone.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "setshaba se se itumedisitsweng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨setshaba⟩"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ke se se nang se se seng jalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "setshaba se se itumedisitsweng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨setshaba⟩"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "se se nang Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wa sone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:40.741487277Z",
+  "model": "glm-5.3"
+}

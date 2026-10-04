@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 112,
+  "translation": "O se ka wa tshaba ditaba tse mpe; pelo ya gagwe e tlhomile, e ikemetse go Yahwe.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "ditaba"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tse mpe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "tshaba"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e tlhomile"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "e ikemetse"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:51.572045629Z",
+  "model": "glm-5.3"
+}

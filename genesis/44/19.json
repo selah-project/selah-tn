@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Morena wa me o ne a botsa ⟨את⟩ makgoba a gagwe a re: A lo na le rra, kgotsa morwarrao?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "morena wa me"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "o ne a botsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makgoba a gagwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "makgoba a gagwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "היש",
+      "gloss": "a go na le"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "rra"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "אח",
+      "gloss": "morwarrao"
+    }
+  ],
+  "timestamp": "2026-10-03T21:30:02.162918951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Khizkiya a neela ⟨את⟩ selefera yotlhe e e neng e fitlhelwa mo tlhopheng ya Yahwe le mo ditorong tsa tlhopheng ya kgosi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mme a neela"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selefera yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "e e fitlhelwang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo tlhopheng ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "le mo ditorong tsa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tlhopheng ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:33.488694606Z",
+  "model": "glm-5.3"
+}

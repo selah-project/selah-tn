@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "O se ka wa tagwa wa tloga mo pontsheng ya gagwe; o se ka wa ema mo go se bosula; gonne sengwe le sengwe se a se ratang o se dira.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "tagwa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mo pontsheng ya gagwe"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "wa tloga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ema"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mo go se"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "a se ratang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o se dira"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:41.079026654Z",
+  "model": "glm-5.3"
+}

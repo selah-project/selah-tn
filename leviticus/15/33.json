@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "le ya nileng le didimama tsa kemedi ya yone, le ya bang, ⟨את⟩ didimama tsa gagwe, go monna le go mosadi, le go motho yo o robang le yo e sa siamang.",
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "le ya nileng le didimama"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "tsa kemedi ya yone"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "le ya bang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didimama tsa gagwe"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "didimama tsa gagwe"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "go monna"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "le go mosadi"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "le go motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "o robang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "yo e sa siamang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:16.103694602Z",
+  "model": "glm-5.3"
+}

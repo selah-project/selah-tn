@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "⟨את⟩ seno se ka go se jang mo go sengwe le sengwe se se mo metsing: sengwe le sengwe se se nang le lefuka le marapo-tlhapi, se ka go se jang.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seno"
+    },
+    {
+      "surface": "זה",
+      "gloss": "seno"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "se ka go se jang"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mo go sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mo metsing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se nang le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e nang le"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "lefuka"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "le marapo-tlhapi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "se ka go se jang"
+    }
+  ],
+  "timestamp": "2026-10-03T22:25:13.165780402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme motlhankedi wa motho wa Elohim a tsoga bo moso go tsoga, a tswa, mme bonang — mophato o dikiletsa ⟨את⟩ toropo, le dipitse le dikoloi tsa ntwa. Mme mosha wa gagwe a re go ene: Ao, mong wa me! Re dira jaang?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a tsoga bo moso"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "motlhankedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "go tsoga"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mophato"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "o dikiletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "le dipitse"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "le dikoloi tsa ntwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "mosha wa gagwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa me"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "jaang"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re dira"
+    }
+  ],
+  "timestamp": "2026-10-03T23:34:04.684917329Z",
+  "model": "glm-5.3"
+}

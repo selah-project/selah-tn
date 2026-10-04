@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Yahwe o katlhola ditshaba; o nkatlhole, Yahwe, go ya ka tsedeke ya me le go ya ka boitshoko jwa me jo bo mo go nna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "o katlhola"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "o nkatlhole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "go ya ka tsedeke ya me"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "le go ya ka boitshoko jwa me"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:37.312204994Z",
+  "model": "glm-5.3"
+}

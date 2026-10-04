@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Botsang se, ditshaba tsotlhe; tsibogelang, le wena ba ba dulang lefatshe,",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "botsang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "tsibogelang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba ba dulang"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:19.982558479Z",
+  "model": "glm-5.3"
+}

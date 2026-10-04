@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme go fela ga matsatsi, Kaine a tlisa mo dipeong tsa lefatshe minkha go Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go diraga"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "go fela ga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tlisa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaine"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "mo dipeong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:42.626041782Z",
+  "model": "glm-5.3"
+}

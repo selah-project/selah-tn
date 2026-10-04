@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Mme motho o tla re: Ruri go na le maungo a molatlhogi; ruri Elohim o na le gone, o atlhola lefatshe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme motho o tla re"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "maungo"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "a molatlhogi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "יש",
+      "gloss": "o na le gone"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "o atlhola"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:50.030262034Z",
+  "model": "glm-5.3"
+}

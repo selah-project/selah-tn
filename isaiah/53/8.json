@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Go tswa mo kgatelelong le mo katlholong o ne a tsewa; mme ka ⟨את⟩ kokomana ya gagwe, ke mang o ka akanyang? Gore o ne a kgaolwa mo lefatsheng la ba ba tshelang; ka phoso ya setshaba sa me o ne a thubega mo go ene.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "Go tswa mo kgatelelong"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "le mo katlholong"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o ne a tsewa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ka ⟨את⟩",
+      "marks": "kokomana ya gagwe"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "kokomana ya gagwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "o ka akanyang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "o ne a kgaolwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "la ba ba tshelang"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "ka phoso"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya setshaba sa me"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "o ne a thubega"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-04T00:02:19.911396606Z",
+  "model": "glm-5.3"
+}

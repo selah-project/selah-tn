@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Se ke wa ntseela mmogo le ba ba boka, le ba ba dirang bokgakapa; ba buang kagiso le baaganyana ba bone, mme bosula bo le mo pelong ya bone.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se ke wa"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ntseela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba boka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "און",
+      "gloss": "bokgakapa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ba buang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "baaganyana ba bone"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mme bosula"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "bo le mo pelong ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:29.149114123Z",
+  "model": "glm-5.3"
+}

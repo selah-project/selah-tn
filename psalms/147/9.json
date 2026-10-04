@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "O neelang phologolo ya gagwe senkgwe, le bana ba dikgore ba go bowa.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "o neelang"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "senkgwe sa yone"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "dikgore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "go bowa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:47.308261222Z",
+  "model": "glm-5.3"
+}

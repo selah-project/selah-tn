@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Go mokaedi. Wa Dawide. Sepaakgomo se re mo pelong ya gagwe: ga go na Elohim. Ba senyegile, ba dirile dilo tse di makgapha, ga go na yo o dirang se siameng.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go mokaedi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "sepaakgomo"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mo pelong ya gagwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ba senyegile"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ba dirile dilo tse di makgapha"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "dilo tse di makgapha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se siameng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:21.940982632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme a lebelela kafa le kafa, mme a bona gore go se na motho, mme a bolaya ⟨את⟩ Mošerayime yo, mme a mo fitlhela mo mohuting.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "a lebelela"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kafa le"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "kafa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošerayime yo"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mošerayime yo"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "a mo fitlhela"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "mo mohuting"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:34.493698149Z",
+  "model": "glm-5.3"
+}

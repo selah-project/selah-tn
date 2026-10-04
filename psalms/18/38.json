@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ke batla ba ba n tlhoyang, ke ba fithlela; mme ga ke boa go fitlhelela ba fela.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "ke batla"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ba ba n tlhoyang"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "ke ba fithlela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ke boa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlhelela"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ba fela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:08.766321055Z",
+  "model": "glm-5.3"
+}

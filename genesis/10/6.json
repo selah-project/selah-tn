@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme bana ba Khame: Kushe, le Mitsrayime, le Pute, le Kenae.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mme bana ba"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khame"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushe"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "le Mitsrayime"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "le Pute"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "le Kenae"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:38.562492752Z",
+  "model": "glm-5.3"
+}

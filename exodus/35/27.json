@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme baeteledipele ba ne ba isa ⟨את⟩ maje a shohame le ⟨את⟩ maje a a tlhatlositsweng, a a neng a tla bewa mo efode le mo kgetsi ya pelo.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "mme baeteledipele"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ba ne ba isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maje a shohame"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maje a"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shohame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "maje a a tlhatlositsweng"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maje a"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a a tlhatlositsweng"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "mo efode"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "le mo kgetsi ya pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:13.572421582Z",
+  "model": "glm-5.3"
+}

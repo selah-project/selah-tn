@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Molomo wa gagwe o a ladila ka dikgoloo, le mafelefele, le tshiamololo; fa tlase ga lumpo la gagwe go na le boiti le bosula.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dikgoloo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa gagwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o a ladila ka"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "le mafelefele"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "le tshiamololo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fa tlase ga"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "lumpo la gagwe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "boiti"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "le bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:47.954606401Z",
+  "model": "glm-5.3"
+}

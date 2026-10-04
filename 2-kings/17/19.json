@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Gape Yuda ga ⟨a⟩ boloka ⟨את⟩ melao ya Yahwe Elohim ya bone, mme ba tsamaya ka melawana ya Yisraele e ba neng ba e dira.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "melao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ya bone"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mme ba tsamaya"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "ka melawana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba neng ba e dira"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:24.531026988Z",
+  "model": "glm-5.3"
+}

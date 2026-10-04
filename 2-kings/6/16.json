@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme a re: Se ka wa tshoga, gore ba ba ⟨את⟩ rona ke ba bantsi go feta ba ba ⟨את⟩ bone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Se ka"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wa tshoga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bantsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "go feta ba"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:34:04.685090759Z",
+  "model": "glm-5.3"
+}

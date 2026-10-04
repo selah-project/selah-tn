@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Yo o tlhobilweng ke maswe o a nyeditswe mo mesong ya gagwe, mme o tlotla ⟨את⟩ ba ba tsholang Yahwe; a ikana go bola, mme ga a phetohe.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "yo o tlhobilweng ke maswe"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mo mesong ya gagwe"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "o a nyeditswe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba tsholang Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ba ba tsholang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "o tlotla"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a ikana"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "go bola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga a"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "phetohe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:32.137499150Z",
+  "model": "glm-5.3"
+}

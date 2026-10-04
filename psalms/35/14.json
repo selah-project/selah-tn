@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Jaaka moetaledi, jaaka kgaenye, ke ne ke tsamaya; jaaka moanelwamedi wa mmagwe, ke ne ke ikhutsafatsa le go nna mo tlhokomolohong.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "jaaka moetaledi"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "jaaka kgaenye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ke ne ke tsamaya"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "jaaka moanelwamedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wa mmagwe"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mo tlhokomolohong"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "ke ne ke ikhutsafatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:22.530051957Z",
+  "model": "glm-5.3"
+}

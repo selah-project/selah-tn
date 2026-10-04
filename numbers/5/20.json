@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme wena, fa o tswafetse ka fa tlase ga mong wa gago, le fa o tlhotse, mme monna a neetse mo go wena ⟨את⟩ go robala ga gagwe, go seng ga mong wa gago —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "o tswafetse"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "mong wa gago"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "le fa"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "o tlhotse"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a neetse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go robala ga gagwe"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "go robala ga gagwe"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "go seng ga"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "mong wa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:06:30.153069157Z",
+  "model": "glm-5.3"
+}

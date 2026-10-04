@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme jalo a dira mo go basadi ba gagwe botlhe ba dinaga tse dingwe, ba neng ba fisa dinono le go dua medimo ya tsone.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Mme jalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mo go botlhe"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basadi ba gagwe"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "ba dinaga tse dingwe"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "ba fisa dinono"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "le go dua"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "medimo ya tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:51.173521625Z",
+  "model": "glm-5.3"
+}

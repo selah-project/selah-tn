@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Mme a ba neela dinokwane tsa ditshaba, mme tiro ya ditshaba ba e rua.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a ba neela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "dinokwane"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tsa ditshaba"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "mme tiro"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ya ditshaba"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ba e rua"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:20.655354759Z",
+  "model": "glm-5.3"
+}

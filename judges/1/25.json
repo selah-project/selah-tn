@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "A ba bontsha ⟨את⟩ moago wa toropo, mme ba tlhasela ⟨את⟩ toropo ka molomo wa tshaka; mme ⟨את⟩ monna le ⟨את⟩ botlhe ba lwapeng la gagwe ba ba romela.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "a ba bontsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moago"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "moago"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa toropo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mme ba tlhasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "botlhe ba lwapeng la gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "ba lwapeng la gagwe"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba ba romela"
+    }
+  ],
+  "timestamp": "2026-10-03T22:45:13.583804612Z",
+  "model": "glm-5.3"
+}

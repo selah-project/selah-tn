@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 137,
+  "translation": "Re ka opela jang ⟨את⟩ sefoko sa Yahwe, mo lefatsheng la sechebego?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "jang"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "Re ka opela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefoko sa Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "la sechebego"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:36.597917122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Ga tharo ka ngwaga, banna ba gago botlhe ba tlaa bona ⟨את⟩ sefatsheng sa Adonai Yahwe, Elohim wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Ga tharo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dikgwedi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka ngwaga"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ba tlaa bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "banna ba gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefatsheng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatsheng sa"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:49.880069750Z",
+  "model": "glm-5.3"
+}

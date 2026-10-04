@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Go dira thato ya gago, Elohim wa me, ke a e rata; mme Toraha ya gago e mo teng ga me.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "thato ya gago"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ke a e rata"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "mme Toraha ya gago"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:03.452775086Z",
+  "model": "glm-5.3"
+}

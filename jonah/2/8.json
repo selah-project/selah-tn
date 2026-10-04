@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Fa moya wa me o ne o palelwa ka mo go nna, ka gopola ⟨את⟩ Yahwe; mme thapelo ya me e ne ya tsena go ya go wena, kwa hekeleng ya gago ya boitshepo.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "fa o palelwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka mo go nna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ka gopola"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "mme e ne ya tsena"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go ya go wena"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hekele"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya gago ya boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:01.533671368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Ke eng fa o re lebala ka bosikhale, o re tlogela ka nako e telele ya malatsi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ke eng fa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka bosikhale"
+    },
+    {
+      "surface": "תשכחנuo",
+      "gloss": "o re lebala"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "o re tlogela"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ka nako e telele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya malatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:25.260875538Z",
+  "model": "glm-5.3"
+}

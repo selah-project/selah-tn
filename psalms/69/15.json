@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Ntolokole mo letshwereng, mme o seka wa ntshidika; ntolokole mo ba ba mo tlhoyang, le mo marefkeng a metsi",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ntolokole"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "mo letshwereng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o seka wa"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ntshidika"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "ntolokole"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "mo ba ba mo tlhoyang"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "le mo marefkeng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a metsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:29.448976730Z",
+  "model": "glm-5.3"
+}

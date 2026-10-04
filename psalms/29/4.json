@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Lentswe la Yahwe ka maatla; lentswe la Yahwe ka botlhale.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ka maatla"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ka botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:16.079038523Z",
+  "model": "glm-5.3"
+}

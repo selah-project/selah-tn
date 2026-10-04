@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Akhatse a re: Nka se ke nka kopa, gape nka se ke nka leka ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhatse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka se"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "kopa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gape nka se"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "leka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:05.425824058Z",
+  "model": "glm-5.3"
+}

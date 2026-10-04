@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 76,
+  "translation": "O tswa kwa magodimong wa utlisa ⟨את⟩⟨the⟩ katlholo; lefatshe le ne le tshaba, mme la nna didimetseng.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "wa utlisa"
+    },
+    {
+      "surface": "דין",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "le ne le tshaba"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "mme la nna didimetseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:40.401657083Z",
+  "model": "glm-5.3"
+}

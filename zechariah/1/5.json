@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Borarre kae ⟨bone⟩? Mme baporofeti, ba tla phela ka bosikhale?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "borarre"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨bone⟩"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "mme baporofeti"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "ka bosikhale"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ba tla phela"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:20.049707539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "Yahwe, Elohim Tsebaote, o re busetse; o phadime sefathego sa gago, mme re tla bolokwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "o re busetse"
+    },
+    {
+      "surface": "האר",
+      "gloss": "o phadime"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefathego sa gago"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "mme re tla bolokwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:19.556218666Z",
+  "model": "glm-5.3"
+}

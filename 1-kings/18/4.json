@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme go ne go le jalo: fa Izabele a sena go ripsa ⟨את⟩ baporofeti ba Yahwe, Obadiahu a tsaya baporofeti ba le lekgolo, a ba fitlhisa, masome a matlhano a batho mo phaposing, a ba fuedisa ka senkgwe le metsi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le jalo"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "fa a sena go ripsa"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baporofeti ba Yahwe"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "baporofeti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadiahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ba le lekgolo"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "baporofeti"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "a ba fitlhisa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masome a matlhano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a batho"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mo phaposing"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "a ba fuedisa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:55.169539845Z",
+  "model": "glm-5.3"
+}

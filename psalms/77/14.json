@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Elohim, mo boitshepong ke tsela ya gago; ke ke El yo mogolo jaaka Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mo boitshepong"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya gago"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke ke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yo mogolo"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "jaaka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:08.800904715Z",
+  "model": "glm-5.3"
+}

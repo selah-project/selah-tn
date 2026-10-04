@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme a tsamaea a lwa le Bafaliseti, a phutlhula ⟨את⟩ botlhaga jwa Gata, le ⟨את⟩ botlhaga jwa Yabne, le ⟨את⟩ botlhaga jwa Ashdode; mme a aga metse kwa Ashdode le mo Bafaliseting.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Mme a tsamaea"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "a lwa"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "le Bafaliseti"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "a phutlhula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botlhaga"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "botlhaga"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "botlhaga"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "botlhaga"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yabne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "botlhaga"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "botlhaga"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdode"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "kwa Ashdode"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "mo Bafaliseting"
+    }
+  ],
+  "timestamp": "2026-10-04T02:54:50.509268536Z",
+  "model": "glm-5.3"
+}

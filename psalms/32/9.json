@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Se ke tsa nna jaaka pitse kgotsa jaaka tonki, e e sa tlhaloganyeng; ka metlego le dithapo, e le diaparo tsa yone, go di thibela, e seng go atamela go wena.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se ke tsa"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "nna"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "jaaka pitse"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "jaaka tonki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "e e sa"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "tlhaloganyeng"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "ka metlego"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "le dithapo"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "e le diaparo tsa yone"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "go di thibela"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "go atamela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:18.511501166Z",
+  "model": "glm-5.3"
+}

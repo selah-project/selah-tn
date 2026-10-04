@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme matlhako a dikgoro a ne a thothoka ka modumo wa mo go biditseng; mme ntlo ya ne ya tlala mosipa.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "a ne a thothoka"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "matlhako"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "a dikgoro"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "ka modumo wa"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "mo go biditseng"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ya ne ya tlala"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "mosipa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:42.588966930Z",
+  "model": "glm-5.3"
+}

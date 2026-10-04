@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme kgosi ya Mitsrayime e ne ya mo ntsha kwa Yerushalayime, mme ya kgotsofatsa ⟨את⟩ lefatshe ka dikaripa di le lekgolo tsa selefera le karipa e le nngwe ya gauta.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "e ne ya mo ntsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "ya kgotsofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "di le lekgolo"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "dikaripa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tsa selefera"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "le karipa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya gauta"
+    }
+  ],
+  "timestamp": "2026-10-04T02:59:38.431101699Z",
+  "model": "glm-5.3"
+}

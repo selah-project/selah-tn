@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mogerogi wa mo gare ga gago o tla go feta ka kwa godimo, godimo le godimo, mme wena o tla wa tlase, tlase le tlase.",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "mogerogi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mo gare ga gago"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "o tla go feta ka kwa godimo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "godimo"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "le godimo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "o tla wa tlase"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tlase"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "le tlase"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:23.124867090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Ga a ntsha matlho a gagwe mo go yo o siameng; mme le dikgosi mo setulong ⟨את⟩ o ba baya, a ba baya ka go sa feleng, a ba godisa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "mo go yo o siameng"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matlho a gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "dikgosi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "mo setulong"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "a ba baya"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka go sa feleng"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "a ba godisa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:03:32.407818507Z",
+  "model": "glm-5.3"
+}

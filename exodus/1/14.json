@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ba dira gore ⟨את⟩ bophelo jwa bone bo nne jwa botlhoko ka go diriwa go boima — mo seraleng le mo matlapeng a kago, le mo go diriweng go tshelela kwa masimong; go dira ga bone ⟨את⟩ gotlhe, leo ba ba neng ba ba pateleditswe go se dira, e ne e le ka bosula jo bo tseneletseng.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "ba dira go nna jwa botlhoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo jwa bone"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "bophelo jwa bone"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "ka go diriwa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "go boima"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "mo seraleng"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "le mo matlapeng a kago"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le mo go diriweng go tshelela"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "go diriwa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwa masimong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go dira ga bone gotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gotlhe"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "go dira ga bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ba ba pateleditswe go se dira"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "ka bosula jo bo tseneletseng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:07.715313033Z",
+  "model": "glm-5.3"
+}

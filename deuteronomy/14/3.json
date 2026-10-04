@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Se ke wa ja sepe se se makatsang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "se se makatsang"
+    }
+  ],
+  "timestamp": "2026-10-03T22:25:23.841744148Z",
+  "model": "glm-5.3"
+}

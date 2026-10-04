@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mo mpa o tshwere ⟨את⟩ mogolowa ka lesego; mme ka nonofo ya gagwe o lwile le ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "mo mpa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "o tshwere ka lesego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogolowa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mogolowa"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "mme ka nonofo ya gagwe"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "o lwile le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:29.894637592Z",
+  "model": "glm-5.3"
+}

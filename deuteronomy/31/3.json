@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Yahwe, Elohim wa gago, ene o tlaa feta pele ga gago; ene o tlaa senya ⟨את⟩ ditshaba tse go tswa pele ga gago, o di rue; Yehoshua, ene o tlaa feta pele ga gago, jaaka Yahwe a buile.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "o tlaa feta"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "o tlaa senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshaba tse"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tse"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "go tswa pele ga gago"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "mme o di rue"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "o tlaa feta"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:13.429929188Z",
+  "model": "glm-5.3"
+}

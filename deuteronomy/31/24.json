@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme e ne e le fa Moshe a sena go fetsa go kwala ⟨את⟩ mafoko a Torah eno mo bukeng, go fitlhelela a feditse.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e ne e le"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "fa a sena go fetsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "go kwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a Torah eno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "a Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bukeng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlhelela"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "a feditse"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:49.206996959Z",
+  "model": "glm-5.3"
+}

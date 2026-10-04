@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "A ba leboge Yahwe ka ⟨את⟩ hesede ya gagwe, le dilo tsa gagwe tse di makatsang go bana ba batho.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "A ba leboge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ka hesede ya gagwe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le dilo tsa gagwe tse di makatsang"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:33.570999810Z",
+  "model": "glm-5.3"
+}

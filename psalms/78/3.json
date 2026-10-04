@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Tse re di utlwileng le go di itse, le borre ba rona ba di boleletse rona.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Tse"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "re di utlwileng"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "le go di itse"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "le borre ba rona"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ba di boleletse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:43.268815119Z",
+  "model": "glm-5.3"
+}

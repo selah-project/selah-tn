@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Mme a bala ⟨את⟩ setshaba sa gagwe thata, mme a se dira go nna le maatla a a fetang a baba ba sone.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "mme a bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sa gagwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "ועצמהו",
+      "gloss": "mme a se dira go nna le maatla"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "a a fetang a baba ba sone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:20.429627273Z",
+  "model": "glm-5.3"
+}

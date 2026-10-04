@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "⟨את⟩ ruakh ya borwa o ne a e ela, dikana tse di makgolo a matlhano, ka kana ya go ela.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya borwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ya borwa"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "o ne a e ela"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "di"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a matlhano"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "dikana"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ka kana ya"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "go ela"
+    }
+  ],
+  "timestamp": "2026-10-04T03:16:50.589199552Z",
+  "model": "glm-5.3"
+}

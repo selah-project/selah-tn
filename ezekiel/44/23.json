@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Mme ba tla ruta ⟨את⟩ batho ba me magareng ga boitshepo le se se tlwaelegileng, le magareng ga se se sa hloekang le se se hloekileng ba ba tlhalosa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "batho ba me"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "batho ba me"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "ba tla ruta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "le se se tlwaelegileng"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le magareng ga"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "se se sa hloekang"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "se se hloekileng"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "ba ba tlhalosa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:51:32.060926749Z",
+  "model": "glm-5.3"
+}

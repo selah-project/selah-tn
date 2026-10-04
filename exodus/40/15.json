@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme o ba tlodisa jaaka o tloditseng ⟨את⟩ rraabone, mme ba dire boaporofeti go nna; mme e tla nna tlodiso ya bone, e tla nna boruti jo bo sa feleng, go malapa a bone.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "o ba tlodisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "o tloditseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraabone"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "rraabone"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "ba dire boaporofeti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "להית",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ya bone"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "tlodiso ya bone"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "boruti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "jo bo sa feleng"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "go malapa a bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:44.110756456Z",
+  "model": "glm-5.3"
+}

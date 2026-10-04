@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme fa ⟨the⟩ maru a sa gole, ba ne ba sa tsamae go fitlha letsatsi le a golang ka lona.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "a sa gole"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "maru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "ba tsamae"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "a golang ka lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:23.943041140Z",
+  "model": "glm-5.3"
+}

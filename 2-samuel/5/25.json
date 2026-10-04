@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Dawide a dira jalo, jaaka Yahwe a mo laetse, mme a kgwisa ⟨את⟩ Bafiliste go tloga kwa Gebga go fitlha a tsena kwa Gezere.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira jalo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "a mo laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a kgwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bafiliste"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafiliste"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "go tloga kwa Gebga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "באך",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "kwa Gezere"
+    }
+  ],
+  "timestamp": "2026-10-03T23:09:14.735062246Z",
+  "model": "glm-5.3"
+}

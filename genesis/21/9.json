@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Sara a bona ⟨את⟩ morwa wa Hagare ya Mitsrayime, yo a neng a mo belega go Abrahame, a tshameka.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wa Hagare"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ya Mitsrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a mo belega"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "go Abrahame"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "a tshameka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:23.297325344Z",
+  "model": "glm-5.3"
+}

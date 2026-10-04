@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme o tlaa re go setshaba se: Che, go bua Yahwe: Bonang, ke beela pele ga lona ⟨את⟩ tsela ya botshelo le ⟨את⟩ tsela ya loso.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "o tlaa re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Che"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Bonang, ke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ke beela"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela ya botshelo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ya botshelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsela ya loso"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ya loso"
+    }
+  ],
+  "timestamp": "2026-10-04T00:16:18.581011609Z",
+  "model": "glm-5.3"
+}

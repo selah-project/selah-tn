@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme o ntshe lefolere, mme o tswale tsela mo go ba ba n tlolang morago; o re go moyeng wa me: Pholoso ya gago ke me.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "mme o ntshe"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lefolere"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "mme o tswale tsela"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ba ba n tlolang morago"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "go moyeng wa me"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "pholoso ya gago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:53.706240772Z",
+  "model": "glm-5.3"
+}

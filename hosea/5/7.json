@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Ba ne ba tsietse Yahwe, hobane ba begetswe bana ba mafaratlhatlha; honajwale kgwedi e tla ba ja bona le ⟨את⟩ dikarolo tsa bona.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ba ne ba tsietse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ba mafaratlhatlha"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ba begetswe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "honajwale"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "e tla ba ja"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikarolo tsa bona"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "dikarolo tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:48.725550374Z",
+  "model": "glm-5.3"
+}

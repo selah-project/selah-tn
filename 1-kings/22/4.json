@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme a re go Yehoshafata: A o tla tsamaya le nna ⟨את⟩ go lwa Ramote ya Gilataro? Mme Yehoshafata a re kgosing ya Yisraele: Nna ke jwa tsamaiso ya gago — batho ba me ke batho ba gago, pitse ya me ke pitse ya gago.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafata"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "a o tla tsamaya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "le nna ⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramote"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Gilataro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosing ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "jwa tsamaiso ya me"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ya gago"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "batho ba me"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "batho ba gago"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "pitse ya me"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "pitse ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:17.676611139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 61,
+  "translation": "Re Elohim, sefoko sa me; theeletsa thapelo ya me.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "sefoko sa me"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "theeletsa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:21.846849354Z",
+  "model": "glm-5.3"
+}

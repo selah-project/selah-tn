@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Yahwe a bua le Moshe: moetapele a le mongwe ka letsatsi, moetapele a le mongwe ka letsatsi, ba tlise ⟨את⟩ mpho ya bone ya go tlhomiwa ga altare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "moetapele"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "moetapele"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ba tlise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya bone"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "mpho ya bone"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "ya go tlhomiwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    }
+  ],
+  "timestamp": "2026-10-03T22:05:49.047869428Z",
+  "model": "glm-5.3"
+}

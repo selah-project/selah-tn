@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Letsatsi lengwe le lengwe fa ke tshoga, mo go wena ke tla tshepa.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "fa ke tshoga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ke tla tshepa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:55.226777304Z",
+  "model": "glm-5.3"
+}

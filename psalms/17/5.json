@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Dikgato tsa me di tlhoma mo ditseleng tsa gago; ga go na se maoto a me a ka se noma.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "di tlhoma"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "dikgato tsa me"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "mo ditseleng tsa gago"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "a noma"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "maoto a me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:24.950711163Z",
+  "model": "glm-5.3"
+}

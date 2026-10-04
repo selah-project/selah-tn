@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Souru se diutung se le sone go nna, tau kwa maundlong.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "souru"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "se diutung"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se le sone"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "kwa maundlong"
+    }
+  ],
+  "timestamp": "2026-10-04T02:10:30.730698310Z",
+  "model": "glm-5.3"
+}

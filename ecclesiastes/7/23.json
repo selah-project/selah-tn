@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Sengwe le sengwe se ke se lekile ka bohlale; ke ne ke re ke tla nna le bohlale, mme e ne e le kgakala go nna.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sengwe le sengwe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "ke se lekile"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ka bohlale"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "ke tla nna le bohlale"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mme e"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "e ne e le kgakala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:15.722418965Z",
+  "model": "glm-5.3"
+}

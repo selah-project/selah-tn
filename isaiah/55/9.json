@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Gore jaaka magodimo a kwa godimo ga lefatshe, jalo ditsela tsa me di kwa godimo ga ditsela tsa lona, le dikgopolo tsa me go feta dikgopolo tsa lona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "di kwa godimo ga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "di kwa godimo ga"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tsa me"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "ditsela tsa lona"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "le dikgopolo tsa me"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "dikgopolo tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:02:00.711052621Z",
+  "model": "glm-5.3"
+}

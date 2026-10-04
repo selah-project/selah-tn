@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Gonne o ne a tlhatlometsa sehuba sa gagwe go nna, mme ka matsatsi a me otlhe ke tla mo bitsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "o ne a tlhatlometsa"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sehuba sa gagwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "mme ka matsatsi a me otlhe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla mo bitsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:17.408087972Z",
+  "model": "glm-5.3"
+}

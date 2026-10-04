@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme mongwe le mongwe o tla nna a ntse kafa tlase ga mofufu wa gagwe le kafa tlase ga mokgopo wa gagwe, mme ga go ope ya tshosang; gonne molomo wa Yahwe Tsebaote o buile.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "mme ba tla nna ba ntse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kafa tlase ga"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "mofufu wa gagwe"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "le kafa tlase ga"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "mokgopo wa gagwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "ope ya tshosang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:02:38.254149056Z",
+  "model": "glm-5.3"
+}

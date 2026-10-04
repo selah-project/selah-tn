@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Ke re: El wa me, se ka wa ntsea mo gareng ga malatsi a me; mo gareng ga megwaho le megwaho dingwaga tsa gago.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ke re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wa me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "wa ntsea"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "mo gareng ga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi a me"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mo gareng ga megwaho"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "le megwaho"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "dingwaga tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:44.068942644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Mme Elohim wa rona o kwa magodimeng; sengwe le sengwe se a se ratang o se dirile.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Mme Elohim wa rona"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimeng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a se ratang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o se dirile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:19.742421312Z",
+  "model": "glm-5.3"
+}

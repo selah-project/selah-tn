@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 111,
+  "translation": "Ditiro tsa Yahwe ke tse dikgolo, di batliwa ke ba ba di ratang ka botlhe.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "dikgolo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ditiro tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "di batliwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka botlhe"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "ba ba di ratang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:10.024566974Z",
+  "model": "glm-5.3"
+}

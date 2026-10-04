@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Gore hesede ya gago ke kgolo go feta ⟨⟨the⟩⟩ mo go nna, mme o ntshitse moya wa me go tswa go Sheole ya kwa tlase.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kgolo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "mme o ntshitse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "go tswa go Sheole"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ya kwa tlase"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:13.593477368Z",
+  "model": "glm-5.3"
+}

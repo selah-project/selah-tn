@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Go boammaaruri, Yahwe, dikgosi tsa Ashure di ile tsa senya ⟨את⟩ ditshaba tsotlhe le ⟨את⟩ lefatshe la tsone.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Go boammaaruri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "di ile tsa senya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshaba tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefatshe la tsone"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lefatshe la tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:56:05.093905012Z",
+  "model": "glm-5.3"
+}

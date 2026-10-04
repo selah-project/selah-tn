@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ba tla tla, mme ba bolele tsedeko ya gagwe go setshaba se se tlang go belegwa, gore o ne a se dira.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Ba tla tla"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "mme ba bolele"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedeko ya gagwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "go setshaba"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "se se tlang go belegwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ne a se dira"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:09.445537384Z",
+  "model": "glm-5.3"
+}

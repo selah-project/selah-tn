@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Gore ba tsamaye ka melawana ya me, mme ba sireletse ⟨את⟩ dikatlholo tsa me, mme ba ⟨את⟩ di dira; mme ba tla nna setshaba sa me, mme nna ke tla nna Elohim wa bone.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ka melawana ya me"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tsamaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "dikatlholo tsa me"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikatlholo tsa me"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ba sireletse"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "mme ba di dira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ di"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme ba tla nna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa me"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke tla nna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wa bone"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T00:35:45.914970664Z",
+  "model": "glm-5.3"
+}

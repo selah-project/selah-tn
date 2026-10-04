@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Go fologa ga me ga me o o balile ⟨את⟩; baya dikgobo tsa me mo sejaneng sa gago; a ga se jalo, di mo pukung ya gago?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "go fologa ga me"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "o o balile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "go fologa ga me"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "baya"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "dikgobo tsa me"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "mo sejaneng sa gago"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a ga se jalo"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "mo pukung ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:24.049982420Z",
+  "model": "glm-5.3"
+}

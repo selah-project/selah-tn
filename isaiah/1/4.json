@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Masetlapelo, setshaba se se nang le dibe, batho ba ba tlaleletseng molato, peo ya ba baka, bana ba ba senyang! Ba tlogetse ⟨את⟩ Yahwe, ba nyontse ⟨את⟩ Yo o Boitshepo wa Yisraele, ba furile ba kgabagare kwa morago.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Masetlapelo"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "se se nang le dibe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ba ba tlaleletseng"
+    },
+    {
+      "surface": "עון",
+      "gloss": "molato"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo ya"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ba baka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "ba ba senyang"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Ba tlogetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ba nyontse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yo o Boitshepo wa Yisraele"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Yo o Boitshepo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ba furile ba kgabagare"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kwa morago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:03.587091909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme le tlhoke melawana ya me, mme le e dire ⟨את⟩: nna ke Yahwe, yo lo itshepisang.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Mme le tlhoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melawana ya me"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melawana ya me"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme le e dire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "melawana ya me"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "yo lo itshepisang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:56.241534740Z",
+  "model": "glm-5.3"
+}

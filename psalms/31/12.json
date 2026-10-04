@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mo go ba ba ntseregang ka botlhoko otlhe ke nnile matlhabisa ditlhong, le thata mo go ba ba mmane; le go tshwenya ba ba ntsalang: ba ba nbonang kwa ntle ba tshabile go tswa mo go nna.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "mo go otlhe ba"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ba ntseregang ka botlhoko"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke nnile"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "matlhabisa ditlhong"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "le mo go ba ba mmane"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "le go tshwenya"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "ba ba ntsalang"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ba ba nbonang"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kwa ntle"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ba tshabile"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:49.232674719Z",
+  "model": "glm-5.3"
+}

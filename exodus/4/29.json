@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Moshe le Aharone ba ya, ba phutha ⟨את⟩ bagolo botlhe ba bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ba phutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagolo botlhe ba bana ba Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:55.340108964Z",
+  "model": "glm-5.3"
+}

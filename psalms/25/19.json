@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Lebelela ba ba mo tlhoyang, gonne ba a ntlhoka, mme ba ntlhoya ka go tlhoya ga pogo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "lebelela"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ba a ntlhoka"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "ka go tlhoya ga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "pogo"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "ba ntlhoya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:28.790776992Z",
+  "model": "glm-5.3"
+}

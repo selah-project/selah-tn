@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mo bopharaling jwa botlhaga jwa legae, mo tseleng ya kwa botlhabatsatsi, fa pele ga sekgala se se kgaogileng le fa pele ga kago, go ne go na le dilwana.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "mo bopharaling jwa"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "botlhaga"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ja legae"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mo tseleng ya"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "kwa botlhabatsatsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "sekgala se se kgaogileng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go ya go"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "kago"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "go ne go na le dilwana"
+    }
+  ],
+  "timestamp": "2026-10-04T00:48:13.796027463Z",
+  "model": "glm-5.3"
+}

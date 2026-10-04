@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Go tlhotlheletsa ba bokafoo ba kgaphelwe katlholo, le go utswa tshiamiso ya ba ba humanegileng ba setshaba sa me, gore basadi ba tlhokafetse banna e nne tlhaga ya bone, mme ⟨את⟩ bana ba se nang batsadi ba ba tlhotle.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "go tlhotlheletsa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ba bokafoo kwa katlholong"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ba bokafoo"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "le go utswa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tshiamiso"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ya ba ba humanegileng"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ba setshaba sa me"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "gore e nne"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "basadi ba tlhokafetse banna"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "tlhaga ya bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba se nang batsadi"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "bana ba se nang batsadi"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "ba ba tlhotle"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:14.098329687Z",
+  "model": "glm-5.3"
+}

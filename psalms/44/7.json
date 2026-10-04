@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Gore se ke ka bowe ya me ke ikanya, mme tshaka ya me ga e a ka ya ntlholosa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ka bowe ya me"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ke ikanya"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "mme tshaka ya me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga e a ka ya"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "ya ntlholosa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:34.972279695Z",
+  "model": "glm-5.3"
+}

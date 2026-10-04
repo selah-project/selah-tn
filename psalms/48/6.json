@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Ba bone, ba tshosa thata; ba tshwanelwa ke letshogo, ba tlabalabetse.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ba bone"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ba tshosa thata"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ba tshosa thata"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ba tshwanelwa ke letshogo"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "ba tlabalabetse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:28.436257801Z",
+  "model": "glm-5.3"
+}

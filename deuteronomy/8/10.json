@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme o tla ja, o tla a tlala, mme o tla a lo kgodisa ⟨את⟩ Yahwe Elohim wa gago ka lefatshe le le siameng leo a go neileng lona.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "mme o tla ja"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "o tla a tlala"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "mme o tla a lo kgodisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "le le siameng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a go neileng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:23.398584228Z",
+  "model": "glm-5.3"
+}

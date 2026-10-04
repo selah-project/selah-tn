@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Fa rre le mme ba ka ntlogela, Yahwe o tlaa nkgoboketsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rre"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "le mme"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "ba ka ntlogela"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "o tlaa nkgoboketsa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:59.776941809Z",
+  "model": "glm-5.3"
+}

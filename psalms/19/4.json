@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Ga go lefoko, mme ga go mafoko; go sena lentswe la one le utlwagalang.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "go sena"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "le utlwagalang"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "lentswe la one"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:57.901130558Z",
+  "model": "glm-5.3"
+}

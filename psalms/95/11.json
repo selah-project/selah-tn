@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 95,
+  "translation": "Ke ne ke ikana ka bogale jwa me: Ba ka ke ba tsena kwa boikhutsong jwa me.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ke ne"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ikana"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ka bogale jwa me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ba ka ke ba"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "boikhutsong jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:33.960268813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "A atlhole setshaba sa gago ka tsedeke, le ba humanegileng ba gago ka katlholo.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "a atlhole"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "le ba humanegileng ba gago"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka katlholo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:05.593460732Z",
+  "model": "glm-5.3"
+}

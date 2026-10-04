@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mang yo o ka mphego mo nageng e nnyе matlo a badisa? Mme ke tla tlogela ⟨את⟩ setshaba sa me, ke tla tsamaya ⟨את⟩ fa go bone; gonne bone botlhe ke ba nyadišang, mokgatlho wa ba ba se nang boikanyego.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Mang"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "yo o ka mphego"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo nageng"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "matlo a boikhutso"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "a badisa"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "Mme ke tla tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sa me"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ke tla tsamaya"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ fa go bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "ba nyadišang"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "mokgatlho"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ba ba se nang boikanyego"
+    }
+  ],
+  "timestamp": "2026-10-04T00:11:56.600809993Z",
+  "model": "glm-5.3"
+}

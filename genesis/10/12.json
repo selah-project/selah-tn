@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "le ⟨את⟩ Reseten, magareng ga Nineve le Kalakh — e ke toropo e kgolo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Reseten"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Reseten"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e ke"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:18.904575383Z",
+  "model": "glm-5.3"
+}

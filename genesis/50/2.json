@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme Yosefe a laela ⟨את⟩ makgoba a gagwe, ⟨את⟩ bongaka, gore ba mobole ⟨את⟩ rraagwe; mme bongaka bo bola ⟨את⟩ Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makgoba a gagwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "makgoba a gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bongaka"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "bongaka"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "gore ba mobole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraagwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "bo bola"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "bongaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:07.508318053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "A moulelo wa me o jele kgodiso ya gago, letsatsi lotlhe kgodiso ya gago e ntlhafatse.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "o jele"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moulelo wa me"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "kgodiso ya gago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "kgodiso ya gago e ntlhafatse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:14.587063814Z",
+  "model": "glm-5.3"
+}

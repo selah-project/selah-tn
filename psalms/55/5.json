@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Pelo ya me e a tlhatloga ka fa molemeng wa me, mme dikotsinyana tsa loso di ne tia fa godimo ga me.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "e a tlhatloga"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka fa molemeng wa me"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "mme dikotsinyana tsa loso"
+    },
+    {
+      "surface": "מות",
+      "gloss": "loso"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "di ne tia"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fa godimo ga me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:16.528947080Z",
+  "model": "glm-5.3"
+}

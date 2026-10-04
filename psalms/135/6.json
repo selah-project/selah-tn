@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Sengwe le sengwe se se nang se Yahwe o se ratang, o se dirile kwa magodimong le kwa lefatsheng, kwa mawatleng le mo bonnjong jotlhe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o se ratang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o se dirile"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "le kwa lefatsheng"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kwa mawatleng"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le jotlhe"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "bonnjo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:45.899259185Z",
+  "model": "glm-5.3"
+}

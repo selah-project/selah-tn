@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ba phuthetse mo go tsone diaparo tsa mmala wa tola'at shane, mme ba phuthe ⟨את⟩ ka sephuthelo sa letlalo la takhashe, mme ba beya ⟨את⟩ matshwaro a yone.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "ba phuthetse"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tola'at"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shane"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ba phuthe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ka sephuthelo sa letlalo la takhashe"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ka sephuthelo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sa letlalo"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "la takhashe"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ba beya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matshwaro a yone"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "matshwaro a yone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:11.824957373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Ka letsatsi la kgosi ya rona, babusi ba mo bakile ka motsu wa bojalwa; o ne a ntsha seatla sa gagwe le ⟨את⟩ ba ba mo tshwenyang.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "la kgosi ya rona"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ba mo bakile"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "babusi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ka motsu"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "wa bojalwa"
+    },
+    {
+      "surface": "משך",
+      "gloss": "o ne a ntsha"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba mo tshwenyang"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "le ba ba mo tshwenyang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:17:11.240844739Z",
+  "model": "glm-5.3"
+}

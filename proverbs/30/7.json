@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Dilo tse pedi ke baditswe go tswa ⟨את⟩ mo go wena; o se ka wa di gana go tswa mo go nna pele ke tlhokafala.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dilo tse pedi"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ke baditswe"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "go tswa ⟨את⟩ mo go wena",
+      "marks": "dilo tse pedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "wa di gana"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa mo go nna"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ke tlhokafala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:51:52.300015627Z",
+  "model": "glm-5.3"
+}

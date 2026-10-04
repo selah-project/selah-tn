@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 27:19",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Didiriswa tsotlhe tsa Mishkane, mo tirong ya jone yotlhe, le dithunya tsotlhe tsa jone, le dithunya tsotlhe tsa legae la boikhutso, ke tshipi.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "tsotlhe tsa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo tirong ya jone yotlhe"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "tirong"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "dithunya tsa jone"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "dithunya"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "legae la boikhutso"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tshipi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:53.203653623Z",
+  "model": "glm-5.3"
+}

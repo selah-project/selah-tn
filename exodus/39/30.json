@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme ba dira ⟨את⟩ sediriswa sa sego sa boitshepo, sa gauta e e tlhophilweng; mme ba kwala mo go sona mokwalo o o bopegileng jaaka wa sekhouno: Boitshepo go Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mme ba dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sediriswa"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "sediriswa se se phatsimang"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "sego"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa boitshepo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sa gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e tlhophilweng"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "mme ba kwala"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go sona"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "mokwalo"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "o o bopegileng"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "wa sekhouno"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Boitshepo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:06.744905186Z",
+  "model": "glm-5.3"
+}

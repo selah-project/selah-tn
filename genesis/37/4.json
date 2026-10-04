@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme banaalae ba gagwe ba bona gore rraabone o rata ⟨את⟩ ene go feta banaalae ba gagwe botlhe, mme ba simolola go mo tlhoya, mme ba ne ba sa kgone go bua le ene ka kagiso.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "banaalae ba gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "o rata ene"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o rata"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "rraabone"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "banaalae ba gagwe botlhe"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "ba simolola go mo tlhoya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "go mo tlhoya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "go bua le ene"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ka kagiso"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:08.762464220Z",
+  "model": "glm-5.3"
+}

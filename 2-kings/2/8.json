@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Eliya a tshwara ⟨את⟩ boagari jwa gagwe, mme a buelela, mme a kgwatha ⟨את⟩ metsi, mme a kgaogela fa le fa, mme ba babedi ba feta ka mo omomotse.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mme a tshwara"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boagari jwa gagwe"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "boagari jwa gagwe"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "mme a buelela"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "mme a kgwatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "mme a kgaogela"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "le fa"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "mme ba feta"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "ka mo omomotse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:04.079655352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 121,
+  "translation": "Yahwe o tlaa tlhomela milele go tswa ga gago le go tsena ga gago, go tloga gompieno go fitlha ka bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "o tlaa tlhomela milele"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "go tswa ga gago"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "le go tsena ga gago"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "go tloga gompieno"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:52.546265548Z",
+  "model": "glm-5.3"
+}

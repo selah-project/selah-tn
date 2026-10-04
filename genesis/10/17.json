@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Le ⟨את⟩ Mochivi, le ⟨את⟩ Moarchi, le ⟨את⟩ Mosini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mochivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mochivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Moarchi"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Moarchi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mosini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Mosini"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:03.989831090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme a kopanya ⟨את⟩ direteng di le tlhano a di logaganya kgotsa, le ⟨את⟩ direteng di le thataro a di logaganya kgotsa.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Mme a kopanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "direteng di le tlhano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "di le tlhano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "direteng"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a di logaganya kgotsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "direteng di le thataro"
+    },
+    {
+      "surface": "שש",
+      "gloss": "di le thataro"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "direteng"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a di logaganya kgotsa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:24.734826185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Gore o ema mo letlhakoreng la moja wa yo o humanegileng, go mo boloka go ba ba atlholang moyo wa gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "o ema"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "mo letlhakoreng la moja"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "yo o humanegileng"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "go mo boloka"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "go ba ba atlholang"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:06.366673983Z",
+  "model": "glm-5.3"
+}

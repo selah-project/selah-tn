@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme ke ne ke le se se feletseng go ena, mme ke ne ke itshireletsa mo boetsong jwa me.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Mme ke ne ke le"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "se se feletseng"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "go ena"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "mme ke ne ke itshireletsa"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "mo boetsong jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:10.367400985Z",
+  "model": "glm-5.3"
+}

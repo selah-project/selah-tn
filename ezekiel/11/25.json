@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme ke ne ka bua le ba ba neng ba le mo Botshwarong ⟨את⟩ mafoko otlhe a Yahwe a neng a mpona.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "mme ke bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ba ba mo Botshwarong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "a mpona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:33:50.492039411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 76,
+  "translation": "Ka kgwetlho ya gago, Elohim wa Yaakobo, dira le pitse di robetse botshelo.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "ka kgwetlho ya gago"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "di robetse botshelo"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "dira le"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "pitse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:11.556316455Z",
+  "model": "glm-5.3"
+}

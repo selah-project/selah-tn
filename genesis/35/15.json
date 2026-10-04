@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme Yaakobo a bita leina la lefelo leo Elohim a neng a buile le ene fela ⟨את⟩ koo — Bet-Ele.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "la lefelo leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile le ene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go ene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:28.492668003Z",
+  "model": "glm-5.3"
+}

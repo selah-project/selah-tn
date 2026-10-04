@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ba kgaoganya diaparo tsa go nna tsa bone, mme ba latlhela losele mo aparong ya me.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "ba kgaoganya"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa me"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme mo"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "aparong ya me"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "ba latlhela"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "losele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:00.400823515Z",
+  "model": "glm-5.3"
+}

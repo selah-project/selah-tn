@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Le nna ke tla segafera kwa maemong a lona a botlhoko, ke tla tshegama fa poifo ya lona e tlaga.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "kwa maemong a lona a botlhoko"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "ke tla segafera"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "ke tla tshegama"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "fa...e tlaga"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "poifo ya lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:41.598879096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "Elohim o buile mo boitshepong jwa gagwe: ke tla ikgantsha, ke tla kgaoganya Shekeme, le phaping ya Sukote ke tla e ela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "mo boitshepong jwa gagwe"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ke tla ikgantsha"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ke tla kgaoganya"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "le phaping ya"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukote"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ke tla e ela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:06.859473556Z",
+  "model": "glm-5.3"
+}

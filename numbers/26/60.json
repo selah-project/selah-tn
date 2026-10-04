@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme go belegwa go Aharone ⟨את⟩ Nadaebe le ⟨את⟩ Abihue, ⟨את⟩ Eleazare le ⟨את⟩ Itamare.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "mme go belegwa go"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "go Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadaebe"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abihue"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eleazare"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Eleazare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Itamare"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamare"
+    }
+  ],
+  "timestamp": "2026-10-03T22:15:31.629384387Z",
+  "model": "glm-5.3"
+}

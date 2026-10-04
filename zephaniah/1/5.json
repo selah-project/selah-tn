@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Le ⟨את⟩ ba ba ineelang mo dikhutlheng go masomo a magodimo, le ⟨את⟩ ba ba ineelang ba ba ikana go Yahwe, le ba ba ikana ka Molekame.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba ba ineelang"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ba ba ineelang"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "dikhutlheng"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "go masomo a"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba ba ineelang"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ba ba ineelang"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "ba ba ikana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "le ba ba ikana"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ka Molekame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:06:47.376544176Z",
+  "model": "glm-5.3"
+}

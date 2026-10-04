@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 78:55",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme a kgweetsa ditshaba kwa pele ga bone, a di aba ka lotses go ya ka boswa, mme a dira gore merafe ya Yisraele e nne mo ditenteng tsa bone.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "a kgweetsa"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kwa pele ga bone"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ויפילם",
+      "gloss": "a di aba"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "ka lotses"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "go ya ka boswa"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "a dira gore e nne"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "mo ditenteng tsa bone"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "merafe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:27.221060096Z",
+  "model": "glm-5.3"
+}

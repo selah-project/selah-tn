@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme yo o utswang motho, a mo rekisa, mme a bonwa a mo na mo seatleng sa gagwe, mootsotlhe o tla bolawa.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Mme yo o utswang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "a mo rekisa"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "mme a bonwa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bolao"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tla bolawa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:11.578428194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 39:4",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme go ne go le jalo, fa Tsidkiyaahu kgosi ya Yuda le banna botlhe ba ntwa ba sena go bona bone, ba ne ba tshaba, mme ba tsamaela bosigo ba tswa mo setsekeng, ka tsela ya setshamo sa kgosi, ka kgorong e fa gare ga mabotenk a mabedi; mme o ne a tsamaa ka tsela ya Araba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go le jalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "ba sena go bona"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyaahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … botlhe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ba ntwa"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "ba ne ba tshaba"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "mme ba tsamaela ba tswa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "setsekeng"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "גן",
+      "gloss": "ya setshamo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa kgosi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ka kgorong"
+    },
+    {
+      "surface": "בין",
+      "gloss": "e fa gare ga"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "mabotenk a mabedi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mme o ne a tsamaa a tswa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ya Araba"
+    }
+  ],
+  "timestamp": "2026-10-04T00:24:46.718892897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 1:6",
+  "book": "amos",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Go bua Yahwe: Ka ntlha ya ditshololo di le tharo tsa Aza, le di le nne, ga ke tla di boela ka bophara; ka gonne ba ile ba isa kgolegelo e e felletseng, go e neela Edome.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "di le tharo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ditshololo"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "di le nne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "ke tla di boela ka bophara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "הגלותם",
+      "gloss": "ba ile ba isa"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "kgolegelo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "e e felletseng"
+    },
+    {
+      "surface": "להסגיר",
+      "gloss": "go e neela"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-04T00:57:43.630440495Z",
+  "model": "glm-5.3"
+}

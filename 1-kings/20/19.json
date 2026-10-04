@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 20:19",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme ba ne ba tswa mo toropong, basha ba dikgosi tsa dikgaolo, le sesole se se neng se salwa morago ga bone.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme ba"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ne ba tswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "basha ba"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "dikgaolo"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "le sesole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng se"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "salwa morago ga bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:30:10.477441250Z",
+  "model": "glm-5.3"
+}

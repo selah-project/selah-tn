@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 16:28",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme wa dira bohule le bana ba Ashure, ka gonne o ne o sa fedise; mme wa dira bohule le bone, mme gape ga wa a fedisediwa.",
+  "tokens": [
+    {
+      "surface": "ותזני",
+      "gloss": "wa dira bohule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "מבלתי",
+      "gloss": "ka gonne o sa"
+    },
+    {
+      "surface": "שבעתך",
+      "gloss": "fedise"
+    },
+    {
+      "surface": "ותזנים",
+      "gloss": "wa dira bohule le bone"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "wa fedisediwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:36:30.063320785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ba ba balwang gaufi le bone, ba lotso lwa Morashe, e ne e le dikete di le masome a mabedi le pedi le makgolo a mabedi.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ba ba balwang gaufi le bone"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ba lotso lwa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Morashe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le masome a mabedi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "le makgolo a mabedi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:47.849754065Z",
+  "model": "glm-5.3"
+}

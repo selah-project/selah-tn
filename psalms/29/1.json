@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Psalme ya Dawide. Neelang Yahwe, bana ba El, neelang Yahwe kabelo le maatla.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Neelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "neelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabelo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "le maatla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:16.078533180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme metsi a tla fela go tswa mo lewatleng, mme noka e tla thatafala mme e oma.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "a tla fela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "go tswa mo lewatleng"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "mme noka"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "e tla thatafala"
+    },
+    {
+      "surface": "ובש",
+      "gloss": "mme e oma"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:18.054786957Z",
+  "model": "glm-5.3"
+}

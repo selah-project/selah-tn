@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 111,
+  "translation": "Kolobetso ya bofolo o ne a e romela go setshaba sa gagwe; o laela kgolagano ya gagwe go ya leruri; boitshepo le go tshaba ⟨⟨ke⟩⟩ leina la gagwe.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "kolobetso ya bofolo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o ne a e romela"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "go setshaba sa gagwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o laela"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya leruri"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kgolagano ya gagwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "le go tshaba"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:33.075424793Z",
+  "model": "glm-5.3"
+}

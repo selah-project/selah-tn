@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Uriya a robala kwa ponyelong ya ntlo ya kgosi, le ⟨את⟩ badiredi botlhe ba mong wa gagwe, mme ga a ya kwa tlase kwa ntlong ya gagwe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa ponyelong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badiredi botlhe ba mong wa gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiredi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ba mong wa gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a ya kwa tlase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlong ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:11:46.991884498Z",
+  "model": "glm-5.3"
+}

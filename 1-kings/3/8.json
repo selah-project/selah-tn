@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme modiredi wa gago o mo gareng ga setshaba sa gago se o se tlhophileng, setshaba se segolo, se se ka kang wa balwa le go ka nna ka bontsi.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "mme modiredi wa gago"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gareng ga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se o se"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "tlhophileng"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "se segolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se se ka kang wa"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le go ka"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ka bontsi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:33.152737154Z",
+  "model": "glm-5.3"
+}

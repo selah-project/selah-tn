@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Yo o go bolokayang botsogo jwa gago mo phatsimong, yo o go apesang serwalo sa hesede le mohau.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "yo o go bolokayang"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "mo phatsimong"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "botsogo jwa gago"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "yo o go apesang serwalo sa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "le mohau"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:28.825671161Z",
+  "model": "glm-5.3"
+}

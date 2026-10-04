@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ka letsatsi leo le tla jewa; se se sa tlangwang go sala go tswa go lona go fitlha mo mosong. Nna ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "le tla jewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "se se sa tlangwang go sala"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa go lona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:03.189867075Z",
+  "model": "glm-5.3"
+}

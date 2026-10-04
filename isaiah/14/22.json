@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 14:22",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme ke tla tsoga kgatlhanong le bone, go bua Yahwe Tsebaote, mme ke tla seakantsha go Babele leina, le masalela, le motlogolo le setlogolo, go bua Yahwe.",
+  "tokens": [
+    {
+      "surface": "וקמתי",
+      "gloss": "ke tla tsoga"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kgatlhanong le bone"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ke tla seakantsha"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "go Babele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "le masalela"
+    },
+    {
+      "surface": "ונין",
+      "gloss": "le motlogolo"
+    },
+    {
+      "surface": "ונכד",
+      "gloss": "le setlogolo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:04.993230594Z",
+  "model": "glm-5.3"
+}

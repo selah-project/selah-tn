@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Tshoga, o ye Nineve, toropo e kgolo, mme o lêle kgatlhanong le yone; gobo boshula jwa bone bo tlhatlogile pele ga me.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tshoga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo e"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "kgolo"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "mme o lêle"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kgatlhanong le yone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobo"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "bo tlhatlogile"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "boshula jwa bone"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:29.912963262Z",
+  "model": "glm-5.3"
+}

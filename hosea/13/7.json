@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Ka jalo nna ke ne ke le bone jaaka tau, jaaka taunyana ya me kwa tseleng ke a e lebelela.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ke ne ke"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "tau"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "jaaka taunyana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ke a e lebelela"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:25.608624937Z",
+  "model": "glm-5.3"
+}

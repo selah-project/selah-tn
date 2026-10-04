@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme mosadi a imolola, mme a belega morwa; mme a bona ⟨את⟩ gore o siame, mme a mo fitlha dikgwedi di le tharo.",
+  "tokens": [
+    {
+      "surface": "ויתהר",
+      "gloss": "a imolola"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "morwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o siame"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "a mo fitlha"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "dikgwedi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:42.150519139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 9:9",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme kgosi a bitsa Tsiba, mosha wa Sheole, mme a mo re: Selo se sengwe le se sengwe se se neng se le sa Sheole le sa ntlo ya gagwe yotlhe, ke ne ke se neela morwa wa mong wa gago.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se sengwe le se sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "היה",
+      "gloss": "se ne se le"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sa Sheole"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le sa yotlhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke ne ke neela"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mong wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:09:04.833396386Z",
+  "model": "glm-5.3"
+}

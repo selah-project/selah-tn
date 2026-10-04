@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ba boela ba ntsha ⟨את⟩ medimo ya batswakwa mo gare ga bone, ba ya go direla Yahwe ⟨את⟩; mme moyа wa Gagwe o ne wa tlhoka go tshwarelela ka boikitshwaro ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "ba boela ba ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya batswakwa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo ya"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "batswakwa"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "mo gare ga bone"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba ya go direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "o ne wa tlhoka go tshwarelela"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa Gagwe"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "ka boikitshwaro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:48:29.578830602Z",
+  "model": "glm-5.3"
+}

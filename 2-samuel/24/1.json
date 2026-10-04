@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme sefofu sa Yahwe se ne sa oketse go tsamaisa Yisraele, mme sa sessa ⟨את⟩ Dawide go ba rialo: Tsamaya, bala ⟨את⟩ Yisraele le ⟨את⟩ Yahuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "sa oketse"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sefofu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "go tsamaisa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "mme sa sessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go ba rialo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tsamaya"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yahuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    }
+  ],
+  "timestamp": "2026-10-03T23:18:57.964439934Z",
+  "model": "glm-5.3"
+}

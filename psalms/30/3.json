@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Yahwe Elohim wa me, o lwantse ka wena, mme o fodise ⟨את⟩ me.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "o lwantse ka wena"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "mme o fodise"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:57.406335757Z",
+  "model": "glm-5.3"
+}

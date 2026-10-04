@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Yahwe a bua le Moshe: Tswara, wa tlase, gonne batho ba gao, ba o neng wa ba tlisa kwa godimo go tswa mo lefatsheng la Mitsrayime, ba itshwenya.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tswara"
+    },
+    {
+      "surface": "רד",
+      "gloss": "wa tlase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ba itshwenya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "batho ba gao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "o neng wa ba tlisa kwa godimo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tswa mo lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:25.916213456Z",
+  "model": "glm-5.3"
+}

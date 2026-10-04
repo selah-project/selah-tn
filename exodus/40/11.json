@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme wa lotlha ⟨את⟩ sekhubu le ⟨את⟩ setulo sa sone, mme wa se itsepisa.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "wa lotlha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekhubu"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "sekhubu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setulo sa sone"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "setulo sa sone"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "wa itsepisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sekhubu"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:06.086243668Z",
+  "model": "glm-5.3"
+}

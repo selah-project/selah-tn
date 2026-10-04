@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme a thaya ⟨את⟩ Moabe, mme Ba-Moabe ba nna badiri ba Dawide, ba neelang minkha.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mme a thaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme ba nna"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Ba-Moabe"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "badiri"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ba Dawide"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ba neelang"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    }
+  ],
+  "timestamp": "2026-10-04T02:41:43.943448152Z",
+  "model": "glm-5.3"
+}

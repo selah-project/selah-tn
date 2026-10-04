@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ditsela tsa gago, Yahwe, di mpontshe; ditsela tsa gago tse di tsamaeang, ntlhaetse.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "ditsela tsa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "di mpontshe"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "ditsela tsa gago tse di tsamaeang"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ntlhaetse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:41.568897401Z",
+  "model": "glm-5.3"
+}

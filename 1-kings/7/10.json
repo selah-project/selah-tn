@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme motheo o ne o na le maje a a tlhwatlhwa, maje a magolo, maje a dikhubu di le lesome le maje a dikhubu di le robedi.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "mme motheo"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "maje"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "a a tlhwatlhwa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "maje"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "a magolo"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maje a"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dikhubu di le lesome"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikhubu"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "le maje a"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "dikhubu di le robedi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikhubu"
+    }
+  ],
+  "timestamp": "2026-10-03T23:21:34.817959668Z",
+  "model": "glm-5.3"
+}

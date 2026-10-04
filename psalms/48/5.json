@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Gore bonang, dikgosi di kopane, di fetile mmogo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "di kopane"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "di fetile"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:28.436016340Z",
+  "model": "glm-5.3"
+}

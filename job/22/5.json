@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "A bosula jwa gago ga bo a ba bo golo, mme ga go felo ya ditlolô tsa gago?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A ga... a"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "bosula jwa gago"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "golo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "felo"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "ya ditlolô tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:58:56.543700338Z",
+  "model": "glm-5.3"
+}

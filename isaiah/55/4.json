@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Bonang, ke mo neile e le pelogi kwa setshabeng, moeteledipele le moelaedipele kwa ditshabeng.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pelogi"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "kwa setshabeng"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ke mo neile"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "moeteledipele"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "le moelaedipele"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kwa ditshabeng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:17.516725076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "O ne wa re isa mo thunyaneng; o ne wa bea kgatelelo mo sesetleng sa rona.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "o ne wa re isa"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mo thunyaneng"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "o ne wa bea"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "kgatelelo"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "mo sesetleng sa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:36.737465353Z",
+  "model": "glm-5.3"
+}

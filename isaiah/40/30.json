@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme bashanyana ba tlaa khathala, ba lapisiwa; mme banana ba tlaa tlhakologa, ba tlhakola thata.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "ba tlaa khathala"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "bashanyana"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "ba lapisiwa"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "mme banana"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "ba tlaa tlhakologa"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ba tlhakola thata"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:43.969201603Z",
+  "model": "glm-5.3"
+}

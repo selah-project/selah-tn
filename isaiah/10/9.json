@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "A ga go jaana jaaka Karkemishe, Kalene? A go jaana jaaka Arpade, Hamate? A go jaana jaaka Damaske, Shomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a ga go"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "jaaka Karkemishe"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalene"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "go jaana"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "jaaka Arpade"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamate"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "go jaana"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "jaaka Damaske"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:02.186451985Z",
+  "model": "glm-5.3"
+}

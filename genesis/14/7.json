@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "mme ba boela ba ya kwa En-Misepate — e leng Kadeshe — mme ba tlhasela ⟨את⟩ lefatshe la Bamaleke, le ⟨את⟩ Baamore ba ba neng ba nna kwa Khatseson-Tamare.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "mme ba boela"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Misepate"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e leng"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba tlhasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Bamaleke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lefatshe la moka"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "la Bamaleke"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baamore"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baamore"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "ba ba neng ba nna"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "kwa Khatseson"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:41.503352809Z",
+  "model": "glm-5.3"
+}

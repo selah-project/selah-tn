@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme o tlaa dira diphuka tsa aletare, diphuka tsa maplanka a setlhare sa shita, mme o di phuthetse ka tshipi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tlaa dira"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "diphuka"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "tsa aletare"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "diphuka tsa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "maplanka a"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "setlhare sa shita"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mme o di phuthetse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "di (diphuka)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ka tshipi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:54.069150700Z",
+  "model": "glm-5.3"
+}

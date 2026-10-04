@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme ga ba a ba ba foka mo dibeng tsa ntlo ya Yerobowane, tse di neng di dira gore Yisraele e je ⟨את⟩ dibe, mme ba tsamaya ka tsone; le Ashera e ne ya nna e eme kwa Shomarone.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "mme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ba foka"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "mo dibeng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobowane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di neng di"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "dira gore... e je dibe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka tsone"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "ya nna e eme"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "kwa Shomarone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:38:15.932422605Z",
+  "model": "glm-5.3"
+}

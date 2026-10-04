@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme ka ngwaga wa bosupa e tla nna Shabata, boikhutso jo bo feletseng, fa lefatsheng — Shabata ya Yahwe: tshimo ya gago o se ke wa e jala, seretse sa gago o se ke wa sa kgabola.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Mme ka ngwaga"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "wa bosupa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "boikhutso jo bo feletseng"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fa lefatsheng"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tshimo ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "e jala"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "seretse sa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa sa"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "kgabola"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:02.293527822Z",
+  "model": "glm-5.3"
+}

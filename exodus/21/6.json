@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "mme mong wa gagwe a mo isa kwa go Elohim, a mo isa kwa ⟨⟩lebating kgotsa kwa moleng wa lebati, mme mong wa gagwe a tlhoba ⟨את⟩ tsebe ya gagwe ka sebone, mme a mo direla bosetlhanka ka bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "mme a mo isa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mong wa gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "a mo isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "lebating"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "moleng wa lebati"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "mme a tlhoba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mong wa gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsebe ya gagwe"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "tsebe ya gagwe"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "ka sebone"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "a mo direla bosetlhanka"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ka bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:23.227581572Z",
+  "model": "glm-5.3"
+}

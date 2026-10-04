@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ke tshepisetsa ⟨את⟩ lona, bana ba basadi ba Yerushalayime: se ke go tsosa, le se ke go tlhotlisa ⟨את⟩ lorato, go fitlhela se se batlang!",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ke tshepisetsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana ba basadi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayime"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "go tsosa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "go tlhotlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lorato"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lorato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlhela"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "se se batlang"
+    }
+  ],
+  "timestamp": "2026-10-04T02:08:36.119489251Z",
+  "model": "glm-5.3"
+}

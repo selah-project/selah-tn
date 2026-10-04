@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme mongwe le mongwe o ne a thaya motho wa gagwe; mme Aramea ba ne ba tsamaya ka dikgomo tsa bone, mme Yisraele ba ne ba salwa morago; mme Bene-Hadade, kgosi ya Aramea, o ne a tshaba ka pitse le ba ba kanna go ba ba ba kanna go ba ba ba kanna go ba ba ba kanna go ba ba ba kanna go ba ba ba kanna.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "a thaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "motho wa gagwe"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ba ne ba tsamaya ka dikgomo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramea"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "ba ne ba salwa morago"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "o ne a tshaba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Bene-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramea"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "pitse"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "le ba ba kgwele pitse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:30:10.477599593Z",
+  "model": "glm-5.3"
+}

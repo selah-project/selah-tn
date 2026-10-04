@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme a tsaya ⟨את⟩ ditoropokgoreletsego tse di neng di le tsa Yudue, mme a fitlha kwa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Mme a tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditoropokgoreletsego tsa Yudue"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "kgoreletsego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di neng di le"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "tsa Yudue"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme a fitlha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:49:46.427404620Z",
+  "model": "glm-5.3"
+}

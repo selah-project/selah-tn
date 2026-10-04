@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 126,
+  "translation": "Ba ba jalang ka dinku ba tla kgetla ka rineng.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "ba ba jalang"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "ka dinku"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ka rineng"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "ba tla kgetla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:08.785935338Z",
+  "model": "glm-5.3"
+}

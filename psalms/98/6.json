@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 98,
+  "translation": "Ka diterompetara le ka lentswe la shofara, gogang mmatele kwa pele ga kgosi, Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Ka diterompetara"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "le ka lentswe"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "la shofara"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "gogang mmatele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:11.721313048Z",
+  "model": "glm-5.3"
+}

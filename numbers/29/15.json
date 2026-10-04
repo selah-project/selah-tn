@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Le khumo e le nngwe ya efa go kwanyana e le nngwe, go dikwanyana tse di lesome le nne.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "le khumo e le nngwe ya efa"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "khumo ya efa"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "go kwanyana"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "go dikwanyana tse di"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "le nne"
+    }
+  ],
+  "timestamp": "2026-10-03T22:16:35.538880960Z",
+  "model": "glm-5.3"
+}

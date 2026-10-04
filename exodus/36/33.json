@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme a dira ⟨את⟩ thupa ya bogareng, go ralala ka teng mo teng ga dikgorokwane, go tloga kgakala go ya kgakala.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thupa"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "thupa"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "ya bogareng"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "go ralala ka teng"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dikgorokwane"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tloga"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "kgakala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "kgakala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:14.510922688Z",
+  "model": "glm-5.3"
+}

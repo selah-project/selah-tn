@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme go tlhoya ga Efrayime go tla fuduga, mme ba ba tlhobileng Yehuda ba tla kgapelwa kwa tlhogo: Efrayime a se ka a tlhoya ⟨את⟩ Yehuda, mme Yehuda a se ka a gatelela ⟨את⟩ Efrayime.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "go tla fuduga"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "go tlhoya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "mme ba ba tlhobileng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ba tla kgapelwa kwa tlhogo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "a tlhoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mme Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "a gatelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayime"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:12.315308908Z",
+  "model": "glm-5.3"
+}

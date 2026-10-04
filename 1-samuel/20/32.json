@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Yehonathane a araba ⟨את⟩ Shause rraagwe, mme a mmolelela re: Ke ka ntlha yang a tlaa bolawa? O dirile eng?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mme a araba"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shause"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shause"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a mmolelela re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka ntlha yang"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a tlaa bolawa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dirile"
+    }
+  ],
+  "timestamp": "2026-10-03T23:03:58.249833268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ga go na segopotso sa beng gale; gape ba ba tlang morago ga bona ba tla bo ba sa ana segopotso le bone mmogo le ba ba tlang kwa bofelong.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "segopotso"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "sa beng gale"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לאחרונים",
+      "gloss": "ba ba tlang morago ga bona"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ba tla bo ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a nne"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba bone"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "segopotso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ba ba tlang"
+    },
+    {
+      "surface": "לאחרונה",
+      "gloss": "kwa bofelong"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:38.538759349Z",
+  "model": "glm-5.3"
+}

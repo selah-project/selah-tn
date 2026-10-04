@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Lebogang Elohim wa medimo, gore hesede ya gagwe e nna go ya le bosikhutshweng.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Lebogang"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le bosikhutshweng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:29.961112556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Gonne mo moriting wa botlhale, mo moriting wa selefera; mme phitlhelelo ya kitso ya botlhale ke gore e tlhagola beng ba yona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mo moriting wa"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mo moriting wa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "mme phitlhelelo"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ya kitso"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ya botlhale"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "e tlhagola"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "beng ba yona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:23.765768605Z",
+  "model": "glm-5.3"
+}

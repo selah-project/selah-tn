@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme a ba kaela ka maru mose, le bosigo jotlhe ka seetsele sa molelo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "mme a ba kaela"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ka maru"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mose"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ka seetsele"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:49.893921191Z",
+  "model": "glm-5.3"
+}

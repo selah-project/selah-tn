@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme a beya ⟨את⟩ lewatle kwa sehubeng sa letlhakore le le mo leitlhopeng, kwa botlhaba, fa pele ga borwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a beya"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "kwa sehubeng sa letlhakore"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "le le mo leitlhopeng"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kwa botlhaba"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "borwa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:46:55.091990543Z",
+  "model": "glm-5.3"
+}

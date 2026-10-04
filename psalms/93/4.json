@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 93,
+  "translation": "Yahwe o maatla go feta metswedi ya metsi e mantsi, e maatla go feta diphaephege tsa lewatle; Yahwe o maatla kwa godimo.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "metswedi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya metsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "e mantsi"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "e maatla"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "diphaephege"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tle lewatle"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "o maatla"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:24.859172605Z",
+  "model": "glm-5.3"
+}

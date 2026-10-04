@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 10:17",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "O ne wa tlhosa gape dipaki tsa gago kgahlanong le nna, mme wa oketsa bosulu jwa gago mo go nna; diphetogo le sesole kgahlanong le nna.",
+  "tokens": [
+    {
+      "surface": "תחדש",
+      "gloss": "o ne wa tlhosa gape"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "dipaki tsa gago"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "ותרב",
+      "gloss": "mme wa oketsa"
+    },
+    {
+      "surface": "כעשך",
+      "gloss": "bosulu jwa gago"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "diphetogo"
+    },
+    {
+      "surface": "וצבא",
+      "gloss": "le sesole"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kgahlanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:57.537592372Z",
+  "model": "glm-5.3"
+}

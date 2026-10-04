@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Bana ba banna, go fitlha neng tlotlo ya me e tla nyefolwa? Le rata se se se nang, le batla maaka. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ba banna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "neng"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "tlotlo ya me"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "e tla nyefolwa"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "le rata"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "se se se nang"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "le batla"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:22.527462480Z",
+  "model": "glm-5.3"
+}

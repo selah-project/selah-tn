@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 96,
+  "translation": "Opelang go Yahwe, segolotseng leina la gagwe; phatlalatsang poloko ya gagwe go tloga letsatsing go ya letsatsing.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Opelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "segolotseng"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "phatlalatsang"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "go tloga letsatsing"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "go ya letsatsing"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "poloko ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:52.183884356Z",
+  "model": "glm-5.3"
+}

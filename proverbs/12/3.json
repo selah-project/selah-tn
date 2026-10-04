@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Motho ga a ka a nonotshiwa ka bobodzi; mme modu wa ba lokileng ga o ka o rutlulwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "a ka a nonotshiwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ka bobodzi"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "mme modu wa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga o ka o"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "rutlulwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:46:23.654331725Z",
+  "model": "glm-5.3"
+}

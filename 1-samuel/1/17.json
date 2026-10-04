@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Eli a araba a re: Tsama ka kagiso, mme Elohim wa Yisraele a neye ⟨את⟩ kopelo ya gago eo o e kgoleditseng go tswa go ene.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "tsama"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ka kagiso"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "mme Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a neye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopelo ya gago"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "kopelo ya gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "o e kgoleditseng"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "go tswa go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T22:55:32.719143444Z",
+  "model": "glm-5.3"
+}

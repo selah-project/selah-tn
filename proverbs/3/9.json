@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Tlotla ⟨את⟩ Yahwe ka dithoto tsa gago, le ka dikonokono tsa dipoelo tsotlhe tsa gago.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Tlotla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "ka dithoto tsa gago"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "le ka dikonokono"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "dipoelo tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:00.912751498Z",
+  "model": "glm-5.3"
+}

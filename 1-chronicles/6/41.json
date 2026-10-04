@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ba ne ba fa Kalebe morwa wa Yefune ⟨את⟩ masimo a toropo le ⟨את⟩ magae a yone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "masimo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "masimo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "magae a yone"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "magae a yone"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba ne ba fa"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:22.890561979Z",
+  "model": "glm-5.3"
+}

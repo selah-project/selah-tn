@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ruri, ⟨את⟩ madi a lona, a botshelo jwa lona, ke a tlaa a batla; mo seatleng sa phofolo e nngwe le e nngwe ke tlaa a batla, le mo seatleng sa motho; mo seatleng sa motho, kwa boikgausong jwa morwarraagwe, ke tlaa batla ⟨את⟩ botshelo jwa motho.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "mme ruri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a lona"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "madi a lona"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "a botshelo jwa lona"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ke a tlaa a batla"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e nngwe le e nngwe"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "phofolo"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "ke tlaa a batla"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "le mo seatleng sa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "morwarraagwe"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ke tlaa batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshelo jwa motho"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "jwa motho"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:48.424753470Z",
+  "model": "glm-5.3"
+}

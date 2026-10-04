@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 2:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme a re go ene: O bua jaaka e nngwe ya basadi ba ba sa siamang e bua. Gape ⟨את⟩ se se siameng re se amogela go tswa mo go ⟨את⟩ Elohim, mme ⟨את⟩ se se bosula ga re se amogela. Mo go tsotlhe tseo Ayobe ga a ka a balela ka diteme tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jaaka e bua"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "הנבלות",
+      "gloss": "ya basadi ba ba sa siamang"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se siameng"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "נקבל",
+      "gloss": "re se amogela"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tswa mo go ⟨את⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "se se bosula"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "se se bosula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נקבל",
+      "gloss": "re se amogela"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go tsotlhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a ka a"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "balela"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayobe"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ka diteme tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:22:15.295856464Z",
+  "model": "glm-5.3"
+}

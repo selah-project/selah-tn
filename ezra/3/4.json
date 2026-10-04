@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ba dira ⟨את⟩ moletlo wa ditenthe jaaka go kwadilwe, le mabelo a go fiswa a letsatsi le le letsatsi ka palo, jaaka taelo, tiro ya letsatsi ka letsatsi la one.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moletlo"
+    },
+    {
+      "surface": "חג",
+      "gloss": "moletlo"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "wa ditenthe"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "jaaka go kwadilwe"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "le mabelo a go fiswa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "a letsatsi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le le letsatsi"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ka palo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "jaaka taelo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ya letsatsi"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ka letsatsi la one"
+    }
+  ],
+  "timestamp": "2026-10-04T02:26:50.072344285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Moshe a ba bala ⟨אתם⟩ go ya ka molomo wa Yahwe, jaaka a ne a laetswe.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Mme ... a ba bala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a ne a laetswe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:39.888677178Z",
+  "model": "glm-5.3"
+}

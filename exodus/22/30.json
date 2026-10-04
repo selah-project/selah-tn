@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Banna ba ba itshepang e tla nna ba ga me; mme nama e e thuntshitsweng kwa nageng ga lo e je; lo e latlhela ⟨את⟩ go ntša.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "banna ba ba itshepang"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ba itshepang"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "e tla nna ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba ga me"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "mme nama"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwa nageng"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "e e thuntshitsweng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "lo e je"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "go ntša"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "lo e latlhela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (nama)"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:27.799128392Z",
+  "model": "glm-5.3"
+}

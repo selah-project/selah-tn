@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "⟨את⟩ tafole, ⟨את⟩ dithoto tsa yone tsotlhe, le ⟨את⟩ senkgwe sa boipedelo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithoto tsa yone tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dithoto tsa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "senkgwe sa boipedelo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sa boipedelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:27.700494211Z",
+  "model": "glm-5.3"
+}

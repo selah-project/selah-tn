@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "le ⟨את⟩ Hukoke le ⟨את⟩ mafuso a yona, le ⟨את⟩ Rekhobe le ⟨את⟩ mafuso a yona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Hukoke"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Hukoke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafuso a yona"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mafuso a yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Rekhobe"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhobe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafuso a yona"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mafuso a yona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:36.802285367Z",
+  "model": "glm-5.3"
+}

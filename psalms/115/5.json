@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Molomo o na le one, mme ga o bule; mahlo o na le one, mme ga a bone;",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "o na le one"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bule"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "o na le one"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:21.408815074Z",
+  "model": "glm-5.3"
+}

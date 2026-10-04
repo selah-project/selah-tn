@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Gonne o ntshitse moya wa me kwa losong, ⟨את⟩ leitlho la me kwa dipeleng, ⟨את⟩ maoto a me kwa go go tlhantlhangwang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kwa losong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leitlho la me"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leitlho la me"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "dipeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoto a me"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a me"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "go go tlhantlhangwang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:21.564014404Z",
+  "model": "glm-5.3"
+}

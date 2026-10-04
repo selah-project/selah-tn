@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "O ntlele ka boammaaruri jwa gago, mme o ntlhale; gonne wena ke ⟨את⟩ Elohim wa togaro ya me; o wena ke mo ke tshegetseng letsatsi lotlhe.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "o ntlele"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ka boammaaruri jwa gago"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "mme o ntlhale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "wa togaro ya me"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "o wena"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ke mo ke tshegetseng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:52.687762061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 112,
+  "translation": "Motho yo o siameng o nea mohau, mme a kadima; o tsamaisa diphuthelwana tsa gagwe ka katlholo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "o nea mohau"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "mme a kadima"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "o tsamaisa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "diphuthelwana tsa gagwe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka katlholo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:51.571686616Z",
+  "model": "glm-5.3"
+}

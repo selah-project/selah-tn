@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ba ntsha ⟨את⟩ ditshwantsho tsa ntlo ya Baale, mme ba di fisa.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshwantsho tsa ntlo ya Baale"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ditshwantsho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baale"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "ba di fisa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:34:55.775360523Z",
+  "model": "glm-5.3"
+}

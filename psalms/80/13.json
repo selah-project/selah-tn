@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "Ke ka go reng o robe meelo ya yone, mme ba ba feta ka tsela botlhe ba e tlhotla?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ke ka go reng"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "o robe"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "meelo ya yone"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "mme ba e tlhotla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ba ba feta"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:24.334761097Z",
+  "model": "glm-5.3"
+}

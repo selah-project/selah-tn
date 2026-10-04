@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme a baya ⟨את⟩ e nngwe kwa Bethele, mme ⟨את⟩ e nngwe a e neela kwa Dane.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e nngwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kwa Bethele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bethele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a e neela"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "kwa Dane"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:19.458506498Z",
+  "model": "glm-5.3"
+}

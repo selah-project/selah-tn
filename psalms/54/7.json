@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 54,
+  "translation": "Bobotlana bo tla boela go ba ba ntsere, ka boitshepo jwa gago o ba senye.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "bo tla boela"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bobotlana"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "go ba ba ntsere"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ka boitshepo jwa gago"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "o ba senye"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:37.644956423Z",
+  "model": "glm-5.3"
+}

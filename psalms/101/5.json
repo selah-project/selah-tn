@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 101,
+  "translation": "Yo o latlholang ka bonoko moatsalaa wa gagwe, ⟨את⟩ yena ke tlaa mo fedisa; yo o nang le matlho a magolo le pelo e e boitshegarang, ⟨את⟩ yena ga nka mo anaola.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "yo o latlholang"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka bonoko"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moatsalaa wa gagwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "yena — yo o latlholang moatsalaa wa gagwe"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ke tlaa mo fedisa"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "a magolo"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "matlho"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "e e boitshegarang"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena — yo o nang le matlho a magolo le pelo e e boitshegarang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nka mo anaola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:59.162951382Z",
+  "model": "glm-5.3"
+}

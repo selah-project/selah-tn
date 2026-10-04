@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "O se ka wa ba tshaba ka ntlha ya difatlhego tsa bone; gore ke na le ⟨את⟩ wena go go tlhokometsa, go bua Yahwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tshaba"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ka ntlha ya difatlhego tsa bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le ⟨את⟩ wena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "go go tlhokometsa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:06:35.761048786Z",
+  "model": "glm-5.3"
+}

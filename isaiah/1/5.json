@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ka eng gape le ka gogiwa, le tswelela ka go tlhoka tumelo? Tlhogo yotlhe e lwala, le pelo yotlhe e balabala.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "le ka gogiwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "le tswelela ka"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "go tlhoka tumelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "e lwala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … yotlhe"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "e balabala"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:48.912260643Z",
+  "model": "glm-5.3"
+}

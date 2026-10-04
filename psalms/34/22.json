@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Bobe bo bolaya molato; mme ba ba mo tlhoyang yo o lolameng ba tlaa atlholwa.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "bo bolaya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "molato"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "mme ba ba mo tlhoyang"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo o lolameng"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ba tlaa atlholwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:55.581953922Z",
+  "model": "glm-5.3"
+}

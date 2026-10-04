@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Bana ba leshome ba Hamane, morwa wa Medata, moganedi wa Bajuda, ke bone ba ba bolailweng; mme mo thusong ya ntwa ga ba ka ba tsenya ⟨את⟩ diatla tsa bone.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "ba leshome"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ba Hamane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "wa Medata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "moganedi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "wa Bajuda"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ba ba bolailweng"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "mo thusong ya ntwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba ka ba tsenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diatla tsa bone"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "diatla tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:17:59.567952824Z",
+  "model": "glm-5.3"
+}

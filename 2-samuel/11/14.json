@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme go ne go le moso, mme Dawide a kwala lengwalo go Yoabe, a bo a le romola ka diatla tsa Uria.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "a kwala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "lengwalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a bo a romola"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka diatla tsa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    }
+  ],
+  "timestamp": "2026-10-03T23:12:16.510343006Z",
+  "model": "glm-5.3"
+}

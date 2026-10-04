@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Eli a bitsa ⟨את⟩ Shmuele, mme a re: Shmuele, morwaaka. Mme ene a re: Ke fano.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuele"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwaaka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ke fano"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:55.825133602Z",
+  "model": "glm-5.3"
+}

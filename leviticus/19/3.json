@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Motho yo mongwe le yo mongwe a tshoge mmaagwe le rraagwe, mme ⟨את⟩ Shabata ya me lo e sireletse; ke me Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmaagwe"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "le rraagwe"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "a tshoge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "Shabata ya me"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabata ya me"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "lo e sireletse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:41.041542388Z",
+  "model": "glm-5.3"
+}

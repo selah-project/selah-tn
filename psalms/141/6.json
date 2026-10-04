@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 141,
+  "translation": "Kwa thoko ya leje baatlhodi ba bone ba tla latlhwa; mme ba tla utlwa mafoko a me, gonne a monate.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "ba tla latlhwa"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "kwa thoko ya"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "leje"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "baatlhodi ba bone"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "mme ba tla utlwa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mafoko a me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "a monate"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:18.591443105Z",
+  "model": "glm-5.3"
+}

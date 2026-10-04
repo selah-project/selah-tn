@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 54,
+  "translation": "Bonang, mong wa kgobokano o tla kgobokanela, mme e sere ka nna; o mong ya o ileng a nna le ⟨את⟩ wena? O tla wa go nna kgatlhanong le wena.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "גור",
+      "gloss": "mong wa kgobokano"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "o tla kgobokanela"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "mme e sere"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "ka nna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "o mang"
+    },
+    {
+      "surface": "גר",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le ⟨את⟩ wena"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go nna kgatlhanong le wena"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "o tla wa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:09.123334596Z",
+  "model": "glm-5.3"
+}

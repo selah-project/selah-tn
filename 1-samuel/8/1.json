@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme go ne go nne jalo fa Shemuele a nwa tlhoafalela botlhale, mme a tlhoma ⟨את⟩ barwa ba gagwe ba nna batshwayadiphoso ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go nne jalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a nwa tlhoafalela botlhale"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueledi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mme a tlhoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barwa ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "batshwayadiphoso"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:48.302679717Z",
+  "model": "glm-5.3"
+}

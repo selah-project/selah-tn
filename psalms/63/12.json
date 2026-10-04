@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Mme kgosi e tla ikgakologa ka Elohim; yo mongwe le yo mongwe yo o ikannang ka yena o tla ikgantsha; gonne molomo wa ba buang maaka o tla tswalelwa.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Mme kgosi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "e tla ikgakologa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "o tla ikgantsha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "yo o ikannang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "o tla tswalelwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "wa ba buang"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "maaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:02.013308314Z",
+  "model": "glm-5.3"
+}

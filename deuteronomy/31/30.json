@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Moshe a bua mo ditsebeng tsa phuthego yotlhe ya Yisraele ⟨את⟩ mafoko a sefoko se, go fitlha se a fedile.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mme Moshe a bua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mo ditsebeng tsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a sefoko se"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "sefoko se"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "se a fedile"
+    }
+  ],
+  "timestamp": "2026-10-03T22:33:08.561281145Z",
+  "model": "glm-5.3"
+}

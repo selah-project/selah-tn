@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme wena, tleisa kwa go wena ⟨את⟩ Aharone, kgaitsanao wa gago, le ⟨את⟩ bana ba gagwe ⟨את⟩ mmogo le ene, go tswa gareng ga bana ba Yisraele, gore a nne mopriste go ya go nna — Aharone, Nadabe le Abihue, Elazara le Ithamare, bana ba Aharone.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tleisa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa go wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kgaitsanao wa gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mmogo le ene"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "go tswa gareng ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "go nna mopriste"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go ya go nna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabe"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "le Abihue"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "le Ithamare"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:02.259788218Z",
+  "model": "glm-5.3"
+}

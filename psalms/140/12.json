@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 140,
+  "translation": "Molekane wa leleme ga a kitla a tlhoma mo lefatsheng; motho wa dikgoka, bosula bo tla mo somarela go wa thata.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "molekane"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "leleme"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "a tlhome"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dikgoka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "bo tla mo somarela"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "go wa thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:33.708353438Z",
+  "model": "glm-5.3"
+}

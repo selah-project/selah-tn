@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 19:8",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme ntwa ya boela go diragala, mme Dawide a tsamaya a lwantsha le Bafilistia, mme a ba bula ka pogo e kgolo, mme ba tshaba ba fologela mo pele ga gagwe.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "ya boela"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "go diragala"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "a lwantsha"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "le Bafilistia"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a ba bula"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ka pogo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ba tshaba"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mo pele ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:02:56.936057788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Go wena borre ba rona ba ne ba tshepa; ba tshepa, mme o ba pholositse.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ba ne ba tshepa"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "borre ba rona"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ba tshepa"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "mme o ba pholositse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:16.824243037Z",
+  "model": "glm-5.3"
+}

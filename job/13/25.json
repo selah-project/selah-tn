@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "A o tlaa tshosa letlakala le le fofang ka phefo, mme o lemelela ⟨את⟩ sego se se omileng?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "letlakala"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "le le fofang ka phefo"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "o tlaa tshosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sego se se omileng"
+    },
+    {
+      "surface": "קש",
+      "gloss": "sego"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "se se omileng"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "o lemelela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:57:18.180919349Z",
+  "model": "glm-5.3"
+}

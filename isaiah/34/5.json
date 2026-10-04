@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Gore tshaka ya me e nnetse metsi kwa magodimong; bonang, e tla theoga kwa Edome, le kwa setshabeng sa go nyeletswa ga me, bakeng la katlholo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "e nnetse metsi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "tshaka ya me"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "e tla theoga"
+    },
+    {
+      "surface": "ו\/על",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshabeng"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "sa go nyeletswa ga me"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "bakeng la katlholo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:56:19.402623937Z",
+  "model": "glm-5.3"
+}

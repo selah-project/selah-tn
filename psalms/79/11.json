@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "A lla la o o tshwerweng lefike le tle fa pele ga gago; go ya ka bogolo jwa seatla sa gago, o golole bana ba ba rwesweng loso.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "le tle"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fa pele ga gago"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "lla la"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "o o tshwerweng lefike"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "go ya ka bogolo jwa"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "o golole"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "ba ba rwesweng loso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:11.979134738Z",
+  "model": "glm-5.3"
+}

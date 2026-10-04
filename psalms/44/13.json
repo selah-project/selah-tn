@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "O rekoletsa setshaba sa gago ntle le selefera, mme wa se oketsa ka theko ya sone.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "O rekoletsa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "הון",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme wa se"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "oketsa"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "ka theko ya sone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:36.136207909Z",
+  "model": "glm-5.3"
+}

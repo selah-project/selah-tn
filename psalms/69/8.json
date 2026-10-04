@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Gore ka ntlha ya gago ke ile ka jara kakgapho; e tlhotse sefatlhego sa me ka sona sa manyego.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka ntlha ya gago"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke ile ka jara"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kakgapho"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "e tlhotse"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ka sona sa manyego"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatlhego sa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:34.717443427Z",
+  "model": "glm-5.3"
+}

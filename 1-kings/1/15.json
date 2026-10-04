@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Batsheba a tsena kwa go kgosi, mo phaposing; mme kgosi e ne e godile thata; mme Avishage wa kwa Shuneme a ne a direla ⟨את⟩ kgosi.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Mme … a tsena"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Batsheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "mo phaposing"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mme kgosi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "e ne e godile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "mme Avishage"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "wa kwa Shuneme"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "a ne a direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:26.623940956Z",
+  "model": "glm-5.3"
+}

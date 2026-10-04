@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme Yaakobo a atamela go Yitshake rraagwe, mme o a mo dikanya, mme a re: Sefoko ke sefoko sa Yaakobo, mme diatla ke diatla tsa Esawe.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "a atamela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "o a mo dikanya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "Sefoko"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sefoko sa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ו הידים",
+      "gloss": "mme diatla"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "diatla tsa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:49.464435130Z",
+  "model": "glm-5.3"
+}

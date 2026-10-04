@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Bosula bo batla badiwa, ⟨את⟩ mme ⟨go⟩ ba ba siameng go duelelwa se siameng.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "badiwa"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "bo batla"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ mme ⟨go⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba ba siameng"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "go duelelwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se siameng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:53.506748777Z",
+  "model": "glm-5.3"
+}

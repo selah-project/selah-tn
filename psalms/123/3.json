@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 123,
+  "translation": "Ba re mohau, Yahwe, ba re mohau, gonne re a tlala thata ka kutlwaiso.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "ba re mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ba re mohau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "רב",
+      "gloss": "thata"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "re a tlala"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ka kutlwaiso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:04.306336238Z",
+  "model": "glm-5.3"
+}

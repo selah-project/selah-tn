@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Go botoka go feta barutabana ba me ka bophara ke ne ke ithuta botswerere, gonne bopaki jwa gago bo ne bo mpha se ke se akanyang.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Go botoka go feta ... ka bophara"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "barutabana ba me"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ke ne ke ithuta botswerere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bopaki jwa gago"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "se ke se akanyang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:20.995868258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "Pele dithaba di sa tswalogi, pele o sa bopa lefatshe le lefatshe ka bophara, o tswa go ya go bosakhutshweng go ya go bosakhutshweng, wena ke Elohim.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "di sa tswalogi"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "o sa bopa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "le lefatshe ka bophara"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "go tswa go bosakhutshweng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bosakhutshweng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:09.838054848Z",
+  "model": "glm-5.3"
+}

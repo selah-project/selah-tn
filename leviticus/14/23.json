@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme ka letsatsi la borobong, la go tlhaphoiwa ga gagwe, o tla ⟨את⟩ ba isa go moruti, kwa sebakeng sa popotla ya phaposi ya kopano, kwa pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "o tla ba isa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "la borobong"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "la go tlhaphoiwa ga gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "popotla"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phaposi ya kopano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:04:02.115049417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Mahlone le Kilione ba tlhokafala le bone bobedi jwa bone; mme mosadi a sala ka bana ba gagwe ba babedi le ka monna wa gagwe.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "ba tlhokafala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bobedi jwa bone"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlone"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "le Kilione"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "mme ... a sala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ka bobedi"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "le monna wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:09:24.368214555Z",
+  "model": "glm-5.3"
+}

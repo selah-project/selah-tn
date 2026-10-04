@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme go ne go le jalo, fa Yahwe a ne a tlhatlogisa ⟨את⟩ Eliyahu ka sekhukhu sa kwa magodimong, Eliyahu a tsamaya le Elisha go tswa kwa Gilgale.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le jalo"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "fa a ne a tlhatlogisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "ka sekhukhu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa kwa magodimong"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "le Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "kwa Gilgale"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:51.515224603Z",
+  "model": "glm-5.3"
+}

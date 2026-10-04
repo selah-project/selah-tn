@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Modiri wa gago o tla tlaselela ⟨את⟩ Yaratane kgaufi fela, mmogo le kgosi; mme ke eng kgosi e ka mphekola ka seipho se se seng jalo?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "kgaufi fela"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "o tla tlaselela"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaratane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaratane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mme ke eng"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "e ka mphekola"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "ka seipho"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se se seng jalo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:15:51.758070984Z",
+  "model": "glm-5.3"
+}

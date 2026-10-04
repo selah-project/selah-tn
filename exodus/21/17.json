@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme yo o kgalefang rreng wa gagwe kana mme wa gagwe, o tla bolawa a bolawa.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "yo o kgalefang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rreng wa gagwe"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "mme wa gagwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a bolawa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tla bolawa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:47.375442567Z",
+  "model": "glm-5.3"
+}

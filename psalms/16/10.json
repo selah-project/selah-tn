@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Gore ga o kitla o tlogela moya wa me go Sheole, ga o kitla o neela molokwane wa gago go bona leoba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga o kitla"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "o tlogela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "go Sheole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga o kitla"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o neela"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "molokwane wa gago"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "leoba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:49.591789039Z",
+  "model": "glm-5.3"
+}

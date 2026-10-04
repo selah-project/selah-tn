@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Dawide a re: Ga lo ka ke lwa dira jalo, banna ba me, ka ⟨את⟩ sepe se Yahwe a se fileng rona, se a re sireleditseng, mme a neela ⟨את⟩ sesole se se neng se tla go re tlhasela, mo diatleng tsa rona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga lo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ka ke lwa dira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "banna ba me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sepe se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a se fileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "a re sireleditseng"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "a re sireleditseng"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesole"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "se se neng se tla"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "go re tlhasela"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "mo diatleng tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:07:07.763883049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ Ebale, le ⟨את⟩ Abimaële, le ⟨את⟩ Sheba",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ebale"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abimaële"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimaële"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:39.664680649Z",
+  "model": "glm-5.3"
+}

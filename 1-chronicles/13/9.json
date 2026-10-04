@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme ba fitlha go sebatana sa Kidone, mme Uza a tlhabela ⟨את⟩ seatla sa gagwe go tshwara ⟨את⟩ arona, gonne dikgomo di ne tsa tlhotsa.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba fitlha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "sebatana"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "sa Kidone"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mme a tlhabela"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "go tshwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arona"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "di ne tsa tlhotsa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:40:23.399003309Z",
+  "model": "glm-5.3"
+}

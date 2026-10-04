@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme mo go bana, ga go ne go na le monna o le mongwe mo ba ba neng ba balwa ke Moshe le Aharone moperesiti, ba neng ba bala ⟨את⟩ bana ba Yisraele kwa nageng ya Sinaye.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "Mme mo go bana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go ne go na le"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go ne go na le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monwa o le mongwe"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "mo ba ba neng ba balwa ke"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng ba"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "ba bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa nageng ya"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaye"
+    }
+  ],
+  "timestamp": "2026-10-03T22:15:53.631426267Z",
+  "model": "glm-5.3"
+}

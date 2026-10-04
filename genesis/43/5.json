@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Mme fa o sa mo rumele, re ka se tlhape; gonne monna yo o ne a re go rona: Lo ka se bone sefathego sa me, kwantle fela fa kgaenyo ya lona e le le lona ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "o sa mo rumele"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "rumele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "tlhape"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna yo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o ne a re"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "bone"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa me"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kwantle fela fa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kgaenyo ya lona"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "le lona ⟨את⟩",
+      "marks": "le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:48.292049737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Boka moyo wa me ⟨את⟩ Yahwe, mme o se ka wa lebala ditiro tsa gagwe tsotlhe tse di molemo.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "boka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wa me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "ditiro tsa gagwe tse di molemo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:28.825342881Z",
+  "model": "glm-5.3"
+}

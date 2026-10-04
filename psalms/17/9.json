@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mo bonnong jwa ba ba sa siamang, ba ba ntlhodileng; baba ba me ka botshepele ba a nkgala, ba a ntseletsa.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "mo bonnong jwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba sa siamang"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "ba ntlhodileng"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "baba ba me"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ka botshepele"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "ba a nkgala"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ba a ntseletsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:00.901120554Z",
+  "model": "glm-5.3"
+}

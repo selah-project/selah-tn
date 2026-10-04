@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme lefoko la Yahwe le ne la tla go Yehue morwa Khanaene kgatlhanong le Baashae, go bua jaana:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme le ne la tla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehue"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Khanaene"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashae"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go bua jaana"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:30.162999298Z",
+  "model": "glm-5.3"
+}

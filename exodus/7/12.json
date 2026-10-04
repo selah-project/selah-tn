@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme mongwe le mongwe o latlhile setlhare sa gagwe, mme di ne tsa nna dinoga; mme setlhare sa Aharone se ne sa mennya ⟨את⟩ ditlhare tsa bone.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "ba latlhile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "setlhare sa gagwe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "di ne tsa nna"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "dinoga"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "sa mennya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "setlhare"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "sa Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhare tsa bone"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "ditlhare tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:23.084824253Z",
+  "model": "glm-5.3"
+}

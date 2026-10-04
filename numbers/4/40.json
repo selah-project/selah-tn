@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "ba ba neng ba balwa ba bone, go ya ka malapa a bone le go ya ka malapa a bo-rre bone, e ne e le dikete tse pedi le makgolo a marataro le masome a mararo.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ba ba neng ba balwa ba bone"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya ka malapa a bone"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ya ka malapa a"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bo-rre bone"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete tse pedi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le makgolo a marataro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le masome a mararo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:32.071452808Z",
+  "model": "glm-5.3"
+}

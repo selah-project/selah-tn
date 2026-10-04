@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme motho yo Elkanha a ya godimo, le legae la gagwe lotlhe, go slaega go Yahwe ⟨את⟩ polao ya dinako le ⟨את⟩ sefo sa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a ya godimo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho yo"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … lotlhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "legae la gagwe"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "go slaega"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polao ya dinako"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "polao"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ya dinako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sefo sa gagwe"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "sefo sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:55:48.088382971Z",
+  "model": "glm-5.3"
+}

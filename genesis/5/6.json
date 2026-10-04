@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Shete a tshela ngwaga le makgolo a matlhano; mme a belega ⟨את⟩ Enoshe.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a tshela"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shete"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tlhano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le makgolo a"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoshe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:09.796640241Z",
+  "model": "glm-5.3"
+}

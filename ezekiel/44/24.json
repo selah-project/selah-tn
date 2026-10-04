@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 44:24",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Mme mo kgotlhang, bona ba tla ema go atlhola; ka dikatlholo tsa me ba tla e atlhola; mme ⟨את⟩ Torat ya me le ⟨את⟩ melawana ya me ba tla boloka mo meletlong ya me yotlhe; mme ⟨את⟩ matsatsi a me a Shabata ba a itshepisa.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kgotlhang"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ba tla ema"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "go atlhola"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "ka dikatlholo tsa me"
+    },
+    {
+      "surface": "ושפטהו",
+      "gloss": "ba tla e atlhola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Torat ya me"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torat ya me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "melawana ya me"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melawana ya me"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo yotlhe"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "meletlo ya me"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ba tla boloka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matsatsi a me a Shabata"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "matsatsi a me a Shabata"
+    },
+    {
+      "surface": "יקדשו",
+      "gloss": "ba a itshepisa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:51:32.061095011Z",
+  "model": "glm-5.3"
+}

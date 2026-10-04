@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Mophato go ya go mophato o tla keteka ditiro tsa gago, mme maatla a gago o tla itsise.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Mophato"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "go ya go mophato"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "o tla keteka"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ditiro tsa gago"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "mme maatla a gago"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "o tla itsise"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:19.900257328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Gore ba tla utlwa ⟨את⟩ leina la gago le le kgolo, le ⟨את⟩ seatla sa gago se se nonofileng, le lokwane la gago lo olotsewang, mme a tla a rapela kwa ntlongng e",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ba tla utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gago le le kgolo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "le le kgolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seatla sa gago se se nonofileng"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "se se nonofileng"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "le lokwane la gago"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "lo olotsewang"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mme a tla"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "a rapela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:09.407967191Z",
+  "model": "glm-5.3"
+}

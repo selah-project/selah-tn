@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Achela, ka sepe ke ne ka itlhalefatsa pelo ya me, mme ka tlhapha diatla tsa me ka phepafalo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "achela"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ka sepe"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ka itlhalefatsa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "mme ka tlhapha"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ka phepafalo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "diatla tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:42.365974723Z",
+  "model": "glm-5.3"
+}

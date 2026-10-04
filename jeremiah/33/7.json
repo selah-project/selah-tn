@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme ke tla busetsa ⟨את⟩ bokgolegwa jwa Yuda le ⟨את⟩ bokgolegwa jwa Yisraele, mme ke ba aga gape jaaka kwa tshimologong.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Mme ke tla busetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokgolegwa jwa Yuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "bokgolegwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "jwa Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bokgolegwa jwa Yisraele"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "bokgolegwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "jwa Yisraele"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "mme ke ba aga gape"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "jaaka kwa tshimologong"
+    }
+  ],
+  "timestamp": "2026-10-04T00:21:28.257332537Z",
+  "model": "glm-5.3"
+}

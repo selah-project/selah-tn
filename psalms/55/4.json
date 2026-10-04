@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Ka ntlha ya lentswe la moatlhodi, ka ntlha ya kgatelelo ya moloi, gore ba tlisitse bosula mo go nna, mme ka bogale ba ntlhoya.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Ka ntlha ya lentswe"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "la moatlhodi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "kgatelelo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya moloi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ba tlisitse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "און",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "mme ka bogale"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ba ntlhoya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:55.411516119Z",
+  "model": "glm-5.3"
+}

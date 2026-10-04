@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mo go rona go na le ⟨boruri⟩ le wa bokgolokwedi, mogolo ka malatsi go feta rraagwe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שב",
+      "gloss": "⟨boruri⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "wa bokgolokwedi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mo go rona"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "go feta rraagwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka malatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:57:36.815876388Z",
+  "model": "glm-5.3"
+}

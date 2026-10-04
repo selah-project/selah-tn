@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Motho ka mong wa mo gare wa ba lelwapa la Yisraele, yo o bolayang kgomo kgotsa kwanyana kgotsa pudi, ko kgotleng, kgotsa yo o bolayang a le kwa ntle ga kgotla —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka mong"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa mo gare wa ba lelwapa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "o bolayang"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "pudi"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ko kgotleng"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "o bolayang"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "a le kwa ntle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ga kgotla"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:44.042044006Z",
+  "model": "glm-5.3"
+}

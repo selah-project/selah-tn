@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme a baye ⟨את⟩ seatla sa gagwe mo tlhogong ya korban ya gagwe, a e bolaile kwa pele ga tente ya kopano; mme barwa ba Aharone ba tla thubela ⟨את⟩ madi a yona mo altareng, ka go dikologa.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "a baye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogong"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ya korban ya gagwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "a e bolaile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (kwanyana)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ba tla thubela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ba Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a yona"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareng"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka go dikologa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:48.886811747Z",
+  "model": "glm-5.3"
+}

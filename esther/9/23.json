@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Bajuda ba amogela ⟨את⟩ se ba neng ba se simolola go se dira, le ⟨את⟩ se Mordekai a neng a se kwadile go bona.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "mme ba amogela"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Bajuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ba simolola"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go se dira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "a kwadile"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:05.927985573Z",
+  "model": "glm-5.3"
+}

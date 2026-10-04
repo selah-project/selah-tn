@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Bonang, dilo tsa ntlhano di tletse, mme tse ntšhwa ke di tlhomola pele di tsoga, ke a di tlhotlhorola ⟨את⟩ go lona.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "dilo tsa ntlha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "באו",
+      "gloss": "di tletse"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "tse ntšhwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ke di tlhomola"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "di tsoga"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ke tlhotlhorola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ go lona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:56:53.084316831Z",
+  "model": "glm-5.3"
+}

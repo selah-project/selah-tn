@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme Yehoshafate a re kgosi ya Yisraele: Batla, ke kopa, le kajeno ⟨את⟩ lefoko la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Batla"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "le kajeno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:39.219216219Z",
+  "model": "glm-5.3"
+}

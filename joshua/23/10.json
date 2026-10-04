@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Motho a le mongwe wa lona o ka batla sekete, gonne Yahwe Elohim ya lona ke ene yo o lwelang ka lona, jaaka a buile le lona.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "wa lona"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "o ka batla"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "yo o lwelang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:02.527336345Z",
+  "model": "glm-5.3"
+}

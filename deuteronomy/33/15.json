@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "le ka dilo tse di kwa godimo tsa dithaba tsa bogologolo, le ka dilo tse di gaisang tsa dithabana tsa bosakhutlelo;",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "le ka dilo tse di kwa godimo tsa"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tsa bogologolo"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "le ka dilo tse di gaisang tsa"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "dithabana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tsa bosakhutlelo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:33:44.307388613Z",
+  "model": "glm-5.3"
+}

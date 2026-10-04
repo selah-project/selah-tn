@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "mme ene a se ka a dira ⟨את⟩ tsotlhe tsa tseno — gonne o jele kwa dithabeng, mme a senya ⟨את⟩ mosadi wa moagisani wa gagwe —",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsotlhe tsa tseno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tsa tseno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dithabeng"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "o jele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mosadi wa moagisani"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wa moagisani wa gagwe"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "a senya"
+    }
+  ],
+  "timestamp": "2026-10-04T00:37:00.439972744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ka nako eo Solomone a bua jaana: Yahwe o buile gore o tla nna mo sephiring.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ka nako eo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bua jaana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "o tla nna"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "mo sephiring"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:10.371924642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme go nna jalo ka moso, Bafelisita ba tla go tsaya diaparo tsa ba ba bolailweng, mme ba fitlhela ⟨את⟩ Shauole le ⟨את⟩ barwa ba gagwe ba bararo ba weleng kwa thabeng ya Gelboe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go nna jalo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafelisita"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "go tsaya diaparo tsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba bolailweng"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ba ba bolailweng"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ba fitlhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauole"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barwa ba gagwe ba bararo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba bararo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ba weleng"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwa thabeng"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gelboe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:08:33.385552911Z",
+  "model": "glm-5.3"
+}

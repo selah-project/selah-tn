@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Tsedeke le katlholo ke motheo wa setulo sa gago sa bogosi; hesede le boammaaruri di tsamaya pele ga sefatlhego sa gago.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le katlholo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "setulo sa gago sa bogosi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "le boammaaruri"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "di tsamaya pele"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ga sefatlhego sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:47.248882267Z",
+  "model": "glm-5.3"
+}

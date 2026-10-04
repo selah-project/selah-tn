@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Torah ya Elohim wa gagwe e mo pelong ya gagwe; dikgato tsa gagwe ga di a ka di tshakala.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-wa-gagwe"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mo-pelong-ya-gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "di-tshakala"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "dikgato-tsa-gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:31.237301822Z",
+  "model": "glm-5.3"
+}

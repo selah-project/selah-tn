@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme nonyane ya Farao e tla nna sekgwetsho sa lona, le go itshireletsa ka sekhurumetso sa Mitsrayime se tla nna tlhotlheletso e e tlhoilweng.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme e tla nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa lona"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "nonyane"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "sekgwetsho"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "le go itshireletsa"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ka sekhurumetso"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "tlhotlheletso e e tlhoilweng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:54:22.351471304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "A nne hesede ya gago, Yahwe, mo go rona, jaaka re ne re letetse wena.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "A nne"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mo go rona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "re ne re letetse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:47.602511535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Masego! Yo o tlhaselang, mme wena ga o tlhaselwa; yo o tsuologang, mme ga ba ka go tsuologa go wena; fa o feditse go tlhasela, o tla tlhaselwa; fa o bo lapile go tsuologa, ba tla tsuologa go wena.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Masego"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "yo o tlhaselang"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "o tlhaselwa"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "mme yo o tsuologang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ba tsuologa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "fa o feditse"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "go tlhasela"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "o tla tlhaselwa"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "fa o bo lapile"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "go tsuologa"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "ba tla tsuologa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-03T23:54:45.997468114Z",
+  "model": "glm-5.3"
+}

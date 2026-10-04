@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "tse ke di boloketseng ka nako ya mathata, la letsatsi la kgotlhang le la ntwa?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "ke di boloketseng"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ka nako ya"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mathata"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "la letsatsi la"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kgotlhang"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "le la ntwa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:04:35.703849302Z",
+  "model": "glm-5.3"
+}

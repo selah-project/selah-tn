@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 41:35",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Ba kokoatse ⟨את⟩ didiriswa tsotlhe tsa dingwaga tse di siameng tse di tlang tseno, ba boloke poopo ka fa tlase ga seatla sa Faro — didiriswa mo ditoropong — ba e sireletse.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ba kokoatse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didiriswa tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "tse di siameng"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "tse di tlang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "ויצברו",
+      "gloss": "ba boloke"
+    },
+    {
+      "surface": "בר",
+      "gloss": "poopo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "sa Faro"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "mo ditoropong"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ba e sireletse"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:34.852547166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme se sa kwalwa mo go ene jaaka tsedeke, mo dikokomaneng tsotlhe go ya le go ile-le-ile.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "mme se sa kwalwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "jaaka tsedeke"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "mo kokomaneng"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le kokomane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya le go"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ile-le-ile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:15.015136630Z",
+  "model": "glm-5.3"
+}

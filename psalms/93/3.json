@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 93,
+  "translation": "Metswedi ya metsi e tsemetse, Yahwe; metswedi ya metsi e tsemetse lentswe la yone; metswedi ya metsi e tsemetse mo diphaephegeng tsa yone.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "e tsemetse"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "metswedi ya metsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "e tsemetse"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "metswedi ya metsi"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "lentswe la yone"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "e tsemetse"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "metswedi ya metsi"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "mo diphaephegeng tsa yone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:24.859010001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Wena, Yahwe, o tla ba sireletsa; o tla re boloka mo setshabeng se go ya bosakhutleng.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "o tla ba sireletsa"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "o tla re boloka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "setshabeng se"
+    },
+    {
+      "surface": "זו",
+      "gloss": "se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya bosakhutleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:34.028034320Z",
+  "model": "glm-5.3"
+}

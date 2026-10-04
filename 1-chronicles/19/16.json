@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Arame a bona gore ba latlhegetswe ke ntlha ya Yisraele, ba romela baromuwa, ba ntsha ⟨את⟩ Arame o o neng a le ka moja ga noka; mme Shophake, molaula wa masole a Hadadezere, a nna ka fa pele ga bone.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mme Arame a bona"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "ba latlhegetswe ke ntlha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka fa pele ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ba romela"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "baromuwa"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ba ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arame"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o o neng a le"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ka moja ga"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "noka"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "mme Shophake"
+    },
+    {
+      "surface": "שר",
+      "gloss": "molaula"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wa masole"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "a Hadadezere"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "a nna ka fa pele ga bone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:42:15.453307726Z",
+  "model": "glm-5.3"
+}

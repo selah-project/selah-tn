@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme se ke ⟨ה⟩ kgalalelo eo Moshe, monna wa Elohim, o neng a e gakolola ⟨את⟩ bana ba Yisraele, pele ga loso lwa gagwe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Mme se ke"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "⟨ה⟩ kgalalelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "o neng a e gakolola"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "loso lwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:01.080723615Z",
+  "model": "glm-5.3"
+}

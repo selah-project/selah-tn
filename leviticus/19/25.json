@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme mo ngwageng wa botlhano le kgapetswa, e tla nna jalo: le tla ja ⟨את⟩ pele ya one, gore go okediwe mo go lona sepe sa one; nna ke Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Mme mo ngwageng"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "wa botlhano"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le tla ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pele ya one"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "pele ya one"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "go okediwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "sepe sa one"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:29.450947634Z",
+  "model": "glm-5.3"
+}

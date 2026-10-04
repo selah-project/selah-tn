@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "le ⟨את⟩ Adorayime le ⟨את⟩ Lakhishe le ⟨את⟩ Azeka",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Adorayime"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adorayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Lakhishe"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakhishe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Azeka"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    }
+  ],
+  "timestamp": "2026-10-04T02:48:43.771066932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ke utlwile ⟨את⟩ se baporofeti ba ba porofetang maaka ka leina la me ba se buang, ba re: Ke lorile, ke lorile.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ke utlwile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se baporofeti ba se buang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba buang"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "baporofeti"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ba ba porofetang"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ka leina la me"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Ke lorile"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ke lorile"
+    }
+  ],
+  "timestamp": "2026-10-04T00:17:47.715524297Z",
+  "model": "glm-5.3"
+}

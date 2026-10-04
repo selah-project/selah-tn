@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "le ba ba neng ba kwa Khorma, le ba ba neng ba kwa Bor-Ashane, le ba ba neng ba kwa Atake.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "le ba ba neng ba kwa"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Khorma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "le ba ba neng ba kwa"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashane"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "le ba ba neng ba kwa"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atake"
+    }
+  ],
+  "timestamp": "2026-10-03T23:06:05.972590191Z",
+  "model": "glm-5.3"
+}

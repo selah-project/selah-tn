@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ba bana ba Naftale, ka masika a bone, ka malapa a bone, ka matlo a bomalomeba bone, go ya ka palo ya maina, go tswa go ngwana wa dingwaga di le masome a mabedi le kwa godimo, botlhe ba ba neng ba ka tsamaya go ya ntweng;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftale"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ka masika a bone"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka malapa a bone"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka matlo a"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bomalomeba bone"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "go ya ka palo"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ya maina"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "go tswa go ngwana wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dingwaga di le masome a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "le kwa godimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ba ba neng ba ka tsamaya"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "go ya ntweng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:38.609270816Z",
+  "model": "glm-5.3"
+}

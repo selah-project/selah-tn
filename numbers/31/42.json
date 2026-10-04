@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme go tswa mo karolong ya bana ba Yisraele, e Moshe a e kgaolang kwa go banna ba ba lwang ntlwaneng,",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "go tswa mo karolong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "a e kgaola"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "ba ba lwang ntlwaneng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:17:01.531837804Z",
+  "model": "glm-5.3"
+}

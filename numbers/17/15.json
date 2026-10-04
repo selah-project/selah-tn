@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme Aharone a boela kwa Moshe, kwa sephiring sa teng ya kopano, mme seetseleo se ne sa emisiwa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mme a boela"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sephiring sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teng ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kopano"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "mme seetseleo"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "se ne sa emisiwa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:10:33.203814622Z",
+  "model": "glm-5.3"
+}

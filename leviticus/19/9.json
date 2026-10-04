@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme fa lo kgetha kgetho ya lefatshe la lona, lo se ka wa fedisa mosele wa tshimo ya gago ka go e kgetha, mme dithollo tsa kgetho ya gago lo se ka wa di tlhoka.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "mme fa lo kgetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgetho"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kgetho"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "lefatshe la lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ka wa"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "fedisa"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mosele"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tshimo ya gago"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "ka go e kgetha"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "mme dithollo"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "kgetho ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ka wa"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "di tlhoka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:59.919303171Z",
+  "model": "glm-5.3"
+}

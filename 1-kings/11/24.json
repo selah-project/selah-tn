@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "a phuthela batho, a nna tlhogo ya setlhopha sa masole fa Dawide a bolaya ⟨את⟩ ba; mme ba ya Damaseke, ba nna koo, ba busa kwa Damaseke.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "a phuthela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "שר",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ya setlhopha sa masole"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "fa a bolaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mme ba ya"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseke"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ba busa"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "kwa Damaseke"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:00.280599524Z",
+  "model": "glm-5.3"
+}

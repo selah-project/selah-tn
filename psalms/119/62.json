@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Bogareng jwa bosigo ke tla tsoga go go leboga, ka ntlha ya dikatlholo tsa tsedeko ya gago.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "bogareng"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jwa bosigo"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ke tla tsoga"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "go go leboga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go go"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikatlholo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsa tsedeko ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:00.527603937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme o ne a tseela ⟨e seng⟩ — o ne a naya mme o ne a baya karolo nngwe le nngwe fa go bapisiwang le yo mongwe; mme wa ngwaga ⟨את⟩ sefalana ga o se kgaole.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o ne a tseela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsotlhe tseo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "o ne a kgaola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tsona",
+      "marks": "tsona"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "bohareng"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o ne a baya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "karolo nngwe le nngwe"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "karolo ya yone"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "fa go bapisiwang le"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yo mongwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "sefalana"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "sefalana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "o se kgaole"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:36.559921931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme a re: ⟨את⟩ modumo wa gago o nthogile mo setshabeng, mme ka nna mogote, gonne ke ne ke sa apara; mme ka itlhabela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo wa gago"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "modumo wa gago"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "o nthogile"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "mo setshabeng"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "mme ka nna mogote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ke sa apara"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "mme ka itlhabela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:19.938045537Z",
+  "model": "glm-5.3"
+}

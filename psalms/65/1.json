@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "Go mokaedi. Pesaleme ya Dawide. Pina.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go mokaedi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Pesaleme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:50.662504219Z",
+  "model": "glm-5.3"
+}

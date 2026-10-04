@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 3:10",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ruakh ya Yahwe ya nna mo go ene, mme a atlhola ⟨את⟩ Yisraele; mme a tsamaela ntweng, mme Yahwe a neela mo seatlang sa gagwe ⟨את⟩ Kushane-Rishathayime kgosi ya Arame; mme seatlang sa gagwe sa nonofa kgatlhanong le Kushane-Rishathayime.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ya nna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "a atlhola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a tsamaela"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ntweng"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatlang sa gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kushane-Rishathayime"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushane"
+    },
+    {
+      "surface": "רשעתים",
+      "gloss": "Rishathayime"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "ותעז",
+      "gloss": "sa nonofa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatlang sa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushane"
+    },
+    {
+      "surface": "רשעתים",
+      "gloss": "Rishathayime"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:47.020145364Z",
+  "model": "glm-5.3"
+}

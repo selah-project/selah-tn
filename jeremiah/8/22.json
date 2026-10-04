@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "A ga go na loe kwa Gileade? A ga go na ngaka koo? Ke ka ntlha yang fa phepelo ya morwadia setshaba sa me e sa bo e sa fenya?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "loe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "kwa Gileade"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ngaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke ka ntlha yang fa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "e sa bo e sa fenya"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "phepelo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:10:22.038101351Z",
+  "model": "glm-5.3"
+}

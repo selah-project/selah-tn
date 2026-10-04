@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Ba ba tswang mo Gereshome: Libine morwa wa gagwe, Yakhate morwa wa gagwe, Zime morwa wa gagwe.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "ba ba tswang mo Gereshome"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libine"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yakhate"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zime"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:56.818341070Z",
+  "model": "glm-5.3"
+}

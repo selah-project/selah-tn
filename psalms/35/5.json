@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Ba nne jaaka lerole fa pele ga ruakh, mme morwarre wa Yahwe a ba phushetse.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ba nne"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "jaaka lerole"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "mme morwarre wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "a ba phushetse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:32.611096298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 47:22",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Mme ntle fela le lefatshe la baberegedi ga o a se reka, gore go ne go na le karolo e e tlhaotsweng ya baberegedi go tswa go ⟨את⟩ Farao; mme ba ne ba ja ⟨את⟩ karolo ya bone e Farao a neng a e neela bone; ka lebōleo ga ba ka ba rekisa ⟨את⟩ lefatshe la bone.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ntle fela le"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "la baberegedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "a reka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "חק",
+      "gloss": "karolo e e tlhaotsweng"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ya baberegedi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mme ba ne ba ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karolo ya bone"
+    },
+    {
+      "surface": "חקם",
+      "gloss": "karolo ya bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebōleo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ba ka ba rekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la bone"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "lefatshe la bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:14.932687481Z",
+  "model": "glm-5.3"
+}

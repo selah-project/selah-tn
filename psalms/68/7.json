@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Elohim o naya ba ikemetseding lehua kwa malapeng; o ntsha ba tshwerweng ka kutlwano; mme ba souang fela ba nna kwa lefifing le le omileng.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "o naya... lehua"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "ba ikemetseding"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "kwa malapeng"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "o ntsha"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "ba tshwerweng"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "ka kutlwano"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mme... fela"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "ba souang"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "kwa lefifing le le omileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:57.463398595Z",
+  "model": "glm-5.3"
+}

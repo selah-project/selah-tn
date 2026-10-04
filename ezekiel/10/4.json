@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 10:4",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme botlhaga jwa Yahwe bo tlhatloga kwa godimo ga kerube, kwa letsibelong la ntlo; mme ntlo e ne e tlatswa ke ⟨את⟩ maru, mme phaposi e ne e tlatswa ke ⟨את⟩ boitshine jwa botlhaga jwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "bo tlhatloga"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "botlhaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "jwa Yahwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kwa godimo ga"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "letsibelong la"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "mme e ne e tlatswa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maru"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "maru"
+    },
+    {
+      "surface": "והחצר",
+      "gloss": "mme phaposi"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e ne e tlatswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boitshine"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "boitshine"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "jwa botlhaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "jwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:35:42.169485799Z",
+  "model": "glm-5.3"
+}

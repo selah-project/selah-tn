@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Masele le se oa se nang boitoryi, wena le bana ba gago ⟨אתך⟩, fa lo tsena kgakala le ⟨את⟩ teng ya kopano; mme le se swewe, go sweng ke molao wa lefelo le le sa fetogeng malebana le merafe ya lona.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "masele"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "le se oa se nang boitoryi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "a nouwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "le bana ba gago"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "fa lo tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le se"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "swewe"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molao"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa lefelo le le sa fetogeng"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "malebana le merafe ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:02.378107506Z",
+  "model": "glm-5.3"
+}

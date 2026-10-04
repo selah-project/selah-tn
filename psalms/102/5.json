@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "E thubilwe jaaka seretse, mme ya oma pelo ya me, gonne ke lebala go ja senkgwe sa me.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "e thubilwe"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "jaaka seretse"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "mme ya oma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ke lebala"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "senkgwe sa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:04.180880213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Ga ba nwe beine ka seetse; bojalwa jo bo nonotshitsweng bo a kgalefa mo ba ba bongong jwa bo.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "ka seetse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ba nwe"
+    },
+    {
+      "surface": "יין",
+      "gloss": "beine"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "bo a kgalefa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "bojalwa jo bo nonotshitsweng"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "mo ba ba bongong jwa bo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:26.177920777Z",
+  "model": "glm-5.3"
+}

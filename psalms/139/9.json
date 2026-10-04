@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Fa ke tshwara mafuka a moso, ke nne kwa bofelong jwa lewatle,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "ke tshwara"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mafuka a"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ke nne"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "kwa bofelong jwa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:36.536274041Z",
+  "model": "glm-5.3"
+}

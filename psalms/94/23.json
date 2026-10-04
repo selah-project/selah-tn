@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Mme o tla boela mo go bone ka ⟨את⟩ bo-bosula jwa bone, mme ka bosula jwa bone a ba tima; a ba tima Yahwe, Elohim wa rona.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mme o tla boela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bo-bosula jwa bone"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "bo-bosula jwa bone"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "mme ka bosula jwa bone"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "a ba tima"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "a ba tima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:29.699381159Z",
+  "model": "glm-5.3"
+}

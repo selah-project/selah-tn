@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme go ne go le letsatsi la bobedi-bobedi ⟨la bo borobabobedi⟩, Moshe a bitsa Aharone le barwa ba gagwe, le bagodi ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsi la"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "bo borobabobedi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "le barwa ba gagwe"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "le bagodi ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:32.984374096Z",
+  "model": "glm-5.3"
+}

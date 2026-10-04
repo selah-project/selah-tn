@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme go gaufi le bone Refaia morwa Khure, moeteledipele wa sephatlo sa kgaolo ya Yerushalayime, o ne a nonotsha.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "go gaufi le"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "o ne a nonotsha"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Refaia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Khure"
+    },
+    {
+      "surface": "שר",
+      "gloss": "moeteledipele"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "sephatlo"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "kgaolo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:30:10.238735559Z",
+  "model": "glm-5.3"
+}

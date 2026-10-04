@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "O se ka wa fa boroko dinong tsa gago, kgotsa boroko bo bonyenyane matlalagano a gago,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ka wa fa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wa fa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "boroko"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "dinong tsa gago"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "boroko bo bonyenyane"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "matlalagano a gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:47.826985804Z",
+  "model": "glm-5.3"
+}

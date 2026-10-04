@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Mme Yisraele a re go Yosefe: Bonwe, ke a swa, mme Elohim o tla nna le lona, mme o tla boisa lona ⟨את⟩ go ya lefatshe la bo-rra-lona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ke a swa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme o tla nna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "mme o tla boisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "la bo-rra-lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:12.247229758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 121,
+  "translation": "Pina ya maemo. Ke tlhatlhoba maitemogelo a me a mahodimo, a dithaba; go tswa kae thušo ya me e tlang?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "ya maemo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Ke tlhatlhoba"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maitemogelo a me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "go tswa kae"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "e tlang"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "thušo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:36.483265302Z",
+  "model": "glm-5.3"
+}

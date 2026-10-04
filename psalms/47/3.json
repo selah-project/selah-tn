@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Gore Yahwe wa godimo o tshosa; kgosi e kgolo mo lefatsheng lotlhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "wa godimo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "o tshosa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:43.081179104Z",
+  "model": "glm-5.3"
+}

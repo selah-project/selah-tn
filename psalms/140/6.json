@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 140,
+  "translation": "Ba ba ikakanya ba fitlhile sejapa sa me, le dithapo; ba anamile lereo mo thoko ga tsela; disejapa ba di beile ka me. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "ba fitlhile"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ba ba ikakanya"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sejapa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa me"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "le dithapo"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ba anamile"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "lereo"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "mo thoko ga"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "disejapa"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ba di beile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka me"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:24.045552368Z",
+  "model": "glm-5.3"
+}

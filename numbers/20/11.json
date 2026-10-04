@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Moshe a tlhatlosa ⟨את⟩ seatla sa gagwe, a baya ka tlhogo ⟨את⟩ leje la metsi ka mosola wa gagwe gabedi; mme metsi a mantsi a ne a tswa, mme setshaba se ne se sa nthafala, le dikgomo tsa sone.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "a tlhatlosa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a baya ka tlhogo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leje la metsi"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "leje la metsi"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "ka mosola wa gagwe"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gabedi"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "sa nthafala"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "le dikgomo tsa sone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:12:14.479071943Z",
+  "model": "glm-5.3"
+}

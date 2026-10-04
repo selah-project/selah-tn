@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 3:12",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme bontsi jwa bapriste le Balefi le ditlhogo twa malapa, bagolo, ba ba neng ba bona ⟨את⟩ ntlo ya ntlha fa e ne e bewa motheo, ntlo e mo ditsong tsa bone, ba lela ka lentswe le legolo; mme ba bantshi ba hudela ka boitumelo, ba tlhatlosa lentswe.",
+  "tokens": [
+    {
+      "surface": "ורבים",
+      "gloss": "mme bontsi"
+    },
+    {
+      "surface": "מהכהנים",
+      "gloss": "jwa bapriste"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le Balefi"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "le ditlhogo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "twa malapa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya ntlha"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya ntlha"
+    },
+    {
+      "surface": "ביסדו",
+      "gloss": "fa e ne e bewa motheo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "e"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "mo ditsong tsa bone"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "ba lela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentswe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "ורבים",
+      "gloss": "mme ba bantshi"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ba hudela ka segolokwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka boitumelo"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "ba tlhatlosa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:25:27.543713459Z",
+  "model": "glm-5.3"
+}

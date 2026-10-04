@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Moloi, ka bogodimo jwa sefatlhego sa gagwe, ga o batle; «Ga go na Elohim» — dikakanyo tsotlhe tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Moloi"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ka bogodimo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "jwa sefatlhego sa gagwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "o batle"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "dikakanyo tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:47.514402078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mo dilo tsotlhe tseo, Ayobo ga o a dira boleo, mme ga a ka a neela go sa utlwale ga Elohim.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "mo dilo tsotlhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a dira boleo"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayobo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga a ka a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "go sa utlwale"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ga Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:33.329657364Z",
+  "model": "glm-5.3"
+}

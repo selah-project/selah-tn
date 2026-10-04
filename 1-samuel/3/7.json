@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Shemue a sa ntse a sa itse ⟨את⟩ Yahwe, gape lefoko la Yahwe le sa ntse le sa mo senolelwa.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Mme Shemue"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "a sa ntse a sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "gape le sa ntse le sa"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "senolelwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:31.373502287Z",
+  "model": "glm-5.3"
+}

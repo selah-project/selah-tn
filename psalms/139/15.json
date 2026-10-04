@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Marapo a me a ne a sa ba le phiri go tswa go wena, fa ke ne ke bopiwa ka sephiring, ke boafokiwa kwa tlase ga lefatshe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "a ba le phiri"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "Marapo a me"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go tswa go wena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke ne ke bopiwa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka sephiring"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ke boafokiwa"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "kwa tlase ga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:57.171227832Z",
+  "model": "glm-5.3"
+}

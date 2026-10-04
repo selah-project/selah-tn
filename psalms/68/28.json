@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 68:28",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Foo go na le Benjamine, yo monnye, a ba busa; balaodi ba Yudha le phuthego ya bone, balaodi ba Zebulone le balaodi ba Naftale.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamine"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "yo monnye"
+    },
+    {
+      "surface": "רדם",
+      "gloss": "a ba busa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yudha"
+    },
+    {
+      "surface": "רגמתם",
+      "gloss": "le phuthego ya bone"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "ba Zebulone"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ba Naftale"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:41.533861593Z",
+  "model": "glm-5.3"
+}

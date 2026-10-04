@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Yehoshua o ne a laela ⟨את⟩ setshaba a re: Lo se ke la kua, le se ke la dira gore ⟨את⟩ lentswe la lona le utlwiwe, mme lefoko le se ke la tswa mo molomong wa lona, go fitlha letsatsi ke a re lo kue; mme lo tla kua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o ne a laela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ke la"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "kua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "dira gore le utlwiwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la lona"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "lentswe la lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le se ke la"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "la tswa"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "mo molomong wa lona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ke a re"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "lo kue"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "mme lo tla kua"
+    }
+  ],
+  "timestamp": "2026-10-03T22:35:36.203204678Z",
+  "model": "glm-5.3"
+}

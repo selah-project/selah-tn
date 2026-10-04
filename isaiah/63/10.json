@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Mme bone ba ne ba tsuologa, ba tlhotlora ⟨את⟩ ruakh ya boitshepo ya gagwe; jalo o ne a fetoga a nna masedinari wa bone; o ne a lwa le bone.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "mme bone"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ba tsuologa"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "ba tlhotlora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya boitshepo ya gagwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya boitshepo ya gagwe"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "jalo o ne a fetoga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a nna…wa bone"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "masedinari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o ne"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "a lwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "le bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:03:25.838035286Z",
+  "model": "glm-5.3"
+}

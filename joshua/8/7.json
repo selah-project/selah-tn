@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme lona lo tla tlhatloga mo boiphitlhing, lo gapa ⟨את⟩ toropo; mme Yahwe, Elohim ya lona, o tla e neela mo diatleng tsa lona.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "lo tla tlhatloga"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "mo boiphitlhing"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "lo gapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "o tla e neela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mo diatleng tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:37:45.931903640Z",
+  "model": "glm-5.3"
+}

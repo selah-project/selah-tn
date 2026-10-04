@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme a araba: Ga ke a tshwenya ⟨את⟩ Yisraele, mme wena le ntlo ya rraago, ka gonne lo tlogetse ⟨את⟩ melao ya Yahwe, mme lo latela Baale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a araba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "ke a tshwenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "le ntlo ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rraago"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "ka gonne lo tlogetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "melao ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "lo latela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baale"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:37.686498718Z",
+  "model": "glm-5.3"
+}

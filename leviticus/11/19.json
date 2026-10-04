@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "le ⟨את⟩ khasidaha, le anafaha go ya ka mofuta wa yone, le ⟨את⟩ dukhipathe le ⟨את⟩ atalefu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "khasidaha"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "khasidaha"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "anafaha"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "go ya ka mofuta wa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dukhipathe"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "dukhipathe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "atalefu"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "atalefu"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:22.833679883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "A re ga Yetere, mogetsi wa gagwe wa ntlha: Tshoga, o ba bolaye. Mme mosha a sa ntsha tshaka ya gagwe, gonne o ne a tshaba, gonne o sa ntse a le mosha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A re ga"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "Yetere"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "mogetsi wa gagwe wa ntlha"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tshoga"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "o ba bolaye"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "Zeba le Tsalmuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ntsha"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "tshaka ya gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "o ne a tshaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "o sa ntse"
+    },
+    {
+      "surface": "נער",
+      "gloss": "a le mosha"
+    }
+  ],
+  "timestamp": "2026-10-03T22:49:10.641875398Z",
+  "model": "glm-5.3"
+}

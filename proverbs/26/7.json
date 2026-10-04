@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Jaaka maoto a bokgonokgono a dule maatla, jalo le pono-pheko mo molomong wa difole.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "a dule maatla"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "maoto"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "mo bokgonokgonong"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "le pono-pheko"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mo molomong"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wa difole"
+    }
+  ],
+  "timestamp": "2026-10-04T01:50:52.085729879Z",
+  "model": "glm-5.3"
+}

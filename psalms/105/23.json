@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Mme Yisraele a tsena Mitsrayime, mme Yaakobo a nna moafrika mo lefatsheng la Kame.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mme ... a tsena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "mme Yaakobo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "a nna moafrika"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:20.429470188Z",
+  "model": "glm-5.3"
+}

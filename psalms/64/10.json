@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "Mme motho otlhe a tshaba, mme ba tlhagisa tiro ya Elohim, mme tiro ya gagwe ba e tlhaloganya botlhale.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "a tshaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ba tlhagisa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "tiro ya gagwe"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ba e tlhaloganya botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:44.345023863Z",
+  "model": "glm-5.3"
+}

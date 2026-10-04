@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "mme letsatsi la bosupa ke Shabata go ya go Yahwe Elohim wa gago; o se ka wa dira tiro e nngwe le e nngwe — wena, morwa wa gago, le morwadiaha wa gago, le molekane wa gago wa mosetsana, le phologolo ya gago, le moafolofolo wa gago yo o nang le wena koo kgoreng ya gago:",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "mme letsatsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bosupa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go ya go Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wa dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e nngwe le e nngwe"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "morwadiaha wa gago"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "molekane wa gago wa monna"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "le molekane wa gago wa mosetsana"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "le phologolo ya gago"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "le moafolofolo wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "mo kgoreng ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:38.042399998Z",
+  "model": "glm-5.3"
+}

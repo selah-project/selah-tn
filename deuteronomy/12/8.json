@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Lo se ka wa dira jaaka dilo tsotlhe tse re di dirang fano gompieno, mongwe le mongwe a dira se se siameng mo matlhong a gagwe;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lo se ka wa"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "dira"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jaaka dilo tsotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "di dirang"
+    },
+    {
+      "surface": "פה",
+      "gloss": "fano"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se se siameng se sengwe le se sengwe"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mo matlhong a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:25:36.334897991Z",
+  "model": "glm-5.3"
+}

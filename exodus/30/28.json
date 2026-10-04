@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Le ⟨את⟩ altare ya polao ya kaelo le ⟨את⟩ dithoto tsa yone ka tsotlhe, le ⟨את⟩ sekuru le ⟨את⟩sekepe sa sona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "altare ya polao ya kaelo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya polao ya kaelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithoto tsa yone ka tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka tsotlhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dithoto tsa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekuru"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "sekuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekepe sa sona"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sekepe sa sona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:27.366787015Z",
+  "model": "glm-5.3"
+}

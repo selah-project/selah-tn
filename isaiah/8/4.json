@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Gore fa pesana e sa tswa go itse go bitsa rraagwe le mmaagwe, di tla isa ⟨את⟩ khumo ya Damaske le ⟨את⟩ sekapo sa Shomarona kwa go kgosi ya Ashure.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "fa e sa tswa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e itse"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pesana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "go bitsa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "le mmaagwe"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "di tla isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khumo ya Damaske"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "khumo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaske"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekapo sa Shomarona"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sekapo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomarona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:05.376043334Z",
+  "model": "glm-5.3"
+}

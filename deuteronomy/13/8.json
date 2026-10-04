@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "— ya ditshaba tse di dikologileng le ha lona, tse di gaufi le wena, kana tse di kgakala go wena, go thogo ya lefatshe go fitlha thogong ya lefatshe.",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "ya medimo ya"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "di dikologileng le ha lona"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "tse di gaufi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "tse di kgakala"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "go thogo ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "thogong ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:08.165364272Z",
+  "model": "glm-5.3"
+}

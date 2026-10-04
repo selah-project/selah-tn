@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ke tla go go tlisa tlhaloganyo ya ⟨את⟩ se se tlang go diragala setshabeng sa gago mo mafelelong a malatsi; gonne go sa le gone pono e rulagantswe malatsi.",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "mme ke tla"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "go go tlisa tlhaloganyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se tlang go diragala setshabeng sa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "se tlang go diragala"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "setshabeng sa gago"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "mo mafelelong a"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "go sa le gone"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "pono"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "e rulagantswe malatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:24:48.042661680Z",
+  "model": "glm-5.3"
+}

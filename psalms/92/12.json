@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 92,
+  "translation": "Mme lengo la me le ne le lebelela ba ba lebileng me, ba ba emetseng go nna, ba ba dirang bosula; ditsebe tsa me di ne di utlwa.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "le ne le lebelela"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "lengo la me"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "ba ba lebileng me"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "ba ba emetseng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ba ba dirang bosula"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "di ne di utlwa"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ditsebe tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:04.590805817Z",
+  "model": "glm-5.3"
+}

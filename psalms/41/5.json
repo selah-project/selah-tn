@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Nna ke ne ke re: Yahwe, ntle mosa ka me; alafa mogare wa me, gonne ke ne ke se molato go wena.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ntle mosa ka me"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "alafa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mogare wa me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ke ne ke se molato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:06.522732140Z",
+  "model": "glm-5.3"
+}

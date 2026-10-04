@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme go ne go le jalo, fa setshaba sotlhe se ne se feditse go tlola ⟨את⟩ Yoredene, Yahwe a bua le Yehoshua, a re:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le jalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "se feditse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "go tlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:22.034384337Z",
+  "model": "glm-5.3"
+}

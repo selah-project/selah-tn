@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 82,
+  "translation": "Ga ba itse, mme ga ba tlhaloganye; ba tsamaya mo lefifing; ditheo tsotlhe tsa lefatshe di tla tshitinyega.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba itse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba tlhaloganye"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "mo lefifing"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "di tla tshitinyega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "ditheo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tsa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:46.947229398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme ba ba mo fantseng a rakola dithako ba mo isa kwa go Moshe, le kwa go Aharone, le kwa go setshaba sotle.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "ba mo isa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (eno)"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "ba ba mo fantseng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (eno)"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "a rakola"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "dithako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa go"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotle"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T22:10:18.344742270Z",
+  "model": "glm-5.3"
+}

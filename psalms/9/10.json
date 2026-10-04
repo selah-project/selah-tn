@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Yahwe o tla nna lefika la ba ba tlhasetsweng, lefika la dinako tsa kgatelelo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme o tla nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "lefika"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "la ba ba tlhasetsweng"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "lefika"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "la dinako"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "tsa kgatelelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:48.585996265Z",
+  "model": "glm-5.3"
+}

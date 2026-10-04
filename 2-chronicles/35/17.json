@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme bana ba Yisraele ba ba neng ba le teng ba dira ⟨את⟩ Paseka ka nako eo, le ⟨את⟩ moletlo wa matzote, malatsi a supa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ba ba neng ba le teng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "moletlo"
+    },
+    {
+      "surface": "חג",
+      "gloss": "moletlo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "wa matzote"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:59:17.102000312Z",
+  "model": "glm-5.3"
+}

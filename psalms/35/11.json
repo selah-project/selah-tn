@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Boni ba tlholo ba simolola ⟨go nna⟩; se ke sa se itse ba a n botsa.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "ba simolola"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "boni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ba tlholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke se itse"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ba a n botsa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:40.800471570Z",
+  "model": "glm-5.3"
+}

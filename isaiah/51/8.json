@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Gonne phane e tlaa ba ja jaaka diaparo, mme phane e tlaa ba ja jaaka mohala; mme tsedeke ya me e tlaa nna ya leruri, mme tokololo ya me ya mekgabgabeng e le mekgabgabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "jaaka diaparo"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "e tlaa ba ja"
+    },
+    {
+      "surface": "עש",
+      "gloss": "phane"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "jaaka mohala"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "e tlaa ba ja"
+    },
+    {
+      "surface": "סס",
+      "gloss": "phane"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "mme tsedeke ya me"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ya leruri"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tlaa nna"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "mme tokololo ya me"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ya mekgabgabeng"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "e le mekgabgabo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:38.706819453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Chelete tsa mahu di ne di mpotolotse, mme dinoka tsa boloi di ne di ntshabisa.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "di ne di mpotolotse"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "chelete tsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mahu"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "mme dinoka tsa"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "boloi"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "di ne di ntshabisa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:41.856731203Z",
+  "model": "glm-5.3"
+}

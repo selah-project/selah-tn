@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Dawide ya latela, ena le banna ba le makgolo a mane; mme banna ba le makgolo a mabedi ba eme, ba neng ba itsikitse go tlola ⟨את⟩ molapo wa Habesore.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "ya latela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ena"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le mane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ba eme"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a mabedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "ba itsikitse"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "go tlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molapo wa Habesore"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molapo"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Habesore"
+    }
+  ],
+  "timestamp": "2026-10-04T03:08:18.833901971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 146,
+  "translation": "Yo o dirang katlholo ba ba sotliwang, yo o nayang senkgwe ba ba swangwang ke tlala; Yahwe o golola ba ba tserweng jaaka magolegwa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "ba ba sotliwang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yo o nayang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "ba ba swangwang ke tlala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "o golola"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ba ba tserweng jaaka magolegwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:19.808359252Z",
+  "model": "glm-5.3"
+}

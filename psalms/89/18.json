@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Gore wena ke kgalalelo ya maatla a bone, mme ka boikaelelo jwa gago lenaka la rona le a godisiwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "ya maatla a bone"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "mme ka boikaelelo jwa gago"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "le a godisiwa"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "lenaka la rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:47.138587689Z",
+  "model": "glm-5.3"
+}

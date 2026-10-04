@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Ba ka se bone ⟨את⟩ lefatshe leo ke neng ka ikanela bo-ntataa bone, mme botlhe ba ba ntlhoileng ga ba ka ke ba bona.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ba ka se"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe leo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke neng ka ikanela"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "bo-ntataa bone"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme botlhe"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "ba ba ntlhoileng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ba ka ke ba"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:09:37.505342656Z",
+  "model": "glm-5.3"
+}

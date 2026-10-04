@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme mo godimo ga mmele wa ntlo o ne a aga boalo go dikologa, ⟨את⟩ mmele wa ntlo go dikologa, wa heikhale le wa Debire; mme a dira matlhakore go dikologa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "o ne a aga"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "mmele"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa ntlo"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "boalo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmele wa ntlo"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "mmele"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa ntlo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "wa heikhale"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "le wa Debire"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "matlhakore"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:22:38.145942153Z",
+  "model": "glm-5.3"
+}

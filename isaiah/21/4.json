@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Pelo ya me e ne e ferefela, phatlha e ne ya nthuntsha; ⟨את⟩ boa ba seripa sa me o ne a ba beile go nna go thothomela.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "e ne e ferefela"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "phatlha"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "e ne ya nthuntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boa ba seripa sa me"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "boa"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "ba seripa sa me"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o ne a ba beile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "go thothomela"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:00.059129733Z",
+  "model": "glm-5.3"
+}

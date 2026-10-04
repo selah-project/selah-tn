@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Ka nako eo o ne a bua ka ponatshepetso go ba ba ikanyegang ba gago, mme o ne a re: Ke beile thuso mo mong wa maatla, ke godisitse mosha yo o tlhophilweng go tswa mo setshabeng.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "o ne a bua"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "ka ponatshepetso"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "go ba ba ikanyegang ba gago"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mme o ne a re"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ke beile"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mong wa maatla"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "ke godisitse"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "mosha yo o tlhophilweng"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "go tswa mo setshabeng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:47.138924701Z",
+  "model": "glm-5.3"
+}

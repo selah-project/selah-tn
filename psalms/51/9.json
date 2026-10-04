@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Ntshwefetse ka ezoobe, mme ke tla ithekga; ntlhatswe, mme ke tla lehuma go feta sekapetlwa.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "ntshwefetse"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "ka ezoobe"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "mme ke tla ithekga"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "ntlhatswe"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "go feta sekapetlwa"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ke tla lehuma"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:09.808978914Z",
+  "model": "glm-5.3"
+}

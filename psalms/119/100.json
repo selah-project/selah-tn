@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Go bagolo ke a tlhaloganya go feta, gonne malao a gago ke a a lotlegileng.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "Go bagolo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ke a tlhaloganya go feta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "malao a gago"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ke a a lotlegileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:20.995988744Z",
+  "model": "glm-5.3"
+}

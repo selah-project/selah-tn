@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "A ba tshwenyege, a ba phirimale ba ba tlholang mogama wa me; a ba ipofole ka matla a tlhaselo le tshwene ba ba batlang bosula jwa me.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "a ba tshwenyege"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "a ba phirimale"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ba ba tlholang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mogama wa me"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "a ba ipofole"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "matla a tlhaselo"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "le tshwene"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ba ba batlang"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bosula jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:42.122426580Z",
+  "model": "glm-5.3"
+}

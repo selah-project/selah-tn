@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 21:22",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "mme go ne go le ka nako eo, Abimeleke le Fikole, mookamedi wa masomo a gagwe, ba bua le Abrahame, ba re: Elohim o na le wena mo go sengwe le sengwe se o se dirang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go le"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "le Fikole"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "wa masomo a gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "o na le wena"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "se dirang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:32.667948708Z",
+  "model": "glm-5.3"
+}

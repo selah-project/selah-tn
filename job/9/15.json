@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Gore le fa ke ne ke le mo tsedekeng, nka ne nka se arabe, mme go ya ka katlholo ya me, ke tla ikopa mohau.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "le fa"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "ke ne ke le mo tsedekeng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka se"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "arabe"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "go ya ka katlholo ya me"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ke tla ikopa mohau"
+    }
+  ],
+  "timestamp": "2026-10-04T01:55:14.257715869Z",
+  "model": "glm-5.3"
+}

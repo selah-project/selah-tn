@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mmala wa bona o tlaa o senya mo lefatsheng, le peo ya bona mo baneng ba batho.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "mmala wa bona"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "o tlaa o senya"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "le peo ya bona"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mo baneng ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:25.488796444Z",
+  "model": "glm-5.3"
+}

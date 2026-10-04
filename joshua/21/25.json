@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme go tswa mo setlhareng se se gabaganyeng sa morafe wa Menashe: ⟨את⟩ Taanake le ⟨את⟩ mafelo a yone a boipelo, le ⟨את⟩ Gathe-Rimone le ⟨את⟩ mafelo a yone a boipelo — ditoropo di le pedi.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "mme go tswa mo setlhareng se se gabaganyeng"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "morafe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanake"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a yone a boipelo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mafelo a yone a boipelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Gathe-Rimone"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathe-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a yone a boipelo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mafelo a yone a boipelo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "di le pedi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:56.698151152Z",
+  "model": "glm-5.3"
+}

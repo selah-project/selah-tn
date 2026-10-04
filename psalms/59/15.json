@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Mme ba boele ka maitseboa, ba llele jaaka ntsha, mme ba ralale mo teng ga motse.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Mme ba boele"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ka maitseboa"
+    },
+    {
+      "surface": "yaהמו",
+      "gloss": "ba llele"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "jaaka ntsha"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "mme ba ralale"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:58.999805656Z",
+  "model": "glm-5.3"
+}

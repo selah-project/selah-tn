@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Se se gape ke se se kileng sa bona mo — bohlale bo tlase ga letsatsi, mme se segolo ⟨ke⟩ go nna.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke se kileng sa bona"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlase ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "mme se segolo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:44.364000649Z",
+  "model": "glm-5.3"
+}

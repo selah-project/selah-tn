@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme kgosi Yehorame a tsamaya ka letšatšing leo, a tswa kwa Shomarone, mme a tlhatlhoba ⟨את⟩ Yisraele yotlhe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorame"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatšing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "a tswa kwa Shomarone"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "a tlhatlhoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:32.046709452Z",
+  "model": "glm-5.3"
+}

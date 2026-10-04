@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Yoridane o ne a mo gelabetsa ⟨את⟩ kwa thologanyeng ya botlhaba. E tshwana le boswa jwa bana ba Benjamine, go ya ka melelwa ya jone mabapi, go ya ka malapa a bone.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Mme Yoridane"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "o ne a mo gelabetsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "gelo (kwa thologanyeng ya botlhaba)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kwa thologanyeng"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ya botlhaba"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "E tshwana le"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "boswa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "jwa bana ba"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamine"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "go ya ka melelwa ya jone"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mabapi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya ka malapa a bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:41:32.921775514Z",
+  "model": "glm-5.3"
+}

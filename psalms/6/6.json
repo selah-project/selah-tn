@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Gore kwa losong ga go na le segopotso sa gago; kwa Sheole, ke mang yo o tla go lebogang?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na le"
+    },
+    {
+      "surface": "במות",
+      "gloss": "kwa losong"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "segopotso sa gago"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "kwa Sheole"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "yo o tla go lebogang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "tokens_note": ""
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:26.022864413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Bophelo o ne a bo kopa go wena, mme wa mo naya; boleele jwa matsatsi, ka bosakhutshelo le go sa fele.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "o ne a kopa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "wa naya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "boleele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jwa matsatsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka bosakhutshelo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go sa fele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:04.725381132Z",
+  "model": "glm-5.3"
+}

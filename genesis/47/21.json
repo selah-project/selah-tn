@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Mme ⟨את⟩ batho o ne a ba sisitse go ya kwa ditoropong, go tloga kwa sekgolweng sa molelwa wa Mitsrayime go fitlha kwa sekgolweng sa one.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "batho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "a ba sisitse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kwa ditoropong"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "kwa ditoropong"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "go tloga kwa sekgolweng sa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha kwa"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "sekgolwa sa one"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:14.932403553Z",
+  "model": "glm-5.3"
+}

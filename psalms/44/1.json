@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Mokwalahlogolo: go ba ba etelang diko, go bana ba Korake, pego ya go ruta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go ba ba etelang diko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korake"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pego ya go ruta"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:31.408756549Z",
+  "model": "glm-5.3"
+}

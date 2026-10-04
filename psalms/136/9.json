@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "⟨את⟩ kgwedi le dinaledi go busa bofilegone, gore go ya le lefatshe le le sa khutlang hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgwedi"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "le dinaledi"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "go busa"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bofilegone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lefatshe le le sa khutlang"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:21.489586501Z",
+  "model": "glm-5.3"
+}

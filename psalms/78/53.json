@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme a ba isa ka pabalesego, mme ba sa tshoge; mme lewatle le ne la khurumetsa ⟨את⟩ ba ba ba tlhoyang.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "a ba isa ka pabalesego"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka pabalesego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "tshoge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba ba tlhoyang"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ba ba ba tlhoyang"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "la khurumetsa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:37.456935120Z",
+  "model": "glm-5.3"
+}

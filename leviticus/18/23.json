@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 18:23",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme o se ka wa neela bosweu jwa gago go phologolo epe fela, go itlama ka jona; mme mosadi a se ke a ema fa pele ga phologolo go tsenana le jona; tlhakatlhakano ke yona.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "mme go phologolo epe fela"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "neela"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "bosweu jwa gago"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "go itlama"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka jona"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "mme mosadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke a"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "go tsenana le jona"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tlhakatlhakano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:29.401598135Z",
+  "model": "glm-5.3"
+}

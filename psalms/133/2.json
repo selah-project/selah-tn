@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 133,
+  "translation": "E tshwana jaaka mafura a mantle a a falotseng mo tlhogong, a a namang mo boriting — boriti jwa Aharone — o o namang fa morago ga molomo wa diaparo tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "jaaka mafura"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "a mantle"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "tlhogong"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a a falotseng"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "boriting"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "boriti"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "jwa Aharone"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "o o namang"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "diaparo tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:04.974227880Z",
+  "model": "glm-5.3"
+}

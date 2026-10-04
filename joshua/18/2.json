@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme go ne go sa ntse go na le, mo gare ga bana ba Yisraele, ba ba sa ntsang ba sa abetsa ⟨את⟩ bojwa jwa bone — merafe e supa.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "go ne go sa ntse go na le"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mo gare ga bana ba"
+    },
+    {
+      "surface": "יִשׂרָאֵל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "a abetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojwa jwa bone"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "bojwa jwa bone"
+    },
+    {
+      "surface": "שֶׁבַע",
+      "gloss": "e supa"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "merafe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:41:58.696518266Z",
+  "model": "glm-5.3"
+}

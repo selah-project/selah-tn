@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Botlhe ba ba nkileng ba mpona ba a ntlhaola; ba ntshela sefuba ka molomo, ba dihitlhisa tlhago.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ba ba nkileng ba mpona"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ba a ntlhaola"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "ba ntshela sefuba"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ka molomo"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ba dihitlhisa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:16.824891288Z",
+  "model": "glm-5.3"
+}

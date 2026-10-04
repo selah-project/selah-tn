@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Menashe o ja ⟨את⟩ Efrayime, mme Efrayime o ja ⟨את⟩ Menashe; ba babedi mmogo kgatlhanong le Yuda. Mo go tsotlhe tseo tlhogo ya gagwe ga e a boa, mme seatla sa gagwe se ntse se neetswe.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayime"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "mme Efrayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go tsotlhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a boa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "tlhogo ya gagwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "se ntse se neetswe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:40.810304140Z",
+  "model": "glm-5.3"
+}

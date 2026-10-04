@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Opelang mo košong e mosha; tshamekang ka botswerere ka teria.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Opelang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "košong"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e mosha"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ka botswerere"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "tshamekang"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ka teria"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:51.905239715Z",
+  "model": "glm-5.3"
+}

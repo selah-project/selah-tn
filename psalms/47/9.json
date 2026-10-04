@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Elohim o busa mo ditshabeng, Elohim o ntse mo setulong sa boitshepo sa gagwe.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshabeng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o ntse"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulong"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "boitshepo sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:28.895793713Z",
+  "model": "glm-5.3"
+}

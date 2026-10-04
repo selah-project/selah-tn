@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ke tla nna mo gare ga bana ba Yisraele, ga ke tla tlogela ⟨את⟩ batho ba me ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "ke tla nna"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ga ke tla"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho ba me ba Yisraele"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "batho ba me"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:22:36.976432499Z",
+  "model": "glm-5.3"
+}

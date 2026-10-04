@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Barwa ba dikgosi di mo ba ba tlhokometsweng ba gago; kgosigadi eme ka moja ga letsogo la gago la moja, ka gauta ya Ophire.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "mo ba ba tlhokometsweng ba gago"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "eme"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "kgosigadi"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "ka moja ga letsogo la gago la moja"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ya Ophire"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:09.640753391Z",
+  "model": "glm-5.3"
+}

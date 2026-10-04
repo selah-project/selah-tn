@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme dikgosi tsotlhe tse di ile tsa kopana, mme ba tla, mme ba khampa mmogo kwa metsing a Merome, go lwa le Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "di ile tsa kopana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tse"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba khampa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsing"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "a Merome"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:40:48.610464518Z",
+  "model": "glm-5.3"
+}

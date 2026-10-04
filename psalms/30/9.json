@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Go go wena, Yahwe, ke a bitsa, mme go Adonai ke a rapela mohau.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "go go wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke a bitsa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme go"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ke a rapela mohau"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:37.529300202Z",
+  "model": "glm-5.3"
+}

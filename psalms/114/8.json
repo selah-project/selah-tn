@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 114,
+  "translation": "Yo o fetolang leje go nna letamo la metsi, leje le le thata go nna motswedi wa metsi.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "yo o fetolang"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "leje"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "letamo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "la metsi"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "leje le le thata"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "go nna motswedi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wa metsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:58.719684001Z",
+  "model": "glm-5.3"
+}

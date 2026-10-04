@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Go mokaedi. Psalema ya Dawide. Elohim wa tlotlo ya me, o se ke wa didimalla.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go mokaedi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Psalema"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "tlotlo ya me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "didimalla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:33.194564402Z",
+  "model": "glm-5.3"
+}

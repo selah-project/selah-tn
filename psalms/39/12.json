@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Ka diteko o kgweetsa motho ka ntlha ya boitshwaro jo bo sa siamang, o bo o fenya jaaka phane se a se ratang; ruri fela, motho mongwe le mongwe ke sephiri. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Ka diteko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "עון",
+      "gloss": "boitshwaro jo bo sa siamang"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "o kgweetsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "o bo o fenya"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "jaaka phane"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "se a se ratang"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ruri fela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sephiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:48.155699590Z",
+  "model": "glm-5.3"
+}

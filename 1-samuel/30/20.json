@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Dawide o ne a tsaya ⟨את⟩ podi tsotlhe le dikgomo; di ne tsa tlhagelela pele ga teme eo; mme ba re: Se ke tshwara ya Dawide.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podi tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "podi"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "tsa tlhagelela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "teme"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "tshwara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T23:07:30.647223745Z",
+  "model": "glm-5.3"
+}

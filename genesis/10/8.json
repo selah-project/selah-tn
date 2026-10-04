@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Kushe a belega ⟨את⟩ Nimrode; yena o simolotse go nna molemo wa maatla mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Mme Kushe"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrode"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrode"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "החל",
+      "gloss": "o simolotse"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "molemo wa maatla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:38.563057046Z",
+  "model": "glm-5.3"
+}

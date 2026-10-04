@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "le masomo a gagwe, le ba ba balwang ga ene, di le dinne le masome a matlhano dikete, le makgolo a mane.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "le masomo a gagwe"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "le ba ba balwang ga ene"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dinne"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masome a matlhano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le mane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:03.531110456Z",
+  "model": "glm-5.3"
+}

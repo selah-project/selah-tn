@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 9:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "O se ka wa re mo pelong ya gago, fa Yahwe Elohim wa gago ba ntshitse ba le pele ga wena, o re: Ka boitshepo jwa me Yahwe o nthhaltseletse go gapa ⟨את⟩ lefatshe le; mme ka bo-bobe jwa ditshaba tse, Yahwe ke ene a ba ntshitseng fa pele ga gago.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ka wa re"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "mo pelong ya gago"
+    },
+    {
+      "surface": "בהדף",
+      "gloss": "fa a ba ntshitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "ba le pele ga wena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "בצדקתי",
+      "gloss": "Ka boitshepo jwa me"
+    },
+    {
+      "surface": "הביאני",
+      "gloss": "o nthhaltseletse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "go gapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe le"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "וברשעת",
+      "gloss": "mme ka bo-bobe jwa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מורישם",
+      "gloss": "a ba ntshitseng"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "fa pele ga gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:21.616774067Z",
+  "model": "glm-5.3"
+}

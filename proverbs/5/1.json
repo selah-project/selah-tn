@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Morwaaka, eleloko tlhaloganyo ya me, theetsa go tlhaloganya ga me, kgama tlhogo ya goretse sefala sa gago.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "morwaaka"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "eleloko tlhaloganyo ya me"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "theetsa"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "go tlhaloganya ga me"
+    },
+    {
+      "surface": "הט",
+      "gloss": "kgama tlhogo"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sefala sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:43.220317890Z",
+  "model": "glm-5.3"
+}

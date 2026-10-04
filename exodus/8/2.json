@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Aharone a tlola ⟨את⟩ seatla sa gagwe godimo ga metsi a Mitsrayime, mme ditlhabi di tlhatloga, di khurumetsa ⟨את⟩ lefatshe la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "a tlola"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "di tlhatloga"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "ditlhabi"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "di khurumetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:57.964641508Z",
+  "model": "glm-5.3"
+}

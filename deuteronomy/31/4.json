@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Yahwe o tlaa ba direla jaaka a dirileng go Sihione le go Oge, dikgosi tsa Baemore, le lefatshe la bone — o ile a ba senya ⟨את⟩ bone.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mme o tlaa dira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dirileng"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "go Sihione"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "le go Oge"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemore"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "le lefatshe la bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "o ile a senya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:13.430076146Z",
+  "model": "glm-5.3"
+}

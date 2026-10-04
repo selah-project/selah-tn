@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Le amogele tebogo go Yahwe ka kinora; binang ka nevele ya diketeka tse di lesome, mo kokotse.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Le amogele tebogo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ka nevele"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ya diketeka tse di lesome"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "binang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo kokotse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:51.905064329Z",
+  "model": "glm-5.3"
+}

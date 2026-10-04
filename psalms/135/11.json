@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Seakhone kgosi ya Baemore, le Oge kgosi ya Basane, le dikgosi tsotlhe tsa Kanaane;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Seakhone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemore"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "le Oge"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basane"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le tsotlhe tsa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bogosi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:19.768724386Z",
+  "model": "glm-5.3"
+}

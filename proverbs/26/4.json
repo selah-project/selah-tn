@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "O se ka wa araba sefoole go ya ka bosenyi jwa gagwe, gore o se ka wa tshwana le ene, le wena.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תען",
+      "gloss": "araba"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sefoole"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "go ya ka bosenyi jwa gagwe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore o se ka wa"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "tshwana le ene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ene"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:51:20.787435988Z",
+  "model": "glm-5.3"
+}

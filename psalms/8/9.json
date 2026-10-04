@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Dinou tsa magodimo, le ditlhapi tsa lewatle, se se kgabaganyang ditsela tsa mawatle!",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "Dinou"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "le ditlhapi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "se se kgabaganyang"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mawatle"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:29.374799370Z",
+  "model": "glm-5.3"
+}

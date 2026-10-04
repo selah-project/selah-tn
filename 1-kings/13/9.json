@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "gore jaaka Elohim a ntseletse ka lafoko la Yahwe, a re: O se ka wa ja senkgwe, o se ke wa nosa metsi, o se ke wa boa mo tsela eo o neng wa tsamaya ka yona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a ntseletse"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka lafoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wa ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "wa nosa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wa boa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tsela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "o neng wa tsamaya ka yona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:07.217096033Z",
+  "model": "glm-5.3"
+}

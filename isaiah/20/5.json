@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme ba tla tshoga mme ba swabiwa ka ntlha ya Kush, tshepo ya bone, le ka ntlha ya Mitsrayime, kgalalelo ya bone.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ba tla tshoga"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ba swabiwa"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "ka ntlha ya Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "tshepo ya bone"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ka ntlha ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "kgalalelo ya bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:09.240611524Z",
+  "model": "glm-5.3"
+}

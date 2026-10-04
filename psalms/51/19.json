@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Dihlabelo tsa Elohim ke ruakh e e thubegileng; pelo e e thubegileng le e e tlhabilweng, Elohim, ga o di nyefe.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "dihlabelo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "e e thubegileng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "e e thubegileng"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "le e e tlhabilweng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "o di nyefe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:11.589694470Z",
+  "model": "glm-5.3"
+}

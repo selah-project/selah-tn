@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "habakkuk 1:16",
+  "book": "habakkuk",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ka ntlha eo o neela sehlabelo go sego sa gagwe, mme o ntsha mokula go nete ya gagwe, ka gonne ka tsone karolo ya gagwe e nonofile, mme dijo tsa gagwe di a nona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ntlha eo"
+    },
+    {
+      "surface": "יזבח",
+      "gloss": "o neela sehlabelo"
+    },
+    {
+      "surface": "לחרמו",
+      "gloss": "go sego sa gagwe"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "mme o ntsha mokula"
+    },
+    {
+      "surface": "למכמרתו",
+      "gloss": "go nete ya gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ka tsone"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "e nonofile"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "karolo ya gagwe"
+    },
+    {
+      "surface": "ומאכלו",
+      "gloss": "mme dijo tsa gagwe"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "di a nona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:03:32.858030090Z",
+  "model": "glm-5.3"
+}

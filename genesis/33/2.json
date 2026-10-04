@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme a bea ⟨את⟩ makgosi le ⟨את⟩ bana ba tsone ba ntlha, le ⟨את⟩ Lea le bana ba gagwe kwa morago, mme ⟨את⟩ Rakhela le ⟨את⟩ Yosefa ba bofelong.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makgosi"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "makgosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba tsone"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "bana ba tsone"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "ba ntlha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "kwa morago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Rakhela"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yosefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ba bofelong"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:20.277367524Z",
+  "model": "glm-5.3"
+}

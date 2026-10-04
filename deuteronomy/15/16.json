@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme go tla nna jalo: fa a go bolelela a re, Ntse ke sa tswa mo go wena, ka gonne a go rata, le ⟨את⟩ ntlo ya gago, ka gonne go molemo mo go ena go nna le wena;",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme go tla nna jalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a go bolelela a re"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ntse ke sa"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "tswa"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "a go rata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya gago"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "go molemo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ena"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "go nna le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T22:25:29.400003140Z",
+  "model": "glm-5.3"
+}

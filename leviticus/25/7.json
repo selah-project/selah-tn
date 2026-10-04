@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "le tsa keleng ya gago, le tsa diphoofolo tse di mo lefatsheng la gago; kitsiso ya yona yotlhe e tla nna dijo.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "le tsa keleng ya gago"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "le tsa diphoofolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "mo lefatsheng la gago"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "kitsiso ya yona"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "dijo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:36.009667213Z",
+  "model": "glm-5.3"
+}

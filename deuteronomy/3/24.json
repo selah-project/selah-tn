@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Adonai Yahwe, wena o simolotse go bontsha ⟨את⟩ modiri wa gago ⟨את⟩ bogolo jwa gago, le ⟨את⟩ seatla sa gago se se nonofileng; gonne ke mang El kwa magodimong kgotsa lefatsheng yo o ka dirang jaaka ditiro tsa gago le jaaka maatla a gago a magolo?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "o simolotse"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "go bontsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modiri wa gago"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogolo jwa gago"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "bogolo jwa gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seatla sa gago"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "se se nonofileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "le lefatsheng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o ka dirang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dirang"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "jaaka ditiro tsa gago"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "le jaaka maatla a gago a magolo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:19.856306136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Ke tlhotse mongwe kwa bokone, mme a tla ⟨את⟩; kwa bochhabo jwa letsatsi o bitsa ka leina la me, mme a tla mo baeteledipeleng jaaka mo moriting, jaaka mmopi a katola seretse.",
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "Ke tlhotse"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kwa bokone"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "⟨את⟩",
+      "marks": "mongwe — a tla"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kwa bochhabo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "jwa letsatsi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "o bitsa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ka leina la me"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme a tla"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "mo baeteledipeleng"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "mo moriting"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "mmopi"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "a katola"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "seretse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:58:15.012266341Z",
+  "model": "glm-5.3"
+}

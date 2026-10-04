@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme fa ba kokoanya ⟨את⟩ setshaba, lo tlaba, mme lo se ke la boga.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "fa ba kokoanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "lo tlaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme lo se ke la"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "boga"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:06.097649694Z",
+  "model": "glm-5.3"
+}

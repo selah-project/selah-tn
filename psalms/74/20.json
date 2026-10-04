@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Leba kgolagano ya gago; gore mafelo a lefifi a lefatshe a a tlalegarogo dikagiso tsa tlhaolele.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "leba"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "kgolagano ya gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "a a tlalegarogo"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "mafelo a lefifi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a lefatshe"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "dikagiso"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tsa tlhaolele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:16.652594389Z",
+  "model": "glm-5.3"
+}

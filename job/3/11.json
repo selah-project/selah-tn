@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ke eng fa ga ke a swa mo popelong? Ke tswa mo mpateng, mme ke a tlhoka moya.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ke eng fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ke a"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mo popelong"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "swa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mo mpateng"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ke tswa"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "mme ke a tlhoka moya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:47.991802183Z",
+  "model": "glm-5.3"
+}

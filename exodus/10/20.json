@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Yahwe a matlafatsa ⟨את⟩ pelo ya Farao, mme a sa romolle ⟨את⟩ bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "mme a matlafatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya Farao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "romolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:26.426336175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Moeng ke ne ke le wa bokaulengwe jwa me, mme motswakwa wa bara ba mme wa me.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "moeng"
+    },
+    {
+      "surface": " ",
+      "gloss": ""
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "wa bokaulengwe jwa me"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "mme motswakwa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa bara"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ba mme wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:16.109915014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "ba kopana mmogo go lwa le Yehoshua le le kgatlhanong le Yisraele, molomo o le mongwe.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "ba kopana"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le le kgatlhanong le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "פה",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o le mongwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:38:04.669135959Z",
+  "model": "glm-5.3"
+}

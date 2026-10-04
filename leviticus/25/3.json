@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Dingwaga di thataro o tla jala tshimo ya gago, mme dingwaga di thataro o tla kgabola seretse sa gago, mme o tla bokela ⟨את⟩ thobo ya sone.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "thataro"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Dingwaga"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "o tla jala"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tshimo ya gago"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mme thataro"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "o tla kgabola"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "seretse sa gago"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "mme o tla bokela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thobo ya sone"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "thobo ya sone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:02.293394345Z",
+  "model": "glm-5.3"
+}

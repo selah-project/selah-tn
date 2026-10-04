@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ba beela bone balaodi ba tiro ya pateko, gore ba ba kgomoretse ka boima jwa tiro ya bone; mme ba aga diporo tsa dithoto tsa Farao: ⟨את⟩ Pitome le ⟨את⟩ Raamesese.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Ba beela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "bone"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "tiro ya pateko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "ba ba kgomoretse"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "ka boima jwa tiro ya bone"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mme ba aga"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "diporo"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "tsa dithoto"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "tsa Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitome"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitome"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Raamesese"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamesese"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:49.610419806Z",
+  "model": "glm-5.3"
+}

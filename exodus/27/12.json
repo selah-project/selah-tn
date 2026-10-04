@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme bophara jwa kgotla go la bophirima: dikarolo tsa go phuthela tsa dlhaka di le masome a matlhano, ditlhako tsa tsone di le lesome, le maemo a tsone a le lesome.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "mme bophara jwa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kgotla"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "go la"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bophirima"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "dikarolo tsa go phuthela"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "tsa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dlhaka di le masome a matlhano"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ditlhako tsa tsone"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "di le lesome"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "le maemo a tsone"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "a le lesome"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:24.140487499Z",
+  "model": "glm-5.3"
+}

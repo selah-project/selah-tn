@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme basadi botlhe ba pelo ya bone e ba tlhotlheletsa ka bohalahala ba bofa ⟨את⟩ moriri wa diretse.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mme botlhe"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "e ba tlhotlheletsa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "pelo ya bone"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩",
+      "marks": "ba (basadi)"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ka bohalahala"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "ba bofa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moriri wa diretse"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "diretse"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:13.572280281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme ba dira ⟨את⟩ maje a shohame, a a sedikilweng, a a tsenngweng mo dibekanyong tsa gauta, a a kgobilweng jaaka kgatiso ya sekafo, ka maina a bara ya Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maje"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maje"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "a shohame"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "a a sedikilweng"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "dibekanyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "a a kgobilweng"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "kgatiso"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "sekafo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:10.697950950Z",
+  "model": "glm-5.3"
+}

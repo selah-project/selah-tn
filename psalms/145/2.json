@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Ka letsatsi le le mongwe le le mongwe ke tla go thorisa, mme leina la gago ke tla la keteka go ya lelele, le ka bosakhutshwane.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ka ... le le mongwe le le mongwe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ke tla go thorisa"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "mme ke tla la keteka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya lelele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ka bosakhutshwane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:19.900024318Z",
+  "model": "glm-5.3"
+}

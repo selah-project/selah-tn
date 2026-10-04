@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Gonne ke mo mai, ke mohumanapelane, mme pelo ya me e bolaetswe ka teng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mo mai"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mohumanapelane"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "e bolaetswe"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka teng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:37.813702369Z",
+  "model": "glm-5.3"
+}

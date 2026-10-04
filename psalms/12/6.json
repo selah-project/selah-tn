@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Ka ntlha ya go tlhasela bafosafetsi, ka ntlha ya go kua ba humanegileng, jaanong ke tla ema, go bua Yahwe; ke tla mo baya boitshepo, mo go yo o mo hemyang.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "ka ntlha ya go tlhasela"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "bafosafetsi"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "ka ntlha ya go kua"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ba humanegileng"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ke tla ema"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ke tla mo baya"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "yo o mo hemyang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:34.027760030Z",
+  "model": "glm-5.3"
+}

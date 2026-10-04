@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Gore ⟨⟨ke ene⟩⟩ o buile, mme e nna teng; o laetse, mme e ema.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke ene⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme e nna teng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o laetse"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "mme e ema"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:56.912746103Z",
+  "model": "glm-5.3"
+}

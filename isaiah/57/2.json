@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "A khotso e tle, ba pologele mo dilaleng tsa bone, mongwe le mongwe yo o tsamayang ka bontshwaro.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "a tle"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "ba pologele"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "dilaleng tsa bone"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yo o tsamayang"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "ka bontshwaro"
+    }
+  ],
+  "timestamp": "2026-10-04T00:02:42.824663513Z",
+  "model": "glm-5.3"
+}

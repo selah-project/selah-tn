@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "O se ka wa gatelela ⟨את⟩ moagisani wa gago, mme o se ka wa utswa; moputso wa motho wa thuelo a o nnele ⟨את⟩ kwa go wena go fitlha moso.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "gatelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moagisani wa gago"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "moagisani wa gago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "utswa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "a o nnele"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "moputso"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "motho wa thuelo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kwa go wena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:23.695829647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Fa ke tla ke tshwerwe ke tlala, ga ke go bolelele; gonne lefatshe le ya me, le tletse ka sone.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ke tla ke tshwerwe ke tlala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ke bolelele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya me"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe le"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "le tletse ka sone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:47.433967340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "O tshwarela ba intlhafalang mo katlholong, mme o ruta ba intlhafalang tsela ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "o tshwarela"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba intlhafalang"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mo katlholong"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "mme o ruta"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba intlhafalang"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tsela ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:36.576852523Z",
+  "model": "glm-5.3"
+}

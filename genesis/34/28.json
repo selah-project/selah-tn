@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "⟨את⟩ Dinku tsa bone le ⟨את⟩ dikgomo tsa bone le ⟨את⟩ ditlhare tsa bone le ⟨את⟩ sengwe le sengwe se se neng se le mo toropong le ⟨את⟩ sengwe le sengwe se se neng se le masimong ba ne ba se tsaya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinku tsa bone"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "Dinku tsa bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikgomo tsa bone"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "dikgomo tsa bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhare tsa bone"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ditlhare tsa bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe se mo toropong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sengwe le sengwe se"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo toropong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe se masimong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sengwe le sengwe se"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "masimong"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ba tsaya"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:36.354991233Z",
+  "model": "glm-5.3"
+}

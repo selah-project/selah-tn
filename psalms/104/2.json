@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Yo o phatikang mahutire a tsela ya diaparo, yo o atlolang magodimo a tsela ya khemise.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "yo o phatikang"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mahutire"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "a tsela ya diaparo"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "yo o atlolang"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "a tsela ya khemise"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:47.044438846Z",
+  "model": "glm-5.3"
+}

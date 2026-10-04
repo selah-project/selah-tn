@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Kgopo e simolotse go nna sedikwa sa bosula; ga go na sepe se se tswang mo go bone, le e seng bontsi jwa bone, le e seng leru la bone, le e seng leru la bone, mme ga go na go lla mo go bone.",
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "Kgopo"
+    },
+    {
+      "surface": "קם",
+      "gloss": "e simolotse"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "go nna sedikwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa bosula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le e seng"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "bontsi jwa bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le e seng"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "leru la bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le e seng"
+    },
+    {
+      "surface": "נה",
+      "gloss": "go lla"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:32:22.626993168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Ga ke a go atlholela dibolelo tsa gao, gape diphologolo tsa gao tse bolailweng tse ntseng difofleditswe di ntse pele ga me ka metlha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "dibolelo tsa gao"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ke a go atlholela"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "gape diphologolo tsa gao tse bolailweng tse ntseng difofleditswe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "pele ga me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka metlha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:06.796105260Z",
+  "model": "glm-5.3"
+}

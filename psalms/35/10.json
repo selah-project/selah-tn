@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Marapo a me otlhe a tla bua: Yahwe, ke mang yo o tshwanang le wena, yo o gololang yo o tlhokafetseng mo go yo mo nonnofatsang go feta ene, le yo o tlhokafetseng le yo o humanegileng mo go yo mo thubang ene?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "marapo a me"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "a tla bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "yo o tshwanang le wena"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "yo o gololang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yo o tlhokafetseng"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "mo nonnofatsang"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go feta ene"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "le yo o tlhokafetseng"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le yo o humanegileng"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "mo thubang ene"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:07.973750691Z",
+  "model": "glm-5.3"
+}

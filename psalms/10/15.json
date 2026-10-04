@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Roba lenaone la mobe le la yo o bosula; batlisa bobe jwa gagwe, seo se se ka se bonwe.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "roba"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lenaone"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "la mobe"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "le la yo o bosula"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "batlisa"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "bebe jwa gagwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga go sepe"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "se ka se bonwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:05.861561105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Abrahame a wa mo sefating, mme Elohim a bua le ⟨את⟩ ene, a re:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "a wa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefating sa gagwe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ene",
+      "marks": "ene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:38.885345809Z",
+  "model": "glm-5.3"
+}

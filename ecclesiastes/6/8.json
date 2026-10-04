@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Gore ke eng se yo o botlhale a nang le sone go feta setlaela? ke eng se mohlang yo o itseng go tsamaya fa pele ga ba ba tshelang a nang le sone?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "se se oketsegileng"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "go yo o botlhale"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "setlaela"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "mo mohlang"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yo o itseng"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ba ba tshelang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:23:49.515473705Z",
+  "model": "glm-5.3"
+}

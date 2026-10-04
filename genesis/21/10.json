@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme a re go Abrahame: Kgapololong mošomi yo le ⟨את⟩ morwa wa gagwe; gonne morwa wa mošomi yo ga a kitla a tsenela boswa le morwa wa me, le Yitshake.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "go Abrahame"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "kgapololong"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "mošomi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "morwa wa gagwe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "a kitla a tsenela boswa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa mošomi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa wa me"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:23.297557725Z",
+  "model": "glm-5.3"
+}

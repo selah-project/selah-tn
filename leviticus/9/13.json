@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ba mo neela ⟨את⟩ sehlabelo se se fisang ka dikarolo tsa sone, le ⟨את⟩ tlhogo; mme o a di fisa mo go ⟨the⟩ altare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo se se fisang"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo se se fisang"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "ba mo neela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ka dikarolo tsa sone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tlhogo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "o a di fisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:51.492487384Z",
+  "model": "glm-5.3"
+}

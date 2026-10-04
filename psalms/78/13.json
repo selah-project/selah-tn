@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "A bula lewatle mme a ba feta; mme a emisa metsi jaaka lerumo.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "mme a ba feta"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "mme a emisa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "נד",
+      "gloss": "lerumo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:49.893092456Z",
+  "model": "glm-5.3"
+}

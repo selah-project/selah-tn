@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme kohene a tsea karolo ya madi a yone ka menwana ya gagwe, mme a bea mo dinakeng tsa sefala sa sehlabelo sa go fiswa, mme ⟨את⟩ madi a yone otlhe a a dutle go ya kwa motheong wa sefala.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mme a tsea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohene"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "karolo ya madi a yone"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ka menwana ya gagwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mme a bea"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "dinakeng"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "tsa sefala"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sa sehlabelo sa go fiswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "madi a yone otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "madi a yone"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "a a dutle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "motheong"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wa sefala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:22.232871966Z",
+  "model": "glm-5.3"
+}

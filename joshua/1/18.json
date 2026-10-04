@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mongwe le mongwe yo o tlang go ganetsa ⟨את⟩ molomo wa gago mme a sa reetse ⟨את⟩ mafoka a gago, go ya ka tsohotlhe tse o mo laelang, a bolawe; fela, nna wa nonofile, o nne wa boitshoko.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "a ganetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo wa gago"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa gago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "reetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoka a gago"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mafoka a gago"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tsohotlhe tse"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "o mo laelang"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a bolawe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "nna wa nonofile"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "o nne wa boitshoko"
+    }
+  ],
+  "timestamp": "2026-10-03T22:35:09.113665507Z",
+  "model": "glm-5.3"
+}

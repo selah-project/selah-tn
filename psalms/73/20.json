@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Jaaka lorilo motho a tsoga ka one, Adonai, fa o tsoga o tla nyetsa sebono sa bone.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "jaaka lorilo"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "motho a tsoga ka one"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "fa o tsoga"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "sebono sa bone"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "o tla nyetsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:38.415770185Z",
+  "model": "glm-5.3"
+}

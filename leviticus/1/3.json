@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Fa mpho ya gagwe e le mpho ya go fiswa go tswa mo dikgamong, a e tlise — phologolo e e tona, e e feletseng — kwa khurumelong ya tlhoko ya kopano a e tlise, gore e amogelwe molemong wa gagwe pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "mpho ya go fiswa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "mpho ya gagwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgamong"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "phologolo e e tona"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e e feletseng"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "a e tlise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "khurumelong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ya tlhoko"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "a e tlise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "molemong wa go amogelwa ga gagwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:59.999876065Z",
+  "model": "glm-5.3"
+}

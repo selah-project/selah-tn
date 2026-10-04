@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme kwa mosele gaogwe wa Yorodane, kwa Jeriko, bobotlhatsela, ba neela ⟨את⟩ Betser mo bohole, mo sekgorong, mo morafeng wa Reubene; le ⟨את⟩ Raamote kwa Gileade, mo morafeng wa Gade; le ⟨את⟩ Golane kwa Bashane, mo morafeng wa Manase.",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "Mme kwa mosele gaogwe"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "wa Yorodane"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "kwa Jeriko"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "bobotlhatsela"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo bohole"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "mo sekgorong"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "mo morafeng"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "wa Reubene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Raamote"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Raamote"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "kwa Gileade"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "mo morafeng"
+    },
+    {
+      "surface": "גד",
+      "gloss": "wa Gade"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Golane"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "Golane"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "kwa Bashane"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "mo morafeng"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "wa Manase"
+    }
+  ],
+  "timestamp": "2026-10-03T22:43:36.999786913Z",
+  "model": "glm-5.3"
+}

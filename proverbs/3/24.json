@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Fa o robala, o se ka wa tshoga; mme o robala, boroko jwa gago bo tla nna monate.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "o robala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "tshoga"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "mme o robala"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "bo tla nna monate"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "boroko jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:55.674008350Z",
+  "model": "glm-5.3"
+}

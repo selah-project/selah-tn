@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Tiro e nngwe le e nngwe ga lo ka e dira; ke molao wa go sa feleng bakeng sa dikokomana tsa lona kwa bonnong jotlhe jwa lona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "e nngwe le e nngwe"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "lo ka e dira"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molao"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa go sa feleng"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "bakeng sa dikokomana tsa lona"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa ... jotlhe"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "bonnong jwa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:36.708407548Z",
+  "model": "glm-5.3"
+}

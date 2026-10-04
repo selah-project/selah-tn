@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme ka nka ⟨את⟩ puku ya khirizo, ⟨את⟩ e e tswaleditsweng, taelo le melawana, le ⟨את⟩ e e bulegileng.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ka nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puku ya khirizo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "puku"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ya khirizo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e e tswaleditsweng"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "e e tswaleditsweng"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "le melawana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "e e bulegileng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:14:15.314569227Z",
+  "model": "glm-5.3"
+}

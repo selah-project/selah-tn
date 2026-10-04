@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Molaala wa tsona o tsile mo lefatsheng lothle, mme mafoko a tsona go fitlha kwa bofelong jwa lefatshe; mo go tsona o beile phaphosi ya letsatsi.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "mo lefatsheng lothle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tsile"
+    },
+    {
+      "surface": "קום",
+      "gloss": "molaala wa tsona"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "mme go fitlha kwa bofelong"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "mafoko a tsona"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "ya letsatsi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o beile"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "phaphosi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go tsona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:22.211606887Z",
+  "model": "glm-5.3"
+}

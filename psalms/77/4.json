@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Ke ne ke gakologa Elohim mme ke tsubuhela; ke ne ke nagana, mme ruakh ya me ya thelela. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Ke ne ke gakologa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "mme ke tsubuhela"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke ne ke nagana"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "mme ruakh ya me ya thelela"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya me"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:32.127394038Z",
+  "model": "glm-5.3"
+}

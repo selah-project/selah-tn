@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Go nna ga gago mo gare ga mafeke; ka mafeke ba gana go itse ⟨את⟩ me, go bua Yahwe.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "go nna ga gago"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mafeke"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "ka mafeke"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba gana"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "go itse"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:10:51.128104110Z",
+  "model": "glm-5.3"
+}

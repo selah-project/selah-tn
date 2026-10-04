@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Ga go pelonomi ya go tshwana le wena mo go Elohim, Adonai, gape ga go diro tsa go tshwana le tsa gago.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ya go tshwana le wena"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "mo go Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gape ga go"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "diro tsa go tshwana le tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:25.773096137Z",
+  "model": "glm-5.3"
+}

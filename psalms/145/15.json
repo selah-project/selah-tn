@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Mahlo a bothe ba a lebelela kwa go wena, mme wena o ba neela ⟨את⟩ dijo tsa bone ka nako ya tsone.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bothe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa go wena"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ba a lebelela"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "o neela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijo tsa bone"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "dijo tsa bone"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ka nako ya tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:03.619789961Z",
+  "model": "glm-5.3"
+}

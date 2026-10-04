@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ba kgogomosa, mme go se na wa go ba boloka; ba ikuela go Yahwe, mme o ne a sa ba araba.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "ba kgogomosa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme go se na"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "wa go ba boloka"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "a ba araba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:45.050140893Z",
+  "model": "glm-5.3"
+}

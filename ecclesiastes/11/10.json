@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme emisa bogale mo pelong ya gago, mme ntsha bosula mo namang ya gago; gonne bongwana le botsha ke hevele.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Mme emisa"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "mo pelong ya gago"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "mme ntsha"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "mo namang ya gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "bongwana"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "le botsha"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ke hevele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:00.454274664Z",
+  "model": "glm-5.3"
+}

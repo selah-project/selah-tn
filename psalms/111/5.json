@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 111,
+  "translation": "O ne a neela sepego go ba ba mo turafeelong; o tla gakologelwa ka bosakhutshwanyane kgolagano ya gagwe.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "sepego"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ne a neela"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "go ba ba mo turafeelong"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "o tla gakologelwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosakhutshwanyane"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kgolagano ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:59.301005424Z",
+  "model": "glm-5.3"
+}

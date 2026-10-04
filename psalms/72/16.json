@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Go nne le kamonate ya mmedi mo lefatsheng, mo ditlhakoreng tsa dithaba; selemo sa yone se ralala jaaka Lebhanone; mme ba tswa mo toropong ba gola jaaka joang ja lefatshe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "go nne le"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "kamonate ya"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mmedi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "mo ditlhakoreng tsa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "se ralala"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "jaaka Lebhanone"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "selemo sa yone"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ba gola"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ba tswa mo toropong"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "jaaka joang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ja lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:13.434149842Z",
+  "model": "glm-5.3"
+}

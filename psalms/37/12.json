@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mobe a rulaganya maano kgatlhanong le moemedi, mme a kgwatlela manyeme a gagwe mo go ene.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "a rulaganya maano"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mobe"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kgatlhanong le moemedi"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "mme a kgwatlela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "manyeme a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:47.003326103Z",
+  "model": "glm-5.3"
+}

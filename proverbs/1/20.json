@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Bokgone kwa ntle bo a opela; mo mebileng ya ditoropo bo neela lentswe la jone.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "bokgone"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kwa ntle"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "bo a opela"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "mo mebileng ya ditoropo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bo neela"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "lentswe la jone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:34.032906790Z",
+  "model": "glm-5.3"
+}

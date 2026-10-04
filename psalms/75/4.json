@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 75,
+  "translation": "Mme fa lefatshe le balela, le ba ba nnang mo go lona, ke nna ke nonotsha dikolomo tsa lone. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "le balela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ba ba nnang"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "ke nonotsha"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "dikolomo tsa lone"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:36.675783169Z",
+  "model": "glm-5.3"
+}

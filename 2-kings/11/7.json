@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Le dikarolo tse pedi tsa lona, botlhe ba ba tswang ka ⟨the⟩ Shabata, ba tla boloka ⟨את⟩ tshireletso ya ntlo ya Yahwe go dikologa kgosi.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "le dikarolo tse pedi"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "tsa lona"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "ba ba tswang"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ka Shabata"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ba tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshireletso"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tshireletso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:36:26.183436486Z",
+  "model": "glm-5.3"
+}

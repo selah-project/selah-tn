@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ene o ne a swabega ka moya, mme a rapela go Yahwe, mme a lela thata.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "a swabega"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ka moya"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "mme a rapela"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "mme a lela"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-03T22:54:52.289172551Z",
+  "model": "glm-5.3"
+}

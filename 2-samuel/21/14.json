@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 21:14",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ba fitlhela ⟨את⟩ marapo a Shaule le a Yehonathane morwawabo kwa lefatsheng la Benyamine, kwa Tselae, kwa mokatleng wa Kishe rraagwe; mme ba dira sengwe le se sengwe se kgosi e neng e se laetse; mme Elohim o ne a araba ⟨את⟩ lefatshe morago ga foo.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "mme ba fitlhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marapo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "a Shaule"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "le a Yehonathane"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwawabo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatsheng"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "la Benyamine"
+    },
+    {
+      "surface": "בצלע",
+      "gloss": "kwa Tselae"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "kwa mokatleng"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "wa Kishe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le se sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "e neng e se laetse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "mme o ne a araba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨את⟩ lefatshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ga foo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:16:52.872872892Z",
+  "model": "glm-5.3"
+}

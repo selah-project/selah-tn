@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Elohim, ba baikhutseng ba tsere kgatlhanong le nna, mme phuthego ya ba ba gatelelang e batlitse moya wa me, mme ba sa go beye mo go bone pele.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ba baikhutseng"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ba tsere"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatlhanong le nna"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "mme phuthego ya"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ba ba gatelelang"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "e batlitse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "go go beya"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "mo go bone pele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:13.593714848Z",
+  "model": "glm-5.3"
+}

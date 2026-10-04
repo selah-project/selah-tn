@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "A nne le wena jaaka mokopi, jaaka moagi wa nakwana; go fitlha ngwaga wa Yubele o tla direla mo go wena.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "jaaka mokopi"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "jaaka moagi wa nakwana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a nne"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ngwaga wa"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yubele"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "o tla direla"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mo go wena"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:49.498937289Z",
+  "model": "glm-5.3"
+}

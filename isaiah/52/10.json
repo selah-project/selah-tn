@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Yahwe o senotse ⟨את⟩ lonake lwa boitshepo lwa gagwe pele ga ditlhakore tsa ditshaba tsotlhe; mme magala a lefatshe otlhe a tlaa bona ⟨את⟩ kgololoso ya Elohim ya rona.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "o senotse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lonake lwa boitshepo lwa gagwe"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lonake"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "lwa boitshepo lwa gagwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pele ga ditlhakore tsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "mme ... a tlaa bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "magala a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgololoso ya Elohim ya rona"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kgololoso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim ya rona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:00:46.602200015Z",
+  "model": "glm-5.3"
+}

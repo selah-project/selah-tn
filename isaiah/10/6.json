@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ke a mo romola mo setshabeng se se sa itshepang, mme kgatlhanong le setshaba sa botsalentse sa me ke a mo laela, go utswa ⟨את⟩ dithoto le go tlhagola ⟨את⟩ tshwara, le go baya ⟨את⟩ setshaba go gogwa fatshe jaaka letsopa la ditsela tsa kwa ntle.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "mo setshabeng"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "se se sa itshepang"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "ke a mo romola"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme kgatlhanong le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "sa botsalentse sa me"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "ke a mo laela"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "go utswa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "dithoto"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "le go tlhagola"
+    },
+    {
+      "surface": "בז",
+      "gloss": "tshwara"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "le go baya"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "go gogwa fatshe"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "jaaka letsopa"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "la ditsela tsa kwa ntle"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:24.381812663Z",
+  "model": "glm-5.3"
+}

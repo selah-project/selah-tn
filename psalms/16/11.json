@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "O ntseeditse tsela ya botshelo; kgotlefelo ya ditumelano ke go nna kwa ⟨את⟩ sefatlhego sa gago; dinthle tse monate di mo letlhakoreng la gago la moja, ka bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "o ntseeditse"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya botshelo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kgotlefelo"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "ya ditumelano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefatlhego sa gago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "dinthle tse monate"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "mo letlhakoreng la gago la moja"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ka bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:49.591937324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "tse Nebukadnesare, kgosi ya Babilone, a di sa tsewang, a lelekisa ⟨את⟩ Yekonja morwa wa Yehojakime, kgosi ya Yuda, go tswa Yerushalayime go ya Babilone, le ⟨את⟩ botlhe ba ba nang le seriti ba Yuda le ba Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "a di tsewang"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesare"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babilone"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "a lelekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekonja"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Yekonja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehojakime"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "go tswa Yerushalayime"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "go ya Babilone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ba ba nang le seriti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le ba Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T00:19:46.173423978Z",
+  "model": "glm-5.3"
+}

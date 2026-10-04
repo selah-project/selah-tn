@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "O se ke wa nna yo o botlhale mo matlhong a gago; boifa ⟨את⟩ Yahwe, mme o tloge bobe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "wa nna"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yo o botlhale"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mo matlhong a gago"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "boifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "mme o tloge"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "bobe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:09.958327542Z",
+  "model": "glm-5.3"
+}

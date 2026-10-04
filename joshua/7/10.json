@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Yahwe a bua le Yehoshua: Tshoga, o ise o tsamaye; ke ka ntlha yang foo o ineela mahetlha a gago fa fatshe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tshoga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o ise o tsamaye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka ntlha yang foo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "foo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "o ineela"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mahetlha a gago a se bofo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:37:24.179497043Z",
+  "model": "glm-5.3"
+}

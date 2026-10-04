@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Opelang mmino go Yahwe, bahesede ba gagwe, mme le dumelele go gakologelwa boitshepo jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Opelang mmino"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bahesede ba gagwe"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "mme le dumelele"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "go gakologelwa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "boitshepo jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:00.955842834Z",
+  "model": "glm-5.3"
+}

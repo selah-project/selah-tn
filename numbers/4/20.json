@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ba se ke ba tsena go lebelela, le kwa bofofong fela, ⟨את⟩ se se boitshepo, fa e se gore ba tla swa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ba se ke ba"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go lebelela"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "le kwa bofofong fela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se boitshepo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "se se boitshepo"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "fa e se gore ba tla swa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:01.804165143Z",
+  "model": "glm-5.3"
+}

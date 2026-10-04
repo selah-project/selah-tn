@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Kgosi ka botle jwa yona matlho a gago a tlaa e lebelela; a tlaa bona lefatshe le le kgakala.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Kgosi"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "ka botle jwa yona"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "a tlaa e lebelela"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matlho a gago"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "a tlaa bona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "le le kgakala"
+    }
+  ],
+  "timestamp": "2026-10-03T23:53:36.714472738Z",
+  "model": "glm-5.3"
+}

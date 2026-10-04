@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 113,
+  "translation": "Ketekang Yah, ketekang, lona badiri ba Yahwe, ketekang ⟨את⟩ leina la Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ketekang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ketekang"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ketekang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:46.177401435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Moshe a romela ⟨את⟩ rnogiša-mmogo — a romela ⟨את⟩ motsadi wa mosadi wa gagwe, mme ene a ya kwa nageng ya gagwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motsadi wa mosadi wa gagwe"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "motsadi wa mosadi wa gagwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mme a ya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨tsela ya gagwe⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nageng ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:59.050098170Z",
+  "model": "glm-5.3"
+}

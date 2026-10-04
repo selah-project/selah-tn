@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Go bona botlhokwa jwa ba o ba tlhophileng, go nna le boitumelo mo boitumelelong jwa setshaba sa gago, go itlhabela le motho wa gago wa kgologelo.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "mo botlhokweng jwa"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "ba o ba tlhophileng"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "go nna le boitumelo"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "mo boitumelelong jwa"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "go itlhabela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "motho wa gago wa kgologelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:36.400319564Z",
+  "model": "glm-5.3"
+}

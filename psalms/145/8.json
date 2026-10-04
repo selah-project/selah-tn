@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Mohau mme o nang le mosa Yahwe, bopi ka bolé ba teng, mme o mogolo ka hesede.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "mme o nang le mosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bopi"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ka bolé ba teng"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "mme o mogolo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ka hesede"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:52.294923813Z",
+  "model": "glm-5.3"
+}

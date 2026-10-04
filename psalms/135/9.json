@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "O ne a romela matshwao le masupatswelo mo teng ga gago, Mitsrayime, ga Faro le ga badiri ba gagwe botlhe.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "o ne a romela"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "matshwao"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "le masupatswelo"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "mo teng ga gago"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ga Faro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ga badiri botlhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:19.768369145Z",
+  "model": "glm-5.3"
+}

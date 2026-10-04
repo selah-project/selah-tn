@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ka ntlha ya seo ke tsaya ditaelo tsotlhe tsa gago tsa tshiamo mo dilong tsotlhe, mme ke tlhoya tsela yotlhe ya maaka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ditaelo tsa gago tsa tshiamo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mo dilong tsotlhe"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ke tsaya tsa tshiamo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya maaka"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke tlhoya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:09.021899024Z",
+  "model": "glm-5.3"
+}

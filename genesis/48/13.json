@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Mme Yosefe a tsaya ⟨את⟩ bone ba babedi — ⟨את⟩ Efrayime mo ja la gagwe, go ya mogaleng wa Yisraele, le ⟨את⟩ Menashe mo mogaleng wa gagwe, go ya mojeng wa Yisraele — mme a ba gatisetsa go ene.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bone ba babedi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bone ba babedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayime"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "mo ja la gagwe"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "go ya mogaleng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "mo mogaleng wa gagwe"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "go ya mojeng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "mme a ba gatisetsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:02.268459858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "mme ba ne ba tsamaya ka melao ya ditshaba tseo Yahwe a neng a di sutisetsa kwa pele ga bana ba Yisraele, le melao ya dikgosi tsa Yisraele tseo ba neng ba e dira.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ba ne ba tsamaya"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "ka melao"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya ditshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "a neng a di sutisetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "le ya dikgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "tsa Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba neng ba e dira"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:53.327691413Z",
+  "model": "glm-5.3"
+}

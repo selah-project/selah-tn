@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 64:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "Mme go tloga kwa tshimologong ga ba a utlwa, ga ba a reetsa; leitlho ga le a ka la bona Elohim ntle le wena, yo o dirang mo mongwe yo o mo emetseng.",
+  "tokens": [
+    {
+      "surface": "ומעולם",
+      "gloss": "mme go tloga kwa tshimologong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ba a utlwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ba a reetsa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leitlho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "le a bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "ntle le wena"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o dira"
+    },
+    {
+      "surface": "למחכה",
+      "gloss": "mo mongwe yo o mo emetseng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:03:43.940965930Z",
+  "model": "glm-5.3"
+}

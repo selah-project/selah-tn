@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme a romela baromuwa go Ahabe, kgosi ya Yisraele, kwa toropong.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "baromuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "kwa toropong"
+    }
+  ],
+  "timestamp": "2026-10-03T23:30:27.875674819Z",
+  "model": "glm-5.3"
+}

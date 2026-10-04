@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Yahwe o kgaufala le ba ba nang le pelo e e thubilweng, mme o boloka ⟨את⟩ ba ba kgabisitsweng mo moweng.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "o kgaufala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "le ba ba nang le ... e e thubilweng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba kgabisitsweng mo moweng"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "ba ba kgabisitsweng"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mo moweng"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "o boloka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:13.043084434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 122,
+  "translation": "Ka ntlha ya ntlo ya Yahwe Elohim ya rona, ke tla batla ⟨את⟩ se se siameng go wena.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ya rona"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ke tla batla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:33.999418575Z",
+  "model": "glm-5.3"
+}

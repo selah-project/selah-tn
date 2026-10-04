@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme Shaule a aga ⟨את⟩ altarele ya Yahwe; ka yone o ne a simolola go aga altarele ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ka yone (altarele)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "o ne a simolola"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:01:46.607823178Z",
+  "model": "glm-5.3"
+}

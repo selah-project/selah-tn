@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme kgosi e a romela, mme ba kokoanya go ya kwa go yona botlhe bagingwe ba Yuda le ba Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e a romela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "mme ba kokoanya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go ya kwa go yona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagingwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le ba Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:14.204467744Z",
+  "model": "glm-5.3"
+}

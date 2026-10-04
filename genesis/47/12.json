@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Mme Yosefe a fidisa ⟨את⟩ rraagwe le ⟨את⟩ bokaulengwe ba gagwe le ⟨את⟩ ntlo ya rraagwe yotlhe ka senkgwe, go ya ka molomo wa bana bannyane.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "a fidisa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraagwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bokaulengwe ba gagwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bokaulengwe ba gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya rraagwe yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ka senkgwe"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "go ya ka molomo wa"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "bana bannyane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:31:23.699542978Z",
+  "model": "glm-5.3"
+}

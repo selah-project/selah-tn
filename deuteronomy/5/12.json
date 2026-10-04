@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Boloka ⟨את⟩ letsatsi la Shabata go le itshepisa, jaaka Yahwe Elohim ya gago a go laletseng.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsatsi la Shabata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "go le itshepisa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "a go laletseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:00.839917253Z",
+  "model": "glm-5.3"
+}

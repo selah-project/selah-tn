@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 110,
+  "translation": "Adonai kwa molemeng wa gago o ne a thuba dikgosi ka letsatsi la bodutu jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa molemeng wa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "moleme wa gago"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "o ne a thuba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bodutu jwa gagwe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:12.344761281Z",
+  "model": "glm-5.3"
+}

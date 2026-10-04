@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Bojang ga bo a newa makgoba a gago, mme ba re go rona: Dirang matlapana; mme bonang, makgoba a gago a tlhaselwa ditlhago, mme molato o le mo bathong ba gago.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "Bojang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bo a newa"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "makgoba a gago"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "Dirang matlapana"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Dirang"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "makgoba a gago"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "a tlhaselwa ditlhago"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "molato"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bathong ba gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:22.121311113Z",
+  "model": "glm-5.3"
+}

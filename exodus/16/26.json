@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Malatsi a le thataro lo tlaa a phutha, mme ka letsatsi la bosupa — Shabata — mo go one ga go kitla go nna ⟨le⟩ sepe.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "a le thataro"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "lo tlaa a phutha"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "mme ka letsatsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bosupa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ... kitla"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go one"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:49.415418223Z",
+  "model": "glm-5.3"
+}

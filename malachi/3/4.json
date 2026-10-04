@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme minkha ya Yudha le ya Yerushalayime e tlaa nna e monate go Yahwe, jaaka malatsi a kgale le jaaka dingwaga tsa bogologolo.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "mme e tlaa nna e monate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le ya Yerushalayime"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "jaaka malatsi a"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kgale"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "le jaaka dingwaga"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "tsa bogologolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:11.939799738Z",
+  "model": "glm-5.3"
+}

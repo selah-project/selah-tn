@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Mo go tshwaelo ya gago di tshabela; mo go lentswe la go kgoroka ga gago di tshabile ka bonako.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Mo go"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "tshwaelo ya gago"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "di tshabela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "la go kgoroka ga gago"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "di tshabile ka bonako"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:32.355702908Z",
+  "model": "glm-5.3"
+}

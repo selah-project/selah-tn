@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Tlogang mo gare ga setshaba seno, gore ke je ⟨את⟩ bone ka nakonyana. Mme ba wa mo difatleng tsa bone.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Tlogang"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "seno"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "gore ke je"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "ka nakonyana"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ba wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "difatleng tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:11:14.613241672Z",
+  "model": "glm-5.3"
+}

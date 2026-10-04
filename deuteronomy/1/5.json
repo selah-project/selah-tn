@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Kwa molelwaneng wa Yorodane, mo lefatsheng la Mowabe, Moshe o ne a tlhoma maikaelelo a tlhalosa ⟨את⟩ Torah eno, a re:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "kwa molelwaneng wa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodane"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabe"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "o ne a tlhoma maikaelelo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "a tlhalosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah eno"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:36.594983508Z",
+  "model": "glm-5.3"
+}

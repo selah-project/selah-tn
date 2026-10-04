@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 76,
+  "translation": "Ba ba nonofileng pelo ba tlhaolwa; ba robetse boroko jwa bona; mme banna botlhe ba maatla ga ba a bona ⟨⟨את⟩⟩ diatla tsa bona.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "ba tlhaolwa"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ba ba nonofileng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "ba robetse"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "boroko jwa bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ba a bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:11.556163001Z",
+  "model": "glm-5.3"
+}

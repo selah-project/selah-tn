@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Rra wa bana ba senang batsadi, molatlhwa wa basadi ba senang banna, ke Elohim mo bonnong jwa boitshepo jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "rra wa"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "bana ba senang batsadi"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "molatlhwa wa"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "basadi ba senang banna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ke Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "mo bonnong"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "jwa boitshepo jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:57.463216644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 84,
+  "translation": "Ya moetapele wa baopedi, ka ‎הגתית‎‏‎הגיתית‎‏, ya bana ba Korake, moko.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ya moetapele wa baopedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "‎הגיתית"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korake"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:00.162928689Z",
+  "model": "glm-5.3"
+}

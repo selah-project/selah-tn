@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "O isiwa kgosing ka diaparo tsa mebala; basetsana ba sa nyalwang le ditsala tsa gagwe ba mo salelang ba isiwa go wena.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "ka diaparo tsa mebala"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "O isiwa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kgosing"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "basetsana ba sa nyalwang"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ba mo salelang"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "ditsala tsa gagwe"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "ba isiwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:33.504763929Z",
+  "model": "glm-5.3"
+}

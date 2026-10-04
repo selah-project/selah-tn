@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 128,
+  "translation": "Pina ya go tlhatloga. Yo o itumelang ke mongwe le mongwe yo o boifang Yahwe, yo o tsamayang mo ditseleng tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya go tlhatloga"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Yo o itumelang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yo o boifang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yo o tsamayang"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "mo ditseleng tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:29.151460993Z",
+  "model": "glm-5.3"
+}

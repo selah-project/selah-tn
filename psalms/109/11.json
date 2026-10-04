@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "A nne molekani moemeli wa se sengwe le se sengwe se se nang le sone, mme bafalodi ba tseere bojot_bo jwa go dira jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "a nne a tshwara ka sekoloto"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "molekani moemeli"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "se sengwe le se sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "se se nang le sone"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "mme ba tseere"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bafalodi"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "bojot_bo jwa go dira jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:04.903747756Z",
+  "model": "glm-5.3"
+}

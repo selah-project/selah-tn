@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Gore diphuduego tsa me ke a di itse, mme molato wa me o nna mo go nna ka metlha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "diphuduego tsa me"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "a di itse"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "mme molato wa me"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka metlha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:19.176608211Z",
+  "model": "glm-5.3"
+}

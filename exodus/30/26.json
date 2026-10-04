@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme o e tlodise ka yone ⟨את⟩ tenti ya kopano, le ⟨את⟩ arone ya bopaki.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Mme o e tlodise"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenti ya kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arone ya bopaki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arone"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bopaki"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:27.366434429Z",
+  "model": "glm-5.3"
+}

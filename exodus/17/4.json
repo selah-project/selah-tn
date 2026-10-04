@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme Moshe a se go Yahwe, a re: Ke eng ke ka direng setlhopha se? Gape mme kaelo fela, mme se tla go kgwatha nna ka majwe.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "a se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ke eng"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke ka direng"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "setlhopha se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Gape mme"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kaelo fela"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "se tla go kgwatha nna ka majwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:01.617299847Z",
+  "model": "glm-5.3"
+}

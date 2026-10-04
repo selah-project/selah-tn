@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme a ba kokoanya ⟨אתם⟩ mo go tshireletsweng matsatsi a le mararo.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "mme a kokoanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "tshireletso"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a le mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:06.482731418Z",
+  "model": "glm-5.3"
+}

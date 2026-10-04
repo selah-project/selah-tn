@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme mopriste a di isa kwa pele ga Yahwe, a dira ⟨את⟩ sehlabelo sa botho jwa gagwe le ⟨את⟩ sehlabelo sa go fiswa sa gagwe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "a di isa kwa pele"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa botho jwa gagwe"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sehlabelo sa botho jwa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa go fiswa sa gagwe"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "sehlabelo sa go fiswa sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:05:50.117781635Z",
+  "model": "glm-5.3"
+}

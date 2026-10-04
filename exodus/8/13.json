@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ba ne ba dira jalo; mme Aharone a anamisa ⟨את⟩ seatla sa gagwe ka molamu wa gagwe, a itaya ⟨את⟩ lerole la lefatshe, mme dintsu di nna mo sethong le mo phoofolong; lerole lothe la lefatshe lo ne lo nna dintsu mo lefatsheng lothe la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba ne ba dira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a anamisa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "ka molamu wa gagwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a itaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerole"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la lefatshe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "di nna"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "dintsu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mo sethong"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "le mo phoofolong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lothe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la lefatshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lo ne lo nna"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "dintsu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo lefatsheng lothe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:25.001744773Z",
+  "model": "glm-5.3"
+}

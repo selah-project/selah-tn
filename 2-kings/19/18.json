@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "mme ba ne ba tseela ⟨את⟩ medimo ya tsone molelonyana; gonne ga se medimo — e seng fela, mme ke tiro ya diatla tsa batho, mokgô bô le leje; ka jalo ba e senotse.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba ne ba tseela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya tsone"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "medimo ya tsone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "molelonyana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tsone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e seng fela, mme"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya diatla tsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mokgô bô"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "le leje"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "ka jalo ba e senotse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:41:08.110451394Z",
+  "model": "glm-5.3"
+}

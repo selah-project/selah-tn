@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Adha a bea ⟨את⟩ Yabale; yena e ne e le rraabone ba ba dulang mo matlhengan le ba dingwe.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabale"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yabale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraabone"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ba ba dulang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mo matlhengan"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "le ba dingwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:40.154071181Z",
+  "model": "glm-5.3"
+}

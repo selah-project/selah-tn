@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme kgomo kgotsa podi e nang le lelapa le le omeletseng kgotsa le kgaotse, e ka dira mpho ya boithaopo ⟨את⟩; mme go phetha pebolo ga e ka ke ya amogelwa.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Mme kgomo"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "kgotsa podi"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "e nang le lelapa le le omeletseng"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "kgotsa le kgaotse"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "mpho ya boithaopo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "e ka dira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya boithaopo"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "go phetha pebolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga e ka ke ya"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "amogelwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:05.084971796Z",
+  "model": "glm-5.3"
+}

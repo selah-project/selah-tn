@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "A a re go ena: Fa sefatlhego sa gago se sa tsamaya, o se ka wa re tsenya mo godimo go tswa fano.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go ena"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "di tsamaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "wa re tsenya mo godimo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "go tswa fano"
+    }
+  ],
+  "timestamp": "2026-10-04T03:03:10.707056465Z",
+  "model": "glm-5.3"
+}

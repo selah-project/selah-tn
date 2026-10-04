@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "mme a mo dira kgosi go ya kwa Gileade, le kwa Ashure, le kwa Yizreele, le mo Efrayime, le mo Benyamine, le mo Yisraele yotlhe.",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "a mo dira kgosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreele"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamine"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yotlhe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:07:59.598442215Z",
+  "model": "glm-5.3"
+}

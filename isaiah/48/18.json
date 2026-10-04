@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 48:18",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Ee, o ne o ka kile wa reetsa melao ya me! Jo bo nne kagiso ya gago e tlaa nna jaaka noka, mme tsedeke ya gago jaaka makhubu a lewatle.",
+  "tokens": [
+    {
+      "surface": "לוא",
+      "gloss": "Ee, o ne o ka kile"
+    },
+    {
+      "surface": "הקשבת",
+      "gloss": "wa reetsa"
+    },
+    {
+      "surface": "למצותי",
+      "gloss": "melao ya me"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Jo bo nne"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "jaaka noka"
+    },
+    {
+      "surface": "שלומך",
+      "gloss": "kagiso ya gago"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "mme tsedeke ya gago"
+    },
+    {
+      "surface": "כגלי",
+      "gloss": "jaaka makhubu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a lewatle"
+    }
+  ],
+  "timestamp": "2026-10-03T23:59:24.063109959Z",
+  "model": "glm-5.3"
+}

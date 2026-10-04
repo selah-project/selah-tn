@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme kgosi ya ba araba ka bokgaka, mme kgosi Rekhabeame ya tlogela ⟨את⟩ kgakololo ya ba bagolo.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "ya ba araba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ka bokgaka"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ya tlogela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgakololo ya ba bagolo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "kgakololo"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ba bagolo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:49:44.694088808Z",
+  "model": "glm-5.3"
+}

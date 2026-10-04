@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Yahwe a reetsa Yehizkiyahu, mme a fodisa ⟨את⟩ batho.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mme a reetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "mme a fodisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T02:57:29.724079041Z",
+  "model": "glm-5.3"
+}

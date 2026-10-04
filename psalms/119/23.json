@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Le baeteledipele ba ne ba tlhama ba buisanya kgatlhanong le nna; modiri wa gago o ne a nagana ka melao ya gago.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba ne ba tlhama"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "baeteledipele"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kgatlhanong le nna"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "ba buisanya"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "o ne a nagana"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ka melao ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:44.906176849Z",
+  "model": "glm-5.3"
+}

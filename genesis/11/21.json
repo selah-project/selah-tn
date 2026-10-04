@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Rewe o ne a tshela, morago ga go belega ⟨את⟩ Seruge, dingwaga di le makgolo a mabedi le supa, mme a belega bana ba basimane le bana ba basetsana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "o ne a tshela"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Rewe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "go belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seruge"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seruge"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "supa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "le makgolo a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a belega"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana ba basimane"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le bana ba basetsana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:59.560147081Z",
+  "model": "glm-5.3"
+}

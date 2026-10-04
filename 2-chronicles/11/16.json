@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 11:16",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme morago ga bone, go tswa mo dikgotleng tsotlhe tsa Yisraele, ba ba neng ba neela ⟨את⟩ dipelo tsa bone go batla ⟨את⟩ Yahwe, Elohim wa Yisraele, ba tsena Yerushalayime go betla diphopholetso go Yahwe, Elohim wa bo-rra-bone.",
+  "tokens": [
+    {
+      "surface": "ואחריהם",
+      "gloss": "Mme morago ga bone"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tswa mo ... tsotlhe"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "dikgotleng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הנתנים",
+      "gloss": "ba ba neng ba neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipelo tsa bone"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "dipelo tsa bone"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "go batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לזבוח",
+      "gloss": "go betla diphopholetso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bo-rra-bone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:27:02.983237774Z",
+  "model": "glm-5.3"
+}

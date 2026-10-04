@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ga go ope yo o tlang go bonwa mo gare ga wena: yo o bayang morwawe kgotsa morwadie mo molengong, molaluswa, molebedi wa masego, moetsi wa masego wa dinonyane, le moloi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "go ope yo o tlang go bonwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo gare ga wena"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "yo o bayang"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwawe"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "kgotsa morwadie"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mo molengong"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "molaluswa"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "wa masego"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "molebedi"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "moetsi wa masego wa dinonyane"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "le moloi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:40.886170404Z",
+  "model": "glm-5.3"
+}

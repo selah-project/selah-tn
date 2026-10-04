@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "O bala palo ya dinaledi; o di bitsa ka maina tsotlhe.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "O bala"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ya dinaledi"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "o di bitsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:16.350881719Z",
+  "model": "glm-5.3"
+}

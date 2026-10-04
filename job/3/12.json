@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ke eng fa mangolwa a ne a ntseela pele? Le mabele, ke eng fa a le teng, gore ke nnale?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ke eng fa"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "a ne a ntseela pele"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "mangolwa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "le mabele, ke eng fa a le teng"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "ke nnale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:47.991914287Z",
+  "model": "glm-5.3"
+}

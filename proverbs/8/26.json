@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Fa a sa ntse a sa dira ⟨את⟩ lefatshe le mafelo a a bula, le tlhogo ya lerole la lefatshe.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "le mafelo a a bula"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "le tlhogo"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "ya lerole"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "la lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:11.633616077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 17:8",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "mme ke ne ke le na le kwa o neng o tsamaya teng ka tsela tsotlhe, mme ke ne ke fedisa ⟨את⟩ ba ba go tlhoyang tsotlhe go tswa kwa pele ga wena, mme ke tla dira go wena leina jaaka leina la bagolo ba ba mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "mme ke ne ke le"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "na le"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "o neng o tsamaya"
+    },
+    {
+      "surface": "ואכרית",
+      "gloss": "mme ke ne ke fedisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba go tlhoyang tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ba ba go tlhoyang"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "go tswa kwa pele ga wena"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "mme ke tla dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "jaaka leina la"
+    },
+    {
+      "surface": "הגדולים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:42:54.975053870Z",
+  "model": "glm-5.3"
+}

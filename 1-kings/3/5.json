@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Kwa Gibone Yahwe a bonwa ke Shelomoe mo torong ya bosigo, mme Elohim a re: Kopa se nka go se naya.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "kwa Gibone"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "a bonwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoe"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "mo torong"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya bosigo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kopa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nka go naya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:33.152029532Z",
+  "model": "glm-5.3"
+}

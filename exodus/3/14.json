@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Elohim a re go Moshe: Ehyeh yo o nang ga Ehyeh. Mme a re: U tla ba re jalo go bana ba ga Yisraele: Ehyeh o nthomile go lona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o nang"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ga Ehyeh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "u tla ba re jalo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "o nthomile"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:52.314290972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme molemo wa lefatshe o wa botlhe: kgosi e dirisediwa ke masimo.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "mme molemo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wa lefatshe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "o wa botlhe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ke masimo"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "e dirisediwa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:03.572137022Z",
+  "model": "glm-5.3"
+}

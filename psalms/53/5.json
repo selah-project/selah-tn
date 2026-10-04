@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "A ga ba a itse ba ba direng bosula, ba jejang setshaba sa me jaaka ba ja senkgwe? Ga ba a bitsa Elohim.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba a itse"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba direng"
+    },
+    {
+      "surface": "און",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ba jejang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ba a bitsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:48.480505585Z",
+  "model": "glm-5.3"
+}

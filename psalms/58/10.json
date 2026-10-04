@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Pele dijana tsa lona di ka tlhaloganya setlhare sa dinaka, o tla e fudusa ka phefo, e mentshi le e chesang jaaka.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "di ka tlhaloganya"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "dijana tsa lona"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "setlhare sa dinaka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "e mentshi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "e chesang"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "o tla e fudusa ka phefo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:50.029938363Z",
+  "model": "glm-5.3"
+}

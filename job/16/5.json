@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 16:5",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Ke ne ke ka tiisa lona ka molomo wa me, mme go sutega ga molomo wa me go ka ne go phimola botlhoko jwa lona.",
+  "tokens": [
+    {
+      "surface": "אאמצכם",
+      "gloss": "ke ka tiisa lona"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "וניד",
+      "gloss": "mme go sutega ga"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "go ka phimola botlhoko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:57:52.856878039Z",
+  "model": "glm-5.3"
+}

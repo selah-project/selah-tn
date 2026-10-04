@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme o rate ⟨את⟩ Yahwe Elohim ya gago ka botlalo jwa pelo ya gago, mme ka botlalo jwa moyo wa gago, mme ka botlalo jwa nonyane ya gago.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "mme o rate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka botlalo jwa"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mme ka botlalo jwa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wa gago"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mme ka botlalo jwa"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "nonyane ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:35.959301809Z",
+  "model": "glm-5.3"
+}

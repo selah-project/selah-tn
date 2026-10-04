@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Gore wena, Adonai, o siame mme o lebalela, mme o na le hesede o mokolo go ba botlhe ba ba go bitsang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o siame"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "mme o lebalela"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mme o mokolo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ba botlhe"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "ba ba go bitsang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:25.772505720Z",
+  "model": "glm-5.3"
+}

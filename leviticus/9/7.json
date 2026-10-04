@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Moshe a re go Aharone: Atamela kgotla, mme o dire ⟨את⟩ sefo sa gaeno sa boleo le ⟨את⟩ sefo sa gaeno sa go chesa, mme o tsweederele ka gaeno le ka ga setshaba; mme o dire ⟨את⟩ mpho ya setshaba, mme o tsweederele ka ga bone, jaaka Yahwe a tlhometse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "atamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kgotleng"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefo sa gaeno sa boleo"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "sefo sa gaeno sa boleo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sefo sa gaeno sa go chesa"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "sefo sa gaeno sa go chesa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mme o tsweederele"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "ka gaeno"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "le ka ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya setshaba"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya setshaba"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mme o tsweederele"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "ka ga bone"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a tlhometse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:05.796120147Z",
+  "model": "glm-5.3"
+}

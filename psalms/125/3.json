@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 125,
+  "translation": "Ka gonne sekepe sa bosulu se ke se ka phuthama godimo ga karolo ya ba lokileng; e le gore ba lokileng ba se ke ba anamisa diatla tsa bone go ya bojwaneng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "se ka phuthama"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sekepe"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sa bosulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ya ba lokileng"
+    },
+    {
+      "surface": "למען",
+      "gloss": "e le gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "ba anamisa"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "go ya bojwaneng"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:44.479973074Z",
+  "model": "glm-5.3"
+}

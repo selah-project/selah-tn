@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme o tlaa dira dintsha tsa yone mo dikutlwaneng tsa yone di le nne; dintsha tsa yone di tlaa tswa mo go yone; mme o tlaa e apara ka kopara.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tlaa dira"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dintsha tsa yone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "di le nne"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "dikutlwaneng tsa yone"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "di tlaa tswa"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dintsha tsa yone"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mme o tlaa e apara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (aletara)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ka kopara"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:39.361625095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Ke tla ruta ba ba tlolang molao ditsela tsa gago, mme badi ba tla boela go wena.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "ke tla ruta"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "ba ba tlolang molao"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ditsela tsa gago"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "mme badi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ba tla boela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:16.834481687Z",
+  "model": "glm-5.3"
+}

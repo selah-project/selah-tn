@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Mo malatsing a gagwe a a siameng a tlhagelela, mme kagiso e ntshe thata, go fitlha ngwedi e se ka ya nna gape.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "a tlhagelela"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "mo malatsing a gagwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "a a siameng"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mme…e ntshe thata"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "e se ka"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ngwedi…ya nna gape"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:54.070281237Z",
+  "model": "glm-5.3"
+}

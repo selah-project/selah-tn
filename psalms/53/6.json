@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Koo ba ne ba tshoga tshogo e e neng e se nngwe, gonne Elohim o sanositse marapo a yo o neng a kgorometse kgatlhanong le wena; o ba tlhotlhotse ka tlhotlo, gonne Elohim o ba gane.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ba ne ba tshoga"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tshogo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e neng e le"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tshogo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "o sanositse"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "wa go kgorometsa"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "o ba tlhotlhotse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "o ba gane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:48.480754170Z",
+  "model": "glm-5.3"
+}

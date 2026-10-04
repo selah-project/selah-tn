@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Dinoka tsotlhe di ela go ya lewatleng, mme lewatle ga le a tlala; kwa lefelong dinoka di yang kwa go lona, foo di boela go ela gape.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "di ela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "והים",
+      "gloss": "mme lewatle"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ga le a"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "dinoka di yang"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "kwa go lona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "di"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "di boela"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go ela gape"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:28.266786233Z",
+  "model": "glm-5.3"
+}

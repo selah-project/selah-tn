@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Dawide a utlwa, a romela ⟨את⟩ Yoabe le ⟨את⟩ masole otlhe a banna ba nonofileng.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Mme ... a utlwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoabe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "masole otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "masole"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "a banna ba nonofileng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:10:43.481321471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ Hadorame, le ⟨את⟩ Uzale, le ⟨את⟩ Diklahe",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Hadorame"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadorame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Uzale"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Diklahe"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diklahe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:39.664212604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Elohim o ne a tlisa koketsego mo go ⟨את⟩ dikgomo da ga rraago, mme a di naya me.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "a tlisa koketsego mo go"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgomo da ga rraago"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "da ga rraago"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a naya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-03T21:24:24.410015701Z",
+  "model": "glm-5.3"
+}

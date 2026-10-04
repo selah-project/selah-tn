@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Phefo e mo tswaletse ka mafuka a yona; mme ba tla swabisega ka diphologolo tsa bone tsa go eupolola.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "e mo tswaletse"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "phefo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Efrayime)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "ka mafuka a yona"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "mme ba tla swabisega"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ka diphologolo tsa bone tsa go eupololla"
+    }
+  ],
+  "timestamp": "2026-10-04T00:52:23.547976580Z",
+  "model": "glm-5.3"
+}

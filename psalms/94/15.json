@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Gore katlholo e tla boela go tsedeke, mme ba ba siameng ba pelo botlhe ba tla mo latela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עד",
+      "gloss": "boela go"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "e tla boela"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "mme ... ba tla mo latela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ba ba siameng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ba pelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:06.000827372Z",
+  "model": "glm-5.3"
+}

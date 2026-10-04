@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme bophelo jotlhe jwa ba ba tswang mo lerapong la Yaakobo bo ne bo le masome a supa; mme Yosefe a ntse a le kwa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "ba ba tswang"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "mo lerapong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "la Yaakobo"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "masome a supa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "mme Yosefe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a ntse a le"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kwa Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:26.568266648Z",
+  "model": "glm-5.3"
+}

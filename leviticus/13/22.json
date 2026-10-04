@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme fa e atologa thata mo letlalong, mopriste o tla bua gore ⟨את⟩ ena o sa itshepe; ke bolwetsi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "e atologa"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "thata"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "mo letlalong"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "a bua gore o sa itshepe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ena"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "bolwetsi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-10-03T21:55:28.427014842Z",
+  "model": "glm-5.3"
+}

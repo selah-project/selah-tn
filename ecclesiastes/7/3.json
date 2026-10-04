@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Botlhoko bo botlhale go feta tshego, gonne sefathego se se welang tlase se dira gore pelo e nne botlhale.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bo botlhale go feta"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "botlhoko"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "tshego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "se se welang tlase"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefathego"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "e dira gore e nne botlhale"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:46.862345099Z",
+  "model": "glm-5.3"
+}

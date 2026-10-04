@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Ke tla gakologelwa leina la gago mo purung e nngwe le e nngwe; ka jalo ditshaba di tla go leboha go ya lerobong le le sa feleng.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "ke tla gakologelwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo purung e nngwe le e nngwe"
+    },
+    {
+      "surface": "דר",
+      "gloss": "purung"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le purung"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka jalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka jalo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "di tla go leboha"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "go ya lerobong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:48.133777074Z",
+  "model": "glm-5.3"
+}

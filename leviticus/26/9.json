@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme ke tlaa bulela mahana a me go lona, mme ke tlaa nonotsha lona, mme ke tlaa balaatsa lona, mme ke tlaa tlhatlhobolola ⟨את⟩ kgolagano ya me ⟨את⟩ le lona.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ke tlaa bulela mahana a me"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "ke tlaa nonotsha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ke tlaa balaatsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ke tlaa tlhatlhobolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano ya me"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:05.553605534Z",
+  "model": "glm-5.3"
+}

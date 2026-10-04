@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme Moshe a tlhatloga, a ya go Datane le go Abhirame; mme bagolo ba Yisraele ba ya kwa morago ga gagwe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tlhatloga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datane"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "le go Abhirame"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kwa morago ga gagwe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:10:45.630375509Z",
+  "model": "glm-5.3"
+}

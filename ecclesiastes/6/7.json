@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Tiro yotlhe ya motho e ya molomong wa gagwe, mme gape moya ga o tlale.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya motho"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "molomong wa gagwe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "o tlale"
+    }
+  ],
+  "timestamp": "2026-10-04T03:23:49.515202908Z",
+  "model": "glm-5.3"
+}

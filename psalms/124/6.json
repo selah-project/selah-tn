@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 124,
+  "translation": "Yo o segofaditsweng go nna Yahwe, yo a sa re dirang ⟨את⟩ serapa sa meno a bone.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Yo o segofaditsweng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "yo a sa re dirang"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "re dira"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "sa meno a bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:26.041517661Z",
+  "model": "glm-5.3"
+}

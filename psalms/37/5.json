@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Golaganya tsela ya gago go Yahwe, mme o ikanye mo go ene, mme ene ⟨o⟩ tla e dira.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "golaganya"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya gago"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "mme o ikanye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla e dira"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:11.650293379Z",
+  "model": "glm-5.3"
+}

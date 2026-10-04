@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 6:5",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme lo tlaa dira ditshwantsho tsa dikhulo tsa lona le ditshwantsho tsa dintsha tsa lona tse di senyang ⟨את⟩ lefatshe, mme lo neele Elohim wa Yisraele tlotla; maaika a ka fokotsa ⟨את⟩ letsogo la gagwe mo go lona, le mo go medimo ya lona, le mo go lefatshe la lona.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme lo tlaa dira"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "ditshwantsho tsa"
+    },
+    {
+      "surface": "עפליכם",
+      "gloss": "dikhulo tsa lona"
+    },
+    {
+      "surface": "וצלמי",
+      "gloss": "le ditshwantsho tsa"
+    },
+    {
+      "surface": "עכבריכם",
+      "gloss": "dintsha tsa lona"
+    },
+    {
+      "surface": "המשחיתם",
+      "gloss": "tse di senyang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "mme lo neele"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tlotla"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "maaika"
+    },
+    {
+      "surface": "יקל",
+      "gloss": "a ka fokotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsogo la gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsogo la gagwe"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "le mo go"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "medimo ya lona"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "le mo go"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "lefatshe la lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:25.450760258Z",
+  "model": "glm-5.3"
+}

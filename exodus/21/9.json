@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme fa a beeletsa ⟨את⟩ morwawe, ka tekano ya barwadi o mo dira.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "morwawe"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "a beeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwawe"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ka tekano ya"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "barwadi"
+    },
+    {
+      "surface": "ייעדנה לה",
+      "gloss": "o mo dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:32.901202426Z",
+  "model": "glm-5.3"
+}

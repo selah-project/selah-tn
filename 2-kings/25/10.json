@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme ⟨את⟩ dibota tsa Yerushalayime, tse dikologo, di ne tsa thubiwa ke masole otlhe a Bakashdi a a neng a le le mokapotene wa masole.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dibota tsa Yerushalayime"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "dibota"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tse dikologo"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "di ne tsa thubiwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "masole"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Bakashdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a neng"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mokapotene"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa masole"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:19.530863395Z",
+  "model": "glm-5.3"
+}

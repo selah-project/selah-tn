@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mmoledi wa tlhoyo o fedile; diphatsa tsa gagwe di fedile go ya bosakhutshwane; mme wena o kgadile ditoropo; segopotso sa bone se senyegile, bona.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "mmoledi wa tlhoyo"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "o fedile"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "diphatsa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "go ya bosakhutshwane"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "le ditoropo"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "o kgadile"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "se senyegile"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "segopotso sa bone"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:43.263599351Z",
+  "model": "glm-5.3"
+}

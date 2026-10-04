@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Gakologelwa ⟨את⟩ se se Yahwe Elohim wa gago a se dirileng go Miriame, mo tseleng, fa lo ne lo tswa mo Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Gakologelwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se dirileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "go Miriame"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "fa lo ne lo tswa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mo Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:20.720228233Z",
+  "model": "glm-5.3"
+}

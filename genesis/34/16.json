@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "mme re tla neela ⟨את⟩ barwadibona lona, mme ⟨את⟩ barwadiwa lona re di tsaya; mme re tla nna ⟨את⟩ le lona, mme re nna setshaba se le sengwe.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "mme re tla neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barwadibona"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "barwadibona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "barwadiwa lona"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "barwadiwa lona"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "re di tsaya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "mme re tla nna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "mme re nna"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le sengwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:48.523977133Z",
+  "model": "glm-5.3"
+}

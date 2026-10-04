@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ee, ga ba dire bosula; ba tsamaya mo ditseleng tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ba dire"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "mo ditseleng tsa gagwe"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:26.001962846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Yahwe Elohim ya lona, yoo o tsamayang pele ga lona, ⟨ke ene⟩ yo o tlaa lwanang ka lona, jaaka tsotlhe tse a di dirileng ⟨את⟩ lona kwa Mitsrayime, pele ga matlho a lona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yoo o tsamayang"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "yo o tlaa lwanang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jaaka tsotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di dirileng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "pele ga matlho a lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:34.211575049Z",
+  "model": "glm-5.3"
+}

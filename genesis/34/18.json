@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 34:18",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme mafoko a bone a ne a le molemo kwa mahlong ga Khamore, le kwa mahlong ga Shekeme morwa Khamore.",
+  "tokens": [
+    {
+      "surface": "וייטבו",
+      "gloss": "a ne a le molemo"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "mafoko a bone"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kwa mahlong ga"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamore"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "le kwa mahlong ga"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamore"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:50.622174576Z",
+  "model": "glm-5.3"
+}

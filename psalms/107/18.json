@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Mofufutso wa tsotlhe o a nyenyegela meele ya bone, mme ba fihla kwa dikgorong twa loso.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mofufutso wa"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "o a nyenyegela"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "meele ya bone"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "mme ba fihla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "dikgorong tsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "loso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:13.100180080Z",
+  "model": "glm-5.3"
+}

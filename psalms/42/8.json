@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Bodiba bo bitsha bodiba ka modumo wa metsi a gago a a tololang; mawelelo a gago tsotlhe le dikhurumetshwane tsa gago di ne tsa feta mo go nna.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Bodiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo bitsha"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "bodiba"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "bo bitsha"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ka modumo wa"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "metsi a gago a a tololang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mawelelo a gago"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "le dikhurumetshwane tsa gago"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "di ne tsa feta"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:51.452174045Z",
+  "model": "glm-5.3"
+}

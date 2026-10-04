@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Ka bosula jwa bone ba dira gore kgosi a itumele, le balaodi ka mafele a bone.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "ka bosula jwa bone"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba dira gore... a itumele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "le ka mafele a bone"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "balaodi"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:19.206210888Z",
+  "model": "glm-5.3"
+}

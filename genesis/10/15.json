@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Kenane a belega ⟨את⟩ Sidone wa ntlha-peo ya gagwe, le ⟨את⟩ Kete;",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Mme Kenane"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidone"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidone"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "wa ntlha-peo ya gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kete"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kete"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:01.507408014Z",
+  "model": "glm-5.3"
+}

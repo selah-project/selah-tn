@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ke tlaa mo jalela go nna mo lefatsheng, mme ke tlaa bontsha Loruakhama khutso, ⟨את⟩ e e sa bonweng khutso; mme ke tlaa re go Loami, e e seng setshaba sa me: O setshaba sa me; mme ena o tlaa re: Elohim wa me.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "ke tlaa mo jalela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ke tlaa bontsha khutso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loruakhama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e e sa bonweng"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "khutso (Loruakhama)"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ke tlaa re"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "go Loami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e e seng setshaba sa me"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ena"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o tlaa re"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:52:15.926491794Z",
+  "model": "glm-5.3"
+}

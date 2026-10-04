@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme o tleise ⟨את⟩ minkha e e dirwang ka dilo tseno go ya go Yahwe; mme e atiswe go ya go mopriste, mme a e atise go ya go aleutare.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Mme o tleise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e dirwang"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ka dilo tseno"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go ya go Yahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "mme e atiswe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "mme a e atise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aleutare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:21.002742498Z",
+  "model": "glm-5.3"
+}

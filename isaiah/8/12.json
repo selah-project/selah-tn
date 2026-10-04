@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Se re lona 'kobamano' ka sengwe le sengwe se setshaba se se reng se kobamano; mme ⟨את⟩ boifo jwa sone se lo ka bo tsabang, le se lo ka tshwenngwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "lo re lona"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "kobamano"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "se se reng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "se kobamano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "boifo jwa sone"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "boifo jwa sone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "lo ka bo tsabang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le se"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "lo ka tshwenngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:39.956442192Z",
+  "model": "glm-5.3"
+}

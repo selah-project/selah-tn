@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Mme jaanong ditshwantsho tsa jone ka tsotlhe ba di thuba ka bommogo, ka tshaka le ka dikgotla ba di kgwisa.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "ditshwantsho tsa jone"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ka bommogo"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "ka tshaka"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "le ka dikgotla"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "ba di kgwisa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:06.161078535Z",
+  "model": "glm-5.3"
+}

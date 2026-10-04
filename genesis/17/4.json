@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Nna, bonwe, kgolagano ya me e le ⟨את⟩ wena, o tla nna rre wa bontsi jwa ditshaba.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "o tla nna"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "rre wa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "bontsi jwa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:38.885456586Z",
+  "model": "glm-5.3"
+}

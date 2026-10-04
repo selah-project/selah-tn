@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme o tlaa dira diphuka tsa moriri wa ditshose go nna tente godimo ga Mishkane; diphuka di le lesome le motso o tlaa di dira ⟨את⟩ tsone.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tlaa dira"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "diphuka"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "tsa moriri wa ditshose"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "go nna tente"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "lesome le"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "motso"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "diphuka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tlaa di dira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "diphuka tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:25.390277145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Mme ⟨את⟩ nna ga o a mpitsa, wena Yaakobo, ka gonne o tlhotse go nna, Yisraele.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "o a mpitsa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "o tlhotse"
+    },
+    {
+      "surface": "בי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:47.088623999Z",
+  "model": "glm-5.3"
+}

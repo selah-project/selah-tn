@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 143,
+  "translation": "Kapotlhanya, araba Yahwe, mowa wa me o fedile; se ka wa fitlha sefathe sa gago go tswa go nna, mme ke tla nna jaaka ba ba welang mo sefaleng.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Kapotlhanya"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "araba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "o fedile"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mowa wa me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka wa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fitlha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefathe sa gago"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa go nna"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "mme ke tla nna jaaka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ba ba welang"
+    },
+    {
+      "surface": "בור",
+      "gloss": "mo sefaleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:16.604775530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Botlhe ba ya kwa lefelong le le lengwe; botlhe e ne e le go tswa leroleng, mme botlhe ba boela kwa leroleng.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le le lengwe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "leroleng"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "mme botlhe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ba boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "leroleng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:31.845990762Z",
+  "model": "glm-5.3"
+}

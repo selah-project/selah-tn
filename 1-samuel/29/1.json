@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme Bafalisiti ba ne ba ralantsha ⟨את⟩ masole a bone yotlhe kwa Afeke, mme Yisraele a nna kwa sedibeng se mo Yizreele.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ba ne ba ralantsha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masole a bone yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "masole a bone"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "kwa Afeke"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "mme Yisraele"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "a nna kwa"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "kwa sedibeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "mo Yizreele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:06:45.726488662Z",
+  "model": "glm-5.3"
+}

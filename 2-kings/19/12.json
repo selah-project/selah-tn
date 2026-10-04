@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "A Elohim wa ditshaba, eo bontsi jwa ⟨את⟩ yone ba neng ba bolawa ke borre ba me, ba ne ba ba ntsha? — ⟨את⟩ Gosane, le ⟨את⟩ Harane, le Retsefe, le bana ba Edene, ba neng ba Telashare?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "a ba ne ba ba ntsha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yone",
+      "marks": "Elohim wa ditshaba"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "wa ditshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ba bolawa"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "ke borre ba me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gosane"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gosane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Harane"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harane"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "le Retsefe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bana"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ba Edene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng ba"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "Telashare"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:21.232266435Z",
+  "model": "glm-5.3"
+}

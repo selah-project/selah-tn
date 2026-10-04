@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mahutla a Yahwe ⟨a le⟩ mo ba ba lokileng, mme makutu a gagwe ⟨a le⟩ mo go baowa la bone.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mahutla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba ba lokileng"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "mme makutu a gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "baowa la bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:27.814260547Z",
+  "model": "glm-5.3"
+}

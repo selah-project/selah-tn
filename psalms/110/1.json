@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 110,
+  "translation": "Psalmo ya Dawide. Go bua Yahwe go mong wa me: Dula mo seatleng sa me sa moja, go fitlhela ke baya ba ba mo tlhoyang jaoko sa maoto a gago.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Psalmo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "go mong wa me"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dula"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "mo seatleng sa me sa moja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlhela"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ke baya"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "jaoko sa maoto"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "a gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:33.561078857Z",
+  "model": "glm-5.3"
+}

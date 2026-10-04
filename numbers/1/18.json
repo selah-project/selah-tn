@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ba kokoanya ⟨את⟩ setshaba sotlhe ka la ntlha kgwedi ya bobedi, mme ba itsise maloko a bone a lelapa, ka matlo a bo-rra bone, ka palo ya maina, a ngwaga wa masome a mabedi le go feta, motho ka motho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "ba kokoanya"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ka la ntlha"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya bobedi"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "ba itsise maloko a bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "lentse le lelapa la bone"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka matlo"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "a bo-rra bone"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ka palo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ya maina"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "le go feta"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "motho ka motho"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:31.516372690Z",
+  "model": "glm-5.3"
+}

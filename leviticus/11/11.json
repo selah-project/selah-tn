@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme seihlo e tla nna go lona; nama ya tsone ga le ka ke le e ja, le ⟨את⟩ matopo a tsone le tla a tlhoya.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "mme seihlo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nama ya tsone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga le ka ke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le e ja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matopo a tsone"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "matopo a tsone"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "le tla a tlhoya"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:56.481336783Z",
+  "model": "glm-5.3"
+}

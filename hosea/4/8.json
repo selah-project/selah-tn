@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Boleo jwa setshaba sa me ba a bo jala, mme molemong wa boleo jwa bone ba kgoboketsa maikutlo a bone.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "boleo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba a bo jala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme molemong wa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "boleo jwa bone"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ba kgoboketsa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "maikutlo a bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:15.897360082Z",
+  "model": "glm-5.3"
+}

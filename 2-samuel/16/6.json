@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "A latlhela maje go Dawide le ⟨את⟩ badiri botlhe ba kgosi Dawide; mme setshaba sotlhe le masole a maatla otlhe a ne a mo mo letlhakoreng la la molema.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "a latlhela maje go"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ka maje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "badiri botlhe ba kgosi Dawide"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiri ba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme … sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … otlhe"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "masole a maatla"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "mo letlhakoreng la la moja"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "le la molema"
+    }
+  ],
+  "timestamp": "2026-10-03T23:14:21.671169383Z",
+  "model": "glm-5.3"
+}

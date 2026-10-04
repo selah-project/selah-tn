@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Yahwe a gana peo ya Yisraele yotlhe, a ba utlwisa botlhoko, a ba neela mo go ba thubang, fitlha a ba latlhila mo ponong ya gagwe.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "a gana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "a ba utlwisa botlhoko"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "a ba neela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ba thubang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fitlha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "a ba latlhila"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mo ponong ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:24.531458084Z",
+  "model": "glm-5.3"
+}

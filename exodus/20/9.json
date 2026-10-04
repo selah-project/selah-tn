@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Matsatsi a mabedi le mane o tlaa dira, mme o dire tiro ya gago yotlhe;",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "matsatsi a mabedi le mane a"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tlaa dira"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "tiro ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:38.042050066Z",
+  "model": "glm-5.3"
+}

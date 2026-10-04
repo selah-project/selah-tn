@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Tlogo, Yahwe; ntlhabolla, Eloha wa me; gonne o ile wa tlhasela ⟨את⟩ baba ba me botlhe mo lekhureng, o ramariba ba ba molato.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "tlogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ntlhabolla"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloha wa me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "o tlhasetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba ba me botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "baba ba me"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "mo lekhureng"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mariba"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba molato"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "o ramariba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:55.872688072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Gore lerole jaaka senkgwe ke ja ⟨את⟩; mme se ke se nwang ke se akanya ka go lela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "jaaka senkgwe"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ke ja"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "mme se ke se nwang"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ka go lela"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ke se akanya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:58.473329200Z",
+  "model": "glm-5.3"
+}

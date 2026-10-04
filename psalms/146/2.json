@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 146,
+  "translation": "Ke tla baka Yahwe ka bophelo jwa me; ke tla opela ka seyinumare go Elohim wa me fa nka ntse ke le teng.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Ke tla baka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ka bophelo jwa me"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla opela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "go Elohim wa me"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "fa nka ntse ke le teng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:54.342935739Z",
+  "model": "glm-5.3"
+}

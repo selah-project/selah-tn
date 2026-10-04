@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "O naye molato o mongwe o ka godimo ga molato wa bone, mme ba seka ba tsena mo go tshepo ya gago.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "o naye"
+    },
+    {
+      "surface": "עון",
+      "gloss": "molato o mongwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "o ka godimo ga"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "molato wa bone"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ba seka"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mo go tshepo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:47.151713438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mo tseleng ya bohlale ke ne ke go ruta, ke ne ke go isa mo ditseleng tsa boammaaturi.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ya bohlale"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "ke ne ke go ruta"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "ke ne ke go isa"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "mo ditseleng"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "tsa boammaaturi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:05.078666753Z",
+  "model": "glm-5.3"
+}

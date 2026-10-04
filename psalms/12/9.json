@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Ba ba baka dilo tse mpe di tsamaya fa fatshe fela, fa bonyenyefi bo godisiwa ke bana ba batho.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "fa fatshe fela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba baka dilo tse mpe"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "di tsamaya"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "bonyenyefi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ke bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:26.322356343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Ke begile tsedeke mo phuthegong e kgolo; bono, molomo wa me ga ke a ka ke ka o tila — Yahwe, wena o itse.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ke begile"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mo phuthegong"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bono"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "ke a tila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o itse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:03.453013824Z",
+  "model": "glm-5.3"
+}

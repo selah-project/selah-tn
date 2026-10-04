@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Ehude a sfala go fitlha go ikoketletsa ga bone; mme o ne a feta ⟨את⟩ medimo, a sfala a ya kwa Seirata.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "Mme Ehude"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "a sfala"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "go ikoketletsa ga bone"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme o ne a"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "a sfala"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "kwa Seirata"
+    }
+  ],
+  "timestamp": "2026-10-03T22:46:32.912722412Z",
+  "model": "glm-5.3"
+}

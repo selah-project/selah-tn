@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Sengwe le sengwe se se lokologang mme se tshela, se tla nna sejo sa lona; jaaka dimela tse di tala ke ne ke ka neela lona ⟨את⟩ sengwe le sengwe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "se se lokologang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "חי",
+      "gloss": "se tshela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa lona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla nna"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "sejo"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "jaaka dimela tse di tala"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "dimela"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke ne ke ka neela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:53.473307787Z",
+  "model": "glm-5.3"
+}

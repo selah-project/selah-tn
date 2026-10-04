@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ⟨Ena⟩ a re: O tlhaye fa fatshe. Mme ena a e tlhaya fatshe, mme e nna noka; mme Moshe a tshaba go tswa mo pele ga yone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "o tlhaye"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fa fatshe"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "a e tlhaya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e nna"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "noka"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "a tshaba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "go tswa mo pele ga yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:24.875154160Z",
+  "model": "glm-5.3"
+}

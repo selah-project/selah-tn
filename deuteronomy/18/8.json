@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Karolo e tshwana le karolo ba tla e ja, ntle le dithoto tsa gagwe tsa go rekisa, go ya ka malapa a bo-rra-malapa.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "e tshwana le karolo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla e ja"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ntlhe le"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "dithota tsa gagwe tsa go rekisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "malapa a bo-rra-malapa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:32.467634472Z",
+  "model": "glm-5.3"
+}

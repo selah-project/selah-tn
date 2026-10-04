@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 51:36",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Ka jalo jalo o bua Yahwe: Bonang, ke a loantsa ⟨את⟩ kgetsi ya gago, mme ke tla ipusolosetsa ⟨את⟩ bosue jwa gago; mme ke tla wetsa ⟨את⟩ lewatle la yone, mme ke tla omisa ⟨את⟩ metswedi ya metsi a yone.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka jalo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ke a loantsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgetsi ya gago"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "kgetsi ya gago"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "mme ke tla ipusolosetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosue jwa gago"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "bosue jwa gago"
+    },
+    {
+      "surface": "והחרבתי",
+      "gloss": "mme ke tla wetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewatle la yone"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "lewatle la yone"
+    },
+    {
+      "surface": "והבשתי",
+      "gloss": "mme ke tla omisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metswedi ya metsi a yone"
+    },
+    {
+      "surface": "מקורה",
+      "gloss": "metswedi ya metsi a yone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:31:02.018694024Z",
+  "model": "glm-5.3"
+}

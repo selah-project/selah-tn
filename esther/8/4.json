@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme kgosi e ne ea atolosela Estere ⟨את⟩ thobane ya gauta; mme Estere a tlhatloga, a ema kwa kgosing.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "mme e ne ea atolosela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thobane"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "thobane"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "mme a tlhatloga"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosing"
+    }
+  ],
+  "timestamp": "2026-10-04T02:18:08.663890569Z",
+  "model": "glm-5.3"
+}

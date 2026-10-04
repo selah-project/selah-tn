@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 10:9",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Go tloga ka malatsing a Gibea, wena Yisraele o ne o dira dibe; koo ba ne ba eme; ntlwa e ka Gibea ga e ke ka ba tsweledisa ka ntlha ya bana ba bofetogo.",
+  "tokens": [
+    {
+      "surface": "מימי",
+      "gloss": "go tloga ka malatsing a"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "o ne o dira dibe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ba ne ba eme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תשיגם",
+      "gloss": "e ke ka ba tsweledisa"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "e ka Gibea"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntlwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "bofetogo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:12.398306069Z",
+  "model": "glm-5.3"
+}

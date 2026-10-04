@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Ao ba ba reng bosula ke botoka, le botoka bosula; ba ba beyang lefifi phedi, le phedi lefifi; ba ba beyang youla monate, le monate youla.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ba ba reng"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ke botoka"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "le botoka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ba ba beyang"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "phedi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "le phedi"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ba ba beyang"
+    },
+    {
+      "surface": "מר",
+      "gloss": "youla"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "monate"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "le monate"
+    },
+    {
+      "surface": "למר",
+      "gloss": "youla"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:49.759566909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Ruri fela go tswa mo maemong a gagwe ba le baakanya go mo tlhasela; ba itumetse ka maaka: ka molomo wa bone ba a beraka, mme mo teng ga bone ba a sega. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ruri fela"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "go tswa mo maemong a gagwe"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "ba le baakanya"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "go mo tlhasela"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ba itumetse"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ka maaka"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ka molomo wa bone"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "ba a beraka"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "mme mo teng ga bone"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "ba a sega"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:08.664889537Z",
+  "model": "glm-5.3"
+}

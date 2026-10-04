@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Yahwe o sireletsa ⟨את⟩ botlhe ba ba mo ratang, mme ⟨את⟩ ba ba sa siamang botlhe o tla ba fenya ka nako e e fetang.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "o sireletsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botlhe ba ba mo ratang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ba ba mo ratang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba sa siamang botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ba ba sa siamang"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "o tla ba fenya ka nako e e fetang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:07.683649867Z",
+  "model": "glm-5.3"
+}

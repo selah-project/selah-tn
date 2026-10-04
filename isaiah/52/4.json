@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Gonne go bua jalo Adonai Yahwe: setshaba sa me se ne sa ya kwa tlase kwa Mitsrayime kwa tshimologong go nna koo jaaka moeng, mme Ashure se ne sa se gatelela ka mela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "se ne sa ya kwa tlase"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "kwa tshimologong"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "go nna koo jaaka moeng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "mme Ashure"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ka mela"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "se ne sa se gatelela"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:45.201423644Z",
+  "model": "glm-5.3"
+}

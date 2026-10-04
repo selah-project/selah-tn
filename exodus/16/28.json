@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme Yahwe a bua go Moshe: go fitlha ke neng le gana go tlhokomela melao ya me le Torah ya me?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ke neng"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "le gana"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "go tlhokomela"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "melao ya me"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "le Torah ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:59.785116298Z",
+  "model": "glm-5.3"
+}

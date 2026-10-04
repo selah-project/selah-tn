@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Ke nna Yahwe Elohim wa gago, yo o go tswetseng mo lefatsheng la Mitsrayime, mo ntlong ya bokgoba.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "o go tswetseng"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mo ntlong ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bokgoba"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:33.277205733Z",
+  "model": "glm-5.3"
+}

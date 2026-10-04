@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme fa o ka utlwa ka botlalo lentswe la gagwe, mme o dire sengwe le sengwe se ke se buang, ke tla nna moganetsi wa ⟨את⟩ baganetsi ba gago, mme ke tla gatelela ⟨את⟩ bao ba ba go gatelelang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o ka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utlwa ka botlalo"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o utlwe"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "lentswe la gagwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke se buang"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ke tla nna moganetsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baganetsi ba gago"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "baganetsi ba gago"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "mme ke tla gatelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bao ba ba go gatelelang"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "bao ba ba go gatelelang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:11.979768169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Fa ke ne ke re, Ke tla bo ke bolela jalo, bonang, ke ne ke tla bo ke tsietse kokomana ya bana ba gago.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ke tla bo ke bolela"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kokomana"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ya bana ba gago"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "ke ne ke tla bo ke tsietse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:42.366520298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 8:8",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ka tsedeke mafoko otlhe a molomo wa me; ga go na se se soukgoleng kgotsa se se legang mo go tsone.",
+  "tokens": [
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo wa me"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "נפתל",
+      "gloss": "se se soukgoleng"
+    },
+    {
+      "surface": "ועקש",
+      "gloss": "se se legang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:44:10.723287177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "Jaana, ba latele ka sekgwatlha sa gago, mme ka phefo ya gago e e maatla o ba tshoose.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Jaana"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ba latele"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "ka sekgwatlha sa gago"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "mme ka phefo ya gago e e maatla"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "o ba tshoose"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:44.615299761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme Dawide a bua go Yahwe ⟨את⟩ mafoko a pina e, ka letsatsi lotlhe Yahwe a mo kgolola mo seatleng sa ba ba ntlhoya botlhe, le mo seatleng sa Saule.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a pina e"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "a pina"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "a mo kgolola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ba ba ntlhoya"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "le mo seatleng sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saule"
+    }
+  ],
+  "timestamp": "2026-10-03T23:17:37.922045466Z",
+  "model": "glm-5.3"
+}

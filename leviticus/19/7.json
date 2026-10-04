@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme fa e ka nna ya ja letsatsi la boraro, e tla nna se se tlhobilweng; e ka nna ya se amogelwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "e ka nna ya ja"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ya ja"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "la boraro"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "se se tlhobilweng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ka nna ya se"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "amogelwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:17.875478086Z",
+  "model": "glm-5.3"
+}

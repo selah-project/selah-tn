@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 23:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "O se ka wa salela morago ga bontsi go dira bosula, mme o se ka wa bua ka kgotlhang ya motho, ka go koafala o salela morago ga bontsi — go koafatsa tshiamo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wa nna"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "o salela morago ga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bontsi"
+    },
+    {
+      "surface": "לרעת",
+      "gloss": "go dira bosula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "wa bua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kgotlhang"
+    },
+    {
+      "surface": "לנטת",
+      "gloss": "ka go koafala"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "o salela morago ga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bontsi"
+    },
+    {
+      "surface": "להטת",
+      "gloss": "go koafatsa tshiamo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:35.193166897Z",
+  "model": "glm-5.3"
+}

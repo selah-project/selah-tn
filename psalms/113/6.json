@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 113,
+  "translation": "Yo o ikhumantseng go lebelela se se legeng magodimong le lefatsheng.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "Yo o ikhumantseng"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go lebelela"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "magodimong"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "le lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:58.367518273Z",
+  "model": "glm-5.3"
+}

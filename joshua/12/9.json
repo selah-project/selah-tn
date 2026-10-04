@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mmusi wa Yerikho, a le mongwe; mmusi wa ⟨the⟩ Haai, e e kwa thoko ga Bethele, a le mongwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mmusi wa"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mmusi wa"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "kwa thoko ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Bethele⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:39:17.767106813Z",
+  "model": "glm-5.3"
+}

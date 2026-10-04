@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme a bolaye ⟨את⟩ kgomo kwa pele ga Yahwe; mme barwa ba Aharone, bapriste, ba tleise ⟨את⟩ madi, mme ba tsholole ⟨את⟩ madi mahutshing a altaare ao o kwa ponyong ya tenthe ya kopano.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "mme a bolaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "mme ba tleise"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bapriste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "mme ba tsholole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa godimo ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaare"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mahutshing a yone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao o"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa ponyong ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenthe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:26.326733084Z",
+  "model": "glm-5.3"
+}

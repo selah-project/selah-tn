@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Le dikele tse pedi tsa gauta e e phepa; mo melelwaneng o tlaa di dira ⟨את⟩ jaaka tiro ya go kgopanela, mme o tlaa beya ⟨את⟩ dikele tsa go kgopanela mo diphuthelwaneng.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Le tse pedi"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "dikele"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e phepa"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "mo melelwaneng"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tlaa di dira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tsone"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "jaaka tiro"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ya go kgopanela"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mme o tlaa beya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikele"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "dikele"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "tsa go kgopanela"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "diphuthelwaneng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:55.781708323Z",
+  "model": "glm-5.3"
+}

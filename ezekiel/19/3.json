@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 19:3",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme a tlisa o le mongwe wa bana ba gagwe; o ne a nna tau, mme a ithuta go tshwara sepe; a ja batho.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "a tlisa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o le mongwe"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "wa bana ba gagwe"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "tau"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ne a nna"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "mme a ithuta"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "go tshwara"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "a ja"
+    }
+  ],
+  "timestamp": "2026-10-04T00:38:27.982355919Z",
+  "model": "glm-5.3"
+}

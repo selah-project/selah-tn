@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Gonne Yahwe o lefotse ⟨את⟩ Yaakobo, mme o mo lokolotse mo seatleng sa yo o nang le maatla go feta ene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "o lefotse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "mme o mo lokolotse"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sa yo o nang le maatla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go feta ene"
+    }
+  ],
+  "timestamp": "2026-10-04T00:19:14.783533094Z",
+  "model": "glm-5.3"
+}

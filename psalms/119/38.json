@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Netefatsa lefoko la gago go modiri wa gao, gore o tshabe wena.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "netefatsa"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "go modiri wa gao"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lefoko la gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "go go tshaba wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:10.474155192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "obadiah 1:21",
+  "book": "obadiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ba bolokang ba tla tlhatloga mo thabeng ya Tsiyone, go atlholola ⟨את⟩ thaba ya Esawe; mme bogosi bo tla nna jwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וְעָלוּ",
+      "gloss": "mme ba tla tlhatloga"
+    },
+    {
+      "surface": "מוֹשִׁעִים",
+      "gloss": "ba bolokang"
+    },
+    {
+      "surface": "בְּהַר",
+      "gloss": "mo thabeng ya"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "לִשְׁפֹּט",
+      "gloss": "go atlholola"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "thaba ya Esawe"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "thaba ya"
+    },
+    {
+      "surface": "עֵשָׂו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "וְהָיְתָה",
+      "gloss": "mme e tla nna"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "jwa Yahwe"
+    },
+    {
+      "surface": "הַמְּלוּכָה",
+      "gloss": "bogosi"
+    }
+  ],
+  "timestamp": "2026-10-04T00:58:21.481635687Z",
+  "model": "glm-5.3"
+}

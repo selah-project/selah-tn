@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme go ne go nna foo, ka nako ya go neela ⟨את⟩ Morabe morwadia Shause go Dawide, o ne a neelwa go Adrieri wa Mmekolata go nna mosadi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go nna foo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako ya"
+    },
+    {
+      "surface": "תת",
+      "gloss": "go neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Morabe"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Morabe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shause"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dawide"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "o ne"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a neelwa"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "go Adrieri"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "wa Mmekolata"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "go nna mosadi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:03:20.635738369Z",
+  "model": "glm-5.3"
+}

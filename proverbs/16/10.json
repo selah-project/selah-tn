@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Boporo bo le mo molomong wa kgosi; mo katlholong molomo wa gagwe ga o dire boikakaso.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "boporo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa kgosi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mo katlholong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "o dire boikakaso"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:48.995609546Z",
+  "model": "glm-5.3"
+}

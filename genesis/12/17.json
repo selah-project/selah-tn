@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Yahwe o ne a tlhasela ⟨את⟩ Faro ka ditlhaselo tse dikgolo, le ⟨את⟩ ntlo ya gagwe, ka ntlha ya ga Sarai, mosadi wa Abrahame.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "a tlhasela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "ditlhaselo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dikgolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya gagwe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi wa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:33.252132535Z",
+  "model": "glm-5.3"
+}

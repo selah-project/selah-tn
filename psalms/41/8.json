@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Ba kopana mmogo, ba kgotlafatsa kgatsha nna — ba ba mo tlhoyang botlhe; kgatsha nna ba akanya botlhoko jo bo ntshwarelang.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatsha nna"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "ba kgotlafatsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatsha nna"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ba akanya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "botlhoko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jo bo ntshwarelang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:06.523326189Z",
+  "model": "glm-5.3"
+}

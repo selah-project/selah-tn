@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Ke mo tlhoyile setlhopha sa ba ba dirang bosula, mme le ba ba sa siamang ga ke age le bone.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ke mo tlhoyile"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "setlhopha"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sa ba ba dirang bosula"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba sa siamang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ke age le bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:52.748079173Z",
+  "model": "glm-5.3"
+}

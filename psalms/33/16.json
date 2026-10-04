@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Ga go kgosi e e nang le polokego ka bontsi jwa sesole, sehubagotlhe se ka se pholosa ka bontsi jwa maatla.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ga go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "e e nang le polokego"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka bontsi jwa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sehubagotlhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ka se"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "pholosa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka bontsi jwa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "maatla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:33.829590583Z",
+  "model": "glm-5.3"
+}

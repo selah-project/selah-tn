@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme Moshe a kwala ⟨את⟩ mafelo a bone a go tswa ka ditsamaiso tsa bone, go ya ka molomo wa Yahwe; mme megele e ke ditsamaiso tsa bone ka mafelo a bone a go tswa.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Mme Moshe a kwala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafelo a bone a go tswa"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "mafelo a bone a go tswa"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "ka ditsamaiso tsa bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mme megele e"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "ditsamaiso tsa bone"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "ka mafelo a bone a go tswa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:19:06.905175422Z",
+  "model": "glm-5.3"
+}

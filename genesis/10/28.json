@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "le ⟨את⟩ Oobale le ⟨את⟩ Abimauele le ⟨את⟩ Sheba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Oobale"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Oobale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abimauele"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimauele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:02.869315009Z",
+  "model": "glm-5.3"
+}

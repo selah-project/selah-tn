@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme itse gore Yahwe o tlhaopile yo o itshepileng go ene; Yahwe o tla mmona fa ke bitsa kwa go ene.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "mme itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "o tlhaopile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "yo o itshepileng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o tla mmona"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "fa ke bitsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:22.527595399Z",
+  "model": "glm-5.3"
+}

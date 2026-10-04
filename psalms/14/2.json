@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Yahwe o lebile kwa tlogo go tswa kwa magodimong go bona bana ba batho, go bona go na le yo o nang le botlhale, yo o batlang ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "go tswa kwa magodimong"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "o lebile kwa tlogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "היש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yo o nang le botlhale"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yo o batlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:21.941294289Z",
+  "model": "glm-5.3"
+}

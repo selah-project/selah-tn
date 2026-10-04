@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "⟨את⟩ sengwe le sengwe ke se badile mo matšatšing a me a hevele: go na le moitshepi yo o swago mo tsedekeng ya gagwe, mme go na le moloi yo o nang le botshelo jotlhe mo bosuleng jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke badile"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mo matšatšing"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "a me a hevele"
+    },
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moitshepi"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yo o swago"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "mo tsedekeng ya gagwe"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "mme go na le"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moloi"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "yo o nang le botshelo jotlhe"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "mo bosuleng jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:20.820583231Z",
+  "model": "glm-5.3"
+}

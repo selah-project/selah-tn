@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 114,
+  "translation": "Fa Yisraele a tswa kwa Mitsrayime, ntlo ya Yaakobo go tswa go setshaba se se buang puo e e sa tlwaelegang,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "fa…a tswa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go tswa kwa Mitsrayime"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakobo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "go tswa go setshaba"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "se se buang puo e e sa tlwaelegang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:18.769180274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Dumelang Yahwe, dilo tsa gagwe tsotlhe, kwa mafelong onyana a puso ya gagwe; o dumele, moya wa me, ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Dumelang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "dilo tsa gagwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa onyana"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "mafelong"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "a puso ya gagwe"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "o dumele"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:48.201456728Z",
+  "model": "glm-5.3"
+}

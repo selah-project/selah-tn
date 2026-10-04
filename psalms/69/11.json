@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Mme ke ne ke lela moya wa me o ne o itima dijo, mme se ne sa nna maswabi go nna.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "mme ke ne ke lela"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "o ne o itima dijo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mme se ne sa nna"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "maswabi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:16.110338986Z",
+  "model": "glm-5.3"
+}

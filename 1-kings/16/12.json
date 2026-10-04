@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Jalo Zimri a senya ⟨את⟩ ntlo yotlhe ya Baasha, jaaka lefoko la Yahwe le neng la bua kgahlanong le Baasha, ka seatla sa Yehu moporofeti.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "a senya"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo yotlhe ya Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jaaka lefoko la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le neng la"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeti"
+    }
+  ],
+  "timestamp": "2026-10-03T23:27:57.043441595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme lefoko la Yahwe le ne le tla go Yonha la bobedi, go re:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme ... le ne le tla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonha"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:41.653655360Z",
+  "model": "glm-5.3"
+}

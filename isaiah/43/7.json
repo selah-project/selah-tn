@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Mang le mang yo o bidiwang ka leina la me, yo ke mo bopileng go ya ka kgorokgatho ya me, ke a mo rala, mmogo le go mo dira.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Mang le mang"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "yo o bidiwang"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ka leina la me"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "go ya ka kgorokgatho ya me"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ke mo bopileng"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ke a mo rala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "go mo dira"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:17.792707438Z",
+  "model": "glm-5.3"
+}

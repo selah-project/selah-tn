@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Morwa Dekere, kwa Makatse, le kwa Shaalabime, le kwa Beith-Semeshe, le Ealone-Beith-Khanane.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Dekere"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "kwa Makatse"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "le kwa Shaalabime"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "le kwa Beith-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Semeshe"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "le Ealone-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beith-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Khanane"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:31.820883480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ga Dawide. Go go ya, Yahwe, ke batla go sephara wa me.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ga Dawide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go go ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "wa me"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ke batla go sephara"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:41.568402884Z",
+  "model": "glm-5.3"
+}

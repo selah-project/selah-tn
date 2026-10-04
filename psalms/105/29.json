@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "O ne a fetola ⟨את⟩ metsi a bone go nna madi, a bolaisa ⟨את⟩ tlhapi ya bone.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "o ne a fetola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi a bone"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "metsi a bone"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "go nna madi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a bolaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhapi ya bone"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "tlhapi ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:01.996106388Z",
+  "model": "glm-5.3"
+}

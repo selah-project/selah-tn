@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme ke tla dira ⟨את⟩ metse ya lona e se kae, ke tla senya ⟨את⟩ ditempele tsa lona tse di itshepileng, mme ke tla se ka ka nkha nkho e e monate ya lona.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metse ya lona"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "metse ya lona"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "e se kae"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "ke tla senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditempele tsa lona tse di itshepileng"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "ditempele tsa lona tse di itshepileng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ke tla se ka ka"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "nka"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "nkho"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "e e monate ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:43.528689241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "Elohim Tsebaote, boela, re kopa; leba kwa magodimong, mme o bone, mme o etele gephe e e ntseng jalo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "boela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "re kopa"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "leba"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mme o bone"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "mme o etele"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "gephe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "e e ntseng jalo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:24.335122625Z",
+  "model": "glm-5.3"
+}

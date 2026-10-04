@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 101,
+  "translation": "Pelo e e fosafetseng e tla fapana le nna; bosula ga ke bo itse.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "e e fosafetseng"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "e tla fapana le"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ke bo itse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:22.898628141Z",
+  "model": "glm-5.3"
+}

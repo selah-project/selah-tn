@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Botlhe ba tla araba mme ba re go wena: Le wena o nonofile jaaka rona, o tshwanetse le rona.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Botlhe"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ba tla araba"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Le"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "o nonofile"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "jaaka rona"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "o tshwanetse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:57.902292163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme jaanong rraagwe o ne a laela joko e boima mo go lona, mme nna ke tla e oketsa mo jokong ya lona; rraagwe o ne a lokaleta ka dithaga, mme nna ke tla lo lokaleta ka dinose.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "o ne a laela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "על",
+      "gloss": "joko"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "e boima"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ke tla oketsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jokong ya lona"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "o ne a lokaleta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ka dithaga"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ke tla lokaleta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ka dinose"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:13.908468822Z",
+  "model": "glm-5.3"
+}

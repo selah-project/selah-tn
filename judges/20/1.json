@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 20:1",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme bana botlhe ba Yisraele ba tswa, mme phuthego ya kopana jaaka motho a le mongwe, go tswa go Dane go ya go Beersheba, le naga ya Gileade, go ya go Yahwe kwa Mitzpa.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba tswa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "mme phuthego ya kopana"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jaaka motho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "למדן",
+      "gloss": "go tswa go Dane"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beere"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sheba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le naga ya"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "kwa Mitzpa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:54:15.528936953Z",
+  "model": "glm-5.3"
+}

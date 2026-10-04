@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Gore ba tle ba sireletse melawana ya gagwe, mme ba eke Torotshya ya gagwe. Baka lonaka, Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ba tle ba sireletse"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "melawana ya gagwe"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "mme ba eke Torotshya ya gagwe"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ba eke"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Baka lonaka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:07.913781536Z",
+  "model": "glm-5.3"
+}

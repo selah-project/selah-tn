@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ⟨a⟩ re: O kgethile se se thata. Le fa go ntse jalo, fa o tlaa nthiba ge ke tsenngwa ⟨את⟩ ke go tsewa mo go wena, e tlaa nna jaalo go wena; mme fa go se jalo, e tlaa se nne jalo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "o kgethile se se thata"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "go buisa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o tlaa nthiba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ke tsenngwa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "go tsewa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ mo go wena"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "e tlaa nna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jaalo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se jalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tlaa nne"
+    }
+  ],
+  "timestamp": "2026-10-03T23:31:37.857117407Z",
+  "model": "glm-5.3"
+}

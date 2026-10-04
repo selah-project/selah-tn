@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "hosea 2:21",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ke tla go ralala ⟨go nna⟩ go sa feleng; ee, ke tla go ralala go nna ka tsedeke, le ka katlholo, le ka hesede, le ka mohau.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "ke tla go ralala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go sa feleng"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "ke tla go ralala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "le ka katlholo"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "le ka hesede"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "le ka mohau"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:02.582373718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme gape ka fa tlase ga letsatsi ke bone lefelo la katlholo — koo go nang le bosula; le lefelo la tsedeke — koo go nang le bosula.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Mme gape"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "la katlholo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "go nang le bosula"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "le lefelo"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "la tsedeke"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "go nang le bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:10.970537667Z",
+  "model": "glm-5.3"
+}

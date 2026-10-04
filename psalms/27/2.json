@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Fa ba baka baka ba tla go kgaufatsa le go tlola go ja ⟨את⟩ nama ya me — baba ba me le maipa a me kgahlanong le nna — ba iketla ba wa.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "go kgaufatsa le"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go tlola go nna"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "baka baka"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama ya me"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nama ya me"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "baba ba me"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "le maipa a me"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ba iketla"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ba wa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:38.170913504Z",
+  "model": "glm-5.3"
+}

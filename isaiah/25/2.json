@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Gonne o dirile motse go nna mokgobo, toropo e e nonofileng go nna phirimana; legae la bafaladi, motse o o sa tswang go nna; go ya lelele ga o age sepe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "go nna mokgobo"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "e e nonofileng"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "go nna phirimana"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "legae"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "la bafaladi"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "motse o o sa tswang go nna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya lelele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "o age sepe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:03.696361234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Ga go boitekanelo mo nameng ya me ka ntlha ya kgalefo ya gago, ga go kagiso mo marapong a me ka ntlha ya dibe tsa me.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ga go"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "boitekanelo"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "mo nameng ya me"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kgalefo ya gago"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "mo marapong a me"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dibe tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:52.605968745Z",
+  "model": "glm-5.3"
+}

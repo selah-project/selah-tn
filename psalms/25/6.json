@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Gakologelwa bopelotshweu jwa gago, Yahwe, le hesede ya gago; gonne go tloga kwa tshimologong e di leng teng.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "gakologelwa"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "bopelotshweu jwa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "le hesede ya gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "go tloga kwa tshimologong"
+    },
+    {
+      "surface": "המה",
+      "gloss": "e di leng teng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:52.688037259Z",
+  "model": "glm-5.3"
+}

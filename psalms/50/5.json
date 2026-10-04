@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Kokoanyang ⟨את⟩ ba ba itshepileng ba me, ba ba kaoganyang kgolagano ya me ka sebolelo.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Kokoanyang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go kwa go nna"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "ba ba itshepileng ba me"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ba ba kaoganyang"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sebolelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:06.795552211Z",
+  "model": "glm-5.3"
+}

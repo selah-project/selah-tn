@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 150,
+  "translation": "Mogang ka tofo le go bina; mogang ka dithae tsa mmino le phipa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Mogang"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ka tofo"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "le go bina"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mogang"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "ka dithae tsa mmino"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "le phipa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:43.329063812Z",
+  "model": "glm-5.3"
+}

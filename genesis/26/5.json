@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Ka gonne Abrahame o ne a reetsa lentswe la me, a boloka tshireletso ya me, ditaelo tsa me, melao ya me le Torah ya me.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fela"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o ne a reetsa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "lentswe la me"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "a boloka"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "tshireletso ya me"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ditaelo tsa me"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "melao ya me"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "le Torah ya me"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:40.503054790Z",
+  "model": "glm-5.3"
+}

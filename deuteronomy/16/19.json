@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 16:19",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "O se ka wa golega katlholo, o se ka wa anaanela sefatlhego, mme o se ka wa amogola sekgweetso; gonne sekgweetso se foufatsa mesifa ya ba botlhale, mme se senola mafoko a ba lokileng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "golega"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תכיר",
+      "gloss": "anaanela"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefatlhego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "amogola"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "sekgweetso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "sekgweetso"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "se foufatsa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mesifa ya"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ba botlhale"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "mme se senola"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "ba lokileng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:26:02.913645533Z",
+  "model": "glm-5.3"
+}

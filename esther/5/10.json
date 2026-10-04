@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Hamane a itshwarela, a tsena mo legaeng la gagwe; a romela, a isa ⟨את⟩ ditsala tsa gagwe le ⟨את⟩ Zereshe, mosadi wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "a itshwarela"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "legaeng la gagwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditsala tsa gagwe"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ditsala tsa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Zereshe"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zereshe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:45.247039785Z",
+  "model": "glm-5.3"
+}

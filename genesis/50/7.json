@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme Yosefa a ya go boloka ⟨את⟩ rre wa gagwe; mme ba ne ba ya le ene ⟨את⟩ botsalano jwa gagwe botlhe — bagolo ba ntlo ya gagwe le bagolo botlhe ba lefatshe la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rre wa gagwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rre wa gagwe"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba ne ba ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "batlhanka ba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo ba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le botlhe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo ba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:09.230038999Z",
+  "model": "glm-5.3"
+}

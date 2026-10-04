@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Morago ga dilo tseo, fa bogale jwa kgosi Akhashuweroshe bo ne bo thothotlha, o ne a gopola ⟨את⟩ Vashit, le ⟨את⟩ se a neng a se dirile, le ⟨את⟩ se se neng sa laelwa kgatlhanong le ene.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Morago ga"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dilo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "fa bo ne bo thothotlha"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashuweroshe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "o ne a gopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashit"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "se a neng a se dirile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "a neng a se dirile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "se se neng sa laelwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "sa laelwa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kgatlhanong le ene"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:54.589349291Z",
+  "model": "glm-5.3"
+}

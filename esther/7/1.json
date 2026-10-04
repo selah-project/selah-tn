@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme kgosi le Hamane ba tsena go nwa le Estere kgosigadi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "le Hamane"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "go nwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kgosigadi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:17:55.558004697Z",
+  "model": "glm-5.3"
+}

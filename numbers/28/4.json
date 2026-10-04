@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "⟨את⟩ kwanyana e le nngwe o e dira mo mosong, mme ⟨את⟩ kwanyana ya bobedi o e dira gare ga mafifibg.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwanyana e le nngwe"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o e dira"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "kwanyana ya bobedi"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya bobedi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o e dira"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mafifo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:16:14.355146457Z",
+  "model": "glm-5.3"
+}

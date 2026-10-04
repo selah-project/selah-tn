@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Fela ⟨את⟩ morafe wa Levi o se ke wa o bala, le ⟨את⟩ palo ya bone o se ke wa e tsaya, gareng ga bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morafe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "morafe"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "o bala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "palo ya bone"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "palo ya bone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wa e tsaya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gareng ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:11.812942018Z",
+  "model": "glm-5.3"
+}

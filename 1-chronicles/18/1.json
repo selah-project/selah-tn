@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme morago ga dilo tseo, Dawide a thaya ⟨את⟩ Ba-Pelishtite, mme a ba fenya, mme a tsera ⟨את⟩ Gathe le metse ya yone mo letlheng la Ba-Pelishtite.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dilo tseo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a thaya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba-Pelishtite"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelishtite"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "mme a ba fenya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mme a tsera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gathe"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathe"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "le metse ya yone"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo letlheng la"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelishtite"
+    }
+  ],
+  "timestamp": "2026-10-04T02:41:43.943203685Z",
+  "model": "glm-5.3"
+}

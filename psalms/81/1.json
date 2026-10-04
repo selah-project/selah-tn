@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Go mokaedi, ka hagitite, wa Asafe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go mokaedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "hagitite"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Asafe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:06.668938881Z",
+  "model": "glm-5.3"
+}

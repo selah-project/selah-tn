@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Ke ne ke nna jaaka sekai go ba bantsi, mme wena o ⟨⟨is⟩⟩ bonegelo ya me ya matla.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "jaaka sekai"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke nna"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "go ba bantsi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "bonegelo ya me"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ya matla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:14.586962327Z",
+  "model": "glm-5.3"
+}

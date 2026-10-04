@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Molomo wa me o tla bua tebogo ya Yahwe, mme nama yotlhe e tlaa segolatsa leina la gagwe la boitshepo, go ya le bosikhale le go sa fe.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "tebogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mme e tlaa segolatsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la gagwe la boitshepo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le bosikhale"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme go sa fe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:31.861024743Z",
+  "model": "glm-5.3"
+}

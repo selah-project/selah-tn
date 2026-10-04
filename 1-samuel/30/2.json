@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "ba gapa ⟨את⟩ basadi ba ba neng ba le mo go yona, go tloga go se se nnye go fitlha go se se segolo; ba ne ba sa bolaya motho ope, mme ba ba tsera ba tsamaya ka tsela ya bone.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ba gapa jaaka batshwarwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basadi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba neng"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "go tloga go se se nnye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "go se se segolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "bolaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho ope"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "ba ba tsera ba isa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "ka tsela ya bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:07:26.255147255Z",
+  "model": "glm-5.3"
+}

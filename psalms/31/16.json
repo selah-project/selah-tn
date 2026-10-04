@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Ka seatla sa gago ke nna dinako tsa me; ntsholla mo seatleng sa ba ba ntlholang le sa ba ba nnisang moro.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "ka seatla sa gago"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "dinako tsa me"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ntsholla"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ba ba ntlholang"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "le ba ba nnisang moro"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:07.829031176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme jaanong emang, ke tlaa sekaseka molato le lona kwa pele ga Yahwe, ka ⟨את⟩ tsedeke tsotlhe tsa Yahwe, tse a di diritseng go lona ⟨את⟩ le go borraabona ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jaanong"
+    },
+    {
+      "surface": "התיצבב",
+      "gloss": "emang"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "ke tlaa sekaseka molato"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "le lona ⟨את⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsedeke tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di diritseng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "go lona ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le go ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "borraabona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:40.815662581Z",
+  "model": "glm-5.3"
+}

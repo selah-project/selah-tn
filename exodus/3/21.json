@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ke tla neela ⟨את⟩ tlotlo batho ba, mo mahlong a baagi ba Mitsrayime; mme go tla nna fa le tsamaya, le ka se tsamaye le sepe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tla neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlotlo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "tlotlo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo mahlong a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baagi ba Mitsrayime"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme go tla nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "le tsamaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "le tsamaye"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "le sepe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:50.709265552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 87,
+  "translation": "Dilo tse dikgolo di buiwa ka ga wena, toropo ya Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "dilo tse dikgolo"
+    },
+    {
+      "surface": "מדובר",
+      "gloss": "di buiwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka ga wena"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:14.062356322Z",
+  "model": "glm-5.3"
+}

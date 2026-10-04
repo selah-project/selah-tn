@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "⟨את⟩ tafole le ⟨את⟩ misele ya yone le ⟨את⟩ didiriswa tsa yone tsotlhe, le ⟨את⟩ senkgwe sa ponahalo;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "misele ya yone"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "misele ya yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa yone tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tsa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "senkgwe sa ponahalo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sa ponahalo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:50.678544117Z",
+  "model": "glm-5.3"
+}

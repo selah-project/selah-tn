@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme banna ba sa swang ba ne ba boutuwa ka mabolo; mme seuswa sa toropo se ne sa ya kwa godimo, kwa magodimong.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Mme banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "swang"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ba boutuwa"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ka mabolo"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "se ne sa ya kwa godimo"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "seuswa sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:57:45.690978127Z",
+  "model": "glm-5.3"
+}

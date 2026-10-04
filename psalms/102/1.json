@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Thapelo ya motswetla, fa a phefologa go se kafa, mme a tlhabolola bokao jwa gagwe kwa pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Thapelo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ya motswetla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "a phefologa go se kafa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "mme a tlhabolola … kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "a tlhabolola"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "bokao jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:15.838088441Z",
+  "model": "glm-5.3"
+}

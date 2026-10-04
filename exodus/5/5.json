@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Paroh a re: Bonang, setjhaba sa lefatshe se bantsi jaanong, mme lo ba emisa mo go rwaleng dijwalo tsa bone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bantsi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "mme lo ba emisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba (setjhaba)"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "mo go rwaleng dijwalo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:49.711900504Z",
+  "model": "glm-5.3"
+}

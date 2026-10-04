@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme a re isa go ⟨the⟩ lefelo le, mme a re neela ⟨את⟩ lefatshe le, lefatshe le elelang mashi le asene.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "a re isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a re neela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "le elelang"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mashi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le asene"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:56.210543170Z",
+  "model": "glm-5.3"
+}

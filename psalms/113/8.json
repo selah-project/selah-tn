@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 113,
+  "translation": "Gore a ba bakise le dikgosi, le dikgosi tsa setshaba sa gagwe.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "gore a ba bakise"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:56.030803989Z",
+  "model": "glm-5.3"
+}

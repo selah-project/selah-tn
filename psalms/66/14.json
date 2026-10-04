@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Ao molomo wa me o o buileng, le seo molomo wa me o se buileng mo dithateng tsa me.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "o o buileng"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "le o se buileng"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mo dithateng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:27.346855893Z",
+  "model": "glm-5.3"
+}

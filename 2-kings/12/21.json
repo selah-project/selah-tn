@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme batsadiwa ba gagwe ba tlhoga, ba kopanya boitelanelo, ba tlhasela ⟨את⟩ Yoashe kwa Ntlheng ya Milo, e e seng kwa tlase go ya kwa Silae.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ba tlhoga"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "batsadiwa ba gagwe"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "ba kopanya"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "boitelanelo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba tlhasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoashe"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kwa Ntlheng"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ya Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "e e seng kwa tlase"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "kwa Silae"
+    }
+  ],
+  "timestamp": "2026-10-03T23:37:12.621125998Z",
+  "model": "glm-5.3"
+}

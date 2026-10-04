@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "A ga go a nna jalo, jaaka mashi o nthuthuntse, mme jaaka seseane o nthibitse?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A ga go a nna jalo"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "jaaka mashi"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "o nthuthuntse"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "mme jaaka seseane"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "o nthibitse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:24.052894401Z",
+  "model": "glm-5.3"
+}

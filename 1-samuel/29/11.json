@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme Dawide o ne a tloga ka moso, yena le banna ba gagwe, go tsamaya ka moso, go boela kwa nageng ya Baflistina; mme Baflistina ba ne ba ya kwa Yizreele.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "o ne a tloga ka moso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba gagwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "go boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nageng"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Baflistina"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "mme Baflistina"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ba ne ba ya"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "kwa Yizreele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:05:58.174711864Z",
+  "model": "glm-5.3"
+}

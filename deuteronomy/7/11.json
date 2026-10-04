@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme o tlaa boloka ⟨את⟩ taelo le ⟨את⟩ melawana le ⟨את⟩ dikatlholo tse ke di laelang gone gompieno, go di dira.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Mme o tlaa boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "melawana"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikatlholo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dikatlholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "di laelang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gone gompieno"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "go di dira"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:16.934633689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ba tla ja ⟨את⟩ nama bo tule bo, e biditswe ka molelo, le dikuku tse sa tlhotlhweng; ba e jele le ditlhatsana di le bogale.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ba tla ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bo tule bo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "e biditswe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "le dikuku tse sa tlhotlhweng"
+    },
+    {
+      "surface": "על",
+      "gloss": "le"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "ditlhatsana di le bogale"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ba e jele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:27.938274462Z",
+  "model": "glm-5.3"
+}

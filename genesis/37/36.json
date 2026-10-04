@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme banna ba Mediane ba mo rekisitse ⟨את⟩ kwa Mitsrayime, go ya go Potifara, mothusi wa Farao, mookamedi wa badibadi.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "banna ba Mediane"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ba mo rekisitse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "Potifara"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "mothusi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "badibadi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:45.010897048Z",
+  "model": "glm-5.3"
+}

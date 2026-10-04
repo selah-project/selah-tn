@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Boelang ba pholile, boelang bo itshepile; boelang bo ntshitse bobe jwa ditiro tsa lona go tswa kwa pele ga matlho a me; emang thata go dira bobe.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "boelang ba pholile"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "boelang bo itshepile"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "boelang bo ntshitse"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "jwa ditiro tsa lona"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "go tswa kwa pele ga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "emang thata"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "go dira bobe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:36.498428224Z",
+  "model": "glm-5.3"
+}

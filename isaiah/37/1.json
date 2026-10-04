@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme go ne go le jalo, fa kgosi Hizkeyahu a utlwa, a kgaola ⟨את⟩ diaparo tsa gagwe, a ikarola ka sekhaka, mme a tsena mo ntlong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le jalo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "fa a utlwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkeyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a kgaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa gagwe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tsa gagwe"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "a ikarola"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "ka sekhaka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:14.807933060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Mme ke ne ke sotlegwa letsatsi lotho, mme tekeletso ya me ⟨e ne e tla⟩ mo mosong mang le mang.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "mme ke ne ke"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "sotlegwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotho"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "mme tekeletso ya me"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "mo mosong mang le mang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:42.366328638Z",
+  "model": "glm-5.3"
+}

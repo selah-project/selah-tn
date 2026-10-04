@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 130,
+  "translation": "Ke letetse Yahwe, ka botlheletso jwa me ke letetse, mme ka lefoko la gagwe ke tshegetse tshepo.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "ke letetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "ke letetse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ka botlheletso jwa me"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "mme ka lefoko la gagwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ke tshegetse tshepo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:22.221164243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "O tlotse botlhe ba ba tlhaolang ditaolo tsa gago, gonne maaka ke boferefere jwa bone.",
+  "tokens": [
+    {
+      "surface": "סליתה",
+      "gloss": "O tlotse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "ba ba tlhaolang"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "ditaolo tsa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "boferefere jwa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:06.857863763Z",
+  "model": "glm-5.3"
+}

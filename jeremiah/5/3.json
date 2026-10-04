@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Yahwe, matlho a gago a na le boikanyego, a waile ba o ne o ba kgweetsa, ba falotswe, ba ba bolaileng: ba gana go amogela teboetso; ba ikanyegile matsogo a bone go feta leje; ba gana go boela morago.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matlho a gago"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a na le"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "boikanyego"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "o ne o ba kgweetsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba o ne o ba kgweetsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba falotswe"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "o waile"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "ba falotswe"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba ba bolaileng"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "go amogela"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "teboetso"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ba ikanyegile"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "matsogo a bone"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "go feta leje"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba gana"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "go boela morago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:09:14.572022783Z",
+  "model": "glm-5.3"
+}

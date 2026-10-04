@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Go elana le sekgala, dikhgetho di tla nna teng — mafelo a diphatla go isiša ⟨את⟩ tafole ka tsone.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "go elana le"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "sekgala"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "di tla nna teng"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "dikhgetho"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "mafelo"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "a diphatla"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "go isiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:21.213888119Z",
+  "model": "glm-5.3"
+}

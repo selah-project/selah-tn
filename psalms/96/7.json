@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 96,
+  "translation": "Eeletsang go Yahwe, malapa a ditshaba; eeletsang go Yahwe tlhompho le nonofo.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Eeletsang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "malapa a"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "eeletsang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tlhompho"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "le nonofo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:52.753779346Z",
+  "model": "glm-5.3"
+}

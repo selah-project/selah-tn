@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 4:16",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme a re: Ka nakontlha e e beilweng, e e tshwanang le eno ya botshelo, wena o tla bo o kwaditse mosimane. Mme a re: Nnyaa, morena wa me, motho wa Elohim, se ke wa bua maaka mo lengwalong la gago.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "Ka nakontlha e e beilweng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "e e tshwanang le eno"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ya botshelo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "wena"
+    },
+    {
+      "surface": "חבקת",
+      "gloss": "o tla bo o kwaditse"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mosimane"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nnyaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa me"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "תכזב",
+      "gloss": "bua maaka"
+    },
+    {
+      "surface": "בשפחתך",
+      "gloss": "mo lengwalong la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:01.821682293Z",
+  "model": "glm-5.3"
+}

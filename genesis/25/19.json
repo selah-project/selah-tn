@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme tshepedi tsena tsa losika lwa Yitshake, morwa Abrahame: Abrahame o ne a bea ⟨את⟩ Yitshake.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "mme tshepedi tsena"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "tsa losika"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "lwa Yitshake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ne a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshake"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:30.441992059Z",
+  "model": "glm-5.3"
+}

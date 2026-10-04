@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme o tla isa ⟨את⟩ Balevi kwa pele ga Yahwe, mme bana ba Yisraele ba be ⟨את⟩ diatla tsa bone mo Baleving.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "o tla isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "mme ba be"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diatla tsa bone"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tsa bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Baleving"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:07.594297639Z",
+  "model": "glm-5.3"
+}

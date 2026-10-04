@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Ba bana ba Giraele ba ne e le Aiezaere; go ya ka Aiezaere, merafe ya baAiezaere; go ya ka Kheleke, merafe ya baKheleke.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giraele"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "Aiezaere"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "merafe ya"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "baAiezaere"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "go ya ka Kheleke"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "merafe ya"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "baKheleke"
+    }
+  ],
+  "timestamp": "2026-10-03T22:15:19.643610111Z",
+  "model": "glm-5.3"
+}

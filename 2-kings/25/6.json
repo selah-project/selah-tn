@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ba tshwara ⟨את⟩ kgosi, mme ba mo isa kwa kgosing ya Babele, kwa Rible; mme ba mo kalatla katlholo.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "Ba tshwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba mo isa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosing ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "kwa Rible"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo go ene"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:12.429744018Z",
+  "model": "glm-5.3"
+}

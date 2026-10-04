@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Dilo tsotlhe tseo di re tliletse, mme ga re a go tlogela, mme ga ra ikakametsa mo kgolaganong ya gago.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dilo tseo"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "di re tliletse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "ra go tlogela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "ra ikakametsa"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "mo kgolaganong ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:50.841326539Z",
+  "model": "glm-5.3"
+}

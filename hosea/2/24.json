@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme lefatshe le tla araba ⟨את⟩ korong, le ⟨את⟩ beine e ntšha, le ⟨את⟩ mafura; mme one a tla araba ⟨את⟩ Yizreele.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "le tla araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korong"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "korong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "beine e ntšha"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "beine e ntšha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme one"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "a tla araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreele"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreele"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:02.582894498Z",
+  "model": "glm-5.3"
+}

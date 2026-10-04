@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Ka tlhoyo e e feletseng ke ba loletse, ba nna baba ba me.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "e e feletseng"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "tlhoyo"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ke ba loletse"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "baba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:36.209112862Z",
+  "model": "glm-5.3"
+}

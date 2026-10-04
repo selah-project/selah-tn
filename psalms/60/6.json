@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "O neelane ba ba go ileng folaga, gore e bontshiwe ka ntlha ya boammaatma. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "o neelane"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ba ba go ileng"
+    },
+    {
+      "surface": "נס",
+      "gloss": "folaga"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "gore e bontshiwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "boammaatma"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:24.147916840Z",
+  "model": "glm-5.3"
+}

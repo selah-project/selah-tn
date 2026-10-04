@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Bolelela bohlale: ⟨את⟩ wena, kgaitsadi ya me; mme bokaulengwe — o bide tlhaloganyo.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Bolelela"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kgaitsadi ya me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "bokaulengwe"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "tlhaloganyo"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "o e bide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:03.167793674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme wena o tlaa boela, mme o utlwe lentswe la Yahwe, mme o dire ⟨את⟩ ditaolo tsotlhe tsa gagwe, tse ke nkeke laelang ka letsatsi leo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mme wena"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o tlaa boela"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "mme o utlwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaolo tsotlhe tsa gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ditaolo tsa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nkeke"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "laelang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ka letsatsi leo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:32:08.322693570Z",
+  "model": "glm-5.3"
+}

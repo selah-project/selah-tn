@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Yo o nang mo boseele jwa Elyone, mo moriting wa Shadai o tla nna a itshireletsa.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Yo o nang"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mo boseele jwa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mo moriting wa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "o tla nna a itshireletsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:34.944490699Z",
+  "model": "glm-5.3"
+}

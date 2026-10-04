@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Setseke se sennyane, mme banna ba le mmalwa mo go sone; mme kgosi e kgolo ya tla go se batla, ya se dikologa, mme ya agela pele ga sone ditirelo tse dikgolo.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "setseke"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "se sennyane"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "mme banna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go sone"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ba le mmalwa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mme ya tla"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "go se batla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ya se dikologa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "se (setseke)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "mme ya aga"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pele ga sone"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "ditirelo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "tse dikgolo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:44.364331375Z",
+  "model": "glm-5.3"
+}

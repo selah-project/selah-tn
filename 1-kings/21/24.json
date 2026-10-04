@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Yo a swang wa Ahaba mo toropong, dintsha di tlaa ja ⟨mo⟩; mme yo a swang kwa masimong, dinonyane tsa magodimo di tlaa ja ⟨mo⟩.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "yo a swang"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "wa Ahaba"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo toropong"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tlaa ja"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dintsha"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "mme yo a swang"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwa masimong"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tlaa ja"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dinonyane"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa magodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:27.291705155Z",
+  "model": "glm-5.3"
+}

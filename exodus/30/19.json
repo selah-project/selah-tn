@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "mme Aharone le bana ba gagwe ba tlhaphe mo go yona ⟨את⟩ diatla tsa bone le ⟨את⟩ maoto a bone.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ba tlhaphe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diatla tsa bone"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tsa bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maoto a bone"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "maoto a bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:39.716108661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme kgaitsadi ya Takhpenese a belega ⟨את⟩ Genubate, morwa wa gagwe; mme Takhpenese a mo nwaletse mo tlung ga Faro; mme Genubate a nna mo tlung ga Faro, mo gare ga bana ba Faro.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "kgaitsadi"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "ya Takhpenese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubate"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubate"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "ויגמלהו",
+      "gloss": "a mo nwaletse"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Takhpenese"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tlung"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ga Faro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubate"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo tlung"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ga Faro"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gare"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ga bana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ba Faro"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:28.833108346Z",
+  "model": "glm-5.3"
+}

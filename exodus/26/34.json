@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme o beye ⟨את⟩ setulo sa kabusho mo araka ya bopaki, ka boitsheponeng jwa boitshepo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "o beye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setulo sa kabusho"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "setulo sa kabusho"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "araka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bopaki"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ka boitsheponeng"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "jwa boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:28.777053741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Motsadike Yahwe mo ditseleng tsa gagwe tsotlhe, mme o ntshe botsalano mo ditirong tsa gagwe tsotlhe.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Motsadike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo … tsotlhe"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ditseleng tsa gagwe"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "mme o ntshe botsalano"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo … tsotlhe"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ditirong tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:07.683129227Z",
+  "model": "glm-5.3"
+}

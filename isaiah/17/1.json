@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Bojengo jwa Damasheke. Bonwe, Damasheke bo a tlhosiwa go bo le toropo, mme bo tla nna mokgobo wa maswe a maneo.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Bojengo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasheke"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasheke"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "bo a tlhosiwa"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "go bo le toropo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mme bo tla nna"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mokgobo wa maswe"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "a maneo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:27.442207861Z",
+  "model": "glm-5.3"
+}

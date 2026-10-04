@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Gore ga go dikgoreletsi mo mahu a bone; mme mmele wa bone o nonofile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "dikgoreletsi"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "mo mahu a bone"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "mme o nonofile"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "mmele wa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:16.755967454Z",
+  "model": "glm-5.3"
+}

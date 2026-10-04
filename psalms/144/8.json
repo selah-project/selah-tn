@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "E sego molomo wa bone o buang maaka, mme seatla sa bone sa moja e sego seatla sa boaka.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "E sego"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "molomo wa bone"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buang"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "mme seatla sa bone sa moja"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sa boaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:57.415961256Z",
+  "model": "glm-5.3"
+}

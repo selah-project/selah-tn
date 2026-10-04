@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Shauole a romela ⟨את⟩ baromuwa go ya go lebelela ⟨את⟩ Dawide, a re: moisaneng mo setulong sa boroko, mo ntseng kwa go nna, gore ke mmolae.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baromuwa"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "baromuwa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go ya go lebelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "moisaneng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "mo setulong sa boroko"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "mo setulong sa boroko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "gore ke mmolae"
+    }
+  ],
+  "timestamp": "2026-10-03T23:02:43.513627423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 18:9",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "O tsamaya ka melawana ya me, mme o boloka dikatlholo tsa me, go dira boammaaruri; yo o siameng ke ene — o tshelela o tla tshelela, go bua Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחקותי",
+      "gloss": "ka melawana ya me"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "o tsamaya"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "mme dikatlholo tsa me"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "boammaaruri"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "o tshelela"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "o tla tshelela"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:37:00.439510706Z",
+  "model": "glm-5.3"
+}

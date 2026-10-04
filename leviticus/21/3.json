@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Le kgaitsadia gagwe ye e sa nyalwang, yo a mo gaufi le ene, ye e sa nyalang monna — ka yena o ka itsekisa.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "le kgaitsadia gagwe"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "ye e sa nyalwang"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "yo a mo gaufi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "le ene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ye e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nyalang"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka yena"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "o ka itsekisa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:03.730860406Z",
+  "model": "glm-5.3"
+}

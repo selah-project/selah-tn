@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "a tsaya ⟨את⟩ diphetho tsa ntlo ya Yahwe le ⟨את⟩ diphetho tsa ntlo ya kgosi, a tsaya ⟨את⟩ sengwe le sengwe; a tsaya ⟨את⟩ dihele tsa gauta tsotlhe tse Shelomoe a neng a di dira.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphetho tsa ntlo ya Yahwe"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "diphetho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diphetho tsa ntlo ya kgosi"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "diphetho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dihele tsotlhe tsa gauta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "dihele"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:27:26.012123727Z",
+  "model": "glm-5.3"
+}

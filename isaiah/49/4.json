@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Mme nna ke ne ka re: ka boaka ke gobetse, maatla a me ke weditswe ka bosula le boaka; mme ruri katlholo ya me e mo go Yahwe ⟨את⟩, le mosebetsi wa me o mo go Elohim ⟨את⟩ wa me.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ka re"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ka boaka"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ke gobetse"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "ka bosula"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "le boaka"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a me"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ke weditswe"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "mme ruri"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "katlholo ya me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "le mosebetsi wa me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim wa me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:00:23.836719233Z",
+  "model": "glm-5.3"
+}

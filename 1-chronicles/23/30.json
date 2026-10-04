@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "le go ema moso ka moso go leboga le go baka Yahwe, le jalo mantsiboa;",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "le go ema"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "go leboga"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "le go baka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "le jalo"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "mantsiboa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:44:11.601857759Z",
+  "model": "glm-5.3"
+}

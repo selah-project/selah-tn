@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme o tlaa bakisa ⟨את⟩ Aharone le ⟨את⟩ bana ba gagwe kwa ponong ya tente ya kopano, mme wa ba tlhatswa ka metsi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "o tlaa bakisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ponong ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "wa ba tlhatswa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone le bana ba gagwe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:06.086426527Z",
+  "model": "glm-5.3"
+}

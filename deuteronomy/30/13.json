@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 30:13",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme e ga ⟨is⟩ kwa mawatleng, gore o re: Ke mang yo o tlaang go rona a feta kwa mawatleng, mme a e tsayela rona, mme a e utswetsa rona ⟨את⟩, mme re e dire?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לים",
+      "gloss": "mawatleng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gore o re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "a tlaa feta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kwa mo go kgakala"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mawatle"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "mme a e tsayela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "mme a e utswetsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (lefoko)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "mme re e dire"
+    }
+  ],
+  "timestamp": "2026-10-03T22:32:08.495857270Z",
+  "model": "glm-5.3"
+}

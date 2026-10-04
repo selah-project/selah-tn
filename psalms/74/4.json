@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Banò ba gago ba gogedisa kwa bogareng jwa phutheho ya gago; ba beile disupo tsa bona jaaka disupo.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "ba gogedisa"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Banò ba gago"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kwa bogareng"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "jwa phutheho ya gago"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ba beile"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "disupo tsa bona"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "jaaka disupo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:54.299229340Z",
+  "model": "glm-5.3"
+}

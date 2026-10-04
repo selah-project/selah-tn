@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 150,
+  "translation": "Mogang ka modumo wa shofara; mogang ka nevele le kinora.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Mogang"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "ka modumo wa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofara"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mogang"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ka nevele"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "le kinora"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:43.328945561Z",
+  "model": "glm-5.3"
+}

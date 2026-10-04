@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Ka gonne o ne wa re: Ditshaba ⟨את⟩ tse pedi le mafatshe ⟨את⟩ a mabedi ke a me, mme re tla a gapa; mme Yahwe o ne a ntse a le koo.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "o ne wa re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshaba tse pedi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafatshe a mabedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mafatshe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke a me"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "di tla nna"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "mme re tla a gapa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ne a ntse a le"
+    }
+  ],
+  "timestamp": "2026-10-04T00:46:23.586561052Z",
+  "model": "glm-5.3"
+}

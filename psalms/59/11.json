@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Elohim ya hesede ya me o tla ntseanela; Elohim o tla ntlhodisa ba ba ntlhoyang.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya me"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "o tla ntseanela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "o tla ntlhodisa"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "ba ba ntlhoyang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:46.608865997Z",
+  "model": "glm-5.3"
+}

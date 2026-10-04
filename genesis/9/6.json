@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Yo o tsheditseng madi a motho, ka motho madi a gagwe a tlaa tshediiwa; gonne ka setshwano sa Elohim o bopile ⟨את⟩ motho.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "yo o tsheditseng"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "a motho"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ka motho"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a gagwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "a tlaa tshediiwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ka setshwano sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o bopile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:48.425617687Z",
+  "model": "glm-5.3"
+}

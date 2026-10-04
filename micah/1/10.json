@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mo Gathe o se ke wa bolela, o se ke lla; mo Betle-Afarha, mo leroleng o ikobolela.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Mo Gathe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "wa bolela"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "o se ke lla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "lla"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo Betle-"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Afarha"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mo leroleng"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "o ikobolela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:48.568279250Z",
+  "model": "glm-5.3"
+}

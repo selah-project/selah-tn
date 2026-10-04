@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Ntlo ya Aharone, ikaeganang go Yahwe — Mong wa thuso wa bone le sefofane sa bone ke ene.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Ntlo ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ikaeganang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "Mong wa thuso wa bone"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "le sefofane sa bone"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:49.289658875Z",
+  "model": "glm-5.3"
+}

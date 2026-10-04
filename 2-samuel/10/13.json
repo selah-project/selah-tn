@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 10:13",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Yoabe a atamela, mmogo le setshaba se se neng se le ene, go ya go lwa kgatlhanong le Arame, mme ba ne ba tshaba mo sekasekeng sa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "a atamela"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "le setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng se le"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ene"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go ya go lwa"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "kgatlhanong le Arame"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ba ne ba tshaba"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mo sekasekeng sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:12:32.018544938Z",
+  "model": "glm-5.3"
+}

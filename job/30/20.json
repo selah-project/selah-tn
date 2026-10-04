@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Ke a go llela, mme o a ntshwara; ke eme, mme o a nkgetha.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "ke a go llela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o a ntshwara"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "o a ntshwara"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ke eme"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "mme o a nkgetha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nkgetha"
+    }
+  ],
+  "timestamp": "2026-10-04T02:02:19.210722797Z",
+  "model": "glm-5.3"
+}

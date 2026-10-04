@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Mikale a kookolosa ⟨את⟩ Dawide ka fensetere, mme a tsamaya, a tshaba, a falola.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "a kookolosa"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fensetere"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "a tshaba"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "a falola"
+    }
+  ],
+  "timestamp": "2026-10-03T23:03:42.366620491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Go go wena, Yahwe, ke ineetse; se ka nthusa go ikutlwa bosula go ya leruri.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "go go wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke ineetse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nthusa go ikutlwa bosula"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya leruri"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:32.023022593Z",
+  "model": "glm-5.3"
+}

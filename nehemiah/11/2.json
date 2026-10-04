@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme setshaba sa akgola batho botlhe ba ba neng ba itlhophela ka bojotlhe go nna kwa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "sa akgola"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "ba ba itlhophelang ka bojotlhe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:19.386870711Z",
+  "model": "glm-5.3"
+}

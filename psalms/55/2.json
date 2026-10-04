@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Bolokela ditsebe Elohim, thapelo ya me, mme o se ka wa itshwara leitlho go tlhokomeliso ya me.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Bolokela ditsebe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "wa itshwara leitlho"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "go tlhokomeliso ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:55.411107583Z",
+  "model": "glm-5.3"
+}

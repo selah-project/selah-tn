@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 138,
+  "translation": "Ya Dawide. Ke tla go leboga ka pelo ya me yotlhe; kwa pele ga medimo ke tla go opela.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Ke tla go leboga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka … yotlhe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ke tla go opela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:56.991504067Z",
+  "model": "glm-5.3"
+}

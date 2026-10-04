@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme babaikeledi ba dira jalo ka ditselamoko tsa bone, ba tlisa ⟨את⟩ ditlhabi godimo ga lefatshe la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "babaikeledi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ka ditselamoko tsa bone"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhabi"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ditlhabi"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:57.964779315Z",
+  "model": "glm-5.3"
+}

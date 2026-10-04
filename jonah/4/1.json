@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme boleo e kgolo e ne ya utlwala go Yona, mme a tlhakanela tlhogogolo.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "e ne ya utlwala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "boleo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "mme a tlhakanela tlhogogolo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:55.535170945Z",
+  "model": "glm-5.3"
+}

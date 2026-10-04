@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme ba mo tshwara mo setsong go fitlhelela go tlhalosiwa go bone ka molomo wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "ba mo tshwara"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "mo setsong"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "go fitlhelela go tlhalosiwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:04.301641978Z",
+  "model": "glm-5.3"
+}

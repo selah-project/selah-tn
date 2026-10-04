@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Mikhale a tsaya ⟨את⟩ diterafime, a di baya mo setulong sa boroko, mme a baya ⟨את⟩ setshwarwa sa moriri wa dipodi kwa tlhogo ya gagwe, a di phutha ka diaparo.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diterafime"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "diterafime"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "a di baya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "setulong sa boroko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "setshwarwa sa moriri wa dipodi"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "setshwarwa sa moriri"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "wa dipodi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "kwa tlhoko ya gagwe"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "a phutha"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ka diaparo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:02:43.513127526Z",
+  "model": "glm-5.3"
+}

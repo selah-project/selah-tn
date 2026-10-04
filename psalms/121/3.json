@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 121,
+  "translation": "A se ke a fa go thuthafala kgotsa go theoga ga lonao lwa gago; a se ke a robala yo o go bolokang.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "A se ke a"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "go theoga"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lonao lwa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "A se ke a"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "yo o go bolokang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:36.483726152Z",
+  "model": "glm-5.3"
+}

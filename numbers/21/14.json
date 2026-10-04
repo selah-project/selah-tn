@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Ka jalo go buiwa mo bukeng ya dintwa tsa Yahwe: ⟨את⟩ Vahebe mo Sufa, le ⟨את⟩ dinoka tsa Arnone.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ka jalo (mo)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "go buiwa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mo bukeng"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "dintwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vahebe"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Vahebe"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "mo Sufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinoka tsa Arnone"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:12:23.368539028Z",
+  "model": "glm-5.3"
+}

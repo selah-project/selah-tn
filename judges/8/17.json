@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a thuba ⟨את⟩ sethala sa Penuele, a bolaya ⟨את⟩ banna ba motse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sethala sa Penuele"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "sethala"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuele"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "a thuba"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "a bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna ba motse"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ba motse"
+    }
+  ],
+  "timestamp": "2026-10-03T22:49:10.641102534Z",
+  "model": "glm-5.3"
+}

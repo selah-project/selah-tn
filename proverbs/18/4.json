@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mafoko a molomo wa motho ke metsi a tseneletseng, molapo o elelang, moupo wa botlhale.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "a tseneletseng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molapo"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "o elelang"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "moupo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wa botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T03:22:09.343141930Z",
+  "model": "glm-5.3"
+}

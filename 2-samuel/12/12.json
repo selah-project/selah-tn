@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Gonne wena o dirile se ka bonupo, mme nna ke tla dira ⟨את⟩ sengwe se kwa pele ga Yisraele yotlhe le kwa pele ga letsatsi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "se ka bonupo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sengwe se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "le kwa pele ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:12:01.225174848Z",
+  "model": "glm-5.3"
+}

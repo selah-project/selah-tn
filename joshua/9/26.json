@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Yehoshua a ba dira jalo, mme a ba golola mo seatleng sa bana ba Yisraele, mme ba sa ba bolaya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "a golola"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "ba bolaya"
+    }
+  ],
+  "timestamp": "2026-10-03T22:37:19.582002323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme ba tla direla ⟨את⟩ Yahwe Elohim wa bona, le ⟨את⟩ Dawide kgosi ya bona, yo ke tla mo emisang mo go bona.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "ba tla direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "kgosi ya bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ke tla mo emisang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:19:30.048353326Z",
+  "model": "glm-5.3"
+}

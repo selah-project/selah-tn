@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme Farao a galefa mo go basomedi ba gagwe ba babedi, mo go mookamedi wa baampi le mo go mookamedi wa bakoki.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "a galefa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "basomedi ba gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa baampi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo go"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "wa bakoki"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:57.198013565Z",
+  "model": "glm-5.3"
+}

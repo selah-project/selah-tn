@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Jaaka nonyane e ntse e fofa-fofa, le jaaka thutlwa e ntse e fofa, jalo go rogiwa go sa bakwang ga go a tlhola mo go ope.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "jaaka nonyane"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "e ntse e fofa-fofa"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "jaaka thutlwa"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "e ntse e fofa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "go rogiwa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "go sa bakwang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "go a tlhola mo go ope"
+    }
+  ],
+  "timestamp": "2026-10-04T01:51:20.787108545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme batswui ba Mitsrayime ba bolokela mmeala ⟨את⟩ ba a neng a ba gateletse Yahwe ka bone, motlhanka mongwe le mongwe wa moemeladi; mme Yahwe o dirile dikatlholo mo medimong ya bone.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mme ba Mitsrayime"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "ba bolokela mmeala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba a neng a ba gateletse Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba a neng a ba gateletse"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "gateletse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka bone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "motlhanka wa moemeladi"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "mo medimong ya bone"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "dikatlholo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:19:06.905616924Z",
+  "model": "glm-5.3"
+}

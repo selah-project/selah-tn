@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Ba go bua ka maikaelelo a bosula; ba ba go loroleloyang ba dirisa leina la gago ka fofo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "ka maikaelelo a bosula"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ba dirisa"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ka fofo"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "ba ba go loroleloyang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:04.522298814Z",
+  "model": "glm-5.3"
+}

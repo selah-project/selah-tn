@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Ba bangwe ba ikaegile ka dikoloi, mme ba bangwe ka dipitse; mme rona ka leina la Yahwe Elohim ya rona re a gopola.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ba bangwe"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "ka dikoloi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mme ba bangwe"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ka dipitse"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mme rona"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ya rona"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "re a gopola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:08.957350638Z",
+  "model": "glm-5.3"
+}

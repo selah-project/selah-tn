@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Gore ⟨את⟩ lefatshe lotlhe o o se bonang, ke tla go neela lona, le peo ya gago, go ya bosakhutleng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe lotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o o"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se bonang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ke tla go neela lona"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "le peo ya gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bosakhutleng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:22.914092492Z",
+  "model": "glm-5.3"
+}

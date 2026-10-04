@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme ⟨את⟩ Aharone le ⟨את⟩ bana ba gagwe o tlodise ka mafura, mme o ba itlhophodise gore ba nne bapriste baka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "o tlodise ka mafura"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "o ba itlhophodise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "gore ba nne bapriste"
+    },
+    {
+      "surface": "לי",
+      "gloss": "baka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:02.916342908Z",
+  "model": "glm-5.3"
+}

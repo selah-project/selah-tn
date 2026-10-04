@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Mme dikgomo tse di seng na nama le tse di lobakaboleng di ne di ja ⟨את⟩ dikgomo tsa ntlha di le supa tse di nonnileng.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "mme di ne di ja"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "tse di seng na nama"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "le tse di lobakaboleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgomo tsa ntlha di le supa tse di nonnileng"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "di le supa"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "tsa ntlha"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "tse di nonnileng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:59.707108513Z",
+  "model": "glm-5.3"
+}

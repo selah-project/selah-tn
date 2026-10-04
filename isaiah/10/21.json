@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Salwa se tla boela, salwa sa Yaakobo, go El yo o matla.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "salwa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se tla boela"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "salwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "yo o matla"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:16.052992905Z",
+  "model": "glm-5.3"
+}

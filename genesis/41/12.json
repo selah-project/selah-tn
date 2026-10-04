@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Mme go ne go na le ⟨את⟩ rona gona mosha wa Mohebera, lekgoba la mogale wa baapei; ra mo bolelela, mme a re tlhalosela ⟨את⟩ dilorato tsa rona; mongwe le mongwe go ya ka lorato la gagwe a ne a le tlhalosa.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "mme gona"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "wa Mohebera"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "lekgoba la"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "mogale wa"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "baapei"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "ra mo bolelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "a re tlhalosela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilorato tsa rona"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "dilorato tsa rona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "go ya ka lorato la gagwe"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "a tlhalosa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:47.291762841Z",
+  "model": "glm-5.3"
+}

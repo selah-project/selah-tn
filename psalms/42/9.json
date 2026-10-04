@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Motshegare Yahwe o tlaa laela hesede ya gagwe, mme bosigo pina ya gagwe e tlaa nna le nna, thapelo go El wa botshelo jwa me.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "motshegare"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "o tlaa laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "mme bosigo"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "pina"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e nna le nna"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thapelo"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "go El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "wa botshelo jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:24.134589266Z",
+  "model": "glm-5.3"
+}

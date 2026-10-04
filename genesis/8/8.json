@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a romela ⟨את⟩ serolwane ⟨את⟩ go tswa mo go ene, go lebelela gore a maa metsi a fokotsego go tswa mo sefathegong sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mme a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serolwane"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "serolwane"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "go tswa mo go ene ⟨את⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go lebelela"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "a fokotsego"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mo sefathegong sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:03.920574948Z",
+  "model": "glm-5.3"
+}

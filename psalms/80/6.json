@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "O ba fodile ka senkgwe sa medi, mme wa ba neela go nwa ka dithlhomoriso ka tekanyo e kgolo.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "O ba fodile"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "sa medi"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "mme wa ba neela go nwa"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "ka dithlhomoriso"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "ka tekanyo e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:20.968963718Z",
+  "model": "glm-5.3"
+}

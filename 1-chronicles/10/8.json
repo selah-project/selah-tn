@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme go nna jalo mo mosong o o latelang, Bafilisitia ba tsilela go ntsha dilo ⟨את⟩ mo ba ba tlhokafetseng, mme ba fitlhela ⟨את⟩ Shaule le ⟨את⟩ barwa ba gagwe ba weleng mo thabeng ya Gilboea.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go nna jalo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mo mosong o o latelang"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsilela"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisitia"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "go ntsha dilo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo ba ba tlhokafetseng"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "mo ba ba tlhokafetseng"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ba fitlhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaule"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "barwa ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ba weleng"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mo thabeng ya"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboea"
+    }
+  ],
+  "timestamp": "2026-10-04T02:39:20.893405397Z",
+  "model": "glm-5.3"
+}

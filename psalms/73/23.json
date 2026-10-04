@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Mme nna ke ntse ke le le wena ka bosetlhoga; o ntshwere ka letsogo la me la moja.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka bosetlhoga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ke le le wena"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "o ntshwere"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsogo"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "la me la moja"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:29.319672450Z",
+  "model": "glm-5.3"
+}

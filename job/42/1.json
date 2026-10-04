@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme Iyobo a araba ⟨את⟩ Yahwe, a re:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-04T02:06:39.727434682Z",
+  "model": "glm-5.3"
+}

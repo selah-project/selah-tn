@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Wena o busa kutloko ya lewatle; fa magolo a one a tlhatloga, wena o a khutlafatsa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kutloko ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "fa ... a tlhatloga"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "magolo a one"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "o a khutlafatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:32.245179581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o dira gore di tlhole jaaka kgonyana; Lebanone le Shirione jaaka morwa wa direema.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "mme o dira gore di tlhole"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kgonyana"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanone"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "le Shirione"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "direema"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:00.343206876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Se ba ba mo sugang ka tlhokomelo se se ikaegileng le ena, Elohim o tla se dira; mme o tla utlwa ⟨את⟩ go llela ga bone, mme a ba boloke.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "se se ikaegileng le ena"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ba ba mo sugang ka tlhokomelo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla se dira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "go llela ga bone"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "go llela ga bone"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o tla utlwa"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "mme a ba boloke"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:07.683518345Z",
+  "model": "glm-5.3"
+}

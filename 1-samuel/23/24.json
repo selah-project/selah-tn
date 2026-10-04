@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ba tsamaya ba ya kwa Zife pele ga Shaulo; mme Dawide le banna ba gagwe ba ne ba le mo sekgopeng sa Maone, mo Arava, kwa molemeng wa Jeshimone.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Ba tsamaya"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "kwa Zife"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulo"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba gagwe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo sekgopeng sa"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maone"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "mo Arava"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "molemeg"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Jeshimone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:05:22.125677906Z",
+  "model": "glm-5.3"
+}

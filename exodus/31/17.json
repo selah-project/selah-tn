@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "E ke sesupo fa gare ga me le bana ba Yisraele go ya habohlea; gonne ka malatsi a thataro Yahwe o ne a dira ⟨את⟩ magodimo le ⟨את⟩ lefatshe, mme mo letsholing la bosupa o ne a Shabata mme a ikhutumosa.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "fa gare ga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אות",
+      "gloss": "sesupo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e ke"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "go ya habohlea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "a thataro"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magodimo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "mme mo letsholing"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bosupa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "a Shabata"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "mme a ikhutumosa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:46.181862971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Shemuele o ne a katlhola ⟨את⟩ Yisraele malatsi otlhe a botshelo jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "mme o ne a katlhola"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi a"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "botshelo jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:52.255475214Z",
+  "model": "glm-5.3"
+}

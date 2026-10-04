@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "Go mokaedi wa mmino; se o sa senya; pesalema ya Dawide, mikhtame, fa a tsuba kwa go Shauole, mo leubong.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go mokaedi wa mmino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "o sa senya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtame"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "fa a tsuba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mo leubong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:28.599246116Z",
+  "model": "glm-5.3"
+}

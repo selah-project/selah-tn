@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 96,
+  "translation": "Masimo a itumele, le sengwe le sengwe se se mo go one; ka nako eo ditlhare tsotlhe tsa sekgwa di tla opela ka boitumelo.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "a itumele"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "masimo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go one"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "di tla opela ka boitumelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ditlhare"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sekgwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:38.814880145Z",
+  "model": "glm-5.3"
+}

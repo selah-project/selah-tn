@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme barwa ba Aharone, bapriste, ba rulaganye ⟨את⟩ dikarolo, ⟨את⟩ tlhogo le ⟨את⟩ mafura, kwa godimo ga dikgong tse di kwa godimo ga molelo, tse di kwa godimo ga altaare.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "mme ba rulaganye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bapriste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikarolo"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhogo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa godimo ga"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dikgong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa godimo ga"
+    },
+    {
+      "surface": "האש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa godimo ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:26.327277331Z",
+  "model": "glm-5.3"
+}

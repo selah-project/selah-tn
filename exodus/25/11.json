@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "O tla e apesa ka gauta e e phaephileng; ka mo teng le ka ntle o tla e apesa, mme o tla dira mo go yone sephara sa gauta se se dikologileng.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "o tla e apesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "gauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e phaephileng"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka mo teng"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "le ka ntle"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "o tla e apesa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "o tla dira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sephara"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sa gauta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "se se dikologileng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:38.902172378Z",
+  "model": "glm-5.3"
+}

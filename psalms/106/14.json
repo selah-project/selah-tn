@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme ba nna le keletso e ntsi kwa nageng, mme ba leka El kwa sekakeng,",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "ba nna le keletso"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "keletso e ntsi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa nageng"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ba leka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "kwa sekakeng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:44.198403294Z",
+  "model": "glm-5.3"
+}

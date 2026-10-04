@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Elohim a nna ⟨את⟩ le mosimane, mme a gola, a nna kwa nageng e e se nang boremelelo, a nna mophoa wa sego.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme … a nna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosimane"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "a gola"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa nageng e e se nang boremelelo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mophoa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "wa sego"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:45.536831147Z",
+  "model": "glm-5.3"
+}

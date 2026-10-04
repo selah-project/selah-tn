@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ka nako eo, go bua Yahwe, ba tla ntsha ⟨את⟩ marapo a dikgosi tsa Yahuda, le ⟨את⟩ marapo a balaodi ba yone, le ⟨את⟩ marapo a bapriste, le ⟨את⟩ marapo a baporofeti, le ⟨את⟩ marapo a baagi ba Yerushalayime, go tswa mabitleng a bone.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "ba tla ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marapo a dikgosi tsa Yahuda"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "a dikgosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "tsa Yahuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "marapo a balaodi ba yone"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "a balaodi ba yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "marapo a bapriste"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a bapriste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "marapo a baporofeti"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "a baporofeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "marapo a baagi ba Yerushalayime"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "a baagi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayime"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "go tswa mabitleng a bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:12:08.096836253Z",
+  "model": "glm-5.3"
+}

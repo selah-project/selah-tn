@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Boelang kwa kgwatholo ya me; bonang, ke tla lo thularela ruakh ya me, ke tla itsise lona mafoko a me ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "boelang"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "kwa kgwatholo ya me"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ke tla thularela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya me"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ke tla itsise"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a me"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:36.439319530Z",
+  "model": "glm-5.3"
+}

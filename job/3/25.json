@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Gore se ke neng ke se tshaba thata ke sone se ntlhaetseng, mme se ke neng ke se boifa se tlile go nna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "se ke neng ke se tshaba thata"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "ke neng ke se tshaba"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "mme se ntlhaetseng"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mme se"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ke neng ke se boifa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "se tlile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:43.309272051Z",
+  "model": "glm-5.3"
+}

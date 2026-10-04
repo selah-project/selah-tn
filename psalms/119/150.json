@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ba ba latelelang merero e mme ba atamela; ba kgakala le Torah ya gago.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "ba atamela"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ba ba latelelang"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "merero e mme"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "le Torah ya gago"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ba kgakala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:53.201353747Z",
+  "model": "glm-5.3"
+}

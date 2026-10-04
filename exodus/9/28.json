@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Rapelelang go Yahwe — go boleetse — gore go se ke ga nna gape le modumo wa Elohim le matswapha; mme ke tla lo romela ⟨את⟩ lona, gore lo se ke la tlhola lo ema.",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "Rapelelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "go boleetse"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "go nna gape"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "le matswapha"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "ke tla lo romela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gore lo se ke"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "la tlhola"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "lo ema"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:14.621356042Z",
+  "model": "glm-5.3"
+}

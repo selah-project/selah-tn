@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Pula ya dimpho tsa boithaopo o e tlhagisa, wena Elohim; boswa jwa gago bo ne bo swabile, mme wena o bo baakantsha.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "ya dimpho tsa boithaopo"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "o e tlhagisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "boswa jwa gago"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "bo ne bo swabile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "o bo baakantsha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:00.637751366Z",
+  "model": "glm-5.3"
+}

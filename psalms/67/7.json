@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 67,
+  "translation": "Lefatshe le ne la naya sejalo sa lona; Elohim, Elohim wa rona, o a re segofatsa.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "le ne la naya"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sejalo sa lona"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "o a re segofatsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:15.249450288Z",
+  "model": "glm-5.3"
+}

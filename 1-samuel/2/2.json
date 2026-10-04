@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ga go na ope yo o boitshepo jaaka Yahwe, gonne ga go na ope kwa ntle ga wena, mme ga go na sehuba jaaka Elohim ya rona.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ga go na ope"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "yo o boitshepo"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "jaaka Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na ope"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "kwa ntle ga wena"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go na"
+    },
+    {
+      "surface": "צור",
+      "gloss": "sehuba"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "jaaka Elohim ya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:55:46.500620530Z",
+  "model": "glm-5.3"
+}

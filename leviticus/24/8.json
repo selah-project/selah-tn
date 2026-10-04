@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Ka letsatsi la Shabata, ka letsatsi la Shabata, o di bea ka tatelano kwa pele ga Yahwe ka go sa kgaotse; e tswa ⟨את⟩ mo baneng ba Yisraele — kgolagano ya mpho ya kabasela.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "o tla di bea ka tatelano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka go sa kgaotse"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mo baneng ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya kabasela"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:02.594521765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme tshimologo ya bogosi jwa gagwe e ne e le Babele, Ereke, Akade le Kalne, mo lefatsheng la Shineare.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "mme e ne e le"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "tshimologo"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "bogosi jwa gagwe"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "Ereke"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "Akade"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "le Kalne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "la Shineare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:18.903782130Z",
+  "model": "glm-5.3"
+}

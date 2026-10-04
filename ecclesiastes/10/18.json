@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ka boikenessi sekorogelo sa ntlo se a wa, mme ka boikenessi jwa diatla ntlo e a tshologa.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "ka boikenessi"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "se a wa"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "sekorogelo sa ntlo"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "mme ka boikenessi jwa"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "e a tshologa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:29.697671656Z",
+  "model": "glm-5.3"
+}

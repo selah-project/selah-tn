@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Ke tla rialo go Yahwe: ⟨⟨wena⟩⟩ maphodise a me le boeteledipele jwa me, Elohim wa me, ke a ikaega ka ene.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ke tla rialo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "maphodise a me"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "le boeteledipele jwa me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ke a ikaega"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:34.944730762Z",
+  "model": "glm-5.3"
+}

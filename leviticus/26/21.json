@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme fa le tsamaya le nna ka go ganetsana, mme le sa batle go reetsa nna, ke tla oketsa mo go lona lekube la makgetlo a supa go ya ka dibeno tsa lona.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "le tsamaya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ka go ganetsana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le sa"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "batle"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "go reetsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "ke tla oketsa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "lekube"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "la makgetlo a supa"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "go ya ka dibeno tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:05:12.673108540Z",
+  "model": "glm-5.3"
+}

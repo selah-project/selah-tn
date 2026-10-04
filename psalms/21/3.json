@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Keletso ya pelo ya gagwe o e mo neile, mme kopo ya sephatlo sa gagwe o sa e ganke. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "keletso"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ya pelo ya gagwe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "o e mo neile"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "mme kopo"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ya sephatlo sa gagwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "o sa e ganke"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:18.975343677Z",
+  "model": "glm-5.3"
+}

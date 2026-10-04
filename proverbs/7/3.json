@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Di golaganye mo menwaneng ya gago, di kwale mo tafoeng ya pelo ya gago.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Di golaganye"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "menwaneng ya gago"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "di kwale"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tafoeng"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ya pelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:03.167629953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Fela bokgogomoco bo dira kgotlhang, mme botlhale bo nka ⟨את⟩ ba ba baakanyang mmogo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "bokgogomoco"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bo dira"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "kgotlhang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "ba ba baakanyang mmogo"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "ba ba baakanyang mmogo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:48.008865067Z",
+  "model": "glm-5.3"
+}

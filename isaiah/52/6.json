@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Ka moo batho ba me ba tla itse leina la me; ka moo, ka letsatsi leo, ba tla itse gore ke nna — nna — yo o buang; bonake, ke fano.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka moo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ba tla itse"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "batho ba me"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "leina la me"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ka moo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nna"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yo o buang"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonake, ke fano"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:59.102357046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mpitsa, mme ke tla go araba; ke tla go tlalosa dilo tse dikgolo le tse di sa batlekeng, o di sa itseng.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Mpitsa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwano me"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "mme ke tla go araba"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ke tla go tlalosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dilo tse dikgolo"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "le tse di sa batlekeng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "o di itseng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:21:57.142465091Z",
+  "model": "glm-5.3"
+}

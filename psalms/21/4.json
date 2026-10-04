@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Ka gonne o mo rotloetsa ka dikaelo tse di molemo, o bea mo tlhakoreng ya gagwe korone ya gauta e e bosula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "o mo rotloetsa"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ka dikaelo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tse di molemo"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "o bea"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "mo tlhakoreng ya gagwe"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korone"
+    },
+    {
+      "surface": "פז",
+      "gloss": "ya gauta e e bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:18.975518016Z",
+  "model": "glm-5.3"
+}

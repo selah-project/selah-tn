@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Ba tla go segolola ka diatla tsa bone, gore o se ka wa itaya lerapo la gago ka leje.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ba tla go segolola"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore o se ka"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "wa itaya"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ka leje"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lerapo la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:46.907133208Z",
+  "model": "glm-5.3"
+}

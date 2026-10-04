@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "le ⟨את⟩ Bashimate morwadia Yishmaele, kgaitsadia Nebayote.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bashimate"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashimate"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaele"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "kgaitsadia"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebayote"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:13.183981142Z",
+  "model": "glm-5.3"
+}

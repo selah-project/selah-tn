@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Gore bonang, Yahwe o tla tswa mo lefelong la gagwe, a tlase, a tsamaya mo godimo ga maemo a a kwa godimo a lefatshe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tla tswa"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "mo lefelong la gagwe"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a tlase"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "maemo a a kwa godimo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:54.982452743Z",
+  "model": "glm-5.3"
+}

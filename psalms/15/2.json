@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Yo o tsamayang ka bosetshwapha, le yo o dirang tsedeke, mme a bua nnete ka pelong ya gagwe.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "yo o tsamayang"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ka bosetshwapha"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "le yo o dirang"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nnete"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "ka pelong ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:32.137078112Z",
+  "model": "glm-5.3"
+}

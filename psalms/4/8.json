@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "O neetse thabo mo pelong ya me, go feta nako eo mahele a bone le veine ya bone di neng di oketsega.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "O neetse"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "thabo"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "mo pelong ya me"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "go feta nako eo"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "mahele a bone"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "le veine ya bone"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "di oketsega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:07.550203304Z",
+  "model": "glm-5.3"
+}

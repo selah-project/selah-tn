@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme kgomo kana sephologolo sa kappa — ⟨את⟩ sone le ⟨את⟩ morwa wa sone ga lo bolaya letsatsi le le lengwe.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Mme kgomo"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שה",
+      "gloss": "sephologolo sa kappa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "morwa wa sone"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa sone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "lo bolaya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsing"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le le lengwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:47.102352133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Kgotla ya gago e lwe le ⟨את⟩ mogau wa gago, mme sephiri sa motho o mongwe o se itsise.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "kgotla ya gago"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "e lwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogau wa gago"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mogau wa gago"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "mme sephiri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa motho o mongwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "itsise"
+    }
+  ],
+  "timestamp": "2026-10-04T01:50:00.671458578Z",
+  "model": "glm-5.3"
+}

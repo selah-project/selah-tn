@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Ka jalo setshaba sa gagwe se boela fa, mme metsi a ⟨the⟩ tlala a senngwa go bone.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ka jalo"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "se boela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mme metsi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a tlala"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "a senngwa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "go bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:39.266579245Z",
+  "model": "glm-5.3"
+}

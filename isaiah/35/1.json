@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Lefeela le tla nyenya le lefatshe le le omileng, mme Araba e tla tshega mme e thune jaaka habatsela.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "le tla nyenya"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "lefeela"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "le lefatshe le le omileng"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "mme e tla tshega"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "mme e thune"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "jaaka habatsela"
+    }
+  ],
+  "timestamp": "2026-10-03T23:55:50.143658293Z",
+  "model": "glm-5.3"
+}

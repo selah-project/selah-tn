@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 101,
+  "translation": "Ga a dule a le mo teng ga ntlo ya me yo o dirang boitimokanyi; yo o buang maaka ga a nne a tlhomama fa pele ga matlho a me.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dule"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "a le mo teng ga"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ntlo ya me"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "boitimokanyi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yo o buang"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "a nne a tlhomama"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:59.163366342Z",
+  "model": "glm-5.3"
+}

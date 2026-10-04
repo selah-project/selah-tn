@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "⟨את⟩ Mishkane, ⟨את⟩ tende ya one, le ⟨את⟩ phuthego ya one; ⟨את⟩ dikgokagano tsa one le ⟨את⟩ dikoko tsa one; ⟨את⟩ dikhutlo tsa one, ⟨את⟩ ditlhako tsa one, le ⟨את⟩ melala ya one",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tende ya one"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tende ya one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "phuthego ya one"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgokagano tsa one"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "dikgokagano tsa one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "dikoko tsa one"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikhutlo tsa one"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "dikhutlo tsa one"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhako tsa one"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ditlhako tsa one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "melala ya one"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:45.545345617Z",
+  "model": "glm-5.3"
+}

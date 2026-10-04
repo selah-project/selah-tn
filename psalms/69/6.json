@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Elohim, wena o itse bofoloa jwa me; melato ya me ga e a utilwa mo go wena.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "bofoloa jwa me"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "melato ya me"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "e a utilwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:34.717145669Z",
+  "model": "glm-5.3"
+}

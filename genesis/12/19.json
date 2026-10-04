@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Gore ke eng o rile ke kgaetedi wa gago ⟨היא⟩, mme ka nna ka mo tsera ⟨את⟩ go nna mosadi? Mme jaanong, bonang, mosadi wa gago — mo tsera, o tsamaye.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "gore ke eng"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "o rile"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ke kgaetedi wa gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨היא⟩"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ka nna ka mo tsera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "go nna mosadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mosadi wa gago"
+    },
+    {
+      "surface": "קח",
+      "gloss": "mo tsera"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "o tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:33.252647098Z",
+  "model": "glm-5.3"
+}

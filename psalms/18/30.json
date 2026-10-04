@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Gore ka wena ke a taboga go ya kwa masomong; le ka Elohim ya me ke a tlola lebati la phologolo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ke a taboga"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "kwa masomong"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "le ka Elohim ya me"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ke a tlola"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lebati la phologolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:44.335614750Z",
+  "model": "glm-5.3"
+}

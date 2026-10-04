@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 5:9",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Yo o dirang dilo tse dikgolo, mme ga go tlhotlhomise; dilo tse di makatsang go fitlha go se go di balang.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dilo tse dikgolo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "tlhotlhomise"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "dilo tse di makatsang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "אין",
+      "gloss": "se"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "go di balang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:53:59.059797136Z",
+  "model": "glm-5.3"
+}

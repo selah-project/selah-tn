@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme Yaakobo a ba re: Bana ba me, lo tswa kae? Ba re: Re tswa kwa Harane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Bana ba me"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "lo tswa kae"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ba re"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "kwa Harane"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "Re"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:53.124833154Z",
+  "model": "glm-5.3"
+}

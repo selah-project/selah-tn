@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go nna boitaganyesi, mme go nna moso — letsatsi la bohlano.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "boitaganyesi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "la bohlano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:12.497090645Z",
+  "model": "glm-5.3"
+}

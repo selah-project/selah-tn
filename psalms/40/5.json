@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Go tlhabologile ke motho yo o beileng Yahwe tshepo ya gagwe, mme a sa bulela ‹›leihlo kwa ba kgotlelelang, le ba ba tlola go ya go maaka.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "go tlhabologile"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "motho yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "שם",
+      "gloss": "beileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "tshepo ya gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "bulela leihlo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "ba kgotlelelang"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "le ba ba tlola"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "go ya go maaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:15.244846922Z",
+  "model": "glm-5.3"
+}

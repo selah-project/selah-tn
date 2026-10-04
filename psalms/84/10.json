@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 84,
+  "translation": "Sehemo sa rona, bonela, Elohim, mme lebelela sefatlhego sa yo o tloditsweng mo go wena.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Sehemo sa rona"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bonela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "mme lebelela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatlhego sa"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "yo o tloditsweng mo go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:57.290287930Z",
+  "model": "glm-5.3"
+}

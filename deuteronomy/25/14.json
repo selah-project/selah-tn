@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Efa le efa, e kgolo le e nnye, e se ka ya nna le wena mo ntlong ya gago.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "e se ka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ya nna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mo ntlong ya gago"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "le efa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "le e nnye"
+    }
+  ],
+  "timestamp": "2026-10-04T03:06:20.854749514Z",
+  "model": "glm-5.3"
+}

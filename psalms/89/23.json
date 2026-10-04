@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Mogatlha ga a kitla a mo gatelela; le morwa wa bosulu ga a kitla a mo tlhoka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga a kitla"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a mo gatelela"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mogatlha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "le morwa wa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bosulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a kitla"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "a mo tlhoka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:59.952993235Z",
+  "model": "glm-5.3"
+}

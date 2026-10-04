@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "A ba se ke ba swabiwa ka nna ba ba go tshephang, Adonai, Yahwe Tsebaote; a ba se ke ba sotliwa ka nna ba ba go batlang, Elohim wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a ba se ke"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ba swabiwa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ba ba go tshephang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a ba se ke"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "ba sotliwa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ba ba go batlang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:34.717328109Z",
+  "model": "glm-5.3"
+}

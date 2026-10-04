@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Letsatsi le, Yahwe Elohim wa gago o go laela go dira ⟨את⟩ ditaolo tseno le ⟨את⟩ dikatlholo; mme o di boloke, o di dire ka pelo ya gago yotlhe le ka bophelo jwa gago jotlhe.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "o go laela"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaolo tseno"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ditaolo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikatlholo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dikatlholo"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "mme o di boloke"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "o di dire"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ di"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... yotlhe"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka ... jotlhe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bophelo jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:58.256145766Z",
+  "model": "glm-5.3"
+}

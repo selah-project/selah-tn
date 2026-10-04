@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Sesupa go belega, mme sesupa go swa; sesupa go jala, mme sesupa go ntsha se se jaditsweng.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "sesupa"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "go belega"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mme sesupa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "go swa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sesupa"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "go jala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mme sesupa"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "go ntsha"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "se se jaditsweng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:59.526962421Z",
+  "model": "glm-5.3"
+}

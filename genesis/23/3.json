@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme Abrahame a ema go tswa fa pele ga motho wa gagwe yo o swetsweng, mme a bua le bana ba Kethe, a re:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go tswa fa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "motho wa gagwe yo o swetsweng"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kethe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:46.118545079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 14:8",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme morago ga matsatsi a some a boela go mo tsaya, a fologela go lebelela ⟨את⟩ setopo sa tau; mme taanong, setlhopha sa dinotshi se ne se le mo mmeleng wa tau, le boitshepe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "morago ga matsatsi a some"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "go mo tsaya"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "a fologela"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go lebelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setopo sa tau"
+    },
+    {
+      "surface": "מפלת",
+      "gloss": "setopo sa"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme taanong"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "setlhopha sa"
+    },
+    {
+      "surface": "דבורים",
+      "gloss": "dinotshi"
+    },
+    {
+      "surface": "בגוית",
+      "gloss": "mo mmeleng wa"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le boitshepe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:50:53.175636640Z",
+  "model": "glm-5.3"
+}

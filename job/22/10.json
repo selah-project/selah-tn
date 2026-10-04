@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ka jalo dithae di mo dikgaolong tsa gago, mme tshoganyetso e go tshosa ka tlhagalano.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "mo dikgaolong tsa gago"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "dithae"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "mme e go tshosa"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tshoganyetso"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ka tlhagalano"
+    }
+  ],
+  "timestamp": "2026-10-04T01:59:03.987232929Z",
+  "model": "glm-5.3"
+}

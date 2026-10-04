@@ -1,0 +1,163 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 5:1",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme go nna jalo, fa dikgosi tsotlhe tsa Baemori, ba ba mo seakantseng sa Yoretane kwa bophirima, le dikgosi tsotlhe tsa Bakenaani, ba bapile le lewatle, di utlwa ⟨את⟩ se Yahwe a bileditseng ⟨את⟩ metsi a Yoretane ka fa pele ga bana ba Yisraele, go fitlha re ka fa tlhoko, pelo ya tsone ya nyamela, mme ga se ka ga nna le ruakh mo go tsone go tswa foo, ka ntlha ya bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go nna jalo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "fa di utlwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosa tsa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "mo seakantseng sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoretane"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "kwa bophirima"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosa tsa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Bakenaani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "bapile le"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "a bileditseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoretane"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka fa pele ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "re ka fa tlhoko"
+    },
+    {
+      "surface": "וימס",
+      "gloss": "mme ya nyamela"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "pelo ya tsone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga se"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ka ga nna"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "go tswa foo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:41.251438258Z",
+  "model": "glm-5.3"
+}

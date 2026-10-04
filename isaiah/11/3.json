@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme go tshaba Yahwe go tla mo nwa; ga a kitla a atlhola ka se mahlo a gagwe a se bonang, kana a sekaseka ka se ditsebe tsa gagwe di se utlwang.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "go tla mo nwa"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "go tshaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ga a kitla"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "ka se … a se bonang"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a gagwe"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "a atlhola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "ka se … di se utlwang"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "ditsebe tsa gagwe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "a sekaseka"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:41.934633536Z",
+  "model": "glm-5.3"
+}

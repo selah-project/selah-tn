@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Le boke Yahwe, ka gore ⟨o⟩ molemo, ka gore go ya bosakhutlhe hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "le boke"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya bosakhutlhe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:23.692130310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme o tlaa dira boitshwarelo jwa ⟨את⟩ boitshepo jwa boitshepo, le jwa ⟨את⟩tente ya phuthego, le jwa ⟨את⟩altare a e direle boitshwarelo; le jwa baporofeti ba boitshepo, le jwa setšhaba se se kotlanyeng ka bobotlana, a ba direle boitshwarelo.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "mme o tlaa dira boitshwarelo jwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boitshepo jwa boitshepo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "boitshepo jwa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tente ya phuthego"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phuthego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "a e direle boitshwarelo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le jwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baporofeti ba boitshepo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le jwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se se kotlanyeng ka bobotlana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "sa phuthego"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "a ba direle boitshwarelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:26.433523708Z",
+  "model": "glm-5.3"
+}

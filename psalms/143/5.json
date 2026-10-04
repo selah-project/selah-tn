@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 143,
+  "translation": "Ke ne ke gakologelwa malatsi a maabane a kgale, ke ne ke nagana ka dilo tsotlhe tse o di dirileng, ka ditiro tsa diatla tsa gago ke ne ke itsheka.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ke ne ke gakologelwa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "a maabane a kgale"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "ke ne ke nagana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka dilo tsotlhe"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "tse o di dirileng"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "ka ditiro"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tsa diatla tsa gago"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ke ne ke itsheka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:16.604336891Z",
+  "model": "glm-5.3"
+}

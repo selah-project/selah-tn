@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "A o mo gotse jaaka o gotse ba ba mogosang? Kgotsa a o bolailwe jaaka bolaelo jwa ba ba bolailweng ke ena?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "jaaka o gotse"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "ba ba mogosang"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "a o mo gotse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kgotsa"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "jaaka bolaelo jwa"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "ba ba bolailweng ke ena"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a o bolailwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:46.044229005Z",
+  "model": "glm-5.3"
+}

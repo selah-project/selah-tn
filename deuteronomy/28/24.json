@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Yahwe o tla dira gore ⟨את⟩ pula ya lefatshe la gago e nne seralala le lerole; e tla wela go tswa kwa magodimong, go fitlhela o senngwe.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "o tla dira gore...e nne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pula ya lefatshe la gago"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "pula"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ya lefatshe la gago"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "seralala"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "le lerole"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "e tla wela"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlhela"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "o senngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:55.453323665Z",
+  "model": "glm-5.3"
+}

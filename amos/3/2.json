@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Lona fela ke neng ke itse ga mmogo le ditshaba tsotlhe tsa lefatshe; ka jalo ke tla lo sekaseka ka ditlolo tsotlhe tsa lona.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (se se itseweng)"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke neng ke itse"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ga mmogo le tsotlhe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka jalo ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ke tla lo sekaseka"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlolo tsotlhe tsa lona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "ditlolo tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:57:31.870515065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Ipeele gore o se ka wa tlhala ⟨את⟩ Yahwe, yo o neng a go ntsha kwa lefatsheng la Mitsrayime, kwa ntlong ya bokgobokgobo.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Ipeele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gore o se ka wa tlhala — go gago"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore o se ka wa tlhala"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wa tlhala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o neng a go ntsha"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "a go ntsha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kwa lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kwa ntlong ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bokgobokgobo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:38.592043568Z",
+  "model": "glm-5.3"
+}

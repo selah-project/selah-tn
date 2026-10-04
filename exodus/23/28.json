@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme ke tlaa romela ⟨את⟩ tswele pele ga gago, mme e tlaa ntsha ⟨את⟩ Baheve ⟨את⟩ Bakenaane le ⟨את⟩ Baheete go tswa pele ga gago.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mme ke tlaa romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tswele"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tswele"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "mme e tlaa ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baheve"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Baheve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bakenaane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Bakenaane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Baheete"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Baheete"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "go tswa pele ga gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:29.403285460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Bana ba ke a bana ba Khame, ka malapa a bone, ka dipuo tsa bone, mafatsheng a bone, dikgaolong tsa bone tsa ditšhaba.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ba ke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khame"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka malapa a bone"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ka dipuo tsa bone"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "mafatsheng a bone"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "dikgaolong tsa bone tsa ditšhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:03.990573005Z",
+  "model": "glm-5.3"
+}

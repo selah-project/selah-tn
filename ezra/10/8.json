@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 10:8",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "le mang le mong yo o sa tlang mo letsatsing le le tharo, jaaka kgang ya dikgosa le batho ba bagolwane, theko ya gagwe yotlhe e tla nna se se senang molao, mme ena a kgaogannwe le setlhopha sa ba botlhakoreng.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "le mang le mong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "mo letsatsing le le tharo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "(letsatsi)"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "jaaka kgang ya"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "dikgosa"
+    },
+    {
+      "surface": "והזקנים",
+      "gloss": "le batho ba bagolwane"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "e tla nna se se senang molao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "רכושו",
+      "gloss": "theko ya gagwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ena"
+    },
+    {
+      "surface": "יבדל",
+      "gloss": "a kgaogannwe"
+    },
+    {
+      "surface": "מקהל",
+      "gloss": "le setlhopha sa"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ba botlhakoreng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:28:19.038138969Z",
+  "model": "glm-5.3"
+}

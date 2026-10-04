@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Katlholo e le nngwe e tlaa nna go lona; jaaka moagedi, jaaka moahisi, ⟨go tlaa nna jalo⟩; gonne ke Yahwe, Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go tlaa nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "jaaka moagedi"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "jaaka moahisi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go tlaa nna jalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:04:08.800287188Z",
+  "model": "glm-5.3"
+}

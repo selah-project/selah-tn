@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme moporofeti a laela, mme ba ntsha ⟨את⟩ maje a a nang le sefofo, mme ba di tlhola kwa ntle ga toropo, kwa lefelong le le seng boitshepo.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "mme a laela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moporofeti"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "mme ba ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maje"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "maje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a nang le"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sefofo"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "mme ba di tlhola"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ba di tlhola kwa ntle ga toropo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle ga"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "le le seng boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:36.587388557Z",
+  "model": "glm-5.3"
+}

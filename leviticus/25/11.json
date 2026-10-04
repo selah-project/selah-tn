@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ngwaga wa Yubele ke wona, ngwaga wa masome a matlhano, o tlaa nna wa lona; ga lo na go jala, mme ga lo na go sega ⟨את⟩ se se mwangwang mo go sona, mme ga lo na go kgetha merara ⟨את⟩ wa one.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "Ngwaga wa Yubele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke wona"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "wa masome a matlhano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o tlaa nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wa lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga lo na"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "go jala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga lo na"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "go sega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se mwangwang"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "se se mwangwang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga lo na"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "go kgetha merara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa one"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "wa one"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:53.395109291Z",
+  "model": "glm-5.3"
+}

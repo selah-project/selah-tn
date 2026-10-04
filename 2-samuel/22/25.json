@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme Yahwe a boa go nna go ya ka tsedeke ya me, go ya ka bophepa jwa me fa pele ga mahitlha a gagwe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a boa go nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "go ya ka tsedeke ya me"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "go ya ka bophepa jwa me"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahitlha a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:18:10.274251548Z",
+  "model": "glm-5.3"
+}

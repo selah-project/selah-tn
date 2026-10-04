@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 67,
+  "translation": "Elohim a re fe mohau, a re segolotse, a phadimise sefatlhego sa gagwe ⟨את⟩ le rona. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "a re fe mohau"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "a re segolotse"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "a phadimise"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefatlhego sa gagwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rona",
+      "marks": "le rona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:22.720021674Z",
+  "model": "glm-5.3"
+}

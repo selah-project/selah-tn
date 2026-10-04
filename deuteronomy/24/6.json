@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "A o se ke wa tsaya e le nokwane letswai la go gaya, le le la kwa godimo; gonne botshelo jwa motho ke jone o bo tsayang e le nokwane.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "A o se ke wa tsaya e le nokwane"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "o tsayang e le nokwane"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "letswai la go gaya"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "le le la kwa godimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jone"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "o bo tsayang e le nokwane"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:02.887228002Z",
+  "model": "glm-5.3"
+}

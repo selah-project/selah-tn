@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme a re kwa Moshe: Nna, seabo sa gago sa mosadi, Yitro, ke tsile go go bona, le mosadi wa gago le barwa ba gagwe ba babedi ba ene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "seabo sa gago sa mosadi"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ke tsile"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go go bona"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "le mosadi wa gago"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "le ba babedi"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ba ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:34.278420098Z",
+  "model": "glm-5.3"
+}

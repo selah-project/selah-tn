@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Lekanyetsa lone la gago go tswa mo boloking, mme sephini sa gago go bua boferefere.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Lekanyetsa"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "lone la gago"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "go tswa mo boloking"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "mme sephini sa gago"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "boferefere"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:27.813931288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Se ke mokgetho wa ba ba n belaelang, go tswa mo go ⟨את⟩ Yahwe, le ba buang dilo tse mpe kgatlhanong le moyo wa me.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mokgetho"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ba ba n belaelang"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "le ba buang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dilo tse mpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:24.075171647Z",
+  "model": "glm-5.3"
+}

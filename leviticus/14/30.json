@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme a dira ⟨את⟩ e nngwe ya ditetrwi kana ya bana ba lepara, go ya ka se se ka kgonang ke seatla sa gagwe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mme a dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e nngwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ditetrwi"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "lepara"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "go ya ka se"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "se ka kgonang"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ke seatla sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:29.608977880Z",
+  "model": "glm-5.3"
+}

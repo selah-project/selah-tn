@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ditlhogo tsa malapa a Yuda le Binyamine, le bapriste le balevi, ba tlhoga — botlhe ba Elohim a neng a tsosa ⟨את⟩ ruakh ya bone — go ya go aga ⟨את⟩ ntlo ya Yahwe e e kwa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ba tlhoga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ditlhogo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "tsa malapa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "a Yuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "le Binyamine"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "le bapriste"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le balevi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "botlhe ba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a neng a tsosa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya bone"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ya bone"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e kwa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:25:27.068091706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "Tsheoga, Yahwe, o tsene boikhutsong jwa gago — wena le areka ya matla a gago.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tsheoga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "boikhutsong jwa gago"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "le areka ya"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "matla a gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:35.589182328Z",
+  "model": "glm-5.3"
+}

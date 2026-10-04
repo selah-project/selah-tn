@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme ke tla dira gore Mitsrayime e lwane le Mitsrayime, mme ba lwe mongwe le mongwe le morwarraagwe, le mongwe le motswalle wa gagwe; toropo kgatlhanong le toropo, bogosi kgatlhanong le bogosi.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "ke tla dira gore… e lwane"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "le Mitsrayime"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "mme ba lwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "le morwarraagwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le mongwe"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "le motswalle wa gagwe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kgatlhanong le toropo"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "bogosi"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "kgatlhanong le bogosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:39.178920572Z",
+  "model": "glm-5.3"
+}

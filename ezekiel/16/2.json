@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Morwa wa motho, itsise ⟨את⟩ Yerushalayime ⟨את⟩ ditlhotlhoroso tsa yona;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "itsise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhotlhoroso tsa yona"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "ditlhotlhoroso tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:36:18.836517211Z",
+  "model": "glm-5.3"
+}

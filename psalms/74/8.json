@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Ba re ka dipelong tsa bone: A re ba gate ka bommogo; ba fisa dikokoano tsotlhe tsa ⟨את⟩ El mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ka dipelong tsa bone"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "a re ba gate"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ka bommogo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ba fisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "dikokoano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:06.161398714Z",
+  "model": "glm-5.3"
+}

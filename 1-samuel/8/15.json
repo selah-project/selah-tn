@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme peo ya lona le direng tsa lona, o tlaa a di getshefella, mme a di neela bakhuduthamaga ba gagwe le balebedi ba gagwe.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "Mme peo ya lona"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "le direng tsa lona"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "o tlaa a di getshefella"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mme a di neela"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "bakhuduthamaga ba gagwe"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "le balebedi ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:36.485923920Z",
+  "model": "glm-5.3"
+}

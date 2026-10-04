@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Go tswa mo tempeleng ya gago, mo Yerushalayime, dikgosi di tla isa ⟨⟨mpho⟩⟩ go wena.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "go tswa mo tempeleng ya gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "di tla isa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "שי",
+      "gloss": "mpho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:12.227446998Z",
+  "model": "glm-5.3"
+}

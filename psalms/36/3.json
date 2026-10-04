@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Ka gonne boeboe bo mo betsa mo mahiteng a gagwe, go fitlha bokaferere jwa gagwe bo bonwa, go bo ba mo tlhoya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gonne"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "bo betsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mo mahiteng a gagwe"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "bokaferere jwa gagwe"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "go bo ba mo tlhoya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:38.748603706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Kushe a begeta ⟨את⟩ Nimrode; yena o ne a simolola go nna motho wa nonofile mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Mme Kushe"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrode"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrode"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "החל",
+      "gloss": "o ne a simolola"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "motho wa nonofile"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:35:02.777787011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 92,
+  "translation": "Monna yo o sa ntseng a tshwana le phologolo ga a itse; mme sefofu ga a tlhaloganye se: ⟨את⟩ se se tlholwang ke se.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "בער",
+      "gloss": "yo o sa ntseng a tshwana le phologolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a itse"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "mme sefofu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "a tlhaloganye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se tlholwang ke se"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se se tlholwang ke se"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:31.606114346Z",
+  "model": "glm-5.3"
+}

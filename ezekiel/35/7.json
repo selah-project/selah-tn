@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme ke tla dira ⟨את⟩ thaba ya Seire e nne phutsa e e senyweng thata, mme ke tla fedisa mo go yone yo o samang le yo o boang.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tla dira e nne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba ya Seire"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ya Seire"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "phutsa"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "e e senyweng"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ke tla fedisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yo o samang"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "le yo o boang"
+    }
+  ],
+  "timestamp": "2026-10-04T00:47:04.726256764Z",
+  "model": "glm-5.3"
+}

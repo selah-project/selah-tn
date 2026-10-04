@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Moshe o ne a romela ba ba botsang ka ⟨את⟩ Yaezere, mme ba ne ba tsaya motse wa yone, ba phimola ⟨את⟩ Baemori bao ba neng ba le teng.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mme o ne a romela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "go botsa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaezere"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezere"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "mme ba ne ba tsaya"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "motse wa yone"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ba phimola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ba neng ba le teng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:12:42.766602527Z",
+  "model": "glm-5.3"
+}

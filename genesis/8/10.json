@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a saletse gape malatsi a supileng a mangwe, mme a bo a romola ⟨את⟩ lerube go tswa mo sefalaneng.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "mme a saletse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "a mangwe"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "mme a bo a"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "romola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerube"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "lerube"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sefalaneng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:52.078798435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme a dira ⟨את⟩ ntlo ya mabothubothu, mme a dira bapriest go tswa mo ditlhakoreng tsa setshaba, ba ba neng ba seke ba nna mo baneng ba Levie.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ya mabothubothu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "bapriest"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "go tswa mo ditlhakoreng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tsa setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba seke"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mo baneng"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ba Levie"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:19.458845536Z",
+  "model": "glm-5.3"
+}

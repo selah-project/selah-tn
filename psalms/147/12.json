@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Tlotla ⟨את⟩ Yahwe, Yerushalayime; keteka Elohim wa gago, Tsiyone.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "tlotla"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "keteka"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:47.308901300Z",
+  "model": "glm-5.3"
+}

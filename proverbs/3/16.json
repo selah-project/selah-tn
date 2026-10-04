@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Boleele jwa malatsi bo mo seatleng sa yone sa moja; mo seatleng sa yone sa molema go na le bontshi le tlotlo.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "boleele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jwa malatsi"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "mo seatleng sa yone sa moja"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "mo seatleng sa yone sa molema"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bontshi"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "le tlotlo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:25.782299284Z",
+  "model": "glm-5.3"
+}

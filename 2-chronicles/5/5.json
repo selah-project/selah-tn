@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme ba ne ba tlisa godimo ⟨את⟩ araka, le ⟨את⟩ tente ya phuthego, le ⟨את⟩ didiriswa tsotlhe tsa boitshepo tse di neng di le mo tenteng; bakohane, balevi, ba ne ba di tlisa godimo.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ba ne ba tlisa godimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araka"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "araka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tente ya phuthego"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phuthego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsotlhe tsa boitshepo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsa boitshepo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mo tenteng"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ba ne ba di tlisa godimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "didiriswa tsotlhe tsa boitshepo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohane"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:54.915688870Z",
+  "model": "glm-5.3"
+}

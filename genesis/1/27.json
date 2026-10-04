@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Elohim o ne a bopa ⟨את⟩ motho ka setshwano sa gagwe; ka setshwano sa Elohim o ne a bopa ⟨את⟩ ene; monna le mosadi o ne a bopa ⟨את⟩ bone.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "o ne a bopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "ka setshwano sa gagwe"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ka setshwano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "o ne a bopa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "ene"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "le mosadi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "o ne a bopa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:57.326524267Z",
+  "model": "glm-5.3"
+}

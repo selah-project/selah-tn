@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Shemuuele a tsoga, a ya kwa godimo go tswa kwa Gilgale a ya kwa Gibea ya Benyamine; mme Shauole a bala ⟨את⟩ batho ba ba neng ba le ene, jaaka banna ba makgolo a marataro.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Mme … a tsoga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuele"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a ya kwa godimo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa kwa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgale"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ya Benyamine"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mme … a bala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ba ba neng ba le ene"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ba le ene"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a makgolo a marataro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:05.913846273Z",
+  "model": "glm-5.3"
+}

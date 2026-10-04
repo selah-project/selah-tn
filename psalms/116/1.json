@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Ke a rata, gonne Yahwe o utlwa ⟨את⟩ lentswe la me, thapelo ya me.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ke a rata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o utlwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la me"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentswe la me"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "thapelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:17.407871237Z",
+  "model": "glm-5.3"
+}

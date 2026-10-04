@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "N neele mohau, Adonai, gonne go go wena ke go letla letsatsi lotlhe.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "N neele mohau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go go wena"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke go letla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:11.065263684Z",
+  "model": "glm-5.3"
+}

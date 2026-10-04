@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme ba tsena mo kgolaganong ya go batla ⟨את⟩ Yahwe, Elohim ya borre ba bone, ka pelo ya bone yotlhe le ka moya wa bone o o feletseng.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsena mo"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "kgolaganong"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ya go batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ya borre ba bone"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka … yotlhe"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "pelo ya bone"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka … o o feletseng"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moya wa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:51:03.274694121Z",
+  "model": "glm-5.3"
+}

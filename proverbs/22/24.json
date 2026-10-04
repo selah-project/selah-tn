@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "O se ke wa ikopanya le ⟨את⟩ mong wa bogale, mme le ⟨את⟩ monna wa letlhoo ga o ka ke wa tsamaya le ene.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "wa ikopanya le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mong wa bogale"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mong wa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme le ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "wa letlhoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "o tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-04T01:49:43.891316738Z",
+  "model": "glm-5.3"
+}

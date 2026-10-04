@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Se ke sa sechaba sa ba ba mo batlang, ba ba batlang sefatlhego sa gago — se ke sa Yaakobo. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "se ke sa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ba ba mo batlang"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ba ba batlang"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:09.821029177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Morago ga moo, bana ba Yisraele ba tla boa, ba batle ⟨את⟩ Yahwe Elohim wa bona, le ⟨את⟩ Dawide kgosi ya bona; ba tla tsoga ba tshaba go ya go Yahwe le go bosula jotlhe jwa gagwe, kwa bofelong jwa malatsi.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Morago ga moo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba tla boa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ba batle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa bona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Dawide kgosi ya bona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "kgosi ya bona"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ba tla tsoga ba tshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "bosula jotlhe jwa gagwe"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "kwa bofelong jwa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "malatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T00:52:15.472753123Z",
+  "model": "glm-5.3"
+}

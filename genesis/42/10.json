@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme ba mo re: Nnyaa, morena wa rona; maloko a gao a tletse a tla go reka dijo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mme ba re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ba mo re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nnyaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa rona"
+    },
+    {
+      "surface": "ו�בדיך",
+      "gloss": "maloko a gao"
+    },
+    {
+      "surface": "באו",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "go reka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dijo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:22.919683681Z",
+  "model": "glm-5.3"
+}

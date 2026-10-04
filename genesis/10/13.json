@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Mitsrayime a belega ⟨את⟩ Badimo ba Ludi, le ⟨את⟩ ba Aname, le ⟨את⟩ ba Lehabi, le ⟨את⟩ ba Naftukhi;",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mme Mitsrayime"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Badimo ba Ludi"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "Badimo ba Ludi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba Aname"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "ba Aname"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba Lehabi"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "ba Lehabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba Naftukhi"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "ba Naftukhi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:01.506797342Z",
+  "model": "glm-5.3"
+}

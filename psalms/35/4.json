@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "A ba tlhajiwe mme ba nyenyefale, ba ba batlang moya wa me; a ba boele kwamorago mme ba tshwenyegwe, ba ba rulaganyang bosula jwa me.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "a ba tlhajiwe"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "mme ba nyenyefale"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ba ba batlang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "a ba boele"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kwamorago"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "mme ba tshwenyegwe"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ba ba rulaganyang"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bosula jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:53.706372504Z",
+  "model": "glm-5.3"
+}

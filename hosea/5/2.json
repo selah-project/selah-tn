@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme ba buelele ba tsene koo teng go phogola; mme nna ke ne ke le tlhokomeliso ya bone botlhe.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "go phogola"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ba buelele"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "ba tsene koo teng"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tlhokomeliso"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ya bone botlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:01.406340689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ba araba mme ba re go Nebukadnetsara kgosi: Kgosi, o tshela bosakhutlha!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Ba araba"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "go Nebukadnetsara"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Kgosi"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "bosakhutlha"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "o tshela"
+    }
+  ],
+  "timestamp": "2026-10-04T02:20:21.484115626Z",
+  "model": "glm-5.3"
+}

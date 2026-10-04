@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Fa mong wa gagwe a mo neela mosadi, mme a mmosta bonyana kgotsa bacakana, mosadi yo le bana ba gagwe ba tla nna ba mong wa gagwe, mme ene o tla tsamaela outside a le nosi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mong wa gagwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "mme a mmosta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bonyana"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bacakana"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi yo"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ba tla nna"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "ba mong wa gagwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tla tsamaela outside"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "a le nosi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:43.305320240Z",
+  "model": "glm-5.3"
+}

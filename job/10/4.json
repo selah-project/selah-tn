@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "A o na le mahlo a nama, kgotsa jaaka go bona ga motho, a o bona?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "mahlo a"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a o na le"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "jaaka go bona ga"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "a o bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:57:14.054734127Z",
+  "model": "glm-5.3"
+}

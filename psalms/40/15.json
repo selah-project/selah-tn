@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "A tshwenyegwe mme a tshwenege mmogo ba ba batlang bophelo jwa me go bo senya; a boele morago mme a swabiswe ba ba ipaakanyetsang bosula jwa me.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "a tshwenyegwe"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "mme a tshwenege"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "mבקשי",
+      "gloss": "ba ba batlang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo jwa me"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "go bo senya"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "a boele"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morago"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "mme a swabiswe"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ba ba ipaakanyetsang"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bosula jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:10.103328671Z",
+  "model": "glm-5.3"
+}

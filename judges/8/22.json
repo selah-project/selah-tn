@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 8:22",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme banna ba Yisraele ba re go Gideone: Boela o re busa, wena le morwa wa gago le morwa wa morwa wa gago, gonne o re bolokile mo seatleng sa Midyiane.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideone"
+    },
+    {
+      "surface": "משל",
+      "gloss": "o re busa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa morwa wa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "o re bolokile"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "sa Midyiane"
+    }
+  ],
+  "timestamp": "2026-10-03T22:48:50.843340463Z",
+  "model": "glm-5.3"
+}

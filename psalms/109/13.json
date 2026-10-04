@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "A bofelo jwa gagwe bo nne jwa go segolwa; mo molokong o mongwe maina a bone a phimolwe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "a nne"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "bofelo jwa gagwe"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "go segolwa"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mo molokong"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "o mongwe"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "a phimolwe"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "maina a bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:23.502372262Z",
+  "model": "glm-5.3"
+}

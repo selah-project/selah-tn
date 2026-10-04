@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme moruti o tla tsenya letlhoko la go busetsa ka pelaelo: o tla tseela ⟨את⟩ kwanyana e le nngwe, a e tlisela go nnela tuelo ya molato, le ⟨את⟩ loge la mafura, a di thamalala ka go thamalala kwa pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "o tla tseela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwanyana e le nngwe"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "a e tlisela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go nnela tuelo ya molato"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "go nnela tuelo ya molato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "loge la mafura"
+    },
+    {
+      "surface": "לג",
+      "gloss": "loge"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "la mafura"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "a di thamalala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ka go thamalala"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ka go thamalala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:55:03.839314387Z",
+  "model": "glm-5.3"
+}

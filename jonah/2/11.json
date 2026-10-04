@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Yahwe a bua le tlhapi, e bo e ntsha ⟨את⟩ Yona go ya kwa lefatshe le ommogo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme ... a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "le tlhapi"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "e bo e ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "lefatshe le ommogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:19.185050195Z",
+  "model": "glm-5.3"
+}

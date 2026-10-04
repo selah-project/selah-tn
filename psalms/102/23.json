@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Fa ditshaba di ka bopediwa mmogo, le bommapusong, go direla ⟨את⟩ Yahwe;",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "Fa di ka bopediwa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "le bommapusong"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "go direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:51.946927941Z",
+  "model": "glm-5.3"
+}

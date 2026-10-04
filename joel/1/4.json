@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Se se salileng ke gazame, arabe o se je; se se salileng ke arabe, yaleke o se je; se se salileng ke yaleke, khasile o se je.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Se se salileng"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "gazame"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "o se je"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arabe"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "se se salileng"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arabe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "o se je"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yaleke"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "se se salileng"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yaleke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "o se je"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "khasile"
+    }
+  ],
+  "timestamp": "2026-10-04T00:56:04.765307936Z",
+  "model": "glm-5.3"
+}

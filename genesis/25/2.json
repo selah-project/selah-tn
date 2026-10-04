@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme a mmona a belega ⟨את⟩ Zimrane le ⟨את⟩ Yakoshane le ⟨את⟩ Medane le ⟨את⟩ Midiyane le ⟨את⟩ Yishibake le ⟨את⟩ Shuakhe.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a mmona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimrane"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimrane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yakoshane"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yakoshane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Medane"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Midiyane"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yishibake"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishibake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Shuakhe"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuakhe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:27.473970142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Botlhe ba swaegileng ka setshaba, ga se ba solegela molemo; ga se thuso le gone ga se molemo, mme e le swaego le gape tlhoko.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "ba swaegileng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ba solegela molemo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ga se"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme e le"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "swaego"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le gape"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "tlhoko"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:43.194614241Z",
+  "model": "glm-5.3"
+}

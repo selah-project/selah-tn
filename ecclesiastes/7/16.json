@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "O se ka wa nna moitshepi thata, o se ke wa itlhalefatsa go feta selekanyo; ke ka ntlha yang o senyegela?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "wa nna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moitshepi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "that a"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "wa itlhalefatsa"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "go feta selekanyo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka ntlha yang"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "o senyegela"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:20.820733193Z",
+  "model": "glm-5.3"
+}

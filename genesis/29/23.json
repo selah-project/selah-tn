@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme go nna jalo mo maitseboeng, mme a tseela ⟨את⟩ Lea morwadia kgosibe, mme a mo isa kwa go ene, mme ene a tshele kwa go ene.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna jalo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mo maitseboeng"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mme a tseela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "morwadia kgosibe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme a isa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ene"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme ene a tshele"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:56.990938300Z",
+  "model": "glm-5.3"
+}

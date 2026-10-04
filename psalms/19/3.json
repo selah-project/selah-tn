@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Letsatsi le letaletsatsing le phutha lefoko, mme bosigo go bosigo bo senola kitso.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "letaletsatsing"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "le phutha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mme bosigo"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "go bosigo"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "bo senola"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kitso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:57.900988698Z",
+  "model": "glm-5.3"
+}

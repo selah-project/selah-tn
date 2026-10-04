@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ke tla tlhoma ⟨את⟩ kgolagano ya me le wena; mme wena o tla tsena go areka — wena le bayao le mosadi wa gago le basadi ba bayao, ⟨את⟩ le wena.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "ke tla tlhoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano ya me"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le wena ⟨את⟩"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "mme wena o tla tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "areka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "le bayao"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "le mosadi wa gago"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "le basadi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ba bayao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le wena ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:47.163170978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme motho yo o dirang boaka jwa lenyalo le ⟨את⟩ mosadi wa monna — yo o dirang boaka jwa lenyalo le ⟨את⟩ mosadi wa moagisani wa gagwe — motho yo o akaakang le mosadi yo o akaakang ba bolawe ka tlhamalalo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "o dira boaka jwa lenyalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa monna"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "o dira boaka jwa lenyalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa moagisani wa gagwe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wa moagisani wa gagwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ba bolawe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ka tlhamalalo"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "motho yo o akaakang"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "le mosadi yo o akaakang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:05.801224516Z",
+  "model": "glm-5.3"
+}

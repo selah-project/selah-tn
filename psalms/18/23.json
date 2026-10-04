@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Gonne ditlholo tsotlhe tsa gagwe di ne di le pele ga me, mme melawana ya gagwe ga ke a e ntsha mo go nna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ditlholo tsa gagwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di ne di le pele ga me"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "mme melawana ya gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ke a e ntsha"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:10.367271139Z",
+  "model": "glm-5.3"
+}

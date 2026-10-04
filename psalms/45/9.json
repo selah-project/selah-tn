@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mora, ahalote, katseya — dikobo tsa gago tsoothle, go tswa mo dikagong tsa phala; dipoelo tsa mmino di go itumeditse.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "le ahalote"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "katseya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsoothle"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "dikobo tsa gago"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "mo dikagong"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tsa phala"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dipoelo tsa mmino"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "di go itumeditse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:09.640530998Z",
+  "model": "glm-5.3"
+}

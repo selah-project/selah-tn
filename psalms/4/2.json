@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Fa ke bitsa, nkarabele, wena Elohim wa tsedeko ya me; ka kgonkotsong o ne o ntsepholola; nkgophe mohau, mme o theeletse thapelo ya me.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "fa ke bitsa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "nkarabele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "tsedeko ya me"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ka kgonkotsong"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "o ne o ntsepholola"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "nkgophe mohau"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "mme o theeletse"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:22.527316710Z",
+  "model": "glm-5.3"
+}

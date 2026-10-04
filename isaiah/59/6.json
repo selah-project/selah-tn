@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Meala ya bone e ka se nne diaparo, mme ga ba ka di apara ka ditiro tsa bone; ditiro tsa bone ke ditiro tsa boaka, mme tiro ya tshotlo e mo diatleng tsa bone.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "meala ya bone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ka se"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nne"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "ba ka di apara"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "ka ditiro tsa bone"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ditiro tsa bone"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ditiro tsa"
+    },
+    {
+      "surface": "און",
+      "gloss": "boaka"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "mme tiro"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ya tshotlo"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "e mo diatleng tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:05:00.873378564Z",
+  "model": "glm-5.3"
+}

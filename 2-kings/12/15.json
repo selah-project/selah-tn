@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "ka gonne ba ba dirang tiro ba neng ba e fiwa yone, mme ba e nonotsha ka yona ⟨את⟩ ntlo ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "ba neng ba e fiwa"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "mme ba e nonotsha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:37:49.793900828Z",
+  "model": "glm-5.3"
+}

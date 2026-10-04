@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme a e tlhotlhomolola ⟨את⟩ Tofete e e kwa seakeng sa bana ba Hinome, gore motho a se ke a fudusa ⟨את⟩ morwawe le ⟨את⟩ morwadiawe ka molelo go Moleke.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "a e tlhotlhomolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofete"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "kwa seakeng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinome"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "gore a se ke"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "a fudusa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwawe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "morwadiawe"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "morwadiawe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go Moleke"
+    }
+  ],
+  "timestamp": "2026-10-03T23:42:29.881450303Z",
+  "model": "glm-5.3"
+}

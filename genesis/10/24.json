@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Arpakheshade o ne a belega ⟨את⟩ Shalahhe, mme Shalahhe o ne a belega ⟨את⟩ Ebera.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Mme Arpakheshade"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "o ne a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalahhe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shalahhe"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "mme Shalahhe"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "o ne a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ebera"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:04.128748310Z",
+  "model": "glm-5.3"
+}

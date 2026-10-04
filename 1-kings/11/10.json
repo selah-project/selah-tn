@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme a mo laela ka ga taba ene, ya gore a se ka ya tsamaya morago ga medimo e mengwe; mme o ne a sa boloke ⟨את⟩ se a neng a se laela Yahwe.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "a mo laela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ene"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "a se ka ya"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "tsamaya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e mengwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se a neng a se laela"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:31.835757570Z",
+  "model": "glm-5.3"
+}

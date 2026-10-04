@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Dinku le dikgomo, tsotlhe, le leruo la masimo.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "le dikgomo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "leruo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "la masimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:35.175610218Z",
+  "model": "glm-5.3"
+}

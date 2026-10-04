@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Bana ba Merari, go ya ka malapa a bone, go ya ka malapa a bo-rraone, o ba kope ⟨את⟩ bone.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya ka malapa a bone"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ya ka malapa a"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bo-rraone"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "o ba kope"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:13.863502192Z",
+  "model": "glm-5.3"
+}

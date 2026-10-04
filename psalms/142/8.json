@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 142,
+  "translation": "Ntsha moya wa me mo kgolegelong, gore ke tle ke leboge ⟨את⟩ leina la gago; ba ba siameng ba tla dikologa mo go nna, gonne o tla dira mohola mo go nna.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Ntsha"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "mo kgolegelong"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "gore ke tle ke leboge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gago"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "ba tla dikologa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba ba siameng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "o tla dira mohola"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:20.864832672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Gonne matshe a gago a nthibile ka tlhamalalo, mme seatla sa gago se ne sa ntlala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "matshe a gago"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "a nthibile"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "mme se ne sa ntlala"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:52.605853707Z",
+  "model": "glm-5.3"
+}

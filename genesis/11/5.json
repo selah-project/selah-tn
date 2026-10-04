@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Yahwe a tlase go ya go lela ⟨את⟩ toropo le ⟨את⟩ tawara se bana ba batho ba neng ba se agile.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "a tlase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "go ya go lela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tawara"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "tawara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ba agile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:51.713495331Z",
+  "model": "glm-5.3"
+}

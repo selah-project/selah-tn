@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ⟨את⟩ kgosi ya Haayi ba ne ba e tshwara e sa swa — e tshela — ba boela ba mo isa kwa go Yehoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi ya Haayi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ya Haayi"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "ba ne ba e tshwara"
+    },
+    {
+      "surface": "חי",
+      "gloss": "e tshela"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ba boela ba mo isa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "enae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-10-03T22:38:43.598487865Z",
+  "model": "glm-5.3"
+}

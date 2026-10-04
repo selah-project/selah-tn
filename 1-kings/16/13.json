@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mo diphosong tsotlhe tsa Baasha, le diphoso tsa Ela mora wa gagwe, tse ba neng ba di dira, le tse ba neng ba dira gore ⟨את⟩ Yisraele e di dire, go galefisa ⟨את⟩ Yahwe, Elohim wa Yisraele, ka mahuta a bone.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "diphosong"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "tsa Baasha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "le diphoso tsa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba neng ba di dira"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le tse"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "ba neng ba dira gore e di dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "go galefisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "ka mahuta a bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:42.778638195Z",
+  "model": "glm-5.3"
+}

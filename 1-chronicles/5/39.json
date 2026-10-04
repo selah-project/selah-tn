@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "mme Shalume a begeta ⟨את⟩ Hilqiyaha, mme Hilqiyaha a begeta ⟨את⟩ Azarjaha",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "mme Shalume"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilqiyaha"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilqiyaha"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "mme Hilqiyaha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjaha"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjaha"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:09.629065238Z",
+  "model": "glm-5.3"
+}

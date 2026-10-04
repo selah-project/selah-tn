@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme setšhaba sa ngaparela ⟨את⟩ boswa jwa sone, bo sa tswa go bopiwa, mme didirisiwa tsa sone tsa go bopa boswa di ne di kgabisitse diaparo tsa sone mo magetleng a sone.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "sa ngaparela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boswa jwa sone"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "boswa jwa sone"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "go sa bopiwa"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "go bopiwa"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "didirisiwa tsa sone tsa go bopa boswa"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "di ne di kgabisitse"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "diaparo tsa sone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "magetleng a sone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:09.925803682Z",
+  "model": "glm-5.3"
+}

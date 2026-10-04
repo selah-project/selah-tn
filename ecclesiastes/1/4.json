@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Poko e tsamaya, mme poko e tla; mme lefatshe le eme ka bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Poko"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "e tsamaya"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "mme poko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e tla"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mme lefatshe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosakhutlho"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "le eme"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:04.689059472Z",
+  "model": "glm-5.3"
+}

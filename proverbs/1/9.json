@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Gore di ka nna sekhurumetso sa khutso mo tlhogong ya gago, le dikhgolokhuthi mo mangwaneng a gago.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "sekhurumetso sa khutso"
+    },
+    {
+      "surface": "חן",
+      "gloss": "khutso"
+    },
+    {
+      "surface": "הם",
+      "gloss": "di"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "mo tlhogong ya gago"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "le dikhgolokhuthi"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "mo mangwaneng a gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:50.734763260Z",
+  "model": "glm-5.3"
+}

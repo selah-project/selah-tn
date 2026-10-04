@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Le sesole sa gagwe, le ba ba balwang ga ke bone, masome a mararo le matlhano sekete, le makgolo a mane.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Le sesole sa gagwe"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "le ba ba balwang ga ke bones"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "masome a matlhano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le mane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:22.632234662Z",
+  "model": "glm-5.3"
+}

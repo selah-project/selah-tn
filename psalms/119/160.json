@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Kakaretso ya lefoko la gago ke boammaaruri, mme katlholo nngwe le nngwe ya tsedeke ya gago e ya go ya ile.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "kakaretso"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ya lefoko la gago"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ke boammaaruri"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "mme e ya go ya ile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nngwe le nngwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ya tsedeke ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:30.756932822Z",
+  "model": "glm-5.3"
+}

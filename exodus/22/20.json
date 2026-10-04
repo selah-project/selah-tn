@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme moafiri o se ke wa mo hutsafatsa, mme o se ke wa mo gatea; gonne le ne le le baafiri kwa nageng ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "mme moafiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "mo hutsafatsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "mo gatea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "baafiri"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "le ne le le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa nageng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:25.148002992Z",
+  "model": "glm-5.3"
+}

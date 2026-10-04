@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Moabe a tsuologela ⟨את⟩ Yisraele, morago ga loso lwa Ahaba.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "a tsuologela"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "loso"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:48.225939474Z",
+  "model": "glm-5.3"
+}

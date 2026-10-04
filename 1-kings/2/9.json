@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme jaanong o se ka wa mo ntsha molato, gonne wena ke motho yo o botlhale, mme o itse ⟨את⟩ se o tshwanetseng go mo direla, mme o tlaa isa ⟨את⟩ tlhogo ya gagwe e sereledi kwa Sheole ka madi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "mo ntsha molato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yo o botlhale"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "mme o itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se o tshwanetseng go mo direla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tshwanetseng go o dire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "mme o tlaa isa kwa tlase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhogo ya gagwe e sereeldi"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "tlhogo ya gagwe e sereledi"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ka madi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:01.235883158Z",
+  "model": "glm-5.3"
+}

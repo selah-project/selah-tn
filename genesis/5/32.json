@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Noakh a nna mošwa wa dingwaga di le makgolo a matlhano, mme Noakh a belega ⟨את⟩ Sheme, ⟨את⟩ Kham, le ⟨את⟩ Yefete.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme a nna"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noakh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mošwa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "matlhano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a belega"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noakh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yefete"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefete"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:47.663897208Z",
+  "model": "glm-5.3"
+}

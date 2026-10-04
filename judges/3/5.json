@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme bana ba Yisraele ba ne ba dula mo gare ga Mokanana, wa Mohiti, le wa Emori, le wa Perizi, le wa Mohivi, le wa Jebusi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mme bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba ne ba dula"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanana"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "wa Mohiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "le wa Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "le wa Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "le wa Mohivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le wa Jebusi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:45:16.810743041Z",
+  "model": "glm-5.3"
+}

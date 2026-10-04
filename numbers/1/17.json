@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Moshe le Aharone ba tsaya ⟨את⟩ banna bano ba ba neng ba biditswe ka maina.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ba tsaya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna bano"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "ba biditswe"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ka maina"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:31.516047972Z",
+  "model": "glm-5.3"
+}

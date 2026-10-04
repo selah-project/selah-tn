@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme bana ba Yisraele ba dira ⟨את⟩ bosula mahlonong a Yahwe, mme ba direla ⟨את⟩ Baale.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosula"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlonong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baale"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baale"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:29.534985782Z",
+  "model": "glm-5.3"
+}

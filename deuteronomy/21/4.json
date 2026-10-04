@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme bagolo ba toropo eo ba tla tlaseletsa ⟨את⟩ namane kwa molamong o o nonofileng, o o sa dirweng mo go one le o o sa jaloang; mme ba tla tlhakantsha mogala wa yona koo ⟨את⟩ namane mo molamong.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "ba tla tlaseletsa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namane"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "namane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molamong"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "o o nonofileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "dirweng"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go one"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le o o sa"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "jaloang"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "ba tla tlhakantsha mogala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namane"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "namane"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "mo molamong"
+    }
+  ],
+  "timestamp": "2026-10-04T03:06:47.468046789Z",
+  "model": "glm-5.3"
+}

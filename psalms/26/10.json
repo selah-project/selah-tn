@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Baja matsogo a bone a na le maano a bosula, mme letshogo la bone la bofalo ka dikhumo tsa khopo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "baja"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "matsogo a bone"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "maano a bosula"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "mme letshogo la bone"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "la bofalo"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ka dikhumo tsa khopo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:37.621453107Z",
+  "model": "glm-5.3"
+}

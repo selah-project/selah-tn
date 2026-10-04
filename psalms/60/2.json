@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Fa a ne a lwa le ⟨את⟩ Arame-Naharayime le ⟨את⟩ Arame-Tsovabe, mme Yoabe a boela mme a tlhasela ⟨את⟩ Edome kwa molapeng wa letswai — dikete di le lesome le bobedi.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "fa a ne a lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arame-Naharayime"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Arame-Tsovabe"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovabe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a tlhasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edome"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "kwa molapeng"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "wa letswai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "di le"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome le bobedi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:07.143623954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme ke a ⟨את⟩ mo tlatsa ka ruakh ya Elohim, ka botlhale, le ka kutlo, le ka kitso, le ka moshala mongwe le mongwe wa tirwana.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "ke a tlatsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Betsalele"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ka botlhale"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "le ka kutlo"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "le ka kitso"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "moshala mongwe le mongwa wa tirwana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:52.277632620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme o tlaa bolaeya ⟨את⟩ nonyane e le nngwe, mo setshaneng sa letsopa, godimo ga metsi a a phileng",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "mme o tlaa bolaeya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonyane e le nngwe"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "⟨את⟩ nonyane"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "setshane"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sa letsopa"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a a phileng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:13.100616091Z",
+  "model": "glm-5.3"
+}

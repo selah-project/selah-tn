@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 44:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Ba ne ba tsile kwantle ⟨את⟩ ga motse, ba ise ba kgabaganye kgakala, Yoseife a bua le yo o neng a le mo tlhodi mo ntlong ya gagwe: Tshoga, o nale morago banna; o ba thole, mme o ba re: Ke ka ntlha yang lo duelang bosula jwa sepe se se siameng?",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba ne ba tsile kwantle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motse"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ga motse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ise"
+    },
+    {
+      "surface": "הרחיקו",
+      "gloss": "ba kgabaganye kgakala"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "Yoseife"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bua le"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "yo o neng a le"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo tlhodi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mo ntlong ya gagwe"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tshoga"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "o nale moroko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "והשגתם",
+      "gloss": "o ba thole"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "mme o ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka ntlha yang"
+    },
+    {
+      "surface": "שלמתם",
+      "gloss": "lo duelang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jwa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "sepe se se siameng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:52.663517184Z",
+  "model": "glm-5.3"
+}

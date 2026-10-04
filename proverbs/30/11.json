@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Diole tse di loogang ntate wa one, mme ⟨את⟩ mme wa one di sa mo blega.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Diole"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntate wa one"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "di mo looga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mme wa one"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mme wa one"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:07.057674161Z",
+  "model": "glm-5.3"
+}

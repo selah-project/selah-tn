@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme kgosi ya Yisraele a araba, a re: Go ya ka polelo ya gago, mong wa me kgosi; nna le sengwe le se sengwe se nang se sengwe ke sa gago.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Go ya ka polelo ya gago"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa me"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke sa gago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sengwe le se sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se nang se sengwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "se nang se sengwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:30:27.876006174Z",
+  "model": "glm-5.3"
+}

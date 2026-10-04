@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme re itse, re latele go itse ⟨את⟩ Yahwe; go tlhaga ga gagwe go siametse jaaka moso, mme o tlaa tla go rona jaaka pula, jaaka pula ya bofelo e e nosetsang lefatshe.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Mme re itse"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "re latele"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "go itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "jaaka moso"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "go siametse"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "go tlhaga ga gagwe"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "mme o tlaa tla"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "jaaka pula"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "jaaka pula ya bofelo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "e e nosetsang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:26.802486011Z",
+  "model": "glm-5.3"
+}

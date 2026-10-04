@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 10:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme e tla nna fa matshwao a a a go fitlhela, dira se diatla tsa gago di ka se bonang, gonne Elohim o na le wena.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "a go fitlhela"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "matshwao a"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "di ka se bonang"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "diatla tsa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "o na le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:08.122023482Z",
+  "model": "glm-5.3"
+}

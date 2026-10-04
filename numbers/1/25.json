@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ba ba balwang ga bone, ba lotso lwa Gade, e ne e le dikete di le masome a mane le metlhano, le makgolo a thataro, le masome a matlhano.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ba ba balwang ga bone"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ba lotso lwa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "metlhano"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "le masome a mane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a thataro"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masome a metlhano"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:33.072047314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Neela tsebe lentswe la go kopa ga me, kgosi ya me le Elohim ya me; gonne go wena ke a rapela.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "neela tsebe"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "go kopa ga me"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kgosi ya me"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "le Elohim ya me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ke a rapela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:36.525741079Z",
+  "model": "glm-5.3"
+}

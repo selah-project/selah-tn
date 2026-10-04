@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme Aharone le bana ba gagwe ba tla ja ⟨את⟩ nama ya nku eo, le ⟨את⟩ senkgwe se se ka sekaneng, kwa sekhurumelong sa tente ya phuthego.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Mme ba tla ja"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama ya nku eo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ya nku eo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ka sekaneng"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa sekhurumelong sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phuthego"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:10.223484337Z",
+  "model": "glm-5.3"
+}

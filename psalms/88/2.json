@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "Yahwe, Elohim ya katolholo ya me, ka letsatsi ke ile ka go gadima, bosigo kwa go wena.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "katolholo ya me"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ke ile ka go gadima"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "kwa go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:25.100829889Z",
+  "model": "glm-5.3"
+}

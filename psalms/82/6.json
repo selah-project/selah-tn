@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 82,
+  "translation": "Nna ke ne ke re: Elohim ke lona, mme lona lotlhe ke bana ba Elyone.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ke lona"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mme bana ba"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "lona lotlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:46.947443619Z",
+  "model": "glm-5.3"
+}

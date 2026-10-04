@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme mo paegong ya gauta ba tla anamisa bego ya tekhelethe, mme ba ⟨את⟩ e kofera ka sekofero sa letlalo la takhase, mme ba beya ⟨את⟩ dithaga tsa yone.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "mme mo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "paego"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "ba tla anamisa"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "bego"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ya tekhelethe"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ba kofera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "e (paego ya gauta)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ka sekofero"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "la takhase"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "mme ba beya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithaga tsa yone"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dithaga tsa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:50.666656592Z",
+  "model": "glm-5.3"
+}

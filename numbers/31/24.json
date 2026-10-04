@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 31:24",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme lo tla tlatsa diaparo tsa lona ka letsatsi la bosevene, mme lo tla bo lo itshepitse; mme kamorao lo tla tsena kwa kampeng.",
+  "tokens": [
+    {
+      "surface": "וכבסתם",
+      "gloss": "Mme lo tla tlatsa"
+    },
+    {
+      "surface": "בגדיכם",
+      "gloss": "diaparo tsa lona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "bosevene"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "mme lo tla bo lo itshepitse"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme kamorao"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "lo tla tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampeng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:17:05.618610384Z",
+  "model": "glm-5.3"
+}

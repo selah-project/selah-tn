@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 2:6",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme o segile jaaka setshwerwe sa kesega boema-jwale ba gagwe; o senotse sephuthelwana sa phuthego ya gagwe; Yahwe o lebiletse kwa Tsiyone go tlhopha maitsebo a phuthego le Shabata, mme mo kutlhelong ya bogale jwa gagwe o tlotse kgosi le moruti.",
+  "tokens": [
+    {
+      "surface": "ויחמס",
+      "gloss": "Mme o segile"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "jaaka setshwerwe sa kesega"
+    },
+    {
+      "surface": "שכו",
+      "gloss": "boema-jwale ba gagwe"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "o senotse"
+    },
+    {
+      "surface": "מועדו",
+      "gloss": "sephuthelwana sa phuthego ya gagwe"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "o lebiletse go tlhopha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "kwa Tsiyone"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "maitsebo a phuthego"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "le Shabata"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "mme o tlotse"
+    },
+    {
+      "surface": "בזעם",
+      "gloss": "mo kutlhelong"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ya bogale jwa gagwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "le moruti"
+    }
+  ],
+  "timestamp": "2026-10-04T02:11:11.234696463Z",
+  "model": "glm-5.3"
+}

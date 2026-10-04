@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme ke tla beba sefathego sa me kgahlanong le lona, mme lo tla owa kwa pele ga ba ba le tlholetseng; mme ba ba mo tlhoyang ba tla laola lona, mme lo tla sala lo boela, mme go se na o o tlolang ⟨את⟩ lona moro.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tla beba"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa me"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kgahlanong le lona"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "lo tla owa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ba ba le tlholetseng"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "ba tla laola"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "lo tla sala lo boela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme go se na"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "o o tlolang moro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:21.574525184Z",
+  "model": "glm-5.3"
+}

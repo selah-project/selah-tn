@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Go wena ke ne ke latlhilwe go tswa mo mpa; go tswa ka mpeng ya mmae wame, wena El ya me o nnile.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ke ne ke latlhilwe"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "go tswa mo mpa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ka mpeng"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mmae wame"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ya me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:24.811322207Z",
+  "model": "glm-5.3"
+}

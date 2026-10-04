@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme barwa ba belegwa mo Dawide kwa Khebrone; mme wa ntlha wa gagwe e ne e le Amnone, motho wa Achinoame wa boYizerele.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "ba belegwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "mo Dawide"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "kwa Khebrone"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme e ne e le"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "wa ntlha wa gagwe"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnone"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "motho wa Achinoame"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "wa boYizerele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:08:35.355373053Z",
+  "model": "glm-5.3"
+}

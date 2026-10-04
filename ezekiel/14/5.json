@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Gore ke tle ke tshware ⟨את⟩ ntlo ya Yisraele ka pelong ya bone, ba ba itlhaotseng go tswa kwa go nna ka medimo ya bone — ba boela ba le bontsi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ke tle ke tshware"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ka pelong ya bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "itlhaotseng"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "go tswa kwa go nna"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "ka medimo ya bone"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ba boela ba le bontsi"
+    }
+  ],
+  "timestamp": "2026-10-04T00:37:51.184175789Z",
+  "model": "glm-5.3"
+}

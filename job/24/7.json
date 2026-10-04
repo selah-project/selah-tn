@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Ba robala bosigo ba tlapa, ba se na diaparo, mme ga go phutho sepe mo serameng.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ba tlapa"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "ba robala bosigo"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ba se na"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "phutho"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "mo serameng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:00:31.086276630Z",
+  "model": "glm-5.3"
+}

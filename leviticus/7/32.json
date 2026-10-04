@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme ⟨את⟩ lonao lwa moja lo tlaa lo neela e le kabelo mopristeng, go tswa mo dipolao tsa kagiso ya lona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lonao lwa moja"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lonao"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "lwa moja"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "lo tlaa lo neela"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "e le kabelo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "mopristeng"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "go tswa mo dipolao"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "tsa kagiso ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:40.586843239Z",
+  "model": "glm-5.3"
+}

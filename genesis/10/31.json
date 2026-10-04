@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Bana ke bana ba Sheme, ka malapa a bone, ka dipuo tsa bone, mo mafatsheng a bone, ka ditshaba tsa bone.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheme"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka malapa a bone"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ka dipuo tsa bone"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "mo mafatsheng a bone"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "ka ditshaba tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:03.867592781Z",
+  "model": "glm-5.3"
+}

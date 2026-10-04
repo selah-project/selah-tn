@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Kelube, kgaitsane wa Shukha, o ne a belega ⟨את⟩ Mekhire; yena e ne e le rraagwe Eshtone.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Mme Kelube"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kgaitsane wa"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shukha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ne a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mekhire"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mekhire"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshtone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:04.564119326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Elohim a bona ⟨את⟩ sengwe le sengwe se a neng a se dirile, mme bonang, se ne se siame thata. Mme go nna tshwarelo, mme go nna moso — letsatsi la borataro.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se dirile"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se siame"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "that a"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tshwarelo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "la borataro"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:01.013536747Z",
+  "model": "glm-5.3"
+}

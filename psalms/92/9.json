@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 92,
+  "translation": "Mme wena, Yahwe, o kwa godimo go ya le bosakhutleng.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "go ya le bosakhutleng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:04.590244109Z",
+  "model": "glm-5.3"
+}

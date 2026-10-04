@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme ka dilotlhwao fela ⟨את⟩ lefatshe le tla kgaoganwa; ka maina a mafoko a boruo jwa bomalomeabone ba tla rua.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "mme fela"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ka dilotlhwao"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "le tla kgaoganwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "ka maina"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "a mafoko a boruo"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "a bomalomeabone"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "ba tla rua"
+    }
+  ],
+  "timestamp": "2026-10-03T22:15:25.175992901Z",
+  "model": "glm-5.3"
+}

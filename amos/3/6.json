@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Fa lonaka lo tletla motseng, mme batho ba sa thipege? Fa bo-botle bo diragala motseng, mme Yahwe a sa bo dira?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "lo tletla"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "lonaka"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme batho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "thipege"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo diragala"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bo-botle"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bo dira"
+    }
+  ],
+  "timestamp": "2026-10-04T00:57:39.953872917Z",
+  "model": "glm-5.3"
+}

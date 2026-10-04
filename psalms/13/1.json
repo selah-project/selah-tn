@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mogokgoledi. Moko wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mogokgoledi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Moko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:46.579220391Z",
+  "model": "glm-5.3"
+}

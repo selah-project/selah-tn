@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim o ne a laela motho, a re: O ka ja ka kgololesego mo setlhareng sengwe le sengwe sa seteng.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "o ne a laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ela"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mo ... sengwe le sengwe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "setlhareng"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "sa seteng"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ka ja"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:38.692850934Z",
+  "model": "glm-5.3"
+}

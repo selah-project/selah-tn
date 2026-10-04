@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Gore o ne a tlhagola ba ba dulang kwa godimo, toropo e e phagame; o e fologantsha, o e fologantsha go fitlha lefatshe, o e fitlhisa go fitlha lerole.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "השח",
+      "gloss": "o ne a tlhagola"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba ba dulang"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "e e phagame"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "o e fologantsha"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "o e fologantsha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "o e fitlhisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:09.561057232Z",
+  "model": "glm-5.3"
+}

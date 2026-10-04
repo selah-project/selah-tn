@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Ka jaka a boela le ene ⟨את⟩, a ja senkgwe mo ntlong ya gagwe, mme a nwa metsi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ene"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mo ntlong ya gagwe"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "mme a nwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:20.206146192Z",
+  "model": "glm-5.3"
+}

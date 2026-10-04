@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ba atamela, mme ba ba tshwara ka dikhutu tsa bone, ba ba tlisa kwa ntle ga sekgala sa kampu, jaaka Moshe a buile.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ba atamela"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ba ba tshwara"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "ka dikhutu tsa bone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ga kampu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:44.835940416Z",
+  "model": "glm-5.3"
+}

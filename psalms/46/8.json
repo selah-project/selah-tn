@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Yahwe Tsebaote o na le rona; mulamu wa rona ke Elohim wa Yaakobo. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "o na le rona"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "mulamu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa rona"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:16.397693172Z",
+  "model": "glm-5.3"
+}

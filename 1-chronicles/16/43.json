@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme setshaba sotlhe se ne sa tsamaya, mongwe le mongwe kwa ntlong ya gagwe; mme Dawide a boela go segofatsa ⟨את⟩ ntlo ya gagwe.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "se ne sa tsamaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kwa ntlong ya gagwe"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "go segofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya gagwe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:41:22.430225658Z",
+  "model": "glm-5.3"
+}

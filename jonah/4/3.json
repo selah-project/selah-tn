@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme jaanong, Yahwe, tsaya ke kopa, ⟨את⟩ botshelo jwa me go tswa mo go nna; gonne loso lwa me lo botoka go feta botshelo jwa me.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tsaya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshelo jwa me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "botshelo jwa me"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa mo go nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lo botoka"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "loso lwa me"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "go feta botshelo jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:55.535704855Z",
+  "model": "glm-5.3"
+}

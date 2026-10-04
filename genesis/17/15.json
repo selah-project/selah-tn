@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme Elohim a bua le Abrahame: Sarai mosadi wa gago, o se ka wa mmitsa ⟨את⟩ leina la gagwe Sarai, gonne Sarah ke leina la gagwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mosadi wa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "mmitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:17.927938757Z",
+  "model": "glm-5.3"
+}

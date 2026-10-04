@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 110,
+  "translation": "O tla a nwa metsi a molapo mo tseleng; ka ntlha ya foo o tla a tlhatswa tlhogo.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "metsi a molapo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "o tla a nwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "foo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "o tla a tlhatswa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:12.345214797Z",
+  "model": "glm-5.3"
+}

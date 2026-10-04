@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Fa o bona pitse ya yo o mo tlhoyang e khutletse tlase ga jala la yona, mme o ikhutletse go e tlogela — tota o e tlogela mmogo le ene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o bona"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "pitse"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ya yo o mo tlhoyang"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "e khutletse"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlase ga"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "jala la yona"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "mme o ikhutletse"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "go e tlogela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "tota"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "o e tlogela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mmogo le ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:43.639837969Z",
+  "model": "glm-5.3"
+}

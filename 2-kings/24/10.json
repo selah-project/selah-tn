@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Ka nako eo badiri ba Nebukadnetsara, kgosi ya Babele, ba ne ba tlola ba ya kwa Yerushalayime, mme toropo ya tsenngwa mo go tshwarweng ka masole.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Ka nako"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ba tlola ba ya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiri ba"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "mme ya tsenngwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "mo go tshwarweng ka masole"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:35.386103417Z",
+  "model": "glm-5.3"
+}

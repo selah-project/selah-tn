@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Ka letsatsi la kgatelelo ya me Adonai ke ne ke batla; seatla sa me sa atologa bosigo, mme sa se ke sa tsenoga; moyo o ganne go tlhologelwa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi la"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "kgatelelo ya me"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ke ne ke batla"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa me"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "sa atologa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme sa se ke sa"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "tsenoga"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "o ganne"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "go tlhologelwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:32.127277394Z",
+  "model": "glm-5.3"
+}

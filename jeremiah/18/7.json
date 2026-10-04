@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ka nakonyana nka bua ka setshaba, le ka bogosi, go go ntsha le go go thuba le go go senya;",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "Ka nakonyana"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nka bua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "bogosi"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "go go ntsha"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "le go go thuba"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "le go go senya"
+    }
+  ],
+  "timestamp": "2026-10-04T00:14:56.669512900Z",
+  "model": "glm-5.3"
+}

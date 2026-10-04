@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 45:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Lefatshe la magodimo, norollang go tswa kwa godimo, mme maru a nole tsedeke; lefatshe le butle, mme le gole sebolotlhabela, mme tsedeke e dule le gone mmogo; ke nna Yahwe, ke ne ke bopa ⟨את⟩ se.",
+  "tokens": [
+    {
+      "surface": "הרעיפו",
+      "gloss": "norollang"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "go tswa kwa godimo"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "a nole"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "le butle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ויפרו",
+      "gloss": "mme le gole"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "sebolotlhabela"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mme tsedeke"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "e dule le gone"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ke ne ke bopa ⟨את⟩ se"
+    }
+  ],
+  "timestamp": "2026-10-03T23:59:57.134542965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme Balake, morwa wa Tsifore, a bona ⟨את⟩ tsotlhe tseo Yisraele a neng a di diretse Baemorite.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsifore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsotlhe tseo Yisraele a di diretse Baemorite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di diretse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "Baemorite"
+    }
+  ],
+  "timestamp": "2026-10-03T22:13:33.771147312Z",
+  "model": "glm-5.3"
+}

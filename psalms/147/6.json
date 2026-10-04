@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Yahwe o ema nokeng ya ba inamorileng, o fenya ba ba bosula go fitlha kwa lefatsheng.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "o ema nokeng ya"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba inamorileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "o fenya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "go fitlha kwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:12.675427537Z",
+  "model": "glm-5.3"
+}

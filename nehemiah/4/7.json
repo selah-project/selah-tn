@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ke ne ke baya mo tlase ga lefelo, kwa morago ga mabota, mo diphatlhateng, mme ke baya ⟨את⟩ batho ka malapa a bone, ka ditshaka tsa bone, dikara tsa bone le dikhutshane tsa bone.",
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "mme ke ne ke baya"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "mo tlase"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ga lefelo"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kwa morago"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "ga mabota"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "mo diphatlhateng"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "mme ke baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "ka malapa a bone"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "ditshaka tsa bone"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "dikara tsa bone"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "le dikhutshane tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:31:26.847163280Z",
+  "model": "glm-5.3"
+}

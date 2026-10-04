@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ke a itse, Adonai, gore katlholo ya gago ke tsedeke, mme ka boikanyego o nkotse.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ke a itse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "katlholo ya gago"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "mme ka boikanyego"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "o nkotse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:01.629211444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Molomo wa mo-tsedeke o bua botlhale, mme lone la gagwe le bua katlholo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mo-tsedeke"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "o-bua"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "mme-lone-la-gagwe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "le-bua"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:31.237152978Z",
+  "model": "glm-5.3"
+}

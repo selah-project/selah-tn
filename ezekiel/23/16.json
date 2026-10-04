@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 23:16",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme a ba ratanela ka go ba le matlho a gagwe a bone, mme a romela baromuwa kwa go bone, kwa lefatshe la Kashdi.",
+  "tokens": [
+    {
+      "surface": "ותעגב",
+      "gloss": "mme a ba ratanela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "ka go ba bona"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "matlho a gagwe"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "mme a romela"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "baromuwa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa go bone"
+    },
+    {
+      "surface": "כשדימה",
+      "gloss": "kwa lefatshe la Kashdi"
+    }
+  ],
+  "timestamp": "2026-10-04T00:41:46.098356229Z",
+  "model": "glm-5.3"
+}

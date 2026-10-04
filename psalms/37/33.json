@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Yahwe ga a ka a mo tlogela mo seatleng sa gagwe, mme ga a ka a mo tlhola a le molato fa a katlholwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "a ka a mo tlogela"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "a ka a mo tlhola a le molato"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "fa a katlholwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:27.072893612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme Yosefe a fitlhela kamogelo mo mahiting a mong wa gagwe, mme a mo direla ⟨את⟩; mme a mo tlhoma mo go ntlo ya gagwe, mme sengwe le sengwe se a nang sone a neela mo seatleng sa gagwe.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "mme ... a fitlhela"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kamogelo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mo mahiting a gagwe"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "mme a mo direla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ene"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "mme a mo tlhoma"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme sengwe le sengwe"
+    },
+    {
+      "surface": "יש",
+      "gloss": "se se leng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga gagwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:59.557794980Z",
+  "model": "glm-5.3"
+}

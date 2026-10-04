@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme o bopa ⟨את⟩ Tadmore kwa nageng, le ⟨את⟩ ditoropo tsotlhe tsa dipeo tse a neng a di bopa kwa Khamate.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Mme o bopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmore"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmore"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa nageng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditoropo tsotlhe tsa dipeo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "tsa dipeo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a neng a di bopa"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "kwa Khamate"
+    }
+  ],
+  "timestamp": "2026-10-04T02:49:21.138545489Z",
+  "model": "glm-5.3"
+}

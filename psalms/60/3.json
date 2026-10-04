@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Elohim, o ne wa re lahla, wa re phutlhama, wa galefa — boela kwa go rona!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "o ne wa re lahla"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "wa re phutlhama"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "wa galefa"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "boela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa go rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:07.143759597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Lo se ke la utswa, mme lo se ke la ikakanya, mme lo se ke la ikakanya ka mošomo — motho ga a ka ke a ikakanya le moagi wa gagwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lo se ke la"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "utswa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme lo se ke la"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "ikana-ikana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme lo se ke la"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "ikakanya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ikakanya"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:59.919787279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Ka botshelo jo boleele ke tlaa mo kgotsofatsa, mme ke tlaa mo bontsha pholoso ya me.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "joboleele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ke tlaa mo kgotsofatsa"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "mme ke tlaa mo bontsha"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "pholoso ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:00.466122752Z",
+  "model": "glm-5.3"
+}

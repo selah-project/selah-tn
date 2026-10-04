@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Ntsha me, o ntshole mo seatleng sa bana ba dintho tsa kwa ntle, bao molomo wa bona o buang lesholo, mme letshogo la bona e le letshogo la mafeela.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Ntsha me"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "o ntshole"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "dintho tsa kwa ntle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "molomo wa bona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buang"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "lesholo"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "letshogo la bona"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "letshogo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "la mafeela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:49.753530187Z",
+  "model": "glm-5.3"
+}

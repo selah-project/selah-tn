@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 8:5",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a re: Fa go a siametse kgosi, mme fa ke fumanetse favoro fa pele ga gagwe, mme fa kgang e siame fa pele ga kgosi, mme fa ke a mo kgotsofatsa, a kwadisiwe go busetsa ⟨את⟩ mangwalo — maano a Hamane, morwa Hammedata, Moagagite — a a neng a kwadile go senya ⟨את⟩ Bajuda ba ba mo dikgaolong tsotlhe tsa kgosi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "go siama"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ke fumanetse"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favoro"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fa pele ga gagwe"
+    },
+    {
+      "surface": "וכשר",
+      "gloss": "mme fa e siame"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kgang"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "mme ke a kgotsofatsa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mo matlhong a gagwe"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "a kwadisiwe"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "go busetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mangwalo"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "mangwalo"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "maano"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hammedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Moagagite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a neng"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "a kwadile"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "go senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bajuda"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Bajuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba mo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tsotlhe tsa"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "dikgaolong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:19:27.608234374Z",
+  "model": "glm-5.3"
+}

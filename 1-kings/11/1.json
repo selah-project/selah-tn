@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme kgosi Shelomoh o ne a rata basadi ba bantle ba mekgwa e mengwe e le mantsi, le ⟨את⟩ morwadia Paro, ba basadi ba Moabhe, ba Amoni, ba Edome, ba Tsidone, le ba Heti;",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mme kgosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o ne a rata"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "ba mekgwa e mengwe"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "e le mantsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "morwadia Paro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "ba Moabhe"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ba Amoni"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "ba Edome"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "ba Tsidone"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "ba Heti"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:58.793271570Z",
+  "model": "glm-5.3"
+}

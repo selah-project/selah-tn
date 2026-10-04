@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme setshaba se le sengwe se ne se itumetse, mme toropo e ne e phomotse, mme ⟨את⟩ Atalyahu ba ne ba mmolaya ka tshaka.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "se ne se itumetse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se le sengwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "mme toropo"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "e ne e phomotse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ba ne ba mmolaya"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    }
+  ],
+  "timestamp": "2026-10-04T02:52:18.628774813Z",
+  "model": "glm-5.3"
+}

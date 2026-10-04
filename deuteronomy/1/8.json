@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Lebang, ke beile pele ga lona ⟨את⟩ lefatshe; tseng, lo laole ⟨את⟩ lefatshe leo Yahwe a neng a tsaya setlhabelo sa go se naya bo-rralona — Abrahame, Yitshake le Yaakobo — go le naya bone le peo ya bone morago ga bone.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "lebang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke beile"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tseng"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "lo laole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe leo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a neng a tsaya setlhabelo sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "bo-rralona"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "le Yaakobo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go le naya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "le peo ya bone"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "morago ga bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:36.595750428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 7:14",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme ke ne ka ba ralatsa ka sefofane mo ditshabeng tsotlhe tse ba neng ba sa di itse; mme lefatshe le ne la nna le phirimile morago ga bone, mo go neng go sa palwe le go boelwa; mme ba dira lefatshe la kgalalelo go nna le phirimile.",
+  "tokens": [
+    {
+      "surface": "ואסערם",
+      "gloss": "ka ba ralatsa ka sefofane"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshabeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "di itse"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mme lefatshe"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "la nna le phirimile"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "morago ga bone"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "go palwa"
+    },
+    {
+      "surface": "ומשב",
+      "gloss": "le go boelwa"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "mme ba dira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "la kgalalelo"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "go nna le phirimile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:07:30.002989417Z",
+  "model": "glm-5.3"
+}

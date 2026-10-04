@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Moshe a laela ⟨את⟩ Balevi, ba ba rwaleng sephuthela sa kgolagano ya Yahwe, a re:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ba ba rwaleng"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sephuthela"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sa kgolagano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:17.653998201Z",
+  "model": "glm-5.3"
+}

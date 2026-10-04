@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 40:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "E sa le kwa go bongwe, mo malatsing a le mararo Paro o tla tlhatlha ⟨את⟩ tlhago ya gago, a go busa mo setulong sa gago; mme o neela senwelo sa Paro mo seatleng sa gagwe, jaaka tlwaelo ya ntlha, e o neng e le motsamaisi wa dino tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "e sa le kwa go bongwe"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mararo a"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsing"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "o tla tlhatlha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhago ya gago"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tlhago ya gago"
+    },
+    {
+      "surface": "והשיבך",
+      "gloss": "a go busa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כנך",
+      "gloss": "setulong sa gago"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "o neela"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "senwelo sa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "jaaka tlwaelo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya ntlha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o neng e le"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "motsamaisi wa dino tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:51.554837754Z",
+  "model": "glm-5.3"
+}

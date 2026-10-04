@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Dikeetleng go nna le puso ka letsatsi, gonne go ya le lekae hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikeetleng"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dikeetleng"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "go nna le pusu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lekae"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:19.078672479Z",
+  "model": "glm-5.3"
+}

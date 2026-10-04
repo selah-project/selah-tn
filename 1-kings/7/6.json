@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme a dira ⟨את⟩ korong ya dikgotla: bophara jwa yone bo ne bo le dikgomo di le masome a matlhano, bophara bo ne bo le dikgomo di le masome a mararo; mme korong e ne e le fa pele ga tsone, le dikgotla le sedikwa fa pele ga tsone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "korong ya dikgotla"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "korong"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ya dikgotla"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masome a matlhano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bophara jwa yone bo le"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le masome a mararo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara jwa yone"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "mme korong"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "tsone"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "le dikgotla"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "le sedikwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:22:33.228943179Z",
+  "model": "glm-5.3"
+}

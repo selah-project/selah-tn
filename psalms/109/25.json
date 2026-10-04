@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Mme nna ke ne ka nna nyatso mo go bone; ba mpona, ba dikgogomosa ditlhago tsa bone.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ka nna"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nyatso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "ba mpona"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "ba dikgogomosa"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ditlhago tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:51.850946245Z",
+  "model": "glm-5.3"
+}

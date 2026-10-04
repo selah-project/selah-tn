@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme fa le sa reetle go go bolokiwa, re tla tsera ⟨את⟩ morwadiwa rona mme re tsamaye.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "le sa reetle"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "go go bolokiwa"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "re tla tsera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwadiwa rona"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "morwadiwa rona"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "mme re tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:50.621961822Z",
+  "model": "glm-5.3"
+}

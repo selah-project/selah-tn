@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Fa nne ke didimosa, marapo a me a ne a gotlha, ka go buala ga me letsatsi lotlhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ke didimosa"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "a ne a gotlha"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "marapo a me"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "ka go buala ga me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:01.144692982Z",
+  "model": "glm-5.3"
+}

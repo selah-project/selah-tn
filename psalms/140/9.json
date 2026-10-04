@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 140,
+  "translation": "Se ka fa Yahwe dikeletso tsa yo o sa siamang; se ka dira gore poledišo e atlege — se ka e tsamaisa — gore ba se ka ba ikakanya. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "dikeletso"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo o sa siamang"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "poledišo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "e tsamaisa"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ba ikakanye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:33.707807654Z",
+  "model": "glm-5.3"
+}

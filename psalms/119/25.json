@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Moya wa me o khungkinetse leroleng; ntshe botshelo go ya ka lefoko la gago.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "o khungkinetse"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "leroleng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ntshe botshelo"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "go ya ka lefoko la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:32.802043329Z",
+  "model": "glm-5.3"
+}

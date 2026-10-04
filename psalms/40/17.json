@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Ba kaelwe thata ba nne ba itumele, mme ba nne ba phatsima ka thabo mo go wena, botlhe ba ba go batlang; ba re ka go tswelela: Yahwe a kgolo! – ao ba ratang poloko ya gago.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "ba nne ba phatsima ka thabo"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "mme ba kaelwe thata ba itumele"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ba ba go batlang"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka go tswelela"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "a kgolo!"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ao ba ratang"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "poloko ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:42.238455325Z",
+  "model": "glm-5.3"
+}

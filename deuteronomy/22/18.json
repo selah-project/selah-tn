@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme bagodi ba toropo eo ba tla tshwara ⟨את⟩ monna yoo, mme ba tlhatlhoba ⟨את⟩ ene.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ba tla tshwara"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagodi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna yoo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna yoo"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ba tlhatlhoba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "monna yoo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:45.374036352Z",
+  "model": "glm-5.3"
+}

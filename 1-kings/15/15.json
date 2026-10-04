@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme a tsenya ⟨את⟩ dilo tsa boitshepo tsa rraagwe, le tsa boitshepo tsa gagwe, mo tlung ya Yahwe: selefera le gauta le didiriswa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mme a tsenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tsa boitshepo tsa rraagwe"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "dilo tsa boitshepo tsa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "le tsa boitshepo tsa gagwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo tlung ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "le didiriswa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:07.952706166Z",
+  "model": "glm-5.3"
+}

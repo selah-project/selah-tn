@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a kwala koo mo majeng ⟨את⟩ kgatiso ya Torah ya Moshe, e a neng a e kwadile pele ga bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "mme a kwala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "majeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgatiso ya Torah ya Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kgatiso"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ya Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "a e kwadile"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:38:38.511966260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme go ne ga nna jaana: fa banna ba ntwa sotle ba ne ba fedile go swa mo teng ga setshaba,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne ga nna jaana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ba fedile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "go swa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:09.273758812Z",
+  "model": "glm-5.3"
+}

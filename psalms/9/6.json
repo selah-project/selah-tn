@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "O kgalematse ditshaba, o senotse yo mo tlhoyang; leina la bone le phimotse le ka bosakhutshwane le go sa beng teng.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "o kgalematse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "o senotse"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo mo tlhoyang"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "leina la bone"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "le phimotse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "le ka bosakhutshwane"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go sa beng teng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:43.263438563Z",
+  "model": "glm-5.3"
+}

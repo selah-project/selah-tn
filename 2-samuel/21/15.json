@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme go ne go nna gape ntwa ya Bafilisita le ⟨את⟩ Yisraele; mme Dawide a tlase, le badiredi ba gagwe ba ena le ene, mme ba lwa le ⟨את⟩ Bafilisita; mme Dawide a thunya.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "mme go ne go nna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "ya Bafilisita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "mme a tlase"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "le badiredi ba gagwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ba ena le ene"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "mme ba lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bafilisita"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisita"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "mme a thunya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T23:16:52.873049395Z",
+  "model": "glm-5.3"
+}

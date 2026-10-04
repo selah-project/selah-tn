@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Yahwe o tla kgwatha ⟨את⟩ Mitsrayime — a kgwatha mme a fodisa; mme ba tla boela go Yahwe, mme o tla ba araba, mme o tla ba fodisa.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "o tla kgwatha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "a kgwatha"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "a fodisa"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ba tla boela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "o tla ba araba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "o tla ba fodisa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:22.053716509Z",
+  "model": "glm-5.3"
+}

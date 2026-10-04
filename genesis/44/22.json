@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Mme ra re go mong wa me: Mosha ga a kgone go tlogela rraagwe; fa a ka tlogela ⟨את⟩ rraagwe, ene o tla swa.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Mme ra re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "a kgone"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "go tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraagwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "fa a ka tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraagwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "o tla swa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:50.115721088Z",
+  "model": "glm-5.3"
+}

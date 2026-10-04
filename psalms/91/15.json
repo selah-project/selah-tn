@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "O tlaa n bitsa, mme ke tlaa mo araba; ke tlaa nna le ene mo kotsing, ke tlaa mo golola mme ke tlaa mo tlotla.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "o tlaa n bitsa"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "mme ke tlaa mo araba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le ene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "mo kotsing"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ke tlaa mo golola"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "mme ke tlaa mo tlotla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:00.465995351Z",
+  "model": "glm-5.3"
+}

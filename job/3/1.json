@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Morago ga dilo tseo, Iyob a bula ⟨את⟩ molomo wa gagwe, a roga ⟨את⟩ letsatsi la gagwe.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dilo tseo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo wa gagwe"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa gagwe"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "a roga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsatsi la gagwe"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "letsatsi la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:53:06.169542883Z",
+  "model": "glm-5.3"
+}

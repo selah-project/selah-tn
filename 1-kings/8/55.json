@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a ema, a beretsa ⟨את⟩ phuthego yotlhe ya Yisraele, ka modumo o mogolo, a re:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Mme a ema"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a beretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phuthego yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ka modumo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:07.015495328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Ke mang yo o ka buang matla a Yahwe, yo o ka tlisang phoko ya gagwe yotlhe e utlhegalang?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "yo o ka buang"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "matla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "yo o ka tlisang ... e utlhegalang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "phoko ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:59.086742872Z",
+  "model": "glm-5.3"
+}

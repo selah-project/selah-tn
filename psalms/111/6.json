@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 111,
+  "translation": "Matla a meiro ya gagwe o a senotse go setshaba sa gagwe, go neela bone boswa jwa ditshaba.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "matla"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "a meiro ya gagwe"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "o a senotse"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "go setshaba sa gagwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go neela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "boswa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "jwa ditshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:59.301228236Z",
+  "model": "glm-5.3"
+}

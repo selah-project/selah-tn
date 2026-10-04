@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 11:17",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Yahwe Tsebaote, yo o o gomilego, o buile bo-bobe kgatlhanong le wena, ka ntlha ya bo-bobe jwa ntlo ya Yisraele le ntlo ya Yehuda, ba bo ba dirileng go ikgatholela, go ntshwara ka boloi, ka go foka melaetsana go Baale.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "הנוטע",
+      "gloss": "yo o o gomilego"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kgatlhanong le wena"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bo-bobe"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "bo-bobe jwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "le ntlo ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba bo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dirileng"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go ikgatholela"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "go ntshwara ka boloi"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "go foka melaetsana"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "go Baale"
+    }
+  ],
+  "timestamp": "2026-10-04T00:11:35.059679705Z",
+  "model": "glm-5.3"
+}

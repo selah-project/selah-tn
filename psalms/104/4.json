@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Yo o dirang barongwa ba gagwe meruakh, badiredi ba gagwe molelo o tukang.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "barongwa ba gagwe"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "meruakh"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "badiredi ba gagwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "להט",
+      "gloss": "o tukang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:47.044690784Z",
+  "model": "glm-5.3"
+}

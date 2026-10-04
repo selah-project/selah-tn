@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme go tswa mo go sone Moshe le Aharone le bana ba gagwe ba ne ba tlhapha ⟨את⟩ diatla tsa bona le ⟨את⟩ maoto a bona.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ba ne ba tlhapha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa mo go sone"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diatla tsa bona"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tsa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maoto a bona"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "maoto a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:44.609588624Z",
+  "model": "glm-5.3"
+}

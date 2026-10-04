@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme ke tla fedisa ⟨את⟩ bolwetse jwa me mo boteng, le mo go ba bo tlhophilweng ka moje o sa tlhotlhophilweng, mme ke tla re go lona: Ga go na boteng, mme ga go na ba bo tlhophileng.",
+  "tokens": [
+    {
+      "surface": "וכליתי",
+      "gloss": "mme ke tla fedisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolwetse jwa me"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "bolwetse jwa me"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "mo boteng"
+    },
+    {
+      "surface": "ובטחים",
+      "gloss": "le mo go ba bo tlhophilweng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ka moje o sa tlhotlhophilweng"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ka moje o sa tlhotlhophilweng"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mme ke tla re"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "boteng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go na"
+    },
+    {
+      "surface": "הטחים",
+      "gloss": "ba bo tlhophileng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "boteng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:35:03.689306030Z",
+  "model": "glm-5.3"
+}

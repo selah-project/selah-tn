@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Dikgonthe di le lesome bolelele jwa taere, mme seka le sephatlo sa ama bophara jwa taere e le nngwe.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikgonthe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bolelele"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "taere"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "seka"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le sephatlo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "taere"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e le nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:56.403347860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Mme a ntsha setshaba sa gagwe ka boitumelo, ⟨את⟩ ba ba kgethilweng ba gagwe ka mminong.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ka boitumelo"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ka mminong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba kgethilweng ba gagwe"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ba ba kgethilweng ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:20.655202353Z",
+  "model": "glm-5.3"
+}

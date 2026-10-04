@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Gore bonang, ba ba baka ba thula sešowa, ba ba apeetse matsibi a bone mo thuteng, go thunya mo lefifing go ba ba siameng ka pelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ba ba baka"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "ba thula"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "sešowa"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ba ba apeetse"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "matsibi a bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "thuteng"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "go thunya"
+    },
+    {
+      "surface": "במו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "go ba ba siameng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ka pelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:49.305617011Z",
+  "model": "glm-5.3"
+}

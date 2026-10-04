@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme lefatshe leo ke neng ka le neela Abrahame le Yitshake, go wena ke tla le neela, mme go peo ya gago morago ga gago ke tla neela ⟨את⟩ lefatshe leo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "lefatshe leo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke neng ka le neela"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "le Yitshake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ke tla le neela"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "mme go peo ya gago"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "morago ga gago"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe leo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:25.221009727Z",
+  "model": "glm-5.3"
+}

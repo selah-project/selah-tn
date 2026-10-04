@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Go rulaganya dithulaganyo, go dira ka gauta, le ka selefera, le ka tshipi ya makhure.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "go rulaganya"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "dithulaganyo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "le ka selefera"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "le ka tshipi ya makhure"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:52.277781882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 128,
+  "translation": "Yahwe a go goeletse go tswa mo Tsiyone, mme o bone botebo jwa Yerushalayime, malatsi otlhe a botshelo jwa gago.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "a go goeletse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "go tswa mo Tsiyone"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mme o bone"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "botebo jwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi a"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "botshelo jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:39.808338182Z",
+  "model": "glm-5.3"
+}

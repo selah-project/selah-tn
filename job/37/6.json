@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Gore go selega ⟨o⟩ a bua: E nne mo lefatsheng; le go pula e nnye le dipula tsa maatla a gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "go selega"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o a bua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "E nne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "le go pula e nnye"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "pula"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "le dipula"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "dipula"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "tsa maatla a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:04:09.307368513Z",
+  "model": "glm-5.3"
+}

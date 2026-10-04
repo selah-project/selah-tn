@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme setshaba sa phatlalatswa mo lefatsheng lonngwe la Mitsrayime, go kgobokanya borwadimmidi bo teng go dira bochhabi.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "sa phatlalatswa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo lefatsheng lonngwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "go kgobokanya"
+    },
+    {
+      "surface": "קש",
+      "gloss": "borwadimmidi"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "go dira bochhabi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:42.665926604Z",
+  "model": "glm-5.3"
+}

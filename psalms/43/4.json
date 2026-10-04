@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Mme ke tle kwa aletareng ya Elohim, kwa El ya boitumelo jwa me; mme ke go boka ka kinora, Elohim, Elohim wa me.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Mme ke tle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletareng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "ya boitumelo"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "jwa me"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "mme ke go boka"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinora"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:19.255628779Z",
+  "model": "glm-5.3"
+}

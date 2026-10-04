@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme bogale jwa Yahwe bo ne jwa tuka kgatlhanong le bone, mme ⟨Yahwe⟩ a tsamaya.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "bo ne jwa tuka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kgatlhanong le bone"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-03T22:08:41.758020885Z",
+  "model": "glm-5.3"
+}

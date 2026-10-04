@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Ba opela ba ne ba le pele, ba ba tshamekang diletso ba latela ka morago, gareng ga basetsana ba ba obelang ka diphinifa.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "ba ne ba le pele"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ba opela"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka morago"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "ba ba tshamekang diletso"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gareng ga"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "basetsana"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "ba ba obelang ka diphinifa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:38.091962357Z",
+  "model": "glm-5.3"
+}

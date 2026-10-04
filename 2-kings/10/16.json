@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "A re: Tla le nna ⟨את⟩, o bo o bone boikhafetsa jwa me go Yahwe. Ba mo palamisa mo koloining ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "tla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "o bo o bone"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "boikhafetsa jwa me"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "ba mo palamisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "mo koloining ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:36:29.278112366Z",
+  "model": "glm-5.3"
+}

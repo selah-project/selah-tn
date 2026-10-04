@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Kgosi ya Kedeshe, e le nngwe; kgosi ya Yokneame mo Karmele, e le nngwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeshe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Yokneame"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "mo Karmele"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:39:21.230542386Z",
+  "model": "glm-5.3"
+}

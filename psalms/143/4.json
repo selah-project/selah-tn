@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 143,
+  "translation": "Mme ruakh ya me ya boya ya tshwarwa ke maotwana mo go nna; pelo ya me mo go nna ya tshosa.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "ya tshwarwa ke maotwana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya me"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "ya tshosa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:14.141726200Z",
+  "model": "glm-5.3"
+}

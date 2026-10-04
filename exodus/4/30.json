@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Aharone a bua ⟨את⟩ mafoko otlhe a a neng a bua Yahwe go Moshe, mme a dira matswao mo matlhong a setshaba.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a neng a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "matswao"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "mo matlhong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a setshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:55.340439272Z",
+  "model": "glm-5.3"
+}

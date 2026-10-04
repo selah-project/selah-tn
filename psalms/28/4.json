@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Ba neye go ya ka ditiro tsa bone le go ya ka bobe jwa ditiro tsa bone; go ya ka tiro ya diatla tsa bone ba neye; busetsa moputso wa bone go bone.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Ba neye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "go ya ka ditiro tsa bone"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "le go ya ka bobe"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "jwa ditiro tsa bone"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "go ya ka tiro"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ya diatla tsa bone"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ba neye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "השב",
+      "gloss": "busetsa"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "moputso wa bone"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:29.149321289Z",
+  "model": "glm-5.3"
+}

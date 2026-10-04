@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme a tsenya ⟨את⟩ dibadile mo ditaabeng tse di kwa maphateng a ⟨את⟩ areka, go rwala ⟨את⟩ areka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a tsenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibadile"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dibadile"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "mo ditaabeng"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "maphateng"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "areka"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "go rwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "areka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "areka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:46.626353729Z",
+  "model": "glm-5.3"
+}

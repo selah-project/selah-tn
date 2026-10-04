@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Gore ba ba mo tlhoyang ba buile ka me, mme ba ba lebeletseng moyo wa me ba akanela mmogo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba buile"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka me"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "mme ba ba lebeletseng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wa me"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ba akanela"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:37.794336668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme barwa ba gagwe ba ne ba sa tsamaye mo ditseleng tsa gagwe, mme ba fenkega morago ga dipoelo tsa boswenyego, mme ba amogela dipoelo tsa go tshwara batho ka tsela e e seng ya kgololesego, mme ba fetola tshiamiso.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "tsamaye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "mo ditseleng tsa gagwe"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "mme ba fenkega"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "dipoelo tsa boswenyego"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mme ba amogela"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "dipoelo tsa go tshwara batho ka tsela e e seng ya kgololesego"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "mme ba fetola"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tshiamiso"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:48.303129883Z",
+  "model": "glm-5.3"
+}

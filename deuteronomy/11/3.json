@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Le ⟨את⟩ matshwafo a gagwe, le ⟨את⟩ ditiro tsa gagwe, a o di dirile teng mo magareng ga Mitsrayime, go Faro kgosi ya Mitsrayime, le go lefatshe la gagwe lotlhe:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "matshwafo a gagwe"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "matshwafo a gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditiro tsa gagwe"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ditiro tsa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "di dirile"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo magareng ga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "go Faro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le go lefatshe la gagwe lotlhe"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "lefatshe la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:06:44.310672958Z",
+  "model": "glm-5.3"
+}

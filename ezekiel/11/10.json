@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Ka tshaka lo tlaa wa; mo mollwaneng wa Yisraele ke tlaa katlhola ⟨את⟩ lona; mme lo tlaa itse gore me ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "lo tlaa wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mollwaneng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ke tlaa katlhola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "mme lo tlaa itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:34:34.212050628Z",
+  "model": "glm-5.3"
+}

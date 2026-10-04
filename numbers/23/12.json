@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme a araba, a re: A ga se ⟨את⟩ seо Yahwe a se beileng mo molomong wa me — ⟨את⟩ sona ke se ke tlhomamisetsang go se bua?",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "mme a araba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a ga se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seо Yahwe a se beileng mo molomong wa me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "a se beileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mo molomong wa me"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ke se ke tlhomamisetsang"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ke se ke tlhomamisetsang"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go se bua"
+    }
+  ],
+  "timestamp": "2026-10-03T22:14:03.552042175Z",
+  "model": "glm-5.3"
+}

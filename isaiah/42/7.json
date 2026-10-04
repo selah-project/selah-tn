@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "go bula matlho a boifofo, go ntsha molekane wa kgolegelo, go tswa mo ntlong ya tlhokomelo ba ba dulang lefifing;",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "go bula"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "matlho"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "a boifofo"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "go ntsha"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "wa kgolegelo"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "molekane"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "go tswa mo ntlong"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ya tlhokomelo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba ba dulang"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifing"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:01.498581985Z",
+  "model": "glm-5.3"
+}

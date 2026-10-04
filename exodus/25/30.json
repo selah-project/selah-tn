@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "O be ka mo go tafole ⟨את⟩ senkgwe sa sefatoko pele ga me kafa ntleheng.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "O be"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka mo go"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa sefatoko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kafa ntleheng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:23.194731988Z",
+  "model": "glm-5.3"
+}

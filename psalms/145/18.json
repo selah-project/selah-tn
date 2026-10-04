@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Gaufu Yahwe le ba ba mo pelelang ka lentswe botlhe, le botlhe ba ba mo pelelang ka boikanyego.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Gaufu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "le … botlhe"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "ba ba mo pelelang ka lentswe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "le botlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "mo pelelang ka lentswe"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ka boikanyego"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:07.683364612Z",
+  "model": "glm-5.3"
+}

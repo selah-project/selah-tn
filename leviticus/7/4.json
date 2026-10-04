@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Le ⟨את⟩ diphio tse pedi, le ⟨את⟩ mafura a a leng ho tsone, a a leng ho mmoko, le ⟨את⟩ serapa se se leng ho sebete, mmoho le diphio di tlogelelwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diphio tse pedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "diphio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a leng"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ho tsone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a leng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "mmoko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "serapa"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sebete"
+    },
+    {
+      "surface": "על",
+      "gloss": "mmoho le"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "diphio"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "di tlogelelwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:44.810882517Z",
+  "model": "glm-5.3"
+}

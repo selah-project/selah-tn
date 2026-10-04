@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mme morwadi wa Tsore a eng le minkha, ba ba humang ba setshaba ba kopa seboego sa gago.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Mme morwadi wa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsore"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "a eng le minkha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "seboego sa gago"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "ba kopa"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ba ba humang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ba setshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:33.504143059Z",
+  "model": "glm-5.3"
+}

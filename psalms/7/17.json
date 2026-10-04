@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Boitlhajotlhajo jwa gagwe bo tla boela mo tlhogong ya gagwe, mme tsietso ya gagwe e tla wa mo tlhogong ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "bo tla boela"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "boitlhajotlhajo jwa gagwe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "mo tlhogong ya gagwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme mo"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "tlhogong ya gagwe"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "tsietso ya gagwe"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "e tla wa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:38.869771575Z",
+  "model": "glm-5.3"
+}

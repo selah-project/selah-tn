@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ka ntlha ya moo, go bua jalo Yahwe Tsebaote: ka gonne ga lo a kwa ⟨את⟩ mafoko a me.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ka ntlha ya moo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמעםתם",
+      "gloss": "lo a kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a me"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:17:34.038721417Z",
+  "model": "glm-5.3"
+}

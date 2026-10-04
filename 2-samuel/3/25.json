@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "O itsetse ⟨את⟩ Abnere morwa Nere, gore o ne a tla go belaela, le go itse ⟨את⟩ go tswa ga gago le ⟨את⟩ go tsena ga gago, le go itse ⟨את⟩ sengwe le sengwe se o se dirang.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "o itsetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abnere"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abnere"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Nere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "go go belaela"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "le go itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go tswa ga gago"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "go tswa ga gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "go tsena ga gago"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "go tsena ga gago"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "le go itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "se o se dirang"
+    }
+  ],
+  "timestamp": "2026-10-03T23:09:08.875973266Z",
+  "model": "glm-5.3"
+}

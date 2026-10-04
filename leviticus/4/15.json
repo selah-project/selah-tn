@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme bagolo ba setlhopha ba beletse diatla tsa bone mo tlhakoreng ya phologolo kwa pele ga Yahwe, mme phologolo e bolawe kwa pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "mme ba beletse"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo ba"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setlhopha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diatla tsa bone"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tsa bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo tlhakoreng"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ya tlhakore"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mme e bolawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phologolo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:28.773097387Z",
+  "model": "glm-5.3"
+}

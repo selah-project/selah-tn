@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 18:2",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Dawide a romela ⟨את⟩ setshaba, sefereng mo seatleng sa Yoabe, le sefereng mo seatleng sa Abishai morwa wa Tserujah, kgaitsadio wa Yoabe, le sefereng mo seatleng sa Itai wa Gathe. Mme kgosi a re go setshaba: Ke tla tsamaea ntle, ke ene ka bonna le lona.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mme a romela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "sefereng"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "le sefereng"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abishai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kgaitsadio wa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "והשלשת",
+      "gloss": "le sefereng"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "wa Gathe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "Ke tla tsamaea ntle"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ke tsamaya ntle"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ka bonna"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:15:13.171493571Z",
+  "model": "glm-5.3"
+}

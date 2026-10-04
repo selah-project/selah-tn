@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "O tlaa bea tsela gore tshaka e tle kwa ⟨את⟩ Raba ya bana ba Amon, le ⟨את⟩ Yehuda kwa Yerushalayime, torong e e nonofileng.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "o tlaa bea"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "gore ... e tle"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raba"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "torong e e nonofileng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:38:57.041461350Z",
+  "model": "glm-5.3"
+}

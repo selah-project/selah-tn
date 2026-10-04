@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Eleleng kopelo, tlhagisang seborotho, kenore e ntle le nevale.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "eleleng"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "kopelo"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "tlhagisang"
+    },
+    {
+      "surface": "תף",
+      "gloss": "seborotho"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kenore"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "e ntle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:06.669542848Z",
+  "model": "glm-5.3"
+}

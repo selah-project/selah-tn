@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Morwa Khesede, kwa Arubote; morwa mong wa ene e ne e le Sokho le lefatshe lonne la Khefere.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Khesede"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "kwa Arubote"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mong wa ene"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le lonne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "la Khefere"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:31.821129691Z",
+  "model": "glm-5.3"
+}

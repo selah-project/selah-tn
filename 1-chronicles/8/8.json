@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Shakharyime o begetile kwa masimong a Moabe, morago ga go ba romela ⟨אתם⟩ teng — Khushime le ⟨את⟩ Bearaye, basadi ba gagwe.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Mme Shakharyime"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o begetile"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwa masimong a"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "go ba romela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Khushime le Bearaye"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Khushime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bearaye"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Bearaye"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basadi ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:49.018560774Z",
+  "model": "glm-5.3"
+}

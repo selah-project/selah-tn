@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Matsatsi a supa mopriste yo o tlang mo boemong jwa gagwe, mo gare ga bana ba gagwe, yo o tsenang tente ya phuthego go direla boitshepong, o tla a di apara.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "a supa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Matsatsi"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "o tla a di apara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mo boemong jwa gagwe"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "mo gare ga bana ba gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "o tsenang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phuthego"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "go direla"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "boitshepong"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:10.223166884Z",
+  "model": "glm-5.3"
+}

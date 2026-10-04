@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "O atole hesede ya gago go ba ba go itseng, mme tsedeke ya gago go ba ba siamang ba pelo.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "O atole"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "go ba ba go itseng"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "mme tsedeke ya gago"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "go ba ba siamang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ba pelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:11.978492186Z",
+  "model": "glm-5.3"
+}

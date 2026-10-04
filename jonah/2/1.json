@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Yahwe a baakanyetsa tlhapi e kgolo go mela ⟨את⟩ Yona; mme Yona a nna ka mpeng ya tlhapi matsatsi a tharo le dibosigo tse tharo.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "a baakanyetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "tlhapi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "go mela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme a nna"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "ka mpeng"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ya tlhapi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "a tharo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "le tse tharo"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "dibosigo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:22.394915229Z",
+  "model": "glm-5.3"
+}

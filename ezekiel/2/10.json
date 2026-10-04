@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme o ne a e bulela pele ga me, mme e kwadilwe ka fa pele le kwa morago, mme go ne go kwadilwe mo go yone dikinelo le peloethata le bosula.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "Mme o ne a e bulela"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "mogolokwedi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mme e"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "kwadilwe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ka fa pele"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "le kwa morago"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "mme go kwadilwe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "dikinelo"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "le peloethata"
+    },
+    {
+      "surface": "והי",
+      "gloss": "le bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T00:32:06.503678932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Merogo ya go se bulawe e tla jewa dibeke di le ⟨את⟩ supa, mme se se bulawang ga se kitla se bonala go wena, gape selabolo ga se kitla se bonala go wena, mo melelwaneng ya gago yotlhe.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "merogo ya go se bulawe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "e tla jewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibeke di le supa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "supa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dibeke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se kitla se bonala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "se se bulawang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gape ga"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se kitla se bonala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "selabolo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo … yotlhe"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "melelwaneng ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:53.145033807Z",
+  "model": "glm-5.3"
+}

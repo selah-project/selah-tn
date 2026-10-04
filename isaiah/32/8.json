@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme yo o pelonomi o a rulaganya dilo tsa botho, mme ene o tlaa ema ka dilo tsa botho.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "mme yo o pelonomi"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "dilo tsa botho"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "o a rulaganya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "dilo tsa botho"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "o tlaa ema"
+    }
+  ],
+  "timestamp": "2026-10-03T23:54:02.586360484Z",
+  "model": "glm-5.3"
+}

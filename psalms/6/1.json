@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Go moeteledipele, ka diletso tsa dinae, go ya ka semetshe sa borobabobedi. Pesalema ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go moeteledipele"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ka diletso tsa dinae"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "semetshe sa borobabobedi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Pesalema"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:28.340846577Z",
+  "model": "glm-5.3"
+}

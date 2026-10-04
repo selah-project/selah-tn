@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Yoo o nang kwa magodimong o tla tshega; Adonai o tla ba hlotla.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Yoo o nang"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "o tla tshega"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "o tla ba hlotla"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:33.831048450Z",
+  "model": "glm-5.3"
+}

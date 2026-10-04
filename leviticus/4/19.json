@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ⟨את⟩ mafura a gagwe otlhe o tla a a tlhatlosa mo go yone, a bo a a futhumatsa mo go altare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafura a gagwe otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafura a gagwe"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "o tla a a tlhatlosa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a bo a a futhumatsa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mo go altare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:25.056869880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Borre ba rona ba ne ba dira bofone; ba seyo; rona re ile ra rwala bobe jwa bona.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "Borre ba rona"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba ne ba dira bofone"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ba seyo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "bobe jwa bona"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "re ile ra rwala"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:33.411177424Z",
+  "model": "glm-5.3"
+}

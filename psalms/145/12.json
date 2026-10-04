@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Go itsise bana ba batho nonofo ya gagwe, le bobonne jwa kgalalelo ya bogosi jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "go itsise"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "nonofo ya gagwe"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "le kgalalelo"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "bobonne"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ya bogosi jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:58.125704564Z",
+  "model": "glm-5.3"
+}

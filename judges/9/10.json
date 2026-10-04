@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ditlhare tsa re go setlhare sa fige: Tla, wena, o busenge mo go rona.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "tsa re"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ditlhare"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "go setlhare sa fige"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Tla"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "o busenge"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mo go rona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:48:29.544610473Z",
+  "model": "glm-5.3"
+}

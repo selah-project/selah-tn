@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ka letsatsi leo ke tla dira kgatlhanong le Eli ⟨את⟩ sengwe le sengwe se ke neng ke se buile ka ntlo ya gagwe: ke simolola, ke bo ke kgwatha.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke neng ke se buile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ke simolola"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ke bo ke kgwatha"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:30.431070545Z",
+  "model": "glm-5.3"
+}

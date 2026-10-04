@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Yahwe, ntataise ka tsedeko ya gago, ka ntlha ya ba ba ntlhoileng; o tlhamalele tselao ya gago fa pele ga me.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ntataise"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedeko ya gago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ba ba ntlhoileng"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "o tlhamalele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga me"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tselao ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:59.771451361Z",
+  "model": "glm-5.3"
+}

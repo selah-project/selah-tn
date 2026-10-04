@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Fa ba ba ntlholang ba boela morago, ba tlhoka mmago mme ba nyelele mo pelelong ya gago.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "fa ... ba boela morago"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ba ba ntlholang"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morago"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ba tlhoka mmago"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "mme ba nyelele"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "mo pelelong ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:29.417104904Z",
+  "model": "glm-5.3"
+}

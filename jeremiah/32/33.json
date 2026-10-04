@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme ba ne ba mo fapoga ka fa morago, e seng sefathego; mme ka go ba rutela, a bo a tsogela kwa bo goding a ba ruta, mme ba ne ba sa reetse go tsaya kaelo.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ba ne ba fapoga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ka fa morago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefathego"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "ka go ba rutela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "a bo a tsogela kwa bo goding"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "a ba ruta"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "mme ba ne ba sa"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "reetse"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "go tsaya"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kaelo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:22:05.803411957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Seruge o ne a tshela, morago ga go belega ⟨את⟩ Nakhore, dingwaga di le makgolo a mabedi, mme a belega bana ba basimane le bana ba basetsana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "o ne a tshela"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seruge"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "go belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhore"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhore"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a belega"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana ba basimane"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le bana ba basetsana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:59.560694332Z",
+  "model": "glm-5.3"
+}

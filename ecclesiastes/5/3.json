@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Fa o ikana ikano go Elohim, o se ke wa diega go e phetha; gonne ga go na boitumelo mo baswelamogopeleng; ⟨את⟩ se o se ikanang, se phethe.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "o ikana"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ikano"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "wa diega"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "go e phetha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "mo baswelamogopeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se o se ikaneng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "o se ikana"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "se phethe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:47.904429767Z",
+  "model": "glm-5.3"
+}

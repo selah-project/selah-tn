@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 124,
+  "translation": "Ba ne ba re tlaa metse ba tshela, fa bogale jwa bone bo ne bo tuka kgatlhanong le rona,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "mme ka nako eo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ba tshela"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "ba re tlaa metse"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "fa bo ne bo tuka"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "bogale jwa bone"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kgatlhanong le rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:36.015069255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Gore ga ba a tlhaloganya ditiro tsa Yahwe, le tiro ya diatla tsa gagwe; o tlaa di phutlhela, mme ga a na go di aga gape.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba a tlhaloganya"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ditiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "diatla tsa gagwe"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "o tlaa di phutlhela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "a na go di aga gape"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:07.243981026Z",
+  "model": "glm-5.3"
+}

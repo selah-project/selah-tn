@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Madi a gagwe a selefera ga a a neela go efa ya khadi, mme kgopo kgatlhanong le moitshepi ga e a e tsaya; yo o dirang dilo tseo, ga o kitla o tremagala go ya le bosakhutleng.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "madi a gagwe a selefera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "go efa ya khadi"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "mme kgopo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "moitshepi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "e tsaya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga o kitla o"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tremagala"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le bosakhutleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:28.977633834Z",
+  "model": "glm-5.3"
+}

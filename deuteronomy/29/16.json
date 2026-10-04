@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme le bone ⟨את⟩ dilo tsa bone tse di nyedisang le ⟨את⟩ medimo ya bona, setlhare le leje, selefera le gauta, tse di neng di le lebone.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "mme le bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tsa bone tse di nyedisang"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "dilo tsa bone tse di nyedisang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "medimo ya bona"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "medimo ya bona"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "setlhare"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "le leje"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "di neng di le lebone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:36.467997776Z",
+  "model": "glm-5.3"
+}

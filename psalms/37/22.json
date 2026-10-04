@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Gore ba lo ollang ba tla ruela lefatshe, mme ba lo ilwang ba tla kgaolwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "ba lo ollang"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ba tla ruela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "mme ba lo ilwang"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ba tla kgaolwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:35.796059831Z",
+  "model": "glm-5.3"
+}

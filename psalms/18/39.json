@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ke ba phutlhaka, mme ba ka se ke ba tlhagelela; ba wa ka fa tlase ga maoto a me.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "ke ba phutlhaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba ka"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ba tlhagelela"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ba wa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:08.766489037Z",
+  "model": "glm-5.3"
+}

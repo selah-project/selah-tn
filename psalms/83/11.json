@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "Ba ne ba senngwa kwa Eyn-Dore; ba ne ba nna boloko go lefatshe.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Ba ne ba senngwa"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "kwa Eyn-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ne ba nna"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "boloko"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "go lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:54.795592213Z",
+  "model": "glm-5.3"
+}

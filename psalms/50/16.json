@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme go yo o molato Elohim o ile a re: Ke eng se o se nang sone go bua melawana ya me, mme o tsaya kgolagano ya me mo molomong wa gago?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "mme go yo o molato"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o ile a re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "se o se nang sone"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "melawana ya me"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "mme o tsaya"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomong wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:27.689810484Z",
+  "model": "glm-5.3"
+}

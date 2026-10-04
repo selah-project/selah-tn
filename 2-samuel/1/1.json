@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go ne go sale morago ga go tlhokafala ga Shauole, Dawide a boela go tswa mo go tlhaseleng ⟨את⟩ ba-Amaleke, mme Dawide a nna kwa Tsekelage matsatsi a mabedi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go sale"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "go tlhokafala ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mme Dawide"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "go tswa mo go tlhaseleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba-Amaleke"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "ba-Amaleke"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme a nna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "kwa Tsekelage"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a mabedi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:09:07.606688282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Baagi botlhe ba lefatshe, le ba ba nang kwa lefatsheng: fa seatla se tlhatlolwa thabeng, le tlaa se bona; fa letsela le peuwa, le tlaa le utlwa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baagi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "le ba ba nang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "fa seatla se tlhatlolwa"
+    },
+    {
+      "surface": "נס",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "le tlaa se bona"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "fa letsela le peuwa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "letsela"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "le tlaa le utlwa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:30.818144111Z",
+  "model": "glm-5.3"
+}

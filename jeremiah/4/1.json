@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Fa o boela, Yisraele, go bua Yahwe, o boele kwa go nna; mme fa o ntsha ditshwanelo tsa gago tsa go nyenyega go tswa kwa sefathegong sa me, o se ka wa tsamaya o fologela.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o boela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o boele"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "o ntsha"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "dilo tsa gago tsa go nyenyega"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "go tswa kwa sefathegong sa me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "tsamaya o fologela"
+    }
+  ],
+  "timestamp": "2026-10-04T00:09:23.871097880Z",
+  "model": "glm-5.3"
+}

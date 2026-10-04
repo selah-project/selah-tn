@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 30:27",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Go ba ba kwa Bethele, le go ba ba kwa Ramote ya Borwa, le go ba ba kwa Yathire;",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "go ba ba"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kwa Bethe-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ele"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "le go ba ba"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "kwa Ramote"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ya Borwa"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "le go ba ba"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "kwa Yathire"
+    }
+  ],
+  "timestamp": "2026-10-03T23:06:00.609948598Z",
+  "model": "glm-5.3"
+}

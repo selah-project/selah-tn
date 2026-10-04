@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Ga a kgatlhwele ka maatla a pitse, kana ka maoto a motho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ka maatla a"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "pitse"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "a kgatlhwele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "ka maoto a"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "a rataga"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:47.308560796Z",
+  "model": "glm-5.3"
+}

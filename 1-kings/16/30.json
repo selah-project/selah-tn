@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme Ahabe morwa Omri a dira bosula mahlong a Yahwe, go feta botlhe ba ba neng ba le pele ga gagwe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme a dira"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go feta botlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ba neng ba le pele ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:29.581522228Z",
+  "model": "glm-5.3"
+}

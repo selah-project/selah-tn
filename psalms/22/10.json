@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Gonne wena o n ntshitse ka mpa; o ne o dira gore ke ikitsege mo ditsweng tsa mmae wame.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "o n ntshitse"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ka mpa"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "o dira gore ke ikitsege"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ditsweng"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mmae wame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:24.811097858Z",
+  "model": "glm-5.3"
+}

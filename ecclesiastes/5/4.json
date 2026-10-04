@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Go a siama se o se sa ikaneng, go feta go ikana mme o se ke wa phetha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go a siama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "wa ikana"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "go feta go ikana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "wa phetha"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:47.904559543Z",
+  "model": "glm-5.3"
+}

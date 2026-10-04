@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme jaanong, tla, mme ke tla go rumelela kwa go Farao, gore o ntshe ⟨את⟩ setshaba sa me, bana ba Yisraele, go tswa mo Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jaanong"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "tla"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ke tla go rumelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "gore o ntshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sa me"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go tswa mo Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:21.269176047Z",
+  "model": "glm-5.3"
+}

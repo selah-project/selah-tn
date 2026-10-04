@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme go ne go nthga mo tseleng, kwa maotwaneng, mme Yahwe a mo kopana le ene, mme a batla go mo bolaya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go nthga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "kwa maotwaneng"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "a mo kopana le ene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "mme a batla"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "go mo bolaya"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:01.674116225Z",
+  "model": "glm-5.3"
+}

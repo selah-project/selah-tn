@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "El o tla uta mme o ba araba, Ee o nnelang bogologolo. Selah. Ba ba senang diphetogo, mme ba se ka wa boifa Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "o tla uta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "mme o ba araba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Ee o nnelang"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bogologolo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ba ba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "senang"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "diphetogo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "(ba)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ka wa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "boifa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:55.848272384Z",
+  "model": "glm-5.3"
+}

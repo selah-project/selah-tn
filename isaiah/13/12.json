@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Ke tla dira gore motho a nne montlhagae go feta gauta e ntsho, le motho yo o tswang mo bathung go feta gauta ya Ophire.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ke tla dira gore... a nne montlhagae"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "go feta gauta e ntsho"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "le motho yo o tswang mo bathung"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "go feta gauta"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ya Ophire"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:08.543602659Z",
+  "model": "glm-5.3"
+}

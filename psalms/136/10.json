@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Go o bolayang Mitsrayime ka bantlwana ba bone ba ba tswaletsweng tlhogo, gore go ya le lefatshe le le sa khutlang hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Go o bolayang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "ka bantlwana ba bone ba ba tswaletsweng tlhogo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lefatshe le le sa khutlang"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:21.489786892Z",
+  "model": "glm-5.3"
+}

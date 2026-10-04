@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "mme ba ne ba tlaa boloka ⟨את⟩ taolo ya ntlane ya kopano le ⟨את⟩ taolo ya boitshepo, le taolo ya bana ba Aharone, bokaulengwe ba bone, bakeng la tiro ya ntlo ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "mme ba ne ba tlaa boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taolo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "taolo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ya ntlane"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taolo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "taolo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya boitshepo"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "le taolo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "bokaulengwe ba bone"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "bakeng la tiro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:44:11.602205321Z",
+  "model": "glm-5.3"
+}

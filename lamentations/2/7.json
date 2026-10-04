@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 2:7",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Adonai o tlogetse adula ya gagwe, o e nyeditse tempole ya gagwe ya boitshepo; o neela mo seatleng sa mmaba dikgoro tsa maboemelo a yone; ba ile ba tlhagasa modumo kwa ntlong ya Yahwe, jaaka letsatsi la phuthego.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "o tlogetse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "adula ya gagwe"
+    },
+    {
+      "surface": "נאר",
+      "gloss": "o e nyeditse"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "tempole ya gagwe ya boitshepo"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "o neela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sa mmaba"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "dikgoro tsa"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "maboemelo a yone"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba tlhagasa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kwa ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jaaka letsatsi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "la phuthego"
+    }
+  ],
+  "timestamp": "2026-10-04T02:11:11.234884491Z",
+  "model": "glm-5.3"
+}

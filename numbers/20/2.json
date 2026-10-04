@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme go ne go se na metsi a setshaba; mme ba kopana kgatlhanong le Moshe le kgatlhanong le Aharone.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go ne go"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "a setshaba"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "ba kopana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le kgatlhanong le"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:13:15.435396337Z",
+  "model": "glm-5.3"
+}

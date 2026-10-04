@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Moshe le Aharone ba dira jaaka Yahwe a laetse ⟨את⟩ bone; jalo ba ne ba dira.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "Moshe le Aharone"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:03.666581316Z",
+  "model": "glm-5.3"
+}

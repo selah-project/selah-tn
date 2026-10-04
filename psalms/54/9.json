@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 54,
+  "translation": "Gore o ntshitse mo go sengwe le sengwe se se neng se se kgama, mme poo ya me e bone ba ba mo tlhoyang ba me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mo go sengwe le sengwe"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "se se kgamang"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "mme ... ba ba mo tlhoyang ba me"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "e bone"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "poo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:59.400568382Z",
+  "model": "glm-5.3"
+}

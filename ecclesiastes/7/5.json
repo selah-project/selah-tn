@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Go botoka go kwa kgwalelo ya mohlalefi, go feta motho go kwa mmino wa bashwa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go botoka"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "go kwa"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "kgwalelo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mohlalefi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "go feta motho"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "go kwa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mmino"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "bashwa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:09.590521589Z",
+  "model": "glm-5.3"
+}

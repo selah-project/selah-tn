@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Molelo le mafedinyana, kapoko le moumo, ruakh ya sefoforo, e dirang lefoko la gagwe.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "le mafedinyana"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "kapoko"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "le moumo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ya sefoforo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e dirang"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lefoko la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:22.468696887Z",
+  "model": "glm-5.3"
+}

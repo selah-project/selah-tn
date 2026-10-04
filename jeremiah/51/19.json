@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 51:19",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Ga go jalo le karolo ya Yaakobo; gonne Ene ke Mmodiri wa dilo tsotlhe, mme Yisraele ke sefoka sa boswa jwa Gagwe: Yahwe Tsebaote ke leina la Gagwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga go jalo"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "le"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "Mmodiri"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "dilo tsotlhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ene"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "mme ke sefoka"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "boswa jwa Gagwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la Gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:30:05.879314270Z",
+  "model": "glm-5.3"
+}

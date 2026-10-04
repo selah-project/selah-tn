@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ⟨את⟩ Ashane le ⟨את⟩ magae a yone, ⟨את⟩ Betshemeshe le ⟨את⟩ magae a yone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "Ashane"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "magae a yone"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "magae a yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Betshemeshe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "shemeshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "magae a yone"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "magae a yone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:22.891329878Z",
+  "model": "glm-5.3"
+}

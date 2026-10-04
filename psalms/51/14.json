@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Busetsa kwa go nna itumelo ya poloko ya gago, mme ruakh ya boithaopo e ntekele.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "busetsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "itumelo"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ya poloko ya gago"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mme ruakh"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "ya boithaopo"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "e ntekele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:16.834331376Z",
+  "model": "glm-5.3"
+}

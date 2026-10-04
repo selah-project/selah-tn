@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 118,
+  "translation": "Wena ke El wa me, mme ke tla go dumedisa; Elohim wa me, ke tla go godisa.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El wa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "mme ke tla go dumedisa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ke tla go godisa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:07.168110740Z",
+  "model": "glm-5.3"
+}

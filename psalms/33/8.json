@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Yahwe a tshoafshwe ke lefatshe lotlhe; baagi botlhe ba lefatshe ba tshoge ka ene.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "a tshoafshwe"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka ene"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ba tshoge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "baagi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ba lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:15.888782412Z",
+  "model": "glm-5.3"
+}

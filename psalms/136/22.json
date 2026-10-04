@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Boswa go Yisraele, modiri wa gagwe: gore ka boshwa hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "boswa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "modiri wa gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka boshwa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:27.472838939Z",
+  "model": "glm-5.3"
+}

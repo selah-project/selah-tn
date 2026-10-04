@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Yahwe a re: Go bona, ke bone ⟨את⟩ botsopa jwa batho ba me ba ba kwa Mitsrayime, mme ke utlwile ⟨את⟩ go llela ga bone ka ntlha ya ba ba gatelelang bone; gonne ke itse ⟨את⟩ botlhoko jwa bone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Go bona"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botsopa jwa batho ba me"
+    },
+    {
+      "surface": "עני",
+      "gloss": "botsopa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "batho ba me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ba kwa Mitsrayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "go llela ga bone"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "go llela ga bone"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke utlwile"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ba ba gatelelang bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botlhoko jwa bone"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "botlhoko jwa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:39.603742891Z",
+  "model": "glm-5.3"
+}

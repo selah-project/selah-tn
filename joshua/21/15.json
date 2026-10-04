@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "le ⟨את⟩ Kholone le mabala a one, le ⟨את⟩ Debire le mabala a one;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kholone"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kholone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a one"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Debire"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a one"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a one"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:49.006260800Z",
+  "model": "glm-5.3"
+}

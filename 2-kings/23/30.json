@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme bakgalemani ba gagwe ba mo beba mo kolong a sa tlhole a phela, a tswa kwa Megidong, mme ba mo isa kwa Yerushalayime, mme ba mo boloka kwa lebitleng la gagwe; mme setshaba sa lefatshe se tsere ⟨את⟩ Yehoahaze morwa wa Yoshiyahu, mme ba mo tlhoda ⟨את⟩, mme ba mo dira kgosi ⟨את⟩, mo boemong jwa ga rraagwe.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "ba mo beba mo kolong"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bakgalemani ba gagwe"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a sa tlhole a phela"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "a tswa kwa Megidong"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ba mo isa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ba mo boloka"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "kwa lebitleng la gagwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "se tsere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahaze"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaze"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "ba mo tlhoda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ena (Yehoahaze)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ba mo dira kgosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ena (Yehoahaze)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:42:38.416246878Z",
+  "model": "glm-5.3"
+}

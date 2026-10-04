@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme mopriste o tlaa chesa ⟨את⟩ mafura mo altaareng; mme sehuba se tlaa nna sa Aharone le bana ba gagwe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Mme o tlaa chesa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mo altaareng"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "se tlaa nna"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "sehuba"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "sa Aharone"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "le bana ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:40.586714371Z",
+  "model": "glm-5.3"
+}

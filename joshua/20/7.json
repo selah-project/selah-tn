@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Ba bo ba itshepisa ⟨את⟩ Kedeshe kwa Galile, mo thabeng ya Nafutale, le ⟨את⟩ Shekeme mo thabeng ya Efraime, le ⟨את⟩ Kiriate-Arba — e leng Kheberone — mo thabeng ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Ba bo ba itshepisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeshe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeshe"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "kwa Galile"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mo thabeng"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ya Nafutale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Shekeme"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mo thabeng"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efraime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kiriate-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriate"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e leng"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Kheberone"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mo thabeng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T22:43:36.999581699Z",
+  "model": "glm-5.3"
+}

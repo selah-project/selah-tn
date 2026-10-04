@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme mosadi yo o atametsang go phologolo epe fela go e riola ⟨את⟩ ene, o tlhoka go bolaya ⟨את⟩ mosadi le ⟨את⟩ phologolo; ba bolawe ga go pelaelo; madi a bone ⟨a⟩ mo go bone.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Mme mosadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "o atametsang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "epe fela"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "go e riola"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ene",
+      "marks": "ene"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "o tlhoka go bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phologolo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ba bolawe"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ga go pelaelo"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "madi a bone"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:35.145606829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme bapriste ba dumedela go se tsaye selefera go tswa mo ⟨את⟩ setshabeng, mme go se nonotsha ⟨את⟩ diphatsa tsa ntlo.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "ba dumedela"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bapriste"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "go se"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "tsaye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ go tswa ⟨mo⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshabeng"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "mme go se"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "nonotsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphatsa"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "diphatsa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:44.205581672Z",
+  "model": "glm-5.3"
+}

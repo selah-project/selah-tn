@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Se ke wa ba bolaea, gore se ke ba lebala setshaba sa me; ba thubatse ka maatla a gago, mme o ba tlisa tlase, mogagane wa rona, Adonai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se ke wa"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ba bolaea"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore se ke"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ba lebala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "ba thubatse"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ka maatla a gago"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "mme o ba tlisa tlase"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "mogagane wa rona"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:46.609031046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Nna a boela ke robala, ke tsoga gape; gonne Yahwe o ntshegetsang.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ke ne ke robetse"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "mme ke robala"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ke tsogile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "o ntshegetsang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:55.872392480Z",
+  "model": "glm-5.3"
+}

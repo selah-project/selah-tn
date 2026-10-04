@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme o ne a tsamaya mo tseleng ya dikgosi tsa Yisraele, mme gape ⟨את⟩ morwawe a mo kgabaganya molelo, jaaka dilo tse di gannyeng tsa ditshaba tseo Yahwe a neng ⟨את⟩ a di tlhotlha pele ga bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mme o ne a tsamaya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ya dikgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "tsa Yisraele"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwawe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwawe"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "a mo kgabaganya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "jaaka dilo tse di gannyeng"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tsa ditshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "a neng a di tlhotlha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ a di",
+      "marks": "ditshaba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:12.601829254Z",
+  "model": "glm-5.3"
+}

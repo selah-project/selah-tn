@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme phuthego ya ditshaba e tla go dikologa; mme mo go yona boela kwa godimo.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "Mme phuthego"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ya ditshaba"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "e tla go dikologa"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "mme mo go yona"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "boela"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:36.024819695Z",
+  "model": "glm-5.3"
+}

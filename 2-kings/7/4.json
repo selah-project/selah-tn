@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 7:4",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Fa re ka re re tsena toropo — tlala e mo toropong, mme re tla swa koo; fa re ntse re dutse fano, re a swa. Jaanong ke a re: A tshware, a re weleng kwa masomong a Arame; fa ba ka re bolokela botshelo, re tla tshela; fa ba ka re bolaya, re a swa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "re ka re"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "re tsena"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo toropong"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "mme re tla swa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "re ntse re dutse"
+    },
+    {
+      "surface": "פה",
+      "gloss": "fano"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "re a swa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Jaanong"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "A tshware"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "a re weleng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "masomong"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "a Arame"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יחינו",
+      "gloss": "ba ka re bolokela botshelo"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "re tla tshela"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "ba ka re bolaya"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "re a swa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:35:00.352466542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "A motho o ka dira ⟨את⟩ medimo ya gagwe, mme tsone e se medimo?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "a ka dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya gagwe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "mme tsone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:13:27.321074995Z",
+  "model": "glm-5.3"
+}

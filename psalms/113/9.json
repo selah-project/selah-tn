@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 113,
+  "translation": "Yo o baya mosadi wa bosula go nna le bana mo lapeng, mme a nna mma bana yo o itumelelang: Baka leina la Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "yo o bayang go nna"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "mosadi wa bosula"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mo lapeng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mma"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "yo o itumelelang"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Baka leina la"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:19.685017630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ka dinako tsotlhe diaparo tsa gago di nne di le tshweu, mme mafura a se ka a tlhoka mo tlhogong ya gago.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ka dinako tsotlhe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di nne di le"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "diaparo tsa gago"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "tshweu"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tlhogong ya gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "a tlhoka"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:16.381105706Z",
+  "model": "glm-5.3"
+}

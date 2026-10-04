@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ⟨את⟩ Aharone le ⟨את⟩ bana ba gagwe o di beile gore ba tlhokomele ⟨את⟩ bodiredi jwa bona jwa go gereka; mme moeng yo o atamalang o tlaa bolawa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "o di beile"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ba tlhokomele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bodiredi jwa bona"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "bodiredi jwa bona jwa go gereka"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "mme moeng"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yo o atamalang"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tlaa bolawa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:44.023018099Z",
+  "model": "glm-5.3"
+}

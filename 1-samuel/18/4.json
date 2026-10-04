@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Yehonathane a ntsha ⟨את⟩ kobo e a neng a e apere, a e neela Dawide, le diaparo tsa gagwe, go fitlha go tshaka ya gagwe, le go fitlha go uta wa gagwe, le go fitlha go kgetsi ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "mme a ntsha"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e a neng a e apere"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "a e neela"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "le diaparo tsa gagwe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "tshaka ya gagwe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go fitlha go"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "uta wa gagwe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go fitlha go"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "kgetsi ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:03:22.611374839Z",
+  "model": "glm-5.3"
+}

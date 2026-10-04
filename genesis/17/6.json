@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme ke tla go itaya barwa ka sekipa, ke tla go dira go nna setšhaba, mme dikgosi di tla tswa mo go wena.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "ke tla go itaya barwa ka sekipa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "ka sekipa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sekipa"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ke tla go dira"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "go nna setšhaba"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "mme dikgosi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "di tla tswa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:27.193488014Z",
+  "model": "glm-5.3"
+}

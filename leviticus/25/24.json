@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme mo lefatsheng lonkhe la boswa jwa lona, lo tlaa neela kgololoso go lefatshe.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "mo lefatsheng lonkhe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "boswa jwa lona"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "kgololoso"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "lo tlaa neela"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "go lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:09.504755407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Gore ba ba e phuthileng ba tla e ja, mme ba botele ⟨את⟩ Yahwe; mme ba ba e bokantseng ba tla e nwa mo dikhutlong tsa boitshepo jwa me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "ba ba e phuthileng"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ba tla e ja"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "mme ba botele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "mme ba ba e bokantseng"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "ba tla e nwa"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "mo dikhutlong"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "tsa boitshepo jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:03:47.906285008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ba agang Tsiyone ka madi, le Yerushalayime ka molato.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ba agang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ka madi"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le Yerushalayime"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "ka molato"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:52.835364541Z",
+  "model": "glm-5.3"
+}

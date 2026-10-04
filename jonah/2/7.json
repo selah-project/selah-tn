@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 2:7",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ka tsamaya go ya kwa mafikeng a dithaba; lefatshe le na le dikgoro tsa sone go nne mo go nna ka bosikhureng; mme wena o ne wa ntsholosa botshelo jwa me go tswa mo phatleng, Yahwe Elohim wa me.",
+  "tokens": [
+    {
+      "surface": "לקצבי",
+      "gloss": "kwa mafikeng a"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "ka tsamaya go ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ברחיה",
+      "gloss": "dikgoro tsa sone"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosikhureng"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "mme wena o ne wa ntsholosa"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "go tswa mo phatleng"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "botshelo jwa me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:01.533494795Z",
+  "model": "glm-5.3"
+}

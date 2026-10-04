@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Gore Elohim ke kgosi ya lefatshe lonaka; opelang ka botlhale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya lefatshe lonaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "opelang"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ka botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:39.977684834Z",
+  "model": "glm-5.3"
+}

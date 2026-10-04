@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Go moeteledi, ka Shushane-Edute, poema ya gauta ya Dawide, go e rutsa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteledi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushane"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edute"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "poema ya gauta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "go e rutsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:07.143388150Z",
+  "model": "glm-5.3"
+}

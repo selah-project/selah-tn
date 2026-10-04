@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "le podi e le nngwe ya tona ya diphudi, e le sephole sa boleo.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "podi ya tona"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ya diphudi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "e le sephole sa boleo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:46.750787437Z",
+  "model": "glm-5.3"
+}

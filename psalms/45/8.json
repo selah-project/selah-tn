@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "O ratile tsedeke mme wa tlhoya boikepo; ka ntlha ya seo Elohim, Elohim wa gao, o go loteditse ka mafura a itumelelo go feta balekane ba gao.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "o ratile"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "wa tlhoya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "boikepo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "o go loteditse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gao"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "a itumelelo"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "balekane ba gao"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:53.296204903Z",
+  "model": "glm-5.3"
+}

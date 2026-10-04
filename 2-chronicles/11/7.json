@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "le ⟨את⟩ Beite-Tsure, le ⟨את⟩ Sokoe, le ⟨את⟩ Adulame;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Beite-Tsure"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beite-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsure"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Sokoe"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sokoe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Adulame"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulame"
+    }
+  ],
+  "timestamp": "2026-10-04T02:48:39.875609371Z",
+  "model": "glm-5.3"
+}

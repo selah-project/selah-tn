@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Nna, Qohelethe, ke ne ke le kgosi ya Yisraele kwa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelethe"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:38.538870057Z",
+  "model": "glm-5.3"
+}

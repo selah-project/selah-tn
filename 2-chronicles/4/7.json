@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme a dira ⟨את⟩ diulong gauta di le lesome, jaaka molao wa tsone, a di beya mo tempeleng, di le tlhano kwa go la moja le di le tlhano kwa go la molema",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diulong gauta di le lesome"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "diulong"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "di le lesome"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "jaaka molao wa tsone"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a di beya"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "mo tempeleng"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "di le tlhano"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "kwa go la moja"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "le di le tlhano"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "kwa go la molema"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:02.555028637Z",
+  "model": "glm-5.3"
+}

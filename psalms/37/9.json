@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Gore ba ba dirago bosula ba tla bo ba kgobilwe, mme ba ba letetseng Yahwe, ke bone ba tla rua ⟨את⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ba ba dirago bosula"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "ba tla kgobilwe"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "mme ba ba letetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ba tla rua"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:47.002725139Z",
+  "model": "glm-5.3"
+}

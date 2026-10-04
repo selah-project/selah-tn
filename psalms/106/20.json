@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Ba fetola ⟨את⟩ kgalalelo ya bone ba e naya sebopego sa kgamo e e jang peo e e tala.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Ba fetola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgalalelo ya bone"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kgalalelo ya bone"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "sebopego sa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kgamo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "e e jang"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "peo e e tala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:02.885843304Z",
+  "model": "glm-5.3"
+}

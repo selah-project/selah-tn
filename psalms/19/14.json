@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 19:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Gape o seke wa tlogela modiri wa gago mo diphosong tsa boithati; a di seke tsa go busa; fa ke tla nna boitshepo, mme ke tlosiwa letshwenyo mo kgololong e kgolong.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "מזדים",
+      "gloss": "mo diphosong tsa boithati"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "o seke wa tlogela"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a di seke"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "tsa go busa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "אז",
+      "gloss": "fa"
+    },
+    {
+      "surface": "איתם",
+      "gloss": "ke tla nna boitshepo"
+    },
+    {
+      "surface": "ונקיתי",
+      "gloss": "mme ke tlosiwa letshwenyo"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "mo kgololong"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e kgolong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:12.750704474Z",
+  "model": "glm-5.3"
+}

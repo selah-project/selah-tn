@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "lona ba emeng ka ntlha ya ntlo ya Yahwe, ka dikhutlong tsa ntlo ya Elohim ya rona.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "ba emeng"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlha ya ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "ka dikhutlong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim ya rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:40.491837971Z",
+  "model": "glm-5.3"
+}

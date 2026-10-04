@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Seolayang, dikgoro, ditlhago tsa lona; mme seolayang, mabati a bosikheng; mme a tle kgosi ya ⟨the⟩ kgalalelo.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Seolayang"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ditlhago tsa lona"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "mme seolayang"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "mabati"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a bosikheng"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme a tle"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ya kgalalelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:23.445129330Z",
+  "model": "glm-5.3"
+}

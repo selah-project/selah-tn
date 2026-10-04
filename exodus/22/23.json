@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme bogale jwa me bo tuka, mme ke tlaa bolaya ⟨את⟩ lona ka tshaka, mme basadi ba lona ba tla nna basadingwa, le bana ba lona ba tla nna bafsenegi.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "mme bo tuka"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "bogale jwa me"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "mme ke tlaa bolaya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "bolaya lona ka tshaka"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme ba tla nna"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "basadi ba lona"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "basadingwa"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "le bana ba lona"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "bafsenegi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:47.584866292Z",
+  "model": "glm-5.3"
+}

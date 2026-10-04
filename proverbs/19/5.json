@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Motsidi wa maaka ga ⟨o⟩ kitla a lokololwa; mme yo o phutsang maaka ga ⟨a⟩ kitla a tshabela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "motsidi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "wa maaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "a lokololwa"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "mme yo o phutsang"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "a tshabela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:48:49.882554545Z",
+  "model": "glm-5.3"
+}

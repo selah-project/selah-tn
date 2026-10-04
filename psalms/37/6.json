@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme o tla ntsha jaaka lesedi tsedike ya gago, le tshiamiso ya gago jaaka mothagare.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "mme o tla ntsha"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "jaaka lesedi"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedike ya gago"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "le tshiamiso ya gago"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "jaaka mothagare"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:11.650507041Z",
+  "model": "glm-5.3"
+}

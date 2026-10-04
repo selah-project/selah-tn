@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme motho a ikgotlomotsa, le monna a ikhudusa; o se ka wa ba itshwarela.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "Mme ... a ikgotlomotsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "le ... a ikhudusa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wa itshwarela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:11.441773733Z",
+  "model": "glm-5.3"
+}

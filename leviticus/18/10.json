@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Boleswe jwa morwadia morwa wa gago kgotsa wa morwadia morwadi wa gago, o se ke wa senola boleswe jwa yone; gonne boleswe jwa gago ke jone.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "boleswe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "morwadi wa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "wa senola"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "boleswe jwa yone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "boleswe jwa gago"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ke jone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:36.185403686Z",
+  "model": "glm-5.3"
+}

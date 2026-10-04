@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Tlhopha motho yo o tlhakaneng, mme o bone yo o siameng, gonne bokhutlo jwa motho wa kagiso ⟨bo⟩ kagiso.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Tlhopha"
+    },
+    {
+      "surface": "תם",
+      "gloss": "motho yo o tlhakaneng"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mme o bone"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "bokhutlo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "jwa motho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wa kagiso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:27.768393698Z",
+  "model": "glm-5.3"
+}

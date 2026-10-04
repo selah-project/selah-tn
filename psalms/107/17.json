@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Ba ba sa siamang, ka ntlha ya tsela ya bofolo jwa bone, le ka diphoso tsa bone ba a tlhoka thata.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "ba ba sa siamang"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ka ntlha ya tsela ya"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "bofolo jwa bone"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "le ka diphoso tsa bone"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "ba a tlhoka thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:13.099935756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 146,
+  "translation": "Yahwe o bula dipono tsa ba di bonang; Yahwe o tlhamaletsa ba ba khubileng; Yahwe o rata ba a tlhakaneng.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "o bula dipono tsa"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ba di bonang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "o tlhamaletsa"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "ba ba khubileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o rata"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba a tlhakaneng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:19.808508794Z",
+  "model": "glm-5.3"
+}

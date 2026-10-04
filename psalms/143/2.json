@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 143,
+  "translation": "Mme o se ka wa tsena mo katlholong le ⟨את⟩ modiri wa gago, goba go ba ga o yo wa mafoko-fela a tla tswelela ka tsiamo pele ga gago.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Mme o se ka wa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mo katlholong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modiri wa gago"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "goba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "a tla tswelela ka tsiamo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa mafoko-fela"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a tselang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:14.141475938Z",
+  "model": "glm-5.3"
+}

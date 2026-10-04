@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "E se nang sepe ka fa teng, e dirilwe ka maplanka, o tlaa dira ⟨את⟩ yone; jaaka go go bontshitsweng ⟨את⟩ wena kwa thabeng, jalo ba tlaa e dira.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "e se nang sepe ka fa teng"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ka maplanka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tlaa dira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yone (aletare)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "go go bontshitsweng"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwa thabeng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba tlaa e dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:54.069492740Z",
+  "model": "glm-5.3"
+}

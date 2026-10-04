@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Bone ke ba ba neng ba bua le Paroh, kgosi ya Mitsrayime, go ntsha ⟨את⟩ bana ba Yisraele kwa Mitsrayime; ene ke Moshe le Aharone.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Bone"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "ba ba neng ba bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "go ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:40.237211646Z",
+  "model": "glm-5.3"
+}

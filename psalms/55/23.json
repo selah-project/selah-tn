@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Laela se o se tseetsweng go Yahwe, mme yena o tla go tshegetsa; o ka se ka a letlelela ka bosakhutshwane go thubega ga mo lokileng.",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "Laela"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "se o se tseetsweng"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme yena"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "o tla go tshegetsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ka se ka a"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "letlelela"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosakhutshwane"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "go thubega"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mo lokileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:52.425068969Z",
+  "model": "glm-5.3"
+}

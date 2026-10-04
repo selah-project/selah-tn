@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Ba bona ba tsamaya go ja dijo; fa ba sa kgotle, ba nna bosigo.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ba bona"
+    },
+    {
+      "surface": "yaנועון",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go ja dijo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "yaשבעו",
+      "gloss": "ba kgotle"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ba nna bosigo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:58.999932219Z",
+  "model": "glm-5.3"
+}

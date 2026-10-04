@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Le yo o nang le hesede o bontsha hesede; le monna yo o feletseng o bontsha go felela.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "yo o nang le hesede"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "o bontsha hesede"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yo o feletseng"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "o bontsha go felela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:44.593073665Z",
+  "model": "glm-5.3"
+}

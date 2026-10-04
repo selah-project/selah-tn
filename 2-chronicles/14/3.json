@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme a laela Yuda go batla ⟨את⟩ Yahwe, Elohim wa bo-rra-bono, le go dira Torah le taelo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "go Yuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "go batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bo-rra-bono"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "le go dira"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "le taelo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:51:01.646377557Z",
+  "model": "glm-5.3"
+}

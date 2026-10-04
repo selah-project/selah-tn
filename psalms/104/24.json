@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "O Yahwe, dilo tsa gago di le mmalwa jaana! Ka bohlale o di diretsa tsotlhe; lefatshe le tlala diphologolo tsa gago.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "O...jaana"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "di le mmalwa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dilo tsa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ka bohlale"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o di diretsa"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "le tlala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "diphologolo tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:15.965583495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Mitsrayime o ne a itumelela fa ba tsamaya, goboifo jwa bone bo ne bo wa mo go bone.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "o ne a itumelela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "fa ba tsamaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "bo ne bo wa"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "goboifo jwa bone"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:28.950287540Z",
+  "model": "glm-5.3"
+}

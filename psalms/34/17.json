@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Sefathego sa Yahwe se kgatlhanong le ba ba dirang boshula, go ba phimola segopotso sa bone mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "le ba ba dirang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "boshula"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "go ba phimola"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "segopotso sa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:13.042761322Z",
+  "model": "glm-5.3"
+}

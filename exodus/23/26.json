@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Go tlaa se nne molala wa peo, le wa tlhokomethalo, mo lefatsheng la gago; ⟨את⟩ palo ya malatsi a gago ke tlaa e a tlatsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tlaa nna"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "molala wa peo"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "le wa tlhokomethalo"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "mo lefatsheng la gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ya malatsi a gago"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "ke tlaa e tlatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:29.402879092Z",
+  "model": "glm-5.3"
+}

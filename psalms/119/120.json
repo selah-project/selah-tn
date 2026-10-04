@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Nama ya me e ikgaositse ka boitimokanyi jwa gago, mme ke a tshaba dikatlholo tsa gago.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "e ikgaositse"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "ka boitimokanyi jwa gago"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nama ya me"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "dikatlholo tsa gago"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ke a tshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:06.858119962Z",
+  "model": "glm-5.3"
+}

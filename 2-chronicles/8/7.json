@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Batho botlhe ba ba neng ba setse, ba tswa mo BaHetike, le mo Baamorike, le mo Baperizike, le mo Bahifike, le mo Bayebusike, ba ba neng e se ba Yisraele:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "ba ba setileng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "BaHetike"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "le Baamorike"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "le Baperizike"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "le Bahifike"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Bayebusike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e se"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:50:25.578965907Z",
+  "model": "glm-5.3"
+}

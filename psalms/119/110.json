@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ba ba babadi ba ntsheditse tebe ya me, mme go tswa mo melawana ya gago ga ke a fapoga.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ba ntsheditse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba babadi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tebe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya me"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "go tswa mo melawana ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "ke a fapoga"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:23.957821125Z",
+  "model": "glm-5.3"
+}

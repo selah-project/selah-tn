@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme a re: Tsamaya, Daniele, gonne mafoko a tswaletse mme a sautiweng go fitlha nako ya mafelelo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsamaya"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "a tswaletse"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "mme a sautiweng"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ya mafelelo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:25:10.429204531Z",
+  "model": "glm-5.3"
+}

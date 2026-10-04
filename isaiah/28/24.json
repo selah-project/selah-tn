@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "A molemi o jema letsatsi lotlhe fela go jala? A o bula letlakala le go tlhagola mmu wa gagwe ka bonako fela?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "A ... lotlhe fela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "o jema"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "molemi"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "go jala"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "A o bula"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "le go tlhagola"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "mmu wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:46.616961073Z",
+  "model": "glm-5.3"
+}

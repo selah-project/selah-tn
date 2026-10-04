@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "A ngwanyana a ka lebala seipato sa gagwe, kana ngwetsi dikhedithe tsa gagwe? Mme batho ba me ba ntlebale, malatsi a sa ka a balwa.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "A ... a ka lebala"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ngwanyana"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "seipato sa gagwe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ngwetsi"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "dikhedithe tsa gagwe"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "Mme batho ba me"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "ba nt lebala"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ka a balwa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:58.197558712Z",
+  "model": "glm-5.3"
+}

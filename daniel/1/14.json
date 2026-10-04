@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme a ba reetela go lefoko le, a ba leka malatsi a le some.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a ba reetela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go lefoko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "a ba leka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "a le some"
+    }
+  ],
+  "timestamp": "2026-10-04T02:17:50.766267349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme a re: O ka se kgone go bona ⟨את⟩ sefahlego sa me, gonne motho ga a ka ke a mpona a tshela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "o ka kgone"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahlego sa me"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego sa me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "a ka mpona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "mme a bo a tshela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:16.444676200Z",
+  "model": "glm-5.3"
+}

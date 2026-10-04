@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme ga se kitla a nna le tiro Mitsrayime, e e ka e dirang — tlhogo le mosela, lehlaka la mokolane le moselese.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ga se kitla"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a nna le"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e ka e dirang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e dirang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "le mosela"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "lehlaka la mokolane"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "le moselese"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:54.767937366Z",
+  "model": "glm-5.3"
+}

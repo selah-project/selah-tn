@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 118,
+  "translation": "Ba ndikantse jaaka dinotshe; ba timile jaaka molelo wa dithunya; ka leina la Yahwe ruri ke tla ba kgaola.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Ba ndikantse"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "jaaka dinotshe"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "ba timile"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "jaaka molelo"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "wa dithunya"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ke tla ba kgaola"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:26.385302042Z",
+  "model": "glm-5.3"
+}

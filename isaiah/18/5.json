@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ka gonne pele ga phakaso, fa phuthu e setse e phethilwe, mme morara o sa butswa, phuthu e tla nna teng; mme ⟨a⟩ kgaola makala ka diphaka tsa go kgaola, mme ⟨את⟩ ditlhakore a di ntsha, a di thaya fatshe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "phakaso"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "e setse e phethilwe"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "phuthu"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "mme morara o sa butswa"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "go butswa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna teng"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "phuthu"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "mme a kgaola"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "makala"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "ka diphaka tsa go kgaola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhakore"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "ditlhakore"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a di ntsha"
+    },
+    {
+      "surface": "התז",
+      "gloss": "a di thaya fatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:07.680430079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Ditsatsi go feta selemo, lona ba ba tshegang, lo tla tshoganyetsega, gonne sekere se fedile, go boka ga one ga se kitla go tla.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ditsatsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "lo tla tshoganyetsega"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ba ba tshegang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "se fedile"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "sekere"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "go boka"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ga se kitla"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "go tla"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:37.967266401Z",
+  "model": "glm-5.3"
+}

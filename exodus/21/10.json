@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Fa a tsaya yo mongwe, dijo tsa gagwe, diaparo tsa gagwe le bodiragatsi jwa gagwe a se ka a di fokotsa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "yo mongwe"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "dijo tsa gagwe"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "diaparo tsa gagwe"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "le bodiragatsi jwa gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "a di fokotsa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:32.901504932Z",
+  "model": "glm-5.3"
+}

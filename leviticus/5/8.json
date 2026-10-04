@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme a ise ⟨אתם⟩ kwa mopristering, mme a neela ⟨את⟩ se e leng ya nhlapo ya kgotleho ya ntlha, a tlhagola ⟨את⟩ tlhago ya yone go tswa kwa pele ga molala wa yone, a sa e kgaoganye.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Mme a ise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "kwa mopristering"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa mopristering"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopristering"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mme a neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se e leng ya nhlapo ya kgotleho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se e leng"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ya nhlapo ya kgotleho"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "ya ntlha"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "a tlhagola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhago ya yone"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tlhago ya yone"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "go tswa kwa pele ga"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "molala wa yone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "e kgaoganye"
+    }
+  ],
+  "timestamp": "2026-10-04T03:04:11.570050134Z",
+  "model": "glm-5.3"
+}

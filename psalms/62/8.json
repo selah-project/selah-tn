@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Mo Elohim tokoloho ya me le tlhotlhomatso ya me; lefika la maatla a me, botshabelo jwa me ke mo Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "tokoloho ya me"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "le tlhotlhomatso ya me"
+    },
+    {
+      "surface": "צור",
+      "gloss": "lefika"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "la maatla a me"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "botshabelo jwa me"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ke mo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:08.665338235Z",
+  "model": "glm-5.3"
+}

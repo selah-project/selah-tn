@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "le ⟨את⟩ diphio tse pedi, le ⟨את⟩ mafura a a mo go tsone, a a mo dikgetheng, le ⟨את⟩ sephio se se mo sebeteng, mmogo le diphio o di ntsha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diphio tse pedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "diphio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "dikgetheng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sephio"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "sephio se se mo sebeteng"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sebeteng"
+    },
+    {
+      "surface": "על",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "diphio"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "o di ntsha"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:54.171959511Z",
+  "model": "glm-5.3"
+}

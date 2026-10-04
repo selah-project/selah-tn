@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "Tsoga, khalalelo ya me; tsoga, nevele le kinora; ke tla tsoga moso.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Tsoga"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "khalalelo ya me"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "tsoga"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevele"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "le kinora"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ke tla tsoga"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "moso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:40.373737024Z",
+  "model": "glm-5.3"
+}

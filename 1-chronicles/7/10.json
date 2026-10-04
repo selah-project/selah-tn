@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme bana ba Yedíaele: Bilhane; mme bana ba Bilhane: Yeyushe, le Benyamine, le Ekhude, le Kenakhana, le Zetane, le Tarshishe, le Akhishakhare.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mme bana ba"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yedíaele"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhane"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mme bana ba"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhane"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeyushe"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "le Benyamine"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "le Ekhude"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "le Kenakhana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "le Zetane"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "le Tarshishe"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "le Akhishakhare"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:41.219934019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Ke mang ene, kgosi ya bogolo? Yahwe, yo nonofileng ebile yo matla; Yahwe, yo matla mo ntweng.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ene"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ya bogolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "yo nonofileng"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ebile yo matla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "yo matla"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mo ntweng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:09.821329240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Rona botlhe jaaka dinku re ne re laolega; mongwe le mongwe o ne a kgutlela tsela ya gagwe; mme Yahwe o ne a bea mo go ene ⟨את⟩ molato wa rona botlhe.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Rona botlhe"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "jaaka dinku"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "re ne re laolega"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "tsela ya gagwe"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "a kgutlela"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "o ne a bea"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molato"
+    },
+    {
+      "surface": "עון",
+      "gloss": "molato"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "wa rona botlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:02:19.911069442Z",
+  "model": "glm-5.3"
+}

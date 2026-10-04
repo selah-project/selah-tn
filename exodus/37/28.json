@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme a dira ⟨את⟩ matlhodi ka mokgwa wa shitima, mme a a phutha ka gauta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlhodi"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "matlhodi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ka mokgwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wa shitima"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mme a a phutha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "a"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:23.334783408Z",
+  "model": "glm-5.3"
+}

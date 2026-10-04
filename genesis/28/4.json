@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme a go neye wena ⟨את⟩ tshegofatso ya Abrahame, go wena le go peo ya gago ee le gaufi ⟨את⟩ le wena, go ka gapa ⟨את⟩ lefatshe la boagedi jwa gago, leo Elohim a neng a neile Abrahame.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mme a go neye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshegofatso ya Abrahame"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "tshegofatso"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "le go peo ya gago"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "ee le gaufi le wena"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "go ka gapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "la boagedi jwa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahame"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:58.814428174Z",
+  "model": "glm-5.3"
+}

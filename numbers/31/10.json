@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme ⟨את⟩ metse ya bone yotlhe kwa mafelong a bone a bonno, le ⟨את⟩ dikagareng tsotlhe tsa bone, ba e ntsha ka molelo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metse ya bone yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "metse ya bone"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "kwa mafelong a bone a bonno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikagareng tsotlhe tsa bone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "dikagareng tsa bone"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ba e ntsha ka molelo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:17:26.779876428Z",
+  "model": "glm-5.3"
+}

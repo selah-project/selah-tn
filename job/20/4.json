@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "A ga o a itse se go tloga kwa tshimologong, go tloga fa motho a ne a bewa ⟨the⟩ mo lefatsheng?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "a ga o a itse"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go tloga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa tshimologong"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go tloga"
+    },
+    {
+      "surface": "שים",
+      "gloss": "a ne a bewa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:59:40.004010205Z",
+  "model": "glm-5.3"
+}

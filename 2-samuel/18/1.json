@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Dawide a lekanya ⟨את⟩ setshaba se se neng se le ⟨את⟩ le ene, mme a ba tlhoma mo go bone balaodi ba dikete le balaodi ba makgolo.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "a lekanya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le ene ⟨את⟩"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mme a ba tlhoma"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ba dikete"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le balaodi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ba makgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:15:13.171187710Z",
+  "model": "glm-5.3"
+}

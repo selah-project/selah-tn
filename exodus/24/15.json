@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme Moshe a namela go ya kwa thabeng, mme maru a khurumetsa ⟨את⟩ thaba.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a namela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "a khurumetsa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "maru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:56.821680367Z",
+  "model": "glm-5.3"
+}

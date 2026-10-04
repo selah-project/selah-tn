@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme moperesite yo o tla a tloditsweng, le yo seatla sa gagwe se tla a tladitsweng go nna moperesite mo boemong jwa rraagwe, o tla dira boitshwarelo, a apara ⟨את⟩ diaparo tsa linene, diaparo tse di boitshepo.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "mme o tla dira boitshwarelo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "o tla a tlodisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "moperesite"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le yo"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "o tla tladisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "go nna moperesite"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "mme a apara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa linene"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "linene"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tse"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "di boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:54.278775516Z",
+  "model": "glm-5.3"
+}

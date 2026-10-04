@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme Iyobo a tshela morago ga se dingwaga di le lekgolo le masome a mane, mme a bona ⟨את⟩ bana ba gagwe ba banna le ⟨את⟩ bana ba bana ba gagwe ba banna, meloko e mebedi le bobedi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a tshela"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "le masome a mane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba gagwe ba banna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe ba banna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba bana ba gagwe ba banna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe ba banna"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "e nne"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "meloko"
+    }
+  ],
+  "timestamp": "2026-10-04T02:06:22.175604120Z",
+  "model": "glm-5.3"
+}

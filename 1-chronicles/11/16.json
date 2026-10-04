@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Dawide a nna foo go tloga ka nako eo mo setlhoreng, mme masole a Bafalisiti a nna foo go tloga ka nako eo kwa Betleheme.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "mme Dawide"
+    },
+    {
+      "surface": "אז",
+      "gloss": "go tloga ka nako eo"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mo setlhoreng"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "mme masole a"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalisiti"
+    },
+    {
+      "surface": "אז",
+      "gloss": "go tloga ka nako eo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kwa Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leheme"
+    }
+  ],
+  "timestamp": "2026-10-04T02:38:29.020005320Z",
+  "model": "glm-5.3"
+}

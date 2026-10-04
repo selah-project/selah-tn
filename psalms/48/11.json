@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Jaaka leina la gago, Elohim, jalo ke thoriso ya gago, go fitlha kwa melelwaneng ya lefatshe; tsedeke e tlaleditse ⟨את⟩ letsogo la gago la moja.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "jaaka leina la gago"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "thoriso ya gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "go fitlha kwa"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "melelwaneng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tlaleditse"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsogo la gago la moja"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:56.481590639Z",
+  "model": "glm-5.3"
+}

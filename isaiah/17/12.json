@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Maswabi! Seurube sa ditshaba di le dintsi, jaana modumo wa mawatle di a rumola; mme phudugo ya merafe, jaana phudugo ya metsi a maatla di a kgaphetse.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Maswabi!"
+    },
+    {
+      "surface": "המון",
+      "gloss": "Seurube sa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "di le dintsi"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "jaana modumo wa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mawatle"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "di a rumola"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "mme phudugo ya"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "merafe"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "jaana phudugo ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "a maatla"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "di a kgaphetse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:39.719842047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Gonne go bua jalo Yahwe: le ne la rekiwa mahala, mme e seng ka selefera le tla gololwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "le ne la rekiwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e seng"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ka selefera"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "le tla gololwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:45.201178062Z",
+  "model": "glm-5.3"
+}

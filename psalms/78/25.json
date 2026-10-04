@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Senkgwe sa ba ba maatla mongwe le mongwe o ne a ja; a romela dijo go ba kgotsofatsa.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "sa ba ba maatla"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "o ne a ja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "go ba kgotsofatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:48.600528846Z",
+  "model": "glm-5.3"
+}

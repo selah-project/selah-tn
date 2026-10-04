@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Shelomoe a tsamaya morago ga Ashtorete, modimo wa ba-Tsidone, le morago ga Milikome, sesebe sa ba-Amoni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtorete"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "modimo wa"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "ba-Tsidone"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "le morago ga"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milikome"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sesebe sa"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "ba-Amoni"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:51.172986386Z",
+  "model": "glm-5.3"
+}

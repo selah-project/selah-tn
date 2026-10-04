@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Batho ba me — balaodi ba bone ke bana, mme basadi ba ne ba laola. Batho ba me — ba ba go babatsang ba go tlhakatlhakanya, mme tsela ya ditsela tsa gago ba e metse.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Batho ba me"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "balaodi ba bone"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "ke bana"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "mme basadi"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ba ne ba laola"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ba laola"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Batho ba me"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "ba ba go babatsang"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "ba go tlhakatlhakanya"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mme tsela"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ya ditsela tsa gago"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "ba e metse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:00.990335519Z",
+  "model": "glm-5.3"
+}

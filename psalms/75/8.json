@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 75,
+  "translation": "Gore Elohim ke ⟪moatlhodi⟫: ene o a mo tlhasimosa, mme ene o a mo tlhatlosa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ke moatlhodi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ene"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "o a mo tlhasimosa"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "o a mo tlhatlosa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:21.853317002Z",
+  "model": "glm-5.3"
+}

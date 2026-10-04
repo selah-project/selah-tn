@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 18:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme banna bao ba ne ba tlhoka go tswa foo, mme ba ne ba lebelela kwa Sedome; mme Abrahame o ne a tsamaya le bone go ba isa.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ba tlhoka go tswa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna bao"
+    },
+    {
+      "surface": "וישקפו",
+      "gloss": "ba lebelela"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sebapadeng sa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedome"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "mme Abrahame"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "go ba isa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:56.202766596Z",
+  "model": "glm-5.3"
+}

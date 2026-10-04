@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Go utuwa lentswe la go lla ga badisa, gonne botlhaga jwa bone bo sotlegile; go utuwa lentswe la go goga ga ditau tse dinnye, gonne botlhaga jwa Yoridane bo sotlegile.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "la go lla"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "badisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "bo sotlegile"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "botlhaga jwa bone"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "la go goga"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "ditau tse dinnye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "bo sotlegile"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "botlhaga"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoridane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:09:51.369099480Z",
+  "model": "glm-5.3"
+}

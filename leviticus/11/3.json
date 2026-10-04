@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Sengwe le sengwe se se kgaolang pharasa le se se kgaolang pharasa kgotshe, fa e le se se tlisang gerha jwa molomo mo ditshwanong, se ka jela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sengwe le sengwe"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "se se kgaolang"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "pharasa"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "le se se kgaolang kgotshe"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "kgaogano"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "ya pharasa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "se se tlisang"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerha"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mo ditshwanong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "se (sefofu se)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "se ka jela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:21.690719906Z",
+  "model": "glm-5.3"
+}

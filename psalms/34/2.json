@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Ke tlaa rakaletsela ⟨את⟩ Yahwe ka dinako tsotlhe; maatlotlo a gagwe a nne ka metlha mo molomong wa me.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ke tlaa rakaletsela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka tsotlhe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dinako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka metlha"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "maatlotlo a gagwe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mo molomong wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:31.245440994Z",
+  "model": "glm-5.3"
+}

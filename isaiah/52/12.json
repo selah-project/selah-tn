@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Gonne lo se ka wa tshaba, le se ka wa tswa ka tsamaiso; gonne Yahwe o tsamaya pele ga lona, mme Elohim wa Yisraele ke yo o kokoantseng lona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ka wa"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "tshaba"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "tswa"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "ka tsamaiso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ka wa"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "tsamaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "o tsamaya"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "mme ... yo o kokoantseng lona"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T00:00:46.602500846Z",
+  "model": "glm-5.3"
+}

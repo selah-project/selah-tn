@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Gore ba ba go ratang ba bolokegwe; boloka ka letsogo la gago la moja, mme o arabe rona.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "ba bolokegwe"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "ba ba go ratang"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ka letsogo la gago la moja"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "mme o arabe rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:24.148060026Z",
+  "model": "glm-5.3"
+}

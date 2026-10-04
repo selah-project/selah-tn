@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Lote a tsena kwa yone go ya go ba bonedintshi, a tswa kwa lebateng, mme a gotela lebati morago ga gagwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "go ya go bone"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "kwa lebateng"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "mme lebati"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "a gotela"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "morago ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:14.975175069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 49:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Sebethe se se ka se tloga go Yehuda, gape molaula ga o tloge gare ga maoto a gagwe, fela a tsile ⟨Shilo⟩; mme kutumelano ya ditshaba ke ya gagwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "se ka se tloga"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sebethe"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "go Yehuda"
+    },
+    {
+      "surface": "ומחקק",
+      "gloss": "gape molaula"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a gagwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a tsile"
+    },
+    {
+      "surface": "שילה",
+      "gloss": "⟨Shilo⟩"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ke ya gagwe"
+    },
+    {
+      "surface": "יקהת",
+      "gloss": "kutumelano"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya ditshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:31.647428605Z",
+  "model": "glm-5.3"
+}

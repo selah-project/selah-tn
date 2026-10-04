@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme o dira hesede go ya go a le diketekete, go ba ba mo ratang le go ba ba bolokang melawu ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mme o dira"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "go ya go a le diketekete"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "go ba ba mo ratang"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "le go ba ba bolokang"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "melawu ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:03:02.748943218Z",
+  "model": "glm-5.3"
+}

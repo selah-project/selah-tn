@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 17:12",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme bana ba Manase ba ne ba sa kgone go fenya ⟨את⟩ ditoropo tseno; mme Mokanana a ikemisetsa go nna mo lefatsheng leno.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manase"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "go fenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditoropo tseno"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "mme a ikemisetsa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanana"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leno"
+    }
+  ],
+  "timestamp": "2026-10-03T22:41:48.056875241Z",
+  "model": "glm-5.3"
+}

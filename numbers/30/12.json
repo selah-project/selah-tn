@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "mme monna wa gagwe a utlwa, a nna sehlano fa go ene, a sa mo gana, kegone dipeeo tsa gagwe tsotlhe di tla ema, le boikano jotlhe jwa gagwe jo a bo ithekedileng mo moyeng wa gagwe, jwa tla ema.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "mme monna wa gagwe a utlwa"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "monna wa gagwe"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "a nna sehlano"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fa go ene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "gana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "o sa mo gana"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "kegone dipeeo tsa gagwe tsotlhe di tla ema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "dipeeo tsa gagwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le jotlhe"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "boikano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "a bo ithekedileng"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "moyeng wa gagwe"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "jwa tla ema"
+    }
+  ],
+  "timestamp": "2026-10-03T22:17:28.384332685Z",
+  "model": "glm-5.3"
+}

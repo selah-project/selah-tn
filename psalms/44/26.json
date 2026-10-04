@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Gore moya wa rona o tlama ka lerole, mme mala a rona a name ka lefatshe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "o tlama"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ka lerole"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moya wa rona"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "a name"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka lefatshe"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "mala a rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:41.734872480Z",
+  "model": "glm-5.3"
+}

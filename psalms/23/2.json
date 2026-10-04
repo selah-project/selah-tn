@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mo masimong a a tala o ntlhagolela bolao; o ntaisa go bapa le metsi a didiro.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "mo masimong"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "a a tala"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "o ntlhagolela bolao"
+    },
+    {
+      "surface": "על",
+      "gloss": "go bapa le"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "a didiro"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "o ntaisa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:32.567305347Z",
+  "model": "glm-5.3"
+}

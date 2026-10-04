@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Mme dibole tse dinnye di ne tsa ja ⟨את⟩ dibole tshepedi tse di siameng; mme ka bolelela bagaka, mme ga go na yo o neng a ka mpolelela.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "Mme di ne tsa ja"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "dibole"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "tse dinnye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibole tshepedi tse di siameng"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tshepedi"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "dibole"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "tse di siameng"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mme ka bolelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨mo⟩"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "bagaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go na"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "yo o ka mpolelela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:34.805163910Z",
+  "model": "glm-5.3"
+}

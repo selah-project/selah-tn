@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Gore mo go wa gore pelo ya rona e itumele, gore mo leineng la boitshepo jwa gagwe re ikemetse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go wa gore"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "e itumele"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "pelo ya rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mo leineng"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "boitshepo jwa gagwe"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "re ikemetse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:47.602169913Z",
+  "model": "glm-5.3"
+}

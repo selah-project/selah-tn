@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme Shabata ya lefatshe e tla nna dijo tsa lona: dijo tsa gago, le tsa modiredi wa gago, le tsa modiredi wa gago wa mosadi, le tsa mokomi wa gago, le tsa moagi wa gago yo o nang le wena.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "mme e tla nna"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tsa lona"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsa gago"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "le tsa modiredi wa gago"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "le tsa modiredi wa gago wa mosadi"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "le tsa mokomi wa gago"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "le tsa moagi wa gago"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "yo o nang"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:36.009519836Z",
+  "model": "glm-5.3"
+}

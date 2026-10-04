@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Gonne go Kayine go tla a ipusolosetsa garo ga supa; mme go Lemeke garo ga masome a supa le garo ga supa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "garo ga supa"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "go tla a ipusolosetsa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayine"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "mme go Lemeke"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "masome a supa"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "le supa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:30.886857304Z",
+  "model": "glm-5.3"
+}

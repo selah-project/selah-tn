@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "E bile go re bolele Yahwe Elohim wa gago ⟨את⟩ tsela e re tlang re tsamaya ka yona, le ⟨את⟩ lefoko le re tlang re le dira.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a re bolele"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "re tlang re tsamaya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefoko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re tlang re le dira"
+    }
+  ],
+  "timestamp": "2026-10-04T00:25:18.673645629Z",
+  "model": "glm-5.3"
+}

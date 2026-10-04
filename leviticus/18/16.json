@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Serapa sa mosadi wa morwarraagwe wa gago o se ka wa sa senola; serapa sa morwarraagwe wa gago ke seo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wa morwarraagwe wa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "go sa senola"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sa morwarraagwe wa gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke seo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:33.797148699Z",
+  "model": "glm-5.3"
+}

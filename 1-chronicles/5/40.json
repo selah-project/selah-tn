@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "mme Azarjaha a begeta ⟨את⟩ Serayaha, mme Serayaha a begeta ⟨את⟩ Yehotsadake",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "mme Azarjaha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayaha"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayaha"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "mme Serayaha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadake"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadake"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:09.629375149Z",
+  "model": "glm-5.3"
+}

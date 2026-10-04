@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ba mo hlabela ⟨את⟩ mo mabitleng a gagwe mo serameng sa Uza; mme Yosia morwa wa gagwe a nna kgosi mo boalong jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Mme ba mo hlabela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Amonе)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "mo mabitleng a gagwe"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "mo serameng sa"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mme ... a nna kgosi"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mo boalong jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:40:49.479220578Z",
+  "model": "glm-5.3"
+}

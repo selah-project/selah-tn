@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme kgosi ya kwala ⟨את⟩ seboego sa yagwe, mme kgosi ya kua ka modumo o mogolo: morwa ka Avushalome, Avushalome morwa ka, morwa ka!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mme kgosi"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ya kwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seboego sa yagwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "seboego sa yagwe"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "mme ya kua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa ka"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avushalome"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avushalome"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T23:17:29.958799594Z",
+  "model": "glm-5.3"
+}

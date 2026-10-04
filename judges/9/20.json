@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "mme fa go se jalo, a molelo o tse go tswa go Abimeleke, o je ⟨את⟩ baagi ba Shekeme le ⟨את⟩ ntlo ya Milloe; mme a molelo o tse go tswa go baagi ba Shekeme le go ntlong ya Milloe, o je ⟨את⟩ Abimeleke.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se jalo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "a o tse"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "go tswa go Abimeleke"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "o je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baagi ba Shekeme"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "baagi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ba Shekeme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Milloe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "ya Milloe"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "a o tse"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "go tswa go baagi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ba Shekeme"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "le go ntlong"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "ya Milloe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "o je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimeleke"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke"
+    }
+  ],
+  "timestamp": "2026-10-03T22:50:06.484776576Z",
+  "model": "glm-5.3"
+}

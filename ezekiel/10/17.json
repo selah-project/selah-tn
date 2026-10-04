@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Fa ba ema, tsone di ne di ema; fa ba godisiwa, di ne di godisiwa le bone; gonne ruakh ya sephelo e ne e le mo go tsone.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "fa ba ema"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "di ne di ema"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "fa ba godisiwa"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "di ne di godisiwa le bone"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone (maotlwa)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ya sephelo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:34:42.653798774Z",
+  "model": "glm-5.3"
+}

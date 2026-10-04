@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme Yosefe a laela bana ba Yisraele go ikana, a re: Elohim o tla lo etela ka tlhomamo, mme lo tla tlisa godimo ⟨את⟩ marapo a me mo kotsing e.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "a laela go ikana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "go etela"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "o tla lo etela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "mme lo tla tlisa godimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marapo a me"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "marapo a me"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mo kotsing e"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:22.795516345Z",
+  "model": "glm-5.3"
+}

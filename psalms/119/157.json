@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ba ba ntlholang ba le bantsi, le ba ba ntsenyang mathateng, mme ga ke a fapoga go tswa mo bopaking jwa gago.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ba le bantsi"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ba ba ntlholang"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "le ba ba ntsenyang mathateng"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "go tswa mo bopaking jwa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ke a fapoga"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:30.756362522Z",
+  "model": "glm-5.3"
+}

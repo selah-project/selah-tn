@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Thaba ya Elohim — thaba ya Bashane; thaba ya diphatlha — thaba ya Bashane.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ya Bashane"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "ya diphatlha"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ya Bashane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:25.500963479Z",
+  "model": "glm-5.3"
+}

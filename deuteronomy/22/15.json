@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "mme rraagwe mosetsana le mmaagwe ba tla go tsaya mme ba ntsha ⟨את⟩ bosupi jwa bosecularly jwa mosetsana, ba bo isa kwa bagologong ba toropo, kwa kgotleng,",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mme ba tla go tsaya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosetsana"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "le mmaagwe"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "mme ba ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosupi jwa bosecularly jwa mosetsana"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "bosupi jwa bosecularly jwa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosetsana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagologong ba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "kwa kgotleng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:11.269872046Z",
+  "model": "glm-5.3"
+}

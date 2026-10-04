@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Ba gapa molelwane wa Baemori ⟨את⟩ otlhe, go tloga ka Arnone go ya go Yaboke, le go tloga kwa ntlheng e e santse e le bokgakala go ya go Yoretane.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Ba gapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molelwane wa Baemori otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wa Baemori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "go tloga ka Arnone"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yaboke"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le go tloga kwa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "bokgakaleng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoretane"
+    }
+  ],
+  "timestamp": "2026-10-03T22:50:40.709432057Z",
+  "model": "glm-5.3"
+}

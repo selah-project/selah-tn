@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "mme rraagwe mosetsana a re kwa bagologong: ⟨את⟩ morwadike ke ne ke mo neela monna yo go nna mosadi wa gagwe, mme ene o mo tlhoya.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosetsana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bagologong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwadike"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "morwadike"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke ne ke mo neela"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "go monna"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "go nna mosadi"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "mme o mo tlhoya"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:11.270022776Z",
+  "model": "glm-5.3"
+}

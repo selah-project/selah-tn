@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Fa ba senya melawana ya me, mme ga ba boloke ditaelo tsa me:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melawana ya me"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ba senya"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "mme ditaelo tsa me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ba boloke"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:48.663073374Z",
+  "model": "glm-5.3"
+}

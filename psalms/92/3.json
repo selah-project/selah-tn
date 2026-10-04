@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 92,
+  "translation": "go bolela bosigo bo le bongwe moso hesede ya gago, le go tshepa ga gago mo dibosigong.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "le go tshepa ga gago"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "mo dibosigong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:25.083013606Z",
+  "model": "glm-5.3"
+}

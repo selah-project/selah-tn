@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Le go rama mekgwa ya go dira ka gauta, ka selefera le ka khopho.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "go rama"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "mekgwa"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ya go dira"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ka selefera"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ka khopho"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:59.101926117Z",
+  "model": "glm-5.3"
+}

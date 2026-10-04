@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme Yeremia o ne a tsena a bo a ntshiwa gareng ga setshaba, gonne ba ne ba sa mo tsenye mo kgolegelong ya ⟨את⟩ tlhokomelo.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Mme Yeremia"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a bo a ntshiwa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gareng ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gonne ... ga"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba ne ba sa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo tsenye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo kgolegelong"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "ya tlhokomelo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:23:45.092353715Z",
+  "model": "glm-5.3"
+}

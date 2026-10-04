@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Tlosa pego ya gago go tswa kwa go nna; ke timetse ka maatla a seatla sa gago.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Tlosa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "go tswa kwa go nna"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "pego ya gago"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "ka maatla"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "a seatla sa gago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ke timetse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:48.155516940Z",
+  "model": "glm-5.3"
+}

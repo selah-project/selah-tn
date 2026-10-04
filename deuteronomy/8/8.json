@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Lefatshe la korong le la boro, la morara le la maana le la granate; lefatshe la olife ya mafura le la maši a dinotshe.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Lefatshe"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "la korong"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "le la boro"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "la morara"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "le la maana"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "le la granate"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "זית",
+      "gloss": "la olife"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ya mafura"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le la maši a dinotshe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:02.600922377Z",
+  "model": "glm-5.3"
+}

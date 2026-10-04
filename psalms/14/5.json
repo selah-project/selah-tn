@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Go ba teng ba ne ba tshaba tshabo e tshoganetseng, gonne Elohim o mo kokomaneng ya tsedeke.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "go ba teng"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ba ne ba tshaba"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tshabo e tshoganetseng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mo kokomaneng"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:12.131397179Z",
+  "model": "glm-5.3"
+}

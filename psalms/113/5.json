@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 113,
+  "translation": "Ke mang yo o tshwanang le Yahwe, Elohim wa rona, yo o ikweletseng kwa godimo go nna?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "yo o tshwanang le Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "yo o ikweletseng kwa godimo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:58.367307335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Mme se je merogo yotlhe mo lefatsheng la bone, mme se je phepo ya mmu wa bone.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "se je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "merogo"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "mo lefatsheng la bone"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "mme se je"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "phepo"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "mmu wa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:16.429783724Z",
+  "model": "glm-5.3"
+}

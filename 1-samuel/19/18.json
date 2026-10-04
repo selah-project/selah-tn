@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 19:18",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Dawide a tshaba, a tlhopolola, a tsena kwa go Shemue kwa Ramat; a mo bolelela ⟨את⟩ sotlhe se Shaole a neng a se dira mo go ene. Mme ene le Shemue ba tsamaea, ba nna kwa Naiote.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Mme Dawide"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "a tshaba"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "a tlhopolola"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemue"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "kwa Ramat"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a bolelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaole"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ba tsamaea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "le Shemue"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "kwa Naiote"
+    }
+  ],
+  "timestamp": "2026-10-03T23:03:15.707259456Z",
+  "model": "glm-5.3"
+}

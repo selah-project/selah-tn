@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Yahwe a bua le Sathane: O tla kae? Sathane a araba ⟨את⟩ Yahwe, a re: Go tswa go tsamaya le go boa mo lefatsheng, le go etaleta mo go sone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sathane"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kae"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sathane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "go tsamaya le go boa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "le go etaleta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go sone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:53:41.925053789Z",
+  "model": "glm-5.3"
+}

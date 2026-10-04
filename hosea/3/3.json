@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ka re go ene: Malatsi a mantsi o nne go nna, ga o adule, mme ga o nne wa monna yo mongwe; mme le nna go wena.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "o nne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "o adule"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "o nne"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "wa monna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:39.245778983Z",
+  "model": "glm-5.3"
+}

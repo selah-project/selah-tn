@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Khanune a tseela ⟨את⟩ bakgopi ba Dawide, a ba nesa halofo ya diphologolo tsa ditlhare — a ba nesa halofo ya mekgwa ya bone go fitlha kwa seatleng sa bone; a ba romela.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tseela"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Khanune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakgopi ba Dawide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bakgopi ba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "a ba nesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halofo ya dikego"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "halofo ya"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "dikego tsa bone"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "a sega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa bone"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "diaparo tsa bone"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ka halofo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha kwa"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "seatleng sa bone"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "a ba romela"
+    }
+  ],
+  "timestamp": "2026-10-03T23:11:10.332351694Z",
+  "model": "glm-5.3"
+}

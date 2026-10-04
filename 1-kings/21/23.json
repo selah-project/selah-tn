@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme gape ka ga Izebele, Yahwe o buile a re: Dintsha di tlaa ja ⟨את⟩ Izebele mo mocheng wa Yizreele.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ka ga Izebele"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dintsha"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tlaa ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebele"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebele"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "mo mocheng"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "wa Yizreele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:27.291582992Z",
+  "model": "glm-5.3"
+}

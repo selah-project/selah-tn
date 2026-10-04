@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme le lona ⟨את⟩ go nne le monna, yo mongwe le yo mongwe, wa setlhopa; monna yo e leng tlhago ya ntlo ya bo-rreagae.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "le lona ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "go nne le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wa setlhopa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhago"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ya bo-rreagae"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:02.141163706Z",
+  "model": "glm-5.3"
+}

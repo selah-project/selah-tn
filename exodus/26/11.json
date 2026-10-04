@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "O tlaa dira dikgofo tsa tshipi di le masome a matlhano, o bo o tsenya ⟨את⟩ dikgofo mo dilohe, mme o kopanye ⟨את⟩ tenthle, e nne e le nngwe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o tlaa dira"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "dikgofo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tsa tshipi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "di le masome a matlhano"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "o bo o tsenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgofo"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "dikgofo"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "mo dilohe"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "mme o kopanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenthle"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tenthle"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e nne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:51.118019633Z",
+  "model": "glm-5.3"
+}

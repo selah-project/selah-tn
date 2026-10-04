@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "O tlaa tsheka karolo ya leshome la ditlhu tsa lona, mme lona lo tlaa nna makgoba a gagwe.",
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "ditlhu tsa lona"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "o tlaa tsheka karolo ya leshome la"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "lo tlaa nna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a gagwe"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "makgoba"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:25.876634050Z",
+  "model": "glm-5.3"
+}

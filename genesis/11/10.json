@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Bano ke ditlogolwana tsa Seme: Seme a nna dingwaga di le lekgolo, a belega ⟨את⟩ Arfakshade, dingwaga di le pedi morago ga molapo o mogolo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bano"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ditlogolwana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Seme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Seme"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arfakshade"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arfakshade"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dingwaga di le pedi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "molapo o mogolo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:28.937776876Z",
+  "model": "glm-5.3"
+}

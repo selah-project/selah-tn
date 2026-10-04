@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "E le fela: tsogang kobo go Yahwe, mme le ⟨את⟩ mo dire ka boikanyego ka dipelo tsa lona tsoothati; gonne le bone se a se dirileng se segolo mmogo le lona.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "e le fela"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "tsogang kobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "mme le mo dire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ka boikanyego"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... tsoothati"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "dipelo tsa lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se a se dirileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "a se dirileng se segolo"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mmogo le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:14.613537803Z",
+  "model": "glm-5.3"
+}

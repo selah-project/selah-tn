@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ke tla go tlhasela ka ⟨את⟩ seatla sa me, mme ke o betse ⟨את⟩ Mitsrayime ka diphodiso tsa me tsotlhe tse ke tlang go di dira mo go yone; mme morago ga moo o tla lo tlhoma ⟨את⟩ lena.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mme ke tla go tlhasela ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa me"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa me"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "mme ke o betse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka tsotlhe"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "diphodiso tsa me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tlang go di dira"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mme morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "o tla lo tlhoma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lena"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:40.070410946Z",
+  "model": "glm-5.3"
+}

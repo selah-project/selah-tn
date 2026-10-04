@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 16:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme Yahwe a bua go Shemuelea: O se ka wa lebelela sebono sa gagwe, le bokete jwa boleele jwa gagwe, gonne ke a mo gana; gonne se motho a se bonang ga se se Yahwe a se bonang, gonne motho o bona ka matlho, mme Yahwe o bona ka pelo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuelea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תבט",
+      "gloss": "lebelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "sebono sa gagwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "bokete jwa"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "boleele jwa gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מאסתיהו",
+      "gloss": "ke a mo gana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o bona"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ka matlho"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o bona"
+    },
+    {
+      "surface": "ללבב",
+      "gloss": "ka pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:00:49.426732054Z",
+  "model": "glm-5.3"
+}

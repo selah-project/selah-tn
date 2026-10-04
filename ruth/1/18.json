@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme fa a bona gore o ikemiseditse ⟨yena⟩ go tsamaya ⟨את⟩ le ene, a kgaotsa go bua le ene.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "o ikemiseditse"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yena⟩"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "le ene"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "a kgaotsa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "le ene"
+    }
+  ],
+  "timestamp": "2026-10-04T02:09:30.773876215Z",
+  "model": "glm-5.3"
+}

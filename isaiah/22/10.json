@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme malapa a Yerushalayime ⟨את⟩ la a balakanya, mme la thubaganya malapa go nonotsha lerako.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malapa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "la a balakanya"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "la thubaganya"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "go nonotsha"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "lerako"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:57.249965863Z",
+  "model": "glm-5.3"
+}

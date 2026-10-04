@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme a tlhoya ⟨את⟩ Yisraele, mme Yehonathane morwa Shimea, kgaitsadio ya ga Dawide, a mo beta.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "a tlhoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "a mo beta"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kgaitsadio ya ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T23:15:34.007865857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Yahwe a bua le Abrahame, a re: Tlogela, tswa mo nageng ya gago, le mo losikeng lwa gago, le mo tlung ya rraago, o ye kwa nagweng e ke tla go e bontshang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tlogela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tswa"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "mo nageng ya gago"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "le mo losikeng lwa gago"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "le mo tlung"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya rraago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagweng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ke tla go e bontshang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:51.509893684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme se e tla nna ⟨seela⟩ go tswa ⟨את⟩ kwa go Yahwe, gore Yahwe o tla dira ⟨את⟩ lentsoe le a buileng.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Mme se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "האות",
+      "gloss": "seela"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tswa ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla dira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentsoe le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a buileng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    }
+  ],
+  "timestamp": "2026-10-03T23:55:44.576819463Z",
+  "model": "glm-5.3"
+}

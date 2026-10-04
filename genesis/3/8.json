@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ba utlwa ⟨את⟩ modumo wa lentsoe la Yahwe Elohim o tsamayang mo sefalaneng ka ruakh ya letsatsi; mme motho le mosadi wa gagwe ba ipatla go tswa kwa pele ga Yahwe Elohim, gare ga ditlhare tsa sefala.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "mme ba utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo wa lentsoe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo wa lentsoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "o tsamayang"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "mo sefalaneng"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya letsatsi"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "mme ba ipatla"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "le mosadi wa gagwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "go tswa kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ditlhare"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "tsa sefala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:09.801574934Z",
+  "model": "glm-5.3"
+}

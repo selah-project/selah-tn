@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Ga go rona, Yahwe, ga go rona, mme go leina la gago o neye seriti, ka hesede ya gago, ka boammaaruri ja gago.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "go leina la gago"
+    },
+    {
+      "surface": "תן",
+      "gloss": "o neye"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "seriti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "boammaaruri ja gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:19.742031147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "A ba neele dikgosi tsa bone mo diatleng tsa gago, mme o fedise ⟨את⟩ maina a bona kafa tlase ga magodimo; ga go motho o o tla kgonegang go ema pele ga gago, go fitlha o ba fedisa ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "a ba neele"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dikgosi tsa bona"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mo diatleng tsa gago"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "mme o fedise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maina a bona"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "maina a bona"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kafa tlase ga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "o tla kgonegang go ema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "o ba fedisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:11.880929057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mang kgotsa mang yo o bolayang motho, ka molomo wa bopaki ⟨הרצח⟩ ⟨את⟩ mmoladi o tla bolawa; mme paki a le mongwe a se ka a arabella ka nofo go swa ka loso.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mang kgotsa mang"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "yo o bolayang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo wa"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "o tla bolawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmoladi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "mmoladi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme paki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "a arabella"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ka nofo"
+    },
+    {
+      "surface": "למות",
+      "gloss": "go swa ka loso"
+    }
+  ],
+  "timestamp": "2026-10-03T22:19:49.195334549Z",
+  "model": "glm-5.3"
+}

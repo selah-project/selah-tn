@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Farao a bitsa Moshe le Aharone, mme a re: Tsamayang, bolayang diphoofolo jaaka mpho go Elohim ya lona mo nageng.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Tsamayang"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "bolayang diphoofolo jaaka mpho"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "go Elohim ya lona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo nageng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:25.893888124Z",
+  "model": "glm-5.3"
+}

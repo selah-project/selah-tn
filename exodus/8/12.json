@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Yahwe a bua le Moshe: Bolelela Aharone: Olola ⟨את⟩ motshe wa gago, o tlhabe ⟨את⟩ lerole la lefatshe, mme se tla nna dinthsi mo lefatsheng lonngwe la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Bolelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Olola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motshe wa gago"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "motshe wa gago"
+    },
+    {
+      "surface": "והך",
+      "gloss": "o tlhabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerole"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la lefatshe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme se tla nna"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "dinthsi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo lefatsheng lonngwe la"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mo lefatsheng lonngwe la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:24.060914104Z",
+  "model": "glm-5.3"
+}

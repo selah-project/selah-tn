@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mokgwa wa Yahwe o tla ema go ya ile le ile; merero ya pelo ya gagwe go dikokomana le dikokomana.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "mokgwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya ile le ile"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "o tla ema"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "merero"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "go dikokomana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le dikokomana"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:56.913081718Z",
+  "model": "glm-5.3"
+}

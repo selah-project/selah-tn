@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Adonai, dithakanelo tsotlhe tsa me di fa pele ga gago; mme go hema ga me ka botlhoko ga go a patikiwa go tswa go wena.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "fa pele ga gago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "dithakanelo tsa me"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "mme go hema ga me ka botlhoko"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go tswa go wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go a"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "patikiwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:53.504860156Z",
+  "model": "glm-5.3"
+}

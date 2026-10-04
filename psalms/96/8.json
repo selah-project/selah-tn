@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 96,
+  "translation": "Eeletsang go Yahwe tlhompho ya leina la gagwe; tsosang minkha, mme lo tsene dikhutlho tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Eeletsang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tlhompho"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ya leina la gagwe"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "tsosang"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mme lo tsene"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "dikhutlho tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:52.753911775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ bapatrusime, le ⟨את⟩ bakasluchime, ba mo go baone ba neng ba tswa foo bapalisitime, le ⟨את⟩ bakaphtorime.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bapatrusime"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "bapatrusime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bakasluchime"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "bakasluchime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba neng ba tswa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bapalisitime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bakaphtorime"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "bakaphtorime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:35:02.778215522Z",
+  "model": "glm-5.3"
+}

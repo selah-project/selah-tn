@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Jalo mo dinakong tseno ke boeledile maikaelelo a me — go dira molemo go ⟨את⟩ Yerushalayime le ⟨את⟩ ntlo ya Yehuda; se ke wa tshaba.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ke boeledile"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "maikaelelo a me"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mo dinakong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "go dira molemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "wa tshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:09:16.432302715Z",
+  "model": "glm-5.3"
+}

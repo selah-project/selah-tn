@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Boikarabelo jwa sekgowa sa toropokgolwane ya pono. Go go tlwaeletseng gone jang, gonne o tlhatlogile o le nosi gotlhe kwa dithabeng tsa matlwale?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Boikarabelo"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "sekgowa"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ya pono"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Go go tlwaeletseng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gone jang"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "o tlhatlogile"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "o le nosi gotlhe"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "kwa matlwale"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:31.239966436Z",
+  "model": "glm-5.3"
+}

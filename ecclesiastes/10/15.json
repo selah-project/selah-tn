@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Letlhogo la basweledi bo le fisa, ka gonne ga ba itse go ya kwa toropong.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "letlhogo"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "la basweledi"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "bo le fisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ba itse"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropong"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:07.129006365Z",
+  "model": "glm-5.3"
+}

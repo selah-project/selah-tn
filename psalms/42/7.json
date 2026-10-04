@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Elohim ya me, moya wa me o a ineela mo go nna; ka ntlha ya seo ke a go gakologelwa, go tswa mo lefatsheng la Yardene, le dithaba tsa Heremone, go tswa thabeng ya Mitsara.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya me"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "o a ineela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ke a go gakologelwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tswa mo lefatsheng"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "la Yardene"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "le dithaba tsa Heremone"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "go tswa thabeng"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "ya Mitsara"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:51.452008367Z",
+  "model": "glm-5.3"
+}

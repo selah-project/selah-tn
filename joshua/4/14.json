@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 4:14",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ka letsatsi leo Yahwe o ne a godisa ⟨את⟩ Yehoshua mo dithong tsa setshaba sa Yisraele sotlhe; mme ba ne ba mo tshaba, jaaka ba ne ba tshaba ⟨את⟩ Moshe, malatsi botlhe a botshelo jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "o ne a godisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo dithong tsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setshaba sa Yisraele sotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "mme ba ne ba tshaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba ne ba tshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "a botshelo jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:35:08.632538591Z",
+  "model": "glm-5.3"
+}

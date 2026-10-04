@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme letsatsi la mo tlhatlhoba fa a ne a feta ⟨את⟩ Penuwele, mme a tsamaya a loleme ka leng la gagwe la mokotla.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "la mo tlhatlhoba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuwele"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuwele"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "a loleme"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "leng la gagwe la mokotla"
+    }
+  ],
+  "timestamp": "2026-10-03T21:24:18.136661553Z",
+  "model": "glm-5.3"
+}

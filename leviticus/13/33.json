@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme a ipololwe, fela ⟨את⟩ seetse a sa se ralole; mme moperesita a tswalele ⟨את⟩ seetse malatsi a supa ka bobedi.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "a ipololwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seetse"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "seetse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "se ralole"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "a tswalele"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seetse"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "seetse"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ka bobedi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:38.874524579Z",
+  "model": "glm-5.3"
+}

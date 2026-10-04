@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mme ba tlala go tswa kwa Mitsrayime, ba tsena lefatshe la Kenane, go ya go Yaakobo rraabone.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ba tlala go tswa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "rraabone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:31:42.333799921Z",
+  "model": "glm-5.3"
+}

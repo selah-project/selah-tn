@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Morwa wa me, boloka mafoko a me, mme melao ya me o e tshegetse ⟨את⟩ le wena.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Morwa wa me"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mafoko a me"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "mme melao ya me"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "o e tshegetse"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:03.167082492Z",
+  "model": "glm-5.3"
+}

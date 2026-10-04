@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 35:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Tau ga e kitla go nna foo, le phologolo e e bolayang e ka se tlalogele mo go yona; e ka se bonwe foo; mme ba gololweng ba tla tsamaya foo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ופריץ",
+      "gloss": "le e e bolayang"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ka tsela nngwe le nngwe ga"
+    },
+    {
+      "surface": "יעלנה",
+      "gloss": "e tla tlalogela mo go yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "e bonwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "mme ba tla tsamaya"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "ba gololweng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:55:14.304053173Z",
+  "model": "glm-5.3"
+}

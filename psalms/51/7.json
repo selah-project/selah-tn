@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Bonwe, ka boshula ke tlhobilwe, mme ka molato mma me o mpolokile.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "ka boshula"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ke tlhobilwe"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "mme ka molato"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "o mpolokile"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mma me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:19.176990833Z",
+  "model": "glm-5.3"
+}

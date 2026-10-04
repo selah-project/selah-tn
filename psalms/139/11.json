@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Mme ke re: ruri lefifi le tla nkhunola; mme bosigo bo tla nlaeditsa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mme ke re"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "le tla nkhunola"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mme bosigo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "bo tla nlaeditsa"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "ka go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:36.536636058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme go ne go le ka letsatsi la boraro, letsatsi la botsalo jwa ⟨את⟩ Farao, mme a dira mokete wa badiri ba gagwe botlhe; mme a tlhola ⟨את⟩ tlhogo ya mogogi wa dino le ⟨את⟩ tlhogo ya mooki-mogolo mo gare ga badiri ba gagwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go le"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "la boraro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "la botsalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "jwa Farao"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mokete"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "badiri ba gagwe"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "mme a tlhola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhogo ya mogogi wa dino"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ya mogogi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa dino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tlhogo ya mooki-mogolo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ya mooki-mogolo"
+    },
+    {
+      "surface": "האפים",
+      "gloss": ""
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gare"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "badiri ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:47.904052731Z",
+  "model": "glm-5.3"
+}

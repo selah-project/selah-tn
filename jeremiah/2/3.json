@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Yisraele ⟨e⟩ e boitshepo go Yahwe, dipoelo tsa ntlha tsa pōōo ya gagwe; ba ba e jang botlhe ba tlaa dira molato, bosula bo tlaa ba tsena, go bua Yahwe.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "e boitshepo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "tsa ntlha tsa"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dipoelo tsa pōōo ya gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "ba ba e jang"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ba tlaa dira molato"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "bo tlaa tsena"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:06:29.076707818Z",
+  "model": "glm-5.3"
+}

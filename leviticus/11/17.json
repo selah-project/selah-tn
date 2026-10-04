@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "le ⟨את⟩ khokhole le ⟨את⟩ shalekhe le ⟨את⟩ yanshiphu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "khokhole"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "khokhole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "shalekhe"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalekhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "yanshiphu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshiphu"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:22.833262408Z",
+  "model": "glm-5.3"
+}

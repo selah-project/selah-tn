@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Yahwe, Elohim ya bo-rre ba lona, a lo oketse jaaka e le lekgolo la diperesente jaaka lo ntse jaanong, khete e le sekete makgetlo a dikete tse sekete, mme a lo matlakolatswe jaaka a lo buile leng.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "bo-rre ba lona"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "a lo oketse"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "jaaka lo ntse"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete makgetlo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "makgetlo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mme a lo matlakolatswe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona",
+      "marks": "le lona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:02.282971316Z",
+  "model": "glm-5.3"
+}

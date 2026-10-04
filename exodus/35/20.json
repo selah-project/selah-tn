@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme setlhopha sotlhe sa bana ba Yisraele sa tswa mo go Moshe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "mme ... sa tswa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "setlhopha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:43.489533426Z",
+  "model": "glm-5.3"
+}

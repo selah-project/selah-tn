@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Le bana ba motho le bana ba monna, mmogo mohumi le mo necesitwane.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mohumi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le mo necesitwane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:19.982705228Z",
+  "model": "glm-5.3"
+}

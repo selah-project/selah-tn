@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Boitumelo jwa motho yo Yahwe a sa mo balang bongola, mme mo ruakhiing ya gagwe ga go boferefere.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "a bala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bongola"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "mo ruakhiing ya gagwe"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "boferefere"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:01.144548748Z",
+  "model": "glm-5.3"
+}

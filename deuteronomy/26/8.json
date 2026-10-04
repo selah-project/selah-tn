@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme Yahwe a re ntsha kwa Mitsrayime ka seatla se se nonnileng, le ka letlhogo le le ollotsweng, le ka letshogo le legolo, le ka disupiso, le le ditekelo.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "a re ntsha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "se se nonnileng"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "le ka letlhogo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "le le ollotsweng"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "le ka letshogo"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "le ka disupiso"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "le le ditekelo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:52.947886067Z",
+  "model": "glm-5.3"
+}

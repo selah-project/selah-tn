@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme nna, ka mabedi a hesede ya gago, ke tla tsena mo ntlong ya gago; ke tla ikunyatsa kwa tempoleng ya gago e e boitshepo, mo go tshabeng gago.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka mabedi a"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ke tla tsena"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mo ntlong ya gago"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ke tla ikunyatsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempoleng"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "e e boitshepo ya gago"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "mo go tshabeng gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:21.034831700Z",
+  "model": "glm-5.3"
+}

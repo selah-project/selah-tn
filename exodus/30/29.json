@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme o tlodise ⟨את⟩ dilo tseo, di nne boitshepo jwa boitshepo; yo mongwe le yo mongwe yo o di golang o tlaa itshepa.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "o tlodise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tseo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "di nne"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "jwa boitshepo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yo o di golang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di"
+    },
+    {
+      "surface": "יקדדש",
+      "gloss": "o tlaa itshepa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:02.916085732Z",
+  "model": "glm-5.3"
+}

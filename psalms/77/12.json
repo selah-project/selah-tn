@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Ke tla gopola ditiro tsa Yah; gonne ke tla gopola dipelaelo tsa gago tsa bogologolo.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ke tla gopola"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ditiro tsa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ke tla gopola"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "tsa bogologolo"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "dipelaelo tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:04.676900226Z",
+  "model": "glm-5.3"
+}

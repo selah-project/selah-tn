@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme ke, ke tlolopa ⟨את⟩ lefatshe, mme ba ba mo tlhoyang ba ba nnang mo go lona ba tla ikakgakgamatsa ka lona.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "mme ke tla tlolopa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ba tla ikakgakgamatsa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ba ba nnang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:43.528836199Z",
+  "model": "glm-5.3"
+}

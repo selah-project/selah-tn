@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme ba kgaoganya ⟨את⟩ lefatshe go e ralala; Ahaba a tsamaya ka tsela e le nngwe a le nosi, mme Obadaya a tsamaya ka tsela e le nngwe a le nosi.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "ba kgaoganya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "go e ralala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "a le nosi"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "mme Obadaya"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "لבדו",
+      "gloss": "a le nosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:51.006679050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme e ne ya nna, fa Yisraele yotlhe e utlwa gore Yeroboame o boetse, ba mo romela ba bitsa ⟨אתו⟩ kwa phuthegong, mme ba mo dira kgosi ya Yisraele yotlhe; ga go na ope yo o neng a salwa morago ke ntlo ya Dawide, kwa ntle fela le kgaolo ya Yuda e le nosi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e ne ya nna"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "fa e utlwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שב",
+      "gloss": "o boetse"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboame"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ba mo romela"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ba bitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "gaga (Yeroboame)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "phuthegong"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "mme ba mo dira kgosi ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go na ope"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o neng"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a salwa morago ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "kwa ntle fela le"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kgaolo ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "e le nosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:34.320579147Z",
+  "model": "glm-5.3"
+}

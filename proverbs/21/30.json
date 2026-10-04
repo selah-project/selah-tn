@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Ga go bothale, le ga go tlhaloganyo, le ga go pholiso kgatlhanong le Yahwe.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bothale"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "le ga go"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "tlhaloganyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "le ga go"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "pholiso"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:49:01.793172742Z",
+  "model": "glm-5.3"
+}

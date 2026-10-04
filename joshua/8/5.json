@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme nna, le setshaba sotlhe se se nang ⟨את⟩ le nna, re tla atamela kwa toropong; mme go tla nna jalo fa ba tswa ba tla go re kopana le rona, jaaka ka nako ya ntlha, re tla bapa fa pele ga bone.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "re tla atamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme go tla nna jalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba tswa"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ba tla go re kopana le rona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ka nako ya ntlha"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "re tla bapa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fa pele ga bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:37:45.931434897Z",
+  "model": "glm-5.3"
+}

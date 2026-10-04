@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "le ⟨את⟩ altare ya kgafela le ⟨את⟩ misele ya yone, le ⟨את⟩ mafura a go tshepisa le ⟨את⟩ kgafela ya dintlha tse monate, le ⟨את⟩ sekgarama sa lebati, fa go lebati la Mishkane;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "altare ya kgafela"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ya kgafela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "misele ya yone"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "misele ya yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a go tshepisa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a go tshepisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "kgafela ya dintlha tse monate"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kgafela"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya dintlha tse monate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekgarama sa lebati"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "sekgarama"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "sa lebati"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "fa go lebati la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:50.678935887Z",
+  "model": "glm-5.3"
+}

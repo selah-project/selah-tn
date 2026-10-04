@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ Kheve, le ⟨את⟩ Areke, le ⟨את⟩ Sine;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kheve"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Kheve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Areke"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Areke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Sine"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sine"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:59.177741518Z",
+  "model": "glm-5.3"
+}

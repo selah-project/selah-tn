@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "O se ka wa tshoga, gonne ke na ⟨את⟩ le wena; go tswa kwa botlhabatsatsing ke tla isa peo ya gago, mme go tswa kwa bophirima ke tla go phutha.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ka wa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tshoga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "go tswa kwa botlhabatsatsing"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ke tla isa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya gago"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "mme go tswa kwa bophirima"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ke tla go phutha"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:17.792324257Z",
+  "model": "glm-5.3"
+}

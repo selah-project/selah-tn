@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 10:7",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ba fetsa lentswe go ralala ya Yuda le Yerushalayime, go bana botlhe ba botlhakoreng, gore ba phuthane kwa Yerushalayime;",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "ba fetsa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "go ralala ya Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le Yerushalayime"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go bana botlhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "botlhakoreng"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "gore ba phuthane"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kwa Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:28:19.037950103Z",
+  "model": "glm-5.3"
+}

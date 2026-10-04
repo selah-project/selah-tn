@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ka gonne ga e a ka ya tswala dikgoro tsa mpa ya me, e sego ya fitlhelela bothoko mo matlhong a me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga e a ka ya"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "tswala"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mpa ya me"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "e sego ya fitlhelela"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bothoko"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mo matlhong a me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:47.991643840Z",
+  "model": "glm-5.3"
+}

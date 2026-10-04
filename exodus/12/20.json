@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Sengwe le sengwe se se bollang ga se ka wa se ja; mo malapeng a lona jotlhe lo tla ja senkgwe se se sa bollang.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "se se bollang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "se ka wa se ja"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo malapeng a lona jotlhe"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "mo malapeng a lona"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "lo tla ja"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "senkgwe se se sa bollang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:39.372616860Z",
+  "model": "glm-5.3"
+}

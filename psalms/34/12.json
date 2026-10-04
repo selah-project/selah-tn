@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Tlang, bana, reetsang nna; go ikatsa ga Yahwe ke tla le ruta.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "reetsang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "go ikatsa ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ke tla le ruta"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:52.286744485Z",
+  "model": "glm-5.3"
+}

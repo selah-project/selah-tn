@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 13:15",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme banna ba Yahuda ba thuntsha kua; mme fa banna ba Yahuda ba thuntsha kua, Elohim a fetsa ⟨את⟩ Yeroboame le Yisraele ka bophara fa pele ga Abija le Yahuda.",
+  "tokens": [
+    {
+      "surface": "ויריעו",
+      "gloss": "ba thuntsha kua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yahuda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne"
+    },
+    {
+      "surface": "בהריע",
+      "gloss": "fa ba thuntsha kua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yahuda"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "a fetsa ka bophara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroboame"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboame"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele ka bophara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abija"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le Yahuda"
+    }
+  ],
+  "timestamp": "2026-10-04T02:51:09.494930359Z",
+  "model": "glm-5.3"
+}

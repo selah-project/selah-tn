@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme a otla ba ba tswetsweng pele botlhe kwa Mitsrayime; ba ba neng ba le mathomo a maatla mo matenton a Khame.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mme a otla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ba ba tswetsweng pele"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ba ba neng ba le mathomo"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "a maatla"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "mo matenton"
+    },
+    {
+      "surface": "חם",
+      "gloss": "a Khame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:28.583438208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Ka ntlha ya se, kgosi Darayoshe o saenetse mangwalo le taolo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ka ntlha ya"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ntlha ya"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darayoshe"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "o saenetse"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "mangwalo"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "le taolo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:22:37.977510559Z",
+  "model": "glm-5.3"
+}

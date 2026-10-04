@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme bongwana jwa ntlha fela, jo bo tsewang jaaka jwa ntlha go Yahwe mo phogofong, ga go motho yo o ka bo itshepisang: e seng e le tshwere, e seng e le kwanyana — jwa Yahwe ke jone.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "mme fela"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bongwana jwa ntlha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "bo tsewang jaaka jwa ntlha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mo phogofong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "ka bo itshepisang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jwa ntlha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e seng e le"
+    },
+    {
+      "surface": "שור",
+      "gloss": "tshwere"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e seng e le"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "jwa Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke jone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:13.140102591Z",
+  "model": "glm-5.3"
+}

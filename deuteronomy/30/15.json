@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Bona, ke beile fa pele ga gago gompieno ⟨את⟩ botshelo le ⟨את⟩ se siameng, le ⟨את⟩ loso le ⟨את⟩ bosula.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke beile"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fa pele ga gago"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshelo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "se siameng"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "se siameng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "loso"
+    },
+    {
+      "surface": "המות",
+      "gloss": "loso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bosula"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bosula"
+    }
+  ],
+  "timestamp": "2026-10-03T22:32:08.496494903Z",
+  "model": "glm-5.3"
+}

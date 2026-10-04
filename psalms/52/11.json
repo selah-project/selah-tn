@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Ke tla go leboga ka bosakhutshweng, gonne o dirile se; mme ke tla leta leina la gago, gonne le siame fa pele ga batho ba ba ineetseng ba gago.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ke tla go leboga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosakhutshweng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "mme ke tla leta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le siame"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "batho ba ba ineetseng ba gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:18.057482447Z",
+  "model": "glm-5.3"
+}

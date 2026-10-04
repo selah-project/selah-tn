@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme o ne a na le basadi ba babedi: leina la wa ntlha e ne e le Khana, mme leina la wa bobedi e ne e le Penina; mme Penina o ne a na le bana, mme Khana ga a na bana.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "mme o ne a na le"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina la"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wa ntlha"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme leina la"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o ne a na le"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "mme Khana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga a na"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-03T22:55:43.524487553Z",
+  "model": "glm-5.3"
+}

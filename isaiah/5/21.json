@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 5:21",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Hoi! ba ba tlhale mo ditsong tsa bone, mme ba ba tlhalogang ka dipono tsa bone!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoi!"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ba ba tlhale"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "mo ditsong tsa bone"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "mme ka"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "dipono tsa bone"
+    },
+    {
+      "surface": "נבנים",
+      "gloss": "ba ba tlhalogang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:01.392224944Z",
+  "model": "glm-5.3"
+}

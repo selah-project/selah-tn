@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Go tswa go Ashere — senkgwe sa gagwe se nonofile, mme ene o neela ditholoana tsa kgosi.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Go tswa go Ashere"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "se nonofile"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "senkgwe sa gagwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o neela"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "ditholoana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "tsa kgosi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:44.764456622Z",
+  "model": "glm-5.3"
+}

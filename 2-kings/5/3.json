@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme a re go mmaagimogolo wa gagwe: Ee, mong wa me o ne a le kwa go moporofeti yo o kwa Shomerone, a bo a mo neela sefathego, a mo ntsha mo bokgwereng jwa gagwe!",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "mmaagimogolo wa gagwe"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa me"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "kwa Shomerone"
+    },
+    {
+      "surface": "אז",
+      "gloss": "a bo"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "a mo ntsha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mong wa me"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "mo bokgwereng jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:34:51.184800540Z",
+  "model": "glm-5.3"
+}

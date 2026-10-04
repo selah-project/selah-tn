@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Gore wena ga oo El yo o ratang bosula; bobe bo ka se nne le wena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o ratang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "bo ka se nne le wena"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:21.034317836Z",
+  "model": "glm-5.3"
+}

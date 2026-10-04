@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 134,
+  "translation": "Tlhatlosang diatla tsa lona kwa boitshepong, mme lo segotshe ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Tlhatlosang"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "diatla tsa lona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kwa boitshepong"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "mme lo segotshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:48.827542878Z",
+  "model": "glm-5.3"
+}

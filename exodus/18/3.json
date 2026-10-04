@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Le ⟨את⟩ barwa ba gagwe ba babedi, eo leina la mongwe e neng e le Gereshome, gonne o ne a re: Ke nnile moafiri mo lefatsheng la bafalodi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "barwa ba gagwe ba babedi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "la mongwe"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o ne a re"
+    },
+    {
+      "surface": "גר",
+      "gloss": "moafiri"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke nnile"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "la bafalodi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:55.832462093Z",
+  "model": "glm-5.3"
+}

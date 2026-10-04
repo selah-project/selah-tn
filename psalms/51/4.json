@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Ntlhatshe ka botlalo go tswa mo bosuleng jwa me, mme o nnetefatse go tswa mo Seasong ya me.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Ntlhatshe"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "go tswa mo bosuleng jwa me"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "mme go tswa mo Seasong ya me"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "o nnetefatse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:19.582056091Z",
+  "model": "glm-5.3"
+}

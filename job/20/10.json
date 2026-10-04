@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 20:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Bana ba gagwe ba tla dumedisa ba baba, mme diatla tsa gagwe di tla busetsa maripe a gagwe.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ba tla dumedisa"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ba baba"
+    },
+    {
+      "surface": "וידיו",
+      "gloss": "mme diatla tsa gagwe"
+    },
+    {
+      "surface": "תשבנה",
+      "gloss": "di tla busetsa"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "maripe a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:59:16.687086194Z",
+  "model": "glm-5.3"
+}

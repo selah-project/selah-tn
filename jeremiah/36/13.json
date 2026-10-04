@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme Mikaya a ba bolelela ⟨את⟩ mafoko tsotlhe a a neng a a utlile fa Baruke a bala mo bukeng mo ditsebeng tsa setshaba.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a ba bolelela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Mikaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a neng a"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a utlile"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "fa a bala"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruke"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mo bukeng"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mo ditsebeng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tsa setshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T00:22:47.282518048Z",
+  "model": "glm-5.3"
+}

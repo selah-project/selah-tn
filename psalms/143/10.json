@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 143,
+  "translation": "Ntseisa go dira thato ya gago, gonne wena ke Eloha wa me; ruakh ya gago e a siama, e ntlele mo lefatsheng la tekatekano.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Ntseisa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "thato ya gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloha wa me"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruakh ya gago"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "e a siama"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "e ntlele"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "la tekatekano"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:00.566086556Z",
+  "model": "glm-5.3"
+}

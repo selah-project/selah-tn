@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "O mo isa go busa mo ditirong tsa diatla tsa gago; o ntshitse tsotlhe ka fa tlase ga dinao tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "o mo isa go busa"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "mo ditirong tsa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "diatla tsa gago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "dinao tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:35.175459488Z",
+  "model": "glm-5.3"
+}

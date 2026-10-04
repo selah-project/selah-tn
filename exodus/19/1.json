@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Kwa kgweding ya boraro, fa bana ba Yisraele ba ne ba tsile mo nageng ya Mitsrayime, mo letsatsing leno ba tsena naga e e omileng ya Sinayi.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "kwa kgweding"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya boraro"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "fa ba ne ba tsile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo nageng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mo letsatsing"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leno"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "naga e e omileng ya"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:31.962771962Z",
+  "model": "glm-5.3"
+}

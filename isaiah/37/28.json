@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme go dula ga gago, le go tsamaya ga gago, le go boa ga gago, ke a di itse, le ⟨את⟩ go galefa ga gago kgatlhanong le nna.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Mme go dula ga gago"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "le go tsamaya ga gago"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "le go boa ga gago"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke a di itse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "go galefa ga gago"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "go galefa ga gago"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kgatlhanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T23:55:26.190481163Z",
+  "model": "glm-5.3"
+}

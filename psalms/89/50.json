@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Kae hesede ya gago ya kgale, Adonai, eo o neng o ikanaile go Dawide ka boikanyego jo bo botlhale jwa gago?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ya kgale"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "o ikanaile"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dawide"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "ka boikanyego jo bo botlhale jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:34.287396593Z",
+  "model": "glm-5.3"
+}

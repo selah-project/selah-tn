@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ka gore e tswa kwa go Yisraele; mooki wa yone o e dirile — mme e seng Elohim, e ntle; kgabagare e tla nna diphaphatha, nono ya Shomorone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gore"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "e tswa kwa go Yisraele"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e bile e le"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "mooki"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "o e dirile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e seng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e ntle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kgabagare"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "diphaphatha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "nono"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ya Shomorone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:46.474830116Z",
+  "model": "glm-5.3"
+}

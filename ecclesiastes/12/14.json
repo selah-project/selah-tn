@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Gonne Elohim o tla isa ⟨את⟩ tiro nngwe le nngwe katlholong, mmogo le se se fitlilweng sengwe le sengwe, e le botse kgotsa e le bobotse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiro nngwe le nngwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nngwe le nngwe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "o tla isa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "katlholong"
+    },
+    {
+      "surface": "על",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "se se fitlilweng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e le"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "botse"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kgotsa e le"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobotse"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:45.119965442Z",
+  "model": "glm-5.3"
+}

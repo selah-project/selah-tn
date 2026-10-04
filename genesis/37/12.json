@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme bana ba gagwe ba bapelaeli ba ya go fudusa ⟨את⟩ dinku di le bantsi tsa rraabone kwa Shekeme.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ba gagwe ba bapelaeli"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "go fudusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinku di le bantsi tsa rraabone"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku di le bantsi"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "rraabone"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "kwa Shekeme"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:16.715890708Z",
+  "model": "glm-5.3"
+}

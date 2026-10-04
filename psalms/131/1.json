@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 131,
+  "translation": "Pina ya maemo, ya Dawide. Yahwe, pelo ya me ga e a godifala, mme matlho a me ga a a phahama, mme ga ke a tsamaya mo dilo tse dikgolo, le mo dilo tse di makatsang go feta nna.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maemo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "a godifala"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "a phahama"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ke a tsamaya"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "mo dilo tse dikgolo"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "le mo dilo tse di makatsang"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go feta nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:58.391312787Z",
+  "model": "glm-5.3"
+}

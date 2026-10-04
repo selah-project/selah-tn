@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Mo pelong ya me ke fitlhile lefoko la gago, gore ke se ke dire boleo go wena.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "mo pelong ya me"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ke fitlhile"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lefoko la gago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ke dire boleo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:43.871750752Z",
+  "model": "glm-5.3"
+}

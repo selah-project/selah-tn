@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "O sa ntse o ikhantsha kgatlhanong le setšhaba sa me, o gana go ba romela.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "o sa ntse"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "o ikhantsha"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "kgatlhanong le setšhaba sa me"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "o gana"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "go ba romela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:49.586747775Z",
+  "model": "glm-5.3"
+}

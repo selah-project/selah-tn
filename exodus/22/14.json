@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Fa mong wa sone a le teng, ga a ka ke a duela; fa e le yo o thapilweng, se tsile ka moputso wa sone.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "mong wa sone"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a le teng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a ka ke"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "a duela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa e le"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "yo o thapilweng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e le⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "se tsile"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "ka moputso wa sone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:10.313514113Z",
+  "model": "glm-5.3"
+}

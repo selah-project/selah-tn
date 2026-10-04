@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "mme o go gatisetse ⟨את⟩ wena, le ⟨את⟩ bokaulengwe ba gago botlhe, bana ba Lewi, ⟨את⟩ mmogo le wena — mme lo batla gape boperesite?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mme o go gatisetse"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bokaulengwe ba gago botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bokaulengwe ba gago"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ mmogo le wena"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "mme lo batla"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "boperesite"
+    }
+  ],
+  "timestamp": "2026-10-03T22:10:40.713859119Z",
+  "model": "glm-5.3"
+}

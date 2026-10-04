@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Yo o kgalemang ditshaba, a ga ⟨a⟩ a otlhaya? Yo o rutang motho kitso.",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Yo o kgalemang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "a otlhaya"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Yo o rutang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kitso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:33.170055540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Ka nako e sejalo sa yone se omile, di a thuntsha; basadi ba tsena, ba e tetesa ⟨את⟩; gore ke setshaba se se senang tlhaloganyo; ka jalo Mmopi wa sona ga a na go ba neela mohau, le Mothei wa sona ga a ka go ba amogela ka mohau.",
+  "tokens": [
+    {
+      "surface": "ביבש",
+      "gloss": "ka nako e se omile"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "sejalo sa yone"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "di a thuntsha"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "באות",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "מאירות",
+      "gloss": "ba e tetesa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "e ena (sejalo se se omileng)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se se senang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "tlhaloganyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "a na go ba neela mohau"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Mmopi wa sona"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "le Mothei wa sona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "a ka go ba amogela ka mohau"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:53.590054302Z",
+  "model": "glm-5.3"
+}

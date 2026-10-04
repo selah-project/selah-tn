@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Ke ne ke sotla, nna le pelo ya me, go itse le go batlisisa, go batla botlelere le tlhaloganyo, le go itse bosula jo bo bofoolodi, le bofoolodi jo bo bolwala.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "ke ne ke sotla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "le pelo ya me"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "go itse"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "le go batlisisa"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "go batla"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "botlelere"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "le tlhaloganyo"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "le go itse"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "jo bo bofoolodi"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "le bofoolodi"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "jo bo bolwala"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:44.968411796Z",
+  "model": "glm-5.3"
+}

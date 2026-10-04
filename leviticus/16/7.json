@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme a tsaya ⟨את⟩ dikhutshwane tseo tse pedi, a di emisa ⟨אתם⟩ pele ga Yahwe, kwa sebatling satente ya kopano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Mme a tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikhutshwane tse pedi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "dikhutshwane tseo"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "a di emisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dikhutshwane"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa sebatling sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:34.282903414Z",
+  "model": "glm-5.3"
+}

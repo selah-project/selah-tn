@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "E elee le lona go dikela ⟨את⟩ thaba e; phologang lona, yaang ka leboa.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "e elee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "סב",
+      "gloss": "go dikela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "phologang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ka leboa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:28.334230296Z",
+  "model": "glm-5.3"
+}

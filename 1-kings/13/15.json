@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "A mo re: Tla le nna ⟨את⟩ kwa ntlong, o je senkgwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a mo re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "le nna ⟨את⟩"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "kwa ntlong"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "o je"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:17.079239522Z",
+  "model": "glm-5.3"
+}

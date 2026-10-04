@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ba tla ja mme ba se ke ba kgoroga; ba dirile bofilo mme ba se ke ba godisa; gonne ba tlogetse ⟨את⟩ Yahwe, ba se ka go mo tlhokomela.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ba tla ja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ke"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ba kgoroga"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "ba dirile bofilo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ke"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ba godisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ba tlogetse"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "go mo tlhokomela"
+    }
+  ],
+  "timestamp": "2026-10-04T00:52:44.775086028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme jaanong, a Boaze yo o itsiwang ke rona ga a siamang, yo o neng o le le ⟨את⟩ banngwane ba gagwe ba basetsana? Bonwe, o tlhakola sebakeng sa go tlhakola ⟨את⟩ sefofane bosigo joo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jaanong"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaze"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "yo o itsiwang ke rona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o ne o le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le banngwane ba gagwe ba basetsana"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "banngwane ba gagwe ba basetsana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "a tlhakola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefofane"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "sefofane"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "sa sefofane sa borethe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosigo joo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:09:19.664534169Z",
+  "model": "glm-5.3"
+}

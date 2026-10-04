@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ke molekane wa botlhe ba ba go tshabang, le ba ba tlhomolang melawana ya gago.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "molekane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa botlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "ba go tshabang"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "le ba ba tlhomolang"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "melawana ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:00.527743770Z",
+  "model": "glm-5.3"
+}

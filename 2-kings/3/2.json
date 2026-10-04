@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme a dira se se bosula mahlong a Yahwe, fela e seng jaaka rraagwe le jaaka mmaagwe; mme a ntsha ⟨את⟩ leje le le emeng la Baale, le rraagwe a neng a le dira.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Mme a dira"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "se se bosula"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "jaaka rraagwe"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "le jaaka mmaagwe"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "mme a ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leje le le emeng la Baale"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "leje le le emeng"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "la Baale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a neng a le dira"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:33:00.653414899Z",
+  "model": "glm-5.3"
+}

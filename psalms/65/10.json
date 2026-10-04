@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "O etetse ⟨את⟩ lefatshe mme wa e nosetsa, wa e rica ka bontsi; molapo wa Elohim o tletse metsi; o ba berekela korong ya bone, gonne jalo o e berekela.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "o etetse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "mme wa e nosetsa"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ka bontsi"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "wa e rica"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "molapo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o tletse"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "o berekela"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "korong ya bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "o e berekela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:07.792285076Z",
+  "model": "glm-5.3"
+}

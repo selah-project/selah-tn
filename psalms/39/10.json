@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Ke ntse ke didimetse, ga ke a bula molomo wa me, gonne wena o dirile ⟨את⟩ se.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ke ntse ke didimetse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ke a bula"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o dirile ⟨את⟩ se"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:48.155334569Z",
+  "model": "glm-5.3"
+}

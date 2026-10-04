@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ke ikannetse ⟨את⟩ lona, bana ba basadi ba Yerushalayime, ka dithutlwa kgotsa ka diphuti tsa nageng: se sa kgatlhise le go sa tlhotlhomise ⟨את⟩ lorato, go fitlha se se batle.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ke ikannetse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "bana ba basadi ba Yerushalayime"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana ba basadi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayime"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "ka dithutlwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "ka diphuti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tsa nageng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "kgatlhise"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "le go sa"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "tlhotlhomise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lorato"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lorato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "se se batle"
+    }
+  ],
+  "timestamp": "2026-10-04T02:07:06.516299976Z",
+  "model": "glm-5.3"
+}

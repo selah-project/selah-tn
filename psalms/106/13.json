@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Ba ile ba ikakaretsa, ba lebala ditiro tsa gagwe; ba sa solofela kgakololo ya gagwe,",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "ba ikakaretsa"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ba lebala"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ditiro tsa gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "ba solofela"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "kgakololo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:44.198166792Z",
+  "model": "glm-5.3"
+}

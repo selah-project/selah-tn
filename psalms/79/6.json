@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "Tlhagisa bosula jwa gago mo ditshabeng tse di sa go itseng, le mo bogosing jwa gago jo bo sa go letleng ka leina la gago.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Tlhagisa"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "bosula jwa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshabeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "go itseng"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bogosing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ka leina la gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "go letleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:31.565765447Z",
+  "model": "glm-5.3"
+}

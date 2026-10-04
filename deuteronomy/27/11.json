@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme Moshe o laela ⟨את⟩ setshaba letsatsi lone foo, a re:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "o laela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lone foo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:28.390526124Z",
+  "model": "glm-5.3"
+}

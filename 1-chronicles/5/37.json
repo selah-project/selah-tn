@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "mme Azarjaha a begeta ⟨את⟩ Amarjaha, mme Amarjaha a begeta ⟨את⟩ Akitube",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjaha"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjaha"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "mme Amarjaha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitube"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitube"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:09.628464553Z",
+  "model": "glm-5.3"
+}

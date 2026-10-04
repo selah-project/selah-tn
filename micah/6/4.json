@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Gonne ke ne ke go ntshitse mo lefatsheng la Mitsrayime, ke go golotse mo ntlong ya badiri; mme ke ne ka romela fa pele ga gago ⟨את⟩ Moshe, ⟨את⟩ Aharone le ⟨את⟩ Miriame.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "ke ne ke go ntshitse"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "mo ntlong ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "badiri"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "ke go golotse"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "mme ke ne ka romela"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fa pele ga gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "le Miriame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:04:29.720558630Z",
+  "model": "glm-5.3"
+}

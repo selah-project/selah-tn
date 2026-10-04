@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme bana ba Yisraele ba tlaa boloka ⟨את⟩ Shabata, go dira ⟨את⟩ Shabata mo malokong a bone, e le kgolagano ya bosikhargale.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Mme ba tlaa boloka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "mo malokong a bone"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya bosikhargale"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:53.470113001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Maatla a me, go wena ke tlhokomela, gonne Elohim ke sekhurele sa me.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Maatla a me"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ke tlhokomela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "sekhurele sa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:46.608711635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 110,
+  "translation": "Sethulo sa maatla a gago Yahwe o tlaa se romola go tswa mo Tsiyone; busa mo gare ga ba ba mo tlhoyang.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "sethulo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "sa maatla a gago"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "o tlaa romola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "go tswa mo Tsiyone"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "busa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ba ba mo tlhoyang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:33.561349863Z",
+  "model": "glm-5.3"
+}

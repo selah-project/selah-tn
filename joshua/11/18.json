@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Malatsi a mantsi Yehoshua o ne a dira ⟨את⟩ ntwa le dikgosi tsotlhe tseo.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ne a dira"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgosi tsotlhe tseo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:40:41.240973474Z",
+  "model": "glm-5.3"
+}

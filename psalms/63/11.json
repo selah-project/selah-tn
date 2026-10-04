@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Ba tla ba elediswa go diatleng tsa tshaka; ba tla nna karolo ya diphooko.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ba tla ba elediswa"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "diatleng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tsa tshaka"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "ya diphooko"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:02.013147875Z",
+  "model": "glm-5.3"
+}

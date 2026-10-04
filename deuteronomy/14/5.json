@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "selepe, le phuti, le lekudu, le podi ya tlhaga, le tepe, le kudu, le kama.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "selepe"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "le phuti"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "le lekudu"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "le podi ya tlhaga"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "le tepe"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "le kudu"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "le kama"
+    }
+  ],
+  "timestamp": "2026-10-03T22:26:34.118622927Z",
+  "model": "glm-5.3"
+}

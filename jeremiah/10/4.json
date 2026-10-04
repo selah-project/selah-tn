@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ka selefera le gauta ba a se nkgolokgolo, ba bo ba se nonotsha ka dinotshe le didiriswa, mme se se kgone go dsagoga.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "Ka selefera"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "ba a se nkgolokgolo"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "ka dinotshe"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "le didiriswa"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "ba se nonotsha"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "mme se se kgone"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "go dsagoga"
+    }
+  ],
+  "timestamp": "2026-10-04T00:11:41.410104586Z",
+  "model": "glm-5.3"
+}

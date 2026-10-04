@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mmapodi le Balevite ba iphepafatsa, ba boela ba phepafatsa ⟨את⟩ setshaba, le ⟨את⟩ dikgoro, le ⟨את⟩ mabota.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "ba iphepafatsa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Mmapodi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le Balevite"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ba boela ba phepafatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgoro"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabota"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mabota"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:16.661904519Z",
+  "model": "glm-5.3"
+}

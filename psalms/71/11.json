@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Ba re: Elohim o mo tlogetse; mo lateleleng le mo tshware, gonne ga go mo bolokayang.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "o mo tlogetse"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "mo lateleleng"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "le mo tshware"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mo bolokayang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:37.794509959Z",
+  "model": "glm-5.3"
+}

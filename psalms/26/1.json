@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Ya Dawide. Ntshekatlholo, Yahwe, gonne ke tsamaya ka boitshepo, mme ke ikanyegetse go Yahwe; ga ke tla tetema.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Ntshekatlholo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ka boitshepo"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "mme go Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke ikanyegetse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "ke tla tetema"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:31.193040696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "go fudusa bokgosi fatshe ga ntlo ya Shaule, mme go baya ⟨את⟩ setulo sa Dawide mo go Yisraele le mo go Yehuda, go tloga go Dane go fitlha go Beer-Shebe.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "go fudusa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bokgosi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fatshe ga ntlo ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "mme go baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setulo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo go"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "go tloga go Dane"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shebe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:08:34.769258466Z",
+  "model": "glm-5.3"
+}

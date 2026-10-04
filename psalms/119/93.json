@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Kwa lekatlhong ga ke tla ke ke ka lebala melao ya gago ya taolo, gonne ka yone o ntsheditse botshelo.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "kwa lekatlhong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ke tla ke ke ka lebala"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "melao ya gago ya taolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka yone"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "o ntsheditse botshelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:45.683782166Z",
+  "model": "glm-5.3"
+}

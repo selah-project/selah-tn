@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "A nne pelo ya me e a nnela ruri melawana ya gago ya boitshepo, gore ke se ke tshwarwe ke maikutlo a a tlhobile.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "a nne"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e a nnela ruri"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "melawana ya gago ya boitshepo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ke tshwarwe ke maikutlo a a tlhobile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:29.931139028Z",
+  "model": "glm-5.3"
+}

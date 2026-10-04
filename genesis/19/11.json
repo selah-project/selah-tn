@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme banna ba neng ba le ⟨את⟩ kwa ponatshehelong ya ntlo, ba ne ba ba itaya ka bofofu, go tloga mo go monnye go fitlha go mogolo, mme ba tlhoka maatla go batla ⟨את⟩ ponatshehelo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "banna"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng ba le"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa ponatshehelong"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ba ne ba ba itaya"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "ka bofofu"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "go tloga mo go monnye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "go mogolo"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "mme ba tlhoka maatla"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "go batla"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ponatshehelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:04.029222298Z",
+  "model": "glm-5.3"
+}

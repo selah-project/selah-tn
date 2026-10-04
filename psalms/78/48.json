@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme o ne a neela dikgomo tsa bone sekwebo, le dipoo tsa bone meala.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "mme o ne a neela"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "sekwebo"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "dikgomo tsa bone"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "le dipoo tsa bone"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "meala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:44.805123312Z",
+  "model": "glm-5.3"
+}

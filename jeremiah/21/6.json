@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ke tlaa tlhasela ⟨את⟩ baagi ba toropo e, le ⟨את⟩ motho le ⟨את⟩ phologolo; ba tlaa swa ka bolwetse jo bo golo.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ke tlaa tlhasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baagi ba toropo e"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "baagi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phologolo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka bolwetse"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "jo bo golo"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ba tlaa swa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:16:18.580600140Z",
+  "model": "glm-5.3"
+}

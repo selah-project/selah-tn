@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mafoko a Yirimeyahu, morwa Khilkiyahu, mo ⟨ba⟩ bakonete ba ba neng ba le ko Anathote, mo lefatsheng la Benyamine.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mafoko a"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirimeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilkiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakoneteng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba neng ba le"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "ko Anathote"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "la Benyamine"
+    }
+  ],
+  "timestamp": "2026-10-04T00:06:44.989933878Z",
+  "model": "glm-5.3"
+}

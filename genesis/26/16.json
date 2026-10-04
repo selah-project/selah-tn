@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme Abimeleke a re go Yitshake: Tsamaya o tse kwa go rona, gonne o tletse maatla thata go feta rona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tsamaya"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "o tse kwa go rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "o tletse maatla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go feta rona"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thatá"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:23.568127453Z",
+  "model": "glm-5.3"
+}

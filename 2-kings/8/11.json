@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a tiisa ⟨את⟩ sefathe sa gagwe, a se tlhomile go fitlha a tshwenyega, mme monna wa Elohim a lela.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a tiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefathe sa gagwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefathe sa gagwe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a tlhomile"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בש",
+      "gloss": "a tshwenyega"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "a lela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna wa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T23:35:48.867337319Z",
+  "model": "glm-5.3"
+}

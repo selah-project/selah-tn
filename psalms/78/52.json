@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme a ntsha setshaba sa gagwe jaaka dinku, a ba kaela jaaka losaka mo nageng.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "mme a ntsha"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "jaaka dinku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "a ba kaela"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "jaaka losaka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo nageng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:28.583564142Z",
+  "model": "glm-5.3"
+}

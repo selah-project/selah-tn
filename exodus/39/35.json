@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "⟨את⟩ araka ya bopaki, le ⟨את⟩ didiriswa tsa yone, le ⟨את⟩ sefapafo sa popagano.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araka ya bopaki"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "araka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bopaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa yone"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "didiriswa tsa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sefapafo sa popagano"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sefapafo sa popagano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:27.700353958Z",
+  "model": "glm-5.3"
+}

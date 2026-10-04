@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ka ntlha ya seo ke tla go go leboga, Yahwe, mo go ditshaba; mme ke tla opela ko tlhoko ga leina la gago.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ke tla go go leboga"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo go ditshaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "mme ... ko tlhoko ga leina la gago"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla opela"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:41.312779801Z",
+  "model": "glm-5.3"
+}

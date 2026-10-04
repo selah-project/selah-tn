@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Bafalisiti ba ne ba tsera ⟨את⟩ lebokoso la Elohim, mme ba le isa kwa Ebene-Ezer, go ya Ashdode.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Mme Bafalisiti"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ba ne ba tsera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebokoso la Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "lebokoso"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "mme ba le isa"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "kwa Ebene-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "go ya Ashdode"
+    }
+  ],
+  "timestamp": "2026-10-03T22:57:36.504818915Z",
+  "model": "glm-5.3"
+}

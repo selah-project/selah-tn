@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mang ka kgona go ntsha se se itshepang go tswa mo go se se sa itshepang? Ga go ope.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ka kgona go ntsha"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "se se itshepang"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "go tswa mo go se se sa itshepang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "go ope"
+    }
+  ],
+  "timestamp": "2026-10-04T01:57:19.724478088Z",
+  "model": "glm-5.3"
+}

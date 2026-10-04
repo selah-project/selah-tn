@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "A ba re: A lo itse ⟨את⟩ Labane, morwa Nakhore? Ba re: Re a mo itse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "a lo itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Labane"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhore"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "re a itse"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:36.821357321Z",
+  "model": "glm-5.3"
+}

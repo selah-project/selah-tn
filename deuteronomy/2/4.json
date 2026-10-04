@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme o laele ⟨את⟩ setshaba, o re: Lona lo fa mogolwaneng wa lona, bana ba Esawe, ba ba dulang kwa Seire; mme ba tla bo ba le tsaba, ka jalo lona ipaakanyetse thata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "צו",
+      "gloss": "o laele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "lo fa"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "mogolwaneng wa lona"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "wa lona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ba ba dulang"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "kwa Seire"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mme ba tla bo ba le tsaba"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "lo tsaba"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "lona ipaakanyetse"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:28.334455133Z",
+  "model": "glm-5.3"
+}

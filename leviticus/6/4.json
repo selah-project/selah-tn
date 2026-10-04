@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme a apolola ⟨את⟩ diaparo tsa gagwe, a apara diaparo tse dingwe, mme a ntsha ⟨את⟩ lerole kwa ntle ga kampu, go ya kwa lefelong le le phepa.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "a apolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa gagwe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tsa gagwe"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "a apara"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "tse dingwe"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerole"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle ga"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "le le phepa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:24.365141198Z",
+  "model": "glm-5.3"
+}

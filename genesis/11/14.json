@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Shelakha a tshela dingwaga tse di masome a mararo, mme a begetsa ⟨את⟩ Ebere.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Mme Shelakha"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a tshela"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tse di masome a mararo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebere"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ebere"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:13.624320790Z",
+  "model": "glm-5.3"
+}

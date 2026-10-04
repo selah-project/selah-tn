@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "A tau e tlhokomele lefifing la sekgowa, mme e se na se e se tlogetse? A motshwana wa tau o nele lentswe lone go tswa mo bolokong jwa lone, ntle le fa o tshwere sengwe?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "A e tlhokomele"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "lefifing la sekgowa"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "mme e se na se e se tlogetse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "e se na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lone"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "A o nele"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "motshwana wa tau"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "lentswe lone"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "go tswa mo bolokong jwa lone"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "o tshwere sengwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:57:31.870794243Z",
+  "model": "glm-5.3"
+}

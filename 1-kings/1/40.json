@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme setshaba sotlhe sa mo sala morago, mme setshaba se opela ka melodi, se itumelela boitumelo jo bogolo, mme lefatshe le kgaogana ka modumo wa bone.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "sa mo sala morago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mo sala morago"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "mme setshaba"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "se opela"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "ka melodi"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "se itumelela"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "jo bogolo"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "mme le kgaogana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "ka modumo wa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:41.697052897Z",
+  "model": "glm-5.3"
+}

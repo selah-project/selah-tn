@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Yo o sesang diatla, mme o na le pelo e e phatswa, yo o sa boifang mo pelong ya gagwe ⟨⟨go⟩⟩ sephiri, mme sa ikane ka boikhutselo.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "yo o sesang"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "mme o na le"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "boifang"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "mo pelong ya gagwe go sephiri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "yo o ikanelang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme sa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ikane"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "ka boikhutselo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:13.162893097Z",
+  "model": "glm-5.3"
+}

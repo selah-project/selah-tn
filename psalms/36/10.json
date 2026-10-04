@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Gonne go wena go na le mohlodi wa botshelo, mme mo leseding la gago re tlaa bona lesedi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "mohlodi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wa botshelo"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "mo leseding la gago"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "re tlaa bona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lesedi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:11.978378265Z",
+  "model": "glm-5.3"
+}

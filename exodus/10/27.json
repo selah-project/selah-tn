@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Yahwe a nonotsha ⟨את⟩ pelo ya Farao, mme a se ka a batla go ba romela.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a nonotsha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya Farao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "a batla"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "go ba romela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:03.042853925Z",
+  "model": "glm-5.3"
+}

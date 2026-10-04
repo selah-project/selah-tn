@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 133,
+  "translation": "Pina ya maemo, ya Dawide. Bonang, go le botoka jang, mme go le monate jang, bana ba mmae ba nna mmogo, le mmogo!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maemo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "botoka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mme go le"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "monate jang"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bana ba mmae"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:04.973916781Z",
+  "model": "glm-5.3"
+}

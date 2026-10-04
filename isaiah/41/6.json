@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Motho o thusa ⟨את⟩ moagisani wa gagwe, mme o re kwa ka kgaitsadie: Nna o nonofile.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moagisani wa gagwe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moagisani wa gagwe"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "o thusa"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "mme o re kwa ka kgaitsadie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Nna o nonofile"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:52.936681248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 34:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Ka jalo, banna ba pelo, reetseng me: ruri ga go ka nna fa ga El go dira boshula, le ga Shadai go dira boikepo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka jalo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "reetseng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "ruri ga go ka nna"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "fa ga El"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "go dira boshula"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "le ga Shadai"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "go dira boikepo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:03:30.441635824Z",
+  "model": "glm-5.3"
+}

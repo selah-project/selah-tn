@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go tlhagelela barwa ba le supa le barwadi ba le tharo.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "go tlhagelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ba le supa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "ו שלוש",
+      "gloss": "le ba le tharo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barwadi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:53:28.128892956Z",
+  "model": "glm-5.3"
+}

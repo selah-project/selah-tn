@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Setshaba se se nang sefatse se se thata, se se ka sa bonang sefathe mogolokgolo, mme se se ka mosaing se ka se ka sa mohlogoletsa ngwana.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "עז",
+      "gloss": "se se thata"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefatse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se se ka sa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefathe"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "mogolokgolo"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "mme ngwana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se se ka sa"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "mohlogoletsa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:39.169466065Z",
+  "model": "glm-5.3"
+}

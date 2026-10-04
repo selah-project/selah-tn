@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "O ne oa ntsha mokgwebo go tswa kwa Mitsrayime, o tlhagisa ⟨ditshaba⟩, mme wa o jala.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "mokgwebo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go tswa kwa Mitsrayime"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "o ne oa ntsha"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "o tlhagisa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "mme wa o jala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:04.489398121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Yo o buang le letsatsi, mme le ka tlhagelela; mme dinaledi o di tswalela.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "yo o buang"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "le letsatsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le sa"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ka tlhagelela"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "mme"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "dinaledi"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "o di tswalela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:55:23.929890201Z",
+  "model": "glm-5.3"
+}

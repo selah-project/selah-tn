@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "mme ⟨את⟩ Esawe ke mo tlhoya, mme ke ne ka dira ⟨את⟩ dithaba tsa gagwe go nna sephinyegi, le ⟨את⟩ boswa jwa gagwe go nna lefelo la dipoo tsa naga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "Esawe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke mo tlhoya"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "mme ke ne ka dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithaba tsa gagwe"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "dithaba tsa gagwe"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "go nna sephinyegi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "boswa jwa gagwe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "boswa jwa gagwe"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "go nna lefelo la dipoo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tsa naga"
+    }
+  ],
+  "timestamp": "2026-10-04T01:10:44.014845925Z",
+  "model": "glm-5.3"
+}

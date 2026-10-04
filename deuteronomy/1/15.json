@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme nka tsaya ⟨את⟩ dihlogo tsa merofe ya lona, banna ba ba botlhale le ba ba itsiweng, mme ke di neela ⟨את⟩ tsona jaaka dihlogo godimo ga lona — dikgosi tsa dikete, le dikgosi tsa makgolo, le dikgosi tsa masome a matlhano, le dikgosi tsa lesome, le balaodi, go merofe ya lona.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Mme nka tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dihlogo tsa merofe ya lona"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dihlogo"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "tsa merofe ya lona"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ba ba botlhale"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "le ba ba itsiweng"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mme ke di neela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dihlogo"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "dihlogo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "godimo ga lona"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tsa dikete"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le dikgosi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "tsa makgolo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le dikgosi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "tsa masome a matlhano"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le dikgosi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tsa lesome"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "le balaodi"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "go merofe ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:11.747602454Z",
+  "model": "glm-5.3"
+}

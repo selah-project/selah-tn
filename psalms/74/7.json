@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Ba rometse molelo mo boitshepeng jwa gago, ba bo tlhabela fitlhela lefatshe; ba hlotlola Mishkane wa Leina la gago.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ba rometse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "mo boitshepeng jwa gago"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fitlhela lefatshe"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ba hlotlola"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wa Leina la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:06.161251267Z",
+  "model": "glm-5.3"
+}

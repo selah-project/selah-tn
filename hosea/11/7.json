@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme batho ba me ba tlwaetse go boela morago go tswa kwa go nna; le fa ba bitsa kwa go yo o kwa godimo, ga ba mo tlhatlhobe mmogo.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "mme batho ba me"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "ba tlwaetse"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "go boela morago ga me"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa go"
+    },
+    {
+      "surface": "על",
+      "gloss": "yo o kwa godimo"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ba mo bitsa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "ba mo tlhatlhobe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:17:04.050761738Z",
+  "model": "glm-5.3"
+}

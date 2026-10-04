@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme a thuntsha ⟨את⟩ ntlo ya Yahwe le ⟨את⟩ ntlo ya kgosi le ⟨את⟩ matlo otlhe a Yerushalayime; mme ⟨את⟩ ntlo e kgolo nngwe le nngwe o ne a e thuntsha ka molelo.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "mme a thuntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya kgosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matlo otlhe a Yerushalayime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "matlo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo e kgolo nngwe le nngwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nngwe le nngwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "o ne a e thuntsha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:19.530557744Z",
+  "model": "glm-5.3"
+}

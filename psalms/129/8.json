@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 129,
+  "translation": "Mme ba ba fetang ga ba ka ba re: Segofatso ya Yahwe mo go lona; re le segofaditse ⟨את⟩ lona ka leina la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ... ga"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba ka ba re"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ba ba fetang"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "Segofatso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "re le segofaditse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:07.139492929Z",
+  "model": "glm-5.3"
+}

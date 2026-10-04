@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ruakh ya Yahwe e buile ka me, mme lefoko la gagwe le mo leleme la me.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e buile"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka me"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "mme lefoko la gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "leleme la me"
+    }
+  ],
+  "timestamp": "2026-10-03T23:18:34.733529575Z",
+  "model": "glm-5.3"
+}

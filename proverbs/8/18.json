@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Riches le tlotlo di kwa go nna ⟨את⟩; humo e tswelelang le tsedeke.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "riches"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "le tlotlo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ di kwa go nna",
+      "marks": "riches le tlotlo"
+    },
+    {
+      "surface": "הון",
+      "gloss": "humo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "e tswelelang"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "le tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-04T01:44:46.738903406Z",
+  "model": "glm-5.3"
+}

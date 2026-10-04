@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Reetsang kwa nna, setshaba sa me, le morafe wa me kwa nna utlwang; gonne Torah e tlaa tswa mo go ⟨את⟩ nna, mme katlholo ya me e tlaa nna lesedi la ditshaba—ke tlaa e dira ka bonako.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "reetsang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa nna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "le morafe wa me"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa nna"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "utlwang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "mo go ⟨את⟩ nna",
+      "marks": "mo go nna"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "e tlaa tswa"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "mme katlholo ya me"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "lesedi la"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "ke tlaa e dira ka bonako"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:38.095451157Z",
+  "model": "glm-5.3"
+}

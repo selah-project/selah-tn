@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme kgosi ya re go Tsadoke: Busetang ⟨את⟩ arka ya Elohim go ya ⟨mo⟩ toropong. Fa ke tlaa fitlhela kgodiso mo ditsong tsa Yahwe, o tlaa ntibusetsa, mme a mpontshe yone le ⟨את⟩ bonno jwa yone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme kgosi ya re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "go Tsadoke"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Busetang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka ya Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ke tlaa fitlhela"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kgodiso"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo ditsong tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "o tlaa ntibusetsa"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "mme a mpontshe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bonno jwa yone"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "bonno jwa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:14:49.408691083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Yehonathane le Dawide ba dira kgolagano, ka gonne o ne a mo rata ⟨את⟩ jaaka moya wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "mme ba dira"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathane"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "le Dawide"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ka gonne o ne a mo rata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ene"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "jaaka moya wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:03:22.611214959Z",
+  "model": "glm-5.3"
+}

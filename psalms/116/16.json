@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Ao, Yahwe, gonne ke modiri wa gago; ke modiri wa gago, morwa wa moemedi wa mosadi wa gago — o ntshilitse mo dikgeletsong tsa me.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "moemedi wa mosadi wa gago"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "o ntshilitse"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "mo dikgeletsong tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:09.174056821Z",
+  "model": "glm-5.3"
+}

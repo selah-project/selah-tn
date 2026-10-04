@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Methaladi e ne ya wala go rona kwa mafelong a monate; ee, bojwa jo bo ntle bo ne jwa nna bo naledi ya me.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "methaladi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ya wa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "kwa mafelong a monate"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "bojwa"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "jo bo ntle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ya nna ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:19.743276132Z",
+  "model": "glm-5.3"
+}

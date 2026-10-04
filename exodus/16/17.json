@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme bana ba Yisraele ba dira jalo, ba bokela, yoo a bokang go feta, le yoo a bokang go tlase ga moo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira jalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "ba bokela"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "yoo a bokang go feta"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "le yoo a bokang go tlase ga moo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:47.127020349Z",
+  "model": "glm-5.3"
+}

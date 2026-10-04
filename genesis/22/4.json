@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ka letsatsi la boraro Abrahame a tlhatlosa ⟨את⟩ mahitlho a gagwe, a bona ⟨את⟩ lefelo leo go tswa kgakala.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "la boraro"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "a tlhatlosa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahitlho a gagwe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahitlho a gagwe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefelo leo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lefelo leo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "go tswa kgakala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:14.370570300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 23:17",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme setshaba sotlhe se tsena mo ntlong ya Baale, mme ba e senya, mme ⟨את⟩ dialtare tsa yone le ⟨את⟩ ditshwantsho tsa yone ba di thuba, mme ⟨את⟩ Matane moruti wa Baale ba a bolaya fa pele ga dialtare.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baale"
+    },
+    {
+      "surface": "ויתצהו",
+      "gloss": "ba e senya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dialtare tsa yone"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "dialtare tsa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditshwantsho tsa yone"
+    },
+    {
+      "surface": "צלמיו",
+      "gloss": "ditshwantsho tsa yone"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ba di thuba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Matane"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "Matane"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "wa Baale"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ba a bolaya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "dialtare"
+    }
+  ],
+  "timestamp": "2026-10-04T02:54:04.608083226Z",
+  "model": "glm-5.3"
+}

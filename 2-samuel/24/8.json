@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Ba bolelela ka lefatshe lotlhe, mme ba boa kwa bokhutlong jwa dikgwedi di le robong le malatsi a le masome a mabedi, ba tsena Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "ba bolelela"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe lotlhe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kwa bokhutlong jwa"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "di le robong"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "dikgwedi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "le masome a mabedi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T03:09:27.832990888Z",
+  "model": "glm-5.3"
+}

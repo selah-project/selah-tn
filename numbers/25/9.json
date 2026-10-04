@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme ba ba tlhokafetseng mo seetseking e ne e le diketekete di le nne le masome a mabedi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ba ba tlhokafetseng"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "mo seetseking"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "di le nne"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "le masome a mabedi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "diketekete"
+    }
+  ],
+  "timestamp": "2026-10-03T22:14:01.662329221Z",
+  "model": "glm-5.3"
+}

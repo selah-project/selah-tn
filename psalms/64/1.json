@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "Ya moetapele, mmino wa ga Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ya moetapele"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mmino"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa ga Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:35.340105572Z",
+  "model": "glm-5.3"
+}

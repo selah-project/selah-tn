@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme Dawide a kgobokanya ⟨את⟩ bana ba Aharone, le ⟨את⟩ balevi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "a kgobokanya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Aharone"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:40:21.450074477Z",
+  "model": "glm-5.3"
+}

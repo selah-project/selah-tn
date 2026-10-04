@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Ntlholole ka tsedeko ya gago, Yahwe Elohim wa me; ba se ka ba nyenya ka nna.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ntlholole"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "ka tsedeko ya gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ba se ka ba"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "nyenya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:26.515771002Z",
+  "model": "glm-5.3"
+}

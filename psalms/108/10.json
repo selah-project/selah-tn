@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "Moabe ke setswana sa go tlhapela sa me; mo Edome ke tla latlhela setlhako sa me; godimo ga Falisete ke tla guma ka tlaletshe.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "setswana"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "sa go tlhapela sa me"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ke tla latlhela"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "setlhako sa me"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Falisete"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "ke tla guma ka tlaletshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:49.169691014Z",
+  "model": "glm-5.3"
+}

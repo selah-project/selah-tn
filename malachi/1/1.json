@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Bojotara jwa lefoko la Yahwe go Yisraele, ka seatla sa Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "bojotara"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-10-04T01:10:44.014377042Z",
+  "model": "glm-5.3"
+}

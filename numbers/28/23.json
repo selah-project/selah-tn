@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Go tlalelela ⟨⟨se⟩⟩ sehlabelo sa go fiswang sa moso, se se leng sehlabelo sa go fiswang se se sa kgaotseng, lo tlaa dira ⟨את⟩ tseno.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "go tlalelela"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sehlabelo sa go fiswang"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sa moso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se leng"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "sehlabelo sa go fiswang"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "se se sa kgaotseng"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "lo tlaa dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tseno"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tseno"
+    }
+  ],
+  "timestamp": "2026-10-03T22:15:55.436291735Z",
+  "model": "glm-5.3"
+}

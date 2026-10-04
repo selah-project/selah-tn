@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "Mmo e utlang thapelo, go wena nama yotlhe e tla tlala.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mo e utlang"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thapelo"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "e tla tlala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:50.662911776Z",
+  "model": "glm-5.3"
+}

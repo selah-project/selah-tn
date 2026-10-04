@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme Moshe a isa ⟨את⟩ katlholo ya tsone go ya go Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a isa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katlholo ya tsone"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "katlholo ya tsone"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:16:09.105557015Z",
+  "model": "glm-5.3"
+}

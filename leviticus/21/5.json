@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Ba se ka wa itlhagisa sekgoba mo ditlhareng tsa bone, mme molelwa wa megala ya bona ba se ka wa oa go entsua, le mo marong a bona ba se ka wa ipaya mekgwa ya go itlhaga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba se ka wa"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "go itlhagisa sekgoba"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "sekgoba"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "mo ditlhareng tsa bone"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "mme molelwa wa"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "megala ya bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ka wa"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "go e oa"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "le mo marong a bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ka wa"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "go ipaya mekgwa"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "ya go itlhaga"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:22.409621040Z",
+  "model": "glm-5.3"
+}

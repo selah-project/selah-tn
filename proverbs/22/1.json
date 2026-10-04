@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Leina le le tlhophilweng go feta khumo e ntsi; go feta selefera le go feta gauta — khutshwafatso e e siameng.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "le le tlhophilweng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "go feta khumo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e ntsi"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "go feta selefera"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "le go feta gauta"
+    },
+    {
+      "surface": "חן",
+      "gloss": "khutshwafatso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e e siameng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:49:20.184573159Z",
+  "model": "glm-5.3"
+}

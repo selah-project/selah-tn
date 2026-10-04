@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "A bo a neela ⟨את⟩ Yisraele ka ntlha ya dibeke tsa Yerobowame, tse a begileng le tse a neng a dira gore Yisraele e di beke.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a tlaa neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dibeke"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "tsa Yerobowame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a begileng"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le tse"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "a dira gore e di beke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:09.967971799Z",
+  "model": "glm-5.3"
+}

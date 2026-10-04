@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Kgonthe eo Abrahame a neng a e rekile go tswa go ⟨את⟩ barwa ba Kete: koo Abrahame a neng a bolokileng teng, le Sarha mosadi wa gagwe.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "kgonthe eo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "a neng a e rekile"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tswa go ⟨את⟩",
+      "marks": "barwa ba Kete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ba Kete"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "a bolokileng"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "le Sarha"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:06.277479325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Ba ba tla ema go segolola ⟨את⟩ setshaba, kwa thabeng ya Gerizime, fa lo tlolang ⟨את⟩ Yorodane: Shimeone, le Levi, le Yuda, le Yisakare, le Yosefa, le Benyamine.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ba tla ema"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "go segolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizime"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "fa lo tlolang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorodane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodane"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeone"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "le Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le Yuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "le Yisakare"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "le Yosefa"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "le Benyamine"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:28.390710659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Yahwe a re go Kaine: Ke eng go tswa nemogolo mo go wena, mme ke eng sefathego sa gago se se weleng?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaine"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "go tswa nemogolo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mme ke eng"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "se se weleng"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefathego sa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:15.120291518Z",
+  "model": "glm-5.3"
+}

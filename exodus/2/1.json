@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme monna wa mo tlhung ya Lewi a tsamaela teng, mme a nyalana le ⟨את⟩ morwadi wa Lewi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaela teng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mo tlhung"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a nyalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwadi wa Lewi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:42.150225365Z",
+  "model": "glm-5.3"
+}

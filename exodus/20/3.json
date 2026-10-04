@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "O se ka wa nna le medimo e mengwe go kwa pele ga sefatogo sa me.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "O se ka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wa nna le"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gago"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e mengwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "go kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele ga sefatogo sa me"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:48.158717538Z",
+  "model": "glm-5.3"
+}

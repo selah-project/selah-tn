@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme fa dikgomo di ne di le sotlega, o ne a sa di beke; mme tse di sotlegeng di nna tsa Labane, mme tse di nonofileng di nna tsa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "fa di ne di le sotlega"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "di beke"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme go nne"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "tse di sotlegeng"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "tsa Labane"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "tse di nonofileng"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "tsa Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:23:24.239612415Z",
+  "model": "glm-5.3"
+}

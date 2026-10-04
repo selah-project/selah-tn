@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Fela ⟨את⟩ bogosi jotlhe ga se ke ka se kgaola; seabe se le sengwe ke tla se neela morwaago, ka ntlha ya Dawide modiri wa me, le ka ntlha ya Yerushalayime eo ke e tlhophileng.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogosi jotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bogosi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "ke tla kgaola"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "seabe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le sengwe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla neela"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "morwaago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "modiri wa me"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "le ka ntlha ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ke e tlhophileng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:46.521482982Z",
+  "model": "glm-5.3"
+}

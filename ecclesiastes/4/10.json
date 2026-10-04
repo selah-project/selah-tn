@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Gore fa ba wa, mongwe o tla tlhatlosa ⟨את⟩ mogwera wa gagwe; mme mahoko a mongwe a o wa, mme ga go sebabedi go mo tlhatlosa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ba wa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mongwe"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "o tla tlhatlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogwera wa gagwe"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "mogwera wa gagwe"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "mme mahoko a"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mongwe"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "a o wa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sebabedi"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "go mo tlhatlosa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:23:46.944224944Z",
+  "model": "glm-5.3"
+}

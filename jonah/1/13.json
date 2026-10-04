@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme banna ba ne ba itaya ka maano go boela kwa lefatshe le omeletseng, mme ba sa kgone, gonne lewatle le ne le tsweletse go tlhagafala kgatlhanong le bone.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "ba ne ba itaya ka maano"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "go boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "lefatshe le omeletseng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa kgone"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba sa kgone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "le ne le tsweletse"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "go tlhagafala"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kgatlhanong le bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:11.213476990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go nna boitsegele, mme go nna moso — letsatsi la boraro.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "boitsegele"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "la boraro"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:30.323075762Z",
+  "model": "glm-5.3"
+}

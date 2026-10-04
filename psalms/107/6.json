@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Ba go goga kwa go Yahwe ba le mo mathateng a bone; o ne a ba lokolola mo masetlhabolong a bone.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ba go goga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ba le mo mathateng"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "mo masetlhabolong a bone"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "o ne a ba lokolola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:17.610805739Z",
+  "model": "glm-5.3"
+}

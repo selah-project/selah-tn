@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Mme wena o re kgwatlhile kwa lefelong la diphiri, mme o rikeletse rona ka moriti wa loso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "o re kgwatlhile"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwa lefelong la"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "diphiri"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "mme o rikeletse"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "rina"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "ka moriti wa loso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:50.841607603Z",
+  "model": "glm-5.3"
+}

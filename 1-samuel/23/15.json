@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme Dawide a bona gore Shaole o ntshitse ⟨את⟩ bophelo jwa gagwe go bo batla; mme Dawide a nna kwa ntlheng e e sa bolong go nna le metsi ya Zife, kwa sekgweng.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mme a bona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaole"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "go bo batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo jwa gagwe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bophelo jwa gagwe"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mme Dawide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa ntlheng e e sa bolong go nna le metsi ya"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zife"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "kwa sekgweng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:04:36.111656126Z",
+  "model": "glm-5.3"
+}

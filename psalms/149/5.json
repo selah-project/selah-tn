@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 149,
+  "translation": "Ba itshepileng ba tshwanetse go tla ka boitumelo mo boitshepeng; ba opela ka thabo mo diphaposeng tsa bone tsa boroko.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "ba tla ka boitumelo"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ba itshepileng"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "mo boitshepeng"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ba opela ka thabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "diphaposeng tsa bone tsa boroko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:35.217111931Z",
+  "model": "glm-5.3"
+}

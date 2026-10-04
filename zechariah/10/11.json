@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 10:11",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ⟪o⟫ o tla feta mo lewatleng la bothoko, mme o tla otlola maawa mo lewatleng, mme bolele jwa Nilee bo tla omela; mme botlhaga jwa Ashure bo tla tlasegiwa, mme thue ya Mitsrayime e tla seke.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "Mme o tla feta"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mo lewatleng"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "la bothoko"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "mme o tla otlola"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mo lewatleng"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "maawa"
+    },
+    {
+      "surface": "והבישו",
+      "gloss": "bo tla swabisiwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "מצולות",
+      "gloss": "bolele jwa"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "Nilee"
+    },
+    {
+      "surface": "והורד",
+      "gloss": "mme bo tla tlasegiwa"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "botlhaga jwa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "mme thue ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "e tla seke"
+    }
+  ],
+  "timestamp": "2026-10-04T01:09:50.141000740Z",
+  "model": "glm-5.3"
+}

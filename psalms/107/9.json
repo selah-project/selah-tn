@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Gore o ne a kgotsofatsa mophepo o o nameletseng, mme o ne a a tlatsa ka dilo tse di siameng mophepo wa tlala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "o ne a kgotsofatsa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mophepo"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "o o nameletseng"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "mme mophepo"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "wa tlala"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a a tlatsa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka dilo tse di siameng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:31.174525972Z",
+  "model": "glm-5.3"
+}

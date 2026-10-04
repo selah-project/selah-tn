@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 3:11",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Elohim a mmolelela jalo: Ka gonne o kopile lentswe ⟨את⟩ le, mme wa se ke wa kopa matshelo a mantsi go wena, mme wa se ke wa kopa madi a mautlwelwa ⟨את⟩ ya me, mme wa se ke wa kopa meya ya baba ba me, mme o kopile go itse go utlwa tolotlo, ba",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a mmolelela jalo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    },
+    {
+      "surface": "יוען",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "o kopile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme wa se ke wa"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "kopa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matshelo a mantsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme wa se ke wa"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "kopa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "עושר",
+      "gloss": "madi a mautlwelwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme wa se ke wa"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "kopa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya wa"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "baba ba gago"
+    },
+    {
+      "surface": "ושאלת",
+      "gloss": "mme o kopile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "go itse"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "go utlwa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tolotlo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:02.735474308Z",
+  "model": "glm-5.3"
+}

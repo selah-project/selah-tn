@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme go ne go ntse jalo fa a bua le Yosefa letsatsi le letsatsi, mme a sa mo utlwe, go robala mo go yena, kgotsa go nna le yena.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go ntse jalo"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "fa a bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le letsatsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utlwe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "go robala"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "mo go yena"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "le yena"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:32.372138692Z",
+  "model": "glm-5.3"
+}

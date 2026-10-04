@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Yahwe o mo teng ga tempele ya boitshepo jwa gagwe: Nnyang fela, lefatshe lotlhe, kwa ponong ya gagwe!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "mo teng ga tempele"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya boitshepo jwa gagwe"
+    },
+    {
+      "surface": "הס",
+      "gloss": "Nnyang fela"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kwa ponong ya gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:04:33.269951366Z",
+  "model": "glm-5.3"
+}

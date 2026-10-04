@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Yahwe o aga Yerushalayime; o kgobokanya ba ba sieilweng ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "o aga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ba ba sieilweng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "o kgobokanya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:16.350645148Z",
+  "model": "glm-5.3"
+}

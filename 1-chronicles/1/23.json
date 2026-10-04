@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ Ofire, le ⟨את⟩ Havilahe, le ⟨את⟩ Yobabe; bana bontsi jwa bana {{}}",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ofire"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Havilahe"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Havilahe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yobabe"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobabe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bontsi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "baYoktane"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:39.664888094Z",
+  "model": "glm-5.3"
+}

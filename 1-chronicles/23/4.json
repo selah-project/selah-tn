@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Go tswa mo go tsone, baeteledipele ba tiro ya ntlo ya Yahwe, e ne e le dikete di le masome a mabedi le bone; mme baemedi le baatlhodi, dikete tse thataro.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Go tswa mo go tsone"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "baeteledipele"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "mme baemedi"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "le baatlhodi"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "tse thataro"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-04T02:43:40.102111447Z",
+  "model": "glm-5.3"
+}

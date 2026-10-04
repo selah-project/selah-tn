@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Gonne magano a me ga se a lona, mme ditsela tsa lona ga se tsa me, go bua Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "magano a me"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "a lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga se"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ditsela tsa lona"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "tsa me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:09.540114179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Tsela ya boikanyego ke e e tileng; katlholo ya gago ke e beileng pele ga me.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ya boikanyego"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ke e e tileng"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "katlholo ya gago"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ke e beileng pele ga me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:37.733880725Z",
+  "model": "glm-5.3"
+}

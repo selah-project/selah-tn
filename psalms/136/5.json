@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Go mo e bong mo e bong yo o dirang magodimo ka botlhale, gonne go ya le lekae hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "go mo e bong yo o dirang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ka botlhale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lekae"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:19.078089327Z",
+  "model": "glm-5.3"
+}

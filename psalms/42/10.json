@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Ke tlaa bua go El, lefika la me: Ka ntlha ya eng o ntlohetse? Ka ntlha ya eng ke tsamae ke lla, ka kgatelelong ya mmaba?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Ke tlaa bua"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "go El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "lefika la me"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ka ntlha ya eng"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "o ntlohetse"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ka ntlha ya eng"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ke lla"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tsamae"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ka kgatelelong"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ya mmaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:24.134868235Z",
+  "model": "glm-5.3"
+}

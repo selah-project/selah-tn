@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Gape tsena ke dikai tsa Shelomo, tse batho ba Khizkiya, kgosi ya Yuda, ba neng ba di ngwala gape.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "dikai"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "tsa Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "ba neng ba di ngwala gape"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "batho ba"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    }
+  ],
+  "timestamp": "2026-10-04T01:50:49.188760809Z",
+  "model": "glm-5.3"
+}

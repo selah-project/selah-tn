@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Mme lo tseye ⟨את⟩ morwarraabo lona, mme lo tlhatlope, lo boele go ⟨את⟩ monna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "morwarraabo lona"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "lo tseye"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "mme lo tlhatlope"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "lo boele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:51.831023775Z",
+  "model": "glm-5.3"
+}

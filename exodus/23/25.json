@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme lo tla direla ⟨את⟩ Yahwe Elohim ya lona, mme o tlaa nnokela ⟨את⟩ senkgwe sa lona le ⟨את⟩ metsi a lona, mme ke tlaa ntsha bolwetse jwa gare ga lona.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "lo tla direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "mme o tlaa nnokela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senkgwe sa lona"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "senkgwe sa lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metsi a lona"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "metsi a lona"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "mme ke tlaa ntsha"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "bolwetse"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "gare ga lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:29.402589507Z",
+  "model": "glm-5.3"
+}

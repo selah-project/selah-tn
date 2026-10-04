@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme bana ba Khesrone ba ba tswetsweng go ene: ⟨את⟩ Yerakhmele, le ⟨את⟩ Rame, le ⟨את⟩ Kelubayi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mme bana ba"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khesrone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba tswetsweng"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ba tswetsweng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerakhmele"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerakhmele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Rame"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Rame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kelubayi"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubayi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:35:10.780544505Z",
+  "model": "glm-5.3"
+}

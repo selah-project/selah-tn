@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Wena o itse tshwenyo ya me le seriti sa me le tlhotlheletso ya me; ba ba n tlhoyang botlhe ba mo pele ga gago.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "tshwenyo ya me"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "le seriti sa me"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "le tlhotlheletso ya me"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "mo pele ga gago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ba ba n tlhoyang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:53.147255498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme setshaba sa lefatshe se ne sa tsewa ⟨את⟩ Yehoakhaze morwa wa Yoshiahu, mme se ne sa mo tlhoma go busa mo boemong ja ga rraagwe kwa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "se ne sa tsewa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoakhaze"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoakhaze"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "wa Yoshiahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "se ne sa mo tlhoma go busa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong ja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:59:38.430720682Z",
+  "model": "glm-5.3"
+}

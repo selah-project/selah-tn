@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme a re: Se ke boikepo. Mme a tlhagela ⟨את⟩ yone mo teng ga ⟨the⟩ efa, mme a tlhagela ⟨את⟩ leje la selefera mo molomong wa yone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "ke boikepo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "mme a tlhagela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yone (mosadi yo o neng a dutse mo efeng)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mo teng"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "the efa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "mme a tlhagela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leje la selefera"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "leje"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "la selefera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "molomong wa yone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:08:52.500526733Z",
+  "model": "glm-5.3"
+}

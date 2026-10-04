@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "O baakanyetse tsela ya gago, o arogantse ka tharo ⟨את⟩ molelana wa lefatshe la gago, leo Yahwe Elohim ya gago a go rusang ka lona; e nne lefelo la go tsamaya koo ga mmolai mongwe le mongwe.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "O baakanyetse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ya gago"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "o arogantse ka tharo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molelana wa lefatshe la gago"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelana"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "wa lefatshe la gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "a go rusang ka lona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e nne"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "lefelo la go tsamaya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "mmolai"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:53.577039678Z",
+  "model": "glm-5.3"
+}

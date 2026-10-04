@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Ka nako eo matlho a bakuku a tla bulega, le ditsebe tsa bafufu di tla bulwa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "a tla bulega"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "a bakuku"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "le ditsebe tsa"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "bafufu"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "di tla bulwa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:56:10.072518897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "Ke tla go leboga mo ditshabeng, Adonai; ke tla go opela mo merafeng.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ke tla go leboga"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ke tla go opela"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "merafeng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:40.374015085Z",
+  "model": "glm-5.3"
+}

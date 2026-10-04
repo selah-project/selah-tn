@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Gore ⟨את⟩ meabilo ya bone o e thubhe, mme ⟨את⟩ maele a bone a o a thubhe, mme ⟨את⟩ mehlare ya Ashera o e rlola.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meabilo ya bone"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "meabilo ya bone"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "o e thubhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "maele a bone"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "maele a bone"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "a o a thubhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mehlare ya Ashera"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "mehlare ya Ashera"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "o e rlola"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:19.954654620Z",
+  "model": "glm-5.3"
+}

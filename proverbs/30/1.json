@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mafoko a Agure, morwa wa Yake, se se tliselang: lefoko la monna, go ya go Iitiyele, go ya go Iitiyele le Ukale.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mafoko"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "Agure"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "Yake"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "se se tliselang"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lefoko la"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "go ya go Iitiyele"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "go ya go Iitiyele"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "le Ukale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:21.232830598Z",
+  "model": "glm-5.3"
+}

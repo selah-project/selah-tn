@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Ene o ne a aga ⟨את⟩ Eiloti, mme a e busetsa go Yuda, morago ga go robala ga kgosi le bo-ntateagwe.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ene"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "o ne a aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eiloti"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eiloti"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "a e busetsa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "go Yuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "go robala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ga kgosi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntateagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:54:32.317868326Z",
+  "model": "glm-5.3"
+}

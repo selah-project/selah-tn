@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Morwa wa ngwaga e ne e le Shaule ka bogosi jwa gagwe, mme dingwaga di le pedi o ne a busa mo Yisraele.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wa ngwaga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ka bogosi jwa gagwe"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "mme di le pedi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o ne a busa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:00:08.118302949Z",
+  "model": "glm-5.3"
+}

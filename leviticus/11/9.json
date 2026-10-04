@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "⟨את⟩ Se se mo metsing le ka se ja: sengwe le sengwe se se nang mefufa le magaga mo metsing, mo mawatle le mo dinokeng, ⟨את⟩ dilo tseo le ka di ja.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ka se ja"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mo go sengwe le sengwe sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mo metsing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "se nang"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "mefufa"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "le magaga"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mo metsing"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mo mawatle"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "le mo dinokeng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tseo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ka di ja"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:56.480913301Z",
+  "model": "glm-5.3"
+}

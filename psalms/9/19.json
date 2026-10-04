@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Gore segolweng sa mobe o sa ke wa lebalelwa, tshepo ya ba inamorwa e sa ke wa senyega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa ke wa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "segolweng sa mobe"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "a lebalelwe"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "sa mobe"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "tshepo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ya ba inamorwa"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "e sa ke wa senyega"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "bosakhutleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:03.461438964Z",
+  "model": "glm-5.3"
+}

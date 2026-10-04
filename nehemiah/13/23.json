@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Gape ka malatsi ao, ka bona ⟨את⟩ bajuda ba nyalane le basadi ba Ashdode, ba Amoni le ba Moaba.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ka malatsi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ka bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajuda"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "bajuda"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ba nyalane le"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "ba Ashdode"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "ba Amoni"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "ba Moaba"
+    }
+  ],
+  "timestamp": "2026-10-04T02:35:38.017474363Z",
+  "model": "glm-5.3"
+}

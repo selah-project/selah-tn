@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 34:19",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "dikgosi tsa Yuduta, le dikgosi tsa Yerushalayime, balaodi, le bapriste, le setshaba sotlhe sa lefatshe, ba ba neng ba feta gare ga dikarolo tsa namane;",
+  "tokens": [
+    {
+      "surface": "שרי",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "tsa Yuduta"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le dikgosi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "tsa Yerushalayime"
+    },
+    {
+      "surface": "הסרסים",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "le bapriste"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba sotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "העוברים",
+      "gloss": "ba ba neng ba feta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "בתרי",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "tsa namane"
+    }
+  ],
+  "timestamp": "2026-10-04T00:23:14.252786546Z",
+  "model": "glm-5.3"
+}

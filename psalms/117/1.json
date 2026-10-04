@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 117,
+  "translation": "Dumelang ⟨את⟩ Yahwe, ditshaba tsotlhe; mo dumeletseng, batho botlhe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "mo dumeletseng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:45.614582343Z",
+  "model": "glm-5.3"
+}

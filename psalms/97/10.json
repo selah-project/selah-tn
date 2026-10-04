@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 97,
+  "translation": "Lona ba ba ratang Yahwe, tlhoyang bosula; ⟨⟩o boloka bophelo jwa ba itshepang ba gagwe, a ba ntsha mo seatleng sa ba ba bosula.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ba ba ratang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "tlhoyang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ba itshepang ba gagwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "a ba ntsha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:00.996664189Z",
+  "model": "glm-5.3"
+}

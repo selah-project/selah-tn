@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Yehoahaze a kopa ⟨את⟩ sefatlhego sa Yahwe, mme Yahwe a mo utlwa, gonne a bona ⟨את⟩ gatelelo ya Yisraele, gonne kgosi ya Arame e ne e ⟨את⟩ ba gatelela.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "a kopa"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefatlhego"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatlhego sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mme a utlwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gatelelo"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "gatelelo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "e ba gatelela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    }
+  ],
+  "timestamp": "2026-10-03T23:38:49.135379661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme go fitlha bogosi jwa Rehabeame bo ne bo tlhomiwa, mme a nonofala, a tlogela ⟨את⟩ Torah ya Yahwe, mme Yisraele yotlhe ene na le ene.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go fitlha"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "bo ne bo tlhomiwa"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "bogosi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeame"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "mme a nonofala"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "a tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah ya Yahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ene na le ene"
+    }
+  ],
+  "timestamp": "2026-10-04T02:49:46.426597045Z",
+  "model": "glm-5.3"
+}

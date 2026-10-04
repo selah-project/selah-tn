@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Ke a boga, ke nonotse thata; letsatsi lotlhe ke ne ke tsamaya ke le mo tlhakanelong.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "ke a boga"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "ke nonotse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thatA"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mo tlhakanelong"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ke ne ke tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:38.543698018Z",
+  "model": "glm-5.3"
+}

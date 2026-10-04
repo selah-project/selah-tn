@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "O ne a tlhoba ⟨את⟩ motho, mme a baya botlhabela jwa setshwarwa sa Edene ⟨את⟩ dikerube, le ⟨את⟩ molele wa tshaka e e khurumetseng, go sireletsa ⟨את⟩ tsela ya setlhare sa botshelo.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "O ne a tlhoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "mme a baya"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "botlhabela jwa"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "setshwarwa sa"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikerube"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "dikerube"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "להט",
+      "gloss": "molele wa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "e e khurumetseng"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "go sireletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "setlhare sa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "botshelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:06.510369992Z",
+  "model": "glm-5.3"
+}

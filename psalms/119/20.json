@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Moya wa me o thubegile ka takatso, go ya ko katlholong ya gago ka nako tsotlhe.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "o thubegile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Moya wa me"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ka takatso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya ko"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "katlholong ya gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka nako tsotlhe"
+    },
+    {
+      "surface": "עת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:28.257533699Z",
+  "model": "glm-5.3"
+}

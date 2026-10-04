@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme metsi a khurumetse ba ba ba gatelelang; a le mongwe wa bone ga wa sala.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "mme a khurumetse"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ba ba ba gatelelang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wa bone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "wa sala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:40.659895226Z",
+  "model": "glm-5.3"
+}

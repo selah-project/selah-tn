@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Teheleme o ne wa se phutha jaaka diaparo; metsi a ne a eme godimo ga dithaba.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Teheleme"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "jaaka diaparo"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "wa se phutha"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "a ne a eme"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:32.355528361Z",
+  "model": "glm-5.3"
+}

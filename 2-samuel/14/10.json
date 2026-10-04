@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme kgosi ya re: Yo o buang le wena sepe, o mo isa kwa go nna, o se ka wa tlalela go go ama gape.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yo o buang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "o mo isa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "tlalela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "go ama"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go go"
+    }
+  ],
+  "timestamp": "2026-10-03T23:12:26.882053484Z",
+  "model": "glm-5.3"
+}

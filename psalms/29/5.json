@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Lentswe la Yahwe le thuba dikharara; mme Yahwe o thuba ⟨את⟩ dikharara tsa Lebanone.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "le thuba"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "dikharara"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "mme o thuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikharara tsa Lebanone"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "dikharara tsa"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:00.342944391Z",
+  "model": "glm-5.3"
+}

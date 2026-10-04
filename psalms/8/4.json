@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Fa ke lebelela magodimo a gago, ditiro tsa menwana ya gago, kgwedi le dinaledi tseo o di beileng;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ke lebelela"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "magodimo a gago"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ditiro tsa"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "menwana ya gago"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "le dinaledi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "o di beileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:58.209981197Z",
+  "model": "glm-5.3"
+}

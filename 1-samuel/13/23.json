@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme mophato wa masole wa Bafiliste o ne wa tswa o ya kwa tlase ya Mikhmashe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "mme o ne wa tswa"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "mophato wa masole"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wa Bafiliste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o ya kwa"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "tlase ya go tlwaela"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmashe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:32.056932035Z",
+  "model": "glm-5.3"
+}

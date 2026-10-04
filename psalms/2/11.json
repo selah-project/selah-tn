@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Direlang ⟨את⟩ Yahwe ka tsogong; mme itumelang ka go thothomela.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "direlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ka tsogong"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mme itumelang"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "ka go thothomela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:55.831240356Z",
+  "model": "glm-5.3"
+}

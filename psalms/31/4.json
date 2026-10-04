@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Gore o wena ke lesheba la me le sephatlo sa me; mme ka ntlha ya leina la gago, nkgokgontshe mme o nketele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "lesheba la me"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "le sephatlo sa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o wena"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "mme ka ntlha ya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "nkgokgontshe"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "o nketele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:13.893160630Z",
+  "model": "glm-5.3"
+}

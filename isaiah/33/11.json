@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Lo imile sekaka, lo tswala borotho; ruakh ya lona — ke molelo, o tla lo ja.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "lo imile"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "sekaka"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "lo tswala"
+    },
+    {
+      "surface": "קש",
+      "gloss": "borotho"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "ruakh ya lona"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "o tla lo ja"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:46.539084223Z",
+  "model": "glm-5.3"
+}

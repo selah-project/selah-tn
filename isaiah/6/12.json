@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Yahwe o tla ntsha ⟨את⟩ batho kgakala, mme se se setilweng se nne se segolo mo teng ga lefatshe.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "Mme...o tla ntsha kgakala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "se nne se segolo"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "se se setilweng"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:20.664540882Z",
+  "model": "glm-5.3"
+}

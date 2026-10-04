@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Fa o kgwatha olife tsa gago, o se ka wa boela morago go tlhola se se setseng; e tla nna ya moeti, ya kgodisa le ya mohlolwadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "o kgwatha"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "olife tsa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "go tlhola se se setseng"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "wa boela morago"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "ya moeti"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "ya kgodisa"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "le ya mohlolwadi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:36.076065097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Natane a boa kwa legaeng la gagwe. Mme Yahwe o ile a gwesa ⟨את⟩ ngwana yo mosha yo mosadi wa Uriya a neng a m belega go Dawide, mme a lwala ka go sa alafege.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a boa kwa legaeng la gagwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "legaeng la gagwe"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "a gwesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwana yo mosha"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana yo mosha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a neng a m belega"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi wa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dawide"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "a lwala ka go sa alafege"
+    }
+  ],
+  "timestamp": "2026-10-03T23:12:07.805507168Z",
+  "model": "glm-5.3"
+}

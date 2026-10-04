@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ka letsatsi leo motho o tla lahla ⟨את⟩ medimo ya gagwe ya selefera le ⟨את⟩ medimo ya gagwe ya gauta, e a neng a e direla go e rapela, go sekhurumelo le sebono.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "o tla lahla"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya gagwe ya selefera"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "medimo ya gagwe"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ya selefera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "medimo ya gagwe ya gauta"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "medimo ya gagwe"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e a neng"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "a e direla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "go e rapela"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "go sekhurumelo"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "(dikhoutu)"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "le sebono"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:32.052837955Z",
+  "model": "glm-5.3"
+}

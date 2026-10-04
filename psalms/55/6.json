@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Tshogo le go thothoka di tsile mo go nna, mme sengwe se se boifang se ne sa ntsholla.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "tshogo"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "le go thothoka"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "di tsile"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "se ne sa ntsholla"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "sengwe se se boifang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:16.529535681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Fela fa o reetsa ka botlalo lefoko la Yahwe Elohim ya gago, go boloka le go dira ⟨את⟩ taelo yotlhe e ke e go laelang gompieno;",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "go reetsa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o reetsa ka botlalo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lefoko la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "e go laelang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    }
+  ],
+  "timestamp": "2026-10-03T22:26:21.889048750Z",
+  "model": "glm-5.3"
+}

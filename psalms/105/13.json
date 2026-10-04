@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Mme ba ne ba tsamaya go tswa mo setshabeng go ya go setshaba, go tswa mo bogosing go ya go setshaba se sengwe.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ba ne ba tsamaya"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "go tswa mo setshabeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "go tswa mo bogosing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshabeng"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "se sengwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:39.285625371Z",
+  "model": "glm-5.3"
+}

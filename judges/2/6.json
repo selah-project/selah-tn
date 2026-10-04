@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Yehoshua a romela ⟨את⟩ setshaba, mme bana ba Yisraele ba ya, mongwe le mongwe go ya kwa bosweng jwa gagwe, go gapa ⟨את⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "go ya kwa bosweng jwa gagwe"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "go gapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:18.551303872Z",
+  "model": "glm-5.3"
+}

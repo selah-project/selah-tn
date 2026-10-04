@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Shelakha o ne a tshela, morago ga go begetsa ⟨את⟩ Ebere, dingwaga di le tharo le di le nne di le makgolo a mane, mme a begetsa banana le banetsana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "o ne a tshela"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakha"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "go begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebere"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ebere"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le di le nne"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "di le makgolo a mane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a begetsa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "banana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le banetsana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:13.624531659Z",
+  "model": "glm-5.3"
+}

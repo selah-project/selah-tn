@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 70,
+  "translation": "A ba itumele mme ba ikgantsheng ka wena botlhe ba ba go batlang, mme ba ba ratang poloko ya gago ba re ka go sa feleng: A Elohim a godisiwe.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "a ba itumele"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ba ikgantsheng"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ba ba go batlang"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka go sa feleng"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "a godisiwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ba ba ratang"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "poloko ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:58.005457405Z",
+  "model": "glm-5.3"
+}

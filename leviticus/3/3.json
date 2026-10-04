@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme a neelisa mo sung sa dikagiso kabelo ya molelo go Yahwe: ⟨את⟩ mafura a a falotseng mafole, le ⟨את⟩ mafura otlhe a a mo mafoleng.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Mme a neelisa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mo sung sa"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sa dikagiso"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kabelo ya molelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "a a falotseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafole"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mafole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mafoleng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:51.059246452Z",
+  "model": "glm-5.3"
+}

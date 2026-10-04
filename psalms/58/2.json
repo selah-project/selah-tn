@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "A ka nnete le bua tsedeke ka ikhutsa? A le katlholela ka tshiamiso, bana ba batho?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "a ka nnete"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ka ikhutsa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "le bua"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ka tshiamiso"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "le katlholela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:20.739903119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ba Mitsrayime ba dira ⟨את⟩ bana ba Yisraele go direla ka bosula jo bo tseneletseng.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba dira go direla"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ba Mitsrayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "ka bosula jo bo tseneletseng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:07.714820267Z",
+  "model": "glm-5.3"
+}

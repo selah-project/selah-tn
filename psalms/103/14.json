@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Gore ⟨e ne⟩ o itse sebopego sa rona; o gakologelwa gore re lerole.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e ne⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "sebopego sa rona"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "o gakologelwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:25.223294621Z",
+  "model": "glm-5.3"
+}

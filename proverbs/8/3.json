@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Kwa thoko ga dikgoro, kwa molomong wa toropo, kwa tsenong ya dikgoro, o guruuma",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "kwa thoko ga"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kwa molomong wa"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "tsenong ya"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "o guruuma"
+    }
+  ],
+  "timestamp": "2026-10-04T01:44:40.508222611Z",
+  "model": "glm-5.3"
+}

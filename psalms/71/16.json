@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Ke tla tsena ka matla a Adonai Yahwe, ke tla gakologelwa tsedeke ya gago — ya gago a le nosi.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ke tla tsena"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ka matla a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ke tla gakologelwa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeke ya gago"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ya gago a le nosi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:42.122941841Z",
+  "model": "glm-5.3"
+}

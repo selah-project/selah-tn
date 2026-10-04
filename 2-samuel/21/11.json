@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme go begilwe Dawide ⟨את⟩ sepe se se dirileng Ritsepa morwadia Aya, mosadi wa bobedi wa Shaole.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "go begilwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sepe se se dirileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se dirileng"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "a se dirile"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritsepa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "mosadi wa bobedi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Shaole"
+    }
+  ],
+  "timestamp": "2026-10-03T23:16:42.496585695Z",
+  "model": "glm-5.3"
+}

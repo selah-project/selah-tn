@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ka lentswe la me ke a bitsa Yahwe, mme o araba go tswa mo thabeng ya boitshepo jwa gagwe. Sela.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "lentswe la me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke a bitsa"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "mme o araba"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "go tswa mo thabeng"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "boitshepo jwa gagwe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:55.872141938Z",
+  "model": "glm-5.3"
+}

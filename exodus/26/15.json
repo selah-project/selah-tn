@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme o dire ⟨את⟩ ditaere tsa Mishkane, ka setlhare sa akatsia, di emile.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaere"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ditaere"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "setlhare"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "di emile"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:56.403152848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 141,
+  "translation": "O se ka wa tlhoma pelo ya me kwa lefokong le le bosula, go dira ditiro tse di sa siamang ka bobusa bo botala, le ⟨את⟩ banna ba ba dirang boaka; mme nke ke ka ja dilo tse di monate tsa bone.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ka wa"
+    },
+    {
+      "surface": "תט",
+      "gloss": "tlhoma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwa lefokong"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le le bosula"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "ditiro"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ka bobusa bo botala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna ba ba dirang boaka"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "און",
+      "gloss": "boaka"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "mme nke ke ka"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "dilo tse di monate tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:55.382525270Z",
+  "model": "glm-5.3"
+}

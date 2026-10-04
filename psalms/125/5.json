@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 125,
+  "translation": "Mme ba ba sitolang ba ya mo mekgolang ya bone e e kgopametseng, Yahwe o tla ba isa ⟨את⟩ ba ba dirang bokebe; kagiso e nne mo Yisraele.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "mme ba ba sitolang"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "mo mekgolang ya bone e e kgopametseng"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "o tla ba isa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba dirang bokebe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "האון",
+      "gloss": "bokebe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:39.138636351Z",
+  "model": "glm-5.3"
+}

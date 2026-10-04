@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 29:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme go nna jalo, fa Labane a utlwa ⟨את⟩ katse ya gore Yaakobo mmua wa kgaitsadie a fhitlhile, a taboga go mo ralala, a mo lakaretse, a mo sessa, a mo isa kwa ntlong ya gagwe; mme Yaakobo a bolelela Labane ⟨את⟩ dilo tsotlhe tseo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go nna jalo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "fa a utlwa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katse"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "katse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmua"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "wa kgaitsadie"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "a taboga"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "go mo ralala"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "a mo lakaretse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "a mo sessa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "a mo isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlong ya gagwe"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "a bolelela"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dilo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:48.559895101Z",
+  "model": "glm-5.3"
+}

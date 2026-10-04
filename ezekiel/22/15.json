@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme ke tlaa go anamisa mo ditshabeng, ke tlaa go phutha-kgaoganya mo mafatsheng, mme ke tlaa fedisa boitshoko jwa gago go tswa mo go wena.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "ke tlaa go anamisa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "ke tlaa go phutha-kgaoganya"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "mo mafatsheng"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "ke tlaa fedisa"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "boitshoko jwa gago"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go tswa mo go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T00:40:51.478514767Z",
+  "model": "glm-5.3"
+}

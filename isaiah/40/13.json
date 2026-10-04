@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "O mang yo o lekanyetseng ⟨את⟩ ruakh ya Yahwe? Mme ke motho mang yo o ntseng jang kgakololo ya gagwe, a ka mo tlhalosetsa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "O mang"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "yo o lekanyetseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "Mme ke motho"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "kgakololo ya gagwe"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "a ka mo tlhalosetsa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:38.194684172Z",
+  "model": "glm-5.3"
+}

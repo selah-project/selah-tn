@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Ka se Aharone o tla tsena kwa boitshepong: ka phologolo, ngwana wa kgomo, e le seabe sa sebe, le phologolo e ntsi e le seabe sa go chesa.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Ka se"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "o tla tsena"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "boitshepong"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "ka phologolo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngwana wa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "e le seabe sa sebe"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "le phologolo e ntsi"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "e le seabe sa go chesa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:01.213020074Z",
+  "model": "glm-5.3"
+}

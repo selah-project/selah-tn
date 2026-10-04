@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Yahwe o dira ditsedeke le dikatlholo go ba ba gatelelwang botlhe.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "o dira"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ditsedeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "le dikatlholo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ... botlhe"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "ba ba gatelelwang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:05.692385019Z",
+  "model": "glm-5.3"
+}

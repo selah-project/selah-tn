@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme molelo o ne wa tlhoga go tswa pele ga Yahwe, mme wa ba ja, mme ba tlhokafala pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "mme o ne wa tlhoga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "go tswa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mme wa ba ja"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "mme ba tlhokafala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:03.533612535Z",
+  "model": "glm-5.3"
+}

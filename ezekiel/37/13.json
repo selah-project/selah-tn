@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme lo tla itse gore ke nna Yahwe, fa ke bula ⟨את⟩ mebelelo ya lona, mme fa ke go tlisa mo mebelelong ya lona, setshaba sa me.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "lo tla itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "fa ke bula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mebelelo ya lona"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "mebelelo ya lona"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "mme fa ke go tlisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "mo mebelelong ya lona"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:47:53.030389543Z",
+  "model": "glm-5.3"
+}

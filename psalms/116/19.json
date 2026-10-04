@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Kwa dikgorong twa ntlo ya Yahwe, mo gare ga wena, Yerushalayime. Baka Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "kwa dikgorong tsa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "mo gare ga wena"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Baka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:49.434272995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Yahwe, ba bakaakanya ba le kae! Ba bantsi ba kgwa go simolola go nna kgatlhanong le nna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ba le kae"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ba bakaakanya"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ba ba kgatlhanong le nna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bantsi"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ba simolola go kgwa go nna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatlhanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:07.253778513Z",
+  "model": "glm-5.3"
+}

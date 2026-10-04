@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme malatsi a Adame, morago ga go beela ⟨את⟩ Shete, e ne e le dingwaga di le makgolo a robedi; mme o ne a belega barwa le barwadie.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Mme malatsi... e ne e le"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adame"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "go beella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shete"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shete"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "robedi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme o ne a belega"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le barwadie"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:18.447549434Z",
+  "model": "glm-5.3"
+}

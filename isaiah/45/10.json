@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Maseko go yo o reng go rraagwe: O tsala eng? le go mosadi: O begets eng?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Maseko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o reng"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "go rraagwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "O begets"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "le go mosadi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "O tsala"
+    }
+  ],
+  "timestamp": "2026-10-03T23:59:07.912387931Z",
+  "model": "glm-5.3"
+}

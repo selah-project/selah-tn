@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Mme ke tla batla diphoso tsa bone ka setlhotlhwa, le molato wa bone ka dikgotlho.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "mme ke tla batla"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ka setlhotlhwa"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "diphoso tsa bone"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "le ka dikgotlho"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "molato wa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:25.488424892Z",
+  "model": "glm-5.3"
+}

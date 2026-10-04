@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Di nne pele ga Yahwe ka bosetlhogo; mme a segele mo lefatsheng segopotso sa bone.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "di nne"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka bosetlhogo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "mme a segele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "segopotso sa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:23.502777235Z",
+  "model": "glm-5.3"
+}

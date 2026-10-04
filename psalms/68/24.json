@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Gore lonao lwa gago lo tlhape mo mading; leleme ya dintsa tsa gago e nne le karolo ya yone go tswa mo ba ba mo tlhoyang.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "lo tlhape"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lonao lwa gago"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mo mading"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "leleme"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "ya dintsa tsa gago"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "mo ba ba mo tlhoyang"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "go tswa (mo go bone)"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:03.712225576Z",
+  "model": "glm-5.3"
+}

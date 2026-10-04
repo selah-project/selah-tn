@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme go ne ga nna jalo, ka bonolo bo bo bopilweng jwa bokgantsi jwa gagwe, a silafatsa ⟨את⟩ lefatshe, mme a dira bokgantsi le ⟨את⟩ leje le le ⟨את⟩ setlhare.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme go ne ga nna jalo"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ka bonolo bo bo bopilweng"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "jwa bokgantsi jwa gagwe"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "a silafatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "mme a dira bokgantsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leje"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "leje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setlhare"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "setlhare"
+    }
+  ],
+  "timestamp": "2026-10-04T00:06:13.349884864Z",
+  "model": "glm-5.3"
+}

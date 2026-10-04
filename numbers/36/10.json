@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Jaaka Yahwe a laetse ⟨את⟩ Moshe, jalo ka jalo bana ba basadi ba Tselofekhade ba dirile.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo ka jalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dirile"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana ba basadi"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofekhade"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:08.238276458Z",
+  "model": "glm-5.3"
+}

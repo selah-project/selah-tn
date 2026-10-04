@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Mo baakanyeng ba mo tlotle, malengwe a hae ka bobone; mo baakanyeng ba mo tlotle, masomo a hae ka bobone.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mo baakanyeng ba mo tlotle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka bobone"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malengwe a hae"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mo baakanyeng ba mo tlotle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka bobone"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "masomo a hae"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:07.581203923Z",
+  "model": "glm-5.3"
+}

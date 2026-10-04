@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ba tlhabela ⟨את⟩ pheku, mme ba isa ⟨את⟩ ngwana yo kwa Eliele.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "ba tlhabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pheku"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pheku"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ba isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwana yo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ngwana yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eliele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:55:48.195855856Z",
+  "model": "glm-5.3"
+}

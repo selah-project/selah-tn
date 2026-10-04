@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Yahwe a tlhagatsa moganeleri go Shelomo: ⟨את⟩ Hadade MmoEdome, wa peo ya kgosi — ene o ne a le kwa Edome.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tlhagatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "moganeleri"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "go Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadade MmoEdome"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "MmoEdome"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "wa peo ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "kwa Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:46.521717249Z",
+  "model": "glm-5.3"
+}

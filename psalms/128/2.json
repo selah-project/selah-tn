@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 128,
+  "translation": "O tla ja tiro ya diatla tsa gago; o itumetse, mme go tla go siame.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ya diatla tsa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "O tla ja"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "o itumetse"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "mme go tla go siame"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go siame go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:29.151759519Z",
+  "model": "glm-5.3"
+}

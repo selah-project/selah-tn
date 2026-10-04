@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 137,
+  "translation": "Leleme la me le nne le kgomaretse mo llaong la mo bemong wa me fa ke sa go gopola, fa ke sa godisa ⟨את⟩ Yerushalayime godimo ga thabo ya me ya kgolo.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "le nne le kgomaretse"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "leleme la me"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "mo llaong la mo bemong wa me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ke go gopola"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ke godisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "thabo ya me ya kgolo"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "thabo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:20.001805719Z",
+  "model": "glm-5.3"
+}

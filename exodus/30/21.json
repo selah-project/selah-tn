@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 30:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Ba tlee tlhatswa diatla tsa bone le dinao tsa bone, mme ba se ke ba swa; mme e tlaa nna molao o o sa khutlang go bona, go ene le go peo ya gagwe, go ditlhabologo tsa bone.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ba tlee tlhatswa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tsa bone"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "le dinao tsa bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ke"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ba swa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mme e tlaa nna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "חק",
+      "gloss": "molao"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "o o sa khutlang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "le go peo ya gagwe"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "go ditlhabologo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:56.359595538Z",
+  "model": "glm-5.3"
+}

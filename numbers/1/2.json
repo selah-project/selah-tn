@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Seolang ⟨את⟩ tlhago ya phuthego yotlhe ya bana ba Yisraele, ka malapa a bone, ka ntlo ya bo-rreabone, ka palo ya maina — mongwe le mongwe wa bonna, ka ditlhogo tsa bone.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Seolang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhago"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ya phuthego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka malapa a bone"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka ntlo"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ya bo-rreabone"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ka palo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ya maina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wa bonna"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "ka ditlhogo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:02.140843318Z",
+  "model": "glm-5.3"
+}

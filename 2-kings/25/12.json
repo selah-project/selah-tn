@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme ba ba humanegileng thata ba lefatshe, mokapotene wa masole o ne a ba tlogela gore ba nne bakgoki ba merara le balimi.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "mme ba ba humanegileng thata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "a ba tlogela"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mokapotene"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa masole"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "bakgoki ba merara"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "le balimi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:19.531239732Z",
+  "model": "glm-5.3"
+}

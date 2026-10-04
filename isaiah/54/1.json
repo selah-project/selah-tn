@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 54:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 54,
+  "translation": "Opela, o se nang bana, o sa tsala; thunya ka mmino, mme o thabise, o sa sotlega; gonne bana ba yo o tlhobilegileng ba feta bana ba yo o nyalweng — a re Yahwe.",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "Opela"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "o se nang bana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a tsala"
+    },
+    {
+      "surface": "פצחי",
+      "gloss": "thunya ka mmino"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "mmino"
+    },
+    {
+      "surface": "וצהלי",
+      "gloss": "mme o thabise"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "a sotlega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba le bantsi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שוממה",
+      "gloss": "yo o tlhobilegileng"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "go feta bana ba"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "yo o nyalweng"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:02:16.672350767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "mme o utlwe kwa magodimong ⟨את⟩ thapelo ya bone ⟨את⟩ le kelotlhoko ya bone, mme o dire katlholo ya bone.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "mme o utlwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thapelo ya bone"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "thapelo ya bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kelotlhoko ya bone"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "le kelotlhoko ya bone"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "katlholo ya bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:21.636708995Z",
+  "model": "glm-5.3"
+}

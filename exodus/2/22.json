@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme a belega morwa, mme a bitsa ⟨את⟩ leina la gagwe Gereshome, ka gonne o ne a re: Nna ke motho wa mafatshe a sele kua lefatsheng la bafalodi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitssa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o ne a re"
+    },
+    {
+      "surface": "גר",
+      "gloss": "motho wa mafatshe a sele"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ntse ke le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kua lefatsheng"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "la bafalodi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:23.952931323Z",
+  "model": "glm-5.3"
+}

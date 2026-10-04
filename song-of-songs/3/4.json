@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Fofela fela fa ke sena go ba feta, ke ne ka fitlhela ⟨את⟩ yo moyo wa me o mo ratang; ka mo tshwara, mme ka se ka ka mo losa, go fitlha ke mo isa mo ntlong ya mma me, le mo phaposing ya yo o ntsiditseng.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Fofela fela"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "fa ke sena go ba feta"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "ka fitlhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo moyo wa me o mo ratang"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "yo moyo wa me o mo ratang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wa me"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "ka mo tshwara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ka se ka"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "ka mo losa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "ke mo isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya mma me"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "phaposing"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "ya yo o ntsiditseng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:06:56.461126571Z",
+  "model": "glm-5.3"
+}

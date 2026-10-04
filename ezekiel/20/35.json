@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 20:35",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme ke tlaa isa ⟨את⟩ lona kwa sekakeng sa ditshaba, mme ke tlaa ahlola ⟨את⟩ lona foo, sefathego go le sefathego.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Mme ke tlaa isa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "kwa sekakeng sa ditshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sekakeng"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "sa ditshaba"
+    },
+    {
+      "surface": "ונשפטתי",
+      "gloss": "mme ke tlaa ahlola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefathego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go le"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefathego"
+    }
+  ],
+  "timestamp": "2026-10-04T00:39:09.778115567Z",
+  "model": "glm-5.3"
+}

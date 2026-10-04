@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme a bea ⟨את⟩ sephego gare ga setente sa phuthego le altare, mme a ntsha metsi koo go tlhapha ka teng.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mme a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sephego"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "sephego"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "setente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa phuthego"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a ntsha"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "go tlhapha ka teng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:44.609461922Z",
+  "model": "glm-5.3"
+}

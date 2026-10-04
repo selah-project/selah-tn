@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Mme magodimo a tla a leboga makgakgabodigo a gago, Yahwe, le boikanyegi jwa gago mo phuthegong ya ba ba boitshepo.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "mme ... a tla a leboga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "makgakgabodigo a gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "le"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "boikanyegi jwa gago"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mo phuthegong ya"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ba ba boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:38.086952231Z",
+  "model": "glm-5.3"
+}

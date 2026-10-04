@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme sejanê se sengwe le se sengwe sa sekhutlho sa nageng se ne se sa ise se nne mo lefatsheng, mme sejanê se sengwe le se sengwe sa nageng se ne se sa ise se tsoge, gonne Yahwe Elohim o ne a sa isa a neela pula mo lefatsheng, mme motho o ne a seyo go kwala ⟨את⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mme ... se sengwe le se sengwe"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "sejanê sa sekhutlho"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa nageng"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "se sa ise"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se nne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ... se sengwe le se sengwe"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "sejanê"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa nageng"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "se sa ise"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "se tsoge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "a neela pula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "mme motho"
+    },
+    {
+      "surface": "אין",
+      "gloss": "o ne a seyo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "go kwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:20.463696608Z",
+  "model": "glm-5.3"
+}

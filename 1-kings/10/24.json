@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme lefatshe lotlhe le ne le batla ⟨את⟩ sefatlhego sa Shelomoh, go kwa ⟨את⟩ bohlale jwa gagwe, bo Elohim a neng a bo neile mo pelong ya gagwe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mme ... lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "le ne le batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefatlhego sa Shelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatlhego"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "go kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohlale jwa gagwe"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "bohlale jwa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo ... a neng"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a bo neile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mo pelong ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:23:49.940351405Z",
+  "model": "glm-5.3"
+}

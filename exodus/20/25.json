@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme fa o dira ⟨את⟩ alatara ya maje go nna, o se ka wa e aga ka maje a a segilweng; gonne fa o gogela tshaka ya gago mo go yone, o e tlhotlhotsa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alatara"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ya maje"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o dira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "wa e aga"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "maje a a segilweng"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "a a segilweng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "tshaka ya gago"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "o gogela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "o e tlhotlhotsa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:17.849879554Z",
+  "model": "glm-5.3"
+}

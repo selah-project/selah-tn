@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme ba leka, ba gana, ⟨את⟩ Elohim wa godimo, mme bopaki jwa gagwe ba bo sa boloke.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ba leka"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ba gana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim wa godimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "wa godimo"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "mme bopaki jwa gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "boloke"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:27.221360089Z",
+  "model": "glm-5.3"
+}

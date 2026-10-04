@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme o tsaye mo bareng wa gagwe go ba dingwao wa gago, mme barwedi ba gagwe ba dire bofalalela morago ga medimo ya bone, mme ba dira gore ⟨את⟩ dingwao tsa gago di dire bofalalela morago ga medimo ya bone.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tsaye"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "mo bareng wa gagwe"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "go ba dingwao wa gago"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "mme ba dire bofalalela"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "barwedi ba gagwe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "medimo ya bone"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "mme ba dira gore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dingwao tsa gago"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dingwao tsa gago"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "medimo ya bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:19.955246572Z",
+  "model": "glm-5.3"
+}

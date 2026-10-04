@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Gore seatla sa Yahwe se tla phomola thabeng eno, mme Mowabe o tla kgalwa fa tlase ga gagwe, jaaka bofero bo kgalwa mo majaneng, mo Madimena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "se tla phomola"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sa Yahwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "mme o tla kgalwa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "fa tlase ga gagwe"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "jaaka bo kgalwa"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "bofero"
+    },
+    {
+      "surface": "במי",
+      "gloss": "mo majaneng"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "mo Madimena"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:09.746334259Z",
+  "model": "glm-5.3"
+}

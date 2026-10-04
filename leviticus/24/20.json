@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Go thubiwa bakeng sa go thubiwa, leitlho bakeng sa leitlho, meno bakeng sa meno; jaaka a begile sebodi mo mothong, jalo oo go tlaa begiwa mo go ene.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "go thubiwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "go thubiwa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leitlho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leitlho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "meno"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "meno"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a begile"
+    },
+    {
+      "surface": "מום",
+      "gloss": "sebodi"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mo mothong"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo oo"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "go tlaa begiwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:11.366772770Z",
+  "model": "glm-5.3"
+}

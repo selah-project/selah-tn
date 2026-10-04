@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Moshe le Aharone ba dira jalo, jaaka Yahwe a laetse; mme o ne a tloditse ka mosola, a tloditse ⟨את⟩ metsi a mo Nokeng fa pele ga mahiti a Farao le a basadi ba gagwe, mme metsi ono oohle a mo Nokeng a fetoloha go nna madi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "a tloditse"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "ka mosola"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a tloditse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "mo Nokeng"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "fa pele ga mahiti a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "le a"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basadi ba gagwe"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "a fetoloha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohohe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "mo Nokeng"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "go nna madi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:10.888741802Z",
+  "model": "glm-5.3"
+}

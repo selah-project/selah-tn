@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 97,
+  "translation": "Itumelang, lona ba siameng, go Yahwe, mme le dumedise, go gopola boitshepo jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "itumelang"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "lona ba siameng"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "mme le dumedise"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "go gopola"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "boitshepo jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:00.996950910Z",
+  "model": "glm-5.3"
+}

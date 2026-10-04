@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Yahwe a mo re: Ke eng se se mo seatleng sa gago? Mme ena a re: Motlhare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ke eng se"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mo seatleng sa gago"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "motlhare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:24.875029624Z",
+  "model": "glm-5.3"
+}

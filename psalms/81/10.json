@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "A go se nne modimo wa selegae mo go wena, mme o se ka wa ithaopela fa pele ga El wa selegae.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "A go se nne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e nne"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wa selegae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ithaopela fa pele ga"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "go El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wa selegae"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:32.722105174Z",
+  "model": "glm-5.3"
+}

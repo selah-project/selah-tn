@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "Go rute go bala malatsi a rona jalo, gore re neelane pelo ya botlhale.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "go bala"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "malatsi a rona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "go rute go itsa"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "gore re neelane"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ya botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:38.497053335Z",
+  "model": "glm-5.3"
+}

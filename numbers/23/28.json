@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme Balaka a tsamaya ka ⟨את⟩ Bileame, a ya kwa tlhogo ya Peore, e e lebileng fatshe kwa sephiring sa lefatshe la boakhulo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tsamaya ka"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bileame"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileame"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo ya"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peore"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "e e lebileng fatshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sephiring sa"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "lefatshe la boakhulo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:13:44.025343766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Tsea ⟨את⟩ Aharone le ⟨את⟩ bana ba gagwe le ene, le ⟨את⟩ diaparo, le ⟨את⟩ mafura a go tlodisa, le ⟨את⟩ kgomo ya katlholo ya sephiri, le ⟨את⟩ dipudi-pogwedi tse pedi tsa dika, le ⟨את⟩ serapa sa dikuku tse di sa tsengwang,",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tsea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩gagwe — le ene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a go tlodisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "kgomo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya katlholo ya sephiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "pedi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "dika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "serapa"
+    },
+    {
+      "surface": "סל",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "sa dikuku tse di sa tsengwang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:10.629651951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme o ne a atlholola ⟨את⟩ Yisraele dingwaga di le masome a mabedi le tharo; mme a tlhokafala, a bolokwa kwa Shamire.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a atlholola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "le tharo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a tlhokafala"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a bolokwa"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "kwa Shamire"
+    }
+  ],
+  "timestamp": "2026-10-03T22:49:32.287499818Z",
+  "model": "glm-5.3"
+}

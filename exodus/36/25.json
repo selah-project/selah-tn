@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme mo lehlakoreng la bobedi la Mishkane, kwa bokone, o ne a dira dikarata di le masome a mabedi.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "mme mo lehlakoreng la"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kwa lehlakoreng la"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "bokone"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ne a dira"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "di le masome a mabedi"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "dikarata"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:55.504910862Z",
+  "model": "glm-5.3"
+}

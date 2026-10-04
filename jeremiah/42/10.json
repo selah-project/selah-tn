@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Fa lo boela lo nna mo lefatsheng le, ke tlaa lo aga ⟨את⟩ mme ga ke thube, ke tlaa lo jadisa ⟨את⟩ mme ga ke ntše, gore ke iketletse ka bosula bo ke bo dirileng go lona.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "lo boela"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "lo nna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ke tlaa lo aga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "ke thube"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ke tlaa lo jadisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "ke ntše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ke iketletse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke bo dirileng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:26:30.384195211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 2:4",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ka letsatsi leo ba tla amohela mo go lona pomo, ba llelelle llelo la kutlwelo-botlhoko, ba re: Re senotswe ka tlhamalalo; karolo ya batho ba me o e fetola; o e ntsha mo go nna kae! A boela morago, a kgaoganya masimo a rona.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ba tla amohela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pomo"
+    },
+    {
+      "surface": "ונהה",
+      "gloss": "ba llela"
+    },
+    {
+      "surface": "נהי",
+      "gloss": "llelo"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "la kutlwelo-botlhoko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "re senotswe"
+    },
+    {
+      "surface": "נשדנו",
+      "gloss": "ka tlhamalalo"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya batho ba me"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "o e fetola"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kae"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "o e ntsha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "לשובב",
+      "gloss": "a boela morago"
+    },
+    {
+      "surface": "שדינו",
+      "gloss": "masimo a rona"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "a kgaoganya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:02:23.047814856Z",
+  "model": "glm-5.3"
+}

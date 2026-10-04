@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Mme fa ke ne ke leka go tlhaloganya seno, e ne e le tiro e bokete mo ditsong tsa me.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "mme ke ne ke leka"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "go tlhaloganya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "seno"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "tiro e bokete"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo ditsong tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:42.366681156Z",
+  "model": "glm-5.3"
+}

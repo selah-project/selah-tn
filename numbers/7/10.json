@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme batausi ba tlisitse ⟨את⟩ go tlhomiwa ga altare ka letsatsi leo a neng a a tlodilwa ⟨אתו⟩; mme batausi ba tlisitse ⟨את⟩ mpho ya bone kwa pele ga altare.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "ba tlisitse"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "batausi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go tlhomiwa ga altare"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "go tlhomiwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "a tlodilwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "ba tlisitse"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "batausi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya bone"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "mpho ya bone"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    }
+  ],
+  "timestamp": "2026-10-03T22:05:49.047664567Z",
+  "model": "glm-5.3"
+}

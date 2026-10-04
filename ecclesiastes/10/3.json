@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme gape fa sefoolana a tsamaya mo tseleng, tlhaloganyo ya gagwe e tlhoka, mme o bolelela botlhe gore ke sefoolana.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "fa sefoolana"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "tlhaloganyo ya gagwe"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "e tlhoka"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mme o bolelela"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "sefoolana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ena"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:42.315990875Z",
+  "model": "glm-5.3"
+}

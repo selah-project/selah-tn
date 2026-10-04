@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme basadi ba ba neng ba tshameka ba ne ba arulana, ba re: Shaule o idile dikete tsa gagwe, mme Dawide o idile masome a dikete a gagwe.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "ba ne ba arulana"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "ba ba neng ba tshameka"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "o idile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "dikete tsa gagwe"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mme Dawide"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "masome a dikete a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:02:54.966030606Z",
+  "model": "glm-5.3"
+}

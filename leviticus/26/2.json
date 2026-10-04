@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "⟨את⟩ Ditšhaba tsa me tsa Shabata di tla bolokwa ke lona, mme boitshepo jwa me jwa Mishkane lo tla bo tshaba; ke nna Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditšhaba tsa me tsa Shabata"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Ditšhaba tsa me tsa Shabata"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "di tla bolokwa ke lona"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "mme boitshepo jwa me"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "lo tla bo tshaba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:10.831936101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme lona lo nyenyefatsa ⟨את⟩ yone, fa lo re: tafole ya Adonai e a kgobega; mme maungo a yona, sejo sa yona se nyenyefadiwa.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "lo nyenyefatsa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yone",
+      "marks": "leina la Adonai"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "fa lo re"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "e a kgobega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "mme maungo a yona"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "se nyenyefadiwa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sejo sa yona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:10:23.673897440Z",
+  "model": "glm-5.3"
+}

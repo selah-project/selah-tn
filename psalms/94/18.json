@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Fa ke ne ke re, lonapo lwa me lo tshwarogile, hesede ya gago, Yahwe, e ne e nkgomotsa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "lo tshwarogile"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lonapo lwa me"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "e ne e nkgomotsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:36.647385804Z",
+  "model": "glm-5.3"
+}

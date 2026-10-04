@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Yahwe o ne a senola ⟨את⟩ sehlekehleke sa Shemuuele, letsatsi le le lengwe pele ga go tla ga Shauole, a re:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "a senola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlekehleke sa Shemuuele"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sehlekehleke"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuele"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le le lengwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "go tla ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T23:00:02.350035356Z",
+  "model": "glm-5.3"
+}

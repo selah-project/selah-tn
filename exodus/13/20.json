@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme ba tsamaya go tswa kwa Sukote, ba tlhoma ditente kwa Etame, kwa molelwaneng wa sekaka.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukote"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba tlhoma ditente"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Etame"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "kwa molelwaneng"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sekaka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:23.822350663Z",
+  "model": "glm-5.3"
+}

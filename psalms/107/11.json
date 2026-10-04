@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Gore ba ne ba ganetsa mafoko a El, mme ba nyenya kgakololo ya Yo o kwa godimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ba ne ba ganetsa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "mme kgakololo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ya Yo o kwa godimo"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ba nyenya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:31.175033060Z",
+  "model": "glm-5.3"
+}

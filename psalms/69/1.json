@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Go moeteleleding, go ya ka Se-Shoshanime, sefoko sa ga Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go moeteleleding"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Se-Shoshanime"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa ga Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:54.655552608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme ka romela ⟨את⟩ Moshe le ⟨את⟩ Aharone, mme ka betsa ⟨את⟩ Mitsrayime jaaka go dirileng ka teng, mme morago ga moo ka ntsha ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "mme ka romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "mme ka betsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "go dirileng"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ka teng"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme morago ga moo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ka ntsha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:45:11.135911003Z",
+  "model": "glm-5.3"
+}

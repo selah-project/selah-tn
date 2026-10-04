@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Yahwe Elohim a mo romela kwa ntle ga setshwarwa sa Edene, go bereka ⟨את⟩ lefatshe leo a neng a tserwe go lone.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "a mo romela kwa ntle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "setshwarwa sa"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edene"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "go bereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a neng a tserwe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "go lone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:06.510140754Z",
+  "model": "glm-5.3"
+}

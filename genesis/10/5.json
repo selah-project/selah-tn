@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Go tswa mo go bana baa, ditlhaketlhake tsa ditshaba di kgaogile ka mafatshe a tsona, mongwe le mongwe ka puo ya gagwe, ka malapa a bone, ka ditshabeng tsa bone.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Go tswa mo go baa"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "di kgaogile"
+    },
+    {
+      "surface": "איי",
+      "gloss": "ditlhaketlhake"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tsa ditshaba"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ka mafatshe a tsona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "ka puo ya gagwe"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka malapa a bone"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ka ditshabeng tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:38.562007525Z",
+  "model": "glm-5.3"
+}

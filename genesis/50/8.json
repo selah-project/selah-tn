@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Lefatshe la Goshene le losika lwa Yosefa le bomonnawe le ntlo ya rre wa gagwe — fela bana ba bone le dipoo tsa bone le dikgomo tsa bone ba di tlogetse kwa lefatsheng la Goshene.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "le botlhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "bomonnawe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rre wa gagwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "bana ba bone"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "dipoo tsa bone"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "dikgomo tsa bone"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ba di tlogetse"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:09.230199715Z",
+  "model": "glm-5.3"
+}

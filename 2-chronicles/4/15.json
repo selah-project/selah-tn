@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "lewatle le le lengwe ⟨את⟩, le dikgomo di le lesome le bobedi ⟨את⟩ mo go tsone ka fa tlase.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewatle le le lengwe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le le lengwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo di le lesome le bobedi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "le bobedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mo go tsone ka fa tlase"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:23.647921113Z",
+  "model": "glm-5.3"
+}

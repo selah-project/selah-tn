@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "O ne wa kopana le ⟨את⟩ yo o itumelelang mme yo o dirang tsedeke, ba ba go gakologelwang mo ditseleng tsa gago; bona, wena o ne wa kgalefa, mme re ne ra dira phoso; mo go tsone ka bosakhutlho, mme re tlaa bolokwa.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "o ne wa kopana le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo o itumelelang mme yo o dirang tsedeke"
+    },
+    {
+      "surface": "שש",
+      "gloss": "yo o itumelelang"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme yo o dirang"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "mo ditseleng tsa gago"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "ba ba go gakologelwang"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "o ne wa kgalefa"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "mme re ne ra dira phoso"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka bosakhutlho"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "mme re tlaa bolokwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:03:43.941179033Z",
+  "model": "glm-5.3"
+}

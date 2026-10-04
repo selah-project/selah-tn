@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Jalo kgosi ya Ashure e tla rula ⟨את⟩ batshwarwa ba Mitsrayime le ⟨את⟩ ba ba lelekilweng ba Kushe — basha le bagolo, ba sa apara sepe le ba se na ditlhako, mme makobo a bona a senotse — bosebe jwa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "e tla rula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ya Ashure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batshwarwa ba Mitsrayime"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "batshwarwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ba Mitsrayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba ba lelekilweng ba Kushe"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "ba ba lelekilweng"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ba Kushe"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "basha"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "le bagolo"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ba sa apara sepe"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "le ba se na ditlhako"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "mme a senotse"
+    },
+    {
+      "surface": "שת",
+      "gloss": "makobo"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "bosebe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "jwa Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:34.242127837Z",
+  "model": "glm-5.3"
+}

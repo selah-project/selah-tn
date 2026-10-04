@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Sefufa sengwe le sengwe se se phunyetsang, se se tsamayang ka maoto a mane, ke se se tlhoilweng go lona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "se se phunyetsang"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "sa sefufa"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "se se tsamayang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "maoto a mane"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "se se tlhoilweng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:22.833810566Z",
+  "model": "glm-5.3"
+}

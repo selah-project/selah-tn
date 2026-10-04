@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Bara Efereyime, ba ba tshotlang bou, ba boela morago ka letsatsi la ntwa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efereyime"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "ba ba tshotlang"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "ba ba thunyang ka"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bou"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "ba boela morago"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "la ntwa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:25.489958377Z",
+  "model": "glm-5.3"
+}

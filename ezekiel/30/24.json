@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 30:24",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme ke tla matlafatsa ⟨את⟩ matloga a kgosi ya Babele, mme ke tla beya ⟨את⟩ tshaka ya me mo seatleng sa gagwe; mme ke tla thuba ⟨את⟩ matloga a Farao, mme o tla nnea dinneo tsa motho yo o thubilweng, fa pele ga gagwe.",
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "Mme ke tla matlafatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matloga a kgosi ya Babele"
+    },
+    {
+      "surface": "זרעות",
+      "gloss": "matloga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a kgosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babele"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke tla beya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshaka ya me"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "tshaka ya me"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "mme ke tla thuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matloga a Farao"
+    },
+    {
+      "surface": "זרעות",
+      "gloss": "matloga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "a Farao"
+    },
+    {
+      "surface": "ונאק",
+      "gloss": "mme o tla nnea"
+    },
+    {
+      "surface": "נאקות",
+      "gloss": "dinneo"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "tsa motho yo o thubilweng"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fa pele ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:44:24.785497104Z",
+  "model": "glm-5.3"
+}

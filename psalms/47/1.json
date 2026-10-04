@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Ya moeteledipele; wa bana ba Korake; moko.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ya moeteledipele"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korake"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:43.080767914Z",
+  "model": "glm-5.3"
+}

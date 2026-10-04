@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme ba tsamaya ba fapana go tswa mo setshabeng sengwe go ya go se sengwe, le go tswa mo bogosong jo bo sengwe go ya go sechaba se sengwe.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "Mme ba tsamaya ba fapana"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "go tswa mo setshabeng sengwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "le go tswa mo bogosong jo bo sengwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "se sengwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:40:36.828422290Z",
+  "model": "glm-5.3"
+}

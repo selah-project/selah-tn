@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 4:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mafoko a gago a tlhoma yo o welang, mme diphatlha tse di tlhapang o di nonotsha.",
+  "tokens": [
+    {
+      "surface": "כושל",
+      "gloss": "yo o welang"
+    },
+    {
+      "surface": "יקימון",
+      "gloss": "a tlhoma"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "mafoko a gago"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "mme diphatlha"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "tse di tlhapang"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "o di nonotsha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:53:00.699244492Z",
+  "model": "glm-5.3"
+}

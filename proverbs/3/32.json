@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Gore se se nyofang se tlhagisa Yahwe, mme sephiri sa gagwe se na le ⟨את⟩ ba ba tlhamaletseng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "se tlhagisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "se se nyofang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme le ⟨את⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba ba tlhamaletseng"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sephiri sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:35.026047461Z",
+  "model": "glm-5.3"
+}

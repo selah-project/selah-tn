@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Ba le bantsi ba tla ikgetha, ba itshweu, ba khutlwa mo molelong; ba ba bosula ba tla dira boikepo, mme ba ba bosula botlhe ba se ka go tlhaloganya; mme baleele ba tla tlhaloganya.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "ba tla ikgetha"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "ba itshweu"
+    },
+    {
+      "surface": "ויצרפו",
+      "gloss": "ba khutlwa mo molelong"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba le bantsi"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ba tla dira boikepo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ka"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "go tlhaloganya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "mme baleele"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba tla tlhaloganya"
+    }
+  ],
+  "timestamp": "2026-10-04T03:25:10.429464292Z",
+  "model": "glm-5.3"
+}

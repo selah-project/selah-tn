@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Ama e le nngwe botelele jwa yone, mme ama e le nngwe bophara jwa yone; e nne e kgolokwe; mme dama tse pedi tsa yone botelele; dilenaka tsa yone di tswa go yone.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "botelele jwa yone"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mme ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara jwa yone"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "e kgolokwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e nne"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "mme dama tse pedi"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "botelele jwa yone"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "di tswa go yone"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dilenaka tsa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:10.603751189Z",
+  "model": "glm-5.3"
+}

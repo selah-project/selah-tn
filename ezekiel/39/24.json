@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Sesfa ka go se itekanela ga bone le ka ditatelo tsa bone ke ne ka ba direla jaana, mme ke ne ka fitlha sefatlhego sa me go tswa mo go bone.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "sesfa ka go se itekanela ga bone"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "le ka ditatelo tsa bone"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke ne ka ba direla jaana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bone (ba)"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "mme ke ne ka fitlha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatlhego sa me"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "go tswa mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:48:24.063912765Z",
+  "model": "glm-5.3"
+}

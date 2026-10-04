@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ka dinako tse tharo ka ngwaga, banna ba gago ba ba botlhe ba tla bonagala kwa sebone sa Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dinako"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka ngwaga"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ba tla bonagala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "banna ba gago ba ba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sebone"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "sa Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:05.556907083Z",
+  "model": "glm-5.3"
+}

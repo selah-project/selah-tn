@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Gore yo o dulang kwa Marote o ne a lemeletse ka se siameng, gore bokgakologolo bo ne bo tlile go tswa kwa go Yahwe ⟨את⟩, bo ya kwa kgorong ya Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "o ne a lemeletse"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ka se siameng"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "yo o dulang"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "kwa Marote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bo ne bo tlile"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bokgakologolo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "bo ya kwa kgorong ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:48.568605086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme tseno ke motheo oo Solomone a o beileng go aga ⟨את⟩ ntlo ya Elohim: botelele ka dikubiti, ka tekanyo ya ntlha, dikubiti di le masome a marataro, mme bophara dikubiti di le masome a mabedi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme tseno"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "motheo oo o beileng"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "botelele"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka dikubiti"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ka tekanyo"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "ya ntlha"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikubiti"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "masome a marataro"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mme bophara"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikubiti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:38.294410605Z",
+  "model": "glm-5.3"
+}

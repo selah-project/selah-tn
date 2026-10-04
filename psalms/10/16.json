@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Yahwe ke kgosi ka bosikhale le go ya ruri; ditshaba di phirime mo lefatsheng la gagwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka bosikhale"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go ya ruri"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "di phirime"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "mo lefatsheng la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:05.861668041Z",
+  "model": "glm-5.3"
+}

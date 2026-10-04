@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Botshelo jwa me bo mo seatleng sa me ka metlha, mme Torah ya gago ga ke e tlogele go e gopola.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "botshelo jwa me"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "mo seatleng sa me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka metlha"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "mme Torah ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ke e tlogele go e gopola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:23.957578477Z",
+  "model": "glm-5.3"
+}

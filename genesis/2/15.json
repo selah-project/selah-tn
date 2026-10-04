@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim o ne a tseela ⟨את⟩ motho, a mo baya kaseteng ya Edene, go e dira le go e tlhokomela.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o ne a tseela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "a mo baya"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "kaseteng"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ya Edene"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "go e dira"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "le go e tlhokomela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:38.692656479Z",
+  "model": "glm-5.3"
+}

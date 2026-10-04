@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Go tloga koo ba simolola loeto go ya Gudigoda; mme go tloga kwa Gudigoda ba simolola loeto go ya Yotibata, lefatshe la dinoka tsa metsi.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "go tloga koo"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ba simolola loeto"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "go ya Gudigoda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mme go tloga kwa"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Gudigoda"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "go ya Yotibata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "dinoka tsa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:50.208583518Z",
+  "model": "glm-5.3"
+}

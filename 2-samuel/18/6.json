@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme setshaba sa tswa kwa nageng go kopana le Yisraele, mme ntwa e ne ya nna kwa sekgoweng sa Efereyime.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "sa tswa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kwa nageng"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "go kopana le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ya nna"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "kwa sekgoweng"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efereyime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:15:04.803099129Z",
+  "model": "glm-5.3"
+}

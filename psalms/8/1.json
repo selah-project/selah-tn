@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Go mokaedi, go ya ka seletsa sa Gati, moko wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go mokaedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "seletsa sa Gati"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:58.209378766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "Dijo tsa yone ke tlaa di baraka ka botlalo; baseleeng ba yone ke tlaa ba kotofatsa ka senkgwe.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "dijo tsa yone"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ke tlaa di baraka"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "baseleeng ba yone"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "ke tlaa ba kotofatsa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ka senkgwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:28.099538781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "O se ka wa dira bosula thata, mme o se ka wa nna sefofane; ke eng o tlaa swa go se na ⟨nako⟩ ya gago?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ka"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "wa dira bosula"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "thata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ka"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "wa nna"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "sefofane"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "o tlaa swa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "go se na"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "nako ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:40.910940335Z",
+  "model": "glm-5.3"
+}

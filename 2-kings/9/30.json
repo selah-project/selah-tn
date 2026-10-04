@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Yehue a tsena kwa Yizreele, mme Izebele a utlwa, a beza ditlhako tsa mahitlha a leitlho la gagwe, a rulaganya ⟨את⟩ tlhogo ya gagwe, a lelela ka lefasetereng.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "mme a tsena"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehue"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "kwa Yizreele"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "mme Izebele"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "a beza"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "ditlhako tsa mahitlha"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "a leitlho la gagwe"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "a rulaganya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhogo ya gagwe"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "tlhogo ya gagwe"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "a lelela"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "lefasetereng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:10:37.276833668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ⟨את⟩ sebakgolo sa ntlo o ne sa sephara ka gauta, mo teng le kwa ntle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sebakgolo"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "sebakgolo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "sa sephara"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "mo teng"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "kwa ntle"
+    }
+  ],
+  "timestamp": "2026-10-03T23:22:01.514440575Z",
+  "model": "glm-5.3"
+}

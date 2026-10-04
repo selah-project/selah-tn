@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Yoabe a lwa kgatlhanong le Rabha ya bana ba Amoni, mme a gapa ⟨את⟩ toropo ya bogosi.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "a lwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "kgatlhanong le Rabha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "mme a gapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo ya bogosi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ya bogosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:12:15.803446627Z",
+  "model": "glm-5.3"
+}

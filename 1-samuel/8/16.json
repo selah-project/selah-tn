@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ⟨את⟩ balebedi ba lona ba banna, le ⟨את⟩ balebedi ba lona ba basadi, le ⟨את⟩ basimane ba lona ba ba gaisang, le ⟨את⟩ ditonki tsa lona, o tlaa a di tsaya, mme a di dira mo tirong ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "balebedi ba lona ba banna"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "balebedi ba lona ba banna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "balebedi ba lona ba basadi"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "balebedi ba lona ba basadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "basimane ba lona ba ba gaisang"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "basimane ba lona ba ba gaisang"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ba ba gaisang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditonki tsa lona"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "ditonki tsa lona"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tlaa a di tsaya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme a di dira"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "mo tirong ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:36.486101123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Yahwe Elohim wa me, fa ke ne ka dira se, fa go na le boswasi mo diateng tsa me;",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke ne ka dira"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "עול",
+      "gloss": "boswasi"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "mo diateng tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:40.847545337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 17:13",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme go ne go le jalo, fa bana ba Yisraele ba ne ba nonofile, ba ne ba dira ⟨את⟩ Mokenaane sehubageng, mme ba a sa mo tlhotlhole gotlhelele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go le jalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ba nonofile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ba ne ba dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokenaane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokenaane"
+    },
+    {
+      "surface": "למס",
+      "gloss": "sehubageng"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "mme ba tlhotlhola"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga… a"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "a sa mo tlhotlhole gotlhelele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:00.984452309Z",
+  "model": "glm-5.3"
+}

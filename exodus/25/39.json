@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ka tekano ya gauta e e phodisi e le ngwetsi o tla e dira, ⟨את⟩ yone le ⟨את⟩ didiriswa tsotlhe tseno.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "tekano e le ngwetsi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e phodisi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla e dira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yone (menora)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didiriswa tsotlhe tseno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:33.262068277Z",
+  "model": "glm-5.3"
+}

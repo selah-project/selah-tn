@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ka nako eo basadi ba babedi, babadiri ba mmele, ba ne ba tla go kgosi, ba ema fa pele ga yona.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "ba ne ba tla"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "babedi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "babadiri ba mmele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "ba ema"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fa pele ga yona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:57.029042413Z",
+  "model": "glm-5.3"
+}

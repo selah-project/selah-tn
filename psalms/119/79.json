@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "A boele kwa go nna ba ba go tsabang, le ba ba itseng ⟨את⟩ bopaki jo bo boitshepo jwa gago.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "a boele kwa go nna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "ba ba go tsabang"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "le ba ba itseng"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki jo bo boitshepo jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:29.931002477Z",
+  "model": "glm-5.3"
+}

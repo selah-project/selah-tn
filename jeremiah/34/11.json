@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "mme moragonyana ba boa, mme ba busetsa ⟨את⟩ badiri le ⟨את⟩ batlhokwa bao ba neng ba lolela ba gololsegile, mme ba ba fenya go nna badiri le batlhokwa;",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "mme ba boa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ga dilo tseo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mme ba busetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badiri"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "badiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "batlhokwa"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "batlhokwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba neng ba lolela"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "ba gololsegile"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "mme ba ba fenya"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "go nna badiri"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "le batlhokwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:21:44.199463238Z",
+  "model": "glm-5.3"
+}

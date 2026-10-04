@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Naga ya bone a e tlhodisa ditlhabane, mo diphaposing twa dikgosi ya bone.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "a e tlhodisa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "naga ya bone"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "ditlhabane"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "mo diphaposing tsa"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dikgosi ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:01.996461210Z",
+  "model": "glm-5.3"
+}

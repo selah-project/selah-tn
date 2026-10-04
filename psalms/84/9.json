@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 84,
+  "translation": "Yahwe Elohim Tsebaote, reetsa thapelo ya me; theetse, Elohim wa Yaakobo. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "reetsa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "theetse"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:57.290015596Z",
+  "model": "glm-5.3"
+}

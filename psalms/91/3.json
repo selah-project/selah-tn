@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Gore ⟨en⟩e o tla go ntsha mo phapanwaneng ya mogopi, le go tswa mo bolwetse jwa bowelabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨en⟩e"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "o tla go ntsha"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "mo phapanwaneng ya"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "mogopi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "go tswa mo bolwetse jwa"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bowelabo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:34.944871294Z",
+  "model": "glm-5.3"
+}

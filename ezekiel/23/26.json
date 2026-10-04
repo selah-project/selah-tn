@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 23:26",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme ba tlaa go ntsha ⟨את⟩ diaparo tsa gago, mme ba tlaa tsera dithuso tsa kgalalelo ya gago.",
+  "tokens": [
+    {
+      "surface": "ו הפשיטוך",
+      "gloss": "mme ba tlaa go ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa gago"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "diaparo tsa gago"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "mme ba tlaa tsera"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithuso"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "tsa kgalalelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:41:30.788821759Z",
+  "model": "glm-5.3"
+}

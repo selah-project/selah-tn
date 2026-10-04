@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Botsetsa ⟨את⟩ setshaba sa gago, mme o thuse ⟨את⟩ boswa jwa gago; ba tlhokomele, mme o ba segele go fitlha bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Botsetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sa gago"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "mme o thuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boswa jwa gago"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "boswa jwa gago"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "ba tlhokomele"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "mme o ba segele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:17.277061823Z",
+  "model": "glm-5.3"
+}

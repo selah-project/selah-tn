@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Wena o a itse go nna ke dutse le go nna ke tlhama; o a tlhaloganya tsela ya me ya boitumelo kwa kgakalakgakala.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o a itse"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "go nna ke dutse"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "le go nna ke tlhama"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "o a tlhaloganya"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "tsela ya me ya boitumelo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kwa kgakalakgakala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:35.581471621Z",
+  "model": "glm-5.3"
+}

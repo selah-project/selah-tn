@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Yahwe o ne a re gopola; o tlaa segofatsa — o tlaa segofatsa ⟨את⟩ ntlo ya Yisraele, o tlaa segofatsa ⟨את⟩ ntlo ya Aharone.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "o ne a re gopola"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tlaa segofatsa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tlaa segofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tlaa segofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Aharone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:49.289933723Z",
+  "model": "glm-5.3"
+}

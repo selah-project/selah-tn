@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 3:3",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme a bua le nna: Morwa wa motho, seka sa gago se je, mme mala a gago a tlale ⟨את⟩ segala se se ke se go nayang; mme ke a se ja, mme se ne se le mo molomong wa me jaaka dinotshe, go monate.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a bua"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "seka sa gago"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "se je"
+    },
+    {
+      "surface": "ומעיך",
+      "gloss": "mme mala a gago"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "a tlale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala se"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "segala se"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "se go nayang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mme ke a se ja"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mme se ne se le"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mo molomong wa me"
+    },
+    {
+      "surface": "כדבש",
+      "gloss": "jaaka dinotshe"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "go monate"
+    }
+  ],
+  "timestamp": "2026-10-04T00:33:15.532995304Z",
+  "model": "glm-5.3"
+}

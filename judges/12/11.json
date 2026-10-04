@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme morago ga gagwe, Eylone wa Zebulune a atlhol ⟨את⟩ Yisraele; mme a atlhol ⟨את⟩ Yisraele dingwaga di le lesome.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a atlhol"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "morago ga gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eylone"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "wa Zebulune"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "mme a atlhol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "di le lesome"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T22:50:28.863425652Z",
+  "model": "glm-5.3"
+}

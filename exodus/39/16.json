@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme ba dira dithaeo tse pedi tsa gauta, le dikhwencha tse pedi tsa gauta; mme ba beeletsa ⟨את⟩ dikhwencha tse pedi mo mafelong a mabedi a Hoshene.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba dira"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "dithaeo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "le tse pedi"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "dikhwencha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mme ba beeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikhwencha tse pedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "dikhwencha"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo mafelong"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "a mafeling —  mathata a mabedi a"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hoshene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:13.761937649Z",
+  "model": "glm-5.3"
+}

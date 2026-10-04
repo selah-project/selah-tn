@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme Abrahame a ntse a le mogolwane, a tsene mo malatsing, mme Yahwe o ne a laleditse ⟨את⟩ Abrahame ka sengwe le sengwe.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Mme Abrahame"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a le mogolwane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tsene"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mo malatsing"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "o ne a laleditse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka sengwe le sengwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:15.952730059Z",
+  "model": "glm-5.3"
+}

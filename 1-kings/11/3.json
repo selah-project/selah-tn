@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme a nna le basadi, badumedi, makgolo a supa, le dinyatsi makgolo a tharo; mme basadi ba gagwe ba ne ba gogela ⟨את⟩ pelo ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme a nna le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a nna le"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "badumedi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "supa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "le dinyatsi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ba ne ba gogela"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basadi ba gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya gagwe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:58.793711607Z",
+  "model": "glm-5.3"
+}

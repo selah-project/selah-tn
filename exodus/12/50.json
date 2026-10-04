@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme bana botlhe ba Yisraele ba dirile jaaka Yahwe a laetseng ⟨את⟩ Moshe le ⟨את⟩ Aharone; jalo ba ne ba dira.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dirile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:36.440139985Z",
+  "model": "glm-5.3"
+}

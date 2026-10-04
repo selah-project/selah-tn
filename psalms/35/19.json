@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "A baba ba me ba se ka ba itumelela ka maaka go nna; a ba ba mo tlhoyang ka ntle lebaka ba se ka ba gotla leitlho.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba itumelela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "baba ba me"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ka maaka"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka ntle lebaka"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "ba gotla"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leitlho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:58.727274553Z",
+  "model": "glm-5.3"
+}

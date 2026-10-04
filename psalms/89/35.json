@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Ga ke e senye kgolagano ya me, mme se se tswang mo molomong wa me ga ke se fetole.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "ke e senye"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "mme se se tswang"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mo molomong wa me (sefofane)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "ke se fetole"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:25.488854102Z",
+  "model": "glm-5.3"
+}

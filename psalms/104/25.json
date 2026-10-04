@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Se ke lewatle, le legolo mme le bophara ka diatla; koo go nnileng le diphologolo tse di tsamayang ka mme go se ka ga palo, diphologolo tse dinnye le tse dikgolo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mme le bophara"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ka diatla"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "diphologolo tse di tsamayang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme go se ka ga"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "diphologolo"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "tse dinnye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tse dikgolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:46.861996403Z",
+  "model": "glm-5.3"
+}

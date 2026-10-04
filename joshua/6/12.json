@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Yehoshua a tsoga bo moso, mme baperesti ba ne ba tshwara ⟨את⟩ araka ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a tsoga bo moso"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ba ne ba tshwara"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baperesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araka ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "araka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:35:36.203530444Z",
+  "model": "glm-5.3"
+}

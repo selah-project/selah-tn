@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "gore ba behe tshepo ya bone mo Elohim, mme ba se ka wa lebala ditiro tsa El, mme ba boloke ditaelo tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "gore ba behe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "mo Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "tshepo ya bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ka wa"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ditiro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tsa El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "mme ditaelo tsa gagwe"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ba boloke"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:25.348598891Z",
+  "model": "glm-5.3"
+}

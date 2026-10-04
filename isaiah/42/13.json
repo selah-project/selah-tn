@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Yahwe o tla tshwana le mogaka a tswele, jaaka monna wa dintwa a busa tlhakanelodikobo; o tla go kua, ee, o tla go heha, mme o tla fenya ba ba mo tlhoyang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "jaaka mogaka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a tswele"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jaaka monna"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "wa dintwa"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "tlhakanelodikobo"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "o tla go kua"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "o tla go heha"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "o tla fenya"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:39.317666852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Adonai o buile gore: Ke tla busa go tswa mo Bashane, ke tla busa go tswa mo boteng jwa lewatle.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "go tswa mo Bashane"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Ke tla busa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ke tla busa"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "go tswa mo boteng"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jwa lewatle"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:03.712088466Z",
+  "model": "glm-5.3"
+}

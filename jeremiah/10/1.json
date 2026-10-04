@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Bua re go utlwa, lwapeng la Yisraele: utlwang ⟨את⟩ lefoko leo Yahwe a le buang go lona.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "utlwang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a le buang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "lwapeng la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T00:11:41.409504739Z",
+  "model": "glm-5.3"
+}

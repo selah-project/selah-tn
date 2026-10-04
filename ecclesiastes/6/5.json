@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Gongwe le letsatsi o sa le bone, mme o sa le itse; khutso ⟨o⟩ na le yone go feta yoo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gongwe le"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "le itse"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "khutso"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "o na le yone"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "go feta yoo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:23:45.897378168Z",
+  "model": "glm-5.3"
+}

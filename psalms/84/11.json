@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 84,
+  "translation": "Gore letsatsi le le mongwe mo ditorong tsa gago go botoka go le dikete; ke tlhophile go ema kwa lethathamong mo ntlong ya Elohim ya me, go feta go nna mo mahateng a bogosi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "go botoka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "mo ditorong tsa gago"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "go le dikete"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ke tlhophile"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "go ema kwa lethathamong"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "go feta go nna"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "mo mahateng a"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bogosi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:57.290529950Z",
+  "model": "glm-5.3"
+}

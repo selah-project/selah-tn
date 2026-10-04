@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Mme wena, Adonai, El yo mosa le yo mohau, o se ka wa galefa ka bonako, mme o na le hesede e ntsi le boikanyego.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "yo mosa"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "le yo mohau"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "o se ka wa galefa ka bonako"
+    },
+    {
+      "surface": "אפים",
+      "gloss": ""
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mme o na le e ntsi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "le boikanyego"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:13.593890583Z",
+  "model": "glm-5.3"
+}

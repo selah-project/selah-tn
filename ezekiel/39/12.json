@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Ba tlhoka ba tla ba fitlhela ntlo ya Yisraele, gore e nne e phollalela go itshepisa ⟨את⟩ lefatshe — dikgwedi di supa.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "Ba tlhoka ba tla ba fitlhela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "go itshepisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "di supa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "dikgwedi"
+    }
+  ],
+  "timestamp": "2026-10-04T00:47:06.104109970Z",
+  "model": "glm-5.3"
+}

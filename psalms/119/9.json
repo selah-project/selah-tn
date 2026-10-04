@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Mosha o ka nna phepa jang ⟨את⟩ mo tseleng ya gagwe? Ka go e tlhokomela go ya ka lefoko la gago.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "jang"
+    },
+    {
+      "surface": "יזזכה",
+      "gloss": "ka nna phepa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela ya gagwe"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "mo tseleng ya gagwe"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "go e tlhokomela"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "go ya ka lefoko la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:43.871417373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Gate e le nngwe ke ikana ka boitshepo jwa me: ga ke ikakamatsa go Dawide.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "gate e le nngwe"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ikana"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "ka boitshepo jwa me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dawide"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "ke ikakamatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:25.489005251Z",
+  "model": "glm-5.3"
+}

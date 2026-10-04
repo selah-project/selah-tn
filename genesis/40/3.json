@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "A ba baya ⟨את⟩ bone mo kgolegelong, mo ngwaong ya mookamedi wa bolaisi, mo ngwaong ya kgolegelo, lefelo kwa Yosefa a neng a golagantswe kwa gone.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a ba baya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "mo kgolegelong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ngwaong"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ya mookamedi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wa bolaisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ngwaong"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ya kgolegelo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "a golagantswe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kwa gone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:57.198169184Z",
+  "model": "glm-5.3"
+}

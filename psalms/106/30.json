@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme Pinechase a ema a rapelela, mme bolwetsi bo ne jwa emisiwa.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "mme ... a ema"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechase"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "a rapelela"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "mme ... bo ne jwa emisiwa"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "bolwetsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:15.015019218Z",
+  "model": "glm-5.3"
+}

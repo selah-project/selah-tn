@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "mme o ka bula ka botlalo ⟨את⟩ seatla sa gago go ene, mme o ka mo adima ka bophara jo bo lekanang le se a se tlhokang go ene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "go bula ka botlalo"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "o ka bula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gago"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "mme o ka adima"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "o ka mo adima"
+    },
+    {
+      "surface": "די",
+      "gloss": "jo bo lekanang le"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "se a se tlhokang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "a se tlhoka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T22:26:21.889726824Z",
+  "model": "glm-5.3"
+}

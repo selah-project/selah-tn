@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ba tsaya ⟨את⟩ moswe wa molulo, mme ba ema pele ga Farao; mme Moshe a ⟨את⟩ o tlhatlhosa kwa magodimong; mme go nna marothodi a dibuba, a ruhang, mo bathong le mo diphoofolong.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "mme ba tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moswe wa molulo"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "moswe"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "wa molulo"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "mme ba ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "mme a tlhatlhosa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ o",
+      "marks": "moswe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "marothodi"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "a dibuba"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "a ruhang"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mo bathong"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "le mo diphoofolong"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:25.794316396Z",
+  "model": "glm-5.3"
+}

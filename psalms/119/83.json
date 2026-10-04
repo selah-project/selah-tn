@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ka gonne ke ntse ke le jaaka sekgoba mo motsing; melao ya gago ga ke a di lebala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ntse ke le"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "jaaka sekgoba"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "mo motsing"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ke a di lebala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:11.937020473Z",
+  "model": "glm-5.3"
+}

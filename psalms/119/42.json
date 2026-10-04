@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Mme ke tla araba yo o ntlhoyang ka lefoko, gonne ke tshegetse maikutlo mo lefokong la gago.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ke tla araba"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "yo o ntlhoyang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka lefoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tsheletse maikutlo"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "mo lefokong la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:16.497083912Z",
+  "model": "glm-5.3"
+}

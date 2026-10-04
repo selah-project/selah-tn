@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "mme o ne wa bolaya ⟨את⟩ bana ba gago, mme wa ba neela ka go ba fudusa go ba ⟨את⟩ neelang bone.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "mme o ne wa bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba gago"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba gago"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "mme wa ba neela"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "ka go ba fudusa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:36:37.266731430Z",
+  "model": "glm-5.3"
+}

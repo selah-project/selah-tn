@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Agang diphae, mme ina mo go tsone; mme jetang ditema, mme jang ⟨את⟩ matuelo a tsone.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Agang"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "diphae"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "mme ina mo go tsone"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "mme jetang"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ditema"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mme jang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matuelo a tsone"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "matuelo a tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:19:36.780460516Z",
+  "model": "glm-5.3"
+}

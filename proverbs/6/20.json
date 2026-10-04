@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mmorwa me, boloka taolo ya rraago, mme o se ka wa tlogela Torah ya mmaago,",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mmorwa me"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "taolo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya rraago"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "tlogela"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ya mmaago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:44:18.237790583Z",
+  "model": "glm-5.3"
+}

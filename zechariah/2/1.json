@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ke ne ke tlhatlhoboga matlho, mme ka bona, mme tafoo! dikhudu di le nne.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ke ne ke tlhatlhoboga matlho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlho a me"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "mme ka bona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme tafoo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "di le nne"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "dikhudu"
+    }
+  ],
+  "timestamp": "2026-10-04T01:08:33.615824818Z",
+  "model": "glm-5.3"
+}

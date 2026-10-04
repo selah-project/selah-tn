@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Jaana go bua Yahwe: fa lo ka robang kgolagano yame ya letsatsi le kgolagano yame ya bosigo, gore letsatsi le bosigo di seka ga nna ka dinako tsa tsona —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Jaana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "lo ka robang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano yame ya letsatsi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano yame"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya letsatsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "kgolagano yame ya bosigo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano yame"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya bosigo"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "gore di seka ga"
+    },
+    {
+      "surface": "היות",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bosigo"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ka dinako tsa tsona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:21:40.344131887Z",
+  "model": "glm-5.3"
+}

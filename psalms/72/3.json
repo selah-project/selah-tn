@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Dithaba di tlele kagiso go setshaba, le dithabana ka tsedeke.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "di tlele"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "go setshaba"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "le dithabana"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ka tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:05.593599937Z",
+  "model": "glm-5.3"
+}

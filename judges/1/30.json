@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Sebulone ga go a ba a gatelela ⟨את⟩ baagi ba Kitrone le ⟨את⟩ baagi ba Nahalole; mme Mokenaane a nna mo go ene, mme ba nna ba mo tlhokomelong.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Sebulone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga... a"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "go gatelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baagi ba Kitrone"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "baagi ba"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitrone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "baagi ba Nahalole"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "baagi ba"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalole"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme... a nna"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokenaane"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme ba nna"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ba mo tlhokomelong"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:33.302944536Z",
+  "model": "glm-5.3"
+}

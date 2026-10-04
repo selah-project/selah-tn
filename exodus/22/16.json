@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Fa rraagwe a gana ka bonagaleng go mo nyalatsa go ene, o tla lekanya selefera e tshwana le mahari a dikgotsana.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "a gana"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "ka bonagaleng"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "go mo nyalatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "o tla lekanya"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "e tshwana le mahari"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "a dikgotsana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:10.313836106Z",
+  "model": "glm-5.3"
+}

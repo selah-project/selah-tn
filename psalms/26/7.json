@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Gore go utlwe lentswe la go leboga, le go bua ka dilo tsa gavo tse di makatsang tsotlhe.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "gore go utlwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "go leboga"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "le go bua ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dilo tsa gavo tse di makatsang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:52.748511108Z",
+  "model": "glm-5.3"
+}

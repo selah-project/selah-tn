@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Enoshi, malatsi a gagwe a tshwana le jointsha; jaana thunya ya masimo, jaana o a thunya.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshi"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "a tshwana le jointsha"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "malatsi a gagwe"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "jaana thunya"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya masimo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jaana"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "o a thunya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:25.223483556Z",
+  "model": "glm-5.3"
+}

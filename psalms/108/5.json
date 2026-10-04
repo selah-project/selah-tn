@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "Gore hesede ya gago ke kgolo go feta magodimo, mme go fitlha kwa marurung boikanyego jwa gago.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kgolo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme go fitlha kwa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "marurung"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "boikanyego jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:06.858975896Z",
+  "model": "glm-5.3"
+}

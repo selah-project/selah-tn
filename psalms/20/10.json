@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Yahwe, boloka ⟨את⟩ kgosi; e re arabele ka letsatsi leo re mo laletsa ka lone.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "e re arabele"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "re mo laletsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:04.572830069Z",
+  "model": "glm-5.3"
+}

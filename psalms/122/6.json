@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 122,
+  "translation": "Botsang kagiso ya Yerushalayime; ba ba go ratang ba nne ba phela ka kagiso.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Botsang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "ba nne ba phela ka kagiso"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ba ba go ratang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:15.885345618Z",
+  "model": "glm-5.3"
+}

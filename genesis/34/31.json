@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme ba re: A makgoreletsi a ka dira jalo ⟨את⟩ kgaitsadie yo mongwe?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mme ba re"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "A makgoreletsi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a ka dira jalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgaitsadie yo mongwe"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "kgaitsadie yo mongwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:44.771679443Z",
+  "model": "glm-5.3"
+}

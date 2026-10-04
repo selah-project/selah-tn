@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ka gona, gape ke tlaa loka kgotlhang le ⟨את⟩ lona, go bua Yahwe; le ⟨את⟩ bana ba bana ba lona ke tlaa loka kgotlhang.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka gona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ke tlaa loka kgotlhang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba bana ba lona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana ba lona"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ke tlaa loka kgotlhang"
+    }
+  ],
+  "timestamp": "2026-10-04T00:05:37.307872575Z",
+  "model": "glm-5.3"
+}

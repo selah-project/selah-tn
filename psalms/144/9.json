@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Elohim, sefela se sesha ke tla se opela go wena; ka nevele ya dikgetlwa di le lesome ke tla go opela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sefela"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "se sesha"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla se opela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ka nevele"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ya dikgetlwa di le lesome"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla go opela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:49.753045868Z",
+  "model": "glm-5.3"
+}

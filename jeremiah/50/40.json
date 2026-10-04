@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Jaaka go tlhabolola ga Elohim ⟨את⟩ Sodome le ⟨את⟩ Gomore le ⟨את⟩ baagelani ba yona, go bua Yahwe; ga ope ya tla nna teng koo, mme ga morwa wa motho a ka nna moši koo.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "Jaaka go tlhabolola ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodome"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodome"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Gomore"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "baagelani ba yona"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "baagelani ba yona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a ka nna teng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ope"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "a ka nna moši"
+    },
+    {
+      "surface": "בה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    }
+  ],
+  "timestamp": "2026-10-04T00:29:29.562422239Z",
+  "model": "glm-5.3"
+}

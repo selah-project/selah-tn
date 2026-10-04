@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Bulang dikgoro, mme setshaba sa tsedeke se tsene, se bolokang boikanyego.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Bulang"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme ... se tsene"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa tsedeke"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "se bolokang"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "boikanyego"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:36.739494259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Morwaaka, fa ba ba mo tlhoyang ba go khurumetsa ka mafoko, o se ka wa amogela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "morwaaka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ba go khurumetsa ka mafoko"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "wa amogela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:50.735118012Z",
+  "model": "glm-5.3"
+}

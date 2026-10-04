@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ba ne ba nna lebota go rona, bosigo le mo letsatsi, ka matsatsi otlhe a go nna le bone fa re fodisa dinku.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "lebota"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ne ba nna"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "a go nna"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "fa re fodisa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dinku"
+    }
+  ],
+  "timestamp": "2026-10-03T23:05:59.061262118Z",
+  "model": "glm-5.3"
+}

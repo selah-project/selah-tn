@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ba tsema ⟨את⟩ Yonase, ba mo latlhela kwa lewatleng, mme lewatle le nne phumo go tswa mo kgalefong ya lone.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ba tsema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonase"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonase"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ba mo latlhela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "le nne phumo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "go tswa mo kgalefong ya lone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:11.213876166Z",
+  "model": "glm-5.3"
+}

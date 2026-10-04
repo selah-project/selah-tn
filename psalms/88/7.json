@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "O ntshetse mo sefubeng se se kwa tlase thata, mo lefifing, mo mafifing a a tseneletseng.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "O ntshetse"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "mo sefubeng"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "se se kwa tlase thata"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "mo lefifing"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "mo mafifing a a tseneletseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:54.534983570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme ba nna mengwaga e meraro, ga go ntwa magareng ga Arame le Yisraele.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Mme ba nna"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "e meraro"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:10:42.397089019Z",
+  "model": "glm-5.3"
+}

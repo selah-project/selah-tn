@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 142,
+  "translation": "Ke go ile ka lla, wena Yahwe; ke ne ka re: Wena ke bofilo ba me, karolo ya me mo lefatsheng la ba ba tshelang.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Ke go ile ka lla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ka re"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ke bofilo ba me"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "karolo ya me"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "la ba ba tshelang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:20.864447816Z",
+  "model": "glm-5.3"
+}

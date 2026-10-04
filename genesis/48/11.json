@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Mme Yisraele a re go Yosefe: go bona sefatsha sa gago ga ⟨את⟩ ke a se letelela, mme bonwe, Elohim o nthontshitse gape ⟨את⟩ peo ya gago.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatsha sa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "ke a se letelela"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonwe"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "o nthontshitse"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ke",
+      "marks": "go nthontsha (go ke)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peo ya gago"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:27.115052024Z",
+  "model": "glm-5.3"
+}

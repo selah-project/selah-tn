@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Ba boela gape, ba leka El, mme ba beela melelwane Yo o Boitshepo wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ba boela gape"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ba leka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "Yo o Boitshepo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "ba beela melelwane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:15.883179643Z",
+  "model": "glm-5.3"
+}

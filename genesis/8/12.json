@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a saletse gape malatsi a supileng a mangwe, mme a romola ⟨את⟩ lerube, mme le ne le sa atolosa go boa kwa go ene gape.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "mme a saletse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "a mangwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mme a romola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerube"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "lerube"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "le a atolosa"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go boa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:52.079255235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "O ne a re ka pelong ya gagwe: El o timetse, o fitlhitse sefathego sa gagwe, ka metlha ga se a ka a bona.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "o ne a re"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ka pelong ya gagwe"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "o timetse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "o fitlhitse"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefathego sa gagwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ka metlha ga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a ka a bona"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka metlha"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:33.729704789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Reubene, nngwana wa me wa ntlha ke wena, matla a me, le tshimologo ya maswele a me — seedi sa botlotlo, le seedi sa maatla.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "nngwana wa me wa ntlha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ke wena"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "matla a me"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "le tshimologo ya"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "maswele a me"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "seedi sa"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "botlotlo"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "le seedi sa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:42.742610313Z",
+  "model": "glm-5.3"
+}

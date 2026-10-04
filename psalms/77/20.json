@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Tselana ya gago e ne e le mo lewatleng, le ditsela tsa gago mo metsing a mantsi; mme dikgato tsa gago ga di a itsiwe.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "mo lewatleng"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tselana ya gago"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "le ditsela tsa gago"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mo metsing"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "mme dikgato tsa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "di a itsiwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:07.194298488Z",
+  "model": "glm-5.3"
+}

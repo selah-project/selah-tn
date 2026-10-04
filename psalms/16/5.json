@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Yahwe ⟨is⟩ karolo ya maano a me le sehalablengwa sa me; wena o tlhotlheletsa loso la me.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ya maano a me"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "le sehalablengwa sa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "o tlhotlheletsa"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "loso la me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:19.743013018Z",
+  "model": "glm-5.3"
+}

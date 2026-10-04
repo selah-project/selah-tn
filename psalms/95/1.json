@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 95,
+  "translation": "Tlang, re go opela Yahwe, re phokotse lentswe la thabo go Tshaka ya tokoloho ya rona.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "re go opela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "re phokotse lentswe la thabo"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "go Tshaka"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ya tokoloho ya rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:58.598310098Z",
+  "model": "glm-5.3"
+}

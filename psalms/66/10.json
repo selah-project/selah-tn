@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Gore o ne wa re lekisa, Elohim; o ne wa re kekisa jaaka go kekisa selefera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "o ne wa re lekisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "o ne wa re kekisa"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "jaaka go kekisa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:36.737320002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme e tla nna, fa bana ba lona ba re go lona: Ke eng tirelo eno ya lona?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana ba lona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "tirelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:41.760590346Z",
+  "model": "glm-5.3"
+}

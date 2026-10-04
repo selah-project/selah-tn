@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme o di bpe ka diphuthego tse pedi, tse tharo mo phuthegong, mo tafoleng e e boitshepeng, kwa pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "mme o tla baya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "diphuthego (dikuku)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "diphuthego tse pedi"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "diphuthego"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tse tharo"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "mo phuthegong"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafoleng"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "e e boitshepeng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:02.594138027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme mopriste a kwale ⟨את⟩ malaetso ano mo bukeng, mme a a phuthlelele mo metsing a bogale.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "a kwale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaetso ano"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "malaetso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mo bukeng"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "mme a a phuthlelele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsing"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "a bogale"
+    }
+  ],
+  "timestamp": "2026-10-03T22:05:23.155122938Z",
+  "model": "glm-5.3"
+}

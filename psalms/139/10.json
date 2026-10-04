@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "gone le jalo seatla sa gago se tla nkgokgontsha, le letsogo la gago la moja go tla ntshegetsa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gone le jalo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "se tla nkgokgontsha"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "go tla ntshegetsa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsogo la gago la moja"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:36.536512569Z",
+  "model": "glm-5.3"
+}

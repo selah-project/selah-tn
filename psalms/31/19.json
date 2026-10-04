@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "A diphefo tsa maaka di khuthe, tse di buang kgatlhanong le moemedi wa tsiamiso, ka boswelatswele le kgopolo.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "a di khuthe"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "diphefo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "tsa maaka"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "tse di buang"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moemedi wa tsiamiso"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ka boswelatswele"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "ka kutlo-ya-gago"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "le kgopolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:58.032557034Z",
+  "model": "glm-5.3"
+}

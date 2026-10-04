@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 10:10",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ka thato ya me ke a ba otlha, mme ditshaba di tla kokoanywa kgatlhanong le bone, ge ba boela go bapisiwa ka dibape tsa bone tse pedi.",
+  "tokens": [
+    {
+      "surface": "באותי",
+      "gloss": "ka thato ya me"
+    },
+    {
+      "surface": "ואסרם",
+      "gloss": "mme ke a ba bapisa"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "mme di tla kokoanywa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kgatlhanong le bone"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "באסרם",
+      "gloss": "ge ba bapisiwa"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "עינתם",
+      "gloss": "dibape tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:12.398514702Z",
+  "model": "glm-5.3"
+}

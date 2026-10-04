@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme mangeloi wa Yahwe a mo re: Ka go oketsa ke tla oketsa ⟨את⟩ peo ya gago, e tla seka ya balwa ka bontsi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mangeloi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ka go oketsa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ke tla oketsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peo ya gago"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya gago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e tla seka"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ya balwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ka bontsi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:29.894096493Z",
+  "model": "glm-5.3"
+}

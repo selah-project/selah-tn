@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ka kagiso mmogo ke tla tlala fatshe mme ke robala, gore wena, Yahwe, ka bowena, ka tshireletsego o dira gore ke nne.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "ka kagiso"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ke tla tlala fatshe"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "mme ke robala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "ka bowena"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka tshireletsego"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "o dira gore ke nne"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:39.432343015Z",
+  "model": "glm-5.3"
+}

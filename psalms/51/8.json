@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Bonwe, boammauri o bo dikile mo sephiring sa pelong, mme mo sephiring o tla mpontsha botlhale.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "boammauri"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "o bo dikile"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "mo sephiring sa pelong"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "mme mo sephiring"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "o tla mpontsha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:19.177132204Z",
+  "model": "glm-5.3"
+}

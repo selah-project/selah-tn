@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Lona lo bone se neng ke se dira go Mitsrayime, mme ka lo tlhatlosa mo mafukeng a leruri, ka lo isa kwa go nna.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Lona"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "lo bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke se dira"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "go Mitsrayime"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ka lo tlhatlosa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mafukeng a"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "leruri"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "ka lo isa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:31.963412735Z",
+  "model": "glm-5.3"
+}

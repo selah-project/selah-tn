@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme yo o neng a sa bae pelo ya gagwe mo go lefoko la Yahwe, o ne a tlogela ⟨את⟩ badiri ba gagwe le ⟨את⟩ dikgomo tsa gagwe kwa masimong.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "mme yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "bae"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "a tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badiri ba gagwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "badiri ba gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo tsa gagwe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "dikgomo tsa gagwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwa masimong"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:21.337711434Z",
+  "model": "glm-5.3"
+}

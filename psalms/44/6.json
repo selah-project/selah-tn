@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Ka wena re ka tlhasela ba ba re tlhobileng; ka Leina la gago re ka ba thula ka dinao, ba ba simolotseng kgatlhanong le rona.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Ka wena"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ba ba re tlhobileng"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "re ka tlhasela"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ka Leina la gago"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "re ka ba thula ka dinao"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "ba ba simolotseng kgatlhanong le rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:34.972044451Z",
+  "model": "glm-5.3"
+}

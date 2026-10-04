@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme go tla nna le golelwalo kgolo kwa lefatsheng lotlhe la Mitsrayime, jo bo tshwanang le jone go se kileng ga bo nna teng, mme jo bo tshwanang le jone ga bo kitla bo tlhagelela gape.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "mme go tla nna le"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "golelwalo"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "kgolo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa ... lotlhe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "bo tshwanang le jone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "bo kileng bo nna teng"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "mme jo bo tshwanang le jone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "bo ka bo tlhagelela gape"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:00.787894468Z",
+  "model": "glm-5.3"
+}

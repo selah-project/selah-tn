@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme go Makire ke ne ka naya ⟨את⟩ Gileade.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "go Makire"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke ne ka naya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileade"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileade"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:39.934885849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme ba bea ⟨את⟩ dieso tsa gagwe mo tlung ya Ashtarote, mme le ⟨את⟩ mmele wa gagwe ba bulaletse mo mosing wa Bete-Sheane.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "mme ba bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieso tsa gagwe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dieso tsa gagwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo tlung"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "ya Ashtarote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mmele wa gagwe"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "mmele wa gagwe"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ba bulaletse"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "mo mosing wa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bete"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Sheane"
+    }
+  ],
+  "timestamp": "2026-10-03T23:08:09.645256658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ke bolokile melao ya gago le bopaki ba gago, gonne ditsela tsotlhe tsa me di le fa pele ga gago.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "ke bolokile"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "melao ya gago"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "le bopaki ba gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tsa me"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "fa pele ga gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:14.588331418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Dilo tseo ke di gakologelwa, mme ke phutholosa moya wa me mo go nna; gore ke ne ke tsamaya le setlhopha, ke ntse ke tsamaya ka bonya le bone go fitlha kwa ntlong ya Elohim, ka lentswe la go nna le botsogo, le bontsi jwa batho bo ne bo tshwara moletlo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dilo tseo"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ke di gakologelwa"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "mme ke phutholosa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ke ne ke tsamaya"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "le setlhopha"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ke ntse ke tsamaya ka bonya le bone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kwa ntlong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentswe"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "la go nna"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "le botsogo"
+    },
+    {
+      "surface": "המון",
+      "gloss": "bontsi jwa batho"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "bo ne bo tshwara moletlo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:51.451561276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": " kgosi ya Shimrone-Merone, e le nngwe; kgosi ya Akshafe, e le nngwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ya Shimrone-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Merone"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "ya Akshafe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:39:17.358773861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Senkgwe sa Elohim wa gagwe — sa dilo tse di boitshepo thata le sa dilo tse di boitshepo — o ka se ja.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sa Elohim wa gagwe"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "sa dilo tse di boitshepo thata"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tse di boitshepo thata"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le sa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "dilo tse di boitshepo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "o ka se ja"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:44.294947445Z",
+  "model": "glm-5.3"
+}

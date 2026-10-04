@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Aharone a atamela kwa kgotleng, mme a bolaia ⟨את⟩ kgwanyana ya sebopego sa boleo se se neng se le sa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a atamela"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kgotleng"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "a bolaia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgwanyana"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kgwanyana"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya sebopego sa boleo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "se le sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:05.796284287Z",
+  "model": "glm-5.3"
+}

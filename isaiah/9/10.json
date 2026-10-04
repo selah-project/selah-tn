@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Yahwe o ne a tlhatloganya ⟨את⟩ ba ba gatelelang ba Retsine mo go ene, mme ⟨את⟩ baba ba gagwe a ba kopanya.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "mme o ne a tlhatloganya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba gatelelang ba Retsine"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ba ba gatelelang"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsine"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baba ba gagwe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "baba ba gagwe"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "a ba kopanya"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:18.991637302Z",
+  "model": "glm-5.3"
+}

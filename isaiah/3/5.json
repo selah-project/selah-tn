@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme setshaba se tla kgobelwa, motho ka motho, le motho ka moagisani wa gagwe; mošöré o tla ikakgakgamatsa kgatlhanong le mogolowe, yo e sa tsayeng sekaugo kgatlhanong le yo a tlotlegang.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "Mme setshaba se tla kgobelwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ka motho"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le motho"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ka moagisani wa gagwe"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "ba tla ikakgakgamatsa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mošöré"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "kgatlhanong le mogolowe"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "yo e sa tsayeng sekaugo"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "kgatlhanong le yo a tlotlegang"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:38.736670130Z",
+  "model": "glm-5.3"
+}

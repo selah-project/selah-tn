@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme o se ka wa tlotla motho wa mafoko mo kgotlhang ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "mme motho wa mafoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "wa tlotla"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "mo kgotlhang ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:35.193329850Z",
+  "model": "glm-5.3"
+}

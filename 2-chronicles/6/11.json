@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ke ne ke baya koo ⟨את⟩ araka, e mo go yona go leng kgolagano ya Yahwe, a e direlang le bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "ke baya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araka"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "araka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mo go yona go leng"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "e direlang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:09.686721187Z",
+  "model": "glm-5.3"
+}

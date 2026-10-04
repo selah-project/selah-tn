@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 36:9",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme boswa bo se ka ba sutega go tswa mo morafeng go ya go morafe o mongwe; gonne mongwe le mongwe wa merafe ya bana ba Yisraele o tla nna a tsamaeditswe le boswa jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme go se ka ga"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "go sutega"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "boswa"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "go tswa mo morafeng"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "go ya go morafe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "o mongwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "le boswa jwa gagwe"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "a tsamaeditswe"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "merafe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:08.238043099Z",
+  "model": "glm-5.3"
+}

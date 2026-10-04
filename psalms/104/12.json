@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Mo go tsone dinonyane tsa magodimo di nna; magareng ga diseka di nea lentswe.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dinonyane"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa magodimo"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "di nna"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "diseka"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "di nea"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:11.292848665Z",
+  "model": "glm-5.3"
+}

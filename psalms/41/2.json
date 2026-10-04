@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Mahlaphe a yo o ribang tlhale go ⟨⟨ba⟩⟩ humanegileng; mo letsatsing la bosula Yahwe o tla mo ntsha.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahlaphe"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yo o ribang tlhale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דל",
+      "gloss": "humanegileng"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mo letsatsing"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "la bosula"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "o tla mo ntsha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:16.267478741Z",
+  "model": "glm-5.3"
+}

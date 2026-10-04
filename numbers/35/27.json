@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "mme mokolodi wa madi a mo bona, a tswa ⟨את⟩ ene kwa ntle ga molelwane wa toropo ya gagwe ya botshabela, mme mokolodi wa madi a bolaya ⟨את⟩ molai — ga go madi mo go ene.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "mme a mo bona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "molai"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mokolodi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wa madi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kwa ntle ga"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wa toropo"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ya gagwe ya botshabela"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "mme a bolaya"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mokolodi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wa madi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molai"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "molai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:19:50.127317189Z",
+  "model": "glm-5.3"
+}

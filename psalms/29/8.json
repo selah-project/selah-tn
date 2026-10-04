@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Lentswe la Yahwe le dira gore lete le thuthumathe; Yahwe o dira gore lete la Kadeshe le thuthumathe.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "le dira gore le thuthumathe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "lete"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "o dira gore le thuthumathe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "lete"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:00.343535297Z",
+  "model": "glm-5.3"
+}

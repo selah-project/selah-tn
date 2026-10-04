@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Mme ba se ke ba tshokola ⟨את⟩ dihlogo tsa bone, mme ba se ke ba segolatsa moriri; ba tlhape thata go apaola ⟨את⟩ dihlogo tsa bone.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "dihlogo tsa bone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "ba tshokola"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "moriri o o segolotsweng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "ba segolatsa"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "go apaola thata"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "ba apaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dihlogo tsa bone"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "dihlogo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:51:49.735636934Z",
+  "model": "glm-5.3"
+}

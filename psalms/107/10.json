@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Ba ba dutseng mo lefifing le mo sehubeng sa loso, ba ba tshwerweng ka botsoko le ka tshipi.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "ba ba dutseng"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mo lefifing"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "le mo sehubeng sa loso"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "ba ba tshwerweng"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ka botsoko"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "le ka tshipi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:31.174821355Z",
+  "model": "glm-5.3"
+}

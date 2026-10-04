@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme a tsamaya, a dira jaaka lefoko la Eliyahu; mme a ja ena le ene le ntlo ya gagwe, malatsi.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "mme a tsamaya"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jaaka lefoko"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "la Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mme a ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "le ene"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "le ntlo ya gagwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:12.639407244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme bana ba Yisraele ba ntsha ⟨את⟩ Baale le ⟨את⟩ Ashitarote, ba direla ⟨את⟩ Yahwe o nosi fela.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "ba ntsha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baale"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashitarote"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "o nosi fela"
+    }
+  ],
+  "timestamp": "2026-10-03T22:57:57.921923343Z",
+  "model": "glm-5.3"
+}

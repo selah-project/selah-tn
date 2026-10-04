@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "O bonile dilo tse dintsi, mme ga o a di tlhokomela; ditsebe di butswe, mme ga di a utlwa.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "o bonile"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "dilo tse dintsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "o a di tlhokomela"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "di butswe"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ditsebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "di a utlwa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:44.183754061Z",
+  "model": "glm-5.3"
+}

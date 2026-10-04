@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Bonang, seatla sa Yahwe ga se a ka sa sega, se sa kgone go boloka, le sebele ga se a ka sa boima, se sa kgone go utlwa;",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "se a ka sa sega"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sa Yahwe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le sebele ga"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "a ka sa boima"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "se"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "go utlwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:04:04.176039346Z",
+  "model": "glm-5.3"
+}

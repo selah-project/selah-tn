@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ba le bantsi ba ba neng ba balwa go tswa mo dikgologanong tsa bana ba Merari, go ya ka dikgologano tsa bone, go ya ka malapa a bomalomeabone:",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Mme ba le bantsi ba ba neng ba balwa"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mo dikgologanong tsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya ka dikgologano tsa bone"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ya ka malapa a"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bomalomeabone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:36.865351825Z",
+  "model": "glm-5.3"
+}

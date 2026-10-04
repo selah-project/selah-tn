@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Yo o bokang ka selemo ke morwa yo o nang le bohalahala; mme yo o robalang ka phokolo ke morwa yo o bakang tshwenyego.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "yo o bokang"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ka selemo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yo o nang le bohalahala"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "yo o robalang"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ka phokolo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "yo o bakang tshwenyego"
+    }
+  ],
+  "timestamp": "2026-10-04T01:44:57.902231706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Ratang ⟨את⟩ Yahwe, botlhe ba ba boitshepo ba gagwe; Yahwe o boloka ba botshepegi, mme o duelola ka botlalo yo o dirang pharogo.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Ratang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ba ba boitshepo ba gagwe"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ba botshepegi"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "mme o duelola"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka botlalo (על)"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "pharogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:13.002533894Z",
+  "model": "glm-5.3"
+}

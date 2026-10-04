@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 130,
+  "translation": "Mme ene o tla kolola ⟨את⟩ Yisraele go tswa mo ditlhaesong tsotlhe tsa one.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Mme ene"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "o tla kolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tswa mo ... tsotlhe"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "ditlhaesong tsa one"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:22.221717641Z",
+  "model": "glm-5.3"
+}

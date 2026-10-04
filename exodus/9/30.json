@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme wena le badiri ba gago — ke a itse gore lo sa tsabe sefathego sa Yahwe Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "le badiri ba gago"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke a itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "lo sa"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "tsabe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sefathego sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:36.441181917Z",
+  "model": "glm-5.3"
+}

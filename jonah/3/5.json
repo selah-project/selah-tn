@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme banna ba Niniwe ba dumela Elohim, ba phatlalatsa kgetho, ba apara masaka, go tloga go ba bagolo go fitlha go ba bannye.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "ba dumela"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniwe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ba phatlalatsa"
+    },
+    {
+      "surface": "צום",
+      "gloss": "kgetho"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "ba apara"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "masaka"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "go tloga go ba bagolo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "ba bannye"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:45.861756832Z",
+  "model": "glm-5.3"
+}

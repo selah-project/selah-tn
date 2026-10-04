@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Thapelo ya Dawide. Tlhoka Yahwe ⟨את⟩ kutlo ya gago go n araba, gonne ke humanegile mme ke tlhoka, ke ene.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Thapelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Tlhoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kutlo ya gago",
+      "marks": "—"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "go n araba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ke humanegile"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mme ke tlhoka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:11.064889304Z",
+  "model": "glm-5.3"
+}

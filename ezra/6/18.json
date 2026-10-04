@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 6:18",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ba tlhoma baprista ka dikarolo tsa bone, le balefi ka maemo a bone, mo tirong ya Elohim e e kwa Yerushalayime, jaaka go kwadilwe mo bukeng ya Moshe.",
+  "tokens": [
+    {
+      "surface": "והקימו",
+      "gloss": "ba tlhoma"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "בפלגתהון",
+      "gloss": "ka dikarolo tsa bone"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "le balefi"
+    },
+    {
+      "surface": "במחלקתהון",
+      "gloss": "ka maemo a bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עבידת",
+      "gloss": "tirong ya"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "די",
+      "gloss": "e e leng"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "ככתב",
+      "gloss": "jaaka go kwadilwe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "mo bukeng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:26:35.991993590Z",
+  "model": "glm-5.3"
+}

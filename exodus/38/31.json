@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Le ⟨את⟩ manala a ⟨the⟩ phapa e e dikologileng, le ⟨את⟩ manala a kgoro ya phapa, le ⟨את⟩ dipoka tsotlhe tsa Mishkane, le ⟨את⟩ dipoka tsotlhe tsa phapa e e dikologileng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "manala a phapa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "manala"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "a phapa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "e e dikologileng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "manala a kgoro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "manala"
+    },
+    {
+      "surface": "שער",
+      "gloss": "a kgoro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya phapa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipoka tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "dipoka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tsa Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipoka tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "dipoka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tsa phapa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "e e dikologileng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:42.061455856Z",
+  "model": "glm-5.3"
+}

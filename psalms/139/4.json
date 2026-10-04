@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Gore ga go na lefoko mo molomong wa me — bonang, Yahwe, o le itse ka botlalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "mo molomong wa me"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o le itse"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ka botlalo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:35.581770357Z",
+  "model": "glm-5.3"
+}

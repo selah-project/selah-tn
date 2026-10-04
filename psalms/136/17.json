@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Go baya didirwa bakgoni ba Bagosi ba bagolo, gore ka go sa fela go ya go ilelelega hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "go baya didirwa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bagosi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ba bagolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka go sa fela go ya go ilelelega"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:29.903298627Z",
+  "model": "glm-5.3"
+}

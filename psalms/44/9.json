@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Ka Elohim re ipelajela letsatsi lotlhe, mme leina la gago le tlaa re leboga go ya kwamoso. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "re ipelajela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "mme leina la gago"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya kwamoso"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "re tlaa leboga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:29.993095244Z",
+  "model": "glm-5.3"
+}

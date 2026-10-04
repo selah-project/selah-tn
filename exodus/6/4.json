@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme gape ke netefaditse ⟨את⟩ kgolagano ya me ⟨את⟩ le bone, go ba naya ⟨את⟩ lefatshe la Kenane, ⟨את⟩ lefatshe la boagedi jwa bone, le bone ba neng ba aga gone.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mme gape"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ke netefaditse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano ya me"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ le bone"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go naya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Kenane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la boagedi jwa bone"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "la boagedi jwa bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le bone ba neng ba aga gone"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ba neng ba aga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "gone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:48.937450973Z",
+  "model": "glm-5.3"
+}

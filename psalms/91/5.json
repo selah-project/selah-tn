@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Ga o kitla o boifa tsabo ya bosele, kgotsa tshaka e e fofang ka mo mosong.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "o boife"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "tsabo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosele"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "e e fofang"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ka mo mosong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:18.695098079Z",
+  "model": "glm-5.3"
+}

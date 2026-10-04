@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Fa e le gompieno, ke ne ke ka isa ⟨את⟩ seatla sa me, ke go otla ⟨את⟩ wena le ⟨את⟩ setjhaba sa gago ka tlhahlobo, o ka bo o nyeletse mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa e le"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ke ne ke ka isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa me"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa me"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "ke go otla"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setjhaba sa gago"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka tlhahlobo"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "o ka bo o nyeletse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:34.945723573Z",
+  "model": "glm-5.3"
+}

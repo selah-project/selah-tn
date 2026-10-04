@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ba ba molato ba tla boela go Sheole, ditshaba tsotlhe tse di lebalelang Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ba tla boela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba molato"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "go Sheole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "tse di lebalelang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:03.461314776Z",
+  "model": "glm-5.3"
+}

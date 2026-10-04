@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mo godimo ga maemo a a kwa godimo, kwa tseleng, gareng ga ditsela tse di kopaneng, o eme.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "maemo a a kwa godimo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gareng ga"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "o eme"
+    }
+  ],
+  "timestamp": "2026-10-04T01:44:40.508027039Z",
+  "model": "glm-5.3"
+}

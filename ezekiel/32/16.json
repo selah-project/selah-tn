@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 32:16",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Seako ke sone; mme bana ba basadi ba ditshaba ba tla se lla ⟨את⟩ — ba se lla ka ga Mitsrayime le ka ga setshaba sa yona sotlhe — go bua Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "קינה",
+      "gloss": "Seako"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke sone"
+    },
+    {
+      "surface": "וקוננוה",
+      "gloss": "mme ba tla se lla"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana ba basadi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ba ditshaba"
+    },
+    {
+      "surface": "תקוננה",
+      "gloss": "ba tla se lla"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ka ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "setshaba sa yona"
+    },
+    {
+      "surface": "תקוננה",
+      "gloss": "ba tla se lla"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime le setshaba sa yona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:45:56.016252179Z",
+  "model": "glm-5.3"
+}

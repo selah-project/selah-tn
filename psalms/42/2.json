@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Jaaka phuti e hema ka thata go dinoka tsa metsi, jalo moya wa me o hema ka thata go wena, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "jaaka phuti"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "e hema ka thata"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "dinoka tsa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "o hema ka thata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:21.460816250Z",
+  "model": "glm-5.3"
+}

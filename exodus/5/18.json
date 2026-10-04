@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme jaanong tsamayang, direlang; mme bojang bo ka se newe lona; mme lekanyo la dithwii lo tlaa lo neela.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "tsamayang"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "direlang"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "mme bojang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "bo ka se newe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "mme lekanyo"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "la dithwii"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "lo tlaa lo neela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:39.532102159Z",
+  "model": "glm-5.3"
+}

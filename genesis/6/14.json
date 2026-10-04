@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Dira go wena sekele sa dikgwa tsa gofere; dikamore o tlaa di dira mo sekeleng; mme o tlaa se phima ka mogopo kafa teng le kwa ntle.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "sekele"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sa dikgwa"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "tsa gofere"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "dikamore"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tlaa di dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekele"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sekele"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "mme o tlaa se phima"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sekele"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kafa teng"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "le kwa ntle"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ka mogopo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:30.415098419Z",
+  "model": "glm-5.3"
+}

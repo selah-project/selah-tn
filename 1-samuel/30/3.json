@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Dawide le banna ba gagwe ba fihla kwa toropong, mme bonang! e jeletswe ka molelo; mme basadi ba bone, le barwa ba bone, le barwadi ba bone, ba tsewa jaaka batshwarwa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang!"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "e jeletswe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "basadi ba bone"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "le barwa ba bone"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "le barwadi ba bone"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ba tsewa jaaka batshwarwa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:07:26.255302456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme setshaba se ne sa re go Yehoshua: Nnyaa; ke ⟨את⟩ Yahwe fela re tlaa mo direla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "se ne sa re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nnyaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "re tlaa mo direla"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:18.261334811Z",
+  "model": "glm-5.3"
+}

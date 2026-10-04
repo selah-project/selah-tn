@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Kalabe a khutshetsetsa ⟨את⟩ setshaba go ya go Moshe, mme a re: A re tlhatlogang, re tla e tsaya; gobane re ka e fenyela.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "mme ... a khutshetsetsa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "A re tlhatlogang"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "re tla tlhatloga"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "re tla e tsaya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (lefatshe)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "re a kgona"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "go e fenya"
+    }
+  ],
+  "timestamp": "2026-10-03T22:10:04.401169643Z",
+  "model": "glm-5.3"
+}

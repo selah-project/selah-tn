@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme a tlhopha ⟨את⟩ morafe wa Yehuda, ⟨את⟩ thaba ya Tsiyone eo a neng a e rata.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "a tlhopha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morafe wa Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "morafe wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba ya Tsiyone"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "a e rata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:21.361481406Z",
+  "model": "glm-5.3"
+}

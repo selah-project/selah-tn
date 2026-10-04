@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme Aharone le bana ba Yisraele ba lebelela ⟨את⟩ Moshe, mme bona, letlalo la sefatsheng sa gagwe le phadima, mme ba tsaba go atamela go ene.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ba lebelela"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le botlhe ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "a phadima"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo la"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefatsheng sa gagwe"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mme ba tsaba"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "go atamela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:50.560568894Z",
+  "model": "glm-5.3"
+}

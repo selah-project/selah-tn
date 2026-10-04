@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "gore o tla mo alafa ⟨את⟩ morwaoo a se kae fa morago ga me, mme ba dire medimo e mengwe; mme tlhogo ya Yahwe e tla baba ka lona, mme a lo fenya ka bonako;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "o tla mo alafa a se kae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwaoo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwaoo"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "fa morago ga"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mme ba dire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e mengwe"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "mme e baba"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "mme a lo fenya"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ka bonako"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:47.173779658Z",
+  "model": "glm-5.3"
+}

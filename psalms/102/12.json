@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Malatsi a me a tswelela jaaka moriti o otlolohileng; mme nna ke oma jaaka sejanaga.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "malatsi a me"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "jaaka moriti"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "o otlolohileng"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "jaaka sejanaga"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "ke oma"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:58.473562489Z",
+  "model": "glm-5.3"
+}

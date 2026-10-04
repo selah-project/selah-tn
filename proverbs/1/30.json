@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ga ba a dumela go kgothaletsa ga me; ba nyaditse tlhagiso ya me yotlhe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "ba a dumela"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "go kgothaletsa ga me"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ba nyaditse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "tlhagiso ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:45.911354048Z",
+  "model": "glm-5.3"
+}

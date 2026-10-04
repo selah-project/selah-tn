@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "⟨את⟩ diaparo tsa bokgowe go direla mo boitshepong, ⟨את⟩ diaparo tsa boitshepo tsa Aharone moporofeti-mong wa badiredi, le ⟨את⟩ diaparo tsa bana ba gagwe ba go direla se badiredi ba se dirang.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa bokgowe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "tsa bokgowe"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "go direla"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mo boitshepong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa boitshepo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsa boitshepo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tsa Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mong wa badiredi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo tsa bana ba gagwe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "tsa bana ba gagwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ba go direla jaaka badiredi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:43.489408051Z",
+  "model": "glm-5.3"
+}

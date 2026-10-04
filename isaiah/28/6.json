@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "le ruakh ya katlholo ya moatlhodi yo o dutlang katlholong, le maatla a ba ba busetsang ntwa kwa kgoreng.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "le ruakh ya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "ya moatlhodi yo o dutlang"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "katlholong"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "le maatla a"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "ba ba busetsang"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "kwa kgoreng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:12.201502878Z",
+  "model": "glm-5.3"
+}

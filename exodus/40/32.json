@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Fa ba tsena kwa setenteng sa phuthego, le fa ba atamela kwa altareng, ba ne ba tlhapha; jaaka Yahwe a neng a laetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "fa ba tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "setenteng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa phuthego"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "le fa ba atamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareng"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "ba ne ba tlhapha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:44.609731042Z",
+  "model": "glm-5.3"
+}

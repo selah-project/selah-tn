@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ⟨את⟩ masimo a lona, le ⟨את⟩ dirapa tsa lona sa dinao, le ditlhare tsa olifere tsa lona tse di gaisang, o tlaa a di tsaya, mme a di neela balebedi ba gagwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masimo a lona"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "masimo a lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dirapa tsa lona sa dinao"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "dirapa tsa lona sa dinao"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "le ditlhare tsa olifere tsa lona"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "tse di gaisang"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tlaa a di tsaya"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mme a di neela"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "balebedi ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:36.485788975Z",
+  "model": "glm-5.3"
+}

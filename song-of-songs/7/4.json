@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Dibepe tsa gago di le pedi, di tshwana le bana ba dikgama ba le pedi, ba tsalwanyana ba kgama ya tsadi.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "di le pedi"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "Dibepe tsa gago"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "di tshwana le ... ba le pedi"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "bana ba dikgama"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "ba tsalwanyana"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "kgama ya tsadi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:08:26.919405231Z",
+  "model": "glm-5.3"
+}

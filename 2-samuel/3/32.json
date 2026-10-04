@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ba tlhabela ⟨את⟩ Abinere kwa Hebrone; mme kgosi e ne ya tlhatlosa ⟨את⟩ lentswe la yone, mme ya lela kwa mokgatlheng wa Abinere, mme setshaba sotlhe sa lela.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "ba tlhabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abinere"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abinere"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "kwa Hebrone"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "e ne ya tlhatlosa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la yone"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "lentswe la yone"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "mme ya lela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mokgatlheng"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "wa Abinere"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "mme setshaba sotlhe sa lela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T23:09:17.745168800Z",
+  "model": "glm-5.3"
+}

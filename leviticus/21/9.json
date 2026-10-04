@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ngwana wa mosadi wa moprista, fa a iphitlhisa ka go belegana, ⟨היא⟩ o a sotla ⟨את⟩ rraagwe; ka molelo o tlaa chesiwa.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Mme ngwana wa mosadi wa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "a iphitlhisa"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ka go belegana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraagwe"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o (bosupi)"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "o a sotla"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "o tlaa chesiwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:09.180952965Z",
+  "model": "glm-5.3"
+}

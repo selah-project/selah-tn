@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Moya wa me o kgomaretse go wena; seatla sa gago sa moja se a nthekela.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "o kgomaretse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "se a nthekela"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "seatla sa gago sa moja"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:02.012714404Z",
+  "model": "glm-5.3"
+}

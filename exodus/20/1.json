@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Elohim o bua ⟨את⟩ mafoko otlhe a, a re:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mme o bua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re:"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:48.158223931Z",
+  "model": "glm-5.3"
+}

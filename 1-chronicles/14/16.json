@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme Dawide a dira jaaka Elohim a neng a mo laetse, ba betsa ⟨את⟩ kanoko ya Bapelishti go tloga ka Gibone go fitlha ka Gezere.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "a neng a mo laetse"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba betsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanoko"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kanoko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Bapelishti"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "go tloga ka Gibone"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha ka"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezere"
+    }
+  ],
+  "timestamp": "2026-10-04T02:40:07.723620750Z",
+  "model": "glm-5.3"
+}

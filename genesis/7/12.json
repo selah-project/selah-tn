@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme pula e ne ya nna mo lefatsheng malatsi a mane le bosigo jwa mane.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e ne ya nna"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "a mane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "le jwa mane"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:41.576574726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Tlhaofa, Tshidone, gonne lewatle le buile, maemo a lewatle, a re: Ga ke a sokola, mme ga ke a belega, mme ga ke a godisa basha, ga ke a tlhatlosa balekane.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Tlhaofa"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tshidone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "le buile"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "maemo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a lewatle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ke a sokola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ke a belega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ke a godisa"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "basha"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "ke a tlhatlosa"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "balekane"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:06.908700373Z",
+  "model": "glm-5.3"
+}

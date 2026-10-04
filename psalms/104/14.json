@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "O dira go tsela bojang bakgomo, le dinama go diriwa ke motho, gore a ntshe senkgwe mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "o dira go tsela"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "bojang"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "bakgomo"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "le dinama"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "go diriwa ke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "gore a ntshe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:38.117524931Z",
+  "model": "glm-5.3"
+}

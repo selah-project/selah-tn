@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 33:10",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Ba tlaa ruta ⟨את⟩ dikatlholo tsa gago go Yaakobo, le ⟨את⟩ Torah ya gago go Yisraele; ba tlaa bea mela kwa sefogong sa gago, le se se fisang ka botlalo mo altareng ya gago.",
+  "tokens": [
+    {
+      "surface": "יורו",
+      "gloss": "ba tlaa ruta"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikatlholo tsa gago"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "go Yaakobo"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "le Torah ya gago"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ba tlaa bea"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "mela"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "kwa sefogong sa gago"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "se se fisang ka botlalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "altareng ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:33:18.085656941Z",
+  "model": "glm-5.3"
+}

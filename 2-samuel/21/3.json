@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "mme Dawide a re go Bagibeone: Ke direng lona? le ka eng ke ikhutlafatse, gore le talofatse kafa ⟨את⟩ boswa jwa Yahwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Bagibeone"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ke eng"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke direng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "le ka eng"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "ke ikhutlafatse"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "goro le talofatse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boswa jwa Yahwe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "boswa jwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:17:21.350661179Z",
+  "model": "glm-5.3"
+}

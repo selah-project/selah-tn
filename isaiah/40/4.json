@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mogala mongwe le mongwe o tla bulwa, mme thaba mongwe le mongwe le molebelbebe di tla tlasegiswa, mme dithaka di tla nna lefelo le le se nang sepe, mme mabala a a pharabathileng a nna lefelo la bopebelo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "mogala"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "o tla bulwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme thaba mongwe le mongwe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "le molebelbebe"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "di tla tlasegiswa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme di tla nna"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "dithaka"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "lefelo le le se nang sepe"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "mme mabala a a pharabathileng"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "lefelo la bopebelo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:42.250615638Z",
+  "model": "glm-5.3"
+}

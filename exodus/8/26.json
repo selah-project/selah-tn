@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Moshe a tswa mo go Farao, mme a rapela go Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "mme a rapela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:54.419603699Z",
+  "model": "glm-5.3"
+}

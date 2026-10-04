@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme ditsela tsa metsi di ne di bonala, mme motheo wa lefatshe o ne o senolwa, ka go gana ga gago, Yahwe, ka go hema ga ruakh ya dikgonogo tsa gago.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "mme di ne di bonala"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ditsela tsa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "mme o ne o senolwa"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wa lefatshe"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "ka go gana ga gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "ka go hema ga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ya dikgonogo tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:32.980731381Z",
+  "model": "glm-5.3"
+}

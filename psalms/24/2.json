@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Gore ⟨e ne⟩ ⟨ke⟩ ene a e lahitseng mo godimo ga mawu, mme a e tlhomising mo godimo ga dinoka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "a e lahitseng"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme mo godimo ga"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "a e tlhomising"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:13.162586678Z",
+  "model": "glm-5.3"
+}

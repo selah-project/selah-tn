@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Sepoa se buile ka pelo ya sone: Ga go Elohim. Ba senyeditse, mme ba dirile makgapha a makgapha; ga go ope yo o dirang botoka.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "se buile"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Sepoa"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ka pelo ya sone"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ba senyeditse"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "mme ba dirile makgapha"
+    },
+    {
+      "surface": "עול",
+      "gloss": "a makgapha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "botoka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:34.998040688Z",
+  "model": "glm-5.3"
+}

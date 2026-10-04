@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme ba ne ba tshaba ⟨את⟩ Yahwe, mme ba dirile go tswa mo magareng a bone bakanoka ba mabapo, mme ba ne ba dira mo go bone mo matlong a mabapo.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ne ba"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "tshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba dirile"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "go tswa mo magareng a bone"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "bakanoka ba"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mabapo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ne ba"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo matlong a"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mabapo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:40:21.135471343Z",
+  "model": "glm-5.3"
+}

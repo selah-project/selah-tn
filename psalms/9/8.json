@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Yahwe o nna a le teng go ya bosakhutshwane; o netefaditse setulo sa gagwe sa katlholo.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya bosakhutshwane"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o nna a le teng"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "o netefaditse"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sa katlholo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "setulo sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:43.263722142Z",
+  "model": "glm-5.3"
+}

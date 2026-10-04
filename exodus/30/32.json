@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 30:32",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mo nameng ya motho ga se ka ke a rolwa, mme ka tekanyo ya yone lo se ka wa dira e e tshwanang le yona; e boitshepo, e tlaa nna e boitshepo go lona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mo nameng ya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nameng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se ka ke"
+    },
+    {
+      "surface": "ייסך",
+      "gloss": "a rolwa"
+    },
+    {
+      "surface": "ובמתכנתו",
+      "gloss": "mme ka tekanyo ya yone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ka"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "wa dira"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "e e tshwanang le yona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e boitshepo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e boitshepo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tlaa nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:02.916631026Z",
+  "model": "glm-5.3"
+}

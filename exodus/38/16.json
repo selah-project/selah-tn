@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mekgoba yotlhe ya boikhutso, go dikologa, e ne e le ⟨ya⟩ lensiri le le bobolang go nna motho o montsho.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "mekgoba"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya boikhutso"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lensiri"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "le le bobolang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:06.681810864Z",
+  "model": "glm-5.3"
+}

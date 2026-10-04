@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme Yahwe a bua le Moshe, morago ga loso lwa barwa ba Aharone ba babedi, fa ba neng ba atametse pele ga Yahwe, mme ba swa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "loso"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "fa ba neng ba atametse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "mme ba swa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:01.212570400Z",
+  "model": "glm-5.3"
+}

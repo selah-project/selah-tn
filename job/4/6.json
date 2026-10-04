@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "A go siane jalo, a go tshaba ga gago ga go se kgonagatseng gore ke tshepo ya gago, tsholofelo ya gago, le botlhale jwa ditsela tsa gago?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a go siane jalo"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "go tshaba ga gao"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "ke tshepo ya gago"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "tsholofelo ya gago"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "le botlhale"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ditsela tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:42.922701244Z",
+  "model": "glm-5.3"
+}

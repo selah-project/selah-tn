@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Dithopo tsa maje a magolo a tharo, le thopo ya lekgarapa le lesha; mme ditsholanyetso di fiwe go tswa mo ntlong ya kgosi.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "dithopo"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "maje"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "a magolo"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "a tharo"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "le thopo"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אע",
+      "gloss": "lekgarapa"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "le lesha"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "mme ditsholanyetso"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo ntlong ya"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "di fiwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:27:23.524791358Z",
+  "model": "glm-5.3"
+}

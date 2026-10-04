@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Le ditlhare tsa mafura tse pedi mo go sone, tee ka mo mojeng wa sekele, le tee ka mo molemeng wa sone.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ditlhare tsa mafura"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo go sone"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tee"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ka mo mojeng"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "wa sekele"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "le tee"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka mo"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "molemeng wa sone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:08:36.653006284Z",
+  "model": "glm-5.3"
+}

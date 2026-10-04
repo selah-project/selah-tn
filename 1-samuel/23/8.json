@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme Shaule a boka ⟨את⟩ setshaba sotlhe go ya ntwa, go tlasega Kegilah, go dikologa Dawide le banna ba gagwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a boka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go ya ntwa"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "go tlasega"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kegilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "banna ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:04:13.766018254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Go bapisiwa le mololwane wa yone dikhutlo di ne di le teng, malapa a dipale go rwala ⟨את⟩ tafole.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "go bapisiwa le"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "mololwane wa yone"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di ne di le teng"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "dikhutlo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "a dipale"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "go rwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:30.647971579Z",
+  "model": "glm-5.3"
+}

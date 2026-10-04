@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Tloga, o tsoge, o tlele katlholo ya me; Eloha wa me, le Adonai, o tlele kganelo ya me.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Tloga"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "o tsoge"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "o tlele katlholo ya me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloha wa me"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "le Adonai"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "o tlele kganelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:26.515665882Z",
+  "model": "glm-5.3"
+}

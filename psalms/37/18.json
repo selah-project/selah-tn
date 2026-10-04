@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Yahwe o itse malatsi a ba ba nang bopelokgale, mme bojwa jwa bone bo tla nna go ya le lelakgareng.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "a ba ba nang bopelokgale"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "mme bojwa jwa bone"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lelakgareng"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo tla nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:23.913757985Z",
+  "model": "glm-5.3"
+}

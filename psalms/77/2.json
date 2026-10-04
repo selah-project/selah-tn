@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Lentswe la me le kwa Elohim, mme ke gama; lentswe la me le kwa Elohim, mme o reetseditse nna.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Lentswe la me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "mme ke gama"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentswe la me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "mme o reetseditse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:32.127117723Z",
+  "model": "glm-5.3"
+}

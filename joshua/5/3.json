@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Yehoshua a itirela dithaere tsa majwe, mme a rukolla bana ba ⟨את⟩ Yisraele kwa thabeng ya marukollo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme a direla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yo o itirelang"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "dithaere"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "tsa majwe"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "mme a rukolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "marukollo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:41.251872427Z",
+  "model": "glm-5.3"
+}

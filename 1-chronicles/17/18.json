@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Dawide o ka oketsa eng gape go go tlotla, ⟨את⟩ modiri wa gao? Mme wena o itse ⟨את⟩ modiri wa gao.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "o ka oketsa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "go go tlotla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modiri wa gao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gao"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modiri wa gao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gao"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o itse"
+    }
+  ],
+  "timestamp": "2026-10-04T02:41:58.297206519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Shemuele a direla ⟨את⟩ sefathego sa Yahwe, a le mosimane, a kgabisitswe ka epode ya linene.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Mme Shemuele"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "a direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefathego"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mosimane"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "a kgabisitswe"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "epode"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ya linene"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:11.803734709Z",
+  "model": "glm-5.3"
+}

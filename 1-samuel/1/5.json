@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go Khanne o ne a mo neela karolo e le nngwe ya bobedi, gonne ⟨את⟩ Khanne o ne a mo rata, mme Yahwe o ne a tswalela popo ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "go Khanne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o ne a mo neela"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ya bobedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanne"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khanne"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o ne a mo rata"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "o ne a tswalela"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "popo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:54:52.234467235Z",
+  "model": "glm-5.3"
+}

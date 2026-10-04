@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ba tla tswa ba re latedi, go fitlha re ba ntsha mo toropong; gonne ba tla re: Ba bapa fa pele ga rona, jaaka ka nako ya ntlha; mme re tla bapa fa pele ga ⟨את⟩ bone.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "mme ba tla tswa"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "ba re latedi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "re ba ntsha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bone"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla re"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "ba bapa"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "fa pele ga rona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ka nako ya ntlha"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "mme re tla bapa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fa pele ga bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:37:45.931724553Z",
+  "model": "glm-5.3"
+}

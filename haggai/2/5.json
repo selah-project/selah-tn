@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "⟨את⟩ lefoko leo ke neng ke raya kgolagano le ⟨את⟩ lona fa lo ne lo tswa mo Mitsrayime, mme ruakh ya me e ntse e eme gare ga lona; lo se ka la boifa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko leo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lefoko leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ke neng ke raya kgolagano"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "fa lo ne lo tswa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mo Mitsrayime"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "mme ruakh ya me"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e ntse e eme"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "gare ga lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lo se ka"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "la boifa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:06:15.045776903Z",
+  "model": "glm-5.3"
+}

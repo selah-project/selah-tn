@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme Dawide a nna moitsemane, a tlala letsatsi, mme a busa ⟨את⟩ Shelomoe morwawe mo go Yisraele.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Mme Dawide"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a nna moitsemane"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "a tlala"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:43:40.101568522Z",
+  "model": "glm-5.3"
+}

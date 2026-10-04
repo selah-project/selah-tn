@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme ba dira ⟨את⟩ dijana tsa leshele, mošomo wa moanegi, bakeng sa Aharone le bakeng sa bana ba gagwe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mme ba dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijana"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "dijana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "leshele"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "wa moanegi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "bakeng sa Aharone"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "le bakeng sa bana ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:45.928968865Z",
+  "model": "glm-5.3"
+}

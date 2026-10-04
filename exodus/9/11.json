@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme bagodi ba ne ba se kgone go ema pele ga Moshe ka ntlha ya marothodi, gonne marothodi a ne a le mo bagoding le mo Ba-Mitsrayime botlhe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "bagodi"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "go ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "marothodi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a ne a le"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "marothodi"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "mo bagoding"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le mo botlhe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ba Ba-Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:25.794627142Z",
+  "model": "glm-5.3"
+}

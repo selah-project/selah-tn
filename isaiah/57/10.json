@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "Ka bontle jwa tsela ya gago o fwile ke maatla, mme ga wa re go tlhohuma; o ne wa fitlhela botshelo ka seatla sa gago; ka ntlha ya moo ga wa a nna bokoa.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ka bontle"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya gago"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "o fwile ke maatla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wa re"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "go tlhohuma"
+    },
+    {
+      "surface": "חית",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "wa fitlhela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ntlha ya moo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "wa nna bokoa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:02:44.260079030Z",
+  "model": "glm-5.3"
+}

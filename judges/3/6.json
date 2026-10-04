@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ba tsaya ⟨את⟩ barwaedi ba bone go bone go nna basadi, mme ⟨את⟩ barwaedi ba bone ba ne ba fa bara ba bone, mme ba ne ba direla ⟨את⟩ medimo ya bona.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Mme ba tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barwaedi ba bone"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "barwaedi ba bone"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "go nna basadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barwaedi ba bone"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "barwaedi ba bone"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba ne ba fa"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bara ba bone"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mme ba ne ba direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya bona"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "medimo ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:45:16.811043457Z",
+  "model": "glm-5.3"
+}

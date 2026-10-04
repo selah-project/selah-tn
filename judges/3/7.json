@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme bana ba Yisraele ba dira ⟨את⟩ bosula mahlong a Yahwe, mme ba lebala ⟨את⟩ Yahwe Elohim wa bona, mme ba direla ⟨את⟩ Baale le ⟨את⟩ Asherot.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mme bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosula"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ba dira bosula"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "mme ba lebala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mme ba direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baale"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asherot"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "Asherot"
+    }
+  ],
+  "timestamp": "2026-10-03T22:45:16.811257401Z",
+  "model": "glm-5.3"
+}

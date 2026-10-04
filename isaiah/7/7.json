@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Go bua jalo Adonai Yahwe: se se ka se atlega, mme se ka se direga.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "go bua jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "se se ka se atlega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme se ka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "se direge"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:17.921635897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 146,
+  "translation": "Yahwe o tla busa go ya leruri, Elohim wa gago, Tsiyone, mo malokong otlhe a a latelanang; bakang Yah.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "o tla busa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya leruri"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "mo lolong"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le lolong"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bakang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:36.366093495Z",
+  "model": "glm-5.3"
+}

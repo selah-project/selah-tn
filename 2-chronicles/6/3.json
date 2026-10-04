@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme kgosi e ne ea fetola sekhutshwane sa yone, mme ea tshegofatsa ⟨את⟩ setshaba sotlhe sa Yisraele; mme setshaba sotlhe sa Yisraele se ne se eme.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "e ne ea fetola"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekhutshwane sa yone"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sekhutshwane sa yone"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ea tshegofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sotlhe sa Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisraele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme setshaba sotlhe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "sa setshaba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisraele"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "se ne se eme"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:40.241232882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Bana ba Shimeone, go ya ka malapa a bone: ga Nemuele, lelapa la bané Nemueli; ga Yamine, lelapa la Yemini; ga Yakine, lelapa la Yakhini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana ba"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeone"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya ka malapa a bone"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "ga Nemuele"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "bané Nemueli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ga Yamine"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Yemini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "ga Yakine"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "Yakhini"
+    }
+  ],
+  "timestamp": "2026-10-03T22:14:58.247518338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme go ne go ntse jalo, fa Dawide a ne a le le ⟨את⟩ Edome, mme Yoabe molaodi wa sesole a tlhatlogela go fitlhela ⟨את⟩ ba ba suleng ba lwang, mme a baya banna botlhe kwa Edome.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go ntse jalo"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "fa a ne a le"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edome"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "ka go tlhatloga ga"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "go fitlhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba suleng ba lwang"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ba ba suleng ba lwang"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mme a baya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "banna"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "kwa Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:46.521867072Z",
+  "model": "glm-5.3"
+}

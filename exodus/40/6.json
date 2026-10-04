@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme o beke ⟨את⟩ aletare ya polao kwa pele ga segolego sa Mishkane, Tente ya Kopano.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "mme o beke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aletare ya polao"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya polao"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "segolego"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "sa Mishkane"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:05.560324384Z",
+  "model": "glm-5.3"
+}

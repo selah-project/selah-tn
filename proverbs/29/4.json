@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Kgosi ka katlholo e emisa lefatshe; mme monna wa dimpho e a e thubela.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Kgosi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka katlholo"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "e emisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme monna"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "wa dimpho"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "e a e thubela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:51:54.095538025Z",
+  "model": "glm-5.3"
+}

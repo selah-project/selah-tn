@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Elohim a utlwa ⟨את⟩ go nolofala ga bona, mme Elohim a gakologelwa ⟨את⟩ kgolagano ya gagwe, ⟨את⟩ Abrahame, ⟨את⟩ Yitshake le ⟨את⟩ Yaakobo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go nolofala ga bona"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "go nolofala ga bona"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "a gakologelwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano ya gagwe"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kgolagano ya gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshake"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:23.953373939Z",
+  "model": "glm-5.3"
+}

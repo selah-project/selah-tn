@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "A Adonai a ka latlhela ka bosikhareng? A o se ka wa tsweledisa go itumelela ga gape?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "a ... ka bosikhareng"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "a ka latlhela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "A o se ka wa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "tsweledisa"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "go itumelela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ga gape"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:43.903300349Z",
+  "model": "glm-5.3"
+}

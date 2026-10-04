@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "le go wa peo ya bone mo ditshabeng, le go ba phatlalatsa mo mafatsheng.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "le go wa"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "peo ya bone"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "le go ba phatlalatsa"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "mo mafatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:06.169785651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ke ne ka bea ⟨את⟩ notle ya me mo pudumong, mme e tla nna sesupo sa kgolagano magareng ga me le magareng ga ⟨the⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notle ya me"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "notle ya me"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ke ne ka bea"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "mo pudumong"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mme e tla nna"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "sesupo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sa kgolagano"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "magareng ga me"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le magareng ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:39.900923531Z",
+  "model": "glm-5.3"
+}

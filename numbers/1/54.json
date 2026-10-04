@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme bana ba Yisraele ba dira ka dilo tsotlhe tse Yahwe a neng a laetse ⟨את⟩ Moshe; jalo ba ne ba di dira.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mme bana ba Yisraele ba dira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ka dilo tsotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a neng a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba ne ba di dira"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:35.831544581Z",
+  "model": "glm-5.3"
+}

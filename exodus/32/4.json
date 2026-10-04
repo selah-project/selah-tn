@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme a di amogela mo diatleng tsa bone, mme a di dira ⟨את⟩ ka cherethe, mme a di dira kgokong e e noukileng; mme ba re: Medimo e ya gago, Yisraele, e e go tloditseng kwa nageng ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a di amogela"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "mo diatleng tsa bone"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "a di dira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona (dikhomose tsa gauta)"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "ka cherethe"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "a di dira"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kgokong"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "e e noukileng"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Medimo e"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ya gago"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "go tloditseng"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kwa nageng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:59.818537204Z",
+  "model": "glm-5.3"
+}

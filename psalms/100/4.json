@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 100,
+  "translation": "Tsenang kgoro ya gagwe ka tumelo, le bofaladi jwa gagwe ka tlotlo; ineelo mo go ene, o lotlhe leina la gagwe.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Tsenang"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "kgoro ya gagwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ka tumelo"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "le bofaladi jwa gagwe"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ka tlotlo"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ineelo mo go ene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "o lotlhe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:47.445421709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Yo o nayang botswerere dikgosing, yo o gololago ⟨את⟩ Dawide modiri wa gagwe mo tshakeng ya bobula.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Yo o nayang"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "botswerere"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "dikgosing"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "yo o gololago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "modiri wa gagwe"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mo tshakeng"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ya bobula"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:49.753335942Z",
+  "model": "glm-5.3"
+}

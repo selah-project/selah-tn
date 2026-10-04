@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme a isa didibana go baka pele ga Yahwe, jaaka Yahwe a ne a laela ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a isa go baka"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "didibana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a ne a laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:30.333224505Z",
+  "model": "glm-5.3"
+}

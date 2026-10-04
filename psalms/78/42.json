@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Ga ba a gakologolwa ⟨את⟩ seatla sa gagwe, le letsatsi leo a neng a ba lokolotse mo moading.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga ba a"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "gakologolwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "a ba lokolotse"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "moading"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:15.883440592Z",
+  "model": "glm-5.3"
+}

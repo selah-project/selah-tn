@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme Elohim a bua le Abrahame: Mme wena, o tlaa boloka ⟨את⟩ kgolagano ya me — wena le peo ya gago morago ga gago, go dikokomana tsa bone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano ya me"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "o tlaa boloka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "le peo ya gago"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "morago ga gago"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "go dikokomana tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:32.396903049Z",
+  "model": "glm-5.3"
+}

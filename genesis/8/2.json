@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme didibeng tsa tehuma di tswalelwa, le difense tsa magodimo; mme pula e thibelwa go tswa kwa magodimong.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "di tswalelwa"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "didibeng"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehuma"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "le difense"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "e thibelwa"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimong"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:05.567397473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 34:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Tshaka ya ga Yahwe e tlaletse madi, e nonofile ka mafura, ka madi a dikwanyana le a dinokwane, ka mafura a diphio tsa dipodisi; gore se bolailweng sa ga Yahwe se kwa Botsera, le tlhabo e kgolo kwa lefatsheng la Edome.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya ga Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tlaletse"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "הדשנה",
+      "gloss": "e nonofile"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ka madi a"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "dikwanyana"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "le a dinokwane"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ka mafura a"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "diphio"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "dipodisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "se bolailweng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa ga Yahwe"
+    },
+    {
+      "surface": "בבצרה",
+      "gloss": "se kwa Botsera"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "le tlhabo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatsheng"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "la Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T23:56:19.402912963Z",
+  "model": "glm-5.3"
+}

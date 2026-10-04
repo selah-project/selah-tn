@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Ka botlhale jwa gago le ka kutlwisiso ya gago o ile wa dira leruo mo go wena, mme wa dira gauta le selefera mo dikhasekeng tsa gago.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Ka botlhale jwa gago"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "le ka kutlwisiso ya gago"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o ile wa dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "leruo"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "mme wa dira"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "le selefera"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "mo dikhasekeng tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:44:18.203819931Z",
+  "model": "glm-5.3"
+}

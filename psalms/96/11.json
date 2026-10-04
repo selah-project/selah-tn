@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 96,
+  "translation": "Magodimo a a nne botshe, lefatshe lone a tshege; lewatle lone a luma, le sengwe le sengwe se se mo go lona.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "a nne botshe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "a tshege"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "a luma"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "le sengwe le sengwe se se mo go lona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:38.814733257Z",
+  "model": "glm-5.3"
+}

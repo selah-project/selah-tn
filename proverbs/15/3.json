@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Kwa lefelong lengwe le lengwe mahitlwa a Yahwe a lebelela bad le ba ba siameng.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kwa lefelong lengwe le lengwe"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahitlwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "a lebelela"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ba ba maswe"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "le ba ba siameng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:47:16.451888476Z",
+  "model": "glm-5.3"
+}

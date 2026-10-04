@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mose o ne wa tlhatloga mo sephonong sa gagwe, mme molelo o tswang mo molomong wa gagwe o a jewa; dilohe di ne tsa tuka go tswa mo go ene.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "o ne wa tlhatloga"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "mose"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "mo sephonong sa gagwe"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "mme molelo"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "o tswang mo molomong wa gagwe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "o a jewa"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "dilohe"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "di ne tsa tuka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T23:15:41.501908742Z",
+  "model": "glm-5.3"
+}

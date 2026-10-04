@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "O kwa godimo, Elohim, mo godimo ga magodimo, mme kgalalelo ya gago mo godimo ga lefatshe yotlhe.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "o kwa godimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme mo godimo ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kgalalelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:06.859214913Z",
+  "model": "glm-5.3"
+}

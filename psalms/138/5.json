@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 138,
+  "translation": "Mme ba opela ka mekgwa ya Yahwe, gonne kgalalelo ya Yahwe ke kgolo.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "Mme ba opela"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ka mekgwa ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kgolo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:54.882176591Z",
+  "model": "glm-5.3"
+}

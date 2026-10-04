@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 98,
+  "translation": "Yahwe o itsisitse poloko ya gagwe; mo mahitleng a ditshaba o senotse tsedeke ya gagwe.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "o itsisitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "poloko ya gagwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "mo mahitleng a"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "o senotse"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedeke ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:27.425486185Z",
+  "model": "glm-5.3"
+}

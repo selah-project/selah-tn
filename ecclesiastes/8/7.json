@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Gore ga a itse se se tlang go diragala, gobo se se tlang go diragala, ke mang yo mo ka se bolelelang?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ga a"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "itse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "se se tlang go diragala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e diragala"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "yo o ka se bolelelang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:06.625333175Z",
+  "model": "glm-5.3"
+}

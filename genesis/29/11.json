@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme Yaakobo a reta Rakhela, a tlhatlosa ⟨את⟩ lentswe la gagwe, mme a llela.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "mme a reta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rakhela"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "a tlhatlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la gagwe"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "lentswe la gagwe"
+    },
+    {
+      "surface": "וי׬ך",
+      "gloss": "mme a llela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:10.560919467Z",
+  "model": "glm-5.3"
+}

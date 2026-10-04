@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Arame kwa bopelelong, mme Bafilisitia kwa morago; mme ba ne ba ja ⟨את⟩ Yisraele ka molomo o o bulegileng. Mo go tsotlhe tsena sefo sa gagwe ga se a boa, mme seatla sa gagwe se ntse se tlhagologile.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kwa bopelelong"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "mme Bafilisitia"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "kwa morago"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mme ba ne ba ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פה",
+      "gloss": "molomo o o bulegileng"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go tsotlhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a boa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sefo sa gagwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "mme se ntse"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "se tlhagologile"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:18.991844818Z",
+  "model": "glm-5.3"
+}

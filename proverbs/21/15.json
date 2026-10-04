@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Go dira tshiamiso ke itumelo go mo tsedekeng, mme ke tshenyo go ba dirang bosula.",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "itumelo"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "go mo tsedekeng"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tshiamiso"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "mme tshenyo"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "go ba dirang"
+    },
+    {
+      "surface": "און",
+      "gloss": "bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T01:48:47.748290410Z",
+  "model": "glm-5.3"
+}

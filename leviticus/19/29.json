@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "O se ka wa tlhotlolla ⟨את⟩ morwadiaho go mo dira molwadiaho, gore lefatshe le se ka wa dira bofolwadi, mme lefatshe le nne le tletse bobotsu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "wa tlhotlolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwadiaho"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "morwadiaho"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "go mo dira molwadiaho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gore ... le se ka wa"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "wa dira bofolwadi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "mme ... le nne le tletse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bobotsu"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:44.871990841Z",
+  "model": "glm-5.3"
+}

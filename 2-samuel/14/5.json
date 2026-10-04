@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme kgosi ya mo bua le ene, re e kete: Go go tsweletse eng? Mme a araba: Ruri, ke mosadi wa segolego, mme monna wa me o tlhokafetse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya mo bua le ene"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go go tsweletse"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mme a araba"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "wa segolego"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mme o tlhokafetse"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "monna wa me"
+    }
+  ],
+  "timestamp": "2026-10-03T23:12:41.160023674Z",
+  "model": "glm-5.3"
+}

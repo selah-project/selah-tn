@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme moletlong o o latelang, Moshe a nna a atlhola ⟨את⟩ setshaba, mme setshaba sa ema fa ga Moshe, go tloga moso go fitlha maitseboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "moletlong o o latelang"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "go atlhola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sa ema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tloga"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "maitseboa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:46.789612824Z",
+  "model": "glm-5.3"
+}

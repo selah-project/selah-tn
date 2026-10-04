@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edome, le ⟨את⟩ Moabe, le ⟨את⟩ bana ba Amon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edome"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Moabe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba Amon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-10-04T00:16:50.351783733Z",
+  "model": "glm-5.3"
+}

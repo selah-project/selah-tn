@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ba di baakanya ka diphapo, diphapo le diphapo; mme lefatshe la nna le bula mmona.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "mme ba di baakanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "diphapo"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "diphapo"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "diphapo"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "mme la nna le bula"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:24.060481475Z",
+  "model": "glm-5.3"
+}

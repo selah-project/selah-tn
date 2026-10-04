@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "mme ke tla tsamaya le lona ka tlhakase ya go ganetsa, mme ke tla lo otlhola ⟨את⟩ lona, ke le bone, makgetho a supa ka ditshololo tsa lona.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "mme ke tla tsamaya"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "ka tlhakase ya"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "go ganetsa"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "mme ke tla lo otlhola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ke le bone"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "makgetho a supa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ditshololo tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:14.903516114Z",
+  "model": "glm-5.3"
+}

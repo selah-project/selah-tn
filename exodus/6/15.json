@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme bana ba Shimeone: Yemuele, le Yamine, le Ohade, le Yakhine, le Tsohare, le Shaule morwa wa Mosadi wa Kanaane; bano ke malapa a Shimeone.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mme bana ba"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeone"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuele"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "le Yamine"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "le Ohade"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "le Yakhine"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "le Tsohare"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "le Shaule"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "Mosadi wa Kanaane"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bano ke"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malapa a"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:09.143980386Z",
+  "model": "glm-5.3"
+}

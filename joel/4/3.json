@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "mme mo setshabeng sa me ba ne ba tlhagola dice, mme ba ne ba fa mosimane ka setsi, mme ba rekisitse mosetsana ka beine, mme ba nwa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mme mo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshabeng sa me"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ba tlhagola"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "dice"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mme ba ne ba fa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mosimane"
+    },
+    {
+      "surface": "בזונה",
+      "gloss": "ka setsi"
+    },
+    {
+      "surface": "והילדה",
+      "gloss": "mme mosetsana"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ba rekisitse"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ka beine"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "mme ba nwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:57:49.768458208Z",
+  "model": "glm-5.3"
+}

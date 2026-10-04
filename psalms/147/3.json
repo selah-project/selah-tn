@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Yo a fodisang ba ba thubilweng pelo, mme o kgama dikgobalo tsa bone.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Yo a fodisang"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "ba ba thubilweng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "mme o kgama"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "dikgobalo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:16.350757252Z",
+  "model": "glm-5.3"
+}

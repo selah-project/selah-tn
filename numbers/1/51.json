@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme fa Mishkane e tsamaya, Balevi ba e phudusa; mme fa Mishkane e nna, Balevi ba e tlhoma; mme moshwi yo o gorogang a bolawe.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "fa e tsamaya"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "ba e phudusa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "fa e nna"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "ba e tlhoma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "mmoshwi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yo o gorogang"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a bolawe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:11.814026810Z",
+  "model": "glm-5.3"
+}

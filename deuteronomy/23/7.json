@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "O se ka wa batla kagiso ya bone le botsedo jwa bone, matsatsi otlhe a gao, ka go sa khutla.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "wa batla"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "kagiso ya bone"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "le botsedo jwa bone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "matsatsi a gao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka go sa khutla"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:02.792753555Z",
+  "model": "glm-5.3"
+}

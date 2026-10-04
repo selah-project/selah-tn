@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme a imolola, a belega morwa, mme a bitsa ⟨את⟩ leina la gagwe Ere.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "a imolola"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ere"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:13.717708797Z",
+  "model": "glm-5.3"
+}

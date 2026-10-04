@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "O ne a ikitsa thapelo ya yo o tlhobilweng, mme o ne a sa tlore ⟨את⟩ thapelo ya bone.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "o ne a ikitsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "thapelo ya"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "yo o tlhobilweng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o ne a sa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "tlore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thapelo ya bone"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "thapelo ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:27.442511377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 32:14",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Foo ke tla dira gore metsi a bone a didimale, mme dinoka tsa bone ke mafura a ke tsamaisang — go bua Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Foo"
+    },
+    {
+      "surface": "אשקיע",
+      "gloss": "ke tla dira gore ... a didimale"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "metsi a bone"
+    },
+    {
+      "surface": "ונהרותם",
+      "gloss": "mme dinoka tsa bone"
+    },
+    {
+      "surface": "כשמן",
+      "gloss": "ke mafura"
+    },
+    {
+      "surface": "אוליך",
+      "gloss": "a ke tsamaisang"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:45:56.015829116Z",
+  "model": "glm-5.3"
+}

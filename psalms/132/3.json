@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "Fa ke tsena mo tlhakaneng ya ntlo ya me, fa ke ela godimo mo setileng sa boroko jwa me,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ke tsena"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mo tlhakaneng"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ya ntlo ya me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ke ela godimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "setileng sa boroko"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:13.240405675Z",
+  "model": "glm-5.3"
+}

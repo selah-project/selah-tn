@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Gakologelwa ⟨את⟩ se Amaleke a se dirileng go wena, mo tseleng, fa lo ne lo tswa mo Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Gakologelwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se Amaleke a se dirileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se dirileng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "fa lo ne lo tswa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mo Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-04T03:06:05.700913131Z",
+  "model": "glm-5.3"
+}

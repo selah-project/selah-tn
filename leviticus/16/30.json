@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Gore ka letsatsi leno o tla dira boitshwarelo go lona, go lopa ⟨את⟩ lona go tswa mo dibe tsa lona tse dišhe; fa pele ga Yahwe lo tla bo lo itekanetse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leno"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "o tla dira boitshwarelo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "go lopa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tswa mo tsotlhe"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dibe tsa lona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "lo tla itekanetse"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:54.278483975Z",
+  "model": "glm-5.3"
+}

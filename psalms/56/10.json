@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Ka nako eo ba ba ntlhoya ba tla boela morago ka letsatsi le ke go bitsang; seo ke se itseng, gore Elohim o na le nna.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ba tla boela"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ba ba ntlhoya"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morago"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "le ke go bitsang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke se itseng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "o na le nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:24.050264602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme o beya mo Arekeng ⟨את⟩ bopaki jo nka go bo neelang.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "mme o beya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arekeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bopaki"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nka go neela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:33.093194830Z",
+  "model": "glm-5.3"
+}

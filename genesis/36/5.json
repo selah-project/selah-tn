@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme Oholibama a belega ⟨את⟩ Yeuishe, le ⟨את⟩ Yaalame, le ⟨את⟩ Korakhe; bana ke bana ba Esawe, ba ba belegetsweng go ena kwa lefatsheng la Kenaana.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Mme Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeuishe"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeuishe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yaalame"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaalame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Korakhe"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "belegetsweng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ena"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatsheng la"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:34.820655522Z",
+  "model": "glm-5.3"
+}

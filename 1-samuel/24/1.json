@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme Dawide a tlhatloga koo, a nna mo dithibelolong tsa Eyn Gedime.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a tlhatloga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "משם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "mo dithibelolong"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eyn"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:05:00.220862056Z",
+  "model": "glm-5.3"
+}

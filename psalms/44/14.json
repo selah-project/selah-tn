@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "O re dira seriti-sa-gakologelo go ba ba diphatseng tsa rona, go tlhabiwa le go goretswa go ba ba dikologileng rona.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "O re dira"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "seriti-sa-gakologelo"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "go ba ba diphatseng tsa rona"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "go tlhabiwa"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "le go goretswa"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "go ba ba dikologileng rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:36.136466483Z",
+  "model": "glm-5.3"
+}

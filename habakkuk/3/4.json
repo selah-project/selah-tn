@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme phadima ya gagwe e tla nna jaaka kganya; dikhuti tsa kganya di tswa mo seatleng sa gagwe; mme foo go nna patilo ya maatla a gagwe.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "Mme phadima ya gagwe"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "jaaka kganya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "dikhuti tsa kganya"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "mo seatleng sa gagwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme foo"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "patilo"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ya maatla a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:05:42.832954662Z",
+  "model": "glm-5.3"
+}

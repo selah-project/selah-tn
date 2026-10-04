@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme fa letsatsi le fihla, Elkane a neela phuelo, mme a neela Penina, mosadi wa gagwe, le go bana ba gagwe botlhe, banana le banwana, dikeleng.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "fa letsatsi le fihla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "a neela phuelo"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkane"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mme a neela"
+    },
+    {
+      "surface": "לפנינה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le go ... botlhe"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "banana le banwana"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "dikeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:55:43.524794463Z",
+  "model": "glm-5.3"
+}

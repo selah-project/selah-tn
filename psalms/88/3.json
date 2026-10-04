@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "Thapelo ya me e tle kwa go wena, o tlame sehuba sa gago go pkokoko ya me.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "e tle"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "kwa go wena"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "Thapelo ya me"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "o tlame"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sehuba sa gago"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "go pkokoko ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:25.100969653Z",
+  "model": "glm-5.3"
+}

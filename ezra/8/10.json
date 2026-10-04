@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 8:10",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Le mo gareng ga bana ba Shelomithe, morwa Yosifya, le ene mo go ene lekgolo le masome a supa banna.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "le mo gareng ga bana ba"
+    },
+    {
+      "surface": "שלומית",
+      "gloss": "Shelomithe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "יוספיה",
+      "gloss": "Yosifya"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "le ene mo go ene"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "le masome a supa"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "banna"
+    }
+  ],
+  "timestamp": "2026-10-04T02:28:04.555648660Z",
+  "model": "glm-5.3"
+}

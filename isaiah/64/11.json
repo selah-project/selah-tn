@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "A o ka nna wa itshwarelela ka dilo tsena, Yahwe? A o ka nna wa didimala, o bo o re gatelela thata go feta tekano?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "A o ka nna ... ka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dilo tsena"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "wa itshwarelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "wa didimala"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "o bo o re gatelela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tekano"
+    }
+  ],
+  "timestamp": "2026-10-04T00:05:38.362857543Z",
+  "model": "glm-5.3"
+}

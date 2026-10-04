@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme moperesite o tla tsea setsholo se mo seatleng sa gago, mme a se baya fa pele ga altare ya Yahwe Elohim ya gago.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mme ... o tla tsea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesite"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "setsholo se"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "mo seatleng sa gago"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "mme a se baya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:17.423612513Z",
+  "model": "glm-5.3"
+}

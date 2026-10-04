@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Fa legodu le bonwa le ntse le bolela moleng, le bolawa la swa, ga go na madi a lone.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "le ntse le bolela moleng"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "le bonwa"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "legodu"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "le bolawa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "la swa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lone"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:38.845982307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Go mokaedi. Psalema ya Dawide. Ka Yahwe ke a ikaeela; le ka eng le re go moyeng wa me: Tshabela thabeng ya lona, jaaka nonyane?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go mokaedi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke a ikaeela"
+    },
+    {
+      "surface": "איך",
+      "gloss": "le ka eng"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "le re"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "go moyeng wa me"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "tshabela"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "thabeng ya lona"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "jaaka nonyane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:49.305349008Z",
+  "model": "glm-5.3"
+}

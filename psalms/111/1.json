@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 111,
+  "translation": "Dumelang Yah! Ke tla leboga Yahwe ka pelo yotlhe, mo kgotleng ya ba ba siameng le mo phuthegong.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ke tla leboga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka yotlhe"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "mo kgotleng"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ya ba ba siameng"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "le mo phuthegong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:10.024361205Z",
+  "model": "glm-5.3"
+}

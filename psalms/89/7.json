@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Gore ke mang mo marutlheng a ka bapisiwang le Yahwe? Ke mang mo baneng ba ba matla yo o tshwanang le Yahwe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "mo marutlheng"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "a ka bapisiwang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "le Yahwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "yo o tshwanang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "le Yahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mo baneng ba"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ba ba matla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:38.087116860Z",
+  "model": "glm-5.3"
+}

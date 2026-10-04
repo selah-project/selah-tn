@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Ba phasalatsa go itima dijo, mme ba baya ⟨את⟩ Navoto kwa tlhogo ya setshaba.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "ba phasalatsa"
+    },
+    {
+      "surface": "צום",
+      "gloss": "go itima dijo"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "mme ba baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navoto"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navoto"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "kwa tlhogo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya setshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T03:10:30.256002855Z",
+  "model": "glm-5.3"
+}

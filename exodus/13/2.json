@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "E e itshepisetse Nna sepe sa ntlha go tswa mo popelong, sepe sa ntlha sa popelo ya popelo yotlhe mo baneng ba Yisraele, mo sethong le mo phologolong; e a nna ya me.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "e e itshepisetse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepe sa ntlha go tswa"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "motlha wa ntlha"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "popelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "popelo yotlhe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mo baneng ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mo sethong"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "le mo phologolong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:05.206950413Z",
+  "model": "glm-5.3"
+}

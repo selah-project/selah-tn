@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Ikhutse mo gare ga setshaba se, mme ke ba je kwa bonako.",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "Ikhutse"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mme ke ba je"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba (bone)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "kwa bonako"
+    }
+  ],
+  "timestamp": "2026-10-03T22:10:22.209897781Z",
+  "model": "glm-5.3"
+}

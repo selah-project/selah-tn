@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Dilo tse dintsi o di dirile, wena Yahwe Elohim wa me; dilo tsa gago tsa makgothontsho le mekgwa ya gago ya go nagana fa go rona — go a ka ga nna le go bapatsa le wena. Fa nka bo nka di tlhagisa le go di bua, di feta palo.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "dilo tse dintsi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o di dirile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "dilo tsa gago tsa makgothontsho"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "le mekgwa ya gago ya go nagana"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "fa go rona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go a ka ga nna le"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "go bapatsa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "nka bo nka di tlhagisa"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "le go di bua"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "di feta"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:15.245181978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Go mokaedi, ka ga Shoshanime, ya bana ba Korake, pego e e rutang, pina ya lorato.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go mokaedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshanime"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korake"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pego e e rutang"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "ya lorato"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:48.486747767Z",
+  "model": "glm-5.3"
+}

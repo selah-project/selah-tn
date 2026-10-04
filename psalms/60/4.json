@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "O ne wa titimetsa lefatshe, wa e kgaoganya; fodula matlhafo a yone, gore e na go titimeta!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "o ne wa titimetsa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "wa e kgaoganya"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "fodula"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "matlhafo a yone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "e na go titimeta"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:07.143885811Z",
+  "model": "glm-5.3"
+}

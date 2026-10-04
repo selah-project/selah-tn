@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "mme go itsisiwe go wena, o kwa, o batla ka kelotlhoko, mme bonwe, ke boammaaruri, tshiamiso ke yone kgang; go dirilwe se se gopotsang se kwa Yisraele;",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "mme go itsisiwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "o kwa"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "o batla"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ka kelotlhoko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ke boammaaruri"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tshiamiso"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kgang"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "go dirilwe"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "se se gopotsang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kwa Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:28:50.326173083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Setulo sa bogosi sa gao, Elohim, ke sa bosakhutlhe le go ya kamoso; seboko sa bogosi jwa gao ke seboko sa tshiamiso.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "setulo sa bogosi sa gao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bosakhutlhe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go ya kamoso"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "seboko"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "tshiamiso"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "seboko"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "bogosi jwa gao"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:53.296061647Z",
+  "model": "glm-5.3"
+}

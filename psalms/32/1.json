@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Ya Dawide. Peto ya go rutisa. Boitumelo jwa yo pesega ya gagwe e jetsweng, kgangolo ya gagwe e siilweng.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "peto ya go rutisa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "e jetsweng"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pesega"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "e siilweng"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "kgangolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:01.144179187Z",
+  "model": "glm-5.3"
+}

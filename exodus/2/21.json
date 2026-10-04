@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Moshe a ana go nna le ⟨את⟩ monna, mme monna a neela ⟨את⟩ Tsefora morwadiahe go Moshe.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "a ana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsefora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "morwadiahe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "go Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:23.951880833Z",
+  "model": "glm-5.3"
+}

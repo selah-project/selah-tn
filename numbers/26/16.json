@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Ya ʿOzni, losika lwa baʿOzni; ya ʿEri, losika lwa baʿEri.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "ya ʿOzni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "losika lwa"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "baʿOzni"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "ya ʿEri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "losika lwa"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "baʿEri"
+    }
+  ],
+  "timestamp": "2026-10-03T22:14:36.572871208Z",
+  "model": "glm-5.3"
+}

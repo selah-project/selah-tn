@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 113,
+  "translation": "O tlhatlosa yo o humanegileng mo leroleng, mme a tlhatlosa yo o tlhokang mo sethubeng sa leswe.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "o tlhatlosa"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "mo leroleng"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yo o humanegileng"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "mo sethubeng sa leswe"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "a tlhatlosa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "yo o tlhokang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:56.030583272Z",
+  "model": "glm-5.3"
+}

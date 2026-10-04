@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Khanune a tseela ⟨את⟩ badiri ba Dawide, a ba pala, a ikgaola ⟨את⟩ diaparo tsa bone ka bongwe, go fitlha kwa mahureng, a ba romela.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tseela"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Khanune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badiri ba Dawide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiri ba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "a ba pala"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "a ikgaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa bone"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "diaparo tsa bone"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ka bongwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "kwa mahureng"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "a ba romela"
+    }
+  ],
+  "timestamp": "2026-10-04T02:42:12.784591741Z",
+  "model": "glm-5.3"
+}

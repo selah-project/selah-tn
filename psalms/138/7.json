@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 138,
+  "translation": "Fa ke tsamaya ka bogareng jwa bothata, o tla ntlhokometsa; kgatlhanong le bolwetse jwa baba ba me o romola letlhogo la gago, mme letlhogo la gago la moja le tla ntlhokometsa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka bogareng jwa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "bothata"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "o tla ntlhokometsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bolwetse"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "baba ba me"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "o romola"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letlhogo la gago"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "mme ... le tla ntlhokometsa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la moja"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:54.882722864Z",
+  "model": "glm-5.3"
+}

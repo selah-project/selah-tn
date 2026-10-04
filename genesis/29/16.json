@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme go ne go na le Labane a na le barwadie ba babedi: leina la mogolo e ne e le Lea, mme leina la monnye e ne e le Rakhel.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "mme go Labane"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barwadie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "la mogolo"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme leina"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "la monnye"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhel"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:48.560469523Z",
+  "model": "glm-5.3"
+}

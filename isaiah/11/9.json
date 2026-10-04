@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Ga ba na go dira bosula, le go senya, mo thorong yotlhe ya boitshepo jwa me; gonne lefatshe le tlaa tlala ka kitsiso ya ⟨את⟩ Yahwe, jaaka metsi a a koago lewatle.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga...na"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "go dira bosula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le...go"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "senya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo thorong yotlhe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thoro"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "boitshepo jwa me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tlaa tlala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kitsiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jaaka metsi"
+    },
+    {
+      "surface": "לים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "a a koago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:33.953289744Z",
+  "model": "glm-5.3"
+}

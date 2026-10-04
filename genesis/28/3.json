@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme El Shadai a go tshegofatse ⟨את⟩, a go ntshe peo e ntsi, a go atise, mme o nne phuthego ya ditjhaba.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Mme El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "a go tshegofatse"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "go (Yaakobo)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "a go ntshe peo e ntsi"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "a go atise"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "mme o nne"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "phuthego ya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:58.814224221Z",
+  "model": "glm-5.3"
+}

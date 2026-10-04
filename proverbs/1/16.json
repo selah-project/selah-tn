@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Gore diphuka tsa bona di taboga go ya bolung, mme di kgalema go nosa madi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "diphuka tsa bona"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "go ya bolung"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "di taboga"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "mme di kgalema"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "go nosa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:25.009167495Z",
+  "model": "glm-5.3"
+}

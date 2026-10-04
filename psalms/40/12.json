@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Wena, Yahwe, ga o ka o tila mohau ya gago go tswa go nna; hesede ya gago le nete ya gago ka metlha di a ntlhokometsa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "o a tila"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mohau ya gago"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa go nna"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "le nete ya gago"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka metlha"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "di a ntlhokometsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:03.453344759Z",
+  "model": "glm-5.3"
+}

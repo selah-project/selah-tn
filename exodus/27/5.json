@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme o tlaa e bea ⟨את⟩ kafa tlase ga sebatla sa ⟨the⟩ aletare, kafa tlase; mmenetsa o tlaa fitlha go fitlha kwa bongwaneng jwa ⟨the⟩ aletare.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "mme o tlaa e bea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (menetsa)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kafa tlase ga"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "sebatla"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "kafa tlase"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mme o tlaa nna"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "menetsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "kwa bongwaneng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:54.068727708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Ga a ka a lwa ka bosakhuti, mme ga a ka a boloka bogale jwa gagwe go ya nakong e e sa feleng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka bosakhuti"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "a lwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya nakong e e sa feleng"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "a boloka"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:57.094874033Z",
+  "model": "glm-5.3"
+}

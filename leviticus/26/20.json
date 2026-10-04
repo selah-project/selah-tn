@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "mme maatla a lona a tla felela a sena sepe; mme lefatshe la lona le se ke la neela ⟨את⟩ kelo ya lone, mme sego sa lefatshe se se ke sa neela phuo ya sone.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "a tla felela"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "a sena sepe"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "maatla a lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "neela"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "lefatshe la lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelo ya lone"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "kelo ya lone"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mme sego sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "le lefatshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke sa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sa neela"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "phuo ya sone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:21.575146472Z",
+  "model": "glm-5.3"
+}

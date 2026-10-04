@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Bohloleng jwa gago bo tla senolwa, le gone tshwenyegalo ya gago e tla bonwa; kgweko ke tla e tsaya, mme ga ke na go buisana le motho.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "bo tla senolwa"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "bohloleng jwa gago"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le gone"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "e tla bonwa"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "tshwenyegalo ya gago"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kgweko"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ke tla e tsaya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "ke na go buisana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "le motho"
+    }
+  ],
+  "timestamp": "2026-10-04T00:00:07.188835274Z",
+  "model": "glm-5.3"
+}

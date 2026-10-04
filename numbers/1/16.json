@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ke bone ba ba biditsweng ba phuthego, dikgosi tsa merafe ya bo-rraabo, dihlogo tsa dikete tsa Yisraele.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "ba ba biditsweng"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ba phuthego"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "merafe"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ya bo-rraabo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dihlogo tsa"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:47.003042007Z",
+  "model": "glm-5.3"
+}

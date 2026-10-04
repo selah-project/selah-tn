@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "morwa Abishua, morwa Finekhase, morwa Elazare, morwa Aharone, mokwetisi yo o neng e le tlhogo.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abishua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Finekhase"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazare"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mokwetisi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "yo o neng e le tlhogo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:26:55.378967378Z",
+  "model": "glm-5.3"
+}

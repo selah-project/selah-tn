@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Ke bomang bao, ba fofang jaaka maru, le jaaka dithuse ya tsela ya tsone e kgakala?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ke bomang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bao"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "jaaka maru"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "ba fofang"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "le jaaka dithuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya tsela"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "e kgakala"
+    }
+  ],
+  "timestamp": "2026-10-04T00:03:37.435266788Z",
+  "model": "glm-5.3"
+}

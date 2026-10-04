@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ⟨את⟩ ramu a e kgaola ka dikgaolo tsa yone, mme Moshe a e chesa ⟨את⟩ tlhogo, le ⟨את⟩ dikgaolo, le ⟨את⟩ mafura.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "ramu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ramu"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "a e kgaola"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ka dikgaolo tsa yone"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "a e chesa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhogo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgaolo"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "dikgaolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafura"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:14.599102673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "go bolela leina la Yahwe mo Tsione, le tlhotlheletso ya gagwe kwa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "mo Tsione"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "le tlhotlheletso ya gagwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:51.946767014Z",
+  "model": "glm-5.3"
+}

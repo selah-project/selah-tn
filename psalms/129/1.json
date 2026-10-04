@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 129,
+  "translation": "Seko sa go tlhatloga. Makgetlha a mantsi ba nnatile go tloga bonyaneng jwa me — a Yisraele a re jaanong:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Seko"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa go tlhatloga"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Makgetlha a mantsi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ba nnatile"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "go tloga bonyaneng jwa me"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:00.792291731Z",
+  "model": "glm-5.3"
+}

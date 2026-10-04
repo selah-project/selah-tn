@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Dipholo tsa mafoko a me tse di ikaegileng ka bopelokgale, di a amogele, kamoso, Yahwe; mme dikelolo tsa gago o ntshotse.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "dipholo tse di ikaegileng ka bopelokgale"
+    },
+    {
+      "surface": "פי",
+      "gloss": "tsa mafoko a me"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "di a amogele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kamoso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "mme dikelolo tsa gago"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "o ntshotse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:39.339148938Z",
+  "model": "glm-5.3"
+}

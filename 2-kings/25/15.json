@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme ⟨את⟩ diphaphose tsa molelo, le ⟨את⟩ dibase, se se neng se le gauta, gauta, le se se neng se le selefera, selefera, mogolo wa bataba o di tsere.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diphaphose tsa molelo"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "diphaphose tsa molelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dibase"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "dibase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng se le"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le se se neng se le"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o di tsere"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa bataba"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:16.238459207Z",
+  "model": "glm-5.3"
+}

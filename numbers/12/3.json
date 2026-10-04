@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme monna yo, Moshe, e ne e le mosuele thata, go feta batho botlhe ba ba neng ba le mo sefateng sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Mme monna yo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "mosuele"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go feta… botlhe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba neng ba le"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefateng"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:09:23.225859480Z",
+  "model": "glm-5.3"
+}

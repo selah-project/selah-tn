@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 92,
+  "translation": "Ka dithipa tse di lesome, le ka nevele; ka molumo wa sefela, ka kinore.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "dithipa tse di lesome"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevele"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "molumo wa sefela"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinore"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:25.083122707Z",
+  "model": "glm-5.3"
+}

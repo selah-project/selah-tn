@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme bapriesta ba ne ba se kgone go ema go direla, ka ntlha ya maru; gore boitshepo jwa Yahwe bo ne bo tlalile ⟨את⟩ ntlo ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ba se kgone"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba ne ba se kgone"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bapriesta"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "go ema"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "go direla"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "maru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "bo ne bo tlalile"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "boitshepo jwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:10.371801851Z",
+  "model": "glm-5.3"
+}

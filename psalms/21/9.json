@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Letsogo la gago le tlaa fitlhela ba ba go tlholang botlhe; letsogo la gago la moja go laa fitlhela ba ba go tlhoyang.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "le tlaa fitlhela"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsogo la gago"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ba ba go tlholang"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsogo la gago la moja go"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "laa fitlhela"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ba ba go tlhoyang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:25.488302975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 6:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme mongwe wa baserafa a fofela kwa go nna, mme mo seatleng sa gagwe a na le leje le le tusang, a le tserile ka neke ka go tswa mo altareng.",
+  "tokens": [
+    {
+      "surface": "ויעף",
+      "gloss": "mme a fofela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mongwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "baserafa"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "mme mo seatleng sa gagwe"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "leje le le tusang"
+    },
+    {
+      "surface": "במלקחים",
+      "gloss": "ka neke"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a le tserile"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka go tswa mo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:12.552603355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Yahwe, mo mosong o tlaa utlwa lentswe la me; mo mosong ke tlaa baakanya ⟨pego ya me⟩ go wena, mme ke a lebelela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o tlaa utlwa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentswe la me"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "ke tlaa baakanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "mme ke a lebelela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:36.525859260Z",
+  "model": "glm-5.3"
+}

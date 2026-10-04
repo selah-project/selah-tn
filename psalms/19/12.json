@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Gape modiri wa gago o a kgomotsiwa ke tsone; mo go di bolokeng go na le moputso o montsi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "o a kgomotsiwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ke tsone"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "mo go di bolokeng"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "moputso"
+    },
+    {
+      "surface": "רב",
+      "gloss": "o montsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:06.545572655Z",
+  "model": "glm-5.3"
+}

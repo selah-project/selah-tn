@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme ba ne ba isa ⟨את⟩ Mishkane go Moshe, ⟨את⟩ tlhago le ⟨את⟩ dithoto tsa yone tsotlhe, dikou tsa yone, diphanele tsa yone, diswadiri tsa yone, dikgotla tsa yone le meala ya yone.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ba ne ba isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhago"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tlhago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithoto tsa yone tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dithoto tsa yone"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "dikou tsa yone"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "diphanele tsa yone"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "diswadiri tsa yone"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "le dikgotla tsa yone"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "le meala ya yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:27.699908126Z",
+  "model": "glm-5.3"
+}

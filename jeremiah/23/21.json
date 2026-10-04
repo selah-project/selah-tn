@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ga ke a romela ⟨את⟩ baporofeti, mme ba taboga; ga ke a bua le bone, mme ba porofeta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ke a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baporofeti"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "baporofeti"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme ba"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "taboga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ke a"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "bua"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme ba"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "porofeta"
+    }
+  ],
+  "timestamp": "2026-10-04T00:16:51.781372202Z",
+  "model": "glm-5.3"
+}

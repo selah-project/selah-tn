@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Opelang kgotsong go Yahwe; opelang ka sekgowatsela go Elohim wa rona.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Opelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "kgotsong"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "opelang ka sekgowatsela"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "go Elohim wa rona"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka sekgowatsela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:12.675542016Z",
+  "model": "glm-5.3"
+}

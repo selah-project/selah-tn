@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "O se ka wa ntjhela mo pele ga gago, mme ruakh ya boitshepo ya gago, o se ka wa e tseela mo go nna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "wa ntjhela"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "mo pele ga gago"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mme ruakh"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya boitshepo ya gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wa e tseela"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:16.834080835Z",
+  "model": "glm-5.3"
+}

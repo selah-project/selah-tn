@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Mme dikgosi tsotlhe di tla go thlobamela gagwe; ditshaba tsotlhe di tla mo direla.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "mme di tla go thlobamela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "di tla mo direla"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:24.458869124Z",
+  "model": "glm-5.3"
+}

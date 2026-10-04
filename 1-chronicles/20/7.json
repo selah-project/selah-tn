@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme fa a nyatsa ⟨את⟩ Yisraele, Yehonathane mora Shimea, kgaitsadi ya Dawide, o ne a mo bolaya.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "a nyatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "a mo bolaya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kgaitsadi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T02:42:00.267887457Z",
+  "model": "glm-5.3"
+}

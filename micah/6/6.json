@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 6:6",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Ka eng ke tle kwa pele ga Yahwe, ke inehe fa pele ga Elohim wa kwa godimo? A ke tle kwa pele ga hae ka dipheretlhego, ka manamane a ngwaga?",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "ka eng"
+    },
+    {
+      "surface": "אקדם",
+      "gloss": "ke tle kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "ke inehe"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fa pele ga Elohim"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wa kwa godimo"
+    },
+    {
+      "surface": "האקדמנו",
+      "gloss": "a ke tle kwa pele ga hae"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "ka dipheretlhego"
+    },
+    {
+      "surface": "בעגלים",
+      "gloss": "ka manamane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    }
+  ],
+  "timestamp": "2026-10-04T01:04:56.075523408Z",
+  "model": "glm-5.3"
+}

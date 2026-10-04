@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Majana a magetla a dira go e kopanya; kwa mafelong a yone a mabedi e ne e kopane.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "majana a magetla"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go e"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "go kopanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "mafelong a yone"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "e kopane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:10.603009836Z",
+  "model": "glm-5.3"
+}

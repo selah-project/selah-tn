@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme fa lo re: Ke eng se re tla jang mo ngwageng wa bosupa? — bonang, ga re seye, mme ga re kgoboketse ⟨את⟩ sejalo sa rona.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "lo re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "se re tla jang"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mo ngwageng"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "wa bosupa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "re seye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "re kgoboketse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sejalo sa rona"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "sejalo sa rona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:35.835991242Z",
+  "model": "glm-5.3"
+}

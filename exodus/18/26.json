@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme ba ne ba atlhola ⟨את⟩ setshaba ka nako tsotlhe; ⟨את⟩ taboo e boima ba ne ba e isa go Moshe, mme taboo nngwe le nngwe e nnye ba ne ba e atlhola bone.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "mme ba atlhola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka tsotlhe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taboo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taboo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "e boima"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "ba ne ba e isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme nngwe le nngwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taboo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "e nnye"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "ba e atlhola"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:59.049931306Z",
+  "model": "glm-5.3"
+}

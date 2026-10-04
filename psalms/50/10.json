@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Gore ya me ke tsala yotlhe ya sekaka, le diphoofolo tse dikgolo tsa dithabeng tse sekete.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "tsala"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ya sekaka"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "diphoofolo tse dikgolo"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "tsa dithabeng"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tse sekete"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:54.111905Z",
+  "model": "glm-5.3"
+}

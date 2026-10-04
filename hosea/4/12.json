@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Setshaba sa me se botsa setlhare sa sone, mme molamo wa sone o supa mo go sone; gonne ruakh ya bofilo e ba phitlhile, mme ba dirile bofilo ba tlhokga Elohim wa bone.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "setlhare sa sone"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "se botsa"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "molamo wa sone"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "o supa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go sone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ya bofilo"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "e ba phitlhile"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "ba dirile bofilo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ba tlhokga"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:52:44.775376592Z",
+  "model": "glm-5.3"
+}

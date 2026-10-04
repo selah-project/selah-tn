@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "O bula ⟨את⟩ seatla sa gago, mme o kgotsofatsa se se phelang se sengwe le se sengwe ka boitumelo.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "o bula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gago"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "mme o kgotsofatsa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "se sengwe le se sengwe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "se se phelang"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ka boitumelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:03.619948444Z",
+  "model": "glm-5.3"
+}

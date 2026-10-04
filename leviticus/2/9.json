@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme moporofeti wa bofelo o tla tlosa mo minkhong ⟨את⟩ se se gakologelwang, mme a se fofatsa mo altareng, e le nehano ya molelo, sefofane se se kgothatsang, go Yahwe.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "o tla tlosa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moporofeti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkhong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se gakologelwang"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "se se gakologelwang"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "mme a fofatsa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mo altareng"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nehano ya molelo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "sefofane"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "se se kgothatsang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:41.345948234Z",
+  "model": "glm-5.3"
+}

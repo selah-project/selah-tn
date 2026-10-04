@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme difulane di tlaa tlogela go wena, le mo malapeng a gago, le go makgoba a gago, le go setshabeng sa gago; fela mo molapong di tlaa sala.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "di tlaa tlogela"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "difulane"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "le mo malapeng a gago"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "le go makgoba a gago"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "le go setshabeng sa gago"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "mo molapong"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "di tlaa sala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:30.502774707Z",
+  "model": "glm-5.3"
+}

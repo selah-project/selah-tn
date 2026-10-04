@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 96,
+  "translation": "Bualang mo ditshabeng: Yahwe o a busa, e bile lefatshe le theilwe, le ke ka se fologe; o tla atlholola merafe ka tshiamiso.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Bualang"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o a busa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "le theilwe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ke ka se fologe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "o tla atlholola"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "merafe"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ka tshiamiso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:38.814591538Z",
+  "model": "glm-5.3"
+}

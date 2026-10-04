@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 143,
+  "translation": "Ka ntlha ya leina la gago, Yahwe, ntlhophodisa; ka tsedeke ya gago ntsha mo tshoganyetso moya wa me.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ka ntlha ya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ntlhophodisa"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedeke ya gago"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ntsha"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "mo tshoganyetso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:00.566271860Z",
+  "model": "glm-5.3"
+}

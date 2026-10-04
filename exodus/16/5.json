@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme go tla direga, ka letsatsi la borataro, ba tla ba ba aparisa ⟨את⟩ se ba se tlisang; mme se tla nna gabedi godimo ga se ba se phuthang letsatsi le letsatsi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme go tla direga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "la borataro"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "ba tla ba ba aparisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se ba se tlisang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "ba se tlisang"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme se tla nna"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "gabedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "ba se phuthang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:04.485964492Z",
+  "model": "glm-5.3"
+}

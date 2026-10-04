@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Saraa a imma, a begetse ⟨את⟩ morwa wa Abrahame, mo boongake jwa gagwe, ka nako e e beilweng ye Elohim a neng a bua ⟨את⟩ ene.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "a imma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a begetse"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "go Abrahame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "mo boongake jwa gagwe"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ka nako e e beilweng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:28.121466274Z",
+  "model": "glm-5.3"
+}

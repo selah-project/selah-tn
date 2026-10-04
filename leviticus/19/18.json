@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "O se ke wa ipusolosa, mme o se ke wa boloka bosula kgatlhanong le ⟨את⟩ bana ba setshaba sa gago; mme o rate moagisani wa gago jaaka wena — nna ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "wa ipusolosa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "wa boloka bosula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba setshaba sa gago"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ba setshaba sa gago"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "mme o rate"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "moagisani wa gago"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jaaka wena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:01.900322080Z",
+  "model": "glm-5.3"
+}

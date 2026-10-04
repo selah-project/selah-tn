@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 130,
+  "translation": "Adonai, reetsa lentswe la me; ditsebe tsa gago di nne di tlhapuletsa lentswe la dikabelo tsa me.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "reetsa"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "lentswe la me"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "di nne"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ditsebe tsa gago"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "di tlhapuletsa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "dikabelo tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:52.490964779Z",
+  "model": "glm-5.3"
+}

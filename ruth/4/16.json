@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Naome a tsaya ⟨את⟩ ngwana, mme a mo besa mo thogong ya gagwe, mme a nna mooki wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "a mo besa"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "mo thogong"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "mooki"
+    }
+  ],
+  "timestamp": "2026-10-04T02:08:53.118580955Z",
+  "model": "glm-5.3"
+}

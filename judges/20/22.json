@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 20:22",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme setshaba sa Yisraele, banna ba, ba itiise maikutlo, mme ba boela ba latedisa ka go rulaganya ntwa kwa lefelong le ba neng ba rulagantse gone teng ka letsatsi la ntlha.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "ba itiise maikutlo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויספו",
+      "gloss": "mme ba boela ba latedisa"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "ka go rulaganya"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwa lefelong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "ba rulagantse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gone teng"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "la ntlha"
+    }
+  ],
+  "timestamp": "2026-10-03T22:54:28.561355334Z",
+  "model": "glm-5.3"
+}

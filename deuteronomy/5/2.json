@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Yahwe, Elohim wa rona, o ne a rula kgolagano le rona kwa Chorebe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "o ne a rula"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kwa Chorebe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:01.423540940Z",
+  "model": "glm-5.3"
+}

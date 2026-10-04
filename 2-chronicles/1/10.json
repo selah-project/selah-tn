@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Jaanong, mphe botlhale le kitso, gore ke tsamaye pele ga setshaba se le go boa, gonne ke mang yo o ka kgonang go kgatla ⟨את⟩ setshaba sa gago se segolo?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Jaanong"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "le kitso"
+    },
+    {
+      "surface": "תן",
+      "gloss": "mphe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "gore ke tsamaye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "le go boa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "yo o ka kgonang go kgatla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sa gago"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "se segolo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:45:41.713415605Z",
+  "model": "glm-5.3"
+}

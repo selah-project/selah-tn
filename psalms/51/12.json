@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Pelo e e itshekileng bopa mo go nna, Elohim, mme ruakh e e tlhomameng e ntšhafatsa mo teng ga me.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e itshekileng"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "bopa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mme ruakh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e e tlhomameng"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e ntšhafatsa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "mo teng ga me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:09.809686534Z",
+  "model": "glm-5.3"
+}

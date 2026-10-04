@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme o ne a oketsa gape, a belega morwa, a mmitsa ⟨את⟩ leina la gagwe Shela; mme o ne a le kwa Khezibe fa a ⟨את⟩ mo belega.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "a oketsa gape"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "a mmitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme o ne a le"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "kwa Khezibe"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "fa a mo belega"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:40.900663782Z",
+  "model": "glm-5.3"
+}

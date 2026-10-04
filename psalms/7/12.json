@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Elohim ⟨ke⟩ moatlhodi wa tshiamo, mme El a halefala ka letsatsi le le seng fela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "moatlhodi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wa tshiamo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "a halefala"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka letsatsi le le seng fela"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:29.547787349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Fela, jaaka ⟨את⟩ phuti le ⟨את⟩ phala di jalwa, jalo o tlaa e ja; yo o sa itshepang le yo o itshepileng ba tlaa e ja mmogo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "di jalwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phuti"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "phuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "phala"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "phala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "o tlaa e ja"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "yo o sa itshepang"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "le yo o itshepileng"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ba tlaa e ja"
+    }
+  ],
+  "timestamp": "2026-10-03T22:25:30.095694807Z",
+  "model": "glm-5.3"
+}

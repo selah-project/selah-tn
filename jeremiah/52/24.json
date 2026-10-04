@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Mme mogolo wa ba ba bolayang a tsaya ⟨את⟩ Seraya mopriste yo mogolo, le ⟨את⟩ Tsefania mopriste wa bobedi, le ⟨את⟩ batlhokomedi ba lebati ba bararo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa ba ba bolayang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "yo mogolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsefania"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefania"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "batlhokomedi ba lebati ba bararo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba bararo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "batlhokomedi"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ba lebati"
+    }
+  ],
+  "timestamp": "2026-10-04T03:15:57.548894274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme a tiisa go ikopanya le Yahwe, a se ka a fetola tsela ya go latela morago ga Gagwe, a boloka ditaelo tsa Gagwe tse Yahwe a neng a laela ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "mme a tiisa go ikopanya le"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "סר",
+      "gloss": "a fetola tsela"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ya go latela morago ga Gagwe"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "a boloka"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ditaelo tsa Gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a neng a laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:12.968335811Z",
+  "model": "glm-5.3"
+}

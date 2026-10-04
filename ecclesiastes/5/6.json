@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Gore mo bongating jwa ditoro le dipherofo, le mafoko a mantsi; mme o tshabe ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mo bongating jwa"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ditoro"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "le dipherofo"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "le mafoko"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "o tshabe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:23:47.909884109Z",
+  "model": "glm-5.3"
+}

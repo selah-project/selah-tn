@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme a tsamaela kwa go ene, a tswala ⟨את⟩ lebati ka yone le ka bana ba gagwe; ba ne ba mo isa dijana, mme yena a ntsha a tsenya.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "a tsamaela kwa go ene"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "a tswala"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "lebati"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "ka yone"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "ba ne ba isa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa go yena"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mme yena"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "a ntsha a tsenya"
+    }
+  ],
+  "timestamp": "2026-10-03T23:34:18.114283753Z",
+  "model": "glm-5.3"
+}

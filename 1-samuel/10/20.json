@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Shemuuele a atisa ⟨את⟩ dikerete tsotlhe tsa Yisraele, mme kerete ya Benyamine e nna ya tlhophiwa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a atisa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikerete tsotlhe tsa Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "dikerete tsa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "mme ... e nna ya tlhophiwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kerete ya"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamine"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:52.571741138Z",
+  "model": "glm-5.3"
+}

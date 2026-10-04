@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme morago ga foo, bana ba Yisraele botlhe ba atamela, mme Moshe a ba laela ⟨את⟩ sengwe le sengwe se Yahwe a neng a se bua ⟨את⟩ le ene kwa thabeng ya Sinae.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "mme morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "foo"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "ba atamela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "mme a ba laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a neng a se bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ene"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwa thabeng ya"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinae"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:50.560863927Z",
+  "model": "glm-5.3"
+}

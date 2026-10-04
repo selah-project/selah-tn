@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Lentswe la go kgoroma ga gago le ne le mo sedikong, molatlhogi o ne wa itlhagisa tlhatlogo; lefatshe le ne la tshoga, mme le ne la kgagoga.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "la go kgoroma ga gago"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "mo sedikong"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "o ne wa itlhagisa"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "tlhatlogo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "le ne la tshoga"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "mme le ne la kgagoga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:07.194156839Z",
+  "model": "glm-5.3"
+}

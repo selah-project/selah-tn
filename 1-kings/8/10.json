@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme go ne go le jalo, fa bapriesta ba ntsha mo boitshepeng, maru a tlala ⟨את⟩ ntlo ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go le jalo"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "fa ba ntsha"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bapriesta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "boitshepeng"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "maru"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a tlala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:10.371631214Z",
+  "model": "glm-5.3"
+}

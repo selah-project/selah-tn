@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Gore ga ba bule kagiso; mme kgatlhanong le ba ba phomologang mo lefatsheng ba rulaganya mafoko a mabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba bule"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme kgatlhanong le"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "ba ba phomologang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "a mabo"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "ba rulaganya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:58.727399649Z",
+  "model": "glm-5.3"
+}

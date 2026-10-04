@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme ba baya ka molomo wa tshaka ⟨את⟩ mongwe le mongwe yo o nang le moya yo o mo go yona, ba e senotse ka botlalo; ga go na yo o nang le moya yo o salang; mme ⟨את⟩ Khatsore a e fisitse ka molelo.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ba baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongwe le mongwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "yo o nang le moya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "senotse ka botlalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "salang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "yo o nang le moya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "Khatsore"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Khatsore"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "fisitse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:39:48.287964539Z",
+  "model": "glm-5.3"
+}

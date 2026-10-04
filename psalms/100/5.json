@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 100,
+  "translation": "Gore Yahwe o molemo; hesede ya gagwe go fitlha bosakhutlhe, le go fitlha kokologong le kokologo boikanyego bo bo siameng jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fitlha bosakhutlhe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go fitlha"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kokologong"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le kokologo"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "boikanyego bo bo siameng jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:41.035763726Z",
+  "model": "glm-5.3"
+}

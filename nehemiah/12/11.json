@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Yoyada a begeta ⟨את⟩ Yonathane, mme Yonathane a begeta ⟨את⟩ Yadua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Mme Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonathane"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathane"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "mme Yonathane"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadua"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:46.264576830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Gape a se ke Hizkiya a lo tshegedisa go Yahwe, a re: Boloka, o tlaa re boloka Yahwe, mme toropo eno e ka se newe ⟨את⟩ mo seatleng sa kgosi ya Ashure.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Gape a se ke"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "a lo tshegedisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lōna"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "Boloka"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "o tlaa re boloka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ... a se"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "e newe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo eno"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    }
+  ],
+  "timestamp": "2026-10-03T23:41:25.922006002Z",
+  "model": "glm-5.3"
+}

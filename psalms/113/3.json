@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 113,
+  "translation": "Go tloga mo peleting ya letsatsi go fitlha mo go pheleleng ya lone, leina la Yahwe le a ketekwa.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Go tloga mo peleting"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ya letsatsi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "mo go pheleleng ya lone"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "le a ketekwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:46.177786501Z",
+  "model": "glm-5.3"
+}

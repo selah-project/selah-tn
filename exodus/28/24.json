@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme o beye ⟨את⟩ dikgama tse pedi tsa gauta mo dikhurumelong tse pedi, kwa mafelong a khoshene.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Mme o beye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgama tse pedi tsa gauta"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "dikgama"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo dikhurumelong"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "(dikhurumelong)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa mafelong"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "(mafelong)"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "a khoshene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:43.926598549Z",
+  "model": "glm-5.3"
+}

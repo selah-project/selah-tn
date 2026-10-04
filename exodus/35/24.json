@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Boseng jwa yo a neng a tlhatlosa mpho ya selefera le tshipi, ba ne ba tlisa ⟨את⟩ mpho ya Yahwe; mme boseng jo go neng go bonwa ⟨את⟩ dikgong tsa sethaare ya mosola o mongwe le o mongwe wa tirelo, ba ne ba di tlisa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Boseng jwa"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "yo a neng a tlhatlosa"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya selefera"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "le tshipi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ba ne ba tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya Yahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme boseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "go neng go bonwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dikgong tsa sethaare"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dikgong"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "tsa sethaare"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "mosola"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "wa tirelo"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ba ne ba di tlisa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:33.897079055Z",
+  "model": "glm-5.3"
+}

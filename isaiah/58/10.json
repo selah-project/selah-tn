@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Mme fa o ntsha botshelo jwa gago go yo o tlalang, mme o kgotsofatsa moya o o sotlegileng, lesedi la gago le tlaa tlhatloga mo lefifing, mme sefifi sa gago se tlaa nna jaaka motshegare.",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "Mme fa o ntsha"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "go yo o tlalang"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "botshelo jwa gago"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "mme moya"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "o o sotlegileng"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "o kgotsofatsa"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "le tlaa tlhatloga"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mo lefifing"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "lesedi la gago"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "mme sefifi sa gago"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "jaaka motshegare"
+    }
+  ],
+  "timestamp": "2026-10-04T00:04:32.526363835Z",
+  "model": "glm-5.3"
+}

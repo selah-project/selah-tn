@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Yahwe a tlase Thababorweng ya Sinayi, kwa tlhogo ya thababorwa; mme Yahwe a bitsa Moshe kwa tlhokong ya thababorwa, mme Moshe a tlhatloga.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "mme a tlase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Thababorweng"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ya Sinayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhoko"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ya thababorwa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a bitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhokong"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ya thababorwa"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mme a tlhatloga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:12.310498833Z",
+  "model": "glm-5.3"
+}

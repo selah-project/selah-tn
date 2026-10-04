@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Tselana ya molatokwa ke botsitso; wena yo o tlhamaletseng, o batamatsa tselana ya molatokwa.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "tselana"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ya molatokwa"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "botsitso"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "wena yo o tlhamaletseng"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "tselana"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "molatokwa"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "o batamatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:09.561469818Z",
+  "model": "glm-5.3"
+}

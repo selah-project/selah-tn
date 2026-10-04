@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Puiso e e rutang ya Asafe. Goreng, Elohim, o re latlhile ka bosakhutlolo? Goreng bosula jwa gago bo tlhagelela jaaka mosi kgatlhanong le dikgomo tsa naga ya gago ya go fula?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Puiso e e rutang"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Goreng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "o latlhile"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka bosakhutlolo"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "bo tlhagelela jaaka mosi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "bosula jwa gago"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "tsa naga ya gago ya go fula"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:54.298660296Z",
+  "model": "glm-5.3"
+}

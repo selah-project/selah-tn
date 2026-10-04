@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Yahwe Elohim wa gao a bo a busa ⟨את⟩ botshwarwa jwa gago, a go utlwa mohau, a bo a boa a go phutha mo ditshabeng tsotlhe tse Yahwe Elohim wa gao a go phatsakileng koo.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "a bo a busa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshwarwa jwa gao"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "botshwarwa jwa gao"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "a go utlwa mohau"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a bo a boa"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "a go phutha"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mo tsotlhe tsa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "a go phatsakileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gao"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:32:52.302083210Z",
+  "model": "glm-5.3"
+}

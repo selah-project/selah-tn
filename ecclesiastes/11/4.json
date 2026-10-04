@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Yo o lebileng ruakh ga o jala, mme yo o lebileng maru ga a sega.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Yo o lebileng"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "o jala"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "yo o lebileng"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "a sega"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:04.943232712Z",
+  "model": "glm-5.3"
+}

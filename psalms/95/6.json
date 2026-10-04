@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 95,
+  "translation": "Tlang, re ithute go ikhunoufatsa le go wela mangole, re ikhunoufatse pele ga Yahwe, Mmopi wa rona.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "re ithute go ikhunoufatsa"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "le go wela mangole"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "re ikhunoufatse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Mmopi wa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:22.863218205Z",
+  "model": "glm-5.3"
+}

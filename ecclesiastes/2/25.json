@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Gore ke mang yo o kgonang go ja, le ke mang yo o kgonang go itumelela, ntle le mo go nna?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yo o kgonang go ja"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "le ke mang"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "yo o kgonang go itumelela"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:49.604584455Z",
+  "model": "glm-5.3"
+}

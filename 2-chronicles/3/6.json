@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme a apesa ⟨את⟩ ntlo ka maje a a botlhokwa go nna bontle, mme gauta e ne e le gauta ya Parvayime.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "mme a apesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ka maje"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "a a botlhokwa"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "go nna bontle"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "mme gauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "ya Parvayime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:35.645830649Z",
+  "model": "glm-5.3"
+}

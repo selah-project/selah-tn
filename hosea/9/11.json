@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Efrayime — jaaka nonyane e tla fofa kgatišo ya bone: go tswa go pelego, le go tswa kwa mpeng, le go tswa go imeng.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "jaaka nonyane"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "e tla fofa"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kgatišo ya bone"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "go tswa go pelego"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "le go tswa kwa mpeng"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "le go tswa go imeng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:43.712524482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Ke tla go abela sepolaelo sa tebogo, mme ka leina la Yahwe ke tla bitsa.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ke tla go abela sepolaelo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sepolaelo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sa tebogo"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "mme ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla bitsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:49.433861736Z",
+  "model": "glm-5.3"
+}

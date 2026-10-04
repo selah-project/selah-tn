@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 96,
+  "translation": "Buisang kwa ditshabeng kgalalelo ya gagwe, le dilo tsa gagwe tse di gakgamatsang mo ditshabeng tsotlhe.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Buisang"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kwa ditshabeng"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kgalalelo ya gagwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo ditshabeng tsotlhe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mo setshabeng sengwe le sengwe"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "dilo tsa gagwe tse di gakgamatsang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:52.184025866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ke tla nna le boitumelo mme ke itumele go wena; ke tla opela leina la gago, Elyone.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "ke tla nna le boitumelo"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "mme ke itumele"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla opela"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:29.416978062Z",
+  "model": "glm-5.3"
+}

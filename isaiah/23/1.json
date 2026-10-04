@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Bojwalo jwa Tshore. Llang, dikepe tsa Tarshishe, gonne go senyegile, e seng legae, e seng lefelo la go tsena; go tswa mo lefatsheng la Kitime go senotswe go bona.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Bojwalo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tshore"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Llang"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "dikepe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "go senyegile"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e seng legae"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "e seng lefelo la go tsena"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "la Kitime"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "go senotswe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "go bona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:06.908177289Z",
+  "model": "glm-5.3"
+}

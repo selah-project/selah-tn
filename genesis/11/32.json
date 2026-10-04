@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme malatsi a Teracha a ne a le makgolo a mabedi le matlhano a dingwaga; mme Teracha a tlhokafala kwa Harane.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "a ne a le"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi a"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teracha"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "matlhano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a dingwaga"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "le makgolo a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a tlhokafala"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teracha"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "kwa Harane"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:59.827692431Z",
+  "model": "glm-5.3"
+}

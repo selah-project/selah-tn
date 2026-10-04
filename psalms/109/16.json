@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Ka gonne ga a gakologelwa go dira hesede, mme o ne a tlisa motho yo o humanegileng le yo o sotlegang, le yo o kgwathaneng pelo — go bolaya.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "a gakologelwa"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "mme a tlisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yo o humanegileng"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le yo o sotlegang"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "le yo o kgwathaneng"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "go bolaya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:23.502959465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme Moshe o tla atamela a le nosi kwa go Yahwe; mme bona ga ba tla ka go atamela, mme setshaba se se tla se ke sa kgaroga le ene.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "Mme o tla atamela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "a le nosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "ba tla ka go atamela"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "mme setshaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "se tla kgaroga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:28.989721429Z",
+  "model": "glm-5.3"
+}

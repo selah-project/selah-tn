@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Gore se se golong ke lefoko la Yahwe; mme tiro ya gagwe yotlhe ⟨e dirilwe⟩ ka boikanyego.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "se se golong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ... yotlhe"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "tiro ya gagwe"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ka boikanyego"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:51.905397429Z",
+  "model": "glm-5.3"
+}

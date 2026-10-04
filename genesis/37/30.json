@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "A boela kwa ba ntsalae, a re: Ngwana ga a yo; mme nna, nka tsela kae?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ba ntsalae"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ga a yo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nka tsela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:45.490667984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme motho a bitsa maina dikgomo tsotlhe, le dinonyane tsa magodimo, le phologolo yotlhe ya naga; mme ga ga bonwa thuso ya go tsamaelana le ene.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Mme ... a bitsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "le dinonyane"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa magodimo"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le yotlhe"
+    },
+    {
+      "surface": "חית",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya naga"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "mme motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ... a"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "bonwa"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "ya go tsamaelana le ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:36.056509319Z",
+  "model": "glm-5.3"
+}

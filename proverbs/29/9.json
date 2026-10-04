@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Monna yo o botlhale a gaisana kgotleng le ⟨את⟩ monna yo e sa utlweng, mme o tala mme a tshega, mme ga go phomolo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yo o botlhale"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "a gaisana kgotleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "yo e sa utlweng"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "mme o tala"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "mme a tshega"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "phomolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:51:17.443520531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme Yahwe a bua le Moshe: Feta pele ga setshaba, mme o tseye mo go bagodi ba Yisraele; mme thupa ya gago eo o neng o itaya ka yone ⟨את⟩ Noka, e tseye ka seatla sa gago, mme o tsamaye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "feta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "mme o tseye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ o gago"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "mo go bagodi ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "mme thupa ya gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "o neng o itaya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noka"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Noka"
+    },
+    {
+      "surface": "קח",
+      "gloss": "e tseye"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ka seatla sa gago"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "mme o tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:35.316364086Z",
+  "model": "glm-5.3"
+}

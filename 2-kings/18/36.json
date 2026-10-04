@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme setshaba se ne sa didimeditse, mme ba ne ba sa mo araba ⟨את⟩ lefoko, ka gobo e ne e le taolo ya kgosi, e e reng: Se mo arabeng.",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "ba ne ba didimeditse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "araba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "taolo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "e e reng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "mo arabeng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:40.967509117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Ba dikologa-ba gogoga jaaka moledi wa bojalwa, mme bohlale botlhe jwa bone jwa molarwa.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "ba dikologa"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "ba gogoga"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "jaaka moledi wa bojalwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme botlhe"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "bohlale jwa bone"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "jwa molarwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:18.268712227Z",
+  "model": "glm-5.3"
+}

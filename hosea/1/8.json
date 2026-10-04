@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme a logela ⟨את⟩ Re de Rukhamakh, mme a imolola, mme a belega morwa.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "a logela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Re de Rukhamakh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Re de"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rukhamakh"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "a imolola"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:09.364655260Z",
+  "model": "glm-5.3"
+}

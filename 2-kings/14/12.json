@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme Yehuda a fenngwa fa pele ga Yisraele; mme ba ne ba tshaba, mongwe le mongwe a ya kwa tentheng ya gagwe.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "a fenngwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mme ba ne ba tshaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "kwa tentheng ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:37:48.377337871Z",
+  "model": "glm-5.3"
+}

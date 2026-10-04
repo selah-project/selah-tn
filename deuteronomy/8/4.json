@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Diaparo tsa gago ga di a fula go tswa mo go wena, le lonala lwa gago ga lo a bula — mo dingwageng tse di mane.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "diaparo tsa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "di a fula"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "go tswa mo go wena"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "le lonala lwa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "lo a bula"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "di le mane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mo dingwageng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:52.676376106Z",
+  "model": "glm-5.3"
+}

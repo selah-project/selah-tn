@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Banna ba ba mobo ga ba a tlhaloganya katlholo, mme ba ba batlang Yahwe ba a tlhaloganya dilo tsotlhe.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba ba mobo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ba mobo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba a tlhaloganya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "mme ba ba batlang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba a tlhaloganya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dilo tsotlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:51:46.270523334Z",
+  "model": "glm-5.3"
+}

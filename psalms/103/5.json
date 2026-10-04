@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Yo o go tlatsang ka dilo tse di siameng sekgabiso sa gago; bongwana jwa gago bo tlhagafala jaaka nosi.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Yo o go tlatsang"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka dilo tse di siameng"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "sekgabiso sa gago"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "bo tlhagafala"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "jaaka nosi"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "bongwana jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:05.692152708Z",
+  "model": "glm-5.3"
+}

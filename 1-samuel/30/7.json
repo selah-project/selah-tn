@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Dautla a bua le Ebhiathara moruti, morwa wa Ahimeleke, a re: E re kepe ephode, kgotsa; mme Ebhiathara a isa ⟨את⟩ ephode go Dawide.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua le"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebhiathara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleke"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "E re kepe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(go nna)"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephode"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "a isa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebhiathara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephode"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephode"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T23:06:47.338282291Z",
+  "model": "glm-5.3"
+}

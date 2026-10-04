@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Kae kgosi ya gago jaanong, e tla go boloka ⟨mo⟩ ditoropong tsa gago tsotlhe? Le baatlhodi ba gago, bao o ileng wa ba re: Mpa nne kgosi le balaodi?",
+  "tokens": [
+    {
+      "surface": "אֱהִ֤י",
+      "gloss": "kae"
+    },
+    {
+      "surface": "מַלְכְּךָ֙",
+      "gloss": "kgosi ya gago"
+    },
+    {
+      "surface": "אֵפ֔וֹא",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "וְיוֹשִֽׁיעֲךָ֖",
+      "gloss": "e tla go boloka"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "⟨mo⟩ tsotlhe"
+    },
+    {
+      "surface": "עָרֶ֑יךָ",
+      "gloss": "ditoropong tsa gago"
+    },
+    {
+      "surface": "וְשֹׁפְטֶ֔יךָ",
+      "gloss": "le baatlhodi ba gago"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אָמַ֔רְתָּ",
+      "gloss": "o ileng wa re"
+    },
+    {
+      "surface": "תְּנָ֥ה",
+      "gloss": "mpa nne"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "וְשָׂרִֽים",
+      "gloss": "le balaodi"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:56.091739108Z",
+  "model": "glm-5.3"
+}

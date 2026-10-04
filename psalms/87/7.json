@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 87,
+  "translation": "Mme ba opela, jaaka ba bina, ba tlaa re: Mafita a me oohle a mo go wena.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "ba opela"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "jaaka ba bina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oohle"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mafita a me"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:08.689437356Z",
+  "model": "glm-5.3"
+}

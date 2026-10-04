@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Ba ne ba tlaela mo nageng, mo thokgolong, mo tseleng; motse wa go nna ga ba wa o bona.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "ba ne ba tlaela"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo nageng"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "mo thokgolong"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "wa go nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ba wa o bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:23.692602336Z",
+  "model": "glm-5.3"
+}

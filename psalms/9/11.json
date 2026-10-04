@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ba ba itse leina la gagwe ba tla ikanyega mo go wena, gonne o ga o a tlogela ba ba go batlang, Yahwe.",
+  "tokens": [
+    {
+      "surface": "וייבטחו",
+      "gloss": "ba tla ikanyega"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ba ba itse"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "o a tlogela"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ba ba go batlang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:48.586136308Z",
+  "model": "glm-5.3"
+}

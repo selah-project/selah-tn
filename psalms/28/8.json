@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Yahwe ke maatla a bone, mme o molefe wa ditsholofetso tsa Mashiakh wa gagwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "למו",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "molefe"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ditsholofetso"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiakh wa gagwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:07.244527719Z",
+  "model": "glm-5.3"
+}

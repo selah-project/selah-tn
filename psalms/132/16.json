@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "Mmapodi ba yone ke tlaa ba apesa pholoso; ba ineelo ba yone ba tlaa imolola ka thabo.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "Mmapodi ba yone"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ke tlaa ba apesa"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "pholoso"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "ba ineelo ba yone"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "go imolola"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ba tlaa imolola ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:28.099671909Z",
+  "model": "glm-5.3"
+}

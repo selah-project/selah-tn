@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Dikgotla di le pedi tse di kopanang di tla nna ⟨mo go yone⟩, kwa mafelong a yone a mabedi; e a kopanngwa.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "di le pedi"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "dikgotla"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "tse di kopanang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "di tla nna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "mafelong a yone"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "e a kopanngwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:50.837950111Z",
+  "model": "glm-5.3"
+}

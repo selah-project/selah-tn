@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme e ne e le fa Baasha a uta se, a tlhoma go aga ⟨את⟩ Rama, a bo a nna kwa Tirezha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "fa a uta"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "a tlhoma"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a bo a nna"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "kwa Tirezha"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:35.717503877Z",
+  "model": "glm-5.3"
+}

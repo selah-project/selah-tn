@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Yo o swang wa Baashae mo toropong, dintsha di tlaa mmola; mme yo o swang wa ena masimong, dinonyane tsa magodimo di tlaa mmola.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Yo o swang"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "wa Baashae"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo toropong"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tlaa mmola"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dintsha"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "mme yo o swang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa ena"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "masimong"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tlaa mmola"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dinonyane"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa magodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:30.163602358Z",
+  "model": "glm-5.3"
+}

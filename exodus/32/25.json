@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Moshe a bona ⟨את⟩ setshaba, gonne se ne se sa tlhomamang, gonne Aharone o ne a se ntshitse tlhoko gore se nne sekgwenywa mo baganing ba sone.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "se sa tlhomamang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "a se ntshitse tlhoko"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "go nna sekgwenywa"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "mo baganing ba sone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:30.700345607Z",
+  "model": "glm-5.3"
+}

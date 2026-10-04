@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 13:45",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme motho yo o nang le seetsele, diaparo tsa gagwe di tla bo di thuntshitswe, le tlhogo ya gagwe e tla bo e sa phutha, mme o tla busa sefo sa gagwe, mme o tla goa a re: Mofo, mofo.",
+  "tokens": [
+    {
+      "surface": "והצרוע",
+      "gloss": "mme motho yo o nang le seetsele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a nang le sona"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "seetsele"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tsa gagwe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di tla bo di"
+    },
+    {
+      "surface": "פרמים",
+      "gloss": "thuntshitswe"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "le tlhogo ya gagwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla bo e"
+    },
+    {
+      "surface": "פרוע",
+      "gloss": "sa phutha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme mo"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "sefo sa gagwe"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "o tla busa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "mme mofo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "o tla goa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:56.662632371Z",
+  "model": "glm-5.3"
+}

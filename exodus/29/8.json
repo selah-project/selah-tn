@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o atamatsa ⟨את⟩ barwa ba gagwe, mme o ba apesa dikutone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "o ba atamatsa"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "mme o ba apesa"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "dikutone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:28.705134543Z",
+  "model": "glm-5.3"
+}

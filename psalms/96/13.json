@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 96,
+  "translation": "Fatshe ga ga Yahwe, gonne o a tla, gonne o a tla go atlholha lefatshe. O tla atlholha lefatshe ka tsedeke, le ditshaba ka boikanyego jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "fatshe ga ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o a tla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o a tla"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "go atlholha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o tla atlholha"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "le ditshaba"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "ka boikanyego jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:18.522656107Z",
+  "model": "glm-5.3"
+}

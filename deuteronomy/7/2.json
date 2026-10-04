@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "mme Yahwe Elohim wa gago a di neela pele ga gago, mme wa di tlhasela — o di fe sa fe ba tlhokegile: o se ka wa dira kgolagano le bone, mme o se ka wa ba atlholola ka mosa;",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "mme a di neela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "mme wa di tlhasela"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "o di fe"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "sa fe ba tlhokegile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone (ditshaba)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "wa dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "wa ba atlholola ka mosa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:47.173474147Z",
+  "model": "glm-5.3"
+}

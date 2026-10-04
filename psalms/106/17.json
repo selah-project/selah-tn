@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Lefatshe la butswa mme la metsa Datane, mme la khuruma phuthego ya Abhirame.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "la butswa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Lefatshe"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "mme la metsa"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datane"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "mme la khuruma"
+    },
+    {
+      "surface": "על",
+      "gloss": "phuthegong"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Abhirame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:02.885377984Z",
+  "model": "glm-5.3"
+}

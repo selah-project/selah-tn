@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Mme se ka wa mo neela didimalo, go fitlha a tlhoma, mme go fitlha a dira ⟨את⟩ Yerushalayime keteko lefatsheng.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mme se ka wa"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mo neela"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "didimalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "a tlhoma"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go fitlha"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "keteko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:05:16.843126082Z",
+  "model": "glm-5.3"
+}

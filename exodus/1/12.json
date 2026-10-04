@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go ya ka kafa ba neng ba ba kgomoretsa ka teng, jaalo ba ne ba ata, mme jaalo ba ne ba anama; mme ba ne ba swabiwa ka ntlha ya bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Mme go ya ka kafa"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ba neng ba ba kgomoretsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba (bana ba Yisraele)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jaalo"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ba ne ba ata"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "mme jaalo"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ba ne ba anama"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "mme ba ne ba swabiwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:49.610624106Z",
+  "model": "glm-5.3"
+}

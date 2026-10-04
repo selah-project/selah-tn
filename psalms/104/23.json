@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Motho o tswa go ya tirong ya gagwe le go ya go dira go fitlha maitseboa.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "o tswa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "go ya tirong ya gagwe"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "le go ya go dira"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "maitseboa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:15.965456514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme ba bea ⟨את⟩ korong ya bone mo ditong tsa bone, ba tsamaya koo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ba bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korong ya bone"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "korong ya bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ditong tsa bone"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:31.206057896Z",
+  "model": "glm-5.3"
+}

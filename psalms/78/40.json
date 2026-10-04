@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Makae! Ba mo gananga mo nageng, ba mo tlhotlhomolatsa mo sekgaleng se se omileng.",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Makae!"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "Ba mo gananga"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo nageng"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "ba mo tlhotlhomolatsa"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "mo sekgaleng se se omileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:16.070459923Z",
+  "model": "glm-5.3"
+}

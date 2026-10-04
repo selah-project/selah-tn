@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Metswale ya gao e bofefo, e ama ka tlhamalalo ba ba mo tlhoyang kgosi; ditshaba di ka fa tlase ga gao di wa.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "metswale ya gao"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "e bofefo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ka fa tlase ga gao"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "di wa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ka tlhamalalo mo pelong"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:53.295926423Z",
+  "model": "glm-5.3"
+}

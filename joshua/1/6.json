@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ikanne mme o nne wa bopelokgale, gore wena o tla dira ⟨את⟩ setshaba se se nne beng ba ⟨את⟩ lefatshe leo ke ikanaile go borraabone go se ba neela.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "ikanne"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "mme o nne wa bopelokgale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "o tla dira setshaba se se nne beng ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ikanaile"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "go borraabone"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go neela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:35.056919068Z",
+  "model": "glm-5.3"
+}

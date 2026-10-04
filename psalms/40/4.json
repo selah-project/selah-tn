@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme a be mo molomong wa me pina e ncha, ke tlhotlo go Elohim wa rona; ba le bantsi ba tlaa bona, ba tlaa tshaba, mme ba tlaa tshegofatsa go Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mme a be"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mo molomong wa me"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e ncha"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ke tlhotlo"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "go Elohim wa rona"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba tlaa bona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba le bantsi"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ba tlaa tshaba"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "mme ba tlaa tshegofatsa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:03.087374656Z",
+  "model": "glm-5.3"
+}

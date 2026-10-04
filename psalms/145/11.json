@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Ba tla bua kgalalelo ya bogosi jwa gago, mme ba tlhalosa nonofo ya gago.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ya bogosi jwa gago"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla bua"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "mme nonofo ya gago"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba tla tlhalosa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:58.125581214Z",
+  "model": "glm-5.3"
+}

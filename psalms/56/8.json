@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "A ka bosenyi ba tlaabela? Ka bogale jwa gago, o kgutlisetse batho kwa tlase, O Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "און",
+      "gloss": "bosenyi"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ba tlaabela"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ba"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ka bogale jwa gago"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "o kgutlisetse kwa tlase"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:04.966711949Z",
+  "model": "glm-5.3"
+}

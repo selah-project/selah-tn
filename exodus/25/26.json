@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme o direla yone dikhgetho di le nne tsa gauta, mme o baye dikhgetho mo dikhutlhong tse nne tsa matsogo a yone a le mane.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yone"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nne"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "dikhgetho"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o baye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikhgetho"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "dikhgetho"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tse nne"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "dikhutlhong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tsa"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "a le mane"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "matsogo a yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:21.213711687Z",
+  "model": "glm-5.3"
+}

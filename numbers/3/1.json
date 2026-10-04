@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme e ne e le dipoelo tsa Aharone le Moshe, ka letsatsi leo Yahwe a neng a bua ⟨את⟩ Moshe kwa Thabeng ya Sinae.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme e ne e le"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dipoelo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "le Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwa Thabeng"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ya Sinae"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:05.100293937Z",
+  "model": "glm-5.3"
+}

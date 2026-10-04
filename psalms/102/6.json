@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Mo lentsweng la go nnonokha ga me, marapo a me a namile mo nameng ya me.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "mo lentsweng la"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "go nnonokha ga me"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "a namile"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "marapo a me"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "mo nameng ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:04.181090452Z",
+  "model": "glm-5.3"
+}

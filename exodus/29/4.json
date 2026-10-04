@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme ⟨את⟩ Aharone le ⟨את⟩ bana ba gagwe o ba atise kwa molelwaneng wa tente ya kopano, mme o ba tlhatswe ka metsi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "o ba atise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "molelwaneng"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "mme o ba tlhatswe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ka metsi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:25.543744610Z",
+  "model": "glm-5.3"
+}

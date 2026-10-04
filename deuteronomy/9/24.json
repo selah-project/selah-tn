@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ba ba ganang le ne le le kgatlhanong le Yahwe, go tswa ka letsatsi leo ke neng ke itse ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "ba ba ganang"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "le ne le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le kgatlhanong le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "go tswa ka letsatsi"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "ke neng ke itse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:40.835627029Z",
+  "model": "glm-5.3"
+}

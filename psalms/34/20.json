@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Dibeke tse dintsi tsa molatedi yo o lokileng, mme Yahwe o mo ntsha mo tsotlhe.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "dintsi"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "dibeke tsa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "molatedi yo o lokileng"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "mme mo tsotlhe"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "o mo ntsha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:13.043195421Z",
+  "model": "glm-5.3"
+}

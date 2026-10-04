@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 67,
+  "translation": "Gore go itsiwe mo lefatsheng ditsela tsa gago, poloko ya gago mo go ditshaba tsotlhe.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "gore go itsiwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ditsela tsa gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "poloko ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:22.720164511Z",
+  "model": "glm-5.3"
+}

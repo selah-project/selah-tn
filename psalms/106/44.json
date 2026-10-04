@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme a bona diphatsa tsa bone, a utlwa ⟨את⟩ go lla ga bone.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "diphatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tsa bone"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go lla ga bone"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "go lla ga bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:36.341662437Z",
+  "model": "glm-5.3"
+}

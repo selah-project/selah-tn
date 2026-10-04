@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Ba ba humileng ba tla tswa mo Mitsrayime; Kuswe o tsamaya ka bonako a atolosa matsogo a gagwe go ya go Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "ba tla tswa"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "ba ba humileng"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuswe"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "o tsamaya ka bonako"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "matsoko a gagwe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:12.227739866Z",
+  "model": "glm-5.3"
+}

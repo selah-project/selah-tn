@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ditshaba tsotlhe di tla lo pelela molao, gonne ⟨את⟩ lona lo tla nna lefatshe la dilo tse di tlhomologileng — go bua Yahwe Tsebaote.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "mme ditshaba di tla lo pelela molao"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "ditshaba tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "lo tla nna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "la dilo tse di tlhomologileng"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:52.487084586Z",
+  "model": "glm-5.3"
+}

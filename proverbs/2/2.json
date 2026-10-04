@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "go dira sephatlo sa tlhoko ya gago go tlhaloganya, go tlotla pelo ya gago go tsaya tlhalo;",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "go dira sephatlo sa tlhoko"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "go tlhaloganya"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tlhoko ya gago"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "go tlotla"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "go tsaya tlhalo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:37.279554228Z",
+  "model": "glm-5.3"
+}

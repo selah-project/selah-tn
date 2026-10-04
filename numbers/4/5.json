@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Aharone le bana ba gagwe ba tla, fa setshaba se sepela, ba tlose ⟨את⟩ serala sa phuduthusu, ba se phuthetse ka sone ⟨את⟩ arone ya bopaki.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "fa se sepela"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "ba tlose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serala"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "serala"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sa phuduthusu"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ba phuthetse"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka sone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arone"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "arone"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bopaki"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:11.823874327Z",
+  "model": "glm-5.3"
+}

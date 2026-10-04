@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme ba ba tlhobeletse, ba ba tlhoyang; mme ba ikhutlafala ka fa tlase ga diatla tsa bone.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "a ba tlhobeletse"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ba ba tlhoyang"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "ba ikhutlafala"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "diatla tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:36.341343726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Ba ba tlhamaletseng ba tlaa bona mme ba itumele, mme bolalame jotlhe bo tswaletse molomo wa jone.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ba tlaa bona"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba ba tlhamaletseng"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "mme ba itumele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme jotlhe"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bolalame"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "bo tswaletse"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "molomo wa jone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:20.668334354Z",
+  "model": "glm-5.3"
+}

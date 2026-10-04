@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "Ba loantsha sefofane sa dikgato tsa me; moya wa me o kgobametse; ba ile ba epa sejwale kwa pele ga me, ba wela mo teng ga sone. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "sefofane"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "ba loantsha"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "dikgato tsa me"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "o kgobametse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "ba ile ba epa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga me"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "sejwale"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ba wela"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "mo teng ga sone"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:09.351175220Z",
+  "model": "glm-5.3"
+}

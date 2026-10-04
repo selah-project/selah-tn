@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 4:36",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "mme ba ba neng ba balwa, go ya ka malapa a bone, e ne e le dikete tse pedi, makgolo a supa, le masome a matlhano.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "mme e ne e le"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ba ba neng ba balwa"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya ka malapa a bone"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete tse pedi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "supa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masome a matlhano"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:50.703718508Z",
+  "model": "glm-5.3"
+}

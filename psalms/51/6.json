@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Go wena, go wena bobedi fela, ke ne ke dirile molato, mme ke dirile boshula mo mahetlheng a gago; gore o nne wa tshiamo mo mafokong a gago, o nne pelokgale mo katlholong ya gago.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "go wena bobedi fela"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ke ne ke dirile molato"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "mme boshula"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mo mahetlheng a gago"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke dirile"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "o nne wa tshiamo"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "mo mafokong a gago"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "o nne pelokgale"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "mo katlholong ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:19.176852955Z",
+  "model": "glm-5.3"
+}

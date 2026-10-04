@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Dumelang Yahwe, barongwa ba gagwe, ba ba nonofileng thata, ba ba dirang lefoko la gagwe, go theeletsa lentswe la lefoko la gagwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Dumelang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "barongwa ba gagwe"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "ba ba nonofileng"
+    },
+    {
+      "surface": "כח",
+      "gloss": "thata"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lefoko la gagwe"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "go theeletsa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lefoko la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:18.203399806Z",
+  "model": "glm-5.3"
+}

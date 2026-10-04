@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Hazaele, kgosi ya Arame, o ne a gatelela ⟨את⟩ Yisraele malatsi otlhe a bosupa jwa Yehoakhaze.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Mme Hazaele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Arame"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "o ne a gatelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi a bosupa jwa"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoakhaze"
+    }
+  ],
+  "timestamp": "2026-10-03T23:37:28.276029712Z",
+  "model": "glm-5.3"
+}

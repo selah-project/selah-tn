@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Mme a bitsa tlala mo lefatsheng, a thuba molamu wa senkgwe sotlhe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a bitsa"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "molamu wa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "a thuba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:39.286135672Z",
+  "model": "glm-5.3"
+}

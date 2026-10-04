@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "mme wa amongng wa setlhare se se mo bogareng jwa serapa, Elohim o rile: Lo se ke la ja mo go sona, le ka go se kgwera, gore lo se ke la swa.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "mme wa amongng wa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "setlhare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo bogareng jwa"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o rile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ke la"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo go sona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ka go se"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kgwera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sona"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore lo se ke la"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "swa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:01.125594641Z",
+  "model": "glm-5.3"
+}

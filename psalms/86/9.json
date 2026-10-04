@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Ditshaba tsotlhe tse o di dirileng di tla tla mme di itshwarele fa pele ga gago, Adonai, mme di tlotle leina la gago.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o di dirileng"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "di tla tla"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mme di itshwarele"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fa pele ga gago"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "mme di tlotle"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "leina la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:51.104022640Z",
+  "model": "glm-5.3"
+}

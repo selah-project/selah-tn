@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Bolokang ⟨את⟩ melao ya me le ⟨את⟩ dikatlholo tsa me, tseo motho a di dirang mme a tshela mo go tsone; me ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Bolokang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya me"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melao ya me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikatlholo tsa me"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikatlholo tsa me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a di dirang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "mme a tshela"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:41.433430741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Yo o disitseng sekgofi, a ga ⟨a⟩ a utlwa? Yo o bopileng leitlho, a ga ⟨a⟩ a lebelela?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Yo o disitseng"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sekgofi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Yo o bopileng"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "bopileng"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leitlho"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "a lebelela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:33.169804090Z",
+  "model": "glm-5.3"
+}

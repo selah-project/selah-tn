@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "O thibola marumo a mawatle, marumo a mawatle a one, le pheretlha ya ditshaba.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "o thibola"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "marumo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a mawatle"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "marumo"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "a mawatle a one"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "le pheretlha"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ya ditshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:39.410207595Z",
+  "model": "glm-5.3"
+}

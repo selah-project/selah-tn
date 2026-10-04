@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme dingwaga di thata o jala ⟨את⟩ lefatshe la gago, mme o kokotla ⟨את⟩ dikololo tsa yone.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Mme dingwaga di thata"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "o jala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la gago"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "lefatshe la gago"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "mme o kokotla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikololo tsa yone"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dikololo tsa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:40.522035113Z",
+  "model": "glm-5.3"
+}

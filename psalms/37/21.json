@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Yo o molato o a kolota mme ga a duele; mme tsadiki o bontsha mohau, mme o neela.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "o a kolota"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo o molato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "a duele"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "mme tsadiki"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "o bontsha mohau"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "mme o neela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:35.795837019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme Yahwe o ne a boloka ⟨את⟩ Yisraele ka letsatsi leo; mme ntwa e ne ya feta ⟨את⟩ Beti-Avene.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Mme o ne a boloka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "mme ntwa"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "e ne ya feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Avene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avene"
+    }
+  ],
+  "timestamp": "2026-10-03T23:00:36.616108167Z",
+  "model": "glm-5.3"
+}

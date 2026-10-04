@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme morago ga gagwe a atlhola ⟨את⟩ Yisraele Ibsane wa Betelekeme.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a atlhola"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "morago ga gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibsane"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa Betelekeme"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betelekeme"
+    }
+  ],
+  "timestamp": "2026-10-03T22:51:26.297585357Z",
+  "model": "glm-5.3"
+}

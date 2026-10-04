@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ka letsatsi la ntlha go tla nna phuthego e e itshepileng go lona; tiro ya motho ga go ya o tla e dira.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "la ntlha"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e e itshepileng"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go tla nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tiro yotlhe e e"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ya motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "o tla e dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:23.711525812Z",
+  "model": "glm-5.3"
+}

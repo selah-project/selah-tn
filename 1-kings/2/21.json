@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme a re: A Abishege wa Shuneme a newe ⟨את⟩ Adoniyahu, mmao wa gago, go nna mosadi wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a newe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishege"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishege"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "wa Shuneme"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "go Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mmao wa gago"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "go nna mosadi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:21.010079478Z",
+  "model": "glm-5.3"
+}

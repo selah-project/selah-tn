@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 100,
+  "translation": "Direlang ⟨את⟩ Yahwe ka boitumelo; tsenang kwa go ene ka go opela.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Direlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka boitumelo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tsenang"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "kwa go ene \/ kwa pelegaong ya gagwe"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ka go opela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:47.445118365Z",
+  "model": "glm-5.3"
+}

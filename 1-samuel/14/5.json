@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Leje le le lengwe le ne le eme kwa bokone fa pele ga Mikhmashe, mme le le lengwe kwa borwa fa pele ga Geba.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "leje"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "le le lengwe"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "le eme kwa godimo"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kwa bokone"
+    },
+    {
+      "surface": "מול",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmashe"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "mme le le lengwe"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "kwa borwa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    }
+  ],
+  "timestamp": "2026-10-03T23:00:09.984487081Z",
+  "model": "glm-5.3"
+}

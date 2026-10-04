@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme moperesite a bo a le bona ⟨את⟩ lesela, mme a bo a le ritibatsa ⟨את⟩ lesela malatsi a supa.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lesela"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "lesela"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "mme a bo a le ritibatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lesela"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "lesela"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:55:27.377627687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 32:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme ba ima ba tsamaya ka bonako mohumagatsana o o latelang, mme ba tlhagisa diphologolo tse di fofang ka fa godimo, mme ba neela diphologolo tsa kagiso; mme batho ba nna fatsa go ja le go nwa, mme ba tlhatloga go itaya diphaphe.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ba ima ba tsamaya ka bonako"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mohumagatsana o o latelang"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba tlhagisa ka fa godimo"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "diphologolo tse di fofang ka fa godimo"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ba neela"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "diphologolo tsa kagiso"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ba nna fatsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "go nwa"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ba tlhatloga"
+    },
+    {
+      "surface": "לצחק",
+      "gloss": "go itaya diphaphe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:25.916033601Z",
+  "model": "glm-5.3"
+}

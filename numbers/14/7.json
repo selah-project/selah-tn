@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 14:7",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Ba bua le setshaba sotlhe sa bana ba Yisraele, ba re: Lefatshe leo re neng re feta mo go lona go le tlhotlhomisa ⟨את⟩, ke lefatshe le le molemo thata, thata.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba bua le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe sa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "re neng re feta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "go le tlhotlhomisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe leo"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-03T22:08:59.681766494Z",
+  "model": "glm-5.3"
+}

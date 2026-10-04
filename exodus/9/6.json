@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Yahwe a dira ⟨את⟩ sepe se ka moso mongwe; mme ditshiamo tsotlhe tsa Mitsrayime di ne di tlhokafala, mme mo ditshiamong tsa bana ba Yisraele ga go ape e nngwe e nngwe ya tlhokafala.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sepe se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sepe se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ka moso mongwe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "di tlhokafala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ditshiamo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "mo ditshiamong tsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go ape"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ya tlhokafala"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e nngwe e nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:24.914149348Z",
+  "model": "glm-5.3"
+}

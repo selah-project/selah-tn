@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "E ne e le khutlo-nne; ba ne ba e dira ⟨את⟩ khotshane ka bobedi; bokete jwa seatla bo ne bo le boleelo jwa yone, mme bokete jwa seatla bophara jwa yone, e tlhakanetse bobedi.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "khutlo-nne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ka bobedi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba ne ba e dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khotshane"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "khotshane"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "bokete jwa seatla"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "boleelo jwa yone"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "mme bokete jwa seatla"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara jwa yone"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "e tlhakanetse bobedi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:13.705217605Z",
+  "model": "glm-5.3"
+}

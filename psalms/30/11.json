@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Bua o utlwe, Yahwe, mme o nne mohau le nna; Yahwe, nna o thusa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "bua o utlwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mme o nne mohau le nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "o thusa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:37.529631626Z",
+  "model": "glm-5.3"
+}

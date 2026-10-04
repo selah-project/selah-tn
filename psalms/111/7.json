@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 111,
+  "translation": "Meiro ya diatla tsa gagwe ke nnete le katlholo; diteaelo tsa gagwe tsotlhe di tshegeditswe.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "meiro"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya diatla tsa gagwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nnete"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le katlholo"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "di tshegeditswe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "diteaelo tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:59.301361923Z",
+  "model": "glm-5.3"
+}

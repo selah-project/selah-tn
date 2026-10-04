@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Bua le bana ba Yisraele, o ba re: Fa lo tlola ⟨את⟩ Yorodano, lo ya lefatsheng la Kanaane;",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "o ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "lo tlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorodano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodano"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lo ya lefatsheng"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kanaane"
+    }
+  ],
+  "timestamp": "2026-10-03T22:19:26.245949535Z",
+  "model": "glm-5.3"
+}

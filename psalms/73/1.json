@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Pina ya Asafe. Ruri Elohim o molemo go Yisraele, go ba ba nang le pelo e e phepa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "pina"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "go ba ba nang le"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo e e phepa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:16.755405185Z",
+  "model": "glm-5.3"
+}

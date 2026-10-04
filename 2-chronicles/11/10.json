@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "le ⟨את⟩ Tsorea le ⟨את⟩ Ayalone le ⟨את⟩ Kheberone, e di leng mo Yahudha le mo Benyamine — ditoropokgolo tsa dikago tse di nonofilitsweng",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsorea"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ayalone"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kheberone"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Kheberone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e di leng"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mo Yahudha"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "le mo Benyamine"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ditoropokgolo"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "dikago tse di nonofilitsweng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:48:43.771399895Z",
+  "model": "glm-5.3"
+}

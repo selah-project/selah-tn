@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ba tla dira areke ya dikgong tsa shitime: dikhubu di le pedi le sepharo bolelele jwa yone, khubu e le nngwe le sepharo bophara jwa yone, le khubu e le nngwe le sepharo bogodimo jwa yone.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ba tla dira"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "areke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya dikgong"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "tsa shitime"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dikhubu di le pedi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le sepharo"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bolelele jwa yone"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "khubu e le nngwe"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le sepharo"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara jwa yone"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "khubu e le nngwe"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le sepharo"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bogodimo jwa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:38.901970590Z",
+  "model": "glm-5.3"
+}

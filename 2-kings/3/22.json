@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ba tsoga kwa mosong, mme letsatsi le ne le phadima godiraga ga metsi, mme Moabe a bona go tswa kgatlhanong ⟨את⟩ metsi a a boshibidu jaaka madi.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "Mme ba tsoga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kwa mosong"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "mme letsatsi"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "le ne le phadima"
+    },
+    {
+      "surface": "על",
+      "gloss": "godiraga ga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "mme ... a bona"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "go tswa kgatlhanong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "a a boshibidu"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "jaaka madi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:33:15.218912818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme go ne go le jalo, fa ba mo bona ⟨את⟩, ba tsaya balekane ba le masome a mararo, mme ba nna ⟨את⟩ ene.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go le jalo"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "fa ba mo bona"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (ene)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ba tsaya"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba le masome a mararo"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "balekane"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme ba nna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ene"
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:56.593853514Z",
+  "model": "glm-5.3"
+}

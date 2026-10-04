@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Dira katlholo ya bana ba Yisraele mo ⟨את⟩ bajaning ba Midiane; morago ga moo o tla bokelwa go batho ba gago.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Dira katlholo"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "bajaning ba Midiane"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "bajaning ba Midiane"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "morago ga moo"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "o tla bokelwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "batho ba gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:17:38.802737961Z",
+  "model": "glm-5.3"
+}

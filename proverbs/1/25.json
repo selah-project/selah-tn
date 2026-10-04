@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme le ne la tlola kgakala kgakololo ya me yotlhe, mme teko ya me ga le a e dumele.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "le ne la tlola kgakala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "kgakololo ya me"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "mme teko ya me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "le a e dumele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:41.598629183Z",
+  "model": "glm-5.3"
+}

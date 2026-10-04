@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Mme ditshaba di tlaa tshaba ⟨את⟩ leina la Yahwe, le dikosi tsotlhe tsa lefatshe ⟨את⟩ tlhaloganyo ya gago.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "mme di tlaa tshaba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikosi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhaloganyo ya gago"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "tlhaloganyo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:01.044624664Z",
+  "model": "glm-5.3"
+}

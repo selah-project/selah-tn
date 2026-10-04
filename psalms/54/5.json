@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 54,
+  "translation": "Gonne bengwa ba tsogile kgatlhanong le me, mme ba ba tlhaolang ba batla ⟨את⟩ mophefo wa me; ga ba a baya Elohim pele ga bone. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bengwa"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ba tsogile"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatlhanong le me"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "mme ba ba tlhaolang"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ba batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mophefo wa me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mophefo wa me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ba a baya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "pele ga bone"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:37.644581484Z",
+  "model": "glm-5.3"
+}

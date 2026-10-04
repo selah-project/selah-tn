@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Yahwe o ntshitse dikatlholo tsa gago, o boile moaba wa gago; Kgosi ya Yisraele, Yahwe, o mo gare ga gago; ga o kitla o tshoga ka bobe gape.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikatlholo tsa gago"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "o boile"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "moaba wa gago"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mo gare ga gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "o tshoge"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ka bobe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-04T03:17:23.385888572Z",
+  "model": "glm-5.3"
+}

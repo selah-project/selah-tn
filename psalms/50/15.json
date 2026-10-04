@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme mpitsa letsatsi la mathata; ke tla go golola, mme o tla nkgapela tlotlo.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "mme mpitsa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "la mathata"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ke tla go golola"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "mme o tla nkgapela tlotlo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:27.689681267Z",
+  "model": "glm-5.3"
+}

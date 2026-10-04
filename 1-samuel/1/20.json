@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go tla tshwareng, ka go khutla ga malatsi, Khana a imolwa, a belega morwa, mme a bitsa ⟨את⟩ leina la gagwe Shamuele, gonne go tswa go Yahwe ke mo kgoleditse.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go tla tshwareng"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "ka go khutla ga"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "a imolwa"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "go tswa go Yahwe"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "ke mo kgoleditse"
+    }
+  ],
+  "timestamp": "2026-10-03T22:55:32.719745319Z",
+  "model": "glm-5.3"
+}

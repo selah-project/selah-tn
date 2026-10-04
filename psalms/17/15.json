@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme nna, ka tsedeke, ke tlaa lelema sefathego sa gago; ke tlaa tlala, fa ke tsoga, ka sekai sa gago.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ke tlaa lelema"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefathego sa gago"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ke tlaa tlala"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "fa ke tsoga"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "ka sekai sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:53.492612581Z",
+  "model": "glm-5.3"
+}

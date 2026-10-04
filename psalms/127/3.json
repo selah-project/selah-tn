@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 127,
+  "translation": "Bonang, boswa jwa Yahwe ke bana; moputso ke peo ya popelo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "boswa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "moputso"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "peo"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ya popelo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:10.158655614Z",
+  "model": "glm-5.3"
+}

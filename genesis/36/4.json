@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme Ada a begetsa Esawe ⟨את⟩ Elifaze; mme Bashimate a begetsa ⟨את⟩ Reuele.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Mme ... a begetsa"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaze"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaze"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "mme Bashimate"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuele"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:13.184222603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ⟨את⟩ dikgosi tsotlhe tseo le ⟨את⟩ mafatshe a tsone, Yehoshuaa o di lahire ka nako e le nngwe, gonne Yahwe, Elohim wa Yisraele, o ne a lwa go sireletsa Yisraele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikgosi tsotlhe tseo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafatshe a tsone"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mafatshe a tsone"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "o di lahire"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuaa"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "nako"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "o ne a lwa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "go sireletsa Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:34.071587301Z",
+  "model": "glm-5.3"
+}

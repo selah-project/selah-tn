@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Wena Yahwe, o a segofadiwa; ntlhaletse melao ya gago.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "o a segofadiwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ntlhaletse"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:43.871869492Z",
+  "model": "glm-5.3"
+}

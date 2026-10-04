@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Boitumelo jwa pelo ya rona bo fedile, sebopego sa go bina sa rona se fetohile bommogo.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "bo fedile"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "pelo ya rona"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "se fetohile"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "bommogo"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "sebopego sa go bina sa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:20.676941056Z",
+  "model": "glm-5.3"
+}

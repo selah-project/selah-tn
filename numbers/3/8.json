@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ba tla boloka ⟨את⟩ dithuluso tsotlhe tsa tenthe ya kopano, le ⟨את⟩ tumelano ya bana ba Yisraele, go direla tiro ya ⟨את⟩ Mishkane.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Mme ba tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithuluso tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithuluso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenthe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tumelano"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tumelano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "go direla tiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiro ya"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tiro ya"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:53.027365706Z",
+  "model": "glm-5.3"
+}

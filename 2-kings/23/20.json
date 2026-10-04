@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme a bolaya ⟨את⟩ bapriste ba dibama botlhe ba ba neng ba le koo mo dibatareng, mme a fisetsa ⟨את⟩ marapo a batho mo go tsone, mme a boela kwa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Mme a bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapriste botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "bapriste"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ba dibama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "dibatareng"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "mme a fisetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marapo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a batho"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme a boela"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kwa Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:09.036004778Z",
+  "model": "glm-5.3"
+}

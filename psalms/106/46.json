@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme a ba neela ⟨את⟩ go tshwarwa ka melaetle, fa pele ga ba ba ba neng ba ba tshwere jaaka makgoba otlhe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a ba neela"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "go tshwarwa ka melaetle"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ba ba ba tshwere jaaka makgoba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:55.799346344Z",
+  "model": "glm-5.3"
+}

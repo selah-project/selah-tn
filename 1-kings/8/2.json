@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme banna botlhe ba Yisraele ba kopana go kgosi Solomone, ka kgwedi ya Eitanime, mo moletlong — e khakgolwa ke kgwedi ya boferabobedi.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ba kopana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ka kgwedi ya"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Eitanime"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "mo moletlong"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kgwedi ya"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "boferabobedi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:23:44.570004896Z",
+  "model": "glm-5.3"
+}

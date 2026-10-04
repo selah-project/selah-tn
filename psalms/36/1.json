@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Go mokaedi. Ka modiri wa Yahwe, ka Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go mokaedi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ka modiri wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:38.748224157Z",
+  "model": "glm-5.3"
+}

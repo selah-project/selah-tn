@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Gore lo tla nna le maswabi ka ntlha ya meche e lo e ratileng, mme lo tlaa sotlega ka ntlha ya ditema tse lo di tlhophileng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "lo tla nna le maswabi"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "ka ntlha ya meche"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "lo e ratileng"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "mme lo tlaa sotlega"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "ka ntlha ya ditema"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "lo di tlhophileng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:50.161731834Z",
+  "model": "glm-5.3"
+}

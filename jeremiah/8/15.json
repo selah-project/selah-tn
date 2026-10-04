@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Re ne re letetse kagiso, mme ga go a siama; re letetse nako ya phekolo, mme bonang — tshoganyetso!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "re ne re letetse"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a siama"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "nako ya"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "phekolo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "tshoganyetso"
+    }
+  ],
+  "timestamp": "2026-10-04T00:11:50.148722287Z",
+  "model": "glm-5.3"
+}

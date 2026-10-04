@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Yahwe, thubamisa magodimo a gago mme o theogele; kgwera dithaba, mme di tlhale molelo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "thubamisa"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "magodimo a gago"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "mme o theogele"
+    },
+    {
+      "surface": "גע",
+      "gloss": "kgwera"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "mme di tlhale molelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:57.415463736Z",
+  "model": "glm-5.3"
+}

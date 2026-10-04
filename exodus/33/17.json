@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme Yahwe a re go Moshe: Gape ⟨את⟩ lefoko le o le buileng, le ke tla le dira; gonne o fumetse mohau mo mahitlhong a me, mme ke a go itse ka leina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "o le buile"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tla le dira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "o fumetse"
+    },
+    {
+      "surface": "חן",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo mahitlhong a me"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "mme ke a go itse"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:16.444039337Z",
+  "model": "glm-5.3"
+}

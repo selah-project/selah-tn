@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "E tlogela, o se ka wa feta mo go yona; e gogoga fa go go bapa le yona, mme feta.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "e tlogela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "feta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "e gogoga"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "fa go go bapa le yona"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "mme feta"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:20.751139323Z",
+  "model": "glm-5.3"
+}

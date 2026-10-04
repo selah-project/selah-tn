@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Setho le minkha ga o a di ratela; ditsebe o di butsele me; se se fofang le sedi sa boleo ga o a di kopa.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "setho"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "le minkha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "o a di ratela"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ditsebe"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "o di butsele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "se se fofang"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "le sedi sa boleo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "o a di kopa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:15.245372800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Lefoko la gago ke lesedi la maoto a me, mme ke phadima ya tselaela ya me.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lesedi"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "la maoto a me"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lefoko la gago"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "mme ke phadima"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "ya tselaela ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:39.338660778Z",
+  "model": "glm-5.3"
+}

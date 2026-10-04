@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Letsatsi ke la gago, gape bosigo ke la gago; wena o baakantse khanya le letsatsi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ke la gago"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Letsatsi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke la gago"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "o baakantse"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "khanya"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "le letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:26.820031450Z",
+  "model": "glm-5.3"
+}

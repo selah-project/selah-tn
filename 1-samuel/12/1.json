@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Shemuele a bua le Yisraele yotlhe: Bonwe, ke utetse lentswe la lona, go ya ka sengwe le sengwe se le neng le se bua le nna, mme ke ne ka tlhoma kgosi mo go lona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke utetse"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "lentswe la lona"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ya ka sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "le neng le se bua"
+    },
+    {
+      "surface": "לי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "ka tlhoma kgosi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:00:04.607740732Z",
+  "model": "glm-5.3"
+}

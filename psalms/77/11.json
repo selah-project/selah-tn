@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Mme ka re: bolwetse jwa me ke jone; ke na le go gopola dingwaga tsa letlhaganyo la Elyone.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "bolwetse jwa me"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke jone"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "letlhaganyo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:04.676779530Z",
+  "model": "glm-5.3"
+}

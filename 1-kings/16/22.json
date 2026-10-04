@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme setshaba se se neng se le morago ga Omri sa fenya ⟨את⟩ setshaba se se neng se le morago ga Tibini morwa Ginate; mme Tibini a swa, mme Omri a nna kgosi.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "sa fenya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng se le"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng se le"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibini"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginate"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a swa"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibini"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a nna kgosi"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:54.505335387Z",
+  "model": "glm-5.3"
+}

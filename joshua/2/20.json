@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme fa o ka bolela ⟨את⟩ kgang ya rona e, re tla bo re se na molato wa ikano ya gago e o re swaretseng ka yona.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "o ka bolela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgang ya rona"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "kgang ya rona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "e"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "re tla bo re"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "se na molato"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "wa ikano ya gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "o re swaretseng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:16.436564120Z",
+  "model": "glm-5.3"
+}

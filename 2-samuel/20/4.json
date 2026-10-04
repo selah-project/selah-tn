@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme kgosi ya re go Amasa: Buela kelele kwa nna go wena go bakgethela ⟨את⟩ banna ba Yuda malatsi a mararo; mme wena, nna fano o eme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "buela kelele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna ba Yuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "malatsi a mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "פה",
+      "gloss": "fano"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "o eme"
+    }
+  ],
+  "timestamp": "2026-10-03T23:17:19.105221799Z",
+  "model": "glm-5.3"
+}

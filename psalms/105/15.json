@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Se ka wa kgoma ba-o-tloditsweng ba me, le baporofeti ba me se ba dira phoso.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ka wa kgoma"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ba-o-tloditsweng ba me"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "le baporofeti ba me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ba dira phoso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:39.286009808Z",
+  "model": "glm-5.3"
+}

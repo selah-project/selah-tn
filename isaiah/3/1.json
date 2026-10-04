@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Gore bona, Adonai, Yahwe Tsebaote, o ntsha go tswa mo Yerushalayime le go tswa mo Yudhah thekgo le setheko, thekgo yotlhe ya senkgwe le thekgo yotlhe ya metsi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "o ntsha"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "go tswa mo Yerushalayime"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "le go tswa mo Yudhah"
+    },
+    {
+      "surface": "משען",
+      "gloss": "thekgo"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "le setheko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "משען",
+      "gloss": "thekgo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ya senkgwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yotlhe"
+    },
+    {
+      "surface": "משען",
+      "gloss": "thekgo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya metsi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:56.776496198Z",
+  "model": "glm-5.3"
+}

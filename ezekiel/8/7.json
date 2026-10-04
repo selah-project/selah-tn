@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "A ntlisa kwa lebakeng la go tsena la phaposi; mme ke ne ka bona, mme ra re bona ledibana le le lengwe mo lebating.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A ntlisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lebakeng la go tsena"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "la phaposi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ke ne ka bona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme ra re bona"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ledibana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le le lengwe"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "mo lebating"
+    }
+  ],
+  "timestamp": "2026-10-04T00:33:41.060069895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Ba tshwanetse go aba Yahwe kgalalelo, mme ba itsise tshogo ya gagwe mo ditlhaketlhakeng.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "go aba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "tshogo ya gagwe"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "mo ditlhaketlhakeng"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ba itsise"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:39.317390047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme kgosi ya Mitsrayime ya bua le ba belegi ba Basheberu — leina la wa ntlha e ne e le Shifara, mme leina la wa bobedi e ne e le Pua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya bua"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "le ba belegi"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ba Basheberu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "la wa ntlha"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifara"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme leina"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la wa bobedi"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:07.715511606Z",
+  "model": "glm-5.3"
+}

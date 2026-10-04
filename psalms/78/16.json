@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme a ntsha metsi a a phunyetsang mo lejatweng, mme a isa a fokotse jaaka dinoka.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mme a ntsha"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "metsi a a phunyetsang"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "mo lejatweng"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "mme a isa a fokotse"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "jaaka dinoka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:49.894300391Z",
+  "model": "glm-5.3"
+}

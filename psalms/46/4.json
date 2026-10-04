@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Metsi a ona a godisa modumo, a phunyega; dithaba di thuthubala ka bonatla jwa jona. Selaha.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "a godisa modumo"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "a phunyega"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "metsi a ona"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "di thuthubala"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "ka bonatla jwa jona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:12.127202876Z",
+  "model": "glm-5.3"
+}

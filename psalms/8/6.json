@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme o mo dirile sengwe fela fa ga Elohim, mme ka tlhompho le bosiamisi o mo apesa korone.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "mme o mo dirile sengwe fela fa ga"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sengwe fela"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "le tlhompho"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "le bosiamisi"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "o mo apesa korone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:35.175293392Z",
+  "model": "glm-5.3"
+}

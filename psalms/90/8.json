@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "O beile melato ya rona pele ga wena, dilo tsa rona tsa sephiri, ka lesedi la sefatlhego sa gago.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "O beile"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "melato ya rona"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "pele ga wena"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "dilo tsa rona tsa sephiri"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ka lesedi la"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:20.480683633Z",
+  "model": "glm-5.3"
+}

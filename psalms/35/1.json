@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Ya Dawide. Ganela, Yahwe, ⟨את⟩ ba ba n ganelang; lwa le ⟨את⟩ ba ba n lwantseng.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "ganela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba n ganelang"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "ba ba n ganelang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba n lwantseng"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ba ba n lwantseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:53.705871840Z",
+  "model": "glm-5.3"
+}

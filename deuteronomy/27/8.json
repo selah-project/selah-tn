@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme o tlaa kwala mo go ⟨את⟩ maje a mafoko otlhe a Torah eno, o di tlhalosa ka botlalo.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "mme o tlaa kwala"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "maje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko otlhe a Torah eno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "a Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "באר",
+      "gloss": "o di tlhalosa"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ka botlalo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:13.304086954Z",
+  "model": "glm-5.3"
+}

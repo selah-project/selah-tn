@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme go ne go le fa Akabe a bona ⟨את⟩ Eliyahu, mme Akabe a mo bolelela: A wena, ke wena yo o tshwenyang Yisraele?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le"
+    },
+    {
+      "surface": "כראאות",
+      "gloss": "fa a bona"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a bolelela"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akabe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "a wena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ke wena"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "yo o tshwenyang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:37.686158353Z",
+  "model": "glm-5.3"
+}

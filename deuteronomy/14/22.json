@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "O tlaletse go tlaletsa ⟨את⟩ tsotlhe tse di tlhagisitsweng ke peo ya gago, tse di tlhagang mo masimong, ngwaga le ngwaga.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "o tlaletse"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "go tlaletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsotlhe tse di tlhagisitsweng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "tse di tlhagisitsweng"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ke peo ya gago"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "tse di tlhagang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mo masimong"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "le ngwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T22:25:47.789093745Z",
+  "model": "glm-5.3"
+}

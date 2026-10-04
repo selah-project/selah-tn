@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Khure a bea ⟨את⟩ Uri, mme Uri a bea ⟨את⟩ Betselele.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Mme Khure"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "mme Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betselele"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betselele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:35:19.529429223Z",
+  "model": "glm-5.3"
+}

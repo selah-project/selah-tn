@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "A se ka wa faposa, mme a se ka wa fetola, ⟨את⟩ yo o siameng ka yo o bosula, kgotsa yo o bosula ka yo o siameng; mme fa a fetola phologolo ka phologolo, e tla nna — ⟨e⟩ le phologolo ya go e fetola e tla nna boitshepo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "A se ka"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "wa faposa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a se ka"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "wa fetola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yo o siameng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ka yo o bosula"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yo o bosula"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka yo o siameng"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "המר",
+      "gloss": "a fetola"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "a fetola"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ka phologolo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "le phologolo ya go e fetola"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:11.148118039Z",
+  "model": "glm-5.3"
+}

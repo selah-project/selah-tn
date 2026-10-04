@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Dawide a tlhasela ⟨את⟩ Hadadezere morwa Rekhobe, kgosi ya Tswaba, ka nako ya bo yoo ya go boa ka seatla sa gagwe kwa nokeng.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "a tlhasela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezere"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezere"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhobe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tswaba"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "ka nako ya bo yoo ya"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "go boa ka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "kwa nokeng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:09:20.358998461Z",
+  "model": "glm-5.3"
+}

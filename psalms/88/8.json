@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "Bogale jwa gago bo ile jwa ntshwara ka nonofo; mme ka mekgwa yotlhe ya gago ya mafika o ntshotletse. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "bo ile jwa ntshwara ka nonofo"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "Bogale jwa gago"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ka yotlhe"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mekgwa ya gago ya mafika"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "o ntshotletse"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:54.535112787Z",
+  "model": "glm-5.3"
+}

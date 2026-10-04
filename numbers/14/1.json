@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme setlhopha sotlhe se ne sa tlhatloga, ba ne ba tlhagasa ⟨את⟩ modumo wa bone, mme setshaba se ne sa lela bosigo jo bo.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "se ne sa tlhatloga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setlhopha"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ba ne ba tlhagasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo wa bone"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "modumo wa bone"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ba ne ba lela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jo bo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:09:15.910353271Z",
+  "model": "glm-5.3"
+}

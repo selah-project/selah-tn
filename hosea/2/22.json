@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ke tla go ralala ⟨go nna⟩ ka boikanyego; mme o tla itse ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "ke tla go ralala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ka boikanyego"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "o tla itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:02.582592898Z",
+  "model": "glm-5.3"
+}

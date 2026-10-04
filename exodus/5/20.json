@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme ba kopana le ⟨את⟩ Moshe le ⟨את⟩ Aharone, ba emetse go ba amogela, fa ba ne ba tsamaa go tswa ⟨את⟩ kwa go Faro.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "mme ba kopana le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ba emetse"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "go ba amogela"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "fa ba ne ba tsamaa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tswa ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kwa go Faro"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:39.532438889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme o dira ⟨את⟩ karata, kwa lehlakoreng la borwa, bophirima; dikhuthuthu tsa karata di ne di le dikhuti tse di hlabamaneng, maele a le lekgolo ka bama.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme o dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "karata"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kwa lehlakoreng la"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "bophirima"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "dikhuthuthu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tsa karata"
+    },
+    {
+      "surface": "שש",
+      "gloss": "dikhuti"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tse di hlabamaneng"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "le lekgolo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka bama"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:46.579870677Z",
+  "model": "glm-5.3"
+}

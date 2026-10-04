@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Ke itse dinonyane tsotlhe tsa dithaba, le diphologolo tsa masimo — di na le nna.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ke itse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dinonyane"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tsa dithaba"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "le diphologolo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tsa masimo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "di na le nna"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:54.112154913Z",
+  "model": "glm-5.3"
+}

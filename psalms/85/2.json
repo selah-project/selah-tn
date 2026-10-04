@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "O ne o itumeditswe ka lefatshe la gago, Yahwe; o busetsitse badiri ba Yaakobo kwa gae.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "o ne o itumeditswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ka lefatshe la gago"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "o busetsitse"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "badiri kwa gae"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:56.233288456Z",
+  "model": "glm-5.3"
+}

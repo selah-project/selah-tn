@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme fa o gana go ba ntsha, bonwe, me ke na go gogela ⟨את⟩ molelwane wa gago otlhe ka divedu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "o gana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "go ba ntsha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "go gogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molelwane wa gago otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "molelwane wa gago"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "ka divedu"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:08.850900169Z",
+  "model": "glm-5.3"
+}

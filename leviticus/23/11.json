@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "A tlhatlosa ⟨את⟩ omere kwa pele ga Yahwe, gore go amogelwe go lona; mo mosong o latelang wa Shabata, moaperesite o tlhatlosa ⟨את⟩ one.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "a tlhatlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omere"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "gore go amogelwe go lona"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mo mosong o latelang"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "o tlhatlosa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moaperesite"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:26.623072854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "O se ke wa tshaba, morwa wa me, ⟨את⟩ Yahwe le kgosi; o se ka wa tsamaisana le ba ba fapafapanang.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "go tshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe le kgosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa wa me"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le kgosi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "ba ba fapafapanang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "go tsamaisana"
+    }
+  ],
+  "timestamp": "2026-10-04T01:49:48.507525430Z",
+  "model": "glm-5.3"
+}

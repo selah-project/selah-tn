@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Yerikho e ne e tswaletse, e tsweletse, ka ntlha ya barwa ba Yisraele; ga go a mmola, mme ga go a tsena.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Mme Yerikho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "e ne e tswaletse"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "e tsweletse"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "a mmola"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tsena"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:46.986471062Z",
+  "model": "glm-5.3"
+}

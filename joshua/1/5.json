@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ga go na motho yo o tla emang pele ga wena malatsi botlhe a botshelo jwa gago; jaaka ke ne ke le le Moshe, jalo ke tla bo ke le le wena; ga ke tla go boela morao, mme ga ke tla go tlogela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "o tla ema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "a botshelo jwa gago"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke tla bo ke le"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "ke tla go boela morao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ke tla go tlogela"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:35.056571370Z",
+  "model": "glm-5.3"
+}

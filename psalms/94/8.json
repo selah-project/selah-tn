@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Á nne le tlhaloganyo, lona ba ba sa nneleng tumelo mo setshabeng, le baleele, go fitlha neng le tla nna le botlhale?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "á nne le tlhaloganyo"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "lona ba ba sa nneleng tumelo"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "mo setshabeng"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "le baleele"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "go fitlha neng"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "le tla nna le botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:23.944319203Z",
+  "model": "glm-5.3"
+}

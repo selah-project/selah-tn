@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme a bea ⟨את⟩ menora ka ntlha ya ahela ya kopano, e le kgatlhanong le tafole, mo lehlakoreng la Mishkane le le kwa borwa.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ka ntlha ya ahela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo lehlakoreng la"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lehlakore"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "kwa borwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:28.291223902Z",
+  "model": "glm-5.3"
+}

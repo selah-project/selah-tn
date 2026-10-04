@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ba se ka wa siea sepe go tswa mo go yona go fitlha moso, mme lerapo le se ka la thubiwa mo go yona; jaaka molao otlhe wa Paseka ba tla e dira ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba se ka wa"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "siea"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sepe go tswa mo go yona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "mme lerapo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ka la"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "thubiwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jaaka otlhe"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molao"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "wa Paseka"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba tla e dira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:48.040475939Z",
+  "model": "glm-5.3"
+}

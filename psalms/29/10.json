@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Yahwe o ne a nna mo setilong sa bogosi mabapi le madi a mantsi; Yahwe o nna jaaka kgosi go ya lesome le bone.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "mabapi le madi a mantsi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o ne a nna mo setilong sa bogosi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jaaka kgosi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya lesome le bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:29.746263712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "le ⟨את⟩ ba Pathrose, le ⟨את⟩ ba Kaslukhi (go tswa mo go bone ba ne ba tswa bafalodi ba kwa Pelesete) le ⟨את⟩ ba Khaftore;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba Pathrose"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "ba Pathrose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba Kaslukhi"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "ba Kaslukhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "go tswa mo go bone"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba ne ba tswa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bafalodi ba kwa Pelesete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba Khaftore"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "ba Khaftore"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:01.507147485Z",
+  "model": "glm-5.3"
+}

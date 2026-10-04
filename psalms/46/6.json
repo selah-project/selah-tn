@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Elohim o mo teng ga yone, ke gone e ke e seka ya go tshikinyega; Elohim o tlaa mo thusa bo mangwikikgwi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mo teng ga yone"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e seka"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ya go tshikinyega"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "o tlaa mo thusa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "bo mangwikikgwi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:16.397442281Z",
+  "model": "glm-5.3"
+}

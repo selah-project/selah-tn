@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "A nna seithodi ga se tlhatlhobe mafoko, mme leleme la mmala o le monate wa dijo tsa sone?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A nna... ga"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "seithodi"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "tlhatlhobe"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "le leleme la mmala"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "o monate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tsa sone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:08.341865674Z",
+  "model": "glm-5.3"
+}

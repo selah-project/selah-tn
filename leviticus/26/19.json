@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme ke tla thuba ⟨את⟩ boholothati bwa maatla a lona; mme ke tla beba ⟨את⟩ magodimo a lona a nne jaaka tshipi, le ⟨את⟩ lefatshe la lona jaaka thanaya.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "ke tla thuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boholothati bwa maatla a lona"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boholothati"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "bwa maatla a lona"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tla beba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magodimo a lona"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "magodimo a lona"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "jaaka tshipi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la lona"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "lefatshe la lona"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "jaaka thanaya"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:21.574981563Z",
+  "model": "glm-5.3"
+}

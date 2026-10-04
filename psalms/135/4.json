@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Gonne Yah o tlhopile ⟨את⟩ Yaakobo go nna wa gagwe, Yisraele go nna serapa sa gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "o tlhopile"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go nna wa gagwe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "go nna serapa sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:40.492139989Z",
+  "model": "glm-5.3"
+}

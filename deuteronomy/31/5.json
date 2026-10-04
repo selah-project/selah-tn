@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Yahwe o tlaa ba neela pele ga lona, mme lo dira bone ka tsela ya taelo yotlhe yeo ke e laetseng ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "o tlaa ba neela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme lo dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ka tsela ya… yotlhe"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke e laetseng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:51.658122273Z",
+  "model": "glm-5.3"
+}

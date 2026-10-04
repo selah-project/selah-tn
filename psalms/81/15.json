@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Ka nakwana fela ke ne ke tla nonotsha ba ba ba tlhoyang, ke boela ka seatla sa me kgatlhanong le baba ba bone!",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ka nakwana fela"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ba ba ba tlhoyang"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ke ne ke tla nonotsha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "baba ba bone"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ke boela"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ka seatla sa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:48.484449231Z",
+  "model": "glm-5.3"
+}

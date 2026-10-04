@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mmorwa waka, fa o amogela mafoko a me, mme o fitlha melao ya me ⟨את⟩ mo go wena;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mmorwa waka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "o amogela"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mafoko a me"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "mme melao ya me"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "o fitlha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ mo go wena",
+      "marks": "mo go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:37.279299705Z",
+  "model": "glm-5.3"
+}

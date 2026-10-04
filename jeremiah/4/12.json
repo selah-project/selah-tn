@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ruakh e e tlalegileng go tswa mo go tsone ke e tla eyang kwa go nna; jaanong le nna ke tla bua dikatlholo ⟨את⟩ bone.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e e tlalegileng"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "go tswa mo go tsone"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "e tla eya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke tla bua"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "dikatlholo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:13:41.469523291Z",
+  "model": "glm-5.3"
+}

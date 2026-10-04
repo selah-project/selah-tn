@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme ba tsaya ⟨את⟩ Lote le ⟨את⟩ dithoto tsa gagwe, morwa kgaitsadie wa Aborame, mme ba tsamaya; mme ene a nna kwa Sodome.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "mme ba tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lote"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithoto tsa gagwe"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "dithoto tsa gagwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kgaitsadie"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "wa Aborame"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mme ba tsamaya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "kwa Sodome"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:25.706199417Z",
+  "model": "glm-5.3"
+}

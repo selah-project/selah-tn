@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Mme ka leina la Yahwe ke ne ka bitsa: Ah, Yahwe, ke kopa wena, boloka moya wa me.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Mme ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke ne ka bitsa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ah, ke kopa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:17.408427079Z",
+  "model": "glm-5.3"
+}

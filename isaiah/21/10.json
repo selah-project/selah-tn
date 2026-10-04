@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Ee, wao ya ntlhatsweng, wa moropa wa lefelo la go betla la me: se ke se utlwileng go tswa ⟨את⟩ mo go Yahwe Tsebaote, Elohim wa Yisraele, ke se boleletse go lona.",
+  "tokens": [
+    {
+      "surface": "מדושתי",
+      "gloss": "wao ya ntlhatsweng"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "le moropa"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "wa lefelo la go betla la me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke se utlwileng"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mo go Yahwe Tsebaote, Elohim wa Yisraele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ke se boleletse"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:24.689822549Z",
+  "model": "glm-5.3"
+}

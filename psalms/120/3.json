@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 120,
+  "translation": "A go tla go neelwa eng, gape a go tla go okediwa eng, wena leleme la boikhuelo?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a go neela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "gape … eng"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "a go okedisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "leleme"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "la boikhuelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:53.796484711Z",
+  "model": "glm-5.3"
+}

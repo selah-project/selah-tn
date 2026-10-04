@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Se ke la itlhoka ka dilo tse di lorang di lolela lefatshe ka bophara, mme se ke la ikotsa ka tsone, gore le se ka la bowa le ntsha metsi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke la"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "itlhoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boitsholo jwa lona"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "boitsholo jwa lona"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka dilo tse di lorang"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "tse di lorang"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "di lolela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme se ke la"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "ikotsa ka tsone"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka tsone"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "gore le se ka la bowa le ntsha metsi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:40.591064146Z",
+  "model": "glm-5.3"
+}

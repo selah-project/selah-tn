@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 7:2",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Ema kwa kgoreng ya ntlo ya Yahwe, mme o ba bolelele fela ⟨את⟩ lefoko le, o re: Re kwetlha, lentswe la Yahwe, lotshwa lotlhe lwa Yuda, ba ba tsenang ka dikgoro tseno go ikhunyafatsa go Yahwe.",
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "Ema"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kwa kgoreng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "mme o ba bolelele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "fela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "o re"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Re kwetlha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lwa Yuda"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ba ba tsenang"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "ka dikgoro"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "go ikhunyafatsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:09:33.403120448Z",
+  "model": "glm-5.3"
+}

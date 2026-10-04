@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ⟨את⟩ karolo e e setseng ya setshaba o ne a e naya mo diatleng tsa Abishai morwarraagwe; e bile o ne a a baya mo thulaganyong kgatlhanong le bana ba Amona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karolo e e setseng ya setshaba"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "e e setseng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ne a naya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo diatleng"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "morwarraagwe"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "o ne a a baya mo thulaganyong"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:11:51.915646975Z",
+  "model": "glm-5.3"
+}

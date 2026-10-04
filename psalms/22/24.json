@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ba ba boifeng Yahwe, mo dumisang; peo yotlhe ya Yaakobo, mo tlotlang; mme mo tsabe, peo yotlhe ya Yisraele.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "ba ba boifeng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mo dumisang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakobo"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "mo tlotlang"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "mme mo tsabe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:32.710438843Z",
+  "model": "glm-5.3"
+}

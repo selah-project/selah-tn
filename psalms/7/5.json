@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Fa ke busitse yo o ntsalang kagiso ka bosula, mme ke boloditse yo a ntlhoyang ka ntle lebaka,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ke busitse"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "yo o ntsalang kagiso"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ka bosula"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "mme ke boloditse"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "yo a ntlhoyang"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ka ntle lebaka"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:50.295578453Z",
+  "model": "glm-5.3"
+}

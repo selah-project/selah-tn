@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Yahwe a bua le Moshe: Faro ga o kitla a re mamela, gore ditsela tsa me tse di gakgamatsang di nne tse dintsi mo lefatsheng la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a re mamela"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "di nne tse dintsi"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ditsela tsa me tse di gakgamatsang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:09.810354720Z",
+  "model": "glm-5.3"
+}

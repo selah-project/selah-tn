@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "Go ya kwa go mokaedi, go ya ka Shoshannime-Edute, bopaki jwa Asafe, pina.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go ya kwa go mokaedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannime"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edute, bopaki"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "jwa Asafe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pina"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:35.985314973Z",
+  "model": "glm-5.3"
+}

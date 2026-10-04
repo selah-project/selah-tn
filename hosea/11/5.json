@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Ga a kitla a boela kwa lefatsheng la Mitsrayime, mme Ashure, ⟨ke⟩ ene kgosi ya gagwe, goba ba gana go boela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga a kitla"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "mme Ashure"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke⟩ ene"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "kgosi ya gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "goba"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba gana"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "go boela"
+    }
+  ],
+  "timestamp": "2026-10-04T03:16:57.958010525Z",
+  "model": "glm-5.3"
+}

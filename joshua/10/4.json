@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Tlolang kwa go nna, mme le nthusenge, mme re thashele ⟨את⟩ Gibhone, gonne e dirile kagiso le ⟨את⟩ Yehoshua le ⟨את⟩ bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Tlolang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "mme le nthusenge"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "mme re thashele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibhone"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibhone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "e dirile kagiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:53.554274750Z",
+  "model": "glm-5.3"
+}

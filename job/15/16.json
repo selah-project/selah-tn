@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 15:16",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Le go feta foo, o a tlhoiwa mme o a swabiwa, motho yo o nonang jaaka metsi bokgakapa!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "le go feta foo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "o a tlhoiwa"
+    },
+    {
+      "surface": "ונאלח",
+      "gloss": "mme o a swabiwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "yo o nonang"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jaaka metsi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bokgakapa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:57:42.288936904Z",
+  "model": "glm-5.3"
+}

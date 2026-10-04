@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mo boitsheponeng jo bo boitshepo o tla bo jang; botlhe ba banna ba tla bo ja ⟨את⟩; e tla nna e boitshepo go wena.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "mo boitsheponeng"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "jo bo boitshepo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "o tla bo jang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ba banna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ba tla bo ja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e boitshepo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-03T22:11:12.212347750Z",
+  "model": "glm-5.3"
+}

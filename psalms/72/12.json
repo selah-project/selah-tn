@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Gonne o tla golola mopekedi yo o kgelogelang, le moswetsi, le yo o se nang mothusi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "o tla golola"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mopekedi"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "yo o kgelogelang"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "le moswetsi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "le yo o se nang"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mothusi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:24.458982416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Fa o dira ⟨את⟩ se se tlwaelesegileng, mme Elohim a go laela jalo, o tla kgona go ema, mme batho botlhe ba ba ka tla seyo kwa boemong jwa bone ka kagiso.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se tlwaelesegileng"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kgang e"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o dira"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "mme a go laele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "o tla kgona"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "go ema"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa boemong"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "jwa bone"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ba tla seyo"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ka kagiso"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:43.457214814Z",
+  "model": "glm-5.3"
+}

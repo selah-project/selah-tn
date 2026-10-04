@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Se ke ke la tlhatloga, gonne Yahwe ga a mo gare ga lona, e sere le phemile fa pele ga diaba tsa lona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke ke la"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "tlhatloga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "mo gare ga lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e sere le"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "phemile"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "diaba tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:08:57.041020393Z",
+  "model": "glm-5.3"
+}

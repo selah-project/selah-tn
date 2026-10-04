@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme fa minkha ya mpho ya gago e le ya mo sepaneng, e tla diriwa ka slete ka mafura.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "ya mo sepaneng"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "mpho ya gago"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "slete"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "e tla diriwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:21.002587577Z",
+  "model": "glm-5.3"
+}

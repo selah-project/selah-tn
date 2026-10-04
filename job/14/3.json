@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Gape mo go seno o ne wa bula matlho a gago, mme o ntisa ⟨את⟩ me mo katlholong le wena?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "gape"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "זה",
+      "gloss": "seno"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "o ne wa bula"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "matlho a gago"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "o ntisa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mo katlholong"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:57:19.724311573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Ee, lefifi ga le a ka la fitlha go wena; mme bosigo bo phatsima jaaka letsatsi; lefifi le tshwana le phatsima.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "le a ka la fitlha"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mme bosigo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jaaka letsatsi"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "bo phatsima"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "le tshwana le phatsima"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:36.536757103Z",
+  "model": "glm-5.3"
+}

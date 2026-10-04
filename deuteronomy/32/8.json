@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Fa Elyone a ne a abela ditshaba boswa jwa tsona, fa a ne a kgaoganya bana ba Adame, o ne a tlhoma melelwane ya bomorafe go ya ka palo ya bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "בהנחל",
+      "gloss": "Fa a ne a abela boswa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "בהפרידו",
+      "gloss": "fa a ne a kgaoganya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba Adame"
+    },
+    {
+      "surface": "יצב",
+      "gloss": "o ne a tlhoma"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "melelwane"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya bomorafe"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "go ya ka palo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:09.643708425Z",
+  "model": "glm-5.3"
+}

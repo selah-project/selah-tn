@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme go ne go nna ntwa gareng ga Asa le gareng ga Beashe, kgosi ya Yisraele, matshelo a bone otlhe.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "mme go ne go nna ntwa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "go ne go nna"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gareng ga"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le gareng ga"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Beashe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "matshelo a bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:07.952833847Z",
+  "model": "glm-5.3"
+}

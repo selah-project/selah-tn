@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Se seka la boela go dicega tsa medimo, mme se dirElohim ya go thubilwang ya lona; ke me Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "seka la boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "ditshwantsho tsa medimo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "mme Elohim ya"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "go thubilwang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dire"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:41.041698356Z",
+  "model": "glm-5.3"
+}

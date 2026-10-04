@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 143,
+  "translation": "Mme ka hesede ya gago o tlhope baba ba me, mme wa senye ba ba kgantshang moya wa me botlhe; gonne ke modiri wa gago.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Mme ka hesede ya gago"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "o tlhope"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "baba ba me"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "mme wa senye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ba ba kgantshang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:00.566395279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Elkane a ya kwa Ramata go ya kwa ntlong ya gagwe; mme ngwana yoo o ne a direla ⟨את⟩ Yahwe pele ga ⟨את⟩ ELi moporofeti-mong wa badisa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mme ... a ya"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkane"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "kwa Ramata"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlong ya gagwe"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "mme ngwana yoo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ne a"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ga ga Eli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pelo ga ga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moporofeti-mong wa badisa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:54:36.376047594Z",
+  "model": "glm-5.3"
+}

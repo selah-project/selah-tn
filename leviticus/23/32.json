@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ke Shabata ya boikhutso bakeng sa lona, mme lo tlaa itshwenya ⟨את⟩ meya ea lona; ka letsatsi la borobong la kgwedi, maitseboa; go tloga maitseboa go fitlha maitseboa lo tlaa boloka Shabata ea lona.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya boikhutso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bakeng sa lona"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "mme lo tlaa itshwenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meya ea lona"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "meya ea lona"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "ka letsatsi la borobong"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "maitseboa"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "go tloga maitseboa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "maitseboa"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "lo tlaa boloka"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Shabata ea lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:36.708559186Z",
+  "model": "glm-5.3"
+}

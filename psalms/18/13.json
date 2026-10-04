@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Go tswa mo khanyeng e e neng e le kafa pele ga gagwe, maru a gagwe a ne a feta; bolarake le dikhohlowa tsa molelo.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "go tswa mo khanyeng"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "e e neng e le kafa pele ga gagwe"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "maru a gagwe"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "a ne a feta"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "bolarake"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "le dikhohlowa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tsa molelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:32.980083760Z",
+  "model": "glm-5.3"
+}

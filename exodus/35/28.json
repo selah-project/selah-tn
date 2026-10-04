@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Le ⟨את⟩ dinotlheara le ⟨את⟩ mafura, a a neng a tla diriswa go baka lesedi, le mafura a go tlhatswega, le dinotlheara tsa tshwaro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinotlheara"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "dinotlheara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "go baka lesedi"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "le mafura a"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "go tlhatswega"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "le dinotlheara tsa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "tshwaro"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:13.572561345Z",
+  "model": "glm-5.3"
+}

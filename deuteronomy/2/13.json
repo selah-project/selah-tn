@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Jaanong tsogang, mme lo tloleng lona ⟨את⟩ molapo wa Zerede; mme ra tlola ⟨את⟩ molapo wa Zerede.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Jaanong"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "tsogang"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "mme lo tloleng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molapo wa Zerede"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molapo"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "wa Zerede"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "mme ra tlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molapo wa Zerede"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molapo"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "wa Zerede"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:09.273147931Z",
+  "model": "glm-5.3"
+}

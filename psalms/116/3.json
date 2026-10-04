@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Dikgogara tsa loso di ne tsa nkganela, mme dikgoreletsego tsa Sheole di ne tsa nkaela; tsietsi le peloetso ke ne ka di fitlhela.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "di ne tsa nkganela"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "Dikgogara tsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "loso"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "mme dikgoreletsego tsa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "di ne tsa nkaela"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tsietsi"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "le peloetso"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ke ne ka di fitlhela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:17.408284521Z",
+  "model": "glm-5.3"
+}

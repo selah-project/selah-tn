@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Yahwe, se ka wa ntlogela go tshwenyegiša, ka gonne ke go bileditse; a ba ba bosula ba tshwenyegišwe, ba khuthe go Sheole.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ka wa ntlogela go tshwenyegiša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ke go bileditse"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "a ba tshwenyegišwe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ba khuthe"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "go Sheole"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:58.032376689Z",
+  "model": "glm-5.3"
+}

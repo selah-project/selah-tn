@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme barwa ba gagwe ba mo diraela jalo, jaaka a ba laetse.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba dira"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צום",
+      "gloss": "a ba laetse"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:56.446083050Z",
+  "model": "glm-5.3"
+}

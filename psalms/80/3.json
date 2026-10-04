@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "Pele ga Efrayime le Benjamine le Manase — tlhagisa ⟨את⟩ maatla a gago, o tle go re boloka.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Pele ga"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "le Benjamine"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "le Manase"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "tlhagisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maatla a gago"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "maatla a gago"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "o tle"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "go re boloka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:35.985749910Z",
+  "model": "glm-5.3"
+}

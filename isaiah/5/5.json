@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme jaanong ke tlaa bo ke le tlisitse tsela mo ⟨את⟩ go lona, se ke se dirang karolong ya me ya mosetara: ke tlaa ntsha molelo wa yone, mme e nne ⁠e⁠ ka⁠ jeolwa; ke tlaa thuba lebati la yone, mme e nne ⁠e⁠ ka⁠ tlola.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ke tlaa bo ke le tlisitse tsela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ go lona",
+      "marks": "go lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "se ke se dirang"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "karolong ya me ya mosetara"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ke tlaa ntsha"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "molelo wa yone"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e nne"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "ka jeolwa"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ke tlaa thuba"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "lebati la yone"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e nne"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "ka tlola"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:36.223790179Z",
+  "model": "glm-5.3"
+}

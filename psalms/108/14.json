@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "Ka Elohim re tlaa dira ka nonofo; mme yena o tlaa re gatela ka dinao ba ba re tlhoyalang.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Ka Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re tlaa dira"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ka nonofo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme yena"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "o tlaa re gatela ka dinao"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ba ba re tlhoyalang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:33.668337741Z",
+  "model": "glm-5.3"
+}

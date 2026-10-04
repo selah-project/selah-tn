@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme go tswa mo setshabeng sa Gade: ⟨את⟩ Raamote ya kwa Gileade le ⟨את⟩ mabala a yone, le ⟨את⟩ Makhanaime le ⟨את⟩ mabala a yone.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mme go tswa mo setshabeng sa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamote ya kwa Gileade"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamote"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ya kwa Gileade"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a yone"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabala a yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Makhanaime"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Makhanaime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a yone"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabala a yone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:22.833290347Z",
+  "model": "glm-5.3"
+}

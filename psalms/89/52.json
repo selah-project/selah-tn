@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Eo ba ba tlhakologang, Yahwe, ba ba neng ba tlhakologa meila ya go tlodisiwa ga gago.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ba tlhakologang"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ba ba tlhakologang ba gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo ba neng ba"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ba tlhakologa"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "meila ya"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "go tlodisiwa ga gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:34.287653561Z",
+  "model": "glm-5.3"
+}

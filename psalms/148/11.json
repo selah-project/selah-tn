@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Dikgosi tsa lefatshe, le ditshaba tsotlhe; balaodi, le baatlhodi ba lefatshe botlhe.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le botlhe"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "baatlhodi ba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:59.213788563Z",
+  "model": "glm-5.3"
+}

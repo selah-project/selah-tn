@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme Yaakobo a direla Rakhela dingwaga di le supa; mme mo mahlong a gagwe di ne di le jaaka matsatsi a se kae fela, ka gonne a mo rata ⟨אתה⟩.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "Mme … a direla"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Rakhela"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "di le supa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme … di ne di le"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mo mahlong a gagwe"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "jaaka matsatsi"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "a se kae fela"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ka gonne a mo rata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "yena (Rakhela)"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:51.749137371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme ba di tlogela koo ⟨את⟩ medimo ya bone, mme Dawide le banna ba gagwe ba e thiba.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ba di tlogela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya bone"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "medimo ya bone"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ba e thiba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:09:39.888801658Z",
+  "model": "glm-5.3"
+}

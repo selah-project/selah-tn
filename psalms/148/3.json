@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Mo baakanyeng ba mo tlotle, letsatsi le ngwedi; mo baakanyeng ba mo tlotle, dinaledi tsotlhe tsa khanya.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mo baakanyeng ba mo tlotle"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "le ngwedi"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mo baakanyeng ba mo tlotle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "dinaledi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tsa khanya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:07.581333210Z",
+  "model": "glm-5.3"
+}

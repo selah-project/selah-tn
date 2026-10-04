@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 127,
+  "translation": "Yo o itumelelang ke monna yo o tlatsileng ⟨את⟩ sekalero sa gagwe ka bone; ba ne ba se ka wa sotlega, gonne ba buisanela le ⟨את⟩ ba ba ba tlhoyalang kwa kgotleng.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "yo o itumelelang"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o tlatsileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekalero sa gagwe"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "sekalero sa gagwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka bone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ka wa"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sotlega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba buisanela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba ba tlhoyalang"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "ba ba ba tlhoyalang"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kwa kgotleng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:58.746796135Z",
+  "model": "glm-5.3"
+}

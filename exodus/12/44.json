@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme lekatane la monna lengwe le lengwe, le rekilweng ka selefera, o se ka wa bo o sa mo loga; a nna ka nako eo o ka ja ⟨את⟩ jone.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mme lengwe le lengwe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "lekatane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "la monna"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "le rekilweng"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ka selefera"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "o se ka wa bo o sa mo loga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (ene)"
+    },
+    {
+      "surface": "אז",
+      "gloss": "a nna ka nako eo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "o ka ja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:50.269559480Z",
+  "model": "glm-5.3"
+}

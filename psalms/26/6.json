@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Ke tla tlhapela ka boitshoko diatla tsa me, mme ke ralala mo tlase ga ⟨את⟩ altara ya gago, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "ke tla tlhapela"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ka boitshoko"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "diatla tsa me"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "mme ke ralala mo tlase ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altara ya gago"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "altara ya gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:52.748368340Z",
+  "model": "glm-5.3"
+}

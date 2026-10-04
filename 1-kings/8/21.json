@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ke ne ke beile koo lefelo la ⟨את⟩ areka, e mo go yone go leng kgolagano ya Yahwe, e a neng a e kgaola le bokoloi jwa rona, a ntsha ⟨את⟩ bone mo lefatsheng la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "mme ke ne ke beile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "la areka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e mo go yone"
+    },
+    {
+      "surface": "שם",
+      "gloss": "go leng"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a e kgaola"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bokoloi jwa rona"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:52.803823922Z",
+  "model": "glm-5.3"
+}

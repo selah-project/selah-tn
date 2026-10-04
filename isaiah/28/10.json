@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Ka gore taelo mo taelong, taelo mo taelong, mola mo moleng, mola mo moleng, sengwe fela koo, sengwe fela koo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gore"
+    },
+    {
+      "surface": "צו",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "mo taelong"
+    },
+    {
+      "surface": "צו",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "mo taelong"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mola"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "mo moleng"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mola"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "mo moleng"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "sengwe fela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "sengwe fela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:46.731974021Z",
+  "model": "glm-5.3"
+}

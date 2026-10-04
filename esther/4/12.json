@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ba bolelela Mordekai ⟨את⟩ mafoko a Estere.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Ba bolelela"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "a Estere"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:05.238028341Z",
+  "model": "glm-5.3"
+}

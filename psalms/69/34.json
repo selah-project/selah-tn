@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Gore Yahwe o a reetsa ba ba tlhokang, mme ⟨את⟩ batsalwa ba gagwe ga a ba nyenya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o a reetsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ba ba tlhokang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "batsalwa ba gagwe"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "batsalwa ba gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "a ba nyenya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:23.280121384Z",
+  "model": "glm-5.3"
+}

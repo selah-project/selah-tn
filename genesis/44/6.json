@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Mme a ba thuba, a bua le bone ⟨את⟩ mafoko a a tshwanang le a.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "a ba thuba"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a a tshwanang le a"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:15.833962698Z",
+  "model": "glm-5.3"
+}

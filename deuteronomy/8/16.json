@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "yo o go jestang ka mane mo sekakapeng, se bosheng ba gago ba se sa itseng, gore a go tlogose, le gore a go leke, go go siamisa kwa bofelong jwa gago;",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "yo o go jestang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mane"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo sekakapeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa itseng"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ba se sa itseng"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bosheng ba gago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore a go tlogose"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "a go tlogose"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "le gore a go leke"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "a go leke"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "go go siamisa"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "kwa bofelong jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:53.700679591Z",
+  "model": "glm-5.3"
+}

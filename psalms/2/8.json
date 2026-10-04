@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Kgopela go nna, mme ke tla go neela ditshaba e le boswa jwa gago, le meleme ya lefatshe e le sepego sa gago.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Kgopela"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mme ke tla go neela"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "boswa jwa gago"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "le sepego sa gago"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "meleme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:12.531028379Z",
+  "model": "glm-5.3"
+}

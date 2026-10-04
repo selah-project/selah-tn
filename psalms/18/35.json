@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "O ruta diatla tsa go ntlhola dintwa, mme noo ya tshipi ya me e ka matediwa ke makoba a me.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "o ruta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "diatla tsa me"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go ntlhola dintwa"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "mme... e ka matediwa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "noo"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ya tshipi"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "makoba a me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:30.670719203Z",
+  "model": "glm-5.3"
+}

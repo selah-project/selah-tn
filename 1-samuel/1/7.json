@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme a dira jalo ngwaga le ngwaga; fa Khanne a ne a ela kwa ntlong ya Yahwe, o ne a mo hweetsa jalo; mme o ne a lala a lela, mme a sa je.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "le ngwaga"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "a ne a ela"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kwa ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "o ne a mo hweetsa"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "a lala a lela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-10-03T22:54:52.234884224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Noa a tlhoka go tswa mo meweng ya gagwe, a bo a itse ⟨את⟩ se a se dirileng morwa wa gagwe yo monnye.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "a tlhoka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "go tswa mo meweng ya gagwe"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "a bo a itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se a se dirileng morwa wa gagwe yo monnye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se dirileng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo gagweng"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yo monnye"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:58.966617534Z",
+  "model": "glm-5.3"
+}

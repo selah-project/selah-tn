@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Mme ⟨o ne⟩ a ka ba tlhatlhora ka mafura a koro, mme ka bofofo jwa lefika nka go tlhotlhorisa.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "a ka ba tlhatlhora"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ka mafura a"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "koro"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "mme go tswa mo lefikeng"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "bofofo"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "nka go tlhotlhorisa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:28.202529319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Kgwedi eno ke yona tlhogo ya dikgwedi ya lona; ke ya ntlha ya lona fa gare ga dikgwedi tsa ngwaga.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "kgwedi eno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ya dikgwedi"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ya ntlha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "fa gare ga dikgwedi tsa"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ngwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:46.646074399Z",
+  "model": "glm-5.3"
+}

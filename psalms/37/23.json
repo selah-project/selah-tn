@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Go tswa go Yahwe megwebo ya monnawe e a tlhomiwa; mme o thabela tsela ya gagwe.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "go tswa go Yahwe"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "megwebo"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ya monnawe"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "e a tlhomiwa"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "mme tsela ya gagwe"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "o thabela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:35.796213354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme o tswa mo molomong wa bana ba bannye le ba ba susumetsang, o beile maatla, ka ntlha ya ba ba go senyang, go tlhoma molomo moganetsi le mmuelodi.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "mo molomong wa"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "bana ba bannye"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "le ba ba susumetsang"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "o beile"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "ba ba go senyang"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "go tlhoma molomo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "moganetsi"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "le mmuelodi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:58.209844017Z",
+  "model": "glm-5.3"
+}

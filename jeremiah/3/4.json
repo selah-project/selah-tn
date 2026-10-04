@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "A ga go tswa jaanong o bitsile kwa go nna: Ntatae, wena mogani wa bonyana jwa me?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "go tswa jaanong"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "o bitsile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ntatae"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mogani"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "bonyana jwa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-10-04T00:07:25.924848234Z",
+  "model": "glm-5.3"
+}

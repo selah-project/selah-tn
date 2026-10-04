@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme a thuba ⟨את⟩ diphilari, a rukutsa ⟨את⟩ tshimi ya di-Ashera, mme a tlatsa ⟨את⟩ mafelo a tsone ka marapo a motho.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "mme a thuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphilari"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "diphilari"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "a rukutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshimi ya di-Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "tshimi ya di-Ashera"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "mme a tlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafelo a tsone"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "mafelo a tsone"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a motho"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:30.195659863Z",
+  "model": "glm-5.3"
+}

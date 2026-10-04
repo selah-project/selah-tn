@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Tseaela ⟨את⟩ Aharone le ⟨את⟩ Elazare morwawe, o ba tlise kwa godimo mo thabeng ya Hore.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tseaela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Elazare"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazare"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwawe"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "o ba tlise kwa godimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "Aharone le Elazare"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hore"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thabeng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:12:31.954371836Z",
+  "model": "glm-5.3"
+}

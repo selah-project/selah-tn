@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Bua le bana ba Yisraele, mme ba nkele mpho ya me; go tswa ⟨את⟩ mo mongwe le mongwe wa banna yo pelo ya gagwe e mo gokololayang, lo tla nka ⟨את⟩ mpho ya me.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mme ba nkele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpho ya me"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tswa ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "e mo gokololayang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "lo tla nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya me"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "mpho ya me"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:58.697233007Z",
+  "model": "glm-5.3"
+}

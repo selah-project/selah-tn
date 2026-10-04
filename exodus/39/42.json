@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Go ya ka sengwe le sengwe se Yahwe a neng a se laetse ⟨את⟩ Moshe, jalo bana ba Yisraele ba ne ba dira ⟨את⟩ tiro yotlhe.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "go ya ka sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a se laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba ne ba dira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiro yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "tiro"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:48.000953540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Yo o bosula o ikhakantse le sefofane sa ba ba bosula, mme modu wa ba ba lokileng o tlaa naya.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "o ikhakantse le"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo o bosula"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "sefofane"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "sa ba ba bosula"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "mme modu wa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba ba lokileng"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o tlaa naya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:22.614505657Z",
+  "model": "glm-5.3"
+}

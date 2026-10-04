@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Bolaela Elohim: A dilo tsa gago di makatsa thata! Ka maatla a gao a magolo, ba ba go tlhoyang ba tla ikoba go wena ka tsela e potlakileng.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "bolaela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "A…thata"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "di makatsa thata"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dilo tsa gago"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka magolo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "maatla a gao"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ba tla ikoba ka tsela e potlakileng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ba ba go tlhoyang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:04.863438718Z",
+  "model": "glm-5.3"
+}

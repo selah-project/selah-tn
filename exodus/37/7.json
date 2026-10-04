@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme a dira kerube pedi a gauta; a ba dirile ka go bapa le go gabega, a ba dirile kwa diphuthelweng tse pedi tsa sefalelo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "a gauta"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ka go bapa le go gabega"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a ba dirile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kerube"
+    },
+    {
+      "surface": "משני",
+      "gloss": "kwa tse pedi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "diphuthelweng"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sa sefalelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:46.626812553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Dithaba di nama, mokgwa o wa elela, go ya lefelong leo o o ba laleditseng teng.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "di nama"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Dithaba"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "o wa elela"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "mokgwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "זה",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "o o laleditseng"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:32.355831217Z",
+  "model": "glm-5.3"
+}

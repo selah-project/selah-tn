@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Go bua gore: Go wena ke tla go neela ⟨את⟩ lefatshe la Kenane, karolo ya bojwa jo bo la jwale lona.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "go bua gore"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla go neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Kenane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenane"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "bojwa jo bo la jwale lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:15.019865003Z",
+  "model": "glm-5.3"
+}

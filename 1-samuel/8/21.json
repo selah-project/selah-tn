@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Shemuële a utlwa ⟨את⟩ mafoko otlhe a setshaba, a ba a a buela mo ditsebeng tsa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuële"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko otlhe a setshaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a setshaba"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "a ba a a buela"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mo ditsebeng tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:11.877557985Z",
+  "model": "glm-5.3"
+}

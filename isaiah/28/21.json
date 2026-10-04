@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 28:21",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Gore jaaka kwa thabeng ya Peratsime Yahwe o tlaa tsoga, jaaka kwa mokgateng wa Gibone o tlaa tshakenyega, go dira tiro ya gagwe — e segoa tiro ya gagwe — le go direla tiro ya gagwe, e e sa tlwaelegang tiro ya gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "jaaka kwa thabeng ya"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "Peratsime"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "o tlaa tsoga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כעמק",
+      "gloss": "jaaka kwa mokgateng wa"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Gibone"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "o tlaa tshakenyega"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "tiro ya gagwe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "e segoa"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "tiro ya gagwe"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "le go direla"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "tiro ya gagwe"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "e e sa tlwaelegang"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "tiro ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:46.616313033Z",
+  "model": "glm-5.3"
+}

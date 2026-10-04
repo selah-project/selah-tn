@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Fa o bone mmaswe, o ile wa nna le ene, mme bontsi jwa gago bo le gareng ga ba ba dirang bofetoki.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "o bone"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "mmaswe"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "o ile wa nna le ene"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le ene"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "ba ba dirang bofetoki"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "bontsi jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:24.725085412Z",
+  "model": "glm-5.3"
+}

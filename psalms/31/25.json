@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Nonang, mme Yahwe o nonafatse dipelo tsa lona, lona botlhe ba ba tshepelang go Yahwe.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Nonang"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "mme o nonafatse"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "dipelo tsa lona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "ba ba tshepelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:45.604268338Z",
+  "model": "glm-5.3"
+}

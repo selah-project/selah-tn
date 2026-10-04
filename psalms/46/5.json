@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Noka, mekgwa ya yone e ntsa motlotlo toropo ya Elohim, e e boitshepo ya Mishkane tsa Elyone.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "noka"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "mekgwa ya yone"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "e ntsa motlotlo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e e boitshepo"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:16.397170227Z",
+  "model": "glm-5.3"
+}

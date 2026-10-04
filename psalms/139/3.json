@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Tselahalo ya me le go nna ke robetse, o di laakantshitse; mekgwa yotlhe ya me o e itse thata.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "tselahalo ya me"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "le go nna ke robetse"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "o di laakantshitse"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mekgwa ya me"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "o e itse thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:35.581629336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Yo o neng a kgwagantsha ditshaba tse dintsi, a bolaya dikgosi tse di nonofileng;",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "yo o neng a kgwagantsha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "tse dintsi"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "a bolaya"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "tse di nonofileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:19.768603481Z",
+  "model": "glm-5.3"
+}

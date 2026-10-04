@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 2:19",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme mmaagwe a mo direla seaparo se sennyane, mme a se mo isa ngwaga le ngwaga, fa a tlaga mmogo le ⟨את⟩ monna wa gagwe go bedisa ⟨את⟩ bediso ya ngwaga.",
+  "tokens": [
+    {
+      "surface": "ומעיל",
+      "gloss": "seaparo"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "se sennyane"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "a mo direla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmaagwe"
+    },
+    {
+      "surface": "והעלתה",
+      "gloss": "a se mo isa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "le ngwaga"
+    },
+    {
+      "surface": "בעלותה",
+      "gloss": "fa a tlaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna wa gagwe"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "monna wa gagwe"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "go bedisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bediso ya ngwaga"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "bediso"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ya ngwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:11.808346939Z",
+  "model": "glm-5.3"
+}

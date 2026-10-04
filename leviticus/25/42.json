@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Gore badiri ba me ke bone, ba ke neng ke ba ntsha ⟨את⟩ mo lefatsheng la Mitsrayime; ga ba a rekisiwa ka go rekisiwa ga modiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiri ba me"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ke neng ke ba ntsha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ba a rekisiwa"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "ka go rekisiwa ga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "modiri"
+    }
+  ],
+  "timestamp": "2026-10-04T03:03:54.775945280Z",
+  "model": "glm-5.3"
+}

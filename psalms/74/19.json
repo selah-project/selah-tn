@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "O se ka wa neela moya wa nonyane ya gago ya phuduhudu ya tlhago; o se ka wa lebala bafalodi ba gago ba lehumeng go ya nakong etelelelang.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "neela"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "ya tlhago"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "nonyane ya gago ya phuduhudu"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ya tlhago"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "bafalodi ba gago ba lehumeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "go ya nakong etelelelang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:16.652439119Z",
+  "model": "glm-5.3"
+}

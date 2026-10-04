@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Ke ne ke le tile, ke le tile go Yahwe, mme a tlama ka thogela go nna, mme a utwa lefoko la me la kopa.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "go le teka"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ke ne ke le tile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a tlama ka thogela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mme a utwa"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "lefoko la me la kopa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:03.086996504Z",
+  "model": "glm-5.3"
+}

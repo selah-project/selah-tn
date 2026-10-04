@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "Yahwe o tsere mafoko a nnete go Dawide, ga a tlaa boela mo go yone: mo gare ga peo ya mpa ya gago ke tla beela setulo sa bogosi sa gago.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "o tsere mafoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dawide"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "a nnete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "a tlaa boela"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "mo gare ga peo"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ya mpa ya gago"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ke tla beela"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "setulo sa bogosi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:12.516968429Z",
+  "model": "glm-5.3"
+}

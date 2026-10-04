@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ke bone ⟨את⟩ botshelo jotlhe bo tsamayang ka fa tlase ga letsatsi, bo le kgakala le ngwana wa bobedi, yo o tlang go ema mo boemong jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ke bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshelo jotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "bo tsamayang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bo le kgakala le"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "o tlang go ema"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mo boemong jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:10.352350802Z",
+  "model": "glm-5.3"
+}

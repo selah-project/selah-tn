@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme ba tlhama mme ba tshaba ka sephiri sa moso, mme ba tlogela ⟨את⟩ matlhare a bone le ⟨את⟩ dipitse tsa bone le ⟨את⟩ dipitse tsa makhura tsa bone — masimo jaaka a ntse — mme ba tshabela ka botshelo jwa bone.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Mme ba tlhama"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "mme ba tshaba"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "ka sephiri sa moso"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "mme ba tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlhare a bone"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "matlhare a bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipitse tsa bone"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "dipitse tsa bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipitse tsa makhura tsa bone"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "dipitse tsa makhura tsa bone"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "masimo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "a ntse"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mme ba tshabela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "botshelo jwa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:34:41.460135193Z",
+  "model": "glm-5.3"
+}

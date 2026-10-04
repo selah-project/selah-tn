@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "O ne wa baakanya batho ba ba tlhokafalang go kgabaganya ditlhogo tsa rona; re ne ra tsena mo molelong le mo metsing, mme o ne wa re ntsha go ya kwa seraleng.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "o ne wa baakanya"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "batho ba ba tlhokafalang"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "go kgabaganya ditlhogo tsa rona"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "ra tsena"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mo molelong"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "le mo metsing"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "mme o ne wa re ntsha"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "go ya kwa seraleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:36.737588214Z",
+  "model": "glm-5.3"
+}

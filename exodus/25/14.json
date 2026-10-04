@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme o tsenya ⟨את⟩ matlhare mo dipolaneng tse di mo matlhakoreng a Areke, go rwala ⟨את⟩ Areka ka tsone.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "mme o tsenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlhare"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "matlhare"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "mo dipolaneng"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "matlhakoreng a"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Areke"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "go rwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Areka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Areka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:33.092951554Z",
+  "model": "glm-5.3"
+}

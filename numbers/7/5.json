@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Amogela ⟨את⟩ tseno mo go bone, gore di dire ⟨את⟩ tiro ya Ohelo ya Kokoano; mme o di neye ⟨את⟩ Balevi, mongwe le mongwe go ya ka tiro ya gagwe.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Amogela"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "mo go bone ⟨את⟩"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "gore di dire"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiro"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohelo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kokoano"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mme o neye"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "Balevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "tiro ya gagwo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:56.641783148Z",
+  "model": "glm-5.3"
+}

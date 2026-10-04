@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Banna bannye, le basetsana; bagolo, mmogo le bana bannye.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "banna bannye"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "basetsana"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "bana bannye"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:59.213920783Z",
+  "model": "glm-5.3"
+}

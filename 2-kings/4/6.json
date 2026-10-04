@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme e re dijana di ne di sena go jalwa, a rera morwa wa gagwe: Ntisisa sejana se sengwe. Mme a mo rera: Ga go na sejana se sengwe. Mme mafure a ema.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e re"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "dijana di ne di sena go jalwa"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "dijana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a rera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Ntisisa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sejana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a rera"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa go yena"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ga go na"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sejana"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafure"
+    }
+  ],
+  "timestamp": "2026-10-03T23:34:18.114742369Z",
+  "model": "glm-5.3"
+}

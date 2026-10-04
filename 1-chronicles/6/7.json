@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Bana ba Kehate: Aminadabe morwa wa gagwe, Koraḵe morwa wa gagwe, Asire morwa wa gagwe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehate"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraḵe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asire"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:56.818757429Z",
+  "model": "glm-5.3"
+}

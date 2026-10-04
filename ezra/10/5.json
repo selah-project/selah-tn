@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Ezara a tlhama, a bewa ba apele ⟨את⟩ dikgosi tsa baperesiti, balevi, le Yisraele yotlhe go dira jaaka lefoko le, mme ba apelela.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tlhama"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezara"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "a bewa ba apele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgosi tsa baperesiti"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baperesiti"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele yotlhe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jaaka lefoko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "mme ba apelela"
+    }
+  ],
+  "timestamp": "2026-10-04T02:28:19.037431139Z",
+  "model": "glm-5.3"
+}

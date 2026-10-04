@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Morwaaka, o se ka wa tsamaya mo tseleng ⟨את⟩ ene; o kganye sefatlhego sa gago mo tseleng ya bona.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "morwaaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "wa tsamaya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ene",
+      "marks": "ene"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "o kganye"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "mo tseleng ya bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:25.009034297Z",
+  "model": "glm-5.3"
+}

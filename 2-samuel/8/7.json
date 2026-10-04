@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Dawide a tsaya ⟨את⟩ dikepe tsa gauta tse di neng di le mo go badiredi ba Hadadezere, mme a di isa kwa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikepe tsa gauta"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "dikepe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di neng di le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiredi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ba Hadadezere"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "mme a di isa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kwa Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:10:16.403693128Z",
+  "model": "glm-5.3"
+}

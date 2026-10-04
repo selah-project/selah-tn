@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "⟨את⟩ khose, le ⟨את⟩ nonyane ya bosigo ya matlhoo, le tinshemete",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khose"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "khose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nonyane ya bosigo ya matlhoo"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "nonyane ya bosigo ya matlhoo"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "tinshemete"
+    }
+  ],
+  "timestamp": "2026-10-03T22:25:08.748671825Z",
+  "model": "glm-5.3"
+}

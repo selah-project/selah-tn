@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Yo o gatelelang mohumanegi go mo oketsa, gare le yo o nayang morui — fela go nna le letlhogo.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "yo o gatelelang"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mohumanegi"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "go oketsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go mo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yo o nayang"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "morui"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "go nna le letlhogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:49:31.140930480Z",
+  "model": "glm-5.3"
+}

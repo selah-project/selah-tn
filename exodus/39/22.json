@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme ba dira ⟨את⟩ kobo ya ephode, tiro ya mofofi, ya tlhaga ya serolwana ka botlalo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo ya ephode"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya ephode"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ya mofofi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ya tlhaga ya serolwana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:27.722472004Z",
+  "model": "glm-5.3"
+}

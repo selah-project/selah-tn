@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ga go jalo ba ba sa siamang; mme ba jaaka lerole le ruakh e le hudusang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ga go jalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ba ba sa siamang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "jaaka lerole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "e le hudusang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:44.509537171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Ba ke bana ba Gade, balaodi ba sesole; yo monnye — mongwe go lekgolo, mme yo mogolo — mongwe go sekete.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "balaodi ba"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mongwe"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "go lekgolo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yo monnye"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "mme yo mogolo"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "go sekete"
+    }
+  ],
+  "timestamp": "2026-10-04T02:40:40.815088486Z",
+  "model": "glm-5.3"
+}

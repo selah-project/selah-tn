@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ba ba busang ba ntseile kwa ntle ga lebaka, mme pelo ya me e tshaba mafoko a gago.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "ba ba busang"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "ba ntseile kwa ntle"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ga lebaka"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "mme mafoko a gago"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "e tshaba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:59.060873369Z",
+  "model": "glm-5.3"
+}

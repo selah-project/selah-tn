@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Bogale jwa bone bo tshwana le bogale jwa noga; jaaka pethene e se utlweng, e tswalitse tsebe ya yone.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jwa bone"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "bo tshwana le"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "noga"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "pethene"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "e se utlweng"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "e tswalitse"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "tsebe ya yone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:21.062805898Z",
+  "model": "glm-5.3"
+}

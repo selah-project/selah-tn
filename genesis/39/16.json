@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme a beya diaparo tsa gagwe fa ga gagwe, go fitlha mong wa gagwe a tsena mo ntlong ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "a beya"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "diaparo tsa gagwe"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "fa ga gagwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mong wa gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlong ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:05.464064575Z",
+  "model": "glm-5.3"
+}

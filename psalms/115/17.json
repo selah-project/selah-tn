@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Ba ba suleng ga ba keteka Yah, le ba ba tesang kwa godidimong ga ba mo keteka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ba ba suleng"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ba keteka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ba ba tesang ga ba mo keteka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba ba tesang botlhe"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ba ba tesang"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "kwa godidimong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:44.953749895Z",
+  "model": "glm-5.3"
+}

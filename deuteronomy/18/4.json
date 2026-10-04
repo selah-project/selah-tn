@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Dipeo tsa ntlha tsa dipeo tsa gago, tsa veine ya gago, le mafura a gago, le bopelelo jwa ntlha jwa losika lwa dipoo tsa gago, o mo ne.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "tsa ntlha"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "dipeo tsa gago"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "veine ya gago"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "le mafura a gago"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "le tsa ntlha"
+    },
+    {
+      "surface": "גז",
+      "gloss": "bopelelo"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "losika lwa dipoo tsa gago"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o ne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo ene"
+    }
+  ],
+  "timestamp": "2026-10-03T22:28:38.654569391Z",
+  "model": "glm-5.3"
+}

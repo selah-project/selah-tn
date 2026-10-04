@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Moè ga a na go oketsega, mme mohumanegi ga a na go fokotsega go tswa go halofo ya shekele, go fa ⟨את⟩ mpho ya Yahwe, go itshwarelwa bophelo jwa lona.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "moè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a na"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "go oketsega"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "mme mohumanegi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a na"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "go fokotsega"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "go tswa go halofo"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "ya shekele"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya Yahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "mpho ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "go itshwarelwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jwa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:13.208039096Z",
+  "model": "glm-5.3"
+}

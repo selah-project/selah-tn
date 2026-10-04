@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme gauta ya lefatshe leo e siame; gone foo go na le bedolio le leje la shohame.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Mme gauta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e siame"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gone foo"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolio"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "le leje"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "la shohame"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:18.722430634Z",
+  "model": "glm-5.3"
+}

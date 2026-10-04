@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "A mafoko a mantsi a ka sa arabwa? Mme a monna wa molomo o ka tsiamisiwa?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "a ka arabwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Mme a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "wa molomo"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "o ka tsiamisiwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:57:05.569925876Z",
+  "model": "glm-5.3"
+}

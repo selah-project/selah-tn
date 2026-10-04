@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Yo o agang dikgao tsa diphaposi tsa gagwe mo metsing, yo o dirang maru koloi ya gagwe ya ntwa, yo o tsamaeang godimo ga mafuka a ruakh.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "yo o agang dikgao"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mo metsing"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "diphaposi tsa gagwe"
+    },
+    {
+      "surface": "השם",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "koloi ya gagwe ya ntwa"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "yo o tsamaeang"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mafuka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:47.044571555Z",
+  "model": "glm-5.3"
+}

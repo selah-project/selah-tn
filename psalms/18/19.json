@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ba ne ba ntseela pele ka letsi la ditlamorago tsa me, mme Yahwe a nna <kebulelo> poelo ya me.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "ba ne ba ntseela pele"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsi"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "la ditlamorago tsa me"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "<kebulelo> poelo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:22.418061448Z",
+  "model": "glm-5.3"
+}

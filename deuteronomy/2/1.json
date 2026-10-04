@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme re kgutla, mme re tsamaela kwa nageng e sekaka go ya ka tsela ya lewatle la sufu, jaaka Yahwe a ntsere, mme re dikela thoko ga ⟨את⟩ thaba ya Seire matsatsi a mantsi.",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "mme re kgutla"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "mme re tsamaela"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "kwa nageng e sekaka"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "go ya ka tsela ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle la"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sufu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a ntsere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "mme re dikela thoko ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba ya"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seire"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:28.333881830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Fa ba re: Tla ⟨את⟩ le rona, re ipatlele mo mading, re itlhalefele mo o se nang molato, ka ntle le lebaka;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "tla"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rona",
+      "marks": "le rona"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "re ipatlele mo mading"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "mo mading"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "re itlhalefele"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "mo o se nang molato"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka ntle le lebaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:50.735316727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Go moeteledipele wa mmino. sealetswa sa Dawide. Sefoko sa mmino, pina.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteledipele wa mmino"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sealetswa sa Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sefoko sa mmino"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:45.244488876Z",
+  "model": "glm-5.3"
+}

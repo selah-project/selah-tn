@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme letsa la Yahwe la nna boima mo baneng ba Ashdod, mme a ba senya, mme a ba thunya ka dikholumo ⟨אתם⟩ — ⟨את⟩ Ashdode le melelwane ya yona.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "la nna boima"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo baneng"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "ba Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "a ba senya"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a ba thunya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ba Ashdod"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ka dikholumo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdode"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "melelwane ya yona"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "melelwane ya yona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:57:59.640773780Z",
+  "model": "glm-5.3"
+}

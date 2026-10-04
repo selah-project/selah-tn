@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Gore go sengwe le go sengwe go na le nako le katlholo, gobo go didimetsa ga motho go metsi thata mo go ene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go sengwe le go sengwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "se se ratwang"
+    },
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le katlholo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobo"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "bodidimetsi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ga motho"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "go metsi thata"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:06.625153598Z",
+  "model": "glm-5.3"
+}

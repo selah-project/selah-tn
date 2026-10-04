@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Yahwe o tla dira gore ⟨את⟩ bolwetse bo go tsamaisane, go fitlhela bo go fedisa mo lefatsheng leo o tsenang koo go le tshegeda.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "o tla dira gore...bo go tsamaisane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolwetse"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bolwetse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlhela"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "bo go fedisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatsheng leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tsenang"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "go le tshegeda"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:55.452722423Z",
+  "model": "glm-5.3"
+}

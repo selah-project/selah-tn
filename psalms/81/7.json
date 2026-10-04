@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Ke ne ke ntsha sephatla sa gagwe mo morwalong, diatla tsa gagwe di ne di tswa mo katarising.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "ke ne ke ntsha"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "mo morwalong"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "sephatla sa gagwe"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "diatla tsa gagwe"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "mo katarising"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "di ne di tswa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:23.076402134Z",
+  "model": "glm-5.3"
+}

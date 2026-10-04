@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 97,
+  "translation": "Maru le phaphatha di mo dikarolong tsotlhe tsa botlhale jwa gagwe; tsedeke le katlholo ke motheo wa setulo sa gagwe sa bogosi.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Maru"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "le phaphatha"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "di mo dikarolong tsotlhe tsa botlhale jwa gagwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le katlholo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "wa setulo sa gagwe sa bogosi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:50.580015021Z",
+  "model": "glm-5.3"
+}

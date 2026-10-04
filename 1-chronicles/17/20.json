@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Yahwe, ga go ope yo o tshwanang le wena, mme ga go Elohim o sele go wena, mo go sengwe le sengwe se re se utlwileng ka ditsebe tsa rona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go ope"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "yo o tshwanang le wena"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "o sele go wena"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "re se utlwileng"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ka ditsebe tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:41:58.297591030Z",
+  "model": "glm-5.3"
+}

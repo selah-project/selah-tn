@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "A ba tsamaye ba babedi mmogo, ntle le fa ba ka utlwana?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "A ba tsamaye"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ba ka utlwana"
+    }
+  ],
+  "timestamp": "2026-10-04T00:57:31.870653222Z",
+  "model": "glm-5.3"
+}

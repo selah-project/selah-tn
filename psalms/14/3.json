@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Botlhe ba fetoletse tsela, ba feditse mmogo ba senyegile; ga go na yo o dirang se siameng, ga go na le o le mongwe.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ba fetoletse tsela"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ba senyegile"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se siameng"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o le mongwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:21.941430282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme go bana ba Kehate ga a neeleng sepe, gobe tiro ya boitshepo e ne e le mo go bone; ba e begetse mo magetleng.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neeleng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya boitshepo"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "mo magetleng"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ba e begetse"
+    }
+  ],
+  "timestamp": "2026-10-03T22:05:49.047374981Z",
+  "model": "glm-5.3"
+}

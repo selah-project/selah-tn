@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Fa bana ba gago ba ne ba dira boleo mo go ene, wa ba gogela ba tsenngwa mo letsatong la boleo jwa bone.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba gago"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba ne ba dira boleo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "wa ba gogela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo letsatong la"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "boleo jwa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:54:59.511896003Z",
+  "model": "glm-5.3"
+}

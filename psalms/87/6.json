@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 87,
+  "translation": "Yahwe o tlaa bala, a kwala mo mokwalong wa ditshaba: Yo mongwe o belegwe koo. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "o tlaa bala"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "mo go kwadilweng"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yo mongwe"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "o belegwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:08.689266580Z",
+  "model": "glm-5.3"
+}

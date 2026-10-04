@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Itumeleng go ya go Yahwe, mme le itumele, lona ba tsedeneng; mme le oole ka thabo, lona botlhe ba ba tlhamaletseng ka pelo.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Itumeleng"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go ya go Yahwe"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mme le itumele"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "lona ba tsedeneng"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "mme le oole ka thabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ba ba tlhamaletseng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ka pelo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:53.959569864Z",
+  "model": "glm-5.3"
+}

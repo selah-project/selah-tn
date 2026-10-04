@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Ba ba reng: ka lentswe la rona re tla nonotsha, sephatlo sa rona se na le rona ⟨את⟩; ke mang mong wa rona?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ba ba reng"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "ka lentswe la rona"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "re tla nonotsha"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "sephatlo sa rona"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "se na le rona ⟨את⟩",
+      "marks": "sephatlo sa rona"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "mong"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:34.027395918Z",
+  "model": "glm-5.3"
+}

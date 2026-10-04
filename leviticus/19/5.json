@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme fa lo tlhaba seetsego sa dipheraelo tsa kagiso go Yahwe, lo se tlhaba ka tsela e e amogelesegang.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "lo tlhaba"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "seetsego"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "sa dipheraelo tsa kagiso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ka tsela e e amogelesegang"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "lo se tlhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:17.875093929Z",
+  "model": "glm-5.3"
+}

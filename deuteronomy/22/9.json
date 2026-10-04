@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "O se ka wa jala peo e tshwana le ya mofuta o mongwe mo serapeng sa direng sa gago, gore go itshepisiwe ⟨⟨the⟩⟩ kgolagano ya peo e o e jalang, le sepe sa serapa sa direng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "jala"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "serapa sa direng sa gago"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "mefuta e mmedi e e sa tshwaneng"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore se nne"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "go itshepisiwe"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "kgolagano yotlhe"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ya peo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e o e jalang"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "jalang"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "le sepe"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "sa serapa sa direng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:25.975444628Z",
+  "model": "glm-5.3"
+}

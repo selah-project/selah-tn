@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ba babedi ba ne ba sa apara sepe, motho le mosadi wa gagwe, mme ba ne ba sa inaiphele.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ne ba"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "ba sa apara sepe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "le mosadi wa gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ne ba sa"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "inaiphele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:12:57.657490145Z",
+  "model": "glm-5.3"
+}

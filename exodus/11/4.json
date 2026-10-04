@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Moshe a re: Go bua Yahwe: Mo bogareng jwa bofollowero ke a tswa kwa teng ga Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme … a re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "mo bogareng jwa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bofollowero"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kwa teng ga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:40.141067638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 110,
+  "translation": "Yahwe o ikana, mme ga a ka a sekaseka: Nna o moperesite ka bosikhale, go ya ka mokgwa wa Melkisedeko.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "o ikana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga a ka a"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "sekaseka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nna"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moperesite"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosikhale"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mokgwa wa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Melki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-sedeko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:33.561655932Z",
+  "model": "glm-5.3"
+}

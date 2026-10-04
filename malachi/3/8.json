@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "A motho a ka shetla Elohim? Mme lona lo mpshetla ⟨את⟩. Mme lo re: Ka eng re go shetletse? Ka masomo le dimpho.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "a ka shetla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "lo mpshetla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mme lo re"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ka eng"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "re go shetletse"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "ka masomo"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "le dimpho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:02.795260617Z",
+  "model": "glm-5.3"
+}

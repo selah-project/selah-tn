@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Ba ba ikanegang ka maruatona a bone, mme ba ipelaela ka bontsi jwa khumo ya bone.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "Ba ba ikanegang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "maruatona a bone"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ka bontsi jwa"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "khumo ya bone"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "ba ipelaela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:03.381970600Z",
+  "model": "glm-5.3"
+}

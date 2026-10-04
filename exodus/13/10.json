@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme o tla boloka ⟨את⟩ sekelo se go nna jalo ka nako ya yone, go tloga kgweding go ya kgwedeng.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "mme o tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekelo"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "sekelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "ka nako ya yone"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "go tloga kgweding"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "go ya kgwedeng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:54.231453280Z",
+  "model": "glm-5.3"
+}

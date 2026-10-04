@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "mme nna le ena ke tla tsamaya le lona ka go ganana, mme ke tla lo tlhasela ⟨את⟩ lona, le nna, ka makgetlo a supa, ka ntlha ya dibeke tsa lona.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "mme ke tla tsamaya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "le ena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ka go ganana"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "mme ke tla lo tlhasela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ka makgetlo a supa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dibeke tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:04:50.245499926Z",
+  "model": "glm-5.3"
+}

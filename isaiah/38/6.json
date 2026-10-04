@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme ke tla go golola wena le ⟨את⟩ toropo eno mo seatleng sa kgosi ya Ashure, mme ke tla phusa toropo eno.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ke tla go golola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "toropo eno"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ke tla phusa"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    }
+  ],
+  "timestamp": "2026-10-03T23:55:44.576655463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme fa tphufa e ne e tlhatloga, barongwa ba ile ba gakgamatsa Lote, ba re: Tshoga, tsera ⟨את⟩ mosadi wa gago le ⟨את⟩ baratiwa ba gao ba babedi ba ba leng fano, e sere o senngwe mo bosuleng jwa toropo.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "fa"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "tphufa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "e tlhatloga"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "ba gakgamatsa"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "barongwa"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tshoga"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tsera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa gago"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mosadi wa gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "baratiwa ba gao ba babedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "baratiwa ba gao"
+    },
+    {
+      "surface": "הנמצאות",
+      "gloss": "ba ba leng fano"
+    },
+    {
+      "surface": "פן",
+      "gloss": "e sere"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "o senngwe"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "mo bosuleng jwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:59.751824396Z",
+  "model": "glm-5.3"
+}

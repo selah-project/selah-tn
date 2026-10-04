@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Go fitlha kae, Yahwe, o tlaa ntlogela? — ka bosikhureng? Go fitlha kae o tlaa fitlha ⟨את⟩ sefatlhego sa gago go tswa kwa go nna?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Go fitlha"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "o tlaa ntlogela"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ka bosikhureng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Go fitlha"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "o tlaa fitlha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefatlhego sa gago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa kwa go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:46.579492864Z",
+  "model": "glm-5.3"
+}

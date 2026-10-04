@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Bakaulengwe ba ga Yosefe: ba ga Efrayime, Elishama morwa Amihude; ba ga Manashe, Gamliyele morwa Pedatsure.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "bakaulengwe ba ga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ba ga Efrayime"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihude"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ba ga Manashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliyele"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatsure"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:34.082766954Z",
+  "model": "glm-5.3"
+}

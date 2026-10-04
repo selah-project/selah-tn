@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 146,
+  "translation": "Le se ke la ikanya go balebarwa, kgotsa go morwa motho, o o se nang thomokontle.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Le se ke la"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ikanya"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "go balebarwa"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "go morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "o o se nang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "thomokontle"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:54.343083047Z",
+  "model": "glm-5.3"
+}

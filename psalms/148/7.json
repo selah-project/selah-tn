@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Bokang ⟨את⟩ Yahwe go tswa mo lefatsheng, dimokgalo le mahu a metsi otlhe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "bokang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "dimokgalo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "mahu a metsi otlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:22.468506903Z",
+  "model": "glm-5.3"
+}

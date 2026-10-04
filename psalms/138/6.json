@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 138,
+  "translation": "Gonne Yahwe o kwa godimo, mme o leba ba ba kwa tlase; ba ba kwa godimo ba a ba itse ba le kgakala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "רם",
+      "gloss": "o kwa godimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ba ba kwa tlase"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o leba"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ba ba kwa godimo"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "ba le kgakala"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ba a ba itse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:54.882548246Z",
+  "model": "glm-5.3"
+}

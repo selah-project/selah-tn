@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Samuele a re go setshaba: Yahwe — Yo o dirileng ⟨את⟩ Moshe le ⟨את⟩ Aharone, mme yo a neng a tlisa ⟨את⟩ borraabona kwa godimo go tswa mo nageng ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Yo o"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dirileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mme yo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "a tlisang kwa godimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borraabona"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "borraabona"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tswa mo nageng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:40.815411341Z",
+  "model": "glm-5.3"
+}

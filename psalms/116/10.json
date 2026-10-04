@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Ke ne ke tshepile, ka gonne ke bua; nna, ke ne ke tshwenyega thata.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ke ne ke tshepile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke bua"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ke ne ke tshwenyega"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:53.954458870Z",
+  "model": "glm-5.3"
+}

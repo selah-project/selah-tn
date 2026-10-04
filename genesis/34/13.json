@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme bana ba Yaakobo ba araba ⟨את⟩ Shekheme le ⟨את⟩ Khamore rraagwe ka boikhohomoso, mme ba bua, gore o ne a tlhotlwaletsa ⟨את⟩ Dina kgaenyo ybone.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ba araba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekheme"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekheme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khamore"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamore"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "ka boikhohomoso"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "mme ba bua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "a tlhotlwaletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "kgaenyo ybone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:48.523395447Z",
+  "model": "glm-5.3"
+}

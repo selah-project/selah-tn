@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 95,
+  "translation": "Fa bo-ntate ba lona ba ne ba leka nna, ba tlhatlhoba nna, mme ba bona tiro ya me.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "ba leka nna"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bo-ntate ba lona"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ba tlhatlhoba nna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mme"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tiro ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:33.959772969Z",
+  "model": "glm-5.3"
+}

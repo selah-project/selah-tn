@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "O se ka wa ntlogela, Yahwe Elohim wa me; O se ka wa ba kgakala le nna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ka wa"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ntlogela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "O se ka wa ba"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "kgakala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:35.902418374Z",
+  "model": "glm-5.3"
+}

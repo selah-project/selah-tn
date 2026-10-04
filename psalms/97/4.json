@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 97,
+  "translation": "Mafetlello a gagwe a neela lesedi lefatshe lonaka; lefatshe la bona, mme la tsoga bosula.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "a neela lesedi"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Mafetlello a gagwe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe lonaka"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "la bona"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "mme la tsoga bosula"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:50.580332754Z",
+  "model": "glm-5.3"
+}

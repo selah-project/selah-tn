@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme o dire ⟨את⟩ diphatla ka ditlhare tsa setlhare sa shitime, mme o di kgabisitse ka gauta; mme ka tsone tafole e tla isišwa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphatla"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "diphatla"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ka ditlhare"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "setlhare sa shitime"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mme o di kgabisitse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mme e tla isišwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:21.214053517Z",
+  "model": "glm-5.3"
+}

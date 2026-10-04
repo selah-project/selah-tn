@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 11:10",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme ba begela Dawide, ba re: Uriya ga a ya kwa tlase kwa ntlong ya gagwe; mme Dawide a re go Uriya: A wena ga o tswa mo letileng? Ke ka ntlha yang fa o sa ya kwa tlase kwa ntlong ya gago?",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ba begela"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a ya kwa tlase"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlong ya gagwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "A... ga"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "mo letileng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena o"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tswa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Ke ka ntlha yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "o sa ya kwa tlase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlong ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:11:46.992224584Z",
+  "model": "glm-5.3"
+}

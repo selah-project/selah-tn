@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Benyamine o ne a bea ⟨את⟩ Belea, wa ntlha wa gagwe, Ashbele wa bobedi, le Aharakh wa boraro.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Mme Benyamine"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Belea"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belea"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "wa ntlha wa gagwe"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbele"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "le Aharakh"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wa boraro"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:52.152932897Z",
+  "model": "glm-5.3"
+}

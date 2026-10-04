@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme o dibokele thata go bana ba gago, mme o bule ka tsone fa o nnilê mo ntlong ya gago, mme fa o tsamayang mo tseleng, mme fa o robetse, mme fa o simolola.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "mme o di bolelela gape le gape"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "go bana ba gago"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "mme o bule"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsone"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "fa o nnile"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mo ntlong ya gago"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "mme fa o tsamayang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "mme fa o robetse"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "mme fa o simolola"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:35.959693440Z",
+  "model": "glm-5.3"
+}

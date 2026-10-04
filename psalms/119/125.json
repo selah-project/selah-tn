@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Modiri wa gago ke nna; ntlhabolole kutlwelo-botlhoko gore ke itse bopaki jwa gago.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ntlhabolole kutlwelo-botlhoko"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "gore ke itse"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:09.021316222Z",
+  "model": "glm-5.3"
+}

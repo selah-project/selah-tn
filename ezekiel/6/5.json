@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ke tla bea ⟨את⟩ ditopo tsa bana ba Yisraele fa pele ga medimo ya bone, mme ke tla phatlalatsa ⟨את⟩ marapo a lona go dikologa dialetare tsa lona.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditopo tsa bana ba Yisraele"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "ditopo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "medimo ya bone"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "mme ke tla phatlalatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marapo a lona"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "marapo a lona"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "dialetare tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:33:11.424540813Z",
+  "model": "glm-5.3"
+}

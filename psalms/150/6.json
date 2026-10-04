@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 150,
+  "translation": "Sengwe le sengwe se se nang le moya se tle se bake Yah; bakang Yah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sengwe le sengwe"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "se se nang le moya"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "se tle se bake"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bakang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:35.988287989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Metse yotlhe e lo tla e neelang Balefi e tla bo e le masome a mane le robedi: ⟨את⟩ yone mmogo le ⟨את⟩ mafelo a tsone a ntle.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "Metse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "lo tla e neelang"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Balefi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "masome a mane"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "le robedi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "metse"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ yone",
+      "marks": "metse yotlhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a tsone a ntle"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "mafelo a tsone a ntle"
+    }
+  ],
+  "timestamp": "2026-10-03T22:19:37.541326261Z",
+  "model": "glm-5.3"
+}

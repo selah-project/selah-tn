@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Yo o sa utlweleng lentswe la ba ba sehisang, wa dikgolagano tse di botlhale thata.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a utlweleng"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "ba ba sehisang"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "dikgolagano"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "tse di botlhale thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:21.063119232Z",
+  "model": "glm-5.3"
+}

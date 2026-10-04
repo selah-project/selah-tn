@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "Ba tlhatlhoba go dira bosula; ba rialo: Re needitse tlhatlhobo e e tlhatlhobilweng; mme seka tlhaelo ya motho le pelo di tsene botlhofo.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "ba tlhatlhoba"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "go dira bosula"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "re needitse"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "tlhatlhobo"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "e e tlhatlhobilweng"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "mme seka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tlhaelo ya motho"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "le pelo"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "di tsene botlhofo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:57.392964408Z",
+  "model": "glm-5.3"
+}

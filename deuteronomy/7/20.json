@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Gape Yahwe Elohim ya gago o tla romela ⟨את⟩ tsênnê mo go bone, go fitlha ba ba setseng le ba ba fitlhisitseng ba se ka ga wena ba nyelela.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsênnê"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tsênnê"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "o tla romela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ba nyelela"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ba ba setseng"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "le ba ba fitlhisitseng"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ba se ka ga wena"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:34.739446812Z",
+  "model": "glm-5.3"
+}

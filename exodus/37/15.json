@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme a dira ⟨את⟩ dipale ka dikgwa tsa thidi, a di khurama ka gauta, go rwala ⟨את⟩ tafole.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipale"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dipale"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dikgwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "tsa thidi"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "a di khurama"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "go rwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:30.648172808Z",
+  "model": "glm-5.3"
+}

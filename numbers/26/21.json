@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme bana ba Pereke ba ne ba le: wa Khetserone, moro wa Bakhetserone; wa Khamule, moro wa Bakhamule.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ne ba le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereke"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "wa Khetserone"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "moro wa"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "Bakhetserone"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "wa Khamule"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "moro wa"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "Bakhamule"
+    }
+  ],
+  "timestamp": "2026-10-03T22:14:09.714032918Z",
+  "model": "glm-5.3"
+}

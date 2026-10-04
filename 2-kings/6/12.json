@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme a le mongwe wa batlhanka ba gagwe a re: Ga go jalo, mong wa me, kgosi; gonne Elishea, moporofeti yoo mo Yisraele, o bolelela kgosi ya Yisraele ⟨את⟩ mafoko oo o a buang kamoreng ya boroko ya gago.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "wa batlhanka ba gagwe"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ga go jalo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa me"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishea"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mo Yisraele"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "o bolelela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "o a bua"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "kamoreng"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ya boroko ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:33:55.540234798Z",
+  "model": "glm-5.3"
+}

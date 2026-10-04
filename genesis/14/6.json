@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Le ⟨את⟩ Bahori mo dithabeng tsa bone tsa Sheire, go fitlha kwa El-Pcarane, e e mo kgaoganyong ya sekaka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bahori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Bahori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "mo dithabeng tsa bone"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Sheire"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Pcarane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sekaka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:41.503139636Z",
+  "model": "glm-5.3"
+}

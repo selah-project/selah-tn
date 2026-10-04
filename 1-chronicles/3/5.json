@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme bona ba belegwa kwa Yerushalayime: Shimea, le Shobabe, le Natane, le Shelomoe — bane — ga morwadia⟨wa⟩ Shua, morwadia Amiyele.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "ba belegwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga gagwe⟩"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "le Shobabe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "le Natane"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "le Shelomoe"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "bane"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "ga morwadia"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiyele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:10.038264001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme ikgolologetse go Yahwe, mme o tla go neela dikopo tsa pelo ya gago.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "mme ikgolologetse"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme o tla go neela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go gago"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "dikopo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tsa pelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:02.552990272Z",
+  "model": "glm-5.3"
+}

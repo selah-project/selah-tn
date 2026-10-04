@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme a tlhatlosa letsogo la gagwe kgatlhanong le bone, go ba wa mo thokgaming,",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "a tlhatlosa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsogo la gagwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kgatlhanong le bone"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "go ba wa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mo thokgaming"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo thokgaming"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:06.169612011Z",
+  "model": "glm-5.3"
+}

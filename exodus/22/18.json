@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Yo mong le yo mong yo o robang le phologolo, o tlaa bolawa bolao.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yo mong le yo mong"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "o robang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bolao"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tlaa bolawa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:25.147765304Z",
+  "model": "glm-5.3"
+}

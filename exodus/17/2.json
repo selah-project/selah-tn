@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme setlhopha se ne sa leka go lwantsha le Moshe, mme sa re: Re neelang metsi gore re nwe. Mme Moshe a ba re: Ke eng lo leka go lwantsha le nna? Ke eng lo lekisa ⟨את⟩ Yahwe?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "sa leka go lwantsha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setlhopha se"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sa re"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Re neelang"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "gore re nwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ke eng"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "lo leka go lwantsha"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ke eng"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "lo lekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:01.616882793Z",
+  "model": "glm-5.3"
+}

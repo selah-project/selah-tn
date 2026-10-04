@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 28:3",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Motho o bea bokhutlo jwa lefifi, mme yena o batlisisa phethego ya dilo tsotlhe, leje la sephiri le lefifi la loso.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "bokhutlo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o bea"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "jwa lefifi"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le dilo tsotlhe"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "phethego"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "חוקר",
+      "gloss": "o batlisisa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "leje"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "la sephiri"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "le lefifi la loso"
+    }
+  ],
+  "timestamp": "2026-10-04T02:01:31.014715252Z",
+  "model": "glm-5.3"
+}

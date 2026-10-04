@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Go moeteledipele, go ya le di-Nejilot; pina ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteledipele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya le"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "di-Nejilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pina"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:36.525342811Z",
+  "model": "glm-5.3"
+}

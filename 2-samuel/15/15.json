@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 15:15",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme badiri ba kgosi ba re go kgosi: Go ya ka sengwe le sengwe se morena wa me, kgosi, o ka se tlhophang — bonang, badiri ba gago.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiri ba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "go ya ka sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "o ka se tlhophang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa me"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "badiri ba gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:09:58.824932242Z",
+  "model": "glm-5.3"
+}

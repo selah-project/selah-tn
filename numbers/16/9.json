@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 16:9",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "A go lekana thata go lona, gore Elohim wa Yisraele o go kgaogantse ⟨את⟩ lona go setshaba sa Yisraele, go lo gatisetsa kwa go ene, go dira ⟨את⟩ tirelo ya Mishkane ya Yahwe, le go ema fa pele ga setshaba go ba direla?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "a go lekana thata"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "o kgaogantse"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "מעדת",
+      "gloss": "go setshaba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisraele"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "go lo gatisetsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirelo"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tirelo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ya Mishkane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ולעמד",
+      "gloss": "le go ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לשרתם",
+      "gloss": "go ba direla"
+    }
+  ],
+  "timestamp": "2026-10-03T22:10:40.713610953Z",
+  "model": "glm-5.3"
+}

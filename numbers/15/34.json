@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme ba mo boloka mo go tsamaisiwa, gonne ga go a tlhalosiwa se se tlang go dirwa mo go ene.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "ba mo boloka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (eno)"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "mo go tsamaisiwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "a tlhalosiwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se tlang go dirwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T22:10:18.344943988Z",
+  "model": "glm-5.3"
+}

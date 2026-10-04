@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "gore ga ba a ka ba dumela Elohim, mme ga ba a ka ba tshegeditse kitso ya pholoso ya gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ba a ka ba dumela"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ba a ka ba tshegeditse"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "kitso ya pholoso ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:36.188394194Z",
+  "model": "glm-5.3"
+}

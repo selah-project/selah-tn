@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 76,
+  "translation": "Go moeteledipele, ka dithulo tsa mmino; moko wa ga Asafe; pina.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteledipele"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ka dithulo tsa mmino"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa ga Asafe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:47.862366037Z",
+  "model": "glm-5.3"
+}

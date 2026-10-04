@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mogwera wa gago le mogwera wa rraago, o se ka wa mo tlogela; mme o se ke wa tsena mo ntlong ya bo-ene ba gago mo letsatsing la leuba la gago; moagi yo o gaufi o molemo go feta bo-ene yo o kgakala.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "mogwera wa gago"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "le mogwera"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rraago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "wa tlogela"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mme ntlo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ya bo-ene ba gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wa tsena"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mo letsatsing"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "la leuba la gago"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "moagi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yo o gaufi"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "go feta bo-ene"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "yo o kgakala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:51:18.962977336Z",
+  "model": "glm-5.3"
+}

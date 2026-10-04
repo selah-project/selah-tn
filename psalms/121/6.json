@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 121,
+  "translation": "Motshegare letsatsi le ka go kgwesa, mme kgwedi bosigo.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "motshegare"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "le ka go kgwesa"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "mme kgwedi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosigo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:58.742493075Z",
+  "model": "glm-5.3"
+}

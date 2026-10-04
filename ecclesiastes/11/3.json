@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Fa maru a a tletseng, a khutla pula mo lefatsheng; fa setlhare se wa kwa borwa, kgotsa fa kwa bokone, kwa setlhare se welang teng, foo se tla nna.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "a a tletseng"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "a khutla"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "se wa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "setlhare"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "kwa borwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kgotsa fa"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "kwa bokone"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "se welang"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "setlhare"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "se tla nna"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:04.943053414Z",
+  "model": "glm-5.3"
+}

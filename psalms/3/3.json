@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ba bantsi ba bua ba re go moya wa me: Ga go sebolodiho sepe mo go Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ba bantsi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "go moya wa me"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go … sepe"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "sebolodiho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "mo go Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:07.253953829Z",
+  "model": "glm-5.3"
+}

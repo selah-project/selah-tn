@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Ke nna ba a ba gopotsang go bua Yahwe? A ke bone, ka ditlhong tsa difatlhego tsa bone?",
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "⟨את⟩ ke nna"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "gopotsang"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ke se…"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bone"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ditlhong"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "tsa difatlhego tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:10:40.235724469Z",
+  "model": "glm-5.3"
+}

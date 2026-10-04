@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme baprista le baporofeti le setshaba sotlhe ba utlwa ⟨את⟩ Yirimiyahu a bua ⟨את⟩ mafoko a mo ntlong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ba utlwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "le baporofeti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba sotlhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirimiyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirimiyahu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:17:36.560757566Z",
+  "model": "glm-5.3"
+}

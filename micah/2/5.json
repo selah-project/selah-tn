@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ka jalo ga go kitla go nna le motho yo o tlhaselang kotle ka letshwao mo phuthegong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ka jalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "motho yo o tlhaselang"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kotle"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ka letshwao"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mo phuthegong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:08.770715359Z",
+  "model": "glm-5.3"
+}

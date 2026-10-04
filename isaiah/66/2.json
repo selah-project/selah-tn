@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 66:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Mme seatla sa me se diretse ⟨את⟩ dilo tsotlhe tseno, mme dilo tsotlhe tseno di ne tsa nna, go bua Yahwe; mme go enwa ke a mo lebelela: go montshiwa, le yo o robegileng ka ruakh, yo o tshogang ka lefoko la me.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tsotlhe tseno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa me"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "se diretse"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme di ne tsa nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme go"
+    },
+    {
+      "surface": "זה",
+      "gloss": "enwa"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "ke a lebelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עני",
+      "gloss": "montshiwa"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "le yo o robegileng"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "le yo o tshogang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lefoko la me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:07:35.696678948Z",
+  "model": "glm-5.3"
+}

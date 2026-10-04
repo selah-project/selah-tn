@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "O se ka wa nyanya Moedome, gonne ke morwarrao; o se ka wa nyanya Motswa-Mitsrayime, gonne o ne o le moafu mo lefatsheng la gagwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "wa nyanya"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Moedome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "ke morwarrao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "wa nyanya"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Motswa-Mitsrayime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "גר",
+      "gloss": "moafu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o ne o le"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "mo lefatsheng la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:02.792918254Z",
+  "model": "glm-5.3"
+}

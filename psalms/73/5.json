@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Mo letlhohonolong jwa motho ga ba a nna teng, mme le batho ba bangwe ga ba kgabiswe.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "mo letlhohonolong"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "jwa motho"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ga ba a nna teng"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho ba bangwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ba kgabiswe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:46.624084076Z",
+  "model": "glm-5.3"
+}

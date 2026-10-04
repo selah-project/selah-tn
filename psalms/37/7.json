@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Didimala go Yahwe, mme o mo iteelele; o se ka wa tsekela ka ntlha ya yo o atlegang mo tseleng ya gagwe, kgotsa ka ntlha ya motho yo o dirang maano a bosula.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "didimala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "mme o mo iteelele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "tsekela"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "ka ntlha ya yo o atlegang"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "mo tseleng ya gagwe"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ka ntlha ya motho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "maano a bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:11.650676560Z",
+  "model": "glm-5.3"
+}

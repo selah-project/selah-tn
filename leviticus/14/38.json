@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme moporofeti a tswale kwa ntle ga ntlo, kwa sebilong sa ntlo, mme a tswalela ⟨את⟩ ntlo malatsi a supa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "mme a tswale kwa ntle"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moporofeti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sebilong sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "mme a tswalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:36.587089193Z",
+  "model": "glm-5.3"
+}

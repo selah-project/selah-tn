@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Nna ke ne ke re, ka phako ya me: motho mongwe le mongwe ke moasi wa maaka.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ka phako ya me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ke moasi wa maaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:53.954649063Z",
+  "model": "glm-5.3"
+}

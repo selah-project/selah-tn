@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Yahwe o ne a mo tlhagisa a le esi; mme ga go ⟨⟨modimo⟩⟩ wa selepe yo o neng a le le ene.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "a le esi"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "o ne a mo tlhagisa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yo o neng a le le ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨modimo⟩"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wa selepe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:33:16.685796551Z",
+  "model": "glm-5.3"
+}

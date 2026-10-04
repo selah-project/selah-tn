@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Binaleng ba Yahwe sefala se sesha, lefoko la go tlhomogisa ga gagwe le tswa mo mafelelong a lefatshe; ba ba welang mo lewatleng le se mo go sone, ditlhaketlhake le ba ba nnang mo go tsone.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Binaleng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sefala"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "se sesha"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lefoko la go tlhomogisa ga gagwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "le tswa mo mafelelong a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ba ba welang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mo lewatleng"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "le se mo go sone"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ditlhaketlhake"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "le ba ba nnang mo go tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:13:06.574742048Z",
+  "model": "glm-5.3"
+}

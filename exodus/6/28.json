@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme go ne go le ka letsatsi leo, fa Yahwe a bua le Moshe mo lefatsheng la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go le"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi leo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:40.237449476Z",
+  "model": "glm-5.3"
+}

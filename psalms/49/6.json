@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Ke tshaba ka ntlha yang ka malatsi a bosula, molato wa bofethefethe jwa me o ntlhakanela sentle?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ka ntlha yang"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "Ke tshaba"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ka malatsi a"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "עון",
+      "gloss": "molato"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "bofethefethe jwa me"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "o ntlhakanela sentle"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:03.381768533Z",
+  "model": "glm-5.3"
+}

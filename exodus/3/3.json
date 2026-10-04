@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Moshe a re: A ke fetohe jaanong, ke bone ⟨את⟩ ponelopele e kgolo e, gore ke eng setlhare sa moss se se sa fisang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "a ke fetohe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ponelopele"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ponelopele"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "gore ke eng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "se sa fisang"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "setlhare sa moss"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:31.781434805Z",
+  "model": "glm-5.3"
+}

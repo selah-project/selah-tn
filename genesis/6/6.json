@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Yahwe a gakololwa gore o ne a dira ⟨את⟩ motho mo lefatsheng, mme a tlhokomologiwa nokeng ya pelo ya gagwe.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "a gakololwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "a tlhokomologiwa nokeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:14.176567347Z",
+  "model": "glm-5.3"
+}

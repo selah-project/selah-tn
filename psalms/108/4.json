@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "Ke tla go leboga mo gare ga ditshaba, Yahwe, mme ke tla go opela mo gare ga mafatshe.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ke tla go leboga"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mo gare ga ditshaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "mme ke tla go opela"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mo gare ga mafatshe"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mafatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:52.085491148Z",
+  "model": "glm-5.3"
+}

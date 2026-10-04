@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Ka jalo ke a di gana, mme ke a sokola, mo leroleng le mo moloreng.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ke a di gana"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "mme ke a sokola"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "leroleng"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "le mo moloreng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:07:44.417864905Z",
+  "model": "glm-5.3"
+}

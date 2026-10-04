@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Ka fao ke tsewa ke wena, go batla sefathego sa gago, mme ke go bona.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כֵּ֭ן",
+      "gloss": "fao"
+    },
+    {
+      "surface": "יָצָ֣אתִי",
+      "gloss": "ke tsewa"
+    },
+    {
+      "surface": "לִקְרָאתֶ֑ךָ",
+      "gloss": "go ya go go tsena pele go wena"
+    },
+    {
+      "surface": "לְשַׁחֵ֥ר",
+      "gloss": "go batla ka boineelo"
+    },
+    {
+      "surface": "פָּנֶ֗יךָ",
+      "gloss": "sefathego sa gago"
+    },
+    {
+      "surface": "וָאֶמְצָאֶֽךָּ",
+      "gloss": "mme ke go bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:44:20.220838942Z",
+  "model": "glm-5.3"
+}

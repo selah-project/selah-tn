@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Le nna ke tla go lebo ka sebin sa ankelo, ka boitshepo jwa gago, Elohim wa me; ke tla go opela ka kinora, Wena yo o Boitshepo, Yisraele.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ke tla go lebo"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ka sebin sa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ankelo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ka boitshepo jwa gago"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla go opela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinora"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "yo o Boitshepo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:14.816904553Z",
+  "model": "glm-5.3"
+}

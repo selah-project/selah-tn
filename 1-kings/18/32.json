@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme a aga ka ⟨את⟩ maje altare ka leina la Yahwe, mme a dira sekgoreletsi kwa ntle ga altare, se se ka rwalang dipeo tsa mekapeto e le mene, mo go altare.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maje"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "maje"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "sekgoreletsi"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "se se ka rwalang"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "dikapo tsa mekapoto e le mene"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dipeo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kwa ntle ga"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mo go altare"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:51.999092246Z",
+  "model": "glm-5.3"
+}

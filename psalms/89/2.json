@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Hesede ya Yahwe ke ya leruri ke tla e opela; go mololwane go ya go mololwane ke tla itsise boikanyego jwa gago ka molomo wa me.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "leruri"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla e opela"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "go mololwane"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "go ya go mololwane"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ke tla itsise"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "boikanyego jwa gago"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ka molomo wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:52.427661570Z",
+  "model": "glm-5.3"
+}

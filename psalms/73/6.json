@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Ka foo bobego bo ba apara jaaka seetsele sa molala, kgoka e ba khurumetse jaaka seaparo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka foo"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "seetsele sa molala se ba apara"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "bobego"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "e ba khurumetse"
+    },
+    {
+      "surface": "שית",
+      "gloss": "jaaka seaparo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kgoka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:46.624384418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "le ⟨את⟩ Yeutse, le ⟨את⟩ Sakhia, le ⟨את⟩ Mirmaha. Bana ba gagwe ke bona, dihlogwana tsa maloko a malapa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yeutse"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeutse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Sakhia"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sakhia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mirmaha"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmaha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dihlogwana"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "maloko a malapa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:20.795297018Z",
+  "model": "glm-5.3"
+}

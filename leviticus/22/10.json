@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme mothagae mongwe le mongwe a se ke wa ja se se boitshepo; mmagae wa mopriste le mothiriwa wa gagwe ba se ke ba ja se se boitshepo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mme mongwe le mongwe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mothagae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wa ja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "se se boitshepo"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "mmagae"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wa mopriste"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "le mothiriwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "se se boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:05.907723347Z",
+  "model": "glm-5.3"
+}

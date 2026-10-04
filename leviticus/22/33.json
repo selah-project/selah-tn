@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Yo o ntshitseng ⟨את⟩ lone mo lefatsheng la Mitsrayime, go nna Elohim wa lona; me ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Yo o ntshitseng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lone",
+      "marks": "lone (jaaka 直接 selo sa tiro)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wa lona"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:10.536075718Z",
+  "model": "glm-5.3"
+}

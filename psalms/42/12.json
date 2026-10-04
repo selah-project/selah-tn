@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Ka ntlha ya eng o tlhabilwe, moya wa me, mme o lla ka ntlha ya eng mo go nna? Tshepa go Elohim, gonne ke tlaa mo lebola gape: kgololoso ya sefathego sa me, le Elohim wa me.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ka ntlha ya eng"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "o tlhabilwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mme ka ntlha ya eng"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "o lla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "tshepa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ke tlaa mo lebola"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kgololoso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya sefathego sa me"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "le Elohim wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:24.135255676Z",
+  "model": "glm-5.3"
+}

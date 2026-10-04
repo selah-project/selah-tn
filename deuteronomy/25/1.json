@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Fa go nna kganetsano magareng ga batho, mme ba tsena kwa katlholong, mme ba a atlhola, mme ba tshwara ⟨את⟩ yo o lokileng a siame, mme ba otlhaya ⟨את⟩ yo o bosula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kganetsano"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "mme ba tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "katlholong"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "mme ba a atlhola"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "mme ba tshwara a siame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo o lokileng"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "yo o lokileng"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "mme ba otlhaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo o bosula"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "yo o bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T03:06:24.759896148Z",
+  "model": "glm-5.3"
+}

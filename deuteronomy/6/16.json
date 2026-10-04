@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Se lekeng ⟨את⟩ Yahwe Elohim ya lona, jaaka lo ne lo mo lekile kwa Masae.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "lekeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "lo ne lo mo lekile"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "kwa Masae"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:40.362709312Z",
+  "model": "glm-5.3"
+}

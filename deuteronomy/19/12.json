@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme bagolo ba kgaolo ya gagwe ba tlaa romela, mme ba mo tla go tswa foo, mme ba mo neela mo seatleng sa molatedi wa madi, mme a swa;",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ba tlaa romela"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ba kgaolo ya gagwe"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "mme ba mo tla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "gagwe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "go tswa foo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba mo neela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "gagwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "sa molatedi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wa madi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mme a swa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:49.660623438Z",
+  "model": "glm-5.3"
+}

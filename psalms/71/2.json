@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Ka tsedeke ya gago o ntlhalose mme o ntshololetse; gota sehlelele sa gago go nna, mme o nolole.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedeke ya gago"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "o ntlhalose"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "o ntshololetse"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "gota"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sehlelele sa gago"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "o nolole"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:32.023282354Z",
+  "model": "glm-5.3"
+}

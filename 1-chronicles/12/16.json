@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Ba ke bone ba neng ba feta ⟨את⟩ Yoredene kwa kgweding ya ntlha, fa e ne e tlala mo mekgomapo ya yone yotlhe; mme ba ne ba tshabisa ⟨את⟩ baagi botlhe ba mafika, kwa botlhabatsatsi le kwa bophirima.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kgweding"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya ntlha"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "fa e"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "e ne e tlala"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "mekgomapo ya yone"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "mme ba ne ba tshabisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baagi botlhe ba mafika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "baagi ba mafika"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "kwa botlhabatsatsi"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "le kwa bophirima"
+    }
+  ],
+  "timestamp": "2026-10-04T02:40:40.815327645Z",
+  "model": "glm-5.3"
+}

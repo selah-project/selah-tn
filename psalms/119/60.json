@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ka Makgakga mme ga ke a diega go boloke melao ya gago.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "ka makgakga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga ke a"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "diega"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "go boloke"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "melao ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:23.305067952Z",
+  "model": "glm-5.3"
+}

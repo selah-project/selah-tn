@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Hatashe a tsena kwa Mordekayi, kwa boalong jwa toropo, bo bo neng bo le fa pele ga kgoro ya kgosi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatashe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "boalong"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:17:12.959708779Z",
+  "model": "glm-5.3"
+}

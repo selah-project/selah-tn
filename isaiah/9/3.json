@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ka gonne ⟨את⟩ maitego a bothata jwa gagwe, le ⟨את⟩ mosola wa sejana sa gagwe, mosola wa moganodi yo o neng a mo ganotsa — o wa wa thuba jaaka letsatsi la Midiane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gonne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maitego"
+    },
+    {
+      "surface": "על",
+      "gloss": "maitego"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "a bothata jwa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mosola"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mosola"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "wa sejana sa gagwe"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mosola"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "wa moganodi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "o wa wa thuba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jaaka letsatsi la"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiane"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:46.731578727Z",
+  "model": "glm-5.3"
+}

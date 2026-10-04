@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Opelang botoka ba leina la gagwe; beyang botoka mo nakong ya gagwe.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "opelang"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "botoka"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "beyang"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "botoka"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "nakong ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:04.863270666Z",
+  "model": "glm-5.3"
+}

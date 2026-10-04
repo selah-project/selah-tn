@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Gore o ne a gopola ⟨את⟩ lefoko la gagwe la boitshepo, ⟨את⟩ Abrahame modiri wa gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "o ne a gopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko la gagwe la boitshepo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la gagwe la boitshepo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "modiri wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:20.654986806Z",
+  "model": "glm-5.3"
+}

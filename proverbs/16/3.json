@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Rolla go Yahwe ditiro tsa gago, mme dikakanyo tsa gago di tla tlhoma.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Rolla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ditiro tsa gago"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "mme ... di tla tlhoma"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "dikakanyo tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:47:12.397737415Z",
+  "model": "glm-5.3"
+}

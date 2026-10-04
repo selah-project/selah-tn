@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Ke ne ke didimetse, ke didimetse ka didimetso; ke ile ka didimetse le se se siameng, mme kutlobotlhoko ya me e ne ya gabiwa.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ke ne ke didimetse"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ka didimetso"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ke ile ka didimetse"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "le se se siameng"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "mme kutlobotlhoko ya me"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "e ne ya gabiwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:15.060412299Z",
+  "model": "glm-5.3"
+}

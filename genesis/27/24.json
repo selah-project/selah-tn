@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme a re: A wena ke morwa ka Esawe? Mme o a re: Ke nna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "A wena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa ka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o a re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ke nna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:49.464658152Z",
+  "model": "glm-5.3"
+}

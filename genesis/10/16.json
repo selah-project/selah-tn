@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "le ⟨את⟩ bayebose, le ⟨את⟩ baemore, le ⟨את⟩ bagirgashe;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bayebose"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "bayebose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "baemore"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "baemore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bagirgashe"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "bagirgashe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:01.507583679Z",
+  "model": "glm-5.3"
+}

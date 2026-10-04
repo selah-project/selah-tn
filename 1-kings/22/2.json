@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme go nna mo ngwageng wa boraro, Yehoshafate kgosi ya Juda a ya tlase kwa go kgosi ya Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go nna"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mo ngwageng"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "wa boraro"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a ya tlase"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafate"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:10:42.397343332Z",
+  "model": "glm-5.3"
+}

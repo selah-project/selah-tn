@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Yahwe o utlile kopo ya me; Yahwe o tla amohela thapelo ya me.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "o utlile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "kopo ya me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tla amohela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:53.679498810Z",
+  "model": "glm-5.3"
+}

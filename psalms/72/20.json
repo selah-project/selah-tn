@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Dithapelo tsa Dawide, morwa wa Yishaye, di wedileng.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "di wedileng"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "Dithapelo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "tsa Dawide"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "wa Yishaye"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:52.134146059Z",
+  "model": "glm-5.3"
+}

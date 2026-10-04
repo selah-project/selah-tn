@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ba ba balwang go tswa mo setshabeng sa Shimeone e ne e le dikete di le masome a matlhano le borobabongwe, le makgolo a mararo.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ba ba balwang"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "mo setshabeng sa"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeone"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "borobabongwe"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masome a matlhano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "le mararo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:23.335419477Z",
+  "model": "glm-5.3"
+}

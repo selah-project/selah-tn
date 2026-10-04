@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ka itlhagela ga Abrahame, ga Yitshake le ga Yaakobo jaaka El Shadai; mme ka leina la me la Yahwe ga ke a ka ka ba itsise.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ka itlhagela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "באל",
+      "gloss": "jaaka El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "mme leina la me la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "ke a ka ka itsise"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:48.937175709Z",
+  "model": "glm-5.3"
+}

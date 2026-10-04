@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "O dira dinoka di nne dithota, le metswedi ya metsi e nne lefatshe le le thokwang metsi.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "O dira"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "di nne dithota"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "le metswedi ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "e nne lefatshe le le thokwang metsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:31.226348882Z",
+  "model": "glm-5.3"
+}

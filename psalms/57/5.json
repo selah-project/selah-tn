@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "Moya wa me o mo gare ga ditau; ke a robala mo gare ga ba ba tukang, bana ba batho, ga bona meno e le ditlhobolo le diphofolo, mme lone lwa bone lentswe la tshaka e e boleng.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "ditau"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ke a robala"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "ba ba tukang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "meno"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ditlhobolo"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "diphofolo"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "lentswe la bone"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "e e boleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:09.350751668Z",
+  "model": "glm-5.3"
+}

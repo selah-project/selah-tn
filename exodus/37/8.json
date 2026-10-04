@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Kerube o le mongwe kwa phuthelong e e mo lelakoreng le le lengwe, mme kerube o le mongwe kwa phuthelong e e mo lelakoreng le lengwe; go tswa mo sefalelong a dirile ⟨את⟩ bakerube kwa diphuthelweng tsa sona tse pedi.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Kerube"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o le mongwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kwa phuthelong"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "e e mo lelakoreng le le lengwe"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "mme kerube"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o le mongwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kwa phuthelong"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "e e mo lelakoreng le le lengwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sefalelong"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakerube"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "bakerube"
+    },
+    {
+      "surface": "משני",
+      "gloss": "kwa tsa sona tse pedi"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "diphuthelweng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:46.627008403Z",
+  "model": "glm-5.3"
+}

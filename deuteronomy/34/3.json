@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "le ⟨את⟩ Negebe, le ⟨את⟩ sediba sa molel wa Yerike, toropo ya ditekere, go fitlha kwa Tsoare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Negebe"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sediba"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "sediba"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "molel"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerike"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "ditekere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha kwa"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoare"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:21.463735112Z",
+  "model": "glm-5.3"
+}

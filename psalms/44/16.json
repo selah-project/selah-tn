@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Letsatsi lotlhe tlhaole ya me e le fa pele ga me, mme tlhotlheletso ya sefatlhego sa me e ntsitse nna.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Letsatsi"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "tlhaole ya me"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "fa pele ga me"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "mme tlhotlheletso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya sefatlhego sa me"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "e ntsitse nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:36.136746989Z",
+  "model": "glm-5.3"
+}

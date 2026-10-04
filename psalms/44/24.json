@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Tsohwa! Ke ka eng o robala, Adonai? Tsohola! O se ka wa re latlhela ka bosikhutshwane.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Tsohwa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ke ka eng"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "o robala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Tsohola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "O se ka wa"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "re latlhela"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka bosikhutshwane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:33.291996629Z",
+  "model": "glm-5.3"
+}

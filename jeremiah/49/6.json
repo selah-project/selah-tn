@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Mme morago ga moo ke tla busetsa ⟨את⟩ botsolong jwa bana ba Amon, go bua Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Mme morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ke tla busetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botsolong jwa bana ba Amon"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "botsolong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:28:35.104244040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Gore se ka nna moganetsi wa me a re: Nka mo fenya; mme ba ba ntlhabelang ba itumele fa ke a thubega.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "gore se ka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "moganetsi wa me"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "nka mo fenya"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ba ba ntlhabelang"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ba itumele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ke a thubega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:01.056169449Z",
+  "model": "glm-5.3"
+}

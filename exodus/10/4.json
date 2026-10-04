@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Gonne fa o gana go ntsha ⟨את⟩ batho ba me, bonwe, ke isa hosane motlhasowa mo melelwaneng ya gago.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "o gana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "go ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho ba me"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "batho ba me"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ke isa"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "hosane"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "motlhasowa"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "mo melelwaneng ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:19.916982416Z",
+  "model": "glm-5.3"
+}

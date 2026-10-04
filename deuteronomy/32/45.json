@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Moshe a fetsa go bua ⟨את⟩ mafoko otlhe a go Yisraele yotlhe,",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "a fetsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko otlhe a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:33:48.012653468Z",
+  "model": "glm-5.3"
+}

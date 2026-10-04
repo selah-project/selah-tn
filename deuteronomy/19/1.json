@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Fa Yahwe Elohim ya gago a sega ⟨את⟩ ditshaba tseo Yahwe Elohim ya gago a di go neelang, ⟨את⟩ lefatshe la tsone, o di rua, o nna mo ditoropong tsa tsone le mo malapeng a tsone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "a sega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshaba"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a di go neelang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la tsone"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lefatshe la tsone"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "o di rua"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "o nna"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "mo ditoropong tsa tsone"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "le mo malapeng a tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:53.576599852Z",
+  "model": "glm-5.3"
+}

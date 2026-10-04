@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme a emisa setshaba ⟨את⟩ sotlhe, mongwe le mongwe a na le sebetsa sa gagwe mo seatleng sa gagwe, go tswa kwa letlhakoreng la moja la ntlo go ya kwa letlhakoreng la molema, kwa altareng le kwa ntlong, go dikologa kgosi.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sebetsa sa gagwe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "go tswa kwa letlhakoreng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la ntlo"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "la moja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "letlhakoreng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la ntlo"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "la molema"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "kwa altareng"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "le kwa ntlong"
+    },
+    {
+      "surface": "על",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:53:18.730295899Z",
+  "model": "glm-5.3"
+}

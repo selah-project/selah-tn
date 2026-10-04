@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Fa sepego se fitlha kwa Mitsrayime, ba tlhabiwa ke maikutlo, jaaka ba tlhabilwe ke maikutlo ka sepego sa Tsore.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sepego"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ba tlhabiwa ke maikutlo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "jaaka sepego sa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsore"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:47.195012071Z",
+  "model": "glm-5.3"
+}

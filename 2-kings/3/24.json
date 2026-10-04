@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ba tsena kwa setse sa sesole sa Yisraele, mme Yisraele a tlhaga, ba tlhaba ⟨את⟩ Moabe, mme Moabe a tshabela mo go bone; mme ba tsena mo go bone, ba tlhaba ⟨את⟩ Moabe.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Mme ba tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "setse sa sesole"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "a tlhaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba tlhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "a tshabela"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "ba tlhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:33:15.219220914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "A thaba Ntlose ya Tsiyone, a ikgantsha bana ba basadi ba Yudha, ka ntlha ya dikatlholo tsa gago.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "a thaba"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Ntlose"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "a ikgantsha"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana ba basadi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yudha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikatlholo tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:56.481719856Z",
+  "model": "glm-5.3"
+}

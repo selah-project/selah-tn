@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme lo se ka wa tlhotlhora mongwe le mongwe ⟨את⟩ moagelani wa gagwe; mme o tshabe Elohim wa gago, gonne ke Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme lo se ka wa"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "tlhotlhora"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moagelani wa gagwe"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "moagelani wa gagwe"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "mme o tshabe"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:35.835403620Z",
+  "model": "glm-5.3"
+}

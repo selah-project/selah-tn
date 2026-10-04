@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Elohim o ne a dira ⟨את⟩ phologolo ya lefatshe go ya ka mohuta wa yone, le ⟨את⟩ leruo go ya ka mohuta wa lone, le ⟨את⟩ diphologolo tsotlhe tse di namagang mo mmung go ya ka mohuta wa tsone; mme Elohim a bona gore e siame.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o ne a dira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phologolo ya lefatshe"
+    },
+    {
+      "surface": "חית",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "go ya ka mohuta wa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "leruo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "leruo"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "go ya ka mohuta wa lone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diphologolo tsotlhe tse di namagang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "diphologolo tse di namagang"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mo mmung"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "go ya ka mohuta wa tsone"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e siame"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:57.325888938Z",
+  "model": "glm-5.3"
+}

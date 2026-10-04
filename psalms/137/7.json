@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 137,
+  "translation": "Gopola, Yahwe, kgatlhanong le bana ba Edome letsha la ⟨את⟩ letsha la Yerushalayime, ba ba neng ba re: Senya, senya, go fitlha mo motheong wa yone!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gopola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kgatlhanong le bana ba"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsha la Yerushalayime"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsha la"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ba ba neng ba re"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Senya"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "senya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "mo motheong"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wa yone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:20.001968113Z",
+  "model": "glm-5.3"
+}

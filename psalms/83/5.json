@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "Ba re: Tlang, mme re ba je go bo setshaba, mme leina la Yisraele le se ka la gopotswa gape.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ba re"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "mme re ba je"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "go bo setshaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le se ke la"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "gopotswa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:08.678226046Z",
+  "model": "glm-5.3"
+}

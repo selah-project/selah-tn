@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "deuteronomy 28:64",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Yahwe o tla go phatlalatsa mo setshabeng sotlhe, go tloga kgakala ya lefatshe go fitlha kgakala ya lefatshe; o tla direla modimo ba bangwe ba o sa ba itseng wena le bokgokgontshi ba gago — sekgowa le leje.",
+  "tokens": [
+    {
+      "surface": "והפיצך",
+      "gloss": "o tla go phatlalatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo setshabeng sotlhe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "setshabeng sotlhe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "go tloga kgakala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kgakala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "o tla direla"
+    },
+    {
+      "surface": "שם",
+      "gloss": "fela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "modimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ba bangwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o a ba itseng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "le bokgokgontshi ba gago"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sekgowa"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "le leje"
+    }
+  ],
+  "timestamp": "2026-10-03T22:32:34.245139013Z",
+  "model": "glm-5.3"
+}

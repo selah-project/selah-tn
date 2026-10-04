@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme a ba re go tsena: Ke a bona ⟨את⟩ sefathego sa ra lona, gore ga se sa nna se le kwa go nna jaaka maabane le maloba; mme Elohim wa rre o ne a le le nna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "להן",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefathego sa ra lona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ra lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ga se sa nna se le"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "jaaka maabane"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "le maloba"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "mme Elohim wa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rre"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ne a le"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:24:14.999679458Z",
+  "model": "glm-5.3"
+}

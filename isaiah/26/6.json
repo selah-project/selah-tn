@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Lonao lo tla e tlhola — dinao tsa ba ba humanegileng, dikgato tsa ba ba tlhokang.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "lo tla e tlhola"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lonao"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "dinao tsa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ba ba humanegileng"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "dikgato tsa"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ba ba tlhokang"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:09.561330264Z",
+  "model": "glm-5.3"
+}

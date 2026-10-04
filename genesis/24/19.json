@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Fa a sena go mo nyesetsa, a re: Gape go dikamela tsa gago ke tla khaba, go fitlha di feditse go nwa.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "a feditse"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "go mo nyesetsa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "go dikamela tsa gago"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "ke tla khaba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כלו",
+      "gloss": "di feditse"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "go nwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:13.435695258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ao, o wela botlhoko, naga, fa kgosi ya gago e le ngwana, mme didirui tsa gago ba ja ka moso.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o wela botlhoko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "naga"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "kgosi ya gago"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "mme didirui tsa gago"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba ja"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:07.129141658Z",
+  "model": "glm-5.3"
+}

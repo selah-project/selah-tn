@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Ba babelwe ba babelwe ba ne ba tsena go ya go Noke, go ya kokonganeng, tonna le tsala, jaaka Elohim a ne a laetse ⟨את⟩ Noke.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ba babelwe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ba babelwe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba ne ba tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kokonganeng"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tonna"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "le tsala"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a ne a laetse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noke"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noke"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:41.575593655Z",
+  "model": "glm-5.3"
+}

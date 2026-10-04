@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Kaela ⟨את⟩ bana ba Yisraele, mme ba go ise mafoko a tlhago: ba go ise ole ya phefo e e phepa, e e nositsweng, ya go nonotsha lesedi, go dira fermentation ya lormente e e sa feleng —",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Kaela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ba go ise"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mokuru"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ya olife"
+    },
+    {
+      "surface": "זך",
+      "gloss": "e e phepa"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "e e nositsweng"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ya go nonotsha lesedi"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "go tlhatswa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lesedi la lampa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka go sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:48.074899492Z",
+  "model": "glm-5.3"
+}

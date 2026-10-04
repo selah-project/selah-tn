@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme e le maina a bana ba Yisraele ba ba neng ba tsena kwa Mitsrayime, le ⟨את⟩ Yaakobo — mongwe le mongwe le ntlo ya gagwe ba ne ba tsena.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme e le"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ba ba neng ba tsena"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "le ntlo ya gagwe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba ne ba tsena"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:16.897537633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Le se a se dirileng go lona kwa sekakeng, fitlha lo fitlhela kwa lefelong le.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "le se a se dirileng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se dirileng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa sekakeng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fitlha"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "lo fitlhela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:24.199566364Z",
+  "model": "glm-5.3"
+}

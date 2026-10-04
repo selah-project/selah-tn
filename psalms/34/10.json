@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Ikatse ⟨את⟩ Yahwe, lona ba boitshepo ba Gagwe; gonne go siile fela go ba ba mo ikatsang.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Ikatse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ba boitshepo ba Gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go siile"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "se se tlhokang"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "go ba ba mo ikatsang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:52.286479416Z",
+  "model": "glm-5.3"
+}

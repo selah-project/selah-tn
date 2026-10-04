@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 28:14",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Wena kerube yo o phimotsweng, yo o sireletsang; mme Ya go bewa mo thabeng e e boitshepo ya Elohim; o ne o le gareng ga maje a molelo, o nnile o tsamaya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "ממשח",
+      "gloss": "yo o phimotsweng"
+    },
+    {
+      "surface": "הסוכך",
+      "gloss": "yo o sireletsang"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "Ya go bewa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mo thabeng"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e e boitshepo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o ne o le"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gareng ga"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maje"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a molelo"
+    },
+    {
+      "surface": "התהלכת",
+      "gloss": "o nnile o tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-04T00:43:54.839453751Z",
+  "model": "glm-5.3"
+}

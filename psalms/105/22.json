@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Go tshwara balaodi ba gagwe ka botlhale jwa gagwe, mme ba bagolwane ba gagwe a ba dira ba nang le botlhale.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "go tshwara"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "balaodi ba gagwe"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ka botlhale jwa gagwe"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "ba bagolwane ba gagwe"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "a ba dira ba nang le botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:20.429292497Z",
+  "model": "glm-5.3"
+}

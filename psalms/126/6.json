@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 126,
+  "translation": "O tsamaya a ya a lela, a rwala ⟨את⟩ peo; o tla boa a tsena ka rineng, a rwala diboko tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "o tsamaya"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "a lela"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a rwala"
+    },
+    {
+      "surface": "משך",
+      "gloss": "peo"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "⟨את⟩ peo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tla boa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ka rineng"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a rwala"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "diboko tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:08.786280242Z",
+  "model": "glm-5.3"
+}

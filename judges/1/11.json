@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ya ya gone foo kwa baaging ba Debire; mme leina la Debire kwa tshimologong e ne e le Kiryate-Sefer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mme ya ya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gone foo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "baaging ba"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme leina la"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kwa tshimologong"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryate-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-10-03T22:43:56.109743635Z",
+  "model": "glm-5.3"
+}

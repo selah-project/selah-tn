@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 33:5",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Ba tsena go lwa le ⟨את⟩ BaKashde, le go adata ⟨את⟩ dibopo tsa batho ba ke betileng ka bogale jwa me le ka tshedimo jwa me; mme ba ke fitlileng sefathego sa me go tswa mo toropong e, ka ntlha ya bosula jotlhe jwa bone.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "Ba tsena"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "BaKashde"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "BaKashde"
+    },
+    {
+      "surface": "ולמלאם",
+      "gloss": "le go adata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibopo tsa batho"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "dibopo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tsa batho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ke betileng"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "ke betileng"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ka bogale jwa me"
+    },
+    {
+      "surface": "ובחמתי",
+      "gloss": "le ka tshedimo jwa me"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mme ba ke fitlileng"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ke fitlileng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa me"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "go tswa mo toropong"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "bosula jwa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:21:28.256902140Z",
+  "model": "glm-5.3"
+}

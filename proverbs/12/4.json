@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mosadi yo o nonofileng ke seipone sa monna wa gagwe; mme yo a bakang swalegile ke jaaka sebole mo marapong a gagwe.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "yo o nonofileng"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "seipone"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "sa monna wa gagwe"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "mme ... jaaka sebole"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "mo marapong a gagwe"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "yo a bakang swalegile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:46:23.654460942Z",
+  "model": "glm-5.3"
+}

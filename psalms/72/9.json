@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Fa pele ga gagwe baagi ba sekaka ba tla go beteka, mme ba ba mo tlhoyang lerole ba tla le loba.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "fa pele ga gagwe"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ba tla go beteka"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "baagi ba sekaka"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "mme ba ba mo tlhoyang"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "ba tla le loba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:24.458383058Z",
+  "model": "glm-5.3"
+}

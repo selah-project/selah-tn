@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Mme go nna jalo ka letsatsi la bobedi, fa go bolawa ⟨את⟩ Gedalyahu, mme motho a sa itse sepe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go nna jalo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "fa go bolawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "itse"
+    }
+  ],
+  "timestamp": "2026-10-04T00:24:47.985595438Z",
+  "model": "glm-5.3"
+}

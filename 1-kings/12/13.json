@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme kgosi ya araba ⟨את⟩ setshaba ka bokgogwane, mme ya tlogela ⟨את⟩ kgakololo ya bagodi e ba neng ba mo e kgakolola.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ya araba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ka bokgogwane"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "mme ya tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgakololo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "kgakololo ya"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bagodi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ba neng ba mo e kgakolola"
+    }
+  ],
+  "timestamp": "2026-10-03T23:27:04.185042993Z",
+  "model": "glm-5.3"
+}

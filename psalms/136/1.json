@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Lebogang Yahwe, gore ⟨o⟩ molemo, gore hesede ya gagwe e nna go ya le bosikhutshweng.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Lebogang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le bosikhutshweng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:29.960908813Z",
+  "model": "glm-5.3"
+}

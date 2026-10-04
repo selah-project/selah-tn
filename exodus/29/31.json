@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o tla tsaya ⟨את⟩ nku ya tlhatlhobo, o bo o apea ⟨את⟩ nama ya yone lefelong le le boitshepo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme o tla tsaya ⟨את⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "nku"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ya tlhatlhobo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "o tla tsaya"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "o bo o apea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama ya yone"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya yone"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "le le boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:10.223351140Z",
+  "model": "glm-5.3"
+}

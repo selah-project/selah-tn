@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Lesedi le nyorogiwa mo diponong tsa yo o ikhutseng; le siametswe ba lenyatlo le ⟨thubang⟩.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "lesedi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "go nyorogiwa"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "mo diponong tsa"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "yo o ikhutseng"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "le siametswe"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "ba lenyatlo la"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lenyatlo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:22:16.603059662Z",
+  "model": "glm-5.3"
+}

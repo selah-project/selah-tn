@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Moabe ke sekgowa sa go tlhapela sa me; mo godimo ga Edome ke tla kgwathola seetsele sa me; mo go nna, Pelesete, guma.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "sekgowa"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "sa go tlhapela sa me"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ke tla kgwathola"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "seetsele sa me"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesete"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "guma"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:51.269207840Z",
+  "model": "glm-5.3"
+}

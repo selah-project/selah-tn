@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Sengwe le sengwe se letlhako la gago le ka se bonang go se dira, se dire ka matla a gago otlhe; gonne ga go na tiro, le pheto, le kitso, le botlhale mo Sheoleng, kwa o yang teng.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "le ka bona"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letlhako la gago"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go se dira"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "ka matla a gago"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "se dire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "le pheto"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "le kitso"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "le botlhale"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "mo Sheoleng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "teng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:07.909503610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Ka gonne o iketleetse go nna, ke tlaa mo golola; ke tlaa mo godisa, ka gonne o itse leina la me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "בי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "o iketleetse"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "ke tlaa mo golola"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ke tlaa mo godisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "leina la me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:00.465692914Z",
+  "model": "glm-5.3"
+}

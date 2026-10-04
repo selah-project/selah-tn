@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme jaanong ntlholetse fela, gore bogale jwa me bo thuke mo go bone, ke ba senye, mme ke go dira ⟨את⟩ wena gore o nne setshaba se segolo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jaanong"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "ntlholetse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "gore bogale bo thuke"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "jwa me"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "ke ba senye"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mme ke go dira"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "gore o nne setshaba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "se segolo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:09.171605153Z",
+  "model": "glm-5.3"
+}

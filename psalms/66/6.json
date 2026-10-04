@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "O fetola lewatle go nna lefatshe le le omileng; ba sepela ka dinao mo nokeng; ga re nna re itumelela mo go ene.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "O fetola"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "go nna lefatshe le le omileng"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "mo nokeng"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ba sepela"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ka dinao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "re nna re itumelela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:35.931798185Z",
+  "model": "glm-5.3"
+}

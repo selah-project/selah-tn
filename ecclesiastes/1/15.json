@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Se se makgwakgwa ga se ka ke ka siamisiwa; mme se se tlhaolang ga se ka ke ka balwa.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "se se makgwakgwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "se ka ke ka"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "siamisiwa"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "mme se se tlhaolang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "se ka ke ka"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "balwa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:01.950887713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme nna ke ne ke ntshitse lona mo lefatsheng la Mitsrayime, mme ka tsamaisa lona mo sekakeng dingwaga di le masome a mane, go gapa ⟨את⟩ lefatshe la Emori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ke ntshitse lona"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "mme ka tsamaisa lona"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo sekakeng"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "masome a mane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "go gapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "la Emori"
+    }
+  ],
+  "timestamp": "2026-10-04T00:56:46.356119567Z",
+  "model": "glm-5.3"
+}

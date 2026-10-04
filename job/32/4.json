@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Elihu o ne a emetse ⟨את⟩ Iyobo ka mafoko, ka gore bone ba ne ba le bagolo go feta ene ka malatsi.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "o ne a emetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobo"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobo"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ka mafoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gore"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go feta ene"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ka malatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:02:51.692833633Z",
+  "model": "glm-5.3"
+}

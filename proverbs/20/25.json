@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Ke motlhaselo go motho go bua ka tshoganyetso: e boitshepo, mme morago ga ditshepo go di batlisisa.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "motlhaselo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "go bua ka tshoganyetso"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e boitshepo"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme morago"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "ga ditshepo"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "go di batlisisa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:22:32.648050823Z",
+  "model": "glm-5.3"
+}

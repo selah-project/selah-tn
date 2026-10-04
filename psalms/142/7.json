@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 142,
+  "translation": "Kwetlha ditsebe go lla la me, gonne ke ne ke tlhokotse thata; ntkgonotse mo go ba ba ntlolang morago, gonne ba na le nonofo go feta nna.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Kwetlha ditsebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "lla la me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ke ne ke tlhokotse"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ntkgonotse"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "mo go ba ba ntlolang morago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ba na le nonofo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go feta nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:20.864622852Z",
+  "model": "glm-5.3"
+}

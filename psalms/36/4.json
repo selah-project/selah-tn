@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mafoko a molomo wa gagwe ke boitlosang le boferefere; o kgaotsa go nna le tlhaloganyo, go dira botoka.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mafoko"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "a molomo wa gagwe"
+    },
+    {
+      "surface": "און",
+      "gloss": "boitlosang"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "le boferefere"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "o kgaotsa"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "go nna le tlhaloganyo"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "go dira botoka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:38.748753039Z",
+  "model": "glm-5.3"
+}

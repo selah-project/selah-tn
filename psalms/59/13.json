@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Phoso ya molomo wa bona, le lefoko la ditoro tsa bona — a ba tsewe ka go ikakanya ga bona, mme a nne ka maledi le maaka a ba a bolelang.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "phoso"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ya molomo wa bona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "la ditoro tsa bona"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "a ba tsewe"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "ka go ikakanya ga bona"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "mme maledi"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "le maaka"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "a ba a bolelang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:58.999400404Z",
+  "model": "glm-5.3"
+}

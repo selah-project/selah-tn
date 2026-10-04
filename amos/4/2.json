@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Adonai Yahwe o ikana ka boitshepo jwa gagwe: bona, malatsi a tla go lona, mme a tla go tsaya ⟨אתכם⟩ ka dintsha, le bosupi jwa lona ka dihooka tsa tlhapi.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "o ikana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ka boitshepo jwa gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mme a tla go tsaya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "ka dintsha"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "le bosupi jwa lona"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "ka dihooka"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "tsa tlhapi"
+    }
+  ],
+  "timestamp": "2026-10-04T00:58:25.572366991Z",
+  "model": "glm-5.3"
+}

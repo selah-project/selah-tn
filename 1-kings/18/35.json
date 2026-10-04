@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme metsi a iketla a dikologa altarara, mme o ne a tlatsa le ⟨את⟩ mochinana wa metsi ka metsi.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "a iketla"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a dikologa"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altarara"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mochinana wa metsi"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "mochinana wa metsi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a tlatsa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ka metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:43.289534989Z",
+  "model": "glm-5.3"
+}

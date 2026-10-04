@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme bana ba Yisraele ba ntsha ⟨את⟩ diaparo tsa bona tsa bontle kwa Thabeng ya Khorebe.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ba ntsha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa bona tsa bontle"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "diaparo tsa bona tsa bontle"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kwa Thabeng ya"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Khorebe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:13.512282208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme wa lotlha ⟨את⟩ altare ya dikabelo tse di fisang le ⟨את⟩ didiriswa tsa yone tsotlhe, mme wa itsepisa ⟨את⟩ altare; mme altare e tlaa nna boitshepo jo bogolo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "wa lotlha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare ya dikabelo tse di fisang"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya dikabelo tse di fisang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "didiriswa tsa yone tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tsa yone"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "wa itsepisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tlaa nna"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "jo bogolo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:06.086034267Z",
+  "model": "glm-5.3"
+}

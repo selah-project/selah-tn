@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme o bitse Yishayi kwa sehlabelong, mme nna ke tla go itsise se o tlang go se dira; mme o tlhotle mo nna ⟨את⟩ yo ke moka go wena.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "o bitse"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishayi"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "kwa sehlabelong"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ke tla go itsise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tlang go se dira"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mme o tlhotle"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ke moka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T03:08:36.297025582Z",
+  "model": "glm-5.3"
+}

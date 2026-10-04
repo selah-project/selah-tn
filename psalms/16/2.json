@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Ke ne ke rialo go Yahwe: Adonai, wena ⟨ke wena⟩; gone tiro ya me e e siamang ga e ipolele ⟨ka⟩ wena.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ke ne ke rialo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "tiro ya me e e siamang"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:13.636917717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Ke tla dira mo go wena se ke se sa kileng ka se dira, le ⟨את⟩ se ke sa kitla ke se dira se se tshwanang le sone gape, ka ntlha ya ditlhapa tsotlhe tsa gago.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa kileng"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ka se dira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa kitla"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke se dire"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "se se tshwanang le sone"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "ditlhapa tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:33:33.184462308Z",
+  "model": "glm-5.3"
+}

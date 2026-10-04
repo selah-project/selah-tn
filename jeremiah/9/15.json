@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 9:15",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ke ba phatlalatsa mo ditshabeng tse ba neng ba sa di itse bone le bajaboswa ba bone; mme ke romela tshaka morago ga bone, go fitlha ke ba fetsa.",
+  "tokens": [
+    {
+      "surface": "והפצותים",
+      "gloss": "mme ke ba phatlalatsa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "itse"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "le bajaboswa ba bone"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "mme ke romela"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "morago ga bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshaka"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "כלותי",
+      "gloss": "ke ba fetsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:11:20.185846638Z",
+  "model": "glm-5.3"
+}

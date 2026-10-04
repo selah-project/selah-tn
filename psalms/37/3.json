@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Ikanyege go Yahwe, mme o dire botle; nna mo lefatsheng, mme o tlhokomele boikanyego.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ikanyege"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "botle"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mme o tlhokomele"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "boikanyego"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:02.552857772Z",
+  "model": "glm-5.3"
+}

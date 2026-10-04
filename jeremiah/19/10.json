@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme o thube setshwa pele ga mahlo a banna ba ba tsamayang ⟨את⟩ le wena.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "mme o thube"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "setshwa"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pele ga mahlo a"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ba ba tsamayang"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ le wena"
+    }
+  ],
+  "timestamp": "2026-10-04T00:15:33.699645008Z",
+  "model": "glm-5.3"
+}

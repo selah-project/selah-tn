@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Elohim ya me, ke a go bitsa ka moso, mme o sa arabe; le bosigo, mme seepa ga se na ⟨sepe⟩ go nna.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya me"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke a go bitsa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o sa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "arabe"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bosigo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "seepa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:54.013650372Z",
+  "model": "glm-5.3"
+}

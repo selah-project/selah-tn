@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Ba bone ditsamaiso tsa gago, Elohim, ditsamaiso tsa El wa me, kgosi ya me, mo boitshepong.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Ba bone"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "ditsamaiso tsa gago"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "ditsamaiso"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ta El wa me"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kgosi ya me"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mo boitshepong"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:38.091705669Z",
+  "model": "glm-5.3"
+}

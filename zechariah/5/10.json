@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme ka re go morongwa yo o buang mo go nne: Ba ya kae ka go isa ⟨את⟩ efa?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "morongwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yo o buang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mo go nne"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ba ya kae"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "ba isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:07:57.289659320Z",
+  "model": "glm-5.3"
+}

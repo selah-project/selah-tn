@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "⟨את⟩ Lefoko lotlhe leo ke laelang ⟨את⟩ ka lona, ⟨את⟩ lone lo tla bo lo le boloka go le dira; lo se ke wa oketsa mo go lona, mme lo se ke wa fokotsa se kwa go lona.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lefoko lotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Lefoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "laelang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka lona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lone"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "lo tla bo lo le boloka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go le dira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ke wa"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "oketsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme lo se ke wa"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "fokotsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "se kwa go lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:26:03.911175398Z",
+  "model": "glm-5.3"
+}

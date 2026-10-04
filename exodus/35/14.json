@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "le ⟨את⟩ setlhare sa dibane sa kganya le ⟨את⟩ didiriswa tsa sona le ⟨את⟩ dibane tsa sona, le ⟨את⟩ mafura a kganya;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setlhare sa dibane"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "setlhare sa dibane"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "sa kganya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa sona"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "didiriswa tsa sona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dibane tsa sona"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dibane tsa sona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a kganya"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "a kganya"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:50.678759734Z",
+  "model": "glm-5.3"
+}

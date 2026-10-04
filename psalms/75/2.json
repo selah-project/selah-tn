@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 75,
+  "translation": "Re go lebogile, wena Elohim, re go lebogile; gonne leina la gago le gaufi; ba tlhalosa dilo tsa gago tse di makatsang.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Re go lebogile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "re go lebogile"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "le gaufi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ba tlhalosa"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dilo tsa gago tse di makatsang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:36.675493583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Molelo o ne wa ja banna ba babotlana ba gagwe, mme basetsana ba gagwe ga ba a ka ba ketekiwa.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "banna ba babotlana ba gagwe"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "o ne wa ja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "mme basetsana ba gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "ba a ka ba ketekiwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:26.689095485Z",
+  "model": "glm-5.3"
+}

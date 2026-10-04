@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme ba ya godimo, ba tlhatlhobela ⟨את⟩ lefatshe, go tswa mo nageng e e sekaka ya Tsin go fitlha kwa Rekhobe, kwa sebakeng sa go tsena kwa Khamate.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ba ya godimo"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "ba tlhatlhobela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "go tswa mo nageng e e sekaka"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhobe"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamate"
+    }
+  ],
+  "timestamp": "2026-10-03T22:08:36.271990777Z",
+  "model": "glm-5.3"
+}

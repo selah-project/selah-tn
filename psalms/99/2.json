@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 99,
+  "translation": "Yahwe ke yo mogolo kwa Tsiyone, mme o kwa godigo ga ditshaba tsotlhe ⟨⟨he⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "kwa Tsiyone"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ke yo mogolo"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "mme o kwa godigo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:09.946658171Z",
+  "model": "glm-5.3"
+}

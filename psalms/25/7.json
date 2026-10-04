@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Dibe tsa bongwana jwa me le ditlolamolao tsa me, o se ka wa di gopola; go ya ka hesede ya gago, gopola ⟨⟨nna⟩⟩ wena, ka ntlha ya botlhokwa jwa gago, Yahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "tsa bongwana jwa me"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "le ditlolamolao tsa me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "wa di gopola"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "go ya ka hesede ya gago"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gopola"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "botlhokwa jwa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:52.688247149Z",
+  "model": "glm-5.3"
+}

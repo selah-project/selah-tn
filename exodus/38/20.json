@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme dithutse tsotlhe tsa Mishkane le tsa lesaka se se dikologileng e ne e le kopara.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mme dithutse tsotlhe"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "dithutse"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "tsa Mishkane"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "le tsa lesaka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "se se dikologileng"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kopara"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:03.608633591Z",
+  "model": "glm-5.3"
+}

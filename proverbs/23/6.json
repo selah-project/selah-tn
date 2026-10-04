@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "O se ke wa ja ⟨את⟩ senkgwe sa mong wa mahetlhago a mababi, mme o se ke wa batla dilo tsa gagwe tse monate.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senkgwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a mababi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mahetlhago"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "batla"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "dilo tsa gagwe tse monate"
+    }
+  ],
+  "timestamp": "2026-10-04T01:50:12.341463556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme ba direla medimo, eo Yahwe a neng a buela bone a re: Se ka dira ⟨את⟩ sengwe se.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba direla"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a buela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ka dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sengwe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:31.248330747Z",
+  "model": "glm-5.3"
+}

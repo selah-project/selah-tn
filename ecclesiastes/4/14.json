@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Fa gare mo ntlong ya ba ba tswerweng o tswa a ya go nna kgosi; gape mo bogosing jwa gagwe o belegwa a humanegile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa gare"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mo ntlong ya"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "ba ba tswerweng"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tswa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a ya go nna kgosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gape"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mo"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "bogosing jwa gagwe"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "o belegwa"
+    },
+    {
+      "surface": "רש",
+      "gloss": "a humanegile"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:10.352177092Z",
+  "model": "glm-5.3"
+}

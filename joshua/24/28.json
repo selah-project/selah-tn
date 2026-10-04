@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme Yehoshua a romela ⟨את⟩ setshaba, mongwe le mongwe kwa bosweng jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kwa bosweng jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:43:56.291854218Z",
+  "model": "glm-5.3"
+}

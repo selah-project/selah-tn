@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 7:13",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Go tswa go nna taelo e ntshitswe gore: mo bogosing jwa me, motho o mongwe le o mongwe mo setshabeng sa Yisraele, mo baperesting ba sone le mo balebiteng, yo o ithaopang go tsamaya go ya Yerushalayime le wena, a tsamaye.",
+  "tokens": [
+    {
+      "surface": "מני",
+      "gloss": "go tswa go nna"
+    },
+    {
+      "surface": "שים",
+      "gloss": "taelo e ntshitswe"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "די",
+      "gloss": "gore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "motho o mongwe le o mongwe"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "yo o ithaopang"
+    },
+    {
+      "surface": "במלכותי",
+      "gloss": "mo bogosing jwa me"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "setshabeng sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וכהנוהי",
+      "gloss": "mo baperesting ba sone"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "le mo balebiteng"
+    },
+    {
+      "surface": "למהך",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "go ya Yerushalayime"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "יהך",
+      "gloss": "a tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-04T02:29:25.699083198Z",
+  "model": "glm-5.3"
+}

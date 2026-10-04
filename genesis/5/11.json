@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme diyaka tsotlhe tsa Enoshe di ne di le dikgolo tse tlhano le makgolo a robabongwe, mme a tlhokafala.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "di ne di le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "diyaka"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshe"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse tlhano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dikgolo"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "le makgolo a robabongwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "diyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mme a tlhokafala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:41.935258294Z",
+  "model": "glm-5.3"
+}

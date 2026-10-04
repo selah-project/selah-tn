@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme jaanong, ke lebelele eng? Adonai, tshepo ya ke ko go wena.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jaanong"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ke lebelele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "tshepo ya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ko go wena"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ke⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:44.941067887Z",
+  "model": "glm-5.3"
+}

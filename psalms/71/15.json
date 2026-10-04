@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Molomo wa me o tla bua tsedeke ya gago, le pholoso ya gago letsatsi lotlhe; gonne dipalo tsa yone ga ke di itse.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeke ya gago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "pholoso ya gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke itse"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "dipalo tsa yone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:42.122813952Z",
+  "model": "glm-5.3"
+}

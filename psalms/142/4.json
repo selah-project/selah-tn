@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 142,
+  "translation": "Fa ruakh ya me e ka ikhutsafatsa mo go nna, mme wena o itse tsela ya me; mo tseleng eno ke e tsamayang, ba patile sephatlo go nna.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "fa … e ka ikhutsafatsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya me"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "tsela ya me"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "זו",
+      "gloss": "eno"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ke e tsamayang"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ba patile"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sephatlo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:04.792233804Z",
+  "model": "glm-5.3"
+}

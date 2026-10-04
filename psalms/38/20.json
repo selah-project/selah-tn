@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme ba ba mo tlhoyang ba a phela, ba nonofile; mme ba ba mo tlhoyang ka boaka ba ntse ba ata.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "mme ba ba mo tlhoyang"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ba phela"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ba nonofile"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mme ba ata"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ka boaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:50.317175707Z",
+  "model": "glm-5.3"
+}

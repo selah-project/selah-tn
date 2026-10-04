@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "O se ke wa ennya batho ba bosula, o se ke wa batla go nna ⟨את⟩ bone.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "wa ennya"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "batho"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ba bosula"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "wa batla"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:50:16.370775534Z",
+  "model": "glm-5.3"
+}

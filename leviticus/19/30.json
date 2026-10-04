@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "⟨את⟩ di-Shabata tsa me di tla boloka, mme lefelo la me le itshepa le tla tlotla; ke nna Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di-Shabata tsa me"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "di-Shabata tsa me"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "di tla boloka"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "mme lefelo la me le itshepa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "di tla tlotla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:44.872228251Z",
+  "model": "glm-5.3"
+}

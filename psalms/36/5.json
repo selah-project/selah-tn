@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Boleo a bo rera mo boalong jwa gagwe; a itlhoma mo tseleng e e seng ya molemo; bosula ga a bo gane.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "boleo"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "a bo rera"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "boalong jwa gagwe"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "a itlhoma"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e e seng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ya molemo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "a bo gane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:47.288701436Z",
+  "model": "glm-5.3"
+}

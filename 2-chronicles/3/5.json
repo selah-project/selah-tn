@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ⟨את⟩ ntlo e kgolo o ne a e phima ka dikgwa tsa difara, mme a e phima ka gauta e e siameng, mme a beisa mo go yona ditshwantsho tsa difara le dikgogano.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo e kgolo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "o ne a e phima"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ka dikgwa"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "tsa difara"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "a e phima gape"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e e siameng"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a beisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "ditshwantsho tsa difara"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "le dikgogano"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:35.645555380Z",
+  "model": "glm-5.3"
+}

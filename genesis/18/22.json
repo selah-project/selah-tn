@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 18:22",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme banna ba ba neng ba tlaa ba kgutla foo, ba ya Sedoma; mme Abrahame a nna a eme fa pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ba kgutla foo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "סדמה",
+      "gloss": "Sedoma"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "mme Abrahame"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "a nna a eme"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "a eme"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:01.209608992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Ke tla leboga Yahwe thata ka molomo wa me, mme mo gare ga ba bantsi ke tla mo lebofatsa.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ke tla leboga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ka molomo wa me"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "mme mo gare ga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bantsi"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ke tla mo lebofatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:06.366523673Z",
+  "model": "glm-5.3"
+}

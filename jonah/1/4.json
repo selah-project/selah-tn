@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Yahwe a latlhela ruakh e kgolo mo lewatleng, mme go nna mogote o mogolo mo lewatleng, mme sekele se ne se akanya go thubega.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "a latlhela"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "סער",
+      "gloss": "mogote"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mo lewatleng"
+    },
+    {
+      "surface": "ווהאניה",
+      "gloss": "mme sekele"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "se ne se akanya"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "go thubega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:29.913450724Z",
+  "model": "glm-5.3"
+}

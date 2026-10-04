@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Gore kavode ya me e ka go leina ka teme ya sebinela, mme e se ke ya didimalla. Yahwe Elohim wa me, go ya le lephakethe ke tla go leboga.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "e ka go leina ka teme ya sebinela"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavode ya me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e se ke ya"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "didimalla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lephakethe"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ke tla go leboga"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:13.325079753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme se ka wa tshega ⟨את⟩ teng ga gago: bophelo ka bophelo, leitlho ka leitlho,meno ka menong, letlhogo ka letlhogong, lonao ka maotong.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme se ka"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "tshega"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "letlhogo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moferefere\/bophelo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ka bophelo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leitlho"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ka leitlho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "meno"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ka menong"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatleng"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "maoto"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ka maotong"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:18.327580961Z",
+  "model": "glm-5.3"
+}

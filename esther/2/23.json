@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme lefoko le ne la batlisiwa, mme le fitlhiwa; mme ba babedi ba ne ba sulselwa mo setlhareng; mme go ne go kwadilwe mo bukeng ya mafoko a malatsi, kwa pele ga kgosi.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "le ne la batlisiwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "le fitlhiwa"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "ba sulselwa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "setlhareng"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "go ne go kwadilwe"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mo bukeng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ya mafoko"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "a malatsi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:52.195649044Z",
+  "model": "glm-5.3"
+}

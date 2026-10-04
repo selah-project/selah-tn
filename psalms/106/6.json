@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Re dire phoso mmogo le bo-rraetshabo, ra golola, ra dira bosula.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "re dire phoso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bo-rraetshabo"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "ra golola"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "ra dira bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:36.400566682Z",
+  "model": "glm-5.3"
+}

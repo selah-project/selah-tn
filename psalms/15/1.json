@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Psalme ya Dawide. Yahwe, ke mang yo o tla nnang mo tenteng ya gago? Ke mang yo o tla nang kwa thabeng ya boitshepo ya gago?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "o tla nnang"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "mo tenteng ya gago"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "o tla nang"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwa thabeng"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya boitshepo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:32.136847407Z",
+  "model": "glm-5.3"
+}

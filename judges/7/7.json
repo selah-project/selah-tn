@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 7:7",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Yahwe a re go Gideone: Ka makgolo a mararo a banna ba ba nnonolang ke tla go boloka ⟨את⟩ lo, mme ke tla neela ⟨את⟩ Midyiane mo seatleng sa gago; mme setshaba sotlhe se tsamaye mongwe le mongwe kwa lefelong la gagwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideone"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a mararo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a banna"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "ba ba nnonolang"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ke tla go boloka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lo",
+      "marks": "lo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke tla neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyiane"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyiane"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mo seatleng sa gago"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "se tsamaye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "kwa lefelong la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:48:06.205846038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "O romela ruakh ya gago, ba bopiwa; mme o ntšhafatsa sefathego sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "o romela"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruakh ya gago"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "ba bopiwa"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "mme o ntšhafatsa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:15.409655874Z",
+  "model": "glm-5.3"
+}

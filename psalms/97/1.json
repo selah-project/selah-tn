@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 97,
+  "translation": "Yahwe o busa, a itumele lefatshe, a nne le boitumelo ditlhaketlhake tse dintsi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "a itumele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "a nne le boitumelo"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ditlhaketlhake"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "tse dintsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:50.579740593Z",
+  "model": "glm-5.3"
+}

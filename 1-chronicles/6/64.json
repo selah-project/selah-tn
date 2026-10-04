@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "le ⟨את⟩ Qedemote le ⟨את⟩ masimo a yone, le ⟨את⟩ Mefaate le ⟨את⟩ masimo a yone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Qedemote"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "masimo a yone"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "masimo a yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mefaate"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "masimo a yone"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "masimo a yone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:38:01.815349527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Elohim wa rona o tlaa tla, mme a se ka wa didimalla; molelo o jela pele ga gagwe, mme mo go dikologileng ga gagwe go tlaa nna thulasere e kgolo thata.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "o tlaa tla"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme a se ke"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "wa didimalla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga gagwe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "o jela"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "mme mo go dikologileng ga gagwe"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "go tlaa nna thulasere"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "e kgolo thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:58.810317154Z",
+  "model": "glm-5.3"
+}

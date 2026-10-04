@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Gore wena o nnile thuso ya me; mme ka moriti wa mafuka a gago ke tla a opela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o nnile"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya me"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "mme ka moriti wa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "mafuka a gago"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ke tla a opela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:30.285884986Z",
+  "model": "glm-5.3"
+}

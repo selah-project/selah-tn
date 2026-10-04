@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme malatsi a Dawide a ne a atamela go swa, mme a laela ⟨את⟩ Sholomore mora wa gagwe, a re:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "a ne a atamela"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "למות",
+      "gloss": "go swa"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "mme a laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sholomore"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sholomore"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa gagwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:50.894527157Z",
+  "model": "glm-5.3"
+}

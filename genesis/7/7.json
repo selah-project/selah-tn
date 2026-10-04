@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Noache a tsena, le barwa ba gagwe, le mosadi wa gagwe, le basadi ba barwa ba gagwe le ene ⟨את⟩, mo sekeing, ka ntlha ya metsi a mokoloko.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noache"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le barwa ba gagwe"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "le mosadi wa gagwe"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "le basadi ba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba gagwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ene",
+      "marks": "le ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sekeing"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "mokoloko"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:22.749579720Z",
+  "model": "glm-5.3"
+}

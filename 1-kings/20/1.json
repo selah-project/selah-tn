@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Ben-Hadade, kgosi ya Arame, a bokanya ⟨את⟩ masole a gagwe otlhe, le dikgosi di le masome a mararo le bobedi le ene, le dipodi le dikoloi; a ya godimo, a lolea Shomrone, mme a lwa le yona.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Arame"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "a bokanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masole a gagwe otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "masole a gagwe"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "di le masome a mararo"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "le bobedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ene"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "le dipodi"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "le dikoloi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a ya godimo"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "a lolea"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomrone"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "a lwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "le yona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:30:27.875417223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "O se ke wa dira kgolagano le bone le le medimo ya bone.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "le le medimo ya bone"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:37.914767533Z",
+  "model": "glm-5.3"
+}

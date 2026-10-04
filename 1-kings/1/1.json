@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme kgosi Dawide a nna mogolwane, a tsena mo malatsing; mme ba mo khurumetsa ka diaparo, mme a sa gorome.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mme kgosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a nna mogolwane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mo malatsing"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "mme ba mo khurumetsa"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ka diaparo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "gorome"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:33.612959795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Ka gonne ke gareledi, mme botlhoko jwa me bo nna pele ga me ka metlha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "mo go gareleng"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ke siametse"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "mme botlhoko jwa me"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "pele ga me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka metlha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:50.316831012Z",
+  "model": "glm-5.3"
+}

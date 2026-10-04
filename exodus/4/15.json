@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "O tlaa bua le ene, o bo o baya ⟨את⟩ mafoko mo molomong wa gagwe; mme nna ke tlaa nna le molomo wa gago le molomo wa gagwe, ke tlaa go ruta ⟨את⟩ lona ⟨את⟩ se lona tlang go se dira.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "O tlaa bua"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "le ene"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "o bo o baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mo molomong wa gagwe"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke tlaa nna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa gago"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa gagwe"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "ke tlaa go ruta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se lona tlang go se dira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "lona tlang go se dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:11.071624324Z",
+  "model": "glm-5.3"
+}

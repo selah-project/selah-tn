@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ee, le fa ke tla tsamaya mo molapeng wa sehuba sa loso, ga nkea tshaba bokewe; gonne wena o na le nna; thibagane ya gago le mosola wa gago wa go ikaega — tsone di a ntlhotsa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ee, le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tla tsamaya"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "mo molapeng"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "wa sehuba sa loso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nkea tshaba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bokewe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "o na le nna"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "thibagane ya gago"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "le mosola wa gago wa go ikaega"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tsone"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "di a ntlhotsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:32.567659891Z",
+  "model": "glm-5.3"
+}

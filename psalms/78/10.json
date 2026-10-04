@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Ba se ka boloka kgolagano ya Elohim, mme mo Torong ya gagwe ba gana go tsamaya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba se ka"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "mme mo Torong ya gagwe"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba gana"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:25.490215833Z",
+  "model": "glm-5.3"
+}

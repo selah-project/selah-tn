@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme lona lo tla boloka ⟨את⟩ taelo ya boitshepo le ⟨את⟩ taelo ya aletare, mme go se ka ga nna bogale gape mo baneng ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "lo tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya boitshepo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taelo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya aletare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme go se ka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga nna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "baneng ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:12:17.886747540Z",
+  "model": "glm-5.3"
+}

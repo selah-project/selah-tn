@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Reeditse, setshaba sa me, mme ke tla bua; Yisraele, mme ke tla go bona kaelo kgatlhanong le wena: Elohim, Elohim wa gago, ke nna.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Reeditse"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "mme ke tla bua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "mme ke tla go bona kaelo kgatlhanong le wena"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kgatlhanong le wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:06.795983516Z",
+  "model": "glm-5.3"
+}

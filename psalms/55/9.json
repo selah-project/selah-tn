@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Ke tla ka bonako šupa go tswa mo go ruakh e e fofang, mo sefofaneng.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "ke tla ka bonako"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "šupa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "go tswa mo go ruakh"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "e e fofang"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "mo sefofaneng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:23.825261758Z",
+  "model": "glm-5.3"
+}

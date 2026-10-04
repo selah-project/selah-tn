@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kheshbone le ⟨את⟩ megala ya yone, ⟨את⟩ Yazere le ⟨את⟩ megala ya yone; ditoropo tsotlhe di le nne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kheshbone"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Kheshbone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "megala ya yone"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "megala ya yone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazere"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "megala ya yone"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "megala ya yone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "di le nne"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:34.898691262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Go moeteledipele. Se o se Senye. Wa Dawide, mokwalo o moitshepang. Fa Shauole a ntsha ⟨את⟩ ba ba tlhodumelang, mme ba tlhopa ⟨את⟩ ntlo go e bolaya.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteledipele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "o se senye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mokwalo o moitshepang"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "fa a ntsha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "mme ba tlhopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "go e bolaya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:09.616603305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme setshaba se ile sa go dikela ga Moshe, mme Moshe a rapela go Yahwe, mme molelo o ne o thothoka.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "se go dikela ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "a rapela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "o thothoka"
+    },
+    {
+      "surface": "האש",
+      "gloss": "molelo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:55.604049971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 23:15",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ka jalo ke a tshoga ka ntlha ya sebopeho sa gagwe, ke akanya, mme ke a tshaba ene.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ka ntlha ya sebopeho sa gagwe"
+    },
+    {
+      "surface": "אבהל",
+      "gloss": "ke a tshoga"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ke akanya"
+    },
+    {
+      "surface": "ואפחד",
+      "gloss": "mme ke a tshaba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ene"
+    }
+  ],
+  "timestamp": "2026-10-04T02:00:25.433512066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Ke ne ka epa mme ka nwa metsi, mme ka tlhola ka maotlana a dikgato tsa me noka tsotlhe tsa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "ka epa"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "mme ka nwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "mme ka tlhola"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ka maotlana"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "a dikgato tsa me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "noka"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "tsa Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:55:26.189793938Z",
+  "model": "glm-5.3"
+}

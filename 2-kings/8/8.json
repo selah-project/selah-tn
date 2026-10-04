@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme kgosi ya re kwa Hazaele: Tshwara ka seatla sa gago minkha, mme o ye go kopana le motho wa Elohim, mme o bate ⟨את⟩ Yahwe ⟨את⟩ mo go ene, o re: A nka fola bolwetse jo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazaele"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Tshwara"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ka seatla sa gago"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "mme o ye"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "go kopana le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho wa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "mme o bate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ mo go ene"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "A nka fola"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "bolwetse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "jo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:36:58.425524464Z",
+  "model": "glm-5.3"
+}

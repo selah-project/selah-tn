@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mme Yosefe a re kwa baneng ba ene ba le kwa go bone: Tlang go nna, ke kopa lona. Mme ba atamela. Mme a re: Nna ke Yosefe, mogolowe, yo lo neng lo mo rekisetsa ⟨את⟩ ene kwa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go bone"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "baneng ba ene"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa lona"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "mme ba atamela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mogolowe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "lo mo rekisetsa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ene"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "kwa Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:31:48.308975084Z",
+  "model": "glm-5.3"
+}

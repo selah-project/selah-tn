@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "⟨Batho ba⟩ ba-Emime ba ne ba dutse koo pele, setshaba se segolo le se se mantsi le se se tlhodilogileng, jaaka ba-Anake.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "ba-Emime"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ba ne … pele"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "בה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "se segolo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "le se se mantsi"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "le se se tlhodilogileng"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "jaaka ba-Anake"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:11.040920258Z",
+  "model": "glm-5.3"
+}

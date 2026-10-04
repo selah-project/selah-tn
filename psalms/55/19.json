@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "O ntshetse mo kagisong ⟨moyo⟩ wa me go tswa mo go ba ba ntsisang; gonne ba ne ba le bantsi ba le le nna.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "O ntshetse"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "mo kagisong"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨moyo⟩ wa me"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "go tswa mo go"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba ba ntsisang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "ba le bantsi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ne ba le"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:55.848118650Z",
+  "model": "glm-5.3"
+}

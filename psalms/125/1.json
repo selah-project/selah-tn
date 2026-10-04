@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 125,
+  "translation": "Pina ya go ela kwa godimo. Ba ba ikanyelang go Yahwe ba tlala jaaka thaba ya Tsione; ga e ke e sutlega, e nna koo go sa felle.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya go ela kwa godimo"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Ba ba ikanyelang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "jaaka thaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsione"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "e ke e sutlega"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go sa felle"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "e nna koo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:44.479535134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Mme boammaruri bo tlhokaletse, mme yo o siamang mo bosuleng a nna tlhaga; mme Yahwe a bona, mme go nna bosula mo matlhong a gagwe, gonne ga go katlholo.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "mme ... bo nna"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "boammaruri"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "bo tlhokaletse"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "mme yo o siamang"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "mo bosuleng"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "a nna tlhaga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "mme go nna bosula"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mo matlhong a gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:03:56.166543455Z",
+  "model": "glm-5.3"
+}

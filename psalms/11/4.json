@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Yahwe ⟨⟨is⟩⟩ mo tempeleng ya gagwe ya boitshepo; Yahwe, kgonthesto ya gagwe kwa magodimong; matlho a gagwe a a lebelela, dipaete tsa gagwe di a le tlhatlhoba bana ba batho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "mo tempeleng"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya gagwe ya boitshepo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kgonthesto ya gagwe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matlho a gagwe"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "a a lebelela"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "dipaete tsa gagwe"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "di a le tlhatlhoba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:49.305888437Z",
+  "model": "glm-5.3"
+}

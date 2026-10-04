@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme monna yo o robalang le ⟨את⟩ monna ka diphilo tsa mosadi, toeba ba e dirile bobedi jwa bone; ba bolawe ga go pelaelo; madi a bone ⟨a⟩ mo go bone.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "o robalang le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ka diphilo tsa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "toeba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba e dirile"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bobedi jwa bone"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bolawe"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ga go pelaelo"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "madi a bone"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:35.144983655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "A e nne bosehlodi mmogo le matlose a bone; motho a seka wa nna a nnile dikheng tsa bone.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "a e nne"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "matlose a bone"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "bosehlodi"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "mo dikheng tsa bone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a seka wa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "motho a nnile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:47.151419173Z",
+  "model": "glm-5.3"
+}

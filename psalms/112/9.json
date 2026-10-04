@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 112,
+  "translation": "O phasa ka botlalo, o neela ba humanegileng; tsedeke ya gagwe e eme ⟨go ya ruri⟩; lerumo la gagwe le tla itshephiwa ka tlotlo.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "o phasa ka botlalo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o neela"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "ba humanegileng"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedeke ya gagwe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "go ya ruri"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "lerumo la gagwe"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "le tla itshephiwa"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ka tlotlo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:28.663756117Z",
+  "model": "glm-5.3"
+}

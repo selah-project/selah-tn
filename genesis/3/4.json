@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme noga e re go mosadi: Lo se ke la swa go bo lo tlaa swa;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme e re"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "noga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ke la"
+    },
+    {
+      "surface": "מות",
+      "gloss": "go swa"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "lo tlaa swa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:01.125747816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 9:5",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ke tla bo ke tlhoma ⟨את⟩ setulo sa bogosi jwa gago mo go Yisraele ka bosakhutshweng, jaaka ke ne ke buela Dawide rraagwe, ke re: Ga go motho yo o tla o kgaphang kwa setulong sa Yisraele.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Ke tla bo ke tlhoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setulo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulo"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "sa bogosi jwa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ka bosakhutshweng"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke ne ke buela"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ke re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "yo o tla o kgaphang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:10.503952172Z",
+  "model": "glm-5.3"
+}

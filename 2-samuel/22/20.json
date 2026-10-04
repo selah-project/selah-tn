@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "A mptsa go ya kwa sebakeng se se pharologang, a nntlhotlhomolosa ⟨את⟩ nna; gonne o ne a nkatogela.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a mptsa"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "go ya kwa sebakeng se se pharologang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "a nntlhotlhomolosa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o ne a nkatogela"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-03T23:17:52.655689397Z",
+  "model": "glm-5.3"
+}

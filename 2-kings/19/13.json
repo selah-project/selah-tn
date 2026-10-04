@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Kae kgosi ya Hamate, le kgosi ya Arpade, le kgosi ya toropo ya Sefarvayime, ya Hena le ya Iva?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Kae"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ya Hamate"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le kgosi"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "ya Arpade"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le kgosi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ya toropo"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "ya Sefarvayime"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "ya Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "le ya Iva"
+    }
+  ],
+  "timestamp": "2026-10-03T23:40:27.077499808Z",
+  "model": "glm-5.3"
+}

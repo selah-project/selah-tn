@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Re tla nna re opela ka se se go lolotseng, mme ka leina la Elohim ya rona re tla bontsha difela; Yahwe a phethale dikopo tsa gago tsotlhe.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "re tla nna re opela"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ka se se go lolotseng"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "mme ka leina la"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ya rona"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "re tla bontsha difela"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "a phethale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "dikopo tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:08.957022497Z",
+  "model": "glm-5.3"
+}

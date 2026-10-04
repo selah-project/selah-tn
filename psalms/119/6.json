@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ao ke ne ke se ke tshwenyegile, fa ke lebelela ditaelo tsotlhe tsa gago.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga...ke"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "tshwenyegi"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "fa ke lebelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ditaelo tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:26.009553778Z",
+  "model": "glm-5.3"
+}

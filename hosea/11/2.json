@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Ka me go ba bitsa, ka me ba ne ba tsamaela fa tlase ga bone; ba ne ba ja diphologolo jaaka mpho go Baale, mme ba fisa difofu go ditshwantsho tse di bijolweng.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "ba ne ba bitsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka me"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba ne ba tsamaya"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "fa tlase ga bone"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "go Baale"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "ba ne ba ja diphologolo jaaka mpho"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "le go ditshwantsho tse di bijolweng"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "ba ne ba fisa difofu"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:15.687517002Z",
+  "model": "glm-5.3"
+}

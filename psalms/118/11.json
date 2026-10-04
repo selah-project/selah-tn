@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 118,
+  "translation": "Ba ndikantse, ee, ba ndikantse; mme ka leina la Yahwe ruri ke tla ba kgaola.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Ba ndikantse"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ee"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ba ndikantse"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ke tla ba kgaola"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:26.384956579Z",
+  "model": "glm-5.3"
+}

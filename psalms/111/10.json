@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 111,
+  "translation": "Tshimologo ya bohlale ke go tshaba Yahwe; botlhale jo bo siameng bo na le ba ba di dirang; toro ya gagwe e eme go ya bosakhutleng.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "tshimologo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ya bohlale"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "go tshaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jo bo siameng"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bo na le ba ba"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "di dirang"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "toro ya gagwe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "go ya bosakhutleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:33.075752445Z",
+  "model": "glm-5.3"
+}

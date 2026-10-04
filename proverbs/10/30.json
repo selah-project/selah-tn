@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Yo o lokileng ga a ka ke a tsekaseka ka bosakhutlho, mme ba ba bosula ga ba kitla ba nna mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "yo o lokileng"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosakhutlho"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga a ka ke a"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tsekaseka"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ba kitla ba"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:46:29.964936832Z",
+  "model": "glm-5.3"
+}

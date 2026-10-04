@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Gonne matsatsi a me a feletse ka mokgalo, mme marapo a me a belailwe jaaka folelo ya molelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "a feletse"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "ka mokgalo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a me"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "mme marapo a me"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "קד",
+      "gloss": "folelo ya molelo"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "a belailwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:16.054318920Z",
+  "model": "glm-5.3"
+}

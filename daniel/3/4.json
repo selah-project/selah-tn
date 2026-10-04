@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme mogasi a goeletsa ka thata: go lona go laolwa, merafe, mafatshe le dipuo.",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "mme mogasi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a goeletsa"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "ka thata"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "go laolwa"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "merafe"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "mafatshe"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "le dipuo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:20:53.385316542Z",
+  "model": "glm-5.3"
+}

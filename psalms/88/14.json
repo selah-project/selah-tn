@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "Mme nna, go wena, Yahwe, ke llaletse; mme ka moso thapelo ya me e tla go tsaya pele.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ke llaletse"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "mme ka moso"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "e tla go tsaya pele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:24.172411647Z",
+  "model": "glm-5.3"
+}

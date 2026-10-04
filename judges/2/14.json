@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 2:14",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme bogale jwa Yahwe bo tuka kgatlhanong le Yisraele, mme a ba neela mo seatleng sa basei, ba ba neng ba ba sesa ⟨את⟩ bone, mme a ba rekisa mo seatleng sa baba ba bone ba ba dikologileng; mme ba ne ba sa kgone go ema ga gape pele ga baba ba bone.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "mme bogale bo tuka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kgatlhanong le Yisraele"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "mme a ba neela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "sa basei"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "ba ba sesa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bone (Yisraele)"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "mme a ba rekisa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "sa baba ba bone"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ba ba dikologileng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa kgone"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "go kgona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ga gape"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "go ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "baba ba bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:17.508697387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ke mang ⟨⟨yoo⟩⟩ motho yo o tshabang Yahwe? O tlaa mo ruta tsela a e tlhophileng.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨yoo⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yo o tshabang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "o tlaa mo ruta"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "a e tlhophileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:36.577414233Z",
+  "model": "glm-5.3"
+}

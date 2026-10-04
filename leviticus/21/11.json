@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme go motho o mongwe le o mongwe yo o tlhokafetseng a se ke a tsena; ga rraagwe le ga mmaagwe a se ke a itlhantlha.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Mme go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o mongwe le o mongwe"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yo o tlhokafetseng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ga rraagwe"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "le ga mmaagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "a itlhantlha"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:09.181434629Z",
+  "model": "glm-5.3"
+}

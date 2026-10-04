@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme mopristeri wa Midiyane o ne a na le barwadi ba supa; mme ba ne ba tla, ba tsenya metsi, ba tlatsa ⟨את⟩ dikhomotshwane go thusetsa dikgomo tsa rraabone metsi.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "mopristeri"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa Midiyane"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "supa"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barwadi"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "ba ne ba tla"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ba tsenya metsi"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ba tlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikhomotshwane"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "dikhomotshwane"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "go thusetsa metsi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "rraabone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:10.270365558Z",
+  "model": "glm-5.3"
+}

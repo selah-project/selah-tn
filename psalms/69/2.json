@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Nnkolotse, Elohim, gonne metsi a tsile go fitlha kwa moyeng wa me.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Nnkolotse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "באו",
+      "gloss": "a tsile"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha kwa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyeng wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:54.655795885Z",
+  "model": "glm-5.3"
+}

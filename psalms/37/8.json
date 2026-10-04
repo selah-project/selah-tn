@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Emisa bogale, mme o tlogele halefo; o se ka wa tsekela — se se tsamaya fela go dira bosula.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "emisa"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "mme o tlogele"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "halefo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "tsekela"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "go dira bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:11.650836789Z",
+  "model": "glm-5.3"
+}

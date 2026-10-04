@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme e bile go boammaaruri, ke a phoso; phoso ya me e nna le nna ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "go boammaaruri"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "ke a phoso"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna",
+      "marks": "le nna"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "e nna"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "phoso ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:58:40.781692563Z",
+  "model": "glm-5.3"
+}

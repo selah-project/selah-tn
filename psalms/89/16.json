@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Mahlapa ke setshaba se itse modumo wa go goma; ba tsamaya, Yahwe, mo leseding la sefatlhego sa gago.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mahlapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ke setshaba"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "se itse"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "modumo wa go goma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "mo leseding"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "la sefatlhego sa gago"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ba tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:47.248993534Z",
+  "model": "glm-5.3"
+}

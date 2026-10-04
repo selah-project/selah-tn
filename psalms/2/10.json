@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme jaanong, dikgosi, nang boikaelelo; tlhophang botlhale, baatlhodi ba lefatshe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "nang boikaelelo"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "tlhophang botlhale"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "baatlhodi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:55.831051909Z",
+  "model": "glm-5.3"
+}

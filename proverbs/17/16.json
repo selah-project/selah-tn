@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Ke eng foo madi a le mo seatleng sa sekhuduthamaga, fa go ka reka botlhale, mme pelo ga e na?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "foo"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sekhuduthamaga"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "go reka"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "mme pelo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga e na"
+    }
+  ],
+  "timestamp": "2026-10-04T01:47:45.516549884Z",
+  "model": "glm-5.3"
+}

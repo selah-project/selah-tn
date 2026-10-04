@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ka jalo ke tla neela ⟨את⟩ basadi ba bone go ba bangwe, le masimo a bone go ba ba tla a rusang; gonne go tloga go mmotlana go fitlha go mogolo, botlhe ba tlhakatlhakanya lekgetho, go tloga go moporofeti go fitlha go moruti, botlhe ba dira maaka.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka jalo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basadi ba bone"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "basadi ba bone"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "go ba bangwe"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "masimo a bone"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "go ba ba tla a rusang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "go tloga go mmotlana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ba tlhakatlhakanya lekgetho"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "lekgetho"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "go tloga go moporofeti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "maaka"
+    }
+  ],
+  "timestamp": "2026-10-04T00:10:37.603868928Z",
+  "model": "glm-5.3"
+}

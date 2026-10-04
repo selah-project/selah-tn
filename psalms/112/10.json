@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 112,
+  "translation": "Yo o molato o tla bona a twelela a ikgopotsa; meno ya gagwe o e kgwatla, a senyegelwa; keletso ya ba ba molato e tla nyelela.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "yo o molato"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o tla bona"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "a twelela a ikgopotsa"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "meno ya gagwe"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "o e kgwatla"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "a senyegelwa"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "keletso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba molato"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "e tla nyelela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:28.664038508Z",
+  "model": "glm-5.3"
+}

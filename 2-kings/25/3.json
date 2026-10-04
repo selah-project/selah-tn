@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ka la borobong la kgwedi tlala e ne ya nonotsha mo toropong, mme go ne go sena senkgwe sa setshaba sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "ka la borobong"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ya nonotsha"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo toropong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e bile ga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go ne go sena"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sa setshaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:33.572739797Z",
+  "model": "glm-5.3"
+}

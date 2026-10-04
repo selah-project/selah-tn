@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "O ratile boshula go feta se siameng, le maaka go feta go bua tsedeke. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "o ratile"
+    },
+    {
+      "surface": "רע",
+      "gloss": "boshula"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "go feta se siameng"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "le maaka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:06.756209468Z",
+  "model": "glm-5.3"
+}

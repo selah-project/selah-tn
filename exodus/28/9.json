@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme o tlaa tshwara ⟨את⟩ maje a mabedi a shohame, mme o tlaa bula mo go tsone maina a bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tlaa tshwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maje a mabedi a shohame"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maje a"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shohame"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "mme o tlaa bula"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:56.625329358Z",
+  "model": "glm-5.3"
+}

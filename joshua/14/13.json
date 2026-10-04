@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme Yehoshua a mo itumedisa, mme a neela ⟨את⟩ Kheberone go Kaleb morwa wa Yefune jaaka boswa.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "a mo itumedisa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kheberone"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Kheberone"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "go Kaleb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "jaaka boswa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:39:24.151073054Z",
+  "model": "glm-5.3"
+}

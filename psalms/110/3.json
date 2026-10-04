@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 110,
+  "translation": "Setshaba sa gago se tlaa neelana ka boithaopo mo letsatsing la maatla a gago, ka diaparo tsa boitshepo; go tswa mo popelong ya moso, ke a gago kidi ya bosha jwa gago.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "se tlaa neelana ka boithaopo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mo letsatsing la"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "maatla a gago"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "ka diaparo tsa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "go tswa mo popelong"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "ya moso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke a gago"
+    },
+    {
+      "surface": "טל",
+      "gloss": "kidi"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ya bosha jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:33.561525388Z",
+  "model": "glm-5.3"
+}

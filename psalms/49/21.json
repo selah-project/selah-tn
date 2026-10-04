@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Mothono mo ⟨bo⟩tlhokong mme a sa tlhaloganye, o tshwana ka diphoofolo tse di swang.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "mothono"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "mo botlhokong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "tlhaloganye"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "o tshwana"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ka diphoofolo"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "tse di swang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:42.063721815Z",
+  "model": "glm-5.3"
+}

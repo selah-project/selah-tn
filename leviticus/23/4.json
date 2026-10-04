@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ke tsone dinako tse di beilweng tsa Yahwe, diphuthego tse di itshepileng, tse lo tla di bitlang ka dinako tsa tsone.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ke tsone"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "dinako tse di beilweng tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "diphuthego"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tse di itshepileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "lo tla di bitlang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ka dinako tsa tsone"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "ka dinako tsa tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:42.214372517Z",
+  "model": "glm-5.3"
+}

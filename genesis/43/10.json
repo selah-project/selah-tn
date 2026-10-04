@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Fa e ka re re sa leka go diega, ruri jaanong re boetse gape ga bobedi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa e ka re"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "re sa"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "leka go diega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "re boetse gape"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "bobedi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:17.551313205Z",
+  "model": "glm-5.3"
+}

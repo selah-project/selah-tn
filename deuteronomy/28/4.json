@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Go a ntshegiwa peo ya mpa ya gago, le peo ya lefatshe la gago, le peo ya diphoofolo tsa gago, diwana tsa dikgomo tsa gago, le bana ba dipodi tsa gago.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "go a ntshegiwa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "peo ya"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "mpa ya gago"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "le peo ya"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "lefatshe la gago"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "le peo ya"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "diphoofolo tsa gago"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "diwana tsa"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "dikgomo tsa gago"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "dipodi tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:45.008904568Z",
+  "model": "glm-5.3"
+}

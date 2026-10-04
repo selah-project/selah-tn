@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Gore ka tlhakanelo ya kakgelo ya Yahwe go ne go ntse jalo kwa Yerushalayime le kwa Yudaea, go fitlha a ba lelekile kwa ntle ga sekatlholo sa gagwe; mme Tsidkiyahu a tsuologela kgosi ya Babele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tlhakanelo ya kakgelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "go ne go ntse jalo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "le kwa Yudaea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "a ba lelekile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba (Yerushalayime le Yudaea)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kwa ntle ga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sekatlholo sa gagwe"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "a tsuologela"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:52.962551619Z",
+  "model": "glm-5.3"
+}

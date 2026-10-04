@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Ba ba bosula ba ntshitse tshaka, ba nonotse seteye sa bone, go waletse motho o o humanegileng le o o senang sepe, go bolaya ba ba siameng ba tsela.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ba ntshitse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "ba nonotse"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "seteye sa bone"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "go waletse"
+    },
+    {
+      "surface": "עני",
+      "gloss": "motho o o humanegileng"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le o o senang sepe"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "go bolaya"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ba ba siameng"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:04.991143359Z",
+  "model": "glm-5.3"
+}

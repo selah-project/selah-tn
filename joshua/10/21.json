@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 10:21",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme setshaba sotlhe a boela kwa kamping, go ya kwa Yehoshuawa, kwa Makeida, ka kagiso; ga go na ope wa bana ba Yisraele yo o neng a gagamatsa ⟨את⟩ leleme la gagwe.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamping"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuawa"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makeida"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ka kagiso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "חרץ",
+      "gloss": "a gagamatsa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ope"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leleme la gagwe"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "leleme la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:13.414863699Z",
+  "model": "glm-5.3"
+}

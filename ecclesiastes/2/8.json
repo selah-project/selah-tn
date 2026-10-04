@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 2:8",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ke ne ka kgobokela ⟨את⟩ selefera le ⟨את⟩ gauta, le ⟨את⟩ dinepe tsa dikgosi le tsa diporofense; ka direla badi ba banna le badi ba basadi, le maswabi a bana ba motho — mosadi le basadi ba bantsi.",
+  "tokens": [
+    {
+      "surface": "כנסתי",
+      "gloss": "ka kgobokela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "se"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "וסגלת",
+      "gloss": "le dinepe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "tsa dikgosi"
+    },
+    {
+      "surface": "והמדינות",
+      "gloss": "le tsa diporofense"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ka direla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "badi ba banna"
+    },
+    {
+      "surface": "ושרות",
+      "gloss": "le badi ba basadi"
+    },
+    {
+      "surface": "ותענוגת",
+      "gloss": "le maswabi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a bana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ba motho"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "ושדות",
+      "gloss": "le basadi ba bantsi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:23:39.111171078Z",
+  "model": "glm-5.3"
+}

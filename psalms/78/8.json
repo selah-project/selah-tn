@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "mme ba se ka nna jaaka borrai ba bone, poloko e e ganang le e e tlhoyang, poloko e sa baakanyang pelo ya yona, mme ruakh ya yona e sa tshepile ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nna"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "jaaka borrai ba bone"
+    },
+    {
+      "surface": "דור",
+      "gloss": "poloko"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "e e ganang"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "le e e tlhoyang"
+    },
+    {
+      "surface": "דור",
+      "gloss": "poloko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "baakanyang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya yona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "e sa tshepile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ya yona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:25.348867313Z",
+  "model": "glm-5.3"
+}

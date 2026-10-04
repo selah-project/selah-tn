@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Nako eo o tla bua le bone ka bogale jwa gagwe, mme ka tsheganto ya gagwe a ba tshosa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Nako eo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ka bogale jwa gagwe"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "mme ka tsheganto ya gagwe"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "a ba tshosa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:12.530536656Z",
+  "model": "glm-5.3"
+}

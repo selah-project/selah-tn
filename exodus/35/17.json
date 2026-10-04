@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "⟨את⟩ diretè tsa kgotlha, ⟨את〕 ditlhako tsa yone le ⟨את⟩ menwana ya yone, le ⟨את⟩ phukuthi ya kgoro ya kgotlha,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diretè tsa kgotlha"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "diretè"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya kgotlha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhako tsa yone"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ditlhako tsa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "menwana ya yone"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "menwana ya yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phukuthi ya kgoro ya kgotlha"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "phukuthi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya kgotlha"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:43.488657617Z",
+  "model": "glm-5.3"
+}

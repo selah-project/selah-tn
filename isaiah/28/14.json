@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 28:14",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Kwa ntlha ya moo, utlwang lefoko la Yahwe, banna ba boitimokanyi, ba busang setshaba se se mo Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa ntlha ya moo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "utlwang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "boitimokanyi"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "ba busang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "mo Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:33.962119504Z",
+  "model": "glm-5.3"
+}

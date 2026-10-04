@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Yahwe a a segofadiwe, gobo a dira hesede ja gagwe jo bo makatsa go nna, mo toropong e e gateditsweng.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "a a segofadiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobo"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "a dira jo bo makatsa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ja gagwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo toropong"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "e e gateditsweng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:13.002145055Z",
+  "model": "glm-5.3"
+}

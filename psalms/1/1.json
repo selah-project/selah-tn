@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mahlogonwana a mo go yang motho yo o sa tsamayeng mo kgakololong ya ba ba sa siamang, le mo tseleng ya ba ba molato a sa emeng, le mo setileng ya ba ba tehong a sa duleng.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahlogonwana"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tsamayeng"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "mo kgakololong ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba sa siamang"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "le mo tseleng ya"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ba ba molato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "emeng"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "le mo setileng ya"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "ba ba tehong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:44.508831507Z",
+  "model": "glm-5.3"
+}

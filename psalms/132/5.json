@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "Fitlela ke bona lefelo la Yahwe, Mishkane ya Mogale wa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fitlela"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "ya Mogale wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:35.588661130Z",
+  "model": "glm-5.3"
+}

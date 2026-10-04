@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Satane a ema kgatlhanong le Yisraele, mme a rotela ⟨את⟩ Dawide go bala ⟨את⟩ Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "Satane"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "a rotela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "go bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:42:20.758654544Z",
+  "model": "glm-5.3"
+}

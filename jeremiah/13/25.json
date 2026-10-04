@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Se ke sefathego sa gago, karolo ya kalo ya gago ⟨את⟩ go tswa kwa go nna, go bua Yahwe, ka gonne o ntshitse ⟨את⟩ me mo tlhogong mme o ikanye mo leshokeng.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "ke sefathego sa gago"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "ya kalo ya gago"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "go tswa kwa go nna ⟨את⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "o ntshitse mo tlhogong"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "mme o ikanye"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "mo leshokeng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:12:45.354879952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Retelela go nna, mme o ntshegofatse, gonne ke nosi le moleloko, ke nna.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "retelela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mme o ntshegofatse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ke nosi"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "le moleloko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:51.392731534Z",
+  "model": "glm-5.3"
+}

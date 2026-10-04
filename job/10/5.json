@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "A malatsi a gago ke a a tshwanang le a enoshi, kgotsa dingwaga tsa gago jaaka malatsi a gabera?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "a a tshwanang le malatsi a"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enoshi"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "malatsi a gago"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "dingwaga tsa gago"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "jaaka malatsi a"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gabera"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:36.001466814Z",
+  "model": "glm-5.3"
+}

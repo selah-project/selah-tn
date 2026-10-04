@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Mme ba ba lokileng ba nne le thabo, ba itumele kwa pele ga Elohim, mme ba tlhabiwe ke keletso ya thabo.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "mme ba ba lokileng"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba nne le thabo"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ba itumele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "mme ba tlhabiwe ke"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "keletso ya thabo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:45.245143482Z",
+  "model": "glm-5.3"
+}

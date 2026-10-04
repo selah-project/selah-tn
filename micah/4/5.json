@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Gore ditshaba tsotlhe di tla tsamaya, mongwe le mongwe ka leina la Elohim ya gagwe; mme rona re tla tsamaya ka leina la Yahwe Elohim ya rona, go ya bosakhutlhe le go feta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "di tla tsamaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "la Elohim ya gagwe"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mme rona"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "re tla tsamaya"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ya rona"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya bosakhutlhe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go feta"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:30.928080209Z",
+  "model": "glm-5.3"
+}

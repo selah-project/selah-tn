@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme le tla bolokela ditsela tsa me mme le di dira. Nna ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mme le tla bolokela"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ditsela tsa me"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme le di dira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ditsela tsa me"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:03.189993638Z",
+  "model": "glm-5.3"
+}

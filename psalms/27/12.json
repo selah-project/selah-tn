@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "O se ka mntseela go iketla ga ba ba ntlholang, gonne batsayatshupo ba maaka ba tshegeditswe kgatlhanong le nna, ba bo ba gola tlhaselo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ka"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "mntseela"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "go iketla ga"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ba ba ntlholang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ba tshegeditswe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kgatlhanong le nna"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "batsayatshupo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ba maaka"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ba bo ba gola"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tlhaselo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:15.680864912Z",
+  "model": "glm-5.3"
+}

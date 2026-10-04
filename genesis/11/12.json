@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Arpakashade a ne a tshela dingwaga di le masome a mararo le metso e mehlano, a belega ⟨את⟩ Selakh.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Mme Arpakashade"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a ne a tshela"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "metso e mehlano"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le masome a mararo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Selakh"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:18.691657786Z",
+  "model": "glm-5.3"
+}

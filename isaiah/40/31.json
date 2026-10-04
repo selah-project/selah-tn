@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme ba ikemetseng go Yahwe ba boa ka maatla; ba namelela mafuka jaaka dinong; ba taboga, mme ga ba khathale; ba tsamaya, mme ga ba lapisewe.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "mme ba ikemetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "ba boa ka"
+    },
+    {
+      "surface": "כח",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ba namelela"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "mafuka"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "jaaka dinong"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ba taboga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "ba khathale"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "ba lapisewe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:43.969469117Z",
+  "model": "glm-5.3"
+}

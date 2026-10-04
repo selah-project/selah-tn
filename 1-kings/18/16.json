@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Obadaja a tsamaya ya go kopana le Ahaba, a mmolelela; mme Ahaba a tsamaya ya go kopana le Elijahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadaja"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ya go kopana le"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a mmolelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ya go kopana le"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:17.161842861Z",
+  "model": "glm-5.3"
+}

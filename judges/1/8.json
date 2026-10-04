@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme baana ba Yuda ba lwa le Yerushalayime, ba e gapa, ba e bolaya ka molemo wa tshaka, mme ba tlosa ⟨את⟩ toropo ka molelo.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "baana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "le Yerushalayime"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ba e gapa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ba e bolaya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba tlosa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:43:58.984982577Z",
+  "model": "glm-5.3"
+}

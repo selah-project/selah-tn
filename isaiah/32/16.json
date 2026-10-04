@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme katlholo e nne mo sekakeng, mme tsedeke e nne mo setshwarwaneng se se nang le merogo.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "Mme"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo sekakeng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mme tsedeke"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "mo setshwarwaneng se se nang le merogo"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "e nne"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:52.437950815Z",
+  "model": "glm-5.3"
+}

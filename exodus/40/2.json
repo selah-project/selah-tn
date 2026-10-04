@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Ka letsatsi la ntlha la kgwedi ya ntlha, o tlaa tlhatlosa ⟨את⟩ Mishkane, tensele ya phuthego.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya ntlha"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "la ntlha"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "o tlaa tlhatlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tensele"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phuthego"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:21.366538910Z",
+  "model": "glm-5.3"
+}

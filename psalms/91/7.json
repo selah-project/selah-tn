@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Sekete se tla wa ka thogako ya gago, le dikete di le lesome ka letsogo la gago la moja; go wena ga se kitla se atamela.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "se tla wa"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "ka thogako ya gago"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "le dikete di le lesome"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "ka letsogo la gago la moja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "se kitla se atamela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:18.695455067Z",
+  "model": "glm-5.3"
+}

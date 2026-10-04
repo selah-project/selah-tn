@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Seme a tshela morago ga go belega ⟨את⟩ Arfakshade dingwaga di le makgolo a matlhano, a belega banana le banaketse.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a tshela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Seme"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "go belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arfakshade"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arfakshade"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "di le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a matlhano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "banana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "banaketse"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:28.938023437Z",
+  "model": "glm-5.3"
+}

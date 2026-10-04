@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme jaanong ke tlhophile mme ke itshepitse ⟨את⟩ ntlo e gore leina la me le nne foo go ya leruri, mme matlho a me le pelo ya me di nne foo ka malatsi otlhe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ke tlhophile"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "ke itshepitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo e"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "gore e nne"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "leina la me"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "leruri"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme di nne"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    },
+    {
+      "surface": "ויבי",
+      "gloss": "le pelo ya me"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "malatsi otlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:49:45.617351033Z",
+  "model": "glm-5.3"
+}

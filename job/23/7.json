@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 23:7",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Foo yo o siameng a ka rerisana le ene, mme ke bolokolohike ka bosikhutshwanyana go tswa mo katlholong ya me.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "נוכח",
+      "gloss": "a ka rerisana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le ene"
+    },
+    {
+      "surface": "ואפלטה",
+      "gloss": "mme ke bolokolohike"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka bosikhutshwanyana"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "go tswa mo katlholong ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:59:45.547625538Z",
+  "model": "glm-5.3"
+}

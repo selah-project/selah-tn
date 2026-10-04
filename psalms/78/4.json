@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Re sa di fitlhe go bana ba bone; go buloeng morago re di bolelela dipelaelo tsa Yahwe, le maatla a gagwe, le diphodiso tsa gagwe tse a di dirileng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Re sa"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "di fitlhe"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "go bana ba bone"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "go buloeng"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "morago"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "re di bolelela"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "dipelaelo tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "le maatla a gagwe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le diphodiso tsa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di dirileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:43.268942450Z",
+  "model": "glm-5.3"
+}

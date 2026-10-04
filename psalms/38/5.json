@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Gore diphoso tsa me di fetile tlhogo ya me; jaaka boima jo bo bokete di a fokotsega go feta ntlha ya me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "diphoso tsa me"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "di fetile"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tlhogo ya me"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "jaaka boima"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "jo bo bokete"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "di a bokota"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go feta ntlha ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:38.543321472Z",
+  "model": "glm-5.3"
+}

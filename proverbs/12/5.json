@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Dithopho tsa ba lokileng ke tshiamiso; mme mekgele ya ba ba bosula ke boferefere.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "Dithopho"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tshiamiso"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "mekgele"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "boferefere"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:39.589531109Z",
+  "model": "glm-5.3"
+}

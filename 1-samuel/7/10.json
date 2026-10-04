@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 7:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme fa Samuele a ne a neela sepolo, Bafalishita ba atametse go lwa le Yisraele; mme Yahwe o ne a ba hudumedisa ka modumo o mogolo mo letsatsing leo go Bafalishita, mme ba tshikinyega, ba wa kwa pele ga Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "a ne a neela"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "sepolo"
+    },
+    {
+      "surface": "ויפלשתים",
+      "gloss": "Bafalishita"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "ba atametse"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "le Yisraele"
+    },
+    {
+      "surface": "וירעם",
+      "gloss": "a ba hudumedisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka modumo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mo letsatsing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalishita"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "a ba tshikinya"
+    },
+    {
+      "surface": "וינגפו",
+      "gloss": "ba wa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:57:02.213032399Z",
+  "model": "glm-5.3"
+}

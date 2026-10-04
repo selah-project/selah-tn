@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Kopa e e utlwileng ke ke go tswa go ⟨את⟩ Yahwe, mme morongwa o rometswe mo ditshabeng: Kokoanyang dikgoka mme tlang mo go yone, mme tlhaganyang ntwa.",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "kopa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "e e utlwileng ke ke"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "go Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "mme morongwa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "o rometswe"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "kokoanyang dikgoka"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mme tlang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "mme tlhaganyang"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ntwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:28:58.143652095Z",
+  "model": "glm-5.3"
+}

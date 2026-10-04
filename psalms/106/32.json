@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Ba ne ba galefisa kwa metsing ya Meriba, mme go ne go le bosula ga Moshe ka ntlha ya bone.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "ba ne ba galefisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsing"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ya Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "mme go ne go le bosula"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ga Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "ka ntlha ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:15.015295951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Matlhako a me a sa bopiwa thata, matlho a gago a ne a a bona; mme mo pukung ya gago a ne a kwadilwe botlhe — malatsi a a neng a tlhamilwe, a le mongwe le mongwe wa one a se ka a tlhagelela.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "Matlhako a me a sa bopiwa thata"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "a ne a a bona"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matlho a gago"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme mo"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "pukung ya gago"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "a ne a kwadilwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "a neng a tlhamilwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe le mongwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wa one"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:57.171414324Z",
+  "model": "glm-5.3"
+}

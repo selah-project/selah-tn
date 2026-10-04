@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Fa ba ne ba le banna ba palo e nnye, mmalwa thata, mme ba nna bafaladi mo go yone.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "fa ba ne ba le"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ba palo e nnye"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "mmalwa thata"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "mme ba nna bafaladi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go yone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:15.020120224Z",
+  "model": "glm-5.3"
+}

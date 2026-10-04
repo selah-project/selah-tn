@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Lodisang sefuba ka kgwedi, ka letsatsi la moletlo wa rona, ka ponyokwana ya ngwedi.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "lodisang sefuba"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ka kgwedi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sefuba"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "ka ponyokwana ya ngwedi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "moletlo wa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:06.669674859Z",
+  "model": "glm-5.3"
+}

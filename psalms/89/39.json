@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Mme wena o ne wa gana, wa tlhoya; o ile wa galefa le yo o tloditsweng wa gago.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "wa gana"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "wa tlhoya"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "wa galefa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "yo o tloditsweng wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:20.810302243Z",
+  "model": "glm-5.3"
+}

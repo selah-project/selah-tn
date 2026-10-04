@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "maje a shohame, le maje a a tsewang bakeng sa aepode le bakeng sa chechene;",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "maje a"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shohame"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "le maje a"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "a a tsewang"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "bakeng sa aepode"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "le bakeng sa chechene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:18.272890166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme Abrahame o ne a naya Yitshake ⟨את⟩ sengwe le sengwe se a neng a na le sona.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o ne a naya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a neng a na le sona"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "go Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:45.904478915Z",
+  "model": "glm-5.3"
+}

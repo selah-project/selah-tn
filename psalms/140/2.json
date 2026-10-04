@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 140,
+  "translation": "Ntoloka, Yahwe, mo mothong yo o bosula, mo monnong wa dikgoka o mpe o sireletse.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Ntoloka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "mo mothong"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yo o bosula"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mo monnong"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "wa dikgoka"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "o mpe o sireletse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:49.314475475Z",
+  "model": "glm-5.3"
+}

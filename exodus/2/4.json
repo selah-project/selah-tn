@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme kgaitsadi ya gagwe a ema kgakala, go itse se se tla dirwang mo go ene.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "kgaitsadi ya gagwe"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kgakala"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "go itse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se tla dirwang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:42.150932420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Modumo wa ba ba lebeletseng ba ga gao! Ba tlhatlhoma modumo, ba opela mmogo; gonne ba tla bona leitlhong go ya leitlhong, fa Yahwe a boela kwa Tsiyone.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "modumo wa"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "ba ba lebeletseng ba ga gao"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ba tlhatlhoma"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ba opela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leitlhong"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "go ya leitlhong"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "fa a boela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "kwa Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:59.102776199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ Yebuse, le ⟨את⟩ Emore, le ⟨את⟩ Gerageshe;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yebuse"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebuse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Emore"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Gerageshe"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Gerageshe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:59.177565923Z",
+  "model": "glm-5.3"
+}

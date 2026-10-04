@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme fa monna a kgwisa ⟨את⟩ tlhanka ya gagwe kgotsa ⟨את⟩ tlhanka ya gagwe ya mosadi ka thlaka, mme a swa ka fa seatleng sa gagwe sagwa, o tla otlhaiwa a otlhaiwa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "a kgwisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhanka ya gagwe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tlhanka ya gagwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhanka ya gagwe ya mosadi"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "tlhanka ya gagwe ya mosadi"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ka thlaka"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mme a swa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatleng sa gagwe"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "a otlhaiwa"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "o tla otlhaiwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:47.376114423Z",
+  "model": "glm-5.3"
+}

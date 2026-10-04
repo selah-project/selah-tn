@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Medimo ya ditshaba ke selefera le gauta, tiro ya diatla tsa batho.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya ditshaba"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "diatla tsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:35.468810967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Elohim a bitsa ⟨את⟩ leraka la magodimo; mme go nna boitemogelo, mme go nna moso — letsatsi la bobedi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "leraka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "la magodimo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "boitemogelo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "la bobedi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:23.945314080Z",
+  "model": "glm-5.3"
+}

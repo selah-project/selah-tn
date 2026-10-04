@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Ba phuthana, ba itshupa, ba tlhokomela dihare tsa me — jaaka ba letile bophelo jwa me.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "ba phuthana"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "ba itshupa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba bone"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "dihare tsa me"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ba tlhokomela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ba letile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:04.966583082Z",
+  "model": "glm-5.3"
+}

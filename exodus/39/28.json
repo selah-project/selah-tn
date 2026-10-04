@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Le ⟨את⟩ thae ya leshele, le ⟨את⟩ dipontsho tsa ditlhaka tsa ka fa tlase ga leshele, le ⟨את⟩ dikarolo tsa ka tlase tsa leshele, mme e ne e le motobo o o kgabisitsweng.",
+  "tokens": [
+    {
+      "surface": "ו�את",
+      "gloss": "Le ⟨את⟩",
+      "marks": "thae"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "thae"
+    },
+    {
+      "surface": "שש",
+      "gloss": "leshele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipontsho tsa ditlhaka"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "dipontsho tsa ditlhaka"
+    },
+    {
+      "surface": "המגבעות",
+      "gloss": "ditlhaka tsa ka fa tlase"
+    },
+    {
+      "surface": "שש",
+      "gloss": "leshele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikarolo tsa ka tlase"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "dikarolo tsa ka tlase"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "leshele"
+    },
+    {
+      "surface": "שש",
+      "gloss": "leshele"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "motobo o o kgabisitsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:45.929141805Z",
+  "model": "glm-5.3"
+}

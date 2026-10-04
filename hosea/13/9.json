@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "O itsenyeletse, Yisraele; ⟨gore⟩ ke nna ke thuso ya gago.",
+  "tokens": [
+    {
+      "surface": "שִֽׁחֶתְךָ֥",
+      "gloss": "o itsenyeletse"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "⟨gore⟩"
+    },
+    {
+      "surface": "בִ֥י",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "בְעֶזְרֶֽךָ",
+      "gloss": "thuso ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:56.091492547Z",
+  "model": "glm-5.3"
+}

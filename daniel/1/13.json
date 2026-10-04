@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 1:13",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme sebono sa rona se kgone go bonwa pele ga gago, le sebono sa bana ba ba jang ⟨את⟩ dijo tsa kgosi tse di tlhwatlhwa; mme jaaka o bona, o dire le badiri ba gago.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "se kgone go bonwa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "מראינו",
+      "gloss": "sebono sa rona"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "le sebono"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "sa bana"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ba ba jang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijo tsa kgosi tse di tlhwatlhwa"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "dijo tse di tlhwatlhwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tsa kgosi"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "mme jaaka"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o bona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "badiri ba gago"
+    }
+  ],
+  "timestamp": "2026-10-04T02:17:50.766034479Z",
+  "model": "glm-5.3"
+}

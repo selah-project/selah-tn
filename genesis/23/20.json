@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme sefulo seo, le phapo se se mo go sone, se ne sa tlhomiwa go nna ga Abrahame jaaka polasi ya phitlhô, go tswa ⟨את⟩ go ba ba baneng ba Kethe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sa tlhomiwa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sefulo seo"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "le phapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go sone"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ga Abrahame"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "jaaka polasi ya"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "phitlhô"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tswa ⟨את⟩",
+      "marks": "go ba ba baneng ba Kethe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba ba baneng"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ba Kethe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:41.035668608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Gore dithaba di mo neela ⟨את⟩ dijalo tsa tsona; mme diphologolo tsotlhe tsa nageng di tshameka foo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בול",
+      "gloss": "dijalo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "di neela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme tsotlhe"
+    },
+    {
+      "surface": "חית",
+      "gloss": "diphologolo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tsa nageng"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "di tshameka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijalo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:05:01.979873534Z",
+  "model": "glm-5.3"
+}

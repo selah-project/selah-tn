@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Monna le mosadi o ne a ba bopa, mme o ne a ba tshegofatsa, mme a bitsa leina la bone Adame, ka letshatshing ba neng ba bopiwa.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Monna"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "le mosadi"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "o ne a ba bopa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mme o ne a ba tshegofatsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba (monna le mosadi)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a bitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la bone"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "leina la bone"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adame"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letshatshing"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "ba neng ba bopiwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:18.446721607Z",
+  "model": "glm-5.3"
+}

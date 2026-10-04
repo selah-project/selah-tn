@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Go fitlha ka bosakhutshwane ke tla nonotsha peo ya gago, mme ke tla aga setulo sa gago mololwaneng le mololwaneng. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka bosakhutshwane"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ke tla nonotsha"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya gago"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "mme ke tla aga"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "mololwaneng"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "le mololwaneng"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "setulo sa gago"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:38.086699873Z",
+  "model": "glm-5.3"
+}

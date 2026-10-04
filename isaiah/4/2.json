@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ka letsatsi leo, sehlogwa sa Yahwe se tla nna serati le botshepegi, mme mmu wa lefatshe o tla nna toro le khuduego ya ba ba falotseng mo Yisraele.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla nna"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "sehlogowa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "serati"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "botshepegi"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "mmu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa lefatshe"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "khuduego"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "ba ba falotseng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "mo Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:50.175036579Z",
+  "model": "glm-5.3"
+}

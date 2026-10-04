@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Gore letsatsi le tlilela Yahwe Tsebaote, mo go botlhe ba ba ikakantseng le ba ba kgoditseng, le mo go botlhe ba ba godileng, ba tla a tlasega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "le tlilela Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "ba ba ikakantseng"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "le ba ba kgoditseng"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ba ba godileng"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ba tla a tlasega"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:11.442416467Z",
+  "model": "glm-5.3"
+}

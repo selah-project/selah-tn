@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Gape Lote, yo o neng a sepala le ⟨את⟩ Abrahame, o ne a na le dipoo tsa thuu, le dikgomo, le matente.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "go Lote"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yo o sepelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ne a na le"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dipoo tsa thuu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "le dikgomo"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "le matente"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:25.166544950Z",
+  "model": "glm-5.3"
+}

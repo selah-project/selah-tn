@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme lo tlaa ja segologolo, segologolo se se ntse segologolo, mme lo tlaa ntsha segologolo ka ntlha ya se sešha.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "lo tlaa ja"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "segologolo"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "se se ntse segologolo"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "segologolo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "se sešha"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "lo tlaa ntsha"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:05.553868438Z",
+  "model": "glm-5.3"
+}

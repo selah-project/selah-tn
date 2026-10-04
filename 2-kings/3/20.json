@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme go ne go le moso, ka nako ya go tlhatlhela minkha, mme bona, metsi a ne a tla ka tsela ya Edome, mme lefatshe le ne la tlala ⟨את⟩ metsi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go le"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "ka nako ya go tlhatlhela"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "a ne a tla"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ka tsela ya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "mme le ne la tlala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:33:02.234971542Z",
+  "model": "glm-5.3"
+}

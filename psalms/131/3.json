@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 131,
+  "translation": "A Yisraele anele Yahwe, go tloga jaanong le go fitlha ka bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "A ... anele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "go tloga jaanong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go fitlha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:58.391727469Z",
+  "model": "glm-5.3"
+}

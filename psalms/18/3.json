@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Yahwe ⟨ke⟩ letlapa la me, le phaposi ya me ya phetologo, le molatedi wa me; El wa me, leje la me la bogale, ke mo tshepagalang; seko sa me, le phoko ya kgololosego ya me, le phahamiso ya me.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "letlapa la me"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "le phaposi ya me ya phetologo"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "le molatedi wa me"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wa me"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "leje la me la bogale"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ke mo tshepagalang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "seko sa me"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "le phoko"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ya kgololosego ya me"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "le phahamiso ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:56.566103088Z",
+  "model": "glm-5.3"
+}

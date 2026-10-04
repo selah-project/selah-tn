@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ba re: yo o lokileng, gonne go siame; gonne maungo a ditiro tsa gagwe o tla a ja.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ba re"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo o lokileng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "go siame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "maungo"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "a ditiro tsa gagwe"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "o tla a ja"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:00.990056550Z",
+  "model": "glm-5.3"
+}

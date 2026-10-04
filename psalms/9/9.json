@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme o tla katlhola ⟨את⟩ lefatshe ka tsedeke, o tla atlholanya merafe ka boaulame.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "mme o"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "tla katlhola"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "o tla atlholanya"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "merafe"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ka boaulame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:48.585761439Z",
+  "model": "glm-5.3"
+}

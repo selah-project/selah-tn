@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 118,
+  "translation": "Go tswa mo go Yahwe mo go tswa ⟨את⟩ se; ke se se makatsang mo ditlheng tsa rona.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Go tswa mo go Yahwe ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "mo go tswa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke se"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "se se makatsang"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "mo ditlheng tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:46.467520270Z",
+  "model": "glm-5.3"
+}

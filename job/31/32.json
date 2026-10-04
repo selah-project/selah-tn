@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mosepele ga a a goroga kwa ntle; mabati a me a ne a butswa mo moaging.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "kwa ntle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "a a goroga"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mosepele"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "mabati a me"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "mo moaging"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "a ne a butswa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:02:39.871753891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Yahwe a mo re: Tsenya gape seatla sa gago mo sehubeng sa gago. A tsenya seatla sa gagwe mo sehubeng sa gagwe, mme a se ntsha, mme bonwe, seatla sa gagwe se na le bokgolokwe jaaka sekapuka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "Tsenya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke a kopa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "mo sehubeng sa gago"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tsenya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "mo sehubeng sa gagwe"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "mme a se ntsha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "se na le bokgolokwe"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "jaaka sekapuka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:47.475304365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Elohim o tlhatlogile ka kua, Yahwe ka lentswe la lenaka.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "o tlhatlogile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ka kua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentswe"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "la lenaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:39.977450847Z",
+  "model": "glm-5.3"
+}

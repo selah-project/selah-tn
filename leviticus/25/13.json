@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mo ngwageng wa morule ono, motho mongwe le mongwe o tla boela kwa getlhong ya gagwe.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "mo ngwageng wa"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "morule"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ono"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "o tla boela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho mongwe le mongwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "getlhong ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:25.329493488Z",
+  "model": "glm-5.3"
+}

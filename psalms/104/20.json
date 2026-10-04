@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "O bea lefifi, mme go nna bosigo; mo go one diphologolo tsotlhe tsa thota di tsamaya ka go ikarabella.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "o bea"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go one"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "di tsamaya ka go ikarabella"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "diphologolo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "tsa thota"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:43.242889685Z",
+  "model": "glm-5.3"
+}

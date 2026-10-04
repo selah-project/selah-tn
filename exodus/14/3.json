@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme Faro o tla re ka bana ba Yisraele: Ba phaphametse mo lefatsheng; thota e ba phahtile.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "o tla re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "ba phaphametse"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "e phahtile"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "thota"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:07.015839672Z",
+  "model": "glm-5.3"
+}

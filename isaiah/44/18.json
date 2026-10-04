@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Ga ba a itse, mme ga ba a tlhaloganya; gonne o thubitse matlho a bone gore ba se ka bona, le dipelo tsa bone gore ba se ka tlhaloganya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba a itse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba a tlhaloganya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "טח",
+      "gloss": "o thubitse"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "gore ba se ka bona"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "matlho a bone"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "gore ba se ka tlhaloganya"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "dipelo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:59:29.108541798Z",
+  "model": "glm-5.3"
+}

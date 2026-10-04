@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Ba go ba Yahwe kwa sethubeng sa bone, mme o ntsha bone mo dithubeng tsa bone.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Ba go ba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "kwa sethubeng"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa bone"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "mo dithubeng tsa bone"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "o ntsha bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:18.268852899Z",
+  "model": "glm-5.3"
+}

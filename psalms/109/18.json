@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Mme o ne a apara lore jaaka bontsho jwa gagwe, mme e ne ya tsena mo teng ga gagwe jaaka metsi, le jaaka mafura mo marapong a gagwe.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "mme o ne a apara"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "lore"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "jaaka bontsho jwa gagwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "mme e ne ya tsena"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jaaka metsi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mo teng ga gagwe"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "le jaaka mafura"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "mo marapong a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:24.074830305Z",
+  "model": "glm-5.3"
+}

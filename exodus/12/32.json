@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Le dinku tsa lona le dikgomo tsa lona di tse, jaaka le buile, mme tsamayang; mme la kgontsha gape le ⟨את⟩ nna.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "dinku tsa lona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "dikgomo tsa lona"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "di tse"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "le buile"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mme tsamayang"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "mme la kgontsha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape le"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna (Peroge)"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:58.496079603Z",
+  "model": "glm-5.3"
+}

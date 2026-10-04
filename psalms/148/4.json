@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 148,
+  "translation": "Mo baakanyeng ba mo tlotle, magodimo a magodimo, le metsi a a kwa godimo ga magodimo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mo baakanyeng ba mo tlotle"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "magodimo a"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "le metsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kwa godimo ga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:07.581441892Z",
+  "model": "glm-5.3"
+}

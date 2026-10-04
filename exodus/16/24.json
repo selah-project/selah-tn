@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme ba se boloka go fitlha mo mosong, jaaka Moshe a ne a laela; mme ga se a nna le mmala o o bosula, mme phane e ne e sena mo go sone.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "ba se boloka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sone (senkgwe se)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a ne a laela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "a nna le mmala o o bosula"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "mme phane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e ne e sena"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go sone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:00.109165652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 22:41",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme go nna mo mosong, Balake a tsea ⟨את⟩ Bileame, a mo isa kwa godimo kwa Bamote-Baale; mme a bona go tswa foo lephata la setshaba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tsea"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bileame"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileame"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "a mo isa kwa godimu"
+    },
+    {
+      "surface": "במות",
+      "gloss": "Bamote"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "משם",
+      "gloss": "go tswa foo"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "lephata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T22:13:24.043516803Z",
+  "model": "glm-5.3"
+}

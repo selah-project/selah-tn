@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "mme o se ka wa nyalana le bone: morwadia o se ka wa mo neela morwawane wa gagwe, mme morwadiaagwe o se ke wa mo tsaya morwao;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "wa nyalana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wa mo neela"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "morwawane wa gagwe"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "mme morwadiaagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wa mo tsaya"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "morwao"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:47.173608393Z",
+  "model": "glm-5.3"
+}

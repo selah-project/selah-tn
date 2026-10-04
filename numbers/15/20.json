@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Ya ntlha ya mouwane wa lona, lekwale la senkgwe, lo tla kgetha lokgetho lwa Yahwe; jaana le kgetha le la sebatla, jalo le tla se tlhatlosa ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ya ntlha"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "mouwane wa lona"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "lekwale la senkgwe"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "lo tla tlhatlosa"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "lokgetho lwa go tlhatlosa"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "jaana le kgetha le la"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "sebatla"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "le tla se tlhatlosa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lona (sekwale seo se tlhatloswang)"
+    }
+  ],
+  "timestamp": "2026-10-03T22:10:45.872568123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Me ke Yahwe, Boitshepo jwa lona, Mmopi wa Yisraele, Kgosi ya lona.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Boitshepo jwa lona"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Mmopi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Kgosi ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:22.925464030Z",
+  "model": "glm-5.3"
+}

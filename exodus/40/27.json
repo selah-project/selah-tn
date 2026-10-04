@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme a foka mo go yona mokgeo wa dinate tse monate, jaaka Yahwe a ne a laela ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "mme a foka mokgeo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "mokgeo"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "wa dinate tse monate"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a ne a laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:30.333619069Z",
+  "model": "glm-5.3"
+}

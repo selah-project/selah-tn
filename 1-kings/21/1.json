@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 21:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme go ne go le morago ga mafoko a, go ne go na le serapa sa dinape sa Navothe wa Yizreele, se se neng se kwa Yizreele, gaufi le legora la Ahaba, kgosi ya Shomrone.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go le"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "serapa sa dinape"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go ne go na le"
+    },
+    {
+      "surface": "לנבות",
+      "gloss": "sa Navothe"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "wa Yizreele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng se"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "kwa Yizreele"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "gaufi le"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "legora"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "la Ahaba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomrone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:31:07.825714463Z",
+  "model": "glm-5.3"
+}

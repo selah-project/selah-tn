@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 75,
+  "translation": "Gore ga go tswa botlhaba, le ga go tswa bophirima, mme ga go tswa nagatlhaga, dithaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "tswa botlhaba"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "le ga go tswa bophirima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "tswa nagatlhaga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:21.853164386Z",
+  "model": "glm-5.3"
+}

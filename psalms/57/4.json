@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "O tla romela kwa magodimong, a ntsholola; a gweba yo o nkamang. Selah. Elohim o tla romela hesede wa gagwe le boammaarupe.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "o tla romela"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "a ntsholola"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "a gweba"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "yo o nkamang"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "o tla romela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede wa gagwe"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "le boammaarupe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:28.599709271Z",
+  "model": "glm-5.3"
+}

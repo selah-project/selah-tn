@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme Dawide a utlwa kwa sekgowa gore Nabale a thipa ⟨את⟩ podi tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa sekgowa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "a thipa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podi tsa gagwe"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "podi tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:05:29.977981200Z",
+  "model": "glm-5.3"
+}

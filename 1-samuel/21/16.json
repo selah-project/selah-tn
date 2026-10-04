@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "A ke tlhoka batho ba ba tlhogo e thubegileng jaana, gore le ne la isa ⟨את⟩ ore yono go tla go itlhologelola fa pele ga me? A ore yono o ka tsena mo ntlong ya me?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "ke tlhoka"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "batho ba ba tlhogo e thubegileng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "le ne la isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ore yono"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ore yono"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "go itlhologelola"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fa pele ga me"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ore yono"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o ka tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ntlong ya me"
+    }
+  ],
+  "timestamp": "2026-10-03T23:04:14.098982729Z",
+  "model": "glm-5.3"
+}

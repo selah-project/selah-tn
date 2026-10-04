@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme setshaba sa ema kwa kgakala, mme Moshe a atamela go thokofo e tima mo go yona Elohim a leng gone.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "sa ema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kwa kgakala"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "mme Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "a atamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "thokofo e tima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a leng gone"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:57.930016741Z",
+  "model": "glm-5.3"
+}

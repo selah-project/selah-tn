@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ke tla ntsha ⟨את⟩ maina a Baalim mo molomong wa gagwe; mme a sa ka a gopotswa gape ka maina a one.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Mme ke tla ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maina a Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "a Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "mo molomong wa gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa ka a"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "gopotswa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "ka maina a one"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:01.045008852Z",
+  "model": "glm-5.3"
+}

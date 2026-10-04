@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Fela kwa dibe tsa Yerobeam morwa Nebate, tse di neng tsa dira gore ⟨את⟩ Yisraele e lwe dibe, o ne a itshwareletse; a se ka a fuduga mo go tsone.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "kwa dibe tsa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "tsa dira gore e lwe dibe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "o ne a itshwareletse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "סר",
+      "gloss": "a fuduga"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "mo go tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:33:00.653616757Z",
+  "model": "glm-5.3"
+}

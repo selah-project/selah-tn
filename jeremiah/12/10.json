@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Barui ba le bantsi ba senotse sefala sa me sa dinose, ba tlhotlhotse ⟨את⟩ karolo ya me; ba neile ⟨את⟩ karolo ya me e ke e ratang go nna naga e e se nang sepe.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "barui"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba le bantsi"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ba senotse"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "sefala sa me sa dinose"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "ba tlhotlhotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karolo ya me"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "karolo ya me"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba neile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karolo ya me e ke e ratang"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "e ke e ratang"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "go nna naga e e se nang sepe"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "e e senyegileng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:12:53.424477522Z",
+  "model": "glm-5.3"
+}

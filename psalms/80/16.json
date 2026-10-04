@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "Mme modu o o ferekile ka letsogo la gago la moja, le mora o o nonotshitseng go ya go wena.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "mme modu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o o"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "ferekile"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ka letsogo la gago la moja"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "o o nonotshitseng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go ya go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:24.335619657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Mme Yaakobo a gakologelsha Farao ka mohumushi, mme a tswa kwa go Farao.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "a gakologelsha ka mohumushi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-10-03T21:31:23.699172230Z",
+  "model": "glm-5.3"
+}

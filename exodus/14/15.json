@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme Yahwe a bua le Moshe: Ke eng o ntshwenya ka go gogela moya? Bua le bana ba Yisraele, gore ba tsamaye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "o gogela moya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kwa go nna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "gore ba tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:49.028029697Z",
+  "model": "glm-5.3"
+}

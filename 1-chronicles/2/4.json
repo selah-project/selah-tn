@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Tamar, ngwana wa mosadi wa moletswa wa gagwe, a begets ⟨את⟩ Perets le ⟨את⟩ Zerakh; bana ba Yehuda ba bohle e ne e le batlhano.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "mme Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ngwana wa mosadi wa moletswa wa gagwe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a begets"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Zerakh"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerakh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "batlhano"
+    }
+  ],
+  "timestamp": "2026-10-04T02:35:21.427305076Z",
+  "model": "glm-5.3"
+}

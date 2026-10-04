@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Ma a a siama bjang matente a gago, a Yaakobo, le Mishkane ya gago, a Yisraele!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ma a a siama bjang"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "a siama"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "matente a gago"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "Mishkane ya gago"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:14:10.811294060Z",
+  "model": "glm-5.3"
+}

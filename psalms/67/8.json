@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 67,
+  "translation": "Elohim o a re segofatsa, mme mekgopakgopa ya lefatshe yotlhe e tla ⟨את⟩ mo tshaba.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "o a re segofatsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mme ... e tla mo tshaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mekgopakgopa ya lefatshe yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mekgopakgopa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:15.249570494Z",
+  "model": "glm-5.3"
+}

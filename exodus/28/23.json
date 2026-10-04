@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme o dire mo khoshene dikhurumelo tse pedi tsa gauta, mme o beye ⟨את⟩ dikhurumelo tse pedi mo mafelong a mabedi a khoshene.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mme o dire"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo khoshene"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "(khoshene)"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "dikhurumelo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o beye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikhurumelo tse pedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "dikhurumelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo mafelong"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "(mafelong)"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "a khoshene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:43.926470311Z",
+  "model": "glm-5.3"
+}

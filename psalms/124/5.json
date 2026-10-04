@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 124,
+  "translation": "E ne e tla bo e feta mo pelong ya rona metsi a a bolelelwang.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "e ne e tla bo e"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "feta"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "pelong ya rona"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "a a bolelelwang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:26.041129731Z",
+  "model": "glm-5.3"
+}

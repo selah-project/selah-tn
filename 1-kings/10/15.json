@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "go sa le go feta se se neng se tswa go bajanala, le khoebo ya barekisi, le ditso tsa dikgosi tsotlhe tsa ⟨⟩ba-erarabia, le tsa balaodi ba lefatshe.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "go sa le go feta"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "se se tswang go banna ba"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "bajanala"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "le khoebo ya"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "barekisi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe tsa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tsa ba-erarabia"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "le balaodi ba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:28.761883868Z",
+  "model": "glm-5.3"
+}

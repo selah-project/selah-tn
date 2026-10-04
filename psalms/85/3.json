@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "O ne o tsweletse bokaono jwa setshaba sa gago; o ne o fitlhile dibe tsotlhe tsa bone. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "o ne o tsweletse"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bokaono"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jwa setshaba sa gago"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "o fitlhile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dibe tsa bone"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:56.233438767Z",
+  "model": "glm-5.3"
+}

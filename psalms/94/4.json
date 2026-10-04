@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Ba thula, ba bua ka tlhogafolo; ba ikakanyetsa, balekane ba ba dirang bosenyi.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Ba thula"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ka tlhogafolo"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "ba ikakanyetsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "balekane"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "און",
+      "gloss": "bosenyi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:22.447469341Z",
+  "model": "glm-5.3"
+}

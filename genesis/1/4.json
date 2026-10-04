@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Elohim a bona ⟨את⟩ kganya, gore e siame; mme Elohim a kgaoganya magareng ga kganya le sefsafala.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kganya"
+    },
+    {
+      "surface": "האור",
+      "gloss": "kganya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e siame"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "a kgaoganya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "האור",
+      "gloss": "kganya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "sefsafala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:55.581234475Z",
+  "model": "glm-5.3"
+}

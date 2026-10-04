@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Ka ntlha ya seo, diatla tsotlhe di tla sulabetsega, mme pelo ya motho mongwe le mongwe e tla imoloha.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "di tla sulabetsega"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ... mongwe le mongwe"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo ya"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "e tla imoloha"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:25.849787977Z",
+  "model": "glm-5.3"
+}

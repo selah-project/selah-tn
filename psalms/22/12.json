@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "O se ka wa kgakala le nna, gonne kgaruru e kgaufala, gonne ga go na mothusi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "wa kgakala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kgaruru"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "e kgaufala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "mothusi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:24.811472448Z",
+  "model": "glm-5.3"
+}

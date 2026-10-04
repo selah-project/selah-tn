@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Lona, tsamayang, lo ipolele bochhabi kwa nngwe le nngwe kwa lo ka se kgonang go bona; gonne ga go sepe se se tlosiwang mo tirelong ya lona.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "tsamayang"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "lo ipolele"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "bochhabi"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kwa nngwe le nngwe kwa"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "lo ka se kgonang go bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go sepe"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "se tlosiwang"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "mo tirelong ya lona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sepe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:42.665782581Z",
+  "model": "glm-5.3"
+}

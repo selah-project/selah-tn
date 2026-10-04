@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme boihlego jwa Yisraele bo mo tshegetsa seboego; mme ga ba a boela go Yahwe Elohim wa bone, mme ga ba a mmopotla mo go tsotlhe tseo.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "mme bo ... bo mo tshegetsa"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boihlego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "jwa Yisraele"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "seboego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga ... a"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ba boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga ... a"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "ba mmopotla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go tsotlhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tseo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:32.123165529Z",
+  "model": "glm-5.3"
+}

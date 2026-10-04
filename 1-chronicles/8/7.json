@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "le Naamane, le Akhiya, le Geraye — yo ene a ba tserwe a ba isa; mme a begeta ⟨את⟩ Uzaye le ⟨את⟩ Akhikhude.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "le Naamane"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "le Akhiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "le Geraye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yo ene"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "a ba tserwe a ba isa"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "mme a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzaye"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Akhikhude"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Akhikhude"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:49.018400475Z",
+  "model": "glm-5.3"
+}

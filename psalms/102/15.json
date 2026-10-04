@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Gonne badiri ba gago ba a diphaphatha ⟨את⟩ maje a yone, ba a ba showa mohau ⟨את⟩ lerole la yone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ba a diphaphatha"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "badiri ba gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maje a yone"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "maje a yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lerole la yone"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "lerole la yone"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ba a ba showa mohau"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:01.044475890Z",
+  "model": "glm-5.3"
+}

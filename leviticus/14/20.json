@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme mopriste a tlisitse ⟨את⟩ seabe sa go fisiwa le ⟨את⟩ minkha mo altareng; mme mopriste a mo itshwarela, mme a nne phepa.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "a tlisitse"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seabe sa go fisiwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "seabe sa go fisiwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mo altareng"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a mo itshwarela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "a nne phepa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:42.725682638Z",
+  "model": "glm-5.3"
+}

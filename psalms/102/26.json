@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Kwa tshimologong o ne wa bega motheo wa lefatshe, mme magodimo ke tiro ya diatla tsa gago.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Kwa tshimologong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "o ne wa bega motheo wa"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "mme tiro ya"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "diatla tsa gago"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:44.069135003Z",
+  "model": "glm-5.3"
+}

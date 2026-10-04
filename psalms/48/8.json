@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Ka ruakh ya botlhaba o thubang dikapele tsa Tarshishe.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ya botlhaba"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "o thubang"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "dikapele"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "tsa Tarshishe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:28.436502545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "obadiah 1:14",
+  "book": "obadiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme o se ka wa ema mo sekhutlwaneng sa ditsela go fedisa ⟨את⟩ ba ba falotseng ba gagwe; mme o se ka wa tswalela ba ba salang ba gagwe ka letsatsi la kotsi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ka"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "wa ema"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הפרק",
+      "gloss": "sekhutlwana sa ditsela"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "go fedisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba falotseng ba gagwe"
+    },
+    {
+      "surface": "פליטיו",
+      "gloss": "ba ba falotseng ba gagwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ka"
+    },
+    {
+      "surface": "תסגר",
+      "gloss": "wa tswalela"
+    },
+    {
+      "surface": "שרידיו",
+      "gloss": "ba ba salang ba gagwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "la kotsi"
+    }
+  ],
+  "timestamp": "2026-10-04T00:59:35.631705613Z",
+  "model": "glm-5.3"
+}

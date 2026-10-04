@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme kgosi Yehoyakime a romela banna kwa Mitsrayime — ⟨את⟩ Elnatane morwa Akhbore le banna ba le mmalwa ⟨את⟩ ene le ene — kwa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakime"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elnatane"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akhbore"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "le banna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene le ene",
+      "marks": "Elnatane le banna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-04T00:16:56.076132867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme Yosefe a tsena go bone moso, a bona ⟨את⟩ bone, mme bona ba ne ba tlhobile.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bone"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "ba tlhobile"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:14.869110263Z",
+  "model": "glm-5.3"
+}

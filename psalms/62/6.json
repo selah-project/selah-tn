@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Fela go Elohim, mo e nngwe ya me, ineela ka kagiso; gonne go tswa go ene tshepo ya me.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ineela ka kagiso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mo e nngwe ya me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa go ene"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "tshepo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:08.665077845Z",
+  "model": "glm-5.3"
+}

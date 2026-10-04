@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme ke ne ke le jaaka motho yo o sa utlweng, mme mo molomong wa gagwe ga go na ditshwetso.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jaaka motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o sa utlweng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go na"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mo molomong wa gagwe"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ditshwetso"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:05.733222823Z",
+  "model": "glm-5.3"
+}

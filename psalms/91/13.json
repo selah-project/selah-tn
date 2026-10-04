@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Godimo ga tau le noomane o tlaa tsamaya; ngwanatau le noga e kgolo o tlaa di tlhatloga.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "le noomane"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "o tlaa tsamaya"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "o tlaa di tlhatloga"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ngwanatau"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "le noga e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:00.465449219Z",
+  "model": "glm-5.3"
+}

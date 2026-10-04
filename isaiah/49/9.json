@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "go re go ba ba tsamaeng ka kgolegong: Tswang; le go ba ba mo lefifing: Itlhagatse. Ba tla fuduga mo ditseleng, le mo mabaleng otlhe a a leng godimo go tla nna borui jwa bone.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "go ba ba tsamaeng ka kgolegong"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Tswang"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "le go ba"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mo lefifing"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "Itlhagatse"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "ditseleng"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "Ba tla fuduga"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le mo go tsotlhe"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "mabala a a leng godimo"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "borui jwa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:59:21.204382378Z",
+  "model": "glm-5.3"
+}

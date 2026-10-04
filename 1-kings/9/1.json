@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme go ne go le jalo, fa Shelomoh a ne a feditse go aga ⟨את⟩ ntlo ya Yahwe le ⟨את⟩ ntlo ya kgosi, le ⟨את⟩ botlhokwa jotlhe jwa Shelomoh jwa se a neng a se batla go se dira.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go le jalo"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "fa a feditse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "botlhokwa jotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "botlhokwa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "jwa Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a neng a se batla"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go se dira"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:43.249642406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Boloka, Yahwe, gonne yo o nang le hesede o fedile; gonne ba dumelang ba fedile go bana ba motho.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Boloka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "o fedile"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "yo o nang le hesede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "ba fedile"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ba dumelang"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:52.162922965Z",
+  "model": "glm-5.3"
+}

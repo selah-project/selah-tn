@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Yahwe a bua go Moshe le go Aharone: Se ke molao wa Paseka; morupa mongwe le mongwe ga a kitla a ja ⟨את⟩ jone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le go Aharone"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molao wa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morupa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wa sego selegae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a kitla"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:50.269419648Z",
+  "model": "glm-5.3"
+}

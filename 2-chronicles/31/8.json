@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Hezekia le baeteledipele ba ne ba tsena, ba bona ⟨את⟩ ditholoana, mme ba ne ba busetsa molemo ⟨את⟩ Yahwe le ⟨את⟩ setshaba sa gagwe Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "mme ba ne ba tsena"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hezekia"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "le baeteledipele"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditholoana"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ditholoana"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "mme ba ne ba busetsa molemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setshaba sa gagwe Yisraele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:56:39.484881626Z",
+  "model": "glm-5.3"
+}

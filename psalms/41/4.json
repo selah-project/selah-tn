@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Yahwe o mo tlamela mo matlaleng a bolwetse; borobedi jwa gagwe jotlhe o bo fetotse mo bolwetseeng jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "o mo tlamela"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "matlaleng"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "a bolwetse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "borobedi jwa gagwe"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "o bo fetotse"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "mo bolwetseeng jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:16.267797034Z",
+  "model": "glm-5.3"
+}

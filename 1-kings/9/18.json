@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "le ⟨את⟩ Baalate, le ⟨את⟩ Tamare mo nageng, mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Baalate"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tamare mo nageng"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamare"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo nageng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:35.231782040Z",
+  "model": "glm-5.3"
+}

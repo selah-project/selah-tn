@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme Yosefe a bona ⟨את⟩ bokaulengwe ba gagwe, a ba itse, mme a itshwara jaaka mothagakgolo go bona, a bua ⟨את⟩ le bone ka mafoko a bokgaka, a ba re: Lo tswa kae? Ba re: Mo lefatsheng la Kenaane, go tla go reka dikolo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokaulengwe ba gagwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bokaulengwe ba gagwe"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "a ba itse"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "a itshwara jaaka mothagakgolo"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ le bone"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ka mafoko a bokgaka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Lo tswa kae"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Lo tswa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ba re"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "Mo lefatsheng"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenaane"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "go reka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dikolo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:52.008361656Z",
+  "model": "glm-5.3"
+}

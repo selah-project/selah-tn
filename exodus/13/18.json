@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Elohim a ralatsa ⟨את⟩ morafe ka tsela ya sekaka, kwa lewatle la Sufo; mme bara ba Yisraele ba tlhatloga ba apere dibetsa, ba tswa mo lefatsheng la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "a ralatsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morafe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "morafe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sekaka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ba apere dibetsa"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ba tlhatloga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:23.821882621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme o tla ya kwa lefatsheng la me le kwa lolapeng lwa me, mme o tla tsaya mosadi morwa wa me, Yitshake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "lefatsheng la me"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "lolapeng lwa me"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "o tla ya"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tla tsaya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "morwa wa me"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:15.953343945Z",
+  "model": "glm-5.3"
+}

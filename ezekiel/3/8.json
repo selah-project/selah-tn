@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Bonwe, ke ne ke dira ⟨את⟩ sefatlhego sa gago sa maatla go le kana le difatlhego tsa bone, le ⟨את⟩ lekatla la gago la maatla go le kana le matlala a bone.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke ne ke dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefatlhego sa gago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "sa maatla"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "go le kana le"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "difatlhego tsa bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lekatla la gago"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "lekatla la gago"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "la maatla"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "go le kana le"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "matlala a bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:33:37.689440247Z",
+  "model": "glm-5.3"
+}

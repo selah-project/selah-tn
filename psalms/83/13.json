@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "Ba ba neng ba re: A re nkwasele rona ⟨את⟩ makgoba a Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ba ba neng ba"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "re"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "A re nkwasele"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makgoba a Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "makgoba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:44.614704245Z",
+  "model": "glm-5.3"
+}

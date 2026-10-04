@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme e ne e le ka ngwaga wa masome a mane, ka kgwedi ya bolesome le bongwe, ka letsatsi la ntlha la kgwedi, Moshe a bua go bana ba Yisraele, jaaka sengwe le sengwe se Yahwe a neng a mo laela se ka bone.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e ne e le"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "ka ngwaga wa masome a mane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "ka kgwedi ya bolesome"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le bongwe"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ka letsatsi la ntlha"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jaaka sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a neng a mo laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bone (bana ba Yisraele)"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:56.194667459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "Dintlha tsa dibe di nnetse go feta nna; ditlhapa tsa rona — wena o di khurumeditseng.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Dintlha tsa"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "di nnetse"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go feta nna"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ditlhapa tsa rona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "o di khurumeditseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:50.663075498Z",
+  "model": "glm-5.3"
+}

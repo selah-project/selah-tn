@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Fa ruakh ya yo o busang e tlhatloga kgahlanong le wena, se ka tlogela lefelo la gago, gonne go iketla go phebola ditlolo tse dikgolo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh ya"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "yo o busang"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "e tlhatloga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kgahlanong le wena"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "lefelo la gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "tlogela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "go iketla"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "go phebola"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ditlolo"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "tse dikgolo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:42.316156482Z",
+  "model": "glm-5.3"
+}

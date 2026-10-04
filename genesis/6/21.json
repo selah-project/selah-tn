@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme wena, tsaya go wena go tswa mo dilong tse di ka jelwang tsotlhe, mme o di bokelle go wena; mme di tla nna tsa gago le tsa bone, gore di je.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tsaya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tswa mo ... tsotlhe"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "dilo tse di ka jelwang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "di ka jelwa"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "mme o tla di bokella"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme di tla nna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsa gago"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "le tsa bone"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "gore di je"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:31.316552229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 100,
+  "translation": "Itsege gore Yahwe ke ⟨הוא⟩ Elohim; ⟨הוא⟩ o dirile rona, e seng rona; re le setshaba sa gagwe, le dipoo tsa bojalwa jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Itsege"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨הוא⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨הוא⟩"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "o dirile rona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "le dipoo"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "tsa bojalwa jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:47.445285648Z",
+  "model": "glm-5.3"
+}

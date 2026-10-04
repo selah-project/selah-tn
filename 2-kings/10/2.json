@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "E bile jaanong, fa lokwalo lono lo fitlhela go lona, mme le lona lo na le bana ba beng ba lona, mme le lona lo na le dikoloi le dipitse, le motse o o nonotshitsweng, le dibetsa —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e bile jaanong"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "fa lo fitlhela"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "lokwalo lono"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lono"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ le lona lo na le",
+      "marks": "bana ba beng ba lona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ba beng ba lona"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ le lona lo na le",
+      "marks": "dikoloi le dipitse"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "dikoloi"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "le dipitse"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "le motse"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "o o nonotshitsweng"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "le dibetsa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:35:38.595171466Z",
+  "model": "glm-5.3"
+}

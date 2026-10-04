@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme ka nako eo, Yehuda a tlola go tswa ⟨את⟩ kwa go bana ba ga rraagwe, a ikutlela go mosha mongwe wa Adulame, mme leina la gagwe e ne e le Khira.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a tlola"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kwa go bana ba ga rraagwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a ikutlela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "wa Adulame"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "mme leina la gagwe"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Khira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:13.717328759Z",
+  "model": "glm-5.3"
+}

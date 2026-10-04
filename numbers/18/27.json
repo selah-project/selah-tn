@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 18:27",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme mpho ya lona e e tlhoilweng e tla balwa jaaka mabele a tswang mo lebalelang la go thuntsha, le jaaka tlatso e tswang mo serotlong.",
+  "tokens": [
+    {
+      "surface": "ונחשב",
+      "gloss": "e tla balwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "תרומתכם",
+      "gloss": "mpho ya lona e e tlhoilweng"
+    },
+    {
+      "surface": "כדגן",
+      "gloss": "jaaka mabele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a tswang"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "mo lebalelang la go thuntsha"
+    },
+    {
+      "surface": "וכמלאה",
+      "gloss": "le jaaka tlatso"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e tswang"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "mo serotlong"
+    }
+  ],
+  "timestamp": "2026-10-03T22:12:07.713077234Z",
+  "model": "glm-5.3"
+}

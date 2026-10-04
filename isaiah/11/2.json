@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme mo go ene ruakh ya Yahwe e tla ikhutla: ruakh ya botlhale le ya go tlhaloganya, ruakh ya mokgwa le ya maatla, ruakh ya kitso le ya go tshaba Yahwe.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "e tla ikhutla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ya botlhale"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "le ya go tlhaloganya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ya mokgwa"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "le ya maatla"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ya kitso"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "le ya go tshaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:41.934476799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme motlhanka wa ne a baya ⟨את⟩ seatla sa gagwe ka fa tlase ga leoto la Abrahame mong wa gagwe, mme a ikana go ena ka kgang e.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "motlhanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "leoto"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mong wa gagwe"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "a ikana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kgang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:06.461318965Z",
+  "model": "glm-5.3"
+}

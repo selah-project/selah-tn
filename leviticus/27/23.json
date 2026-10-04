@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 27:23",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "mme moporofeti a mo lekanya ⟨את⟩ tekanyetso ya gago go fitlha ngwaga wa Yobele; mme a nea tekanyetso ya gago ka letsatsi leo — se se boitshepo go Yahwe.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "mme a lekanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a mo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moporofeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekanyetso"
+    },
+    {
+      "surface": "מכסת",
+      "gloss": "tekanyetso ya"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "tlhalo ya gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ngwaga wa"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yobele"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mme a nea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhalo ya gago"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "tlhalo ya gago"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "se se boitshepo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:39.212673344Z",
+  "model": "glm-5.3"
+}

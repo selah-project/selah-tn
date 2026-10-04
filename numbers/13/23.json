@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 13:23",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Ba fitlha kwa molapeng wa Eshikole, mme ba kgaola foo thuntsho le aisikole le le lengwe la dinare, mme ba se jara ka mogote ba babedi; gape ba tsaya mo dimonwaneng le mo difeigeleng.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba fitlha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molapeng"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshikole"
+    },
+    {
+      "surface": "ויכרתו",
+      "gloss": "ba kgaola"
+    },
+    {
+      "surface": "משם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "זמורה",
+      "gloss": "thuntsho"
+    },
+    {
+      "surface": "ואשכול",
+      "gloss": "le aisikole"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "la dinare"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le le lengwe"
+    },
+    {
+      "surface": "וישאהו",
+      "gloss": "ba se jara"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "ka mogote"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "dimonwaneng"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "התאנים",
+      "gloss": "difeigeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:08:36.272514559Z",
+  "model": "glm-5.3"
+}

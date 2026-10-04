@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Barake a mo re: Ge o tsamaya le nna, ke a tsamaya; mme ge o sa tsamaye le nna, ga ke tsamaye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barake"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "o tsamaya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ke a tsamaya"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme ge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "tsamaye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-03T22:47:43.029063038Z",
+  "model": "glm-5.3"
+}

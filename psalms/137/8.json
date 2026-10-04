@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 137,
+  "translation": "Morwadia Babele, o o tlhaotseng, o itumelele yo o tla go duelelang ka ⟨את⟩ puso ya gago e o e dirileditseng rona.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Morwadia"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "o o tlhaotseng"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "o itumelele"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "yo o tla go duelelang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso ya gago"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "puso ya gago"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "e o e dirileditseng"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:20.002156839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ba re: Ga o a re sotla, wa re gatelela, le go tsewa sepe mo seatleng sa motho.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mme ba re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "o a re sotla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wa"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "re gatelela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "go tsewa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "sepe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:00:04.608613055Z",
+  "model": "glm-5.3"
+}

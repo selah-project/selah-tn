@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "O ka romola ⟨את⟩ mma wa nonyane, mme ⟨את⟩ bana o ka ba tshwara bo o bo rwale; gore go nne botoka go wena, mme o nne le matsatsi a mantsi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "romola bo"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "o ka romola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mma wa nonyane"
+    },
+    {
+      "surface": "האם",
+      "gloss": "mma wa nonyane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "o ka ba tshwara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bo o bo rwale"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "go nne botoka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "mme o nne le... a mantsi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:28:54.920850563Z",
+  "model": "glm-5.3"
+}

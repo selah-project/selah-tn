@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme e nne jalo: ka gonne baabeledi ba ne ba tshaba ⟨את⟩ Elohim, o ne a ba direla malapa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e nne jalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba ne ba tshaba"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "baabeledi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o ne a dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "malapa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:17.592411812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "mme bagolo ba gago le baatlhodi ba gago ba tlose, mme ba lekanya go ya kwa ditoropong tse di mo dikologong tsa yo o tlhasilweng.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba tlose"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "bagolo ba gago"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "le baatlhodi ba gago"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "ba lekanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ditoropong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "di mo dikologong"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "tsa yo o tlhasilweng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:06:49.119144341Z",
+  "model": "glm-5.3"
+}

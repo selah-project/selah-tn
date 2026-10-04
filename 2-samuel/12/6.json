@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ⟨את⟩ kwanyana o tla e duela ka nako tse nne, ka gonne o dirile ⟨את⟩ se, mme ga a ka a nna le mohau.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kwanyana"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla e duela"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "ka nako tse nne"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "—"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a ka a"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "nna le mohau"
+    }
+  ],
+  "timestamp": "2026-10-03T23:12:18.496374912Z",
+  "model": "glm-5.3"
+}

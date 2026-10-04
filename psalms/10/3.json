@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Gore moloi o ikgorosa ka takatso ya pelo ya gagwe, mme yo batlang gohuma o a ohaleta, o nyenyefatsa Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "o ikgorosa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moloi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "takatso"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ya pelo ya gagwe"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "mme yo batlang gohuma"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "o a ohaleta"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "o nyenyefatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:47.514263781Z",
+  "model": "glm-5.3"
+}

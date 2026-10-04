@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 92,
+  "translation": "Mme o ne wa tlhatlhama lenaka la me jaaka la nare; o ne wa ntlatsa ka mafura a a tala.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "wa tlhatlhama"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "jaaka la nare"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "lenaka la me"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "o ne wa ntlatsa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "a a tala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:04.590664238Z",
+  "model": "glm-5.3"
+}

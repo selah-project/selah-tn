@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "Tsedeke e tla tsamaya kwa pele ga gagwe, mme e tla dira ditsela tsa dikgato tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "kwa pele ga gagwe"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "e tla tsamaya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mme e tla dira"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "dikgato tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:48.195545217Z",
+  "model": "glm-5.3"
+}

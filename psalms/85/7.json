@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "A wena ga o na go boa o re tlhophafatse, gore setshaba sa gago se itumelele mo go wena?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a ga se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o tla boa"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "o re tlhophafatse"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "gore setshaba sa gago"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se itumelele"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:20.384350730Z",
+  "model": "glm-5.3"
+}

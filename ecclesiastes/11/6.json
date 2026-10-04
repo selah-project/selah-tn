@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mo mosong tlhagisa ⟨את⟩ peo ya gago, mme mo maitseboeng se keletse seatla sa gago; gonne o sa itse e e tlaa atlegang, ena kgotsa ena, mme fa bobedi jwa tsone jaaka bongwe, di siame.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tlhagisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peo ya gago"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya gago"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "mme mo maitseboeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "keletse"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "itse"
+    },
+    {
+      "surface": "אי",
+      "gloss": "e"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "e tlaa atlega"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bobedi jwa tsone"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "jaaka bongwe"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "di siame"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:37.416891928Z",
+  "model": "glm-5.3"
+}

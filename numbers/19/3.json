@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme lo mo neele ⟨את⟩ Elazare moruti, mme a mo isa kwa ntle ga kampu, mme a mo tlhaba kwa pele ga ene.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "lo mo neele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo (kwanyana)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazare"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "a mo isa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo (kwanyana)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle ga"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampu"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "a mo tlhaba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo (kwanyana)"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "kwa pele ga ene"
+    }
+  ],
+  "timestamp": "2026-10-03T22:13:10.400745997Z",
+  "model": "glm-5.3"
+}

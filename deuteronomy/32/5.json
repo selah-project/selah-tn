@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Ba ipusolositse mo go ene; bofofofe jwa bone ga bo a tswa go bana ba gagwe — banatla ba ba raborabang le ba ba fapafapang.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "ba ipusolositse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "go bana ba gagwe"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "bofofofe jwa bone"
+    },
+    {
+      "surface": "דור",
+      "gloss": "banatla"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ba ba raborabang"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "le ba ba fapafapang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:36.426844064Z",
+  "model": "glm-5.3"
+}

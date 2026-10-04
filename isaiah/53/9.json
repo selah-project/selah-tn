@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Mme ba ne ba dira sepopa sa gagwe le ⟨את⟩ ba ba mo tlhoyang, le ⟨את⟩ mohumi le loso lwa gagwe; go sekae ga a dira boferelo, mme boswi ga bo na boalo mo molomong wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ba ne ba mo neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "sepopa sa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mohumi"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mohumi"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "le loso lwa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "go sekae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "boferelo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "boswi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mo molomong wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:42.025413031Z",
+  "model": "glm-5.3"
+}

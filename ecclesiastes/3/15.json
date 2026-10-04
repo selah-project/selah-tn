@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Se se neng se le teng kgale ke sone, le se se tlang se ne se le teng kgale; mme Elohim o batla ⟨את⟩ se se latlhilweng.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "se neng se le teng"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kgale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke sone"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le se se tlang"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "se tlang"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kgale"
+    },
+    {
+      "surface": "היה",
+      "gloss": "se ne se le teng"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "mme Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "o batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se latlhilweng"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "se se latlhilweng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:10.970388823Z",
+  "model": "glm-5.3"
+}

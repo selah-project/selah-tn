@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a nna le ngwaga di le masome a matlhano, a tla boa a ikgogela morago mo tirong ya maemotho, mme a se ka a dira tiro ya gagwe gape.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "mme a nna le"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masome a matlhano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "a tla boa"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "mo tirong ya maemotho"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ya maemotho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a se ka"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "a dira tiro ya gagwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-03T22:06:44.266000950Z",
+  "model": "glm-5.3"
+}

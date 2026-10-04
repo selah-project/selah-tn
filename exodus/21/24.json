@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Lonapo mo boemong jwa lonapo, leino mo boemong jwa leino, seatla mo boemong jwa seatla, leoto mo boemong jwa leoto.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "lonapo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "lonapo"
+    },
+    {
+      "surface": "שן",
+      "gloss": "leino"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "leino"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "leoto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "leoto"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:42.983363320Z",
+  "model": "glm-5.3"
+}

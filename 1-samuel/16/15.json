@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme makgoba a Shaüle a mo raya: Bonwe, re kopa, ruakh ya Elohim e e bosula e go tshosa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a mo raya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "makgoba a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaüle"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "re kopa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e e bosula"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "e go tshosa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:01:17.736343337Z",
+  "model": "glm-5.3"
+}

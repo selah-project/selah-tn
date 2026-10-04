@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "A se ke ka nna se nnete se re neng re se bua le wena kwa Mitsrayime, re re: Tlogela re, re ye go direla ⟨את⟩ Ba-Mitsrayime? Gonne go ne go tla bo go le botoka go rona go direla ⟨את⟩ Ba-Mitsrayime, go go feta go swa mo nagateng.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A se ke ka nna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "se nnete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "re neng re se bua"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "re re"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "Tlogela"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "re ye go direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba-Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ba-Mitsrayime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "go tla bo go le botoka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "go direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba-Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ba-Mitsrayime"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "go go feta go swa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo nagateng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:02.397951097Z",
+  "model": "glm-5.3"
+}

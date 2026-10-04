@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Bongofang Yah, bongofang ⟨את⟩ leina la Yahwe, bongofang, ba direli ba Yahwe,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "bongofang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bongofang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bongofang"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ba direli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:40.491595602Z",
+  "model": "glm-5.3"
+}

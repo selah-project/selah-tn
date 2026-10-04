@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Shelomo o ne a na le ba ba tlhomilweng ba le lesome le bobedi mo go Yisraele yotlhe; mme ba ne ba tlhokomela ⟨את⟩ kgosi le ⟨את⟩ legae la gagwe; ngwaga o ne o na le kgwedi e le nngwe mo go mongwe le mongwe, go ne go mo go yone go tlhokomela.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "mme Shelomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lesome le bobedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ba ba tlhomilweng"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Yisraele yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ba ne ba tlhokomela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "legae la gagwe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "legae la gagwe"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mo ngwageng"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o ne o na le"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "go tlhokomela"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:52.459256866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Letsogo la gago la moja, Yahwe, le gakgamatsa ka thata; letsogo la gago la moja, Yahwe, le thaya phoko sebolaya.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "letsogo la gago la moja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "le gakgamatsa"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ka thata"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsogo la gago la moja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "le thaya phoko"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sebolaya"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:18.804953695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme go mosadi wa moagisane wa gago, o se ka wa neela go oba ga gago e le peo, go itsholla ka ene.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Mme go"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "wa moagisane wa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "neela"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "go oba ga gago"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "e le peo"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "go itsholla"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:06.730651233Z",
+  "model": "glm-5.3"
+}

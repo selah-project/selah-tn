@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ba go tela kwa go Yahwe, mme ba re: Re dirile bolo, gonne re tlogetse ⟨את⟩ Yahwe, ra direla ⟨את⟩ Beale le ⟨את⟩ Ashetarote; jwa gompieno, re golole mo dijatong tsa ba ba re tlhoyang, re tlaa go direla.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ba go tela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "re dirile bolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "re tlogetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ra direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beale"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Beale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ashetarote"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashetarote"
+    },
+    {
+      "surface": "וועתה",
+      "gloss": "jwa gompieno"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "re golole"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo dijatong tsa"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ba ba re tlhoyang"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "re tlaa go direla"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:57.439795659Z",
+  "model": "glm-5.3"
+}

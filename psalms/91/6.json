@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Bolwetse bo tsamayang ka lefifing, le tshenyego e senyang ka seetebosigo.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "bolwetse"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "ka lefifing"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "bo tsamayang"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "tshenyego"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "e senyang"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "ka seetebosigo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:18.695321450Z",
+  "model": "glm-5.3"
+}

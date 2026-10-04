@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme sepego sa dikgomo se ne se le ka fa tlase ga lone, se dikologa ka dikologo; di ne di se dikologa ka dikhuba di le lesome, di bapala ⟨את⟩ Lewatle ka dikologo; dikgomo di ne tsa tlhotlwa ka mela e mebedi ka go tlhotlwa ga lone.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "mme sepego sa"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lone"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "se dikologa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka dikologo"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "di ne di se dikologa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "di le lesome"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka dikhuba"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "di bapala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Lewatle"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka dikologo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "e mebedi"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "ka mela"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "tsa tlhotlwa"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "ka go tlhotlwa ga lone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:48:01.492329221Z",
+  "model": "glm-5.3"
+}

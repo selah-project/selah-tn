@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Fa ba ba siamang ba oketsega, setshaba se a nna boitumelo; mme fa moloi a busa, setshaba se a nna masego.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Fa ba oketsega"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba ba siamang"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se a nna boitumelo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "mme fa a busa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moloi"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "se a nna masego"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:51:54.095246134Z",
+  "model": "glm-5.3"
+}

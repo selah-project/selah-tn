@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Yahwe o mo boloka, o mo tshela; o tlhakatlhakana ka mahlaphe mo lefatsheng, mme o se ka wa mo neya mo thogakong ya baba ba gagwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "o mo boloka"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "o mo tshela"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "o tlhakatlhakana ka mahlaphe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "mo neya"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mo thogakong"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ya baba ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:16.267631497Z",
+  "model": "glm-5.3"
+}

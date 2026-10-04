@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Bakgosi ba ditshaba di kgobokantswe, sechaba sa Elohim sa Abrahame; gonne magolo a lefatshe ke a ga Elohim, o godileng thata.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "Bakgosi ba"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "di kgobokantswe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba sa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ke a ga Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "magolo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a lefatshe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "o godileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:28.896107186Z",
+  "model": "glm-5.3"
+}

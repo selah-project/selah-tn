@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme Yahwe a tiisa ⟨את⟩ pelo ya Faro, kgoseng wa Mitsrayime, mme a tlhomoloka morago ga bana ba Yisraele; mme bana ba Yisraele ba ne ba ntse ba tsamaya ka seatla se se kwa godimo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a tiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Faro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoseng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayime"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "a tlhomoloka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mme bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ba ne ba ntse ba tsamaya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "se se kwa godimo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:09.059592115Z",
+  "model": "glm-5.3"
+}

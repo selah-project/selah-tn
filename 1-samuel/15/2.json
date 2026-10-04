@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Go bua jalo Yahwe Tsebaote: Ke akantse ⟨את⟩ se Amaleke a se dirileng go Yisraele, se a se beileng mo tseleng fa a ne a tlola go tswa kwa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ke akantse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se Amaleke a se dirileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se dirileng"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a se beileng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo gagweng"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "fa a ne a tlola"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go tswa kwa Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-04T03:08:46.105880057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Pele ga gagwe bolwetse bo ne bo tsamaya, mme tlhaga e ne e ntshiwa kwa maotong a gagwe.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga gagwe"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "bo ne bo tsamaya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bolwetse"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mme e ne e ntshiwa"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "tlhaga"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "kwa maotong a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:06:40.439281150Z",
+  "model": "glm-5.3"
+}

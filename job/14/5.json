@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Fa malatsi a gagwe a a laetsweng, palo ya dikgwedi tsa gagwe e le ⟨את⟩ go wena, o beile moellaa gagwe, mme ga o kitla o oa mo go one.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "a a laetsweng"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "malatsi a gagwe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "dikgwedi tsa gagwe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ go wena",
+      "marks": "go wena"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "moelela oa gagwe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o beile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "a o kitla a oa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:57:09.082960834Z",
+  "model": "glm-5.3"
+}

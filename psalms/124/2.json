@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 124,
+  "translation": "E sekae go nna jalo fa Yahwe a ne a sa nna le rona, fa batho ba ne ba tsoga kgatlhanong le rona,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "e sekae go nna jalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "a ne a nna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "fa ba ne ba tsoga"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kgatlhanong le rona"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:36.014944228Z",
+  "model": "glm-5.3"
+}

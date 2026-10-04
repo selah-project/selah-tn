@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme wa botshelego, Yitreame, wa Eegla, mosadi wa Dawide; bana bano ba belegilwe go Dawide kwa Kheberone.",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "Mme wa botshelego"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yitreame"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "wa Eegla"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bana bano"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ba belegilwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dawide"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "kwa Kheberone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:09:10.912357047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Go na le sengwe se o ka se buang: Bonang, se sešwa ke sone; se ne se le teng gape kwa nakong e e fetileng, dingwaga tse di fetileng pele ga rona.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sengwe"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "se o ka se buang"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "se sešwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke sone"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "se ne se le teng gape"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwa nakong e e fetileng"
+    },
+    {
+      "surface": "לעולמים",
+      "gloss": "dingwaga tse di fetileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di neng di le teng"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "pele ga rona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:38.538615325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Yahwe o itsege ka go dira katlholo; moithaopi o tsewa mo moswaneng ka tiro ya diatla tsa gagwe. Higayone. Seleka.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "o itsege"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "mo moswaneng"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "diatla tsa gagwe"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "o tsewa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moithaopi"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayone"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seleka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:03.461045865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 29:5",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "le sekhutlo sa dipodi se le sengwe, se eteelwang ke sephoso, go go phuthusa mo go lona;",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "le sekhutlo sa dipodi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "dipodi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le sengwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "se eteelwang ke sephoso"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "go go phuthusa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mo go lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:16:06.243087507Z",
+  "model": "glm-5.3"
+}

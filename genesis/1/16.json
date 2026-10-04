@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Elohim a dira ⟨את⟩ dinakedi tse pedi tse dikgolo: ⟨את⟩ nakedi e kgolo e e busang letsatsi, le ⟨את⟩ nakedi e nnye e e busang bosigo, le ⟨את⟩ dinaledi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme...a dira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinakedi tse pedi tse dikgolo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "dinakedi"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "tse dikgolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nakedi e kgolo"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "nakedi"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "e e busang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "nakedi e nnye"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "nakedi"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "e nnye"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "e e busang"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinaledi"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "dinaledi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:30.323661499Z",
+  "model": "glm-5.3"
+}

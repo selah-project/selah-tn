@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Kwa tshimologong Elohim o ne a bopa ⟨את⟩ magodimo le ⟨את⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Kwa tshimologong"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "o ne a bopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magodimo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:55.580549345Z",
+  "model": "glm-5.3"
+}

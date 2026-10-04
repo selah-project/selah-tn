@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Ga ke a nna le banna ba maaka, mme le ba ba iphitlhang ga ke tsena le bone.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ke a nna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ba maaka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ba ba iphitlhang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ke tsena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:31.193566086Z",
+  "model": "glm-5.3"
+}

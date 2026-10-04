@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "Bapriste ba gago ba apese tsedeke, mme ba ba nang le hesede ba gago ba go opela ka boitumelo.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "Bapriste ba gago"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ba apese"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "mme ba ba nang le hesede ba gago"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ba go opela ka boitumelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:12.516651184Z",
+  "model": "glm-5.3"
+}

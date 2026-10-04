@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme a re: Mmitseng. A mo mmitla, mme a ema kwa lebati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Mmitseng"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "A mo mmitla"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "mme a ema"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "kwa lebati"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:01.821405977Z",
+  "model": "glm-5.3"
+}

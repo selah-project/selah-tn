@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Batsadi ba se ke ba bolawa ka bana, mme bana ba se ke ba bolawa ka batsadi; motho o bolawa ka boleo jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba se ke ba"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bolawa"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "batsadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "mme bana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke ba"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bolawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "batsadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "ka boleo jwa gagwe"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "o bolawa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:48.845524202Z",
+  "model": "glm-5.3"
+}

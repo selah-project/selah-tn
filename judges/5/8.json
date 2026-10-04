@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 5:8",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Ba ne ba tlhopha medimo e meswa; ka nako eo go ne go nna ntwa kwa dikgorong — a thebe kgotsa lerumo di ne di ka bonwa mo baneng ba masome a mane a dikete mo Yisraele?",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "ba ne ba tlhopha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "e meswa"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "kwa dikgorong"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "thebe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "di ne di ka bonwa"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "kgotsa lerumo"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "mo baneng ba masome a mane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a dikete"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mo Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:46:33.801827416Z",
+  "model": "glm-5.3"
+}

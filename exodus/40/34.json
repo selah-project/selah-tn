@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme leru le ne le koafatsa ⟨את⟩ tente ya kopano, mme kgalalelo ya Yahwe le ne la jalaisha ⟨את⟩ Mishkane.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "mme le koafatsa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "leru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tente ya kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "mme kgalalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "la jalaisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:59.024074912Z",
+  "model": "glm-5.3"
+}

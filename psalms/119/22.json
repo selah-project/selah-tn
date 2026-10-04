@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Golola go tswa mo go nna sego le go nyenyefadiwa, gonne bopaki jwa gago ke jone ke bolokileng.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "golola"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "go tswa mo go nna"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sego"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "le go nyenyefadiwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki jwa gago"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ke bolokileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:44.906056433Z",
+  "model": "glm-5.3"
+}

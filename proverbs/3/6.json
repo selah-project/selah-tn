@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mo itse mo ditseleng tsa gago tsotlhe, mme ⟨o⟩ tla a tlhatlhobela ditsele tsa gago.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "mo ... tsotlhe"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ditseleng tsa gago"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "Mo itse"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme o"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "⟨o⟩ tla a tlhatlhobela"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ditsele tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:31.432753771Z",
+  "model": "glm-5.3"
+}

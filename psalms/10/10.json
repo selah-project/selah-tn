@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "O nonotlha, a ineela, mme ba ba humileng ba wa ka maatla a gagwe a maatla.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "o nonotlha"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "a ineela"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "mme ba wa"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "ka maatla a gagwe"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "ba ba humileng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:39.189168460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "A ba phimolwe mo bukeng ya ba tshelang, mme ba ba siamang ba seka ba kwalwa le bone.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "a ba phimolwe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mo bukeng"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya ba tshelang"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba ba siamang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba seka"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ba kwalwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:03.846532279Z",
+  "model": "glm-5.3"
+}

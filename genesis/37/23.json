@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme e re Yosife a fihla kwa bokaulengweng ba gagwe, ba mo utlola Yosife ⟨את⟩ — seaparo sa gagwe, seaparo sa dipalese se se neng se se mo go ene.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e re"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "e re"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosife"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bokaulengweng ba gagwe"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "ba mo utlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosife"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosife"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seaparo sa gagwe"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "seaparo sa gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seaparo sa dipalese"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "seaparo sa"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "dipalese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:15.424380530Z",
+  "model": "glm-5.3"
+}

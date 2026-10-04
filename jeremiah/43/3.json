@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "gore Barukhe morwa Nerya ke ena a go hlohlelorang kgatlhanong le rona, gore a re neele mo seatleng sa Bakasde, go re bolaya le go re hudulela kua Babele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukhe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerya"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "a go hlohlelola"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "kgatlhanong le rona"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kgatlhanong le rona"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תת",
+      "gloss": "a re neele"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "mo seatleng sa Bakasde"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "sa Bakasde"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "go re bolaya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "go re bolaya"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "go re hudulela"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "kua Babele"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    }
+  ],
+  "timestamp": "2026-10-04T00:26:51.099118737Z",
+  "model": "glm-5.3"
+}

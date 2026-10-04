@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Gore botlhale bo tsena mo pelong ya gago, mme kitso e nna monate mo moyeng wa gago.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bo tsena"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "mo pelong ya gago"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "mme kitso"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "mo moyeng wa gago"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "e nna monate"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:48.866333081Z",
+  "model": "glm-5.3"
+}

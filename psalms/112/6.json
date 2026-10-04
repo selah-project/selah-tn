@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 112,
+  "translation": "Fa e sa le ka bosakhutlhang o se ka wa tsamaisiwa; yo o lokileng o tla nna segopotso sa bosakhutlhang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa e sa le"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosakhutlhang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tsamaisiwa"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "segopotso sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bosakhutlhang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla nna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo o lokileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:51.571902163Z",
+  "model": "glm-5.3"
+}

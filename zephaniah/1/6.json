@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Le ⟨את⟩ ba ba sokamang morago ga Yahwe, le ba ba sa batlang ⟨את⟩ Yahwe, le ba sa mo batleng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba ba sokamang"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "ba ba sokamang"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "batlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ba sa"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "mo batleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:06:47.376793600Z",
+  "model": "glm-5.3"
+}

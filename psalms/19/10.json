@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Tshabo ya Yahwe e e tlhatsweng sechaba e eme ka bosakhutlho; dikatlholo tsa Yahwe ke boammaaruri, di a siama ka botlalo.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "tshabo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "e e tlhatsweng sechaba"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ka bosakhutlho"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikatlholo tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "boammaaruri"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "di a siama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ka botlalo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:06.545247307Z",
+  "model": "glm-5.3"
+}

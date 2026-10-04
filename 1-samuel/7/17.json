@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme boelo jwa gagwe e ne e le kwa Ramata, gonne foo e ne e le legae la gagwe; mme foo o ne a atlholo ⟨את⟩ Yisraele, mme a aga foo altarare go Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "Mme boelo jwa gagwe"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "kwa Ramata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "legae la gagwe"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme foo"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "o ne a atlholo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mme a aga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:04.284321619Z",
+  "model": "glm-5.3"
+}

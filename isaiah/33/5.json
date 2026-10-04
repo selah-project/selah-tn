@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Yahwe o a godiama, gonne o nna kwa godimo; o tladitse Tsiyone ka katlholo le tsedeke.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "o a godiama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "o nna"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o tladitse"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "le tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:00.549871843Z",
+  "model": "glm-5.3"
+}

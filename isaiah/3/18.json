@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ka letsatsi leo Adonai o tlaa tlosa ⟨את⟩ botle jwa dietsele, le dithaka, le dikgwama tsa setshwano sa kgwedi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "o tlaa tlosa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botle jwa dietsele"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "botle"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "dietsele"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "dithaka"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "dikgwama tsa setshwano sa kgwedi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:03.048202829Z",
+  "model": "glm-5.3"
+}

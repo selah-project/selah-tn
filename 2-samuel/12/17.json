@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme balebedi ba ntlo ya gagwe ba tlhaga, ba ema mo go ene go mo tlhatlosa go tswa mo lefatsheng; mme o ne a sa batla, mme a sa je senkgwe ⟨את⟩ le bone.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ba tlhaga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "balebedi ba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "go mo tlhatlosa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "batla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "je"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "le bone"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:11:48.901387369Z",
+  "model": "glm-5.3"
+}

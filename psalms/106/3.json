@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mahumo a a nang le bone ba ba sireletseng katlholo, ba dirang tshiamiso ka nako tsotlhe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahumo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ba ba sireletseng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ba dirang"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tshiamiso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... tsotlhe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nakong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:59.086874952Z",
+  "model": "glm-5.3"
+}

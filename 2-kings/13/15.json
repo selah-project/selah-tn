@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Elisha a mo raya a re: Tshwara kobamokgweleo le maswafi. A mme a mo neela kobamokgweleo le maswafi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme Elisha a raya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a mo"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Tshwara"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kobamokgweleo"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "le maswafi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "A a neela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kobamokgweleo"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "le maswafi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:29.739597175Z",
+  "model": "glm-5.3"
+}

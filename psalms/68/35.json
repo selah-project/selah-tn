@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Eeletsang maatla go Elohim; godimo ga Yisraele ke boiketlo jwa gagwe, mme maatla a gagwe a kwa marung.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "eeletsang"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "boiketlo jwa gagwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "mme maatla a gagwe"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "a kwa marung"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:13.968397523Z",
+  "model": "glm-5.3"
+}

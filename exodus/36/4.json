@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme ba ne ba tla botlhe ba ba nang le bohlale, ba ba dirang ⟨את⟩ tiro yotlhe ya boitshepo, monna mongwe le mongwe a tswa mo tirong ya gagwe e ba neng ba e dira.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba ne ba tla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "ba ba nang le bohlale"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiro yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya boitshepo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "mo tirong ya gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ba e dirang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:09.284783019Z",
+  "model": "glm-5.3"
+}

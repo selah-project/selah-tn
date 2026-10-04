@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Setho sa ba tsedekang ke motho wa bosula, mme setho sa yo o bosulang ke yoo o siamang mo tseleng.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "Setho"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sa ba tsedekang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עול",
+      "gloss": "wa bosula"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "mme setho"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa yo o bosulang"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "yoo o siamang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mo tseleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:51:47.053830877Z",
+  "model": "glm-5.3"
+}

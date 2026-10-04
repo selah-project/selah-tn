@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Ditshaba di ile tsa tlhotlhorwa, bogosi jwa gogolo; O ne a bua ka lentswe la gagwe, lefatshe le a tsamokela.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "di ile tsa tlhotlhorwa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "bogosi"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bo jwa gogolo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "O ne a bua"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "ka lentswe la gagwe"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "le a tsamokela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:16.397586306Z",
+  "model": "glm-5.3"
+}

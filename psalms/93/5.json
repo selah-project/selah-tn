@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 93,
+  "translation": "Bopaki jwa gago bo netefaditswe thata; go nna boitshepo go siametse ntlo ya gago, Yahwe, go ya lokhutshwane la malatsi.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki jwa gago"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "bo netefaditswe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "go nna boitshepo go siametse ntlo ya gago"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "go siametse"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "go ya lokhutshwane la"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:17.770348413Z",
+  "model": "glm-5.3"
+}

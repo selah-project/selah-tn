@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "le ⟨את⟩ Kesede, le ⟨את⟩ Khazo, le ⟨את⟩ Piladashe, le ⟨את⟩ Yidalafe, le ⟨את⟩ Betuele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kesede"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Khazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Piladashe"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Piladashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yidalafe"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidalafe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Betuele"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:39.916106960Z",
+  "model": "glm-5.3"
+}

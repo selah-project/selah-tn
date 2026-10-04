@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "kapa boleo jwa gagwe a bo dirileng bo ka tlhagelela go ena, o tla isa ⟨את⟩ polao ya gagwe, podi ya tonà e e se nang maswe.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "bo ka tlhagelela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go ena"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "boleo jwa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a bo dirileng"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a dirile"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "o tla isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polao ya gagwe"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "polao ya gagwe"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "podi ya tonà"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ya dipodi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tonà"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e e se nang maswe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:28.306855647Z",
+  "model": "glm-5.3"
+}

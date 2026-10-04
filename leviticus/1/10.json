@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme fa mpho ya gagwe e le ya kulube, ya makanyana kgotsa ya dipudi, e le phaello ya go fediwa, eta e le namane ya teng e se nang maswabi, o tlaa e isa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kulube"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "mpho ya gagwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "makanyana"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "dipudi"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "e le phaello ya go fediwa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "eta"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e se nang maswabi"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "o tlaa e isa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:29.886460626Z",
+  "model": "glm-5.3"
+}

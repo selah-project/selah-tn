@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Go moeteledipele, ka \"Thuti ya Moso\". Moko wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteledipele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "thuti"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:50.724720539Z",
+  "model": "glm-5.3"
+}

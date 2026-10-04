@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Go tswa mo ⟨את⟩ ba ba tswalogolo ba bana ba Yisraele, o ne a tsaya ⟨את⟩ selefera — metso e mehlano le masome a marataro le makgolo a mararo le dikete tse tharo — ka shekele ya boitshepo",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "go tswa mo ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ba ba tswalogolo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o ne a tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selefera"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "metso e mehlano"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "le masome a marataro"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "le makgolo a mararo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "le dikete tse tharo"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ka shekele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:11.946792016Z",
+  "model": "glm-5.3"
+}

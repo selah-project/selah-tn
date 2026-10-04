@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 19:31",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Se sekamang kwa dilaolwa-tsa-moya le kwa ba ba itsegeng, se batleng go ithibela go nna boitshoko ka bone; ke nna Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "sekamang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "dilaolwa-tsa-moya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "ba ba itsegeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "batleng"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "go ithibela go nna boitshoko"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka bone"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:04:41.022448664Z",
+  "model": "glm-5.3"
+}

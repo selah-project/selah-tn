@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "A ba swabega mme a ba tshwenyega go ya bosakhutshwane, mme a ba hlongafala, mme a ba senyega.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "A ba swabega"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "mme a ba tshwenyega"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bosakhutshwane"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "mme a ba hlongafala"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "mme a ba senyega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:56.319044075Z",
+  "model": "glm-5.3"
+}

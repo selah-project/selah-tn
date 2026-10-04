@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Fa a ba bolaya, ba ne ba mo batla, ba boela ba batla El ka boitsheko.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "a ba bolaya"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "ba ne ba mo batla"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ba boela"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ba batla ka boitsheko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:11.704939439Z",
+  "model": "glm-5.3"
+}

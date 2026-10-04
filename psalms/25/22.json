@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Elohim, golola ⟨את⟩ Yisraele go tswa mo ditsogong tsa gagwe tsotlhe.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "golola"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tswa mo ... tsotlhe"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ditsogong tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:23.617311158Z",
+  "model": "glm-5.3"
+}

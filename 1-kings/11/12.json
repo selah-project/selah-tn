@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme ka dinako tsa gago ga ke kitla ke e dira, ka ntlha ya Dawide ntataagago; go tswa mo seatleng sa morwaago ke tla bo ke e kgaola.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "mme"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "ka dinako tsa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ke kitla ke"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "e dira"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntataagago"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "go tswa mo seatleng sa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwaago"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ke tla bo ke e kgaola"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:31.836091789Z",
+  "model": "glm-5.3"
+}

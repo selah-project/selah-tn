@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Letsatsi lotlhe ba ntshwanela mafoko a me; dithaele tsa bone tsotlhe kgatlhanong le nna go dira bosula.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a me"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ba ntshwanela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatlhanong le nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "dithaele tsa bone"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "go dira bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:04.966435565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Fa Shadai a huntha dikgosi mo go yona, go na kobo kwa Tsalmoneng.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "fa a huntha"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "go na kobo"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "kwa Tsalmoneng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:25.500854377Z",
+  "model": "glm-5.3"
+}

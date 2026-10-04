@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme ke tla dira kgolagano ya me fa gare ga me le ga wena, mme ke tla go atisa thata thata.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "fa gare ga me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "le ga wena"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ke tla go atisa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:38.885211283Z",
+  "model": "glm-5.3"
+}

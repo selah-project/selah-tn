@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Gape ba ba go tshephang ka botlalo ga ba ka ke ba tlhoka tlotlo; ba ba hlobotse boikanyego ba tlhoke tlotlo ka maitsetsa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ba ba go tshephang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ba ka ke ba"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "tlhoka tlotlo"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ba tlhoke tlotlo"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "ba ba hlobotse boikanyego"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ka maitsetsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:41.568759802Z",
+  "model": "glm-5.3"
+}

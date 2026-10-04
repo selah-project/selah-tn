@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "A mo rwala, a mo isa go siaagwe, mme a nna fa godimo ga mangolwa a gagwe go fitlha sefigare, a bo a swa.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "A mo rwala"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "a mo isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "siaagwe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme a nna"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa godimo ga"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "mangolwa a gagwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "sefigare"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a bo a swa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:10:53.264748307Z",
+  "model": "glm-5.3"
+}

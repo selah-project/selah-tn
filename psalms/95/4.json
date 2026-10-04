@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 95,
+  "translation": "Yao mo seatleng sa gagwe se nang le dikhutlo tse di tseneletseng tsa lefatshe, mme diphatlalatsogo tsa dithaba ke tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Yao"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "dikhutlo tse di tseneletseng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ta lefatshe"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "mme diphatlalatsogo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ta dithaba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ke tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:58.598799864Z",
+  "model": "glm-5.3"
+}

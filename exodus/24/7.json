@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme a tseela puku ya kgolagano, a e bala mo dithebing tsa setshaba; mme ba re: Sengwe le sengwe se Yahwe a se buileng, re tlaa se dira, mme re tlaa utlwa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tseela"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "puku"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ya kgolagano"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bala"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mo dithebing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tsa setshaba"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a se buileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re tlaa se dira"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "mme re tlaa utlwa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:31.721622069Z",
+  "model": "glm-5.3"
+}

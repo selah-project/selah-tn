@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Mme wena, Yahwe Adonai, direla ⟨את⟩ nna ka ntlha ya leina la gago, gonne hesede ya gago ke e e siameng; ntshole mo kotsing.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "direla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e e siameng"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ntshole mo kotsing"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:37.813400910Z",
+  "model": "glm-5.3"
+}

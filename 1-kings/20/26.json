@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme fa ngwaga o ne o boa, Bene-Hadade a tlhatlhoba ⟨את⟩ Arame, a ya kwa Afeke go lwa le Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e ne ya nna"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "fa... o boela"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "a tlhatlhoba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arame"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a ya kwa godimo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeke"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:30:56.939226361Z",
+  "model": "glm-5.3"
+}

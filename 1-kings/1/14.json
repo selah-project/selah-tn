@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Bonwe, fa o ntse o bua foo le kgosi, nna ke tla tsena morago ga gago, mme ke tla tlatsa ⟨את⟩ mafoko a gago.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "fa o ntse"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ke tla tsena"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "morago ga gago"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "mme ke tla tlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a gago"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mafoko a gago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:26.623769551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "⟨את⟩ melao ya gago ke e boloka; se se ntlhokomele thata.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya gago"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya gago"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ke e boloka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "se ntlhokomele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:04.693849227Z",
+  "model": "glm-5.3"
+}

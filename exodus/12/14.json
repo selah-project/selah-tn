@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme letsatsi le le tla nna fa lona segopotso, mme le tla keteka ⟨את⟩ lone keteko mo go Yahwe, mo malokong a lona a le mmalwa; molaotheo wa bosakhutlho — le tla mo keteka.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme … le tla nna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi le"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fa lona"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "segopotso"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "mme le tla keteka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lone"
+    },
+    {
+      "surface": "חג",
+      "gloss": "keteko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mo go Yahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "mo malokong a lona"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molaotheo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa bosakhutlho"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "le tla mo keteka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:26.691434661Z",
+  "model": "glm-5.3"
+}

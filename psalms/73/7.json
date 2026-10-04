@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Matlho a bone a tlhagelela ka mafura; ba feta ⟨dipono⟩ tsa pelo.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "a tlhagelela"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "matlho a bone"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ba feta"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "⟨dipono⟩"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "tsa pelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:46.624536196Z",
+  "model": "glm-5.3"
+}

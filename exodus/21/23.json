@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme fa seabe se direga, o neela botshelo mo boemong jwa botshelo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "seabe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se direga"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "o neela"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "botshelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:42.983223976Z",
+  "model": "glm-5.3"
+}

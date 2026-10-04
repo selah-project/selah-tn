@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Yo o tlotlegang ke tla mo bitsa, Yahwe, mme ke tla bolokwa mo baneng ba ba mo tlhoyang.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "yo o tlotlegang"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla bitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mo baneng ba"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ke tla bolokwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:56.566253329Z",
+  "model": "glm-5.3"
+}

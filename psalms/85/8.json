@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "Re bontshe hesede ya gago, Yahwe, mme o re neye polokego ya gago.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "re bontshe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "le polokego ya gago"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o re neye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:20.384489097Z",
+  "model": "glm-5.3"
+}

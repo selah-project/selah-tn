@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "yo o ikannetseng go Yahwe, a ikana go Abire wa Yaakobo,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a ikana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "a ikannetsa"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "go Abire wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:13.240246843Z",
+  "model": "glm-5.3"
+}

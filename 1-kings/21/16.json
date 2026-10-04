@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 21:16",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme go ne go le jalo, fa Ahaba a utlwa gore Nabote o tlhokafetse, Ahaba a tshoga a ya kwa serotlwaneng sa Nabote wa Yizereele, go se tsamaela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go le jalo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "fa a utlwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מת",
+      "gloss": "o tlhokafetse"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabote"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a tshoga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "a ya kwa tlase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "serotlwaneng sa"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabote"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "wa Yizereele"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "go se tsamaela"
+    }
+  ],
+  "timestamp": "2026-10-03T23:30:03.152351084Z",
+  "model": "glm-5.3"
+}

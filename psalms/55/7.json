@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Mme ka re: Ke mang yo o ka mpayang lefufa jaaka leruarua? Ke ne ke tla fofa, ke boele ke nne kwa boikhutisong.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yo o ka mpayang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "lefufa"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "jaaka leruarua"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ke ne ke tla fofa"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ke boele ke nne kwa boikhutisong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:16.529663921Z",
+  "model": "glm-5.3"
+}

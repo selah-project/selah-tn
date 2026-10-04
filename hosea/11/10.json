@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Ba tla tsamaya morago ga Yahwe; o tla gogela jaaka tau, gonne yena o tla gogela, mme bana ba tla thothomela go tswa bophirima.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tla tsamaya"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "jaaka tau"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "o tla gogela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "o tla gogela"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "mme ba tla thothomela"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "go tswa bophirima"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:30.179103452Z",
+  "model": "glm-5.3"
+}

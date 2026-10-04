@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "A hesede ya gagwe e fedile gangwe le galefa? A lefoko le fedile go kokomana le kokomana?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "a e fedile"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "gangwe le galefa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "a le fedile"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "go kokomana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le kokomana"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:04.676413112Z",
+  "model": "glm-5.3"
+}

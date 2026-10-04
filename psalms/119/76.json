@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "A re hesede ya gago e nne kagiso ya me, go ya ka lefoko la gago le le kwadilweng le modiri wa gago.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "A re ... e nne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "e nne kagiso ya me"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "go ya ka lefoko la gago"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "le modiri wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:01.629326412Z",
+  "model": "glm-5.3"
+}

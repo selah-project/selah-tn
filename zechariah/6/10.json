@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Go tseye mongwe wa ba ba ketekileng, go tswa mo ⟨את⟩ Khelde, le mo ⟨את⟩ Tobiya, le mo ⟨את⟩ Yedaiya; mme wena o tla o tsena ka letsatsi leo, o tsena mo ntlong ya Yoashiya morwa Tsefaniya, ba ba tswang kwa Babele:",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "go tseye"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tswa mo ⟨את⟩",
+      "marks": "Khelde"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ba ba ketekileng"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "Khelde"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le mo ⟨את⟩",
+      "marks": "Tobiya"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tobiya"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le mo ⟨את⟩",
+      "marks": "Yedaiya"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Yedaiya"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "mme o tla o tsena"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "o tsena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "ya Yoashiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefaniya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tswang"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "kwa Babele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:08:00.482223988Z",
+  "model": "glm-5.3"
+}

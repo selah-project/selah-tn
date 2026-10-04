@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 19:3",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme dikgosi tsa bana ba Amone di re kwa Khanune: A Dawide, mo matlhong a gago, o a tlotla ⟨את⟩ rraago, ka gonne o rometse batlhotlhomolatsi go wena? A ga se go batlisisa, go fetola le go lekola lefatshe foo badiri ba gagwe ba neng ba tla go wena?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "di re"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amone"
+    },
+    {
+      "surface": "לחנון",
+      "gloss": "kwa Khanune"
+    },
+    {
+      "surface": "המכבד",
+      "gloss": "o a tlotla"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraago"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rraago"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mo matlhong a gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o rometse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מנחמים",
+      "gloss": "batlhotlhomolatsi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "A ga se"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "go"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "go batlisisa"
+    },
+    {
+      "surface": "ולהפך",
+      "gloss": "go fetola"
+    },
+    {
+      "surface": "ולרגל",
+      "gloss": "go lekola"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "badiri ba gagwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T02:42:12.784410486Z",
+  "model": "glm-5.3"
+}

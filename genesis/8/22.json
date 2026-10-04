@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Go sa le gape, ka malatsi otlhe a lefatshe, peo le go sega, marogo le molesi, selemo le mariga, mosebe le bosigo — ga di tlhole di ikhutsa.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "go sa le gape"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ka malatsi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a lefatshe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "le go sega"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "marogo"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "molesi"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "mariga"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "mosebe"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bosigo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "di tlhole di ikhutsa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:54.975262475Z",
+  "model": "glm-5.3"
+}

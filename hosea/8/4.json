@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 8:4",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ba dirile dikgosi, mme e seng go tswa kua nna; ba dirile balaodi, mme nna ga ke a itse. Selefera ya bone le gauta ya bone ba e dirile medimo ya bone, gore ba fedisiwe.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "המליכו",
+      "gloss": "ba dirile dikgosi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e seng"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa kua nna"
+    },
+    {
+      "surface": "השירו",
+      "gloss": "ba dirile balaodi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e seng"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ga ke a itse"
+    },
+    {
+      "surface": "כספם",
+      "gloss": "Selefera ya bone"
+    },
+    {
+      "surface": "וזהבם",
+      "gloss": "le gauta ya bone"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba e dirile"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ya bone"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ba fedisiwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:24.192165091Z",
+  "model": "glm-5.3"
+}

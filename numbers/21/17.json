@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Ka nako eo Yisraele o ne a opela ⟨את⟩ pina ene: Tshoga, selego, le e lopole:",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ka nako eo"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "o ne a opela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pina ene"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "pina ene"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ene"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Tshoga"
+    },
+    {
+      "surface": "באר",
+      "gloss": "selego"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "le e lopole"
+    },
+    {
+      "surface": "לה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-10-03T22:12:12.547018313Z",
+  "model": "glm-5.3"
+}

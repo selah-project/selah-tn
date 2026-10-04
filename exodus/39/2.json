@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme a dira ⟨את⟩ ephode — ka gauta, tekelete, argamane, mabubi a khibidu, le linne le le tlhotlhoretsweng.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephode"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephode"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le argamane"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "le mabubi a"
+    },
+    {
+      "surface": "שני",
+      "gloss": "khibidu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le linne"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "le le tlhotlhoretsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:10.602688541Z",
+  "model": "glm-5.3"
+}

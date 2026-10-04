@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ba bantsi ba re: Ke mang ya tla re bontshang se siameng? Tlhagatsa mo go rona kganya ya sefatlhego sa gago, Yahwe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Ba bantsi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ya tla re bontshang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se siameng"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Tlhagatsa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mo go rona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kganya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ya sefatlhego sa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:07.550043704Z",
+  "model": "glm-5.3"
+}

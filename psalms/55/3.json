@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Ntlogele fela mme o ntshele, ke a tsamaya-ke-a boa mo go tlhokomeliso ya me, mme ke a llela ka modumo.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Ntlogele fela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "mme o ntshele"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "ke a tsamaya-ke-a boa"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "mo go tlhokomeliso ya me"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "mme ke a llela ka modumo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:55.411326973Z",
+  "model": "glm-5.3"
+}

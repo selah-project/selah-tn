@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme o tla dira ⟨את⟩ diphabolo tsa Mishkane: phabolo e le masome a mabedi go ya letlhakoreng la borwa, kwa borwa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mme o tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphabolo"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "diphabolo"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "sa Mishkane"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "phabolo"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "go ya letlhakoreng"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "la borwa"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kwa borwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:20.202589275Z",
+  "model": "glm-5.3"
+}

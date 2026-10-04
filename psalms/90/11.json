@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "Ke mang yo o itseng nonofo ya bogale jwa gago? Go ya ka tlhotlhomiso ya gago, bogale jwa gago.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yo o itseng"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nonofo"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ya bogale jwa gago"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "go ya ka tlhotlhomiso ya gago"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "bogale jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:38.496948495Z",
+  "model": "glm-5.3"
+}

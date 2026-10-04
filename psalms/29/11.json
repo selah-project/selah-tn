@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Yahwe o neeletse maatla setshabeng sa gagwe; Yahwe o tshegofatsa ⟨את⟩ setshaba sa gagwe ka kagiso.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "setshabeng sa gagwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o neelane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tshegofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sa gagwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ka kagiso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:29.746500633Z",
+  "model": "glm-5.3"
+}

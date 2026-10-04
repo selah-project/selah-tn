@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 1:8",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Morwa a me, reetla kaelo ya rraago, mme o se ka wa tlogela Torah ya mmaago.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "reetla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa a me"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kaelo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya rraago"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "tlogela"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ya mmaago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:33.701319125Z",
+  "model": "glm-5.3"
+}

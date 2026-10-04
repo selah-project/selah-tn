@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Moafiri ke nna mo lefatsheng; se ka wa fitlha melao ya gago go tswa go nna.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Moafiri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka wa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fitlha"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa go nna"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "melao ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:28.257384576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Gore dikgwedi di le thataro Yoabe le Yisraele jotlhe ba ne ba nna koo, go fitlha go feditswe banna botlhe kwa Edome.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "di le thataro"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "dikgwedi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ba ne ba nna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le jotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "go feditswe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "banna"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "kwa Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T23:25:46.522016056Z",
+  "model": "glm-5.3"
+}

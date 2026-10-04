@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a thula mo mafuring a go tlodisa godimo ga tlhogo ya Aharone, mme a mo tlodisa go mo itshepisa.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "a thula"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "mo mafuring a"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a go tlodisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "a mo tlodisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "go mo itshepisa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:01.372166634Z",
+  "model": "glm-5.3"
+}

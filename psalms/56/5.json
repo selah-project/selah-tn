@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Ka Elohim ke a boka lefoko la gagwe; ka Elohim ke tshephile; ga ke na go tshoga — se nama e ka se se dirang go nna.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ke a boka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lefoko la gagwe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshephile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ke na go tshoga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e ka se dirang"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:04.966211775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Ba dira ntwa le ⟨את⟩ Bera kgosi ya Sodome, le ⟨את⟩ Birsha kgosi ya Gomore, Shiniababe kgosi ya Adame, le Shemeabere kgosi ya Tseboyime, le kgosi ya Belea — e leng Tsoare.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Ba dira"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera kgosi ya Sodome"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodome"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Birsha kgosi ya Gomore"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomore"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shiniababe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adame"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "le Shemeabere"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboyime"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le kgosi ya"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belea"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e leng"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:59.808381402Z",
+  "model": "glm-5.3"
+}

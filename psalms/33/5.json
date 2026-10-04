@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Yo o ratang tsedeke le katlholo; hesede ya Yahwe e tlalitse lefatshe.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Yo o ratang"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le katlholo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tlalitse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:15.888208689Z",
+  "model": "glm-5.3"
+}

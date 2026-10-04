@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 95,
+  "translation": "Dingwaga di le masome a mane ke ne ke sa iketla ka ntlha ya poloko e, mme ka re: Setshaba se ke sa dithogo tsa pelo, mme se sa itse ditsela tsa me.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "di le masome a mane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Dingwaga"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ke ne ke sa iketla"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ka ntlha ya poloko e"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Setshaba"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "sa dithogo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "se"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "itse"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:33.960084487Z",
+  "model": "glm-5.3"
+}

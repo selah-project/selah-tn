@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 34:23",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Dikgomo tsa bone, le dithoto tsa bone, le diphoofolo tsotlhe tsa bone — a ga di a siamela rona? Fela a re ba dumele, ba tla nna ⟨את⟩ le rona.",
+  "tokens": [
+    {
+      "surface": "מקנהם",
+      "gloss": "dikgomo tsa bone"
+    },
+    {
+      "surface": "וקנינם",
+      "gloss": "le dithoto tsa bone"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "diphoofolo tsa bone"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "siamela rona"
+    },
+    {
+      "surface": "הם",
+      "gloss": "di"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "נאותה",
+      "gloss": "a re ba dumele"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba tla nna"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rona",
+      "marks": "le rona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:45.661412202Z",
+  "model": "glm-5.3"
+}

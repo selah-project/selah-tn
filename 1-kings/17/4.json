@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme go tla nna jalo: o tla nwa metsi a molapo o o, mme ke laetse ⟨את⟩ dikgwale go go jela koo.",
+  "tokens": [
+    {
+      "surface": "ו היה",
+      "gloss": "Mme go tla nna jalo"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "metsi a molapo o o"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "o tla nwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikgwale"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dikgwale"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke laetse"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "go go jela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:27:40.542675967Z",
+  "model": "glm-5.3"
+}

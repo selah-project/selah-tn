@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "Malatsi a dingwaga tsa rona ke masome a supa; mme fa e ka nna ka nonofo, ke masome a robedi; mme boikhutso jwa tsone ke go dira le bokgole. Gore di ka tsewa ka bonako, mme ra fofa.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "malatsi a"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "dingwaga tsa rona"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "masome a supa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ka nonofo"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "masome a robedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "boikhutso jwa tsone"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "bokgole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "גז",
+      "gloss": "di ka tsewa"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "ka bonako"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "ra fofa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:38.496816275Z",
+  "model": "glm-5.3"
+}

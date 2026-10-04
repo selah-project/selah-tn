@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ⟨את⟩ letlalo la thulare, le ⟨את⟩ nama ya yone yotlhe, le tlhago ya yone le maoto a yone, le karolo ya teng le mesifa ya yone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "letlalo la thulare"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "la thulare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nama ya yone yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya yone"
+    },
+    {
+      "surface": "על",
+      "gloss": "le"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tlhago ya yone"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "maoto a yone"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "karolo ya teng"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "mesifa ya yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:07.953646977Z",
+  "model": "glm-5.3"
+}

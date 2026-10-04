@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Kgosi e ne ya romela mme ya mo golola; mmusi wa ditshaba o ne a mo ntsha.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "e ne ya romela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Kgosi"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "ya mo golola"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mmusi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "wa ditshaba"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "a mo ntsha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:50.035784214Z",
+  "model": "glm-5.3"
+}

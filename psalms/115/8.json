@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Ba ba di dirang ba tla nna jaaka tsone; le ba botlhe ba ba ikanyang mo go tsone.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "jaaka tsone"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla nna"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ba ba di dirang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba botlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ba ikanyang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:21.409330404Z",
+  "model": "glm-5.3"
+}

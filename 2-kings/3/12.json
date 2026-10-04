@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Yehoshafata a re: Lefoko la Yahwe le na le ⟨את⟩ ene. Mme kgosi ya Yisraele, le Yehoshafata, le kgosi ya Edome, ba wa fa go ene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafata"
+    },
+    {
+      "surface": "יש",
+      "gloss": "le na le"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "Lefoko la Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ba wa fa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "le Yehoshafata"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le kgosi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ya Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:08.469100490Z",
+  "model": "glm-5.3"
+}

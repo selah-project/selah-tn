@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme a ntsha ⟨את⟩ mokoro wa dithaka tsa bona, mme a ba gogela ka boima; mme Mitsrayime a re: A re tlhabele kafa go Yisraele, gonne Yahwe o lwela bone kgatlhanong le Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokoro"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "mokoro"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "dithaka tsa bona"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "a ba gogela"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "ka boima"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "a re tlhabele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kafa go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "o lwela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kgatlhanong le Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:39.528915327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Abrahame a bitsa ⟨את⟩ leina la morwa wa gagwe, wa yo o belegileng go ene, yo Saraa a m begetseng, Yitshake.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "la morwa wa gagwe"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "yo o belegileng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a m begetseng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:28.121619867Z",
+  "model": "glm-5.3"
+}

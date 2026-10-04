@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Gonne Esra o ne a baakanya ⟨את⟩ pelo ya gagwe go batla ⟨את⟩ Torah ya Yahwe, le go e dira, le go ruta kwa Yisraele molawana le tshiamiso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Esra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "o ne a baakanya"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "go batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah ya Yahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "le go e dira"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "le go ruta"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kwa Yisraele"
+    },
+    {
+      "surface": "חק",
+      "gloss": "molawana"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le tshiamiso"
+    }
+  ],
+  "timestamp": "2026-10-04T02:26:26.598738398Z",
+  "model": "glm-5.3"
+}

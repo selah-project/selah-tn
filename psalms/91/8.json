@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Fela ka matlho a gago o tla lebelela, mme o tla bona moputso wa ba boshwa.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ka matlho a gago"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "o tla lebelela"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "mme moputso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa ba boshwa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o tla bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:18.695592525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 134,
+  "translation": "Pina ya go Tlhatloga. Bonang, segotshang ⟨את⟩ Yahwe, botlhe babadiri ba Yahwe, ba ba emeng mo ntlong ya Yahwe ka dilo tsa bosigo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya go Tlhatloga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "segotshang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "babadiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ba ba emeng"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ka dilo tsa bosigo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:48.827299671Z",
+  "model": "glm-5.3"
+}

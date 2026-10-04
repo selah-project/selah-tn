@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Ga a ka a dira jalo go setshaba sengwe le sengwe; mme ka dikatlholo, ga ba a di itse. Mpheleleng Yah lefoko la kgalalelo!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a ka a dira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go setshaba sengwe le sengwe"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "mme ka dikatlholo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ba a di itse"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "mpheleleng lefoko la kgalalelo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:03.559734282Z",
+  "model": "glm-5.3"
+}

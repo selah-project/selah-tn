@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Gore ka mabaka a a seng teng ba ne ba fitlhelela mo piteng ya me ra bo ba ntsha pele; ka mabaka a a seng teng ba ne ba epa mo poko ya me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka mabaka a a seng teng"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ba ne ba fitlhelela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "mo piteng ya me"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "ra bo ba ntsha pele"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka mabaka a a seng teng"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ba ne ba epa"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mo poko ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:32.611526486Z",
+  "model": "glm-5.3"
+}

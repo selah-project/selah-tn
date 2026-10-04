@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 128,
+  "translation": "Mme o bone bana ba bana ba gago. Kagiso mo go Yisraele!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Mme o bone"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ba bana ba gago"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Kagiso"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:39.808568537Z",
+  "model": "glm-5.3"
+}

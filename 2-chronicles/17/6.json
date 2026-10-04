@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme pelo ya gagwe ya tlhatloga mo ditseleng tsa Yahwe; gape o ne a ntsha ⟨את⟩ mafelo a a kwa godimo le ⟨את⟩ ditlhare tsa Ashera go tswa mo Yahuda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ya tlhatloga"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mo ditseleng tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "o ne a ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafelo a a kwa godimo"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mafelo a a kwa godimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditlhare tsa Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ditlhare tsa Ashera"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "go tswa mo Yahuda"
+    }
+  ],
+  "timestamp": "2026-10-04T02:51:28.538805419Z",
+  "model": "glm-5.3"
+}

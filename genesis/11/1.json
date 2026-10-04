@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme lefatshe lotlhe le ne le na le puo e le nngwe, le mafoko a le bongwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "puo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "le mafoko"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "a le bongwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:07.524249832Z",
+  "model": "glm-5.3"
+}

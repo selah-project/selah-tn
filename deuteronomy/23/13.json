@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme go nne le sekgala go wena kwa ntle ga kampu, mme o tle koo kwa ntle.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "mme go nne le sekgala"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go nne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kwa ntle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ga kampu"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "mme o tle"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "kwa ntle"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:38.527951944Z",
+  "model": "glm-5.3"
+}

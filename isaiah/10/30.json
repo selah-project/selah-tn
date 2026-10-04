@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Kgala ka lentswe la gago, morwadie Gaime; theeletsa, Laisha; o hlotse, Anatote.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "kgala"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ka lentswe la gago"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadie"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Gaime"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "theeletsa"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Laisha"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "o hlotse"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatote"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:58.202160086Z",
+  "model": "glm-5.3"
+}

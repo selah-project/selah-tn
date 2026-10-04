@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Ke tshwana le leele la sekaka, ke ne ke le jaaka phutlwa ya mafelo a omeletseng.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "ke tshwana le"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "leele"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sekaka"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "jaaka phutlwa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ya mafelo a omeletseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:04.181242857Z",
+  "model": "glm-5.3"
+}

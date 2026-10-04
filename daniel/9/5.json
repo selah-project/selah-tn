@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Re ile ra dira phoso, ra dira bobolo, ra dira boshula, ra tsuologa, ra fapana le melao ya gago le mekgwetso ya gago.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "ra dira phoso"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "ra dira bobolo"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "ra dira boshula"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "ra tsuologa"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ra fapana"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "le melao ya gago"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "le mekgwetso ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T02:22:48.628039102Z",
+  "model": "glm-5.3"
+}

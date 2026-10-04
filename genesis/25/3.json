@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme Yakoshane a begetsa ⟨את⟩ Sheba le ⟨את⟩ Dedane; mme bana ba Dedane e ne e le Ashurime le Letushime le Leumime.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Mme Yakoshane"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Dedane"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedane"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mme bana ba"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedane"
+    },
+    {
+      "surface": "היו",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurime"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "le Letushime"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "le Leumime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:27.474152932Z",
+  "model": "glm-5.3"
+}

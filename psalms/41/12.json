@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Ka se ke itseng gore o ikwetlile ka nna, gore mmaba wa me ga a gole go nna.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke itseng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "o ikwetlile"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "a gole"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mmaba wa me"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:49.826118833Z",
+  "model": "glm-5.3"
+}

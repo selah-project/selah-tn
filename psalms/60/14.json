@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Ka Elohim re tlaa dira botsalano, mme ene o tlaa kgwathola ba ba re kgaphetseng.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Ka Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re tlaa dira"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "botsalano"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "o tlaa kgwathola"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ba ba re kgaphetseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:20.725807705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "pele ga letsatsi le phatlalatsa, le lesedi, le kgwedi, le dinaledi di fisega, mme maru a boela morago morago ga pula;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "le phatlalatsa · di fisega"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "le lesedi"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "le kgwedi"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "le dinaledi"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "mme maru a boela morago"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "pula"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:19.457904806Z",
+  "model": "glm-5.3"
+}

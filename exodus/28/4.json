@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 28:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme tsena ke diaparo tse ba tlang go di dira: khoshene, epode, mokobo, kotone ya go bileda, mytara ya tlhogo, le mokgoba; mme ba dire diaparo tsa boitshepo tsa Aharone kgaitsanao wa gago le tsa bana ba gagwe, gore ba nne bapriste go ya go nna.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "mme tsena"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba tlang go di dira"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "khoshene"
+    },
+    {
+      "surface": "ואפוד",
+      "gloss": "epode"
+    },
+    {
+      "surface": "ומעיל",
+      "gloss": "mokobo"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "kotone"
+    },
+    {
+      "surface": "תשבץ",
+      "gloss": "ya go bileda"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "mytara ya tlhogo"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "le mokgoba"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "mme ba dire"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tsa Aharone"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "kgaitsanao wa gago"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "le tsa bana ba gagwe"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "go nna bapriste"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go ya go nna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:02.260395815Z",
+  "model": "glm-5.3"
+}

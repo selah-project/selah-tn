@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 20:1",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Pashkhure, morwa wa Imere, moruti, ene e le mookamedi yo o nang le maemo mo ntlong ya Yahwe, a utlwa ⟨את⟩ Yirmeyahu a porofeta ⟨את⟩ mafoko a.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashkhure"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Imere"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ene e le"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "yo o nang le maemo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "a porofeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-10-04T00:15:57.560257156Z",
+  "model": "glm-5.3"
+}

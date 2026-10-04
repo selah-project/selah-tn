@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Bakgakgamatsi ba ne ba dira jalo ka diphiri tsa bone go ntsha ⟨את⟩ dintsu, mme ba ka se kgone; mme dintsu di ne di le mo sethong le mo phoofolong.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba ne ba dira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "bakgakgamatsi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ka diphiri tsa bone"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "go ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dintsu"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "dintsu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ... se"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba ka se kgone"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "di ne di le"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "dintsu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mo sethong"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "le mo phoofolong"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:25.002026255Z",
+  "model": "glm-5.3"
+}

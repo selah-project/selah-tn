@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme le dule le ⟨את⟩ rona, mme lefatshe le tla nna le pele ga lona; dula, e gwebise, mme le e tshotshe mo go yona.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "le ⟨את⟩ rona",
+      "marks": "le rona"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "le dule"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mme lefatshe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "le pele ga lona"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "dula"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "e gwebise"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "le e tshotshe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go yona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:41.324967188Z",
+  "model": "glm-5.3"
+}

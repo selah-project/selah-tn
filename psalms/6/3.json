@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Ntshwarele, Yahwe, gonne ke tlhoka nonofo; ntshola, Yahwe, gonne marapo a me a tshwenyegile.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ntshwarele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ke tlhoka nonofo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "ntshola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "a tshwenyegile"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "marapo a me"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:38.557520758Z",
+  "model": "glm-5.3"
+}

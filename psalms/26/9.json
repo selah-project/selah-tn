@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Se ke wa kgobokanya moya wa me le ba ba nang le ditlhabololo, gape se ke wa kgobokanya bophelo ba me le banna ba madi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "wa kgobokanya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ba ba nang le ditlhabololo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "gape le"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bophelo ba me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:37.621068040Z",
+  "model": "glm-5.3"
+}

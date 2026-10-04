@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Bo-rraetshabo kwa Mitsrayime ga ba a tlhaloganya dilo tsa makgetho a gago, ga ba a gopola ⟨את⟩ bontsi jwa hesede ya gago, mme ba tsuologela kwa lewatleng, kwa Lewatle la Sufe.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "bo-rraetshabo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ba a tlhaloganya"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dilo tsa makgetho a gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ba a gopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bontsi jwa hesede ya gago"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bontsi jwa"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "mme ba tsuologela"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "בים",
+      "gloss": "kwa lewatleng"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "la Sufe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:36.400760856Z",
+  "model": "glm-5.3"
+}

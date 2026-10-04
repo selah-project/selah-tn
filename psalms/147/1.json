@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Rerang Yah, gonne go siame go opela mo Elohim wa rona; gonne ke monate, tefo e a nnela.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rerang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "go siame"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "go opela"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ke monate"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "e a nnela"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "tefo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:16.350408646Z",
+  "model": "glm-5.3"
+}

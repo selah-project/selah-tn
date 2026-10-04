@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Motho ke eng, gore o mo gopola? le morwa wa motho, gore o mo etela?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "o mo gopola"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "le morwa wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "o mo etela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:35.175022386Z",
+  "model": "glm-5.3"
+}

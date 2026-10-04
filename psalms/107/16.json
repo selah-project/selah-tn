@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Gore o phuthetse mahati a tongore, mme o segantse ditlhanka tsa selefera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "o phuthetse"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "mahati"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "a tongore"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "mme ditlhanka tsa"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "o segantse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:12.305552656Z",
+  "model": "glm-5.3"
+}

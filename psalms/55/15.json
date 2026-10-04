@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Yo re neng re monatsa kgolagano ya sephiri ka bobone, mme re tsamaya ka phuthego mo ntlong ya Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yo re neng"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ka bobone"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "re monatsa"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "kgolagano ya sephiri"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "re tsamaya"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "ka phuthego"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:39.332642759Z",
+  "model": "glm-5.3"
+}

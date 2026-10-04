@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "O ne a bo baya jaaka bopaki go Yosefe, fa a ne a tswa mo lefatsheng la Mitsrayime; puo e ke neng ke sa e itse, ke ne ke utlwa ⟨e⟩.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "go Yosefe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "o ne a bo baya"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "fa a ne a tswa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "puo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke neng ke sa e itse"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ke ne ke utlwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:23.076271520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 23:10",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ba mo senotse sephiri sa gagwe, ba tsaya bana ba gagwe le barwadi ba gagwe, mme ba bolaya ⟨את⟩ ene ka tshaka; a nna leina kwa basading, mme ba dira dikatlholo mo go ene.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "גלו",
+      "gloss": "ba senotse"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "sephiri sa gagwe"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "le barwadi ba gagwe"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ba tsaya"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "mme ⟨את⟩ ene",
+      "marks": "ene"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ba bolaya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "kwa basading"
+    },
+    {
+      "surface": "ושפוטים",
+      "gloss": "mme dikatlholo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-04T00:41:12.534084213Z",
+  "model": "glm-5.3"
+}

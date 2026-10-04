@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme kgosi ya Yisraele a re: Aoo, gore Yahwe o biditse dikgosi tse tharo tseno, go di neela mo seatleng sa Moabe!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o biditse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "dikgosi tse tharo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go di neela"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ tsona",
+      "marks": "dikgosi tse tharo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moabe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:08.468702990Z",
+  "model": "glm-5.3"
+}

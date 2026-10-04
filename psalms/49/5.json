@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Ke galatsa tsebe ya me go papiso; ke bula sephiri sa me ka sefinyawane.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Ke galatsa"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "go papiso"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "tsebe ya me"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ke bula"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka sefinyawane"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "sephiri sa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:03.381506327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Se ke oa fitlha sefatlhego sa gago go tswa go nna ka letsatsi la go nna mo kgatelelong; thula sekgalafo sa gago go kwa go nna; ka letsatsi la go go bitsa, hakisa, araba me.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke oa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fitlha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa go nna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kgatelelo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "thula"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go kwa go nna"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sekgalafo sa gago"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "go go bitsa"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hakisa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "araba me"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:16.054036180Z",
+  "model": "glm-5.3"
+}

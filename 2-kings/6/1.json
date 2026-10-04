@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 6:1",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme bana ba baporofeti ba ne ba re go Elisha: Bona fela, lefelo leo re dulang kona fa pele ga gago, le khutshwane thata go rona.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba ne ba re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ba baporofeti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bona"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fela"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "dulang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kona"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fa pele ga gago"
+    },
+    {
+      "surface": "צר",
+      "gloss": "le khutshwane thata"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go rona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:33:56.898143974Z",
+  "model": "glm-5.3"
+}

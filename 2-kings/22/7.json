@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme ga go balwe ⟨את⟩ bone selefera se se neetsweng ka diatla tsa bone, gonne ka boikanyego ba se dira.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "mme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "go balwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bone"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "se se neetsweng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "diatla tsa bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ka boikanyego"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ba se dirang"
+    }
+  ],
+  "timestamp": "2026-10-03T23:42:07.950445807Z",
+  "model": "glm-5.3"
+}

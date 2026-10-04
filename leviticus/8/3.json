@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "mme o thapise ⟨את⟩ setšhaba sotlhe kwa sekgorong sa Tente ya Kopano.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba sotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "o thapise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sekgorong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:10.629794648Z",
+  "model": "glm-5.3"
+}

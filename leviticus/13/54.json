@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "mme kohene a laela, mme ba tlhape ⟨את⟩ se se nang le bolwetse, mme ba se tswalela malatsi a supa, la bobedi.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohene"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "mme ba tlhape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se nang le bolwetse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se nang le"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go sona"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "bolwetse"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "mme ba se tswalela"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "la bobedi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:55:39.722258419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "A boitumelo jwa ba ba itekanetseng mo tselaeng, ba ba tsamayang mo Torateng ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "A boitumelo jwa"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ba ba itekanetseng"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mo tselaeng"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ba ba tsamayang"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "mo Torateng ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:26.001629258Z",
+  "model": "glm-5.3"
+}

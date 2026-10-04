@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 98,
+  "translation": "Abelang go Yahwe, lefatshe lotlhe; tsogang ka boitumelo, itumelelang, mme opelang.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Abelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "tsogang ka boitumelo"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "itumelelang"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "mme opelang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:11.501278181Z",
+  "model": "glm-5.3"
+}

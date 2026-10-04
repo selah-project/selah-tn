@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 87,
+  "translation": "Mme ga Tsiyone go tlaa go buiwa gore: motho le motho o belegwe mo go yona; mme Elyone ka boene o tlaa e nonotsha yona.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "ga Tsiyone"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "go tlaa go buiwa gore"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le motho"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "o belegwe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "o tlaa e nonotsha"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:08.688917414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme badiri ba tlhapi ba tla lemala; botlhe ba ba tladayang hakha mo mogaleng ba tla llela, le ba ba atolang sefo mo seatleng sa metsi ba tla foufala.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "ba tla lemala"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "badiri ba tlhapi"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ba tla llela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "ba ba tladayang"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "mo mogaleng"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "hakha"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "le ba ba atolang"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "sefo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "seatleng sa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ba tla foufala"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:18.055371296Z",
+  "model": "glm-5.3"
+}

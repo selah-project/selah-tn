@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 111,
+  "translation": "Di tshegeditswe ka bosakhutshwanyane, bosakhutshwanyane; di dirilwe ka nnete le ka tshiamo.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "di tshegeditswe"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ka bosakhutshwanyane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bosakhutshwanyane"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "di dirilwe"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ka nnete"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "le ka tshiamo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:59.301494772Z",
+  "model": "glm-5.3"
+}

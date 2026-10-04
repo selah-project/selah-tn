@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 1:2",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Tshimologo ya go bua ga Yahwe mo Hosheang. Mme Yahwe a rialo go Hoshea: Tswa, o tsere mosadi wa boaka le bana ba boaka, gonne lefatshe le tlhoa go aka ka go tswa mo morago ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "Tshimologo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהושע",
+      "gloss": "mo Hosheang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a rialo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tswa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "o tsere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "wa boaka"
+    },
+    {
+      "surface": "וילדי",
+      "gloss": "le bana"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ba boaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "go tlhoa go"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "aka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ka go tswa mo morago ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:45.608921400Z",
+  "model": "glm-5.3"
+}

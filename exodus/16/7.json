@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "mme mo mosong lo tla bona ⟨את⟩ botlhokwatlhokwa jwa Yahwe, fa a reetsa ⟨את⟩ dikakgelo tsa lona kgatlhanong le Yahwe; mme re eng, e le gore lo ikakgela kgatlhanong le rona?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "mme mo mosong"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "lo tla bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botlhokwatlhokwa jwa Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "botlhokwatlhokwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "jwa Yahwe"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "fa a reetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikakgelo tsa lona"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "dikakgelo tsa lona"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "mme re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "e le gore"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "lo ikakgela"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kgatlhanong le rona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:04.486395934Z",
+  "model": "glm-5.3"
+}

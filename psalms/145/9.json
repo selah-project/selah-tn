@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Yahwe o molemo go ⟨the⟩ botlhe, mme bopelotlhomogi jwa gagwe bo mo go ditiro tsa gagwe tsotlhe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go botlhe"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "mme bopelotlhomogi jwa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ditiro tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:58.125231979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 2:17",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ke tla mo neela ⟨את⟩ dirapa tsa gagwe go tswa foo, le ⟨את⟩ Phapi ya Akore e nnye lefelo la tshepo; mme o tla bua kgolotswe koo, jaaka malatsi a boitshepo a bosha jwa gagwe, le jaaka letsatsi le a neng a tlola a tswa mo lefatsheng la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Mme ke tla mo neela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirapa tsa gagwe"
+    },
+    {
+      "surface": "כרמיה",
+      "gloss": "dirapa tsa gagwe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "go tswa foo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Phapi ya Akore"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "phapi"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "ya Akore"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "e nnye lefelo la"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "tshepo"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "mme o tla bua kgolotswe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "jaaka malatsi a"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "bosha jwa gagwe"
+    },
+    {
+      "surface": "וכיום",
+      "gloss": "le jaaka letsatsi le"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "a neng a tlola"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:01.044585369Z",
+  "model": "glm-5.3"
+}

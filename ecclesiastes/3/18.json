@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 3:18",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ke ne ke re pelong ya me ka ga maemo a bana ba motho: Elohim o ba lekola, gore go bonwe gore bone ke phologolo — ke bone.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "pelong ya me"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "maemo a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לברם",
+      "gloss": "o ba lekola"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "gore go bonwe"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "gore bone"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:31.845654937Z",
+  "model": "glm-5.3"
+}

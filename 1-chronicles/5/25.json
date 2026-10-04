@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 5:25",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme ba ne ba dira boikgapho kgatlhanong le Elohim ya bontshi ba bona, mme ba dira boaka go salela morago medimo ya ditshaba tsa lefatshe, e Elohim a neng a e senya fa pele ga bone.",
+  "tokens": [
+    {
+      "surface": "וימעלו",
+      "gloss": "ba dira boikgapho"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "kgatlhanong le Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bontshi ba bona"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "ba dira boaka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "go salela morogo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "a senya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "fa pele ga bone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:34.906114361Z",
+  "model": "glm-5.3"
+}

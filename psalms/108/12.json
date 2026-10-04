@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "A ga wena, Elohim, wa re latlhela? Mme ga o tswa, Elohim, le masole a rona.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "wa re latlhela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "o tswa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "le masole a rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:49.169948679Z",
+  "model": "glm-5.3"
+}

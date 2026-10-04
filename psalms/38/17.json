@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Ka gonne ke ne ke re: ba se ka ba nna motlotlo ka nna; fa lenao la me le sutuga, ba ikgodisa kgatlhanong le nna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ba se ka"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba nne motlotlo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "fa ... le sutuga"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lenao la me"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatlhanong le nna"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "ba ikgodisa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:50.316563637Z",
+  "model": "glm-5.3"
+}

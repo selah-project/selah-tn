@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme jalo lo tla se ja ⟨את⟩: dithlano tsa lona di thapilwe, dinoaelo tsa lona mo maotong a lona, dithutha tsa lona mo diatleng tsa lona, mme lo tla se ja ⟨את⟩ ka pharakano — Pesake ke ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "mme jalo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "lo tla se ja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "se (Pesake)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "dithlano tsa lona"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "di thapilwe"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "dinoaelo tsa lona"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "mo maotong a lona"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "dithutha tsa lona"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mo diatleng tsa lona"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "mme lo tla ja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "se (Pesake)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "ka pharakano"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:23.315265630Z",
+  "model": "glm-5.3"
+}

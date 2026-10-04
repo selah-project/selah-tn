@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Bana ba ba ke bana ba Yisraele: Reubene, Shimeone, Leve, Yehuda, Yisasakhare le Zebulune.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeone"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisasakhare"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "Zebulune"
+    }
+  ],
+  "timestamp": "2026-10-04T02:35:21.426582788Z",
+  "model": "glm-5.3"
+}

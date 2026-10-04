@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 75,
+  "translation": "Fa ke tsaya nako e e beilweng, ke nna, ka tshiamo ke a katlhola.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ke tsaya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nako e e beilweng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ka tshiamo"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ke a katlhola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:36.675644453Z",
+  "model": "glm-5.3"
+}

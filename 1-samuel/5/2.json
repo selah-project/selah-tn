@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Bafalisiti ba tsera ⟨את⟩ lebokoso la Elohim, mme ba le isa kwa ntlweng ya Dagone, mme ba le baya gaufu le Dagone.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Mme ba tsera"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebokoso la Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "lebokoso"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mme ba le isa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yone",
+      "marks": "kwa ntlweng ya Dagone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlweng"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ya Dagone"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "mme ba le baya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yone",
+      "marks": "gaufu le Dagone"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "gaufu le"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:57:36.505144334Z",
+  "model": "glm-5.3"
+}

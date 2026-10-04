@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Yahwe o tla itseagela kwa Mitsrayime, mme batho ba Mitsrayime ba tla itse ⟨את⟩ Yahwe ka letsatsi leo; mme ba tla dira sebadilo le minkha, mme ba tla ikana pelaelo go Yahwe, mme ba e phetha.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "o tla itseagela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ba tla itse"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "batho ba Mitsrayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ba tla dira"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sebadilo"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "ba tla ikana"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "pelaelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ba e phetha"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:22.053419729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Hesede ya gago e na le kaelo bokae, Elohim! Ka jalo bana ba batho ba iphitlhela mo sekhuring sa mafuka a gago.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bokae"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "e na le kaelo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Ka jalo bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mo sekhuring sa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "mafuka a gago"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "ba iphitlhela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:47.289163754Z",
+  "model": "glm-5.3"
+}

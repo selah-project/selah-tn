@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme bana ba Yisraele ba boela go tlhopha kwa morago ga Bapalestina, mme ba tlhola ⟨את〕 ditshwanelwa tsa bone.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ba boela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "go tlhopha"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kwa morago ga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapalestina"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "mme ba tlhola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshwanelwa tsa bone"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ditshwanelwa tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:02:23.872484746Z",
+  "model": "glm-5.3"
+}

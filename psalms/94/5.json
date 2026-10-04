@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Setshaba sa gago, Yahwe, ba a se diga, mme bojwa jwa gago ba a bo gatelela.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ba a se diga"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "mme bojwa jwa gago"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ba a bo gatelela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:23.943741568Z",
+  "model": "glm-5.3"
+}

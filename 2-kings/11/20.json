@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme setshaba sotlhe sa lefatshe se itumelela, mme toropo e khutse; mme ⟨את⟩ Athalyahu ba mo bolaya ka tshaka ntlong ya kgosi.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "se itumelela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe sa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "mme toropo"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "e khutse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "Athalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ba mo bolaya"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:38:39.421274202Z",
+  "model": "glm-5.3"
+}

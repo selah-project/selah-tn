@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme a boela kwa ene, mme bonê, o eme kwa sethabelong sa gagwe sa go chesa, ene le bagosi botlhe ba Moabe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Mme a boela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa ene"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonê"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "o eme"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "sethabelong sa gagwe sa go chesa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le botlhe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bagosi ba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:14:06.744053970Z",
+  "model": "glm-5.3"
+}

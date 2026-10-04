@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ke nna Yahwe Elohim ya lona, yo o neng a ntsha lwa kwa nageng ya Mitsrayime, go go neela lwa ⟨את⟩ lefatshe la Kenaeane, go nna Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kwa nageng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go neela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Kenaeane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenaeane"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:49.498675433Z",
+  "model": "glm-5.3"
+}

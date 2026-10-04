@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Go ritla ⟨את⟩ baba ba gago botlhe go tswa fa pele ga gago, jaaka Yahwe a buile.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "go ritla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba ba gao botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "baba ba gago"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "go tswa fa pele ga gago"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:10.364255984Z",
+  "model": "glm-5.3"
+}

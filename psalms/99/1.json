@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 99,
+  "translation": "Yahwe o busa, ditshaba di tlhobilwe ke tsogtlhoko; o dutse mo go ba-kerube, lefatshe le thuthafale.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "di tlhobilwe ke tsogtlhoko"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o dutse"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "mo go ba-kerube"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "le thuthafale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:09.946457851Z",
+  "model": "glm-5.3"
+}

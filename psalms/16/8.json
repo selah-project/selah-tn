@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Ke beile Yahwe fa pele ga me ka dinako tsothe; gore o mo letlhakoreng la me la molema, ga ke na go tshikinyega.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "ke beile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "fa pele ga me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka dinako tsothe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "mo letlhakoreng la me la molema"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga ... na"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "go tshikinyega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:19.743623831Z",
+  "model": "glm-5.3"
+}

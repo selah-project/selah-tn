@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Sogoka, Yahwe, mo boitatong jwa gago; itlhagise ka bogale jwa ba ba mo tlhoyang ba me; mme o tsoge go nna — katlholo eo o e laetseng.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sogoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mo boitatong jwa gago"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "itlhagise"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "ka bogale jwa"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ba ba mo tlhoyang ba me"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "mme o tsoge"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "eo o e laetseng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:36.024569294Z",
+  "model": "glm-5.3"
+}

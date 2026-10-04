@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Gore ba ba molato ba tla nyelela, mme ba ba lwantshanang le Yahwe ba tla nna jaaka nonofo ya diname, ba nyelela jaaka moupo, ba nyelela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba molato"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba tla nyelela"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "mme ba ba lwantshanang le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "jaaka nonofo ya"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "diname"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ba nyelela"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "jaaka moupo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ba nyelela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:23.914069153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Bosepe jwa mosadi le jwa morwadiake wa gagwe, o se ka wa bo senola; ⟨את⟩ morwadiake wa morwawe le ⟨את⟩ morwadiake wa morwadiake, o se ke wa tsaya go senola bosepe jwa gagwe; balelwane ba gagwe ke tsone; bokeke ke jone.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bosepe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jwa mosadi"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "le jwa morwadiake wa gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "bo senola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwadiake wa morwawe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadiake"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wa morwawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "morwadiake wa morwadiake"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadiake"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "wa morwadiake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tsaya"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "go senola"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "bosepe jwa gagwe"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "balelwane ba gagwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ke tsone"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bokeke"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke jone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:06.729841918Z",
+  "model": "glm-5.3"
+}

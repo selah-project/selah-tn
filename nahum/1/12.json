@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Go bua jalo Yahwe: E re ba phepafetse, e bile ba le bantsi thata, jalo ba tlaa kgaphololwa, mme ba feta. Le ntse ke go sotlega, ke ka se go sotle gape.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e re"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ba phepafetse"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "e bile jalo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba le bantsi"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "ba tlaa kgaphololwa"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "mme ba feta"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "ke go sotlega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ke go sotle"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-04T01:03:07.339279058Z",
+  "model": "glm-5.3"
+}

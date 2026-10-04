@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Bonang, ke tla tsamaya kgakala, ke nne kwa nageng e e se nang sepe. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ke tla tsamaya kgakala"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ke tla ralala"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ke nne"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa nageng e e se nang sepe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:16.529800751Z",
+  "model": "glm-5.3"
+}

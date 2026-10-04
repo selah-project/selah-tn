@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Segaione sa Dawide, se a neng a se opela go Yahwe, ka ga mafoko a Kgoshi mmaabane wa morafe wa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Segaione"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se a neng a se opela"
+    },
+    {
+      "surface": "שר",
+      "gloss": "go opela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "a Kgoshi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmaabane"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "wa morafe wa Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:40.847039575Z",
+  "model": "glm-5.3"
+}

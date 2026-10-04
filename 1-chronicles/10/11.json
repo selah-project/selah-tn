@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ba utlwa botlhe ba ba Yabeshe ya Gileade ⟨את⟩ tsotlhe tse Ba-Pelishtite ba neng ba di dirileng go Shaule,",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ba utlwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe ba ba"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabeshe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Gileade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsotlhe tse Ba-Pelishtite ba di dirileng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba di dirileng"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelishtite"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "go Shaule"
+    }
+  ],
+  "timestamp": "2026-10-04T02:38:44.977500135Z",
+  "model": "glm-5.3"
+}

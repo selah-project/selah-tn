@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Yo o siameng le yo o tlhamaletseng ⟨ke⟩ Yahwe; ka moo o rutang dibetsa mo tseleng.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "le yo o tlhamaletseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "o ruta"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dibetsa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:52.688387472Z",
+  "model": "glm-5.3"
+}

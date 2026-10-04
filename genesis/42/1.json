@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme Yaakobo a bona gore go na le po kwa Mitsrayime, mme Yaakobo a re go barwa ba gagwe: Ke eng le le lebile ka go nna jaana?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "po"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "go barwa ba gagwe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "le le lebile ka go nna jaana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:26.559564835Z",
+  "model": "glm-5.3"
+}

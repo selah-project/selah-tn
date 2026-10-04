@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme moprísite yo o tloditsweng a tle ka madi a phologolo kwa khemeng ya kopano.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "mme a tle ka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprísite"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "yo o tloditsweng"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ka madi a"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemeng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:28.773229188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 5:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Tlotla ⟨את⟩ rraagoutlha le ⟨את⟩ mmaagoutlha, jaaka Yahwe Elohim wa goutlha a go laetseng; gore malatsi a goutlha a nne a le maleele, gore go nne botoka le wena, mo lefatsheng leo Yahwe Elohim wa goutlha a go nayang lona.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "tlotla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraagoutlha"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rraagoutlha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mmaagoutlha"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mmaagoutlha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "a go laetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa goutlha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יאריכן",
+      "gloss": "a nne a le maleele"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "malatsi a goutlha"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "gore gape"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "go nne botoka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatsheng leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa goutlha"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a go nayang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:06.160729871Z",
+  "model": "glm-5.3"
+}

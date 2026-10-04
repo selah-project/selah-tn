@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme a ela ⟨את⟩ lephefo la kgotla, go tla ntlong, karata e le nngwe.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "mme a ela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lephefo la kgotla"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "lephefo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "la kgotla"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "go tla ntlong"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "karata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:49:35.823913948Z",
+  "model": "glm-5.3"
+}

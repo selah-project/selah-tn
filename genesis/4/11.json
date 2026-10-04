@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme jaanong o a segofaditswe, o sephiri go tswa mo lefatsheng le le tsegileng ⟨את⟩ molomo wa lona go amogela ⟨את⟩ madi a kgaitsadio go tswa mo seatleng sa gago.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "o a segofaditswe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "tsegileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo wa lona"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "molomo wa lona"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "go amogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a kgaitsadio"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "madi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "a kgaitsadio"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "go tswa mo seatleng sa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:11.251819672Z",
+  "model": "glm-5.3"
+}

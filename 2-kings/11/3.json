@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme o ne a le ⟨את⟩ ene mo ntlong ya Yahwe, a iphitlhile dingwaga di thataro; mme Atalya a busa lefatshe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme o ne a le"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ene",
+      "marks": "mo ntlong ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "a iphitlhile"
+    },
+    {
+      "surface": "שש",
+      "gloss": "di thataro"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "mme Atalya"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "על",
+      "gloss": "go la"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:36:57.045335302Z",
+  "model": "glm-5.3"
+}

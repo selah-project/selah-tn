@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme go ne go le jalo, fa kgosi Khizkiyahe a utlwa, a ima ⟨את⟩ diaparo tsa gagwe, a ikarola mosela, mme a tsena mo ntlong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le jalo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "fa a utlwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahe"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a ima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa gagwe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tsa gagwe"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "a ikarola mosela"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "mosela"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:40:46.152485248Z",
+  "model": "glm-5.3"
+}

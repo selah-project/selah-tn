@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ke ka eng, Yahwe, o eme kwa kgakala? Ke ka eng o iphitlhisa ka dinako tsa mathata?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ke ka eng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "o ema"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "kwa kgakala"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "o iphitlhisa"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ka dinako"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "tsa mathata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:47.513868516Z",
+  "model": "glm-5.3"
+}

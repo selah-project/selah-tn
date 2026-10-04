@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ke ka bala mamarapo othe a me; ba lebile, ba bona me.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "ke ka bala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mamarapo a me"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ba lebile"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:00.400667127Z",
+  "model": "glm-5.3"
+}

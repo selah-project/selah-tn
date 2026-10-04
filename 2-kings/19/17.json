@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Go boammaaruri, Yahwe, dikgosi tsa Ashure di na le go senya ⟨את⟩ ditshaba le ⟨את⟩ mafatshe a tsone.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Go boammaaruri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "di na le go senya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshaba"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafatshe a tsone"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mafatshe a tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:41:08.110217546Z",
+  "model": "glm-5.3"
+}

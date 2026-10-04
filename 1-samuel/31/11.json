@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme badudi ba Yabeshe ya Gileade ba utlwa ka sa ene ⟨את⟩ se ba-Pelishte ba se dirileng go Saule.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "mme ba utlwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka sa ene"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "badudi"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ba Yabeshe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Gileade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba se dirileng"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ba-Pelishte"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "go Saule"
+    }
+  ],
+  "timestamp": "2026-10-03T23:08:09.645440357Z",
+  "model": "glm-5.3"
+}

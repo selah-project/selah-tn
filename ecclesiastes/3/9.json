@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ke eng molemo wa yo o dirang, mo go se a se pepetsang?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ke eng"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "mo go se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ena⟩"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "a se pepetsang"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:04.878620400Z",
+  "model": "glm-5.3"
+}

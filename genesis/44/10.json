@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Mme a re: Le jaanong, jaaka mafoko a lona, go seng jalo; yo o tla fumiwang le ⟨את⟩ ene o tla nna motlhanka wa me, mme lona lo tla bo lo se molato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "jaaka mafoko a lona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "go seng jalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "o tla fumiwang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le ⟨את⟩ ene",
+      "marks": "yo o tla fumiwang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla nna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wa me"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "motlhanka"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "lo tla bo lo"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "se molato"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:57.988164391Z",
+  "model": "glm-5.3"
+}

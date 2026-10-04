@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 1:14",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Bojola jwa diphoso tsa me bo ne bo tlhotlwa mo seatleng sa gagwe; bo ne bo kgaphetswe, jwa nama sehubeng sa me; o ne a thubanya maatla a me; Adonai o ntsetsitse dihateleng tsa bao ke sa kgoneng go boela kwa pele.",
+  "tokens": [
+    {
+      "surface": "נשקד",
+      "gloss": "bo ne bo tlhotlwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "bojola"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "diphoso tsa me"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    },
+    {
+      "surface": "ישתרגו",
+      "gloss": "bo ne bo kgaphetswe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "jwa nama"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "sehubeng sa me"
+    },
+    {
+      "surface": "הכשיל",
+      "gloss": "o ne a thubanya"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a me"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "o ntsetsitse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "dihateleng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ke sa kgone"
+    },
+    {
+      "surface": "קום",
+      "gloss": "go boela kwa pele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:11:21.406292768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 84,
+  "translation": "Ba tsamaya go tswa mo nonofong go ya go nonofo; ba tla bonagala pele ga Elohim ka Siyone.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "go tswa mo nonofong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nonofo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ba tla bonagala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ka Siyone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:45.731147789Z",
+  "model": "glm-5.3"
+}

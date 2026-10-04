@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Mme go ne go le jalo: jaaka a ne a tlhabolola ⟨את⟩ ditoro tsa rona, jaanoo go ne go le jalo; ⟨את⟩ nna o ne a mpusa mo maemong a me, ⟨את⟩ mme jena a mo agela kgolegong.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le jalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "a tlhabolola"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tsa rona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jaanoo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go ne go le jalo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna (o ne a mpusa)"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "a mpusa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כני",
+      "gloss": "maemong a me"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ mme jena",
+      "marks": "jena (a mo agela)"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "a mo agela"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:15.164589536Z",
+  "model": "glm-5.3"
+}

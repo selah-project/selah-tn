@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme wena o boele go Elohim wa gago; boloka hesede le katlholo, mme o itsepele go Elohim wa gago ka metlha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "go Elohim wa gago"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o boela"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le katlholo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "mme o itsepele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka metlha"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:03.160790772Z",
+  "model": "glm-5.3"
+}

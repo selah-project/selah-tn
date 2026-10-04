@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "go kgaoganya se se seng boitshepo le se se itshepileng, le fa gare ga phoofolo e e ka jewang le phoofolo e e sa jeeng.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "go kgaoganya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "fa gare ga"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "se se seng boitshepo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le fa gare ga"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "se se itshepileng"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le fa gare ga"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "e e ka jewang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le fa gare ga"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jeeng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:45.076453305Z",
+  "model": "glm-5.3"
+}

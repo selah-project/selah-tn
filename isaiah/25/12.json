@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme boemelo jwa kgodiso ya dikgoro tsa gago o tla bo fisa, a bo tlasefatsa, a bo fitlha lefatshe go fitlha kwa leroleng.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "mme boemelo"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "jwa kgodiso"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "ya dikgoro tsa gago"
+    },
+    {
+      "surface": "השח",
+      "gloss": "o tla bo fisa"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "a bo tlasefatsa"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "a bo fitlha"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha kwa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "leroleng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:09.746682516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Morwa wa me, ineetse ka mafoko a me, gotlhagolela tlhogo ya gago go mafoko a me.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Morwa wa me"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "ka mafoko a me"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ineetse"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "go mafoko a me"
+    },
+    {
+      "surface": "הט",
+      "gloss": "gotlhagolela"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tlhogo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:28.277362777Z",
+  "model": "glm-5.3"
+}

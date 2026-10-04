@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 1:34",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme baEmori ba ne ba ganela ⟨את⟩ bana ba Dane ba ya thabeng, goba ba ne ba sa ba letla go theoga kwa molapong.",
+  "tokens": [
+    {
+      "surface": "וילחצו",
+      "gloss": "ba ne ba ganela"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "baEmori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Dane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ba Dane"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ba ya thabeng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "goba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba letla"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "go theoga"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "kwa molapong"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:09.574518838Z",
+  "model": "glm-5.3"
+}

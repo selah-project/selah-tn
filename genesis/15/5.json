@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 15:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme a mo tlisa ⟨את⟩ kwa ntle, a re: Leba kajaana kwa magodimong, o bale dinaledi, fa o ka kgona go di bala; mme a mo re: Jaana peo ya gago e tla nna.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "a mo tlisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩+ena",
+      "marks": "kwa ntle"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "kwa ntle"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "leba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kajaana"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "וספר",
+      "gloss": "o bale"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "dinaledi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "o ka kgona"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "go di bala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩+tsone",
+      "marks": "dinaledi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jaana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:45.940307687Z",
+  "model": "glm-5.3"
+}

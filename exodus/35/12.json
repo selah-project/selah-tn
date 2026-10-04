@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "⟨את⟩ Areke le ⟨את⟩ dikobo tsa yone; ⟨את⟩ setulo sa kutlwisiso, le ⟨את⟩ gorantsele la sephuthego",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Areke"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Areke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dikobo tsa yone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setulo sa kutlwisiso"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "setulo sa kutlwisiso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "gorantsele"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "la sephuthego"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:45.545523447Z",
+  "model": "glm-5.3"
+}

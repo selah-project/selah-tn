@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme a di neela dikhutlo tse nne tsa gauta, a bo a baya ⟨את⟩ didirisiwa tsa gauta mo dikhutleng tse nne tse di leng kwa maotwaneng a mane a a nne a tafole.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "a di neela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a e"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tse nne"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "dikhutlo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a bo a baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didirisiwa tsa gauta"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "didirisiwa tsa gauta"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tse nne"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "dikhutleng tse nne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di leng"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "kwa mane a a nne"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maotwaneng a tafole"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:30.647685277Z",
+  "model": "glm-5.3"
+}

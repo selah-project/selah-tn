@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Le go hlakanya mo gare ga se e boitshepo le se e sa boitshepang, le mo gare ga se e se tlhotseng le se e boitshepang.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "le go hlakanya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "se e boitshepo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le mo gare ga"
+    },
+    {
+      "surface": "החל",
+      "gloss": "se e sa boitshepang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le mo gare ga"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "se e se tlhotseng"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le mo gare ga"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "se e boitshepang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:02.378603348Z",
+  "model": "glm-5.3"
+}

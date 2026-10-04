@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 141,
+  "translation": "Psalme ya Dawide. Yahwe, ke go biditse; o iketlhe go tla go nna; o bee sebopego mo lentsweng la me, fa ke go bididitsa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ke go biditse"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "o iketlhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "o bee sebopego"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mo lentsweng la me"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "fa ke bididitsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:55.381968939Z",
+  "model": "glm-5.3"
+}

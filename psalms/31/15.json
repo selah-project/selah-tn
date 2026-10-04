@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme nna, ka wena ke ikemetse, Yahwe; ke rile: Elohim wa me, wena ke wena.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke ikemetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke rile"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena ke wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:07.828893018Z",
+  "model": "glm-5.3"
+}

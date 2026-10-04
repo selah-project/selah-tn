@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Ke nna Yahwe, ke leina la me; mme kgalalelo ya me ga ke e naye yo mongwe, le tlotla ya me ga ke e naye ditshwantsho tse di kwadilweng.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "leina la me"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "mme kgalalelo ya me"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "yo mongwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke e naye"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "le tlotla ya me"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "ditshwantsho tse di kwadilweng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:01.498706523Z",
+  "model": "glm-5.3"
+}

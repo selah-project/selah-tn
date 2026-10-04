@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 146,
+  "translation": "Yo o dirang magodimo le lefatshe, ⟨את⟩ lewatle le ⟨את⟩ sengwe le sengwe se se mo go sone; yo o bolokang boammaaruri go ya le nokeng.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe se se mo go sone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go sone"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "yo o bolokang"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "boammaaruri"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le nokeng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:19.808160537Z",
+  "model": "glm-5.3"
+}

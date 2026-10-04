@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "mme a ba kokoanya mo dinageng, go tswa botlhaba le go tswa bophirima, go tswa bokone le go tswa lewatle.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "mme mo dinageng"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "a ba kokoanya"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "go tswa botlhaba"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "le go tswa bophirima"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "go tswa bokone"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "le go tswa lewatle"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:23.692469207Z",
+  "model": "glm-5.3"
+}

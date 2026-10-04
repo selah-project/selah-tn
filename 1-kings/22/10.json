@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 22:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme kgosi ya Yisraele le Yehoshafata kgosi ya Yehuda ba ne ba dutse, mongwe le mongwe mo setulong sa gagwe, ba apere diaparo, mo lefelong la go thama kwa moleng wa kgoro ya Shomerona; mme baporofeti botlhe ba ne ba porofeta fa pele ga bone.",
+  "tokens": [
+    {
+      "surface": "ו מלך",
+      "gloss": "Mme kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "le Yehoshafata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ba dutse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "setulong sa gagwe"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "ba apere"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "mo lefelong la go thama"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa moleng wa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ya Shomerona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme botlhe"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "baporofeti"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "ba porofeta"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fa pele ga bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:31:42.712356859Z",
+  "model": "glm-5.3"
+}

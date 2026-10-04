@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Boitumelo jwa setshaba se Elohim wa sone e neng e le Yahwe; batho a ba tlhoileng go nna boswa jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "boitumelo jwa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wa sone"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "a ba tlhoileng"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "go nna boswa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:56.913232098Z",
+  "model": "glm-5.3"
+}

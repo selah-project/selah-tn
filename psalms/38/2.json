@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Yahwe, o se ka wa nkgadima ka bolwelwa jwa gago, o se ka wa nkganela ka pontsho ya gago ya tlhogo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "ka bolwelwa jwa gago"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "wa nkgadima"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ka pontsho ya gago ya tlhogo"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "wa nkganela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:52.605741183Z",
+  "model": "glm-5.3"
+}

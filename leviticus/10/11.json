@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Le go ruta ⟨את⟩ bana ba Yisraele ⟨את⟩ melawana yotlhe yeo Yahwe a neng a e bua go bone ka seatla sa Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "le go ruta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melawana yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:02.378769724Z",
+  "model": "glm-5.3"
+}

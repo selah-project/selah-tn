@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Ba-Kehate ba ne ba tsamaya, ba rwala ⟨את⟩ boitshepo; mme ba bangwe ba ne ba tlhatlhoma ⟨את⟩ Mishkane go fitlha ba tsena.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "ba ne ba tsamaya"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Ba-Kehate"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ba rwala"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ba ne ba tlhatlhoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ba tsena"
+    }
+  ],
+  "timestamp": "2026-10-03T22:06:46.953046161Z",
+  "model": "glm-5.3"
+}

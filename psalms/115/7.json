@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Diatla tsa bone, mme ga di kgotle; dinao tsa bone, mme ga di tsamae; ga ba dumelle sehubeng sa bone.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tsa bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "kgotle"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "dinao tsa bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "tsamae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "dumelle"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "sehubeng sa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:21.409223957Z",
+  "model": "glm-5.3"
+}

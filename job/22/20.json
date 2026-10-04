@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "A ga go a ka ga fedisiwa kganetso ya rona, mme molelo o je maselela a bone?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "A"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga … a"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "a ka ga fedisiwa"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "kganetso ya rona"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "maselela a bone"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "o je"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:59:19.541337499Z",
+  "model": "glm-5.3"
+}

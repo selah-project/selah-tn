@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 54,
+  "translation": "Gonne dithaba di kaabela, le dikgwaitsane di ka khuduga; mme hesede ya me e tla se ka ya tswa ⟨את⟩ go wena, le kgolagano ya kagiso ya me e tla se ka ya khuduga — go bua Yahwe, yo o nang le kutlwelo-botlhoko go wena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "di kaabela"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "le dikgwaitsane"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "di ka khuduga"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "mme hesede ya me"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ go tswa go wena",
+      "marks": "go wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e tla se ka"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "ya tswa"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "le kgolagano"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "ya kagiso ya me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e tla se ka"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ya khuduga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "yo o nang le kutlwelo-botlhoko go wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:21.300075806Z",
+  "model": "glm-5.3"
+}

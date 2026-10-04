@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "A go neye se se mo pelong ya gago, a a phethale ditheto tsa gago tsotlhe.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "a go neye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "se se mo pelong ya gago"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsotlhe"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "ditheto tsa gago"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "a a phethale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:08.956751700Z",
+  "model": "glm-5.3"
+}

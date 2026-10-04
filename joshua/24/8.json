@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme ka isa ⟨את⟩ lona kwa lefatsheng la Baemori, ba ba neng ba nna go feta Yoredane, mme ba lwa ⟨את⟩ le lona; mme ka neela ⟨את⟩ bone mo diatleng tsa lona, mme lo la ⟨את⟩ lefatshe la bone, mme ka ba senya pelenyana ga lona.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "mme ka isa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatseng"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "la Baemori"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ba ba neng ba nna"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredane"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "mme ba lwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mme ka neela"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bone"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mo diatleng tsa lona"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "mme lo la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la bone"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lefatshe la bone"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "mme ka ba senya"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pelenyana ga lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:45:11.136593068Z",
+  "model": "glm-5.3"
+}

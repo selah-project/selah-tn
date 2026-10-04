@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Ga e a tshwanela go bakiwa e le mose; karolo ya bone ke yona yeo ke neng ka e neela mo dineeleng tsa me tsa molelo; e boitshepo jwa bo boitshepo ke yona, jaaka se sa boleo le jaaka se sa molato.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "e a tshwanela go bakiwa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "e le mose"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "karolo ya bone"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke neng ka e neela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (karolo ya bone)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mo dineeleng tsa me tsa molelo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e boitshepo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "jwa bo boitshepo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "jaaka se sa boleo"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "le jaaka se sa molato"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:18.027170994Z",
+  "model": "glm-5.3"
+}

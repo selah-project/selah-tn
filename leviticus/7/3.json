@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme ⟨את⟩ mafura a yone a mangwe o tlaa a tlisa, ⟨את⟩ mogala le ⟨את⟩ mafura a a falotsang sepheng se se mo teng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mafura oompe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "a mangwe"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafura a yone"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "o tlaa a tlisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho tswa ho yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogala"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "mogala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "a a falotsang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dintho tse di mo teng"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dintho tse di mo teng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:44.810729692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Gonne wena ke Elohim wa tshireletso ya me; ke ka eng o ntshitse? ke ka eng ke tsamaya ka bomaloko, ka ntlha ya kgatelelo ya moganate?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "tshireletso ya me"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka eng"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka eng"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ka bomaloko"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ka ntlha ya kgatelelo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "wa moganate"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:19.255263409Z",
+  "model": "glm-5.3"
+}

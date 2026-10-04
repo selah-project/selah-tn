@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Lefoko le Yeshayahu, morwa Amotse, a le bone, ka ga Yuda le Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "a le bone"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotse"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:46.844953178Z",
+  "model": "glm-5.3"
+}

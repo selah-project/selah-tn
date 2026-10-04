@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Kwalalele, Yahwe, thapelo ya me, mme o kwe lentswe la dikabelo tsa me.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "kwalalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "mme o kwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "dikabelo tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:25.772776936Z",
+  "model": "glm-5.3"
+}

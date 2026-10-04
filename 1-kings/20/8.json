@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme bagolo botlhe le setshaba sotlhe ba mo re: Se ke ka kwa, o se rate.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba mo re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "(mo)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke ka kwa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "(ka kwa)"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "o se rate"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "(o se rate)"
+    }
+  ],
+  "timestamp": "2026-10-03T23:30:19.631861015Z",
+  "model": "glm-5.3"
+}

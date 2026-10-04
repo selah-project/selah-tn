@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "A se nne o o golekang hesede mo go ene, mme a se nne o o nontshang mo bananyaneng ba gagwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a se nne"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "a nne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "משך",
+      "gloss": "o o golekang"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme a se nne"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "a nne"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "o o nontshang"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "mo bananyaneng ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:04.903892339Z",
+  "model": "glm-5.3"
+}

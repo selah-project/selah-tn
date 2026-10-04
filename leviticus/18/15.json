@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Serapa sa ngwetsi ya gago o se ka wa sa senola; mosadi wa morwa wa gago ke ene — o se ka wa senola serapa sa gagwe.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "ngwetsi ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "go sa senola"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa morwa wa gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "go senola"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "serapa sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:33.797040785Z",
+  "model": "glm-5.3"
+}

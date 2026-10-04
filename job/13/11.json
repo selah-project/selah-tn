@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "A bogolo jwa gagwe ga bo a le tshosa ⟨את⟩ lona? Mme bosifa jwa gagwe bo tla bo bo neela go lona?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a ga bo... a"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "bogolo jwa gagwe"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "bo le tshosa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "mme bosifa jwa gagwe"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "bo bo neela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:19.788223077Z",
+  "model": "glm-5.3"
+}

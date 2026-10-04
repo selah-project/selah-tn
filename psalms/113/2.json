@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 113,
+  "translation": "A nne leina la Yahwe le akgotswe, go tloga gompieno go fitlha go sa bosheng.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "A nne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "le akgotswe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "go tloga gompieno"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go sa bosheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:46.177647506Z",
+  "model": "glm-5.3"
+}

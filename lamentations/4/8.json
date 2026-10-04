@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Sebopego sa bone se nthitse go feta molema, ga ba a ka ba lemogiwa mo ditseleng; letlalo la bone le nametse marapo a bone, le omile, le nnile jaaka setlhare.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "se nthitse"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "go feta molema"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "sebopego sa bone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "ba a ka ba lemogiwa"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "mo ditseleng"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "le nametse"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "letlalo la bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "marapo a bone"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "le omile"
+    },
+    {
+      "surface": "היה",
+      "gloss": "le nnile"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "jaaka setlhare"
+    }
+  ],
+  "timestamp": "2026-10-04T02:11:41.715036843Z",
+  "model": "glm-5.3"
+}

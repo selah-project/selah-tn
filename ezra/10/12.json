@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme phuthego yotlhe e araba, ya re ka lentswe le legolo: Ee, jaaka mafoko a gago a re tlhoka go dira.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "e araba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ya re"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ee"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "jaaka mafoko a gago"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a re tlhoka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    }
+  ],
+  "timestamp": "2026-10-04T02:28:17.149163658Z",
+  "model": "glm-5.3"
+}

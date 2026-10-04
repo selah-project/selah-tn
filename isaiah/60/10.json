@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Mme bana ba bafaladi ba tlaa aga dibota tsa gago, mme dikgosi tsa bone di tlaa direla gago; gore ka bolosetlhogo jwa me ke ne ke go otla, mme ka boiketlo jwa me ke ne ke go utlwela botlhoko.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ba tlaa aga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bafaladi"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "dibota tsa gago"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "mme dikgosi tsa bone"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "di tlaa direla gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "ka bolosetlhogo jwa me"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "ke ne ke go otla"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "mme ka boiketlo jwa me"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "ke ne ke go utlwela botlhoko"
+    }
+  ],
+  "timestamp": "2026-10-04T00:04:01.465604857Z",
+  "model": "glm-5.3"
+}

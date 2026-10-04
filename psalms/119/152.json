@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Kwa tshimologong ke ne ke itse bopaki jwa gago, gore o jone o di begile go ya phakaleng.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "kwa tshimologong"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke ne ke itse"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "bopaki jwa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya phakaleng"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "o jone o di begile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:53.201614626Z",
+  "model": "glm-5.3"
+}

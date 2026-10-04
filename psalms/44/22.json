@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "A ga se Elohim o tla e tlhatlhobang se? Gonne o itse diphiri tsa pelo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A ga se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "o tla e tlhatlhobang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "diphiri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tsa pelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:33.291717799Z",
+  "model": "glm-5.3"
+}

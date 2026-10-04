@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme Yahwe o ne a galefa le setshaba sa gagwe, mme a tlhoya ⟨את⟩ boswa jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "a galefa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "badimo\/galefare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "le setshaba sa gagwe"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "a tlhoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boswa jwa gagwe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "boswa jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:42.124951642Z",
+  "model": "glm-5.3"
+}

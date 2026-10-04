@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Laakanyang puso, mme e tla thubega; buang lefoko, le e tla se ka ya ema, gonne El o na le rona.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "laakanyang"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "puso"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "mme e tla thubega"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "buang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le e tla se ka"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ya ema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "o na le rona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:39.956061455Z",
+  "model": "glm-5.3"
+}

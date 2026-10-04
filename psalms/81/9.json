@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Reetsa, setshaba sa me, mme ke tlaa go tlhagatsa; Yisraele, fa o ka reetsa nna:",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Reetsa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "mme ke tlaa go tlhagatsa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o ka reetsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:32.721876565Z",
+  "model": "glm-5.3"
+}

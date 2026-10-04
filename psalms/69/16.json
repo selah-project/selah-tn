@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "O seka wa nkgelela mokgele wa metsi, o seka wa kgwesa mokgwa; o seka wa ntswalala ka molomo wa sejaka",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O seka wa"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "nkgelela"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "mokgele"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wa metsi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "o seka wa"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "kgwesa"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "mokgwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "o seka wa"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "ntswalala"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sejaka"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "molomo wa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:29.449147925Z",
+  "model": "glm-5.3"
+}

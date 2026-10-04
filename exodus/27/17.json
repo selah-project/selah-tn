@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Ditlhaka tsotlhe tsa legae la boikhutso, go dikologa, di na le mekhupetso ya selefera, mehoko ya tsone ke selefera, mme meala ya tsone ke tshipi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "ditlhaka tsa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "legae la boikhutso"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "di na le mekhupetso"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "והויהם",
+      "gloss": "mehoko ya tsone"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "meala ya tsone"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tshipi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:53.203141157Z",
+  "model": "glm-5.3"
+}

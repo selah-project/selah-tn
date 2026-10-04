@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Yahwe o ne a gataka ⟨את⟩ setšhaba, ka ntlha ya gore ba dirile ⟨את⟩ kgonyana ya nama, eo Aharone a neng a e dira.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Mme … o ne a gataka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgonyana ya nama"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "kgonyana ya nama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a e dira"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:59.542755292Z",
+  "model": "glm-5.3"
+}

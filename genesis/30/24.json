@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme a bita leina la gagwe ⟨את⟩ Yosefe, a re: Yahwe o ntshireletse ⟨מ→⟩ ka morwa o mongwe.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "mme a bita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "o oketsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "o mongwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:27.153835381Z",
+  "model": "glm-5.3"
+}

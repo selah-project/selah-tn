@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme go itsisiwe ntlo ya ga Dawide go re: Arame o tlhakanetse le Efrayime. Pelo ya gagwe e thothomela, le pelo ya setshaba sa gagwe, jaaka meiti ya sekgwa e thothomelang ka ntlha ya ruakh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "go itsisiwe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya ga Dawide"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "o tlhakanetse"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "על",
+      "gloss": "le"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "e thothomela"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "le pelo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya setshaba sa gagwe"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "jaaka e thothomelang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "meiti"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ya sekgwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:38.014817826Z",
+  "model": "glm-5.3"
+}

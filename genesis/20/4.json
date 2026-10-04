@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Avimeleke a sena go ata fa go ene, mme a re: Adonai, a sefora se ka nna le se siameng, o a se bolaya?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Mme Avimeleke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sena"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "go ata"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "fa go ene"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "a sefora se"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka nna le"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "se siameng"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "o a se bolaya"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:55.717202792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Gore ka ntlha ya Dawide, Yahwe Elohim wa gagwe a mo neela lebone kwa Yerushalayime, go tlhoma ⟨את⟩ morwa wa gagwe morago ga gagwe, le go tlhomamisa ⟨את⟩ Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wa gagwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a mo"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lebone"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "go tlhoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa gagwe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "morago ga gagwe"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "le go tlhomamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:51.418127515Z",
+  "model": "glm-5.3"
+}

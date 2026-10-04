@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Mokaulengwe o ka se ka wa bolokiwa ke mongwe; motho o ka se ke a fa Elohim sekelo sa gagwe.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "mokaulengwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ka se"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wa bolokiwa"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ke mongwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ka se ke a"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "sekelo sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:03.382132366Z",
+  "model": "glm-5.3"
+}

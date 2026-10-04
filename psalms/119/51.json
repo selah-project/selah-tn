@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ba kgaphetseng ba ntshositse letsela le letelele; mme ga ke a ikghologa go tswa mo Torong ya gago.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "ba kgaphetseng"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "ba ntshositse letsela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "le"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "letelele"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "go tswa mo Torong ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ke a ikghologa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:32.543016882Z",
+  "model": "glm-5.3"
+}

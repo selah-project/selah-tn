@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Bonang, motlhanka wa me — ke a mo tshegetsa; mo kgethilweng wa me, moyo wa me o mo rate; ke ne ke ntsha ruakh ya me mo go ene; o tla ntsha katlholo go ditshaba.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "motlhanka wa me"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "ke a mo tshegetsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "kgethilweng wa me"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "o mo rate"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wa me"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke ne ke ntsha"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya me"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "go ditshaba"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "o tla ntsha"
+    }
+  ],
+  "timestamp": "2026-10-03T23:58:12.125998942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Lentswe la Yahwe le bitsa ⟨את⟩ motse, mme bohlale ke go tshaba leina la gago — reetseng thogo, le mang yo o e tlhomileng.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "o bitsa"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "go tshaba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "reetseng"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "thogo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "le mang"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "o e tlhomileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:03:16.576716674Z",
+  "model": "glm-5.3"
+}

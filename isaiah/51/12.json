@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Ke Nna, ke Nna, Yena, yo lo kgomotsang; ke mang wena, o tshabang motho yo o tlang go swa, le morwa wa motho yo a tlang go newa go nna joang?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ke Nna"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke Nna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Yena"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "yo lo kgomotsang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "o tshabang"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "yo o tlang go swa"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "le morwa wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "go nna joang"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "yo a tlang go newa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:43.756041618Z",
+  "model": "glm-5.3"
+}

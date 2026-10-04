@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 4:5",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme yena o ne a dutse fa tlase ga mokala wa Devora, fa gare ga Rama le fa gare ga Bethaele, mo thabeng ya Efrayime; mme bana ba Yisraele ba ne ba ya kwa go yena go ya katlholong.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "Mme yena"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "o ne a dutse"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fa tlase ga"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "mokala"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    },
+    {
+      "surface": "בין",
+      "gloss": "fa gare ga"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le fa gare ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ele"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mo thabeng ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mme ba ne ba ya"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa go yena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "go ya katlholong"
+    }
+  ],
+  "timestamp": "2026-10-03T22:47:43.028411987Z",
+  "model": "glm-5.3"
+}

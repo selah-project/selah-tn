@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ke butula ⟨את⟩ molomo wa me, mme a ntlhagolela ⟨את⟩ segala se.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Mme ke butula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo wa me"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "mme a ntlhagolela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala se"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "segala se"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-04T00:33:15.532814121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ba tla tsewa madi a yone, ba a behe mo dikotleng tse pedi tsa kgotso le mo lentleng le kgodisang, mo malapeng ao ba tla e jang ⟨את⟩ yone mo go one.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ba tla tsewa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "(karolo ya)"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ba a behe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "dikote tsa kgotso"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "lente le kgodisang"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "malapeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla e jang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yone (kwanyana)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go one"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:27.938086924Z",
+  "model": "glm-5.3"
+}

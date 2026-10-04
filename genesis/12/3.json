@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ke tla tshegofatsa ba ba go tshegofatsang, mme yo o go rogiwang ke tla go roga; mme malapa otlhe a lefatshe a tla tshegofadiwa ka wena.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "ke tla tshegofatsa"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "ba ba go tshegofatsang"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "yo o go rogiwang"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "ke tla go roga"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "a tla tshegofadiwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:51.510335048Z",
+  "model": "glm-5.3"
+}

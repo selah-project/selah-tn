@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Moshe a boela kwa kampeng, ena le bahulu ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampeng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ena"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "le bahulu ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:09:50.234804844Z",
+  "model": "glm-5.3"
+}

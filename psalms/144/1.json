@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Ya Dawide. Yo o segofaditsweng ke ene Yahwe, leje la me, yo o rutang diatla tsa me ntwa, menwana ya me kganelo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Yo o segofaditsweng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "leje la me"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "yo o rutang"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "diatla tsa me"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "menwana ya me"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kganelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:13.223570868Z",
+  "model": "glm-5.3"
+}

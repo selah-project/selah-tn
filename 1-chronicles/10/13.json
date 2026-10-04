@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 10:13",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Shuale a tlhokafala ka go tlhoka boikanyego jo a bo dirileng kgahlanong le Yahwe, ka ntlha ya lefoko la Yahwe leo a neng a sa la tlhokomela, le gape ka go ya go botsa kwa mong wa moya, go batla tlhaloso.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mme … a tlhokafala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shuale"
+    },
+    {
+      "surface": "במעלו",
+      "gloss": "ka go tlhoka boikanyego jo a bo dirileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "a bo dirileng"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kgahlanong le Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "la tlhokomela"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le gape"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka go ya go botsa"
+    },
+    {
+      "surface": "באוב",
+      "gloss": "kwa mong wa moya"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "go batla tlhaloso"
+    }
+  ],
+  "timestamp": "2026-10-04T02:38:19.764823145Z",
+  "model": "glm-5.3"
+}

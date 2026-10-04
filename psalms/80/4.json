@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "Elohim, re busetse, mme o phatsimise sefathego sa gago, mme re tla bolokwa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "re busetse"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "mme o phatsimise"
+    },
+    {
+      "surface": "פניק",
+      "gloss": "sefathego sa gago"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "mme re tla bolokwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:35.985880594Z",
+  "model": "glm-5.3"
+}

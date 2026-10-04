@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Oo, motse wa madi! Otlhe ⟨ke⟩ mafele, o tlala go thuntsha; serapa ga se tlogele;",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Oo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "wa madi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "mafele"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "go thuntsha"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "o tlala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "se tlogele"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "serapa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:17:37.829114738Z",
+  "model": "glm-5.3"
+}

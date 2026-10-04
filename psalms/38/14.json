@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme nna jaaka sefofu sa dikutu ga ke utlhe, mme jaaka segotsa se sa bula molomo wa sone.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "jaaka sefofu sa dikutu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ke utlhe"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "mme jaaka segotsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "se sa bula"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa sone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:56.286117141Z",
+  "model": "glm-5.3"
+}

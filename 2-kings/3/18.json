@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme selo se se lekanyeditse thata mo matlhong a Yahwe, mme o tla a neela ⟨את⟩ Moabe mo diatleng tsa lona.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "mme se lekanyeditse thata"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "selo se"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo matlhong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mme o tla a neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mo diatleng tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:33:02.234610013Z",
+  "model": "glm-5.3"
+}

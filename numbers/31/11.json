@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme ba tsera ⟨את⟩ thopo yotlhe le ⟨את⟩ dilotlolo tsotlhe, mo bathong le mo diphoofolong.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ba tsera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thopo yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "thopo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dilotlolo tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "dilotlolo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mo bathong"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "le mo diphoofolong"
+    }
+  ],
+  "timestamp": "2026-10-03T22:17:26.780054538Z",
+  "model": "glm-5.3"
+}

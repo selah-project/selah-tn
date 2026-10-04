@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme morwa Shaole a utwa fa Abenere a tlhokafetse kwa Kheberone, mme diatla tsa gagwe di ne tsa fokola, mme Yisraele yotlhe ya tshwenyega.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a tlhokafetse"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abenere"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "kwa Kheberone"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "di ne tsa fokola"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "diatla tsa gagwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ... yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ya tshwenyega"
+    }
+  ],
+  "timestamp": "2026-10-03T23:09:00.810240472Z",
+  "model": "glm-5.3"
+}

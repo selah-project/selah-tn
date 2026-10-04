@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Yahwe o itse dithopho tsa motho, gore ke lefela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "dithopho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tsa motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "lefela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:33.170229040Z",
+  "model": "glm-5.3"
+}

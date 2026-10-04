@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "O bolotse se o se buileng go modiri wa gago Dawide rra me, ⟨את⟩ se o se buileng ka molomo wa gago, o se fitlilitse ka seatla sa gago go fitlha gompieno.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "o bolotse"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "go modiri wa gago"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rra me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se o se buileng ka molomo wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "o se buileng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ka molomo wa gago"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ka seatla sa gago"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "o se fitlilitse"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "go fitlha gompieno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gompieno"
+    }
+  ],
+  "timestamp": "2026-10-04T02:48:14.599157702Z",
+  "model": "glm-5.3"
+}

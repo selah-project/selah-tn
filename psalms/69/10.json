@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Gore kanneo ya ⟨את⟩ ntlo ya gago e ne ya ntlhagisa thata, jaaka e ntshintshitse, mme maswabi a ba ba go nyenyetsang a ne a wa go nna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kanneo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya gago"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "e ne ya ntlhagisa thata, jaaka e ntshintshitse"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "mme maswabi"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "a ba ba go nyenyetsang"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "a ne a wa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:16.110155777Z",
+  "model": "glm-5.3"
+}

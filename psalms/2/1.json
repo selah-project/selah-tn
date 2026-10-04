@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ke ka eng ditshaba di tsuologile, mme batho ba nagana ka bosenke?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ke ka eng"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "di tsuologile"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "mme batho"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ba nagana"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ka bosenke"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:33.830492956Z",
+  "model": "glm-5.3"
+}

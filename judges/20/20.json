@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme banna ba Yisraele ba tla go lwa le ba Benjamin; mme banna ba Yisraele ba laakanya ⟨את⟩ masole a bone a ntwa go ya kwa Gegabeng.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ba tla go lwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ba Benjamin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ba laakanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "masole a bone a ntwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "a ntwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gegabeng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:54:49.246285417Z",
+  "model": "glm-5.3"
+}

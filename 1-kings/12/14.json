@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "mme ya bua le bone jaaka kgakololo ya banyana, e re: Ntatame o ne a dira ⟨את⟩ pheko ya lona e boima, mme nna ke tlaa oketsa pheko ya lona; ntatame o ne a lo otlhaya ka meqhele, mme nna ke tlaa lo otlhaya ka dikhokong.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "mme ya bua"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "jaaka kgakololo ya"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "banyana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "e re"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ntatame"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "o ne a dira e boima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pheko ya lona"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "pheko ya lona"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ke tlaa oketsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pheko ya lona"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "pheko ya lona"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntatame"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "o ne a lo otlhaya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lo",
+      "marks": "meqhele"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ka meqhele"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ke tlaa lo otlhaya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lo",
+      "marks": "dikhokong"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ka dikhokong"
+    }
+  ],
+  "timestamp": "2026-10-03T23:27:04.185389226Z",
+  "model": "glm-5.3"
+}

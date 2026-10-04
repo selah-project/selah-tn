@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 130,
+  "translation": "Pina ya go elela godimo. Go tswa mo dikagong tse di tseneletseng ke go bitsa wena, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya go elela godimo"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Go tswa mo dikagong tse di tseneletseng"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ke go bitsa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:52.490688255Z",
+  "model": "glm-5.3"
+}

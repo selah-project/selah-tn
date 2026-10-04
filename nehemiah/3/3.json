@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme bana ba Hasenaa ba aga ⟨את⟩ kgoro ya ditlhapi; ba e ahla ka mahiti, mme ba tlhoma mabati a yone, dinotlelo tsa yone le dithupa tsa yone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kgoro ya ditlhapi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "ya ditlhapi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ba aga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "e ahla ka mahiti"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "ba tlhoma"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "mabati a yone"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "dinotlelo tsa yone"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "le dithupa tsa yone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:31:07.191052008Z",
+  "model": "glm-5.3"
+}

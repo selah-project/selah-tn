@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Shelomoh a mo bolelela ⟨את⟩ mafoko a gagwe otlhe; ga go na se se falotseng kgosi se a neng a sa se mo bolelela.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a bolelela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a gagwe otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "mafoko a gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "se"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "se se falotseng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "a se bolelela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:09:39.173413812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 75,
+  "translation": "Mme nna ke tla pheto ka bosakhutlho; ke tla opela mmino go Elohim wa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ke tla pheto"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ka bosakhutlho"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla opela mmino"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:42.460574246Z",
+  "model": "glm-5.3"
+}

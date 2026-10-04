@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Dawide o ne a pholosa ⟨את⟩ sengwe le sengwe seo Amaleke o se dirileng; le ⟨את⟩ basadi ba gagwe ba babedi Dawide o ne a ba pholosa.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "a pholosa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "o se dirileng"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "basadi ba gagwe ba babedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basadi ba gagwe"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "a pholosa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T23:07:30.646907686Z",
+  "model": "glm-5.3"
+}

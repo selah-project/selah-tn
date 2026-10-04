@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Bontsha hesede ya gago, wena yo o bolokang ba ba ikhutselang, mo go ba ba ganang ka letsogong la gago la moja.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "bontsha (e e kgethegileng)"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "yo o bolokang"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "ba ba ikhutselang"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "mo go ba ba ganang"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ka letsogong la gago la moja"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:24.951087918Z",
+  "model": "glm-5.3"
+}

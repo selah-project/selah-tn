@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Atalya a utlwa ⟨את⟩ modumo wa dithekgo le wa setshaba, a tsena kwa setshabeng, mo legaeng la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "dithékgo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshabeng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "legaeng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:37:41.359342838Z",
+  "model": "glm-5.3"
+}

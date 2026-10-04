@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Mme o bone fa go na le tsela ya botlhoko mo go nna, mme o ntshwarele tsela ya leruri.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Mme o bone"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ya botlhoko"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "o ntshwarele"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya leruri"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:36.209450502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "a mo re: Go tswe jalo go bua Yifitakhe: Ga go a nna jalo — Yisraele ga o a tsera ⟨את⟩ lefatshe la Moaba, le lefatshe la bana ba Amonene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "go tswe jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifitakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go a nna jalo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ga o a tsera"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Moaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "la Moaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefatshe la bana ba Amonene"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "la bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonene"
+    }
+  ],
+  "timestamp": "2026-10-03T22:50:56.267774013Z",
+  "model": "glm-5.3"
+}

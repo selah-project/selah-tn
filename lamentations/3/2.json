@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "⟨את⟩ nna o ntshitse mme a nt samaisa mo lefifing, mme e seng lesedi.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mme a nt samaisa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mo lefifing"
+    },
+    {
+      "surface": "וולא",
+      "gloss": "mme e seng"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lesedi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:10:44.875798419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Setshaba sa me, ke dirile eng go wena, ke go kgobile eng? Araba nna.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Setshaba sa me"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke dirile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ke go kgobile eng"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "ke go kgobile"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:04:29.720402802Z",
+  "model": "glm-5.3"
+}

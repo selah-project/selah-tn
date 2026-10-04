@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Ipaelelang ka leina la gagwe le e boitshepo; pelo ya ba ba batlang Yahwe a e itumele.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "ipaelelang"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "boitshepo jwa gagwe"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "a itumele"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ya ba ba batlang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:05.543431128Z",
+  "model": "glm-5.3"
+}

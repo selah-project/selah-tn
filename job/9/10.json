@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "O dirang dilo tse dikgolo go fitlha go se nang tlhatlhobo, le dilo tse di makatsang go fitlha go se nang palo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "o dirang"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dilo tse dikgolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se nang"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "tlhatlhobo"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "le dilo tse di makatsang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se nang"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:54:31.501763368Z",
+  "model": "glm-5.3"
+}

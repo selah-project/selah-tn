@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Go ya ka sengwe le sengwe se nka se bonisetsang ⟨את⟩ wena, ⟨את⟩ setshwano sa Mishkane le ⟨את⟩ setshwano sa didirisiwa tsa yone tsotlhe, jalo lo tla se dira.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "go ya ka sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nka"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "bonisetsang"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "אותך"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshwano"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "setshwano"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setshwano"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "setshwano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sa didirisiwa tsa yone"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "lo tla se dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:38.901692600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme o dire ⟨את⟩ didiriswa ka mokala wa setlhare sa shitime, mme o di khufitse ka gauta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didiriswa"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ka mokala wa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "setlhare sa shitime"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mme o di khufitse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:12.267501197Z",
+  "model": "glm-5.3"
+}

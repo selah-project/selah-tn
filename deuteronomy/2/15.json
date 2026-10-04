@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme le seatla sa Yahwe se ne se le kgatlhanong le bone, go ba senola mo teng ga setsha, go fitlha ba fedile sotle.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mme le"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sa Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "se ne se le"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kgatlhanong le bone"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "go ba senola"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "setsha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ba fedile sotle"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:09.273653972Z",
+  "model": "glm-5.3"
+}

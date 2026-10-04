@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 67,
+  "translation": "Ditshaba di ka go tlotla, Elohim; ditshaba tsotlhe di ka go tlotla.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "di ka go tlotla"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "di ka go tlotla"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tsotlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:22.720305602Z",
+  "model": "glm-5.3"
+}

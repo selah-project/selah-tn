@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "Gonne ba khileng ⟨את⟩ Yaakobo, mme ba senya ⟨את⟩ legae la gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ba khileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "legae la gagwe"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "legae la gagwe"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ba senya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:31.565944465Z",
+  "model": "glm-5.3"
+}

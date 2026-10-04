@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 13:13",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme Shemuuele a bua le Shauole, a re: O dira bosula. Ga o a boloka ⟨את⟩ taelo ya Yahwe Elohim wa gago, a e go laetse; gonne jaanong Yahwe o ne a tla bo a imisitse ⟨את⟩ bogosi jwa gago mo go Yisraele go ya herald.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme … a bua"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "נסכלת",
+      "gloss": "O dira bosula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "o a boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a e go laetse"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "a e go laetse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a tla bo a imisitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogosi jwa gago"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "bogosi jwa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "herald"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:05.913434384Z",
+  "model": "glm-5.3"
+}

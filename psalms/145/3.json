@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Yahwe ke mogolo, mme o tshwanetse go ketekiwa thata; mme bokgolo jwa gagwe ga bo kanokiwe.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "mme o tshwanetse go ketekiwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "mme bokgolo jwa gagwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "bo kanokiwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:19.900138727Z",
+  "model": "glm-5.3"
+}

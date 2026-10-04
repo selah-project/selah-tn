@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Boikarabelo jwa Babele, jo Yeshiyahu morwа wa Amotse a neng a bo bone.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Boikarabelo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "a bo bone"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:23.193638300Z",
+  "model": "glm-5.3"
+}

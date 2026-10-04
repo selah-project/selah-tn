@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Adonai Yahwe o buletse tlhoko ya me, mme nna ga ke a gana; kwa morago ga ke a boela.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "o buletse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tlhoko"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "ke a gana"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kwa morago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "ke a boela"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:56.493456124Z",
+  "model": "glm-5.3"
+}

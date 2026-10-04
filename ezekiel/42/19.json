@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "A ikaketselela kwa ruakh ya lewatle, a ela dikanyo tsa makgolo a matlhano a dikane, ka kane ya go ela dikanyo.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "a ikaketselela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ya lewatle"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "a ela dikanyo tsa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "matlhano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "a dikane"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ka kane"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ya go ela dikanyo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:17:57.923679976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim a aga ⟨את⟩ lerapo leo a neng a le tsaya mo Adamong, la nna mosadi, mme a mo isa kwa Adamong.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mme a aga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerapo"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "lerapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a neng a le tsaya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adamong"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "la nna mosadi"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "mme a mo isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adamong"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:32.350866822Z",
+  "model": "glm-5.3"
+}

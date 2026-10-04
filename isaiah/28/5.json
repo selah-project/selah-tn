@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Ka letsatsi leo, Yahwe Tsebaote o tla nna sekorana sa botlhale, le khwaere ya sekgapetla, go ya go masalela a setshaba sa gagwe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "sekorana sa"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "le khwaere ya"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "sekgapetla"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "go ya go masalela a"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:12.201163771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Gore ke mang El ntle le Yahwe? Ke mang le.lotlhwa ntle le Elohim ya rona?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "צור",
+      "gloss": "le.lotlhwa"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ya rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:44.335960353Z",
+  "model": "glm-5.3"
+}

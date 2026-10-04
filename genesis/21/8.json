@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ngwana a gola, a nololwa; mme Abrahame a dira mokete o mogolo ka letsatsi leo go nololwa ga ⟨את⟩ Yitshake.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "a gola"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "a nololwa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mokete"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi leo"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "go nololwa ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshake"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:03.324790106Z",
+  "model": "glm-5.3"
+}

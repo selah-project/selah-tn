@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme a aga ⟨את⟩ masome a mabedi a dikaropo kwa morago ga ntlo, ka mapanka a kadiri, go tswa mo lebaleng go fitlha kwa diboteng; mme a aga mo go ena ka mo teng — ledebira, boitshepo jwa boitshepo.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masome a mabedi a dikaropo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikaropo"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "kwa morago ga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "ka mapanka"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "a kadiri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "mo lebaleng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "kwa diboteng"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mme a aga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ena"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka mo teng"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "ledebira"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "jwa boitshepo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:22:36.977172041Z",
+  "model": "glm-5.3"
+}

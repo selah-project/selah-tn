@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Gore bonang, Yahwe o tla tla ka molelo, mme dikoloi tsa gagwe jaaka sehuruhuru, go busetsa bogale jwa gagwe ka tlhaselo, le kgalemo ya gagwe ka malelo a molelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o tla tla"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "jaaka sehuruhuru"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "dikoloi tsa gagwe"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "go busetsa"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "ka tlhaselo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bogale jwa gagwe"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "le kgalemo ya gagwe"
+    },
+    {
+      "surface": "בלהבי",
+      "gloss": "ka malelo a"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:06:53.339450223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Se se rekilweng sa sebopego sa lefatshe le phapo e e mo go sone, go tswa mo go ⟨את⟩ bara ya Kethe.",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "se se rekilweng"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "le phapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e mo go sone"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go sone"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ go tswa mo go",
+      "marks": "bara ya Kethe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kethe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:18.715335525Z",
+  "model": "glm-5.3"
+}

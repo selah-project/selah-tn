@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Romela senkgwe sa gago mo godimo ga metsi, gore mo malatsing a mantsi o tla a se bona.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Romela"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "senkgwe sa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mo bongwe jwa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "malatsing a mantsi"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "o tla a se bona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:04.942531936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Mme ba tla dira ⟨את⟩ kwanyana le ⟨את⟩ minkha le ⟨את⟩ mafura mo mosong le mo mosong; pheretho ya bosikhomorago.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Mme ba tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwanyana"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mo mosong"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le mo mosong"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "pheretho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ya bosikhomorago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:51:13.046857939Z",
+  "model": "glm-5.3"
+}

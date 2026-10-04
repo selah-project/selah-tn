@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Elohim wa Yisraele o buile, Lefaleseng la Yisraele o buile le nna: mo o busang motho o tla busa ka tsedeke, a busa ka go tsaba Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Lefaleseng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraele"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "mo o busang"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ka go tsaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T23:18:34.733689525Z",
+  "model": "glm-5.3"
+}

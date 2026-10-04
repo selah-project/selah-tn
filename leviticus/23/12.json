@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme ka letsatsi leo lo tlhatlosang ⟨את⟩ omere ka lone, lo tlaa dira kwanyana e e nang sephiri, ngwana wa dingwaga tsa gagwe tsa ntlha, e jelwa molelong go Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "lo tlaa dira"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "lo tlhatlosang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omere"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omere"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e e nang sephiri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngwana wa"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "dingwaga tsa gagwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "e jelwa molelong"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:26.623278902Z",
+  "model": "glm-5.3"
+}

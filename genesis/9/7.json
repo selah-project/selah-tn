@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme lona, atolosang, mme oketsang; atologang mo lefatsheng, mme oketsang mo go sona.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "atolosang"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mme oketsang"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "atologang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mme oketsang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo go sona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:48.425838543Z",
+  "model": "glm-5.3"
+}

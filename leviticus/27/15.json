@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme fa yo o itshepisitseng a gaola ⟨את⟩ ntlo ya gagwe, o tla oketsa karolo ya botlhano ya selefera ya tekanyetso ya gago mo go yona, mme e nne ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "yo o itshepisitseng"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "a gaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya gagwe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "o tla oketsa"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "karolo ya botlhano"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya selefera"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ya tekanyetso ya gago"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e nne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:05:26.885896216Z",
+  "model": "glm-5.3"
+}

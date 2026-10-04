@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ke atolositse ditiro tsa me: ke agile dikago mo go nna, ke jetse dinomoro mo go nna.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "ke atolositse"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ditiro tsa me"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ke agile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "dikago"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ke jetse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "dinomoro"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:30.653405950Z",
+  "model": "glm-5.3"
+}

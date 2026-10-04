@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Yehoshua a ba fihlela ka tshoganyo, ka gonne o ne a tlhatloga bosigo jotlhe a tswa kwa Gilgale.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a ba fihlela"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka gonne o ne a tlhatloga bosigo jotlhe a tswa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ka tshoganyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a tlhatloga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "kwa Gilgale"
+    }
+  ],
+  "timestamp": "2026-10-03T22:38:27.014246711Z",
+  "model": "glm-5.3"
+}

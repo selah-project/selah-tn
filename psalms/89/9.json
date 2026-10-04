@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Yahwe, Elohim wa Tsebaote, ke mang yo o tshwanang le wena, yo o nonofileng, Yah, le boikanyego jwa gago jo bo dikologang go wena?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "yo o tshwanang le wena"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "yo o nonofileng"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "le boikanyego jwa gago"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "jo bo dikologang go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:32.244824548Z",
+  "model": "glm-5.3"
+}

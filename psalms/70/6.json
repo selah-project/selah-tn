@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 70,
+  "translation": "Mme nna ke tlhoka mme ke segole; Elohim, o kgakalatsa o tle go nna; wena ⟨⟨wena⟩⟩ ke thuso ya me le se se nkolokang; Yahwe, o se ka wa liega.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ke tlhoka"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ke segole"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "o kgakalatsa o tle"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "thuso ya me"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "se se nkolokang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "liega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:58.005933622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Gore le fa ba ka godisa ⟨את⟩ bana ba bone, ke tla ba tlhokafatsa, ba se na motho; gape mauwe a lo ilelwe fa ke ba tlogela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "le fa"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "ba ka godisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba bone"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana ba bone"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ke tla ba tlhokafatsa"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ba se na motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gape"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "mauwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a lo ilelwe"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "fa ke ba tlogela"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:43.712694350Z",
+  "model": "glm-5.3"
+}

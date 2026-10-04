@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme Yaakobo a re: Rekisa jaaka gompieno ⟨את⟩ tshotlo ya go nna motsetse wa gome go nna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Rekisa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jaaka gompieno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshotlo ya go nna motsetse wa gome"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "tshotlo ya go nna motsetse wa gome"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:07.203907626Z",
+  "model": "glm-5.3"
+}

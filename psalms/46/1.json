@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Go mokaedi, ya bana ba Korakhe, ka mafoko a basetsana, sefoko.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go mokaedi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "mafoko a basetsana"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sefoko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:12.126660863Z",
+  "model": "glm-5.3"
+}

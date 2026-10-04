@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ga lo a tshwanela go dira tiro epe ya sebeletso, mme lo tla mo ntle le minkha ya molelo go Yahwe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "epe"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ya sebeletso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "lo a tshwanela go dira"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "mme lo tla mo ntle le"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "minkha ya molelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:29.756021461Z",
+  "model": "glm-5.3"
+}

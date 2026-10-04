@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme tsena ke maina a banna ba ba tlaanang ba eme ⟨את⟩ le lona: wa Roubene, Elitsure morwa wa Shedeore.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme tsena"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba tlaanang"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ba eme"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona",
+      "marks": "le lona"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "wa Roubene"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsure"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeore"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:33.545122377Z",
+  "model": "glm-5.3"
+}

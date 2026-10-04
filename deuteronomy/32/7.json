@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Gakologelwa malatsi a kgale, tlhaloganya dingwaga tsa bokaulengwe le bokaulengwe; botsa rraago mme o tla go bolelela, bagolo ba gago mme ba tla go buela.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gakologelwa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a kgale"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "tlhaloganya"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "דור",
+      "gloss": "bokaulengwe"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "le bokaulengwe"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "botsa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rraago"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "mme o tla go bolelela"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "bagolo ba gago"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba tla go buela"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:09.643409410Z",
+  "model": "glm-5.3"
+}

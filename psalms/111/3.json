@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 111,
+  "translation": "Setshwaro se segolo le botlhale ke tiro ya gagwe, mme tsedeko ya gagwe e eme go ya leruri.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "setshwaro se segolo"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "le botlhale"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "tiro ya gagwe"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "mme tsedeko ya gagwe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "go ya leruri"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:10.024672233Z",
+  "model": "glm-5.3"
+}

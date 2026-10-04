@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ke tlhoma go nna bopaki jo bo ikanyegang: ⟨את⟩ Uriya moperesiti, le ⟨את⟩ Zekaraja morwa Yeberekiahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "mme ke tlhoma bopaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "jo bo ikanyegang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya moperesiti"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Zekaraja morwa Yeberekiahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekaraja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeberekiahu"
+    }
+  ],
+  "timestamp": "2026-10-03T23:46:05.375743689Z",
+  "model": "glm-5.3"
+}

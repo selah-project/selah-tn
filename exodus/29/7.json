@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o tsea ⟨את⟩ mafura a go tlodisa, o a nosa mo tlhogo ya gagwe, mme o mo tlodisa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tsea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a go tlodisa"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "o a nosa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tlhogo ya gagwe"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mme o mo tlodisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Aharone)"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:28.705009028Z",
+  "model": "glm-5.3"
+}

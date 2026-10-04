@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 29:14",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mo go nna jalo, bonwe, ke tla oketsa go makatsa ⟨את⟩ setshaba se — go makatsa le go makatsa gape; mme botlhale jwa ba ba botlhale jwa bone bo tla nyelela, mme kutlwisiso ya ba ba tlhalogang ba tla iphitlha.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mo go nna jalo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonwe, ke"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ke tla oketsa"
+    },
+    {
+      "surface": "להפליא",
+      "gloss": "go makatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הפלא",
+      "gloss": "go makatsa"
+    },
+    {
+      "surface": "ופלא",
+      "gloss": "le go makatsa gape"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "mme bo tla nyelela"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "חכמיו",
+      "gloss": "jwa ba ba botlhale"
+    },
+    {
+      "surface": "ובינת",
+      "gloss": "mme kutlwisiso"
+    },
+    {
+      "surface": "נבניו",
+      "gloss": "ya ba ba tlhalogang"
+    },
+    {
+      "surface": "תסתתר",
+      "gloss": "e tla iphitlha"
+    }
+  ],
+  "timestamp": "2026-10-03T23:53:55.316883435Z",
+  "model": "glm-5.3"
+}

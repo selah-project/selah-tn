@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalone le ⟨את⟩ mabala a yone, ⟨את⟩ Gati-Rimone le ⟨את⟩ mabala a yone; ditoropo di le nne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalone"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a yone"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a yone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gati-Rimone"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a yone"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a yone"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "di le nne"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:27.857359675Z",
+  "model": "glm-5.3"
+}

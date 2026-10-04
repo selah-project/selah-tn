@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Mme tlala e ne e boima mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "mme tlala"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "e ne e boima"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:10.263979727Z",
+  "model": "glm-5.3"
+}

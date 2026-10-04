@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Motho yo o itshekileng o timetse mo lefatsheng, mme yo o siameng mo bathong ga ⟨go⟩ na; botlhe ba iphitlhitse go emetse madi; motho o tshwara ⟨את⟩ mokaulengwe wa gagwe ka sefalalelo.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "o timetse"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "motho yo o itshekileng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "mme yo o siameng"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mo bathong"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "go emetse madi"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "ba iphitlhitse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokaulengwe wa gagwe"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "mokaulengwe wa gagwe"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "o tshwara"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ka sefalalelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:04:13.271462139Z",
+  "model": "glm-5.3"
+}

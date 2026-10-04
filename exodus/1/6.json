@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Yosefe a tlhokafala, le bokaulengwe jotlhe jwa gagwe, le popego yotlhe ya nako eo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Mme a tlhokafala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le jotlhe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bokaulengwe jwa gagwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yotlhe"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "popego"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ya nako eo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:26.568454397Z",
+  "model": "glm-5.3"
+}

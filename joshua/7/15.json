@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme o tla nna gore yo o tshwerweng ka sela se se itshepileng se, o tla chwa ka molelo, ene le ⟨את⟩ sengwe le sengwe se se mo go ene, gonne o tlola kgolagano ya Yahwe, mme gonne o dira botlhoka mo Yisraele.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme o tla nna gore"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "yo o tshwerweng"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "ka sela se se itshepileng se"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "o tla chwa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "o tlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mme gonne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dira"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "botlhoka"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mo Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:38:13.938079525Z",
+  "model": "glm-5.3"
+}

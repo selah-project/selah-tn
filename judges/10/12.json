@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "le baTsidone, le baAmaleke, le baMowone ba ne ba lo gatelela ⟨את⟩ lona, mme lo lletla go nna, mme ke a lo boloka ⟨את⟩ lona mo seatleng sa bone.",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "le baTsidone"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "le baAmaleke"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "le baMowone"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "ba ne ba lo gatelela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "lo lletla"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "kea lo boloka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "mo seatleng sa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:48:21.740159008Z",
+  "model": "glm-5.3"
+}

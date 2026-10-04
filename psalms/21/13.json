@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Gore o tla ba baya sehuba, ka dithapo tsa gago o tla di tlhomamisa kgatlhanong le sefathego sa bone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "o tla ba baya"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "sehuba"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "ka dithapo tsa gago"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "o tla di tlhomamisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "sefathego sa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:01.349107462Z",
+  "model": "glm-5.3"
+}

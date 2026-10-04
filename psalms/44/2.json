@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Elohim, ka ditlela tsa rona re kwafile; bo-rra rona ba re boletse tiro eo o ne o e dirile ka malatsi a bone, ka malatsi a bogologolo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ka ditlela tsa rona"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "re kwafile"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bo-rra rona"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ba re boletse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "o ne o e dirile"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "ka malatsi a bone"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ka malatsi a"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bogologolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:31.409029232Z",
+  "model": "glm-5.3"
+}

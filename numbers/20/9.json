@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Moshe o ne a tseela ⟨את⟩ mosola kwa go Yahwe, jaaka a mo laetse.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o ne a tseela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosola"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "mosola"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "a mo laetse"
+    }
+  ],
+  "timestamp": "2026-10-03T22:12:14.478603759Z",
+  "model": "glm-5.3"
+}

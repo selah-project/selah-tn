@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Ka letsatsi leo lo tlhabang ka lona ⟨את⟩ seetsego sa lona, se tla jewa, le mo mosong; mme se se setseng go fitlha letsatsi la boraro, ka molelo se tla fiswa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "sa seetsego sa lona"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se tla jewa"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "le mo mosong"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "mme se se setseng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "la boraro"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "se tla fiswa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:17.875345168Z",
+  "model": "glm-5.3"
+}

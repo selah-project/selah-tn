@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ditona tsa Faro di ne tsa mo bona, mme tsa mo gakolola go ya go Faro; mme mosadi a tsenngwa mo lapeng la Faro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "di ne tsa bona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi (yena)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ditona tsa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "di ne tsa mo gakolola"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi (yena)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "mme a tsenngwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo lapeng la"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:34.827755167Z",
+  "model": "glm-5.3"
+}

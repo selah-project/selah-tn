@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "le ⟨את⟩ dikosi tsotlhe tsa Tsure, le ⟨את⟩ dikosi tsotlhe tsa Tsidone, le ⟨את⟩ dikosi tsa naga e e mabapi le lewatle, e e kwa tlase ga lewatle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikosi tsotlhe tsa Tsure"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikosi tsa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsure"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikosi tsotlhe tsa Tsidone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikosi tsa"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikosi tsa naga e e mabapi le lewatle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikosi tsa"
+    },
+    {
+      "surface": "האי",
+      "gloss": "naga e e mabapi le lewatle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "kwa tlase ga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    }
+  ],
+  "timestamp": "2026-10-04T00:16:50.352062073Z",
+  "model": "glm-5.3"
+}

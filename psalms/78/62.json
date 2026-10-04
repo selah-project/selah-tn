@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme a neela setshaba sa gagwe go tshaka, mme a tswaletse maikutlo a bopelokgale kgatlhanong le boswa jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "go tshaka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "mme kgatlhanong le boswa jwa gagwe"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "a tswaletse maikutlo a bopelokgale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:26.688951670Z",
+  "model": "glm-5.3"
+}

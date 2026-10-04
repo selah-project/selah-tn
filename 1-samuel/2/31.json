@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Bonang, malatsi a a tlang, mme ke tla segetla ⟨את⟩ letshogo la gago le ⟨את⟩ letshogo la ntlo ya rraago, go se nne mogolwane mo ntlong ya gago.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "a a tlang"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "mme ke tla segetla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letshogo la gago"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "letshogo la gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "letshogo la ntlo ya rraago"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "letshogo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya rraago"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "go se nne"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mogolwane"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mo ntlong ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:08:36.775403700Z",
+  "model": "glm-5.3"
+}

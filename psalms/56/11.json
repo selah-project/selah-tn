@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Ka Elohim ke a boka lefoko; ka Yahwe ke a boka lefoko.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ke a boka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ke a boka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:24.050383831Z",
+  "model": "glm-5.3"
+}

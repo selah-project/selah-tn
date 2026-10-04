@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme nna ke ne ke re, mo kagisong ya me: Ga ke kitla ke tsamaisiwa, go ya bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "mo kagisong ya me"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Ga ... kitla"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ke tsamaisiwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:00.956170486Z",
+  "model": "glm-5.3"
+}

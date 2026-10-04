@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "le morwadiaagwe Sheerahe; mme o ne a aga ⟨את⟩ Beti-Horone, wa kwa tlase, le ⟨את⟩ wa kwa godimo, le ⟨את⟩ Uzene-Sherahe.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "le morwadiaagwe"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheerahe"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "o ne a aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Horone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horone"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "wa kwa tlase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "wa kwa godimo"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "wa kwa godimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Uzene-Sherahe"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzene-"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sherahe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:55.679519361Z",
+  "model": "glm-5.3"
+}

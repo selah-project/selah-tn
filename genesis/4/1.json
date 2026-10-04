@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme mong le mong wa lefatshe (Adamo) o ne a itse ⟨את⟩ Khave, mosadi wa gagwe; mme a imolola, mme a belega ⟨את⟩ Kaine; mme a re: Ntseuntle ke ntshitse monna ka thuso ya ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Mme mong"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o ne a itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khave"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Khave"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "mme a imolola"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mme a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaine"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaine"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ke ntshitse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:42.625263406Z",
+  "model": "glm-5.3"
+}

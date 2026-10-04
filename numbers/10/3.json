@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme fa ba di thunya, setshaba sotlhe se tla kokoanela go wena kwa sekirating sa tente ya kopano.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "fa ba di thunya"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ka tsone"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "se tla kokoanela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sekirating"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:27.874438798Z",
+  "model": "glm-5.3"
+}

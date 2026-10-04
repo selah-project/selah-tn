@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mo torong ba tlologela, mo mosing ba kitlanela, mo maloking ba kgwatha, ka diwindo ba tsena, jaaka senyapereko.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "mo torong"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "ba tlologela"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "mo mosing"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "ba kitlanela"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "mo maloking"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ba kgwatha"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "diwindo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "jaaka senyapereko"
+    }
+  ],
+  "timestamp": "2026-10-04T00:57:12.448382386Z",
+  "model": "glm-5.3"
+}

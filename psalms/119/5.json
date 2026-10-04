@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ah, nka bo ke leka gore ditsela tsa me di nne di nonofile, go boloka melawana ya gago!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "ah, nka bo ke leka gore"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "di nne di nonofile"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tsa me"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melawana ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:26.009286962Z",
+  "model": "glm-5.3"
+}

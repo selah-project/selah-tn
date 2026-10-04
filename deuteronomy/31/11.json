@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "fa Yisraele yotlhe e tlile go bona ⟨את⟩ sefathego sa Yahwe Elohim wa gago, kwa lefelong leo a se tlhophang, o tla bala ⟨את⟩ Torah eno kwa pele ga Yisraele yotlhe, mo ditsebeng tsa bone.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "fa e tlile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefathego"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwa lefelong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "a se tlhophang"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "o tla bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah eno"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah eno"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "mo ditsebeng tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:11.313973511Z",
+  "model": "glm-5.3"
+}

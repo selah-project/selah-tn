@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Gore kgalefo ya Yahwe e tsere ditshaba tsotlhe, le bogale jwa gagwe go masole a tsone ka tsotlhe; o di neela go senngwa, o di neetse go bolawa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kgalefo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "le bogale"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka tsotlhe"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "masole a tsone"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "o di neela go senngwa"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "o di neetse"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "go bolawa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:55:36.734124879Z",
+  "model": "glm-5.3"
+}

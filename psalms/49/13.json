@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Mme motho mo tlotlong ga a nna ⟨bosigo⟩; o tshwanngwa le dikgomo — ba fedile.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Mme motho"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "mo tlotlong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "o tshwanngwa"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "le dikgomo"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ba fedile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:50.526927153Z",
+  "model": "glm-5.3"
+}

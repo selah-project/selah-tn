@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "A ga se seeng se se mo go ona mong wa me a nwa, mme o a shupa ka sona? A ga lo dirile bosula jwa go dira se lo se dirileng?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "seeng se se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se mo go ona"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "a nwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa me"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go ona"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme o"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "o a shupa"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "ka sona"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka sona"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "a ga lo dirile bosula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jwa go dira"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "se lo se dirileng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:15.833724449Z",
+  "model": "glm-5.3"
+}

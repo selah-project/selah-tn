@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme a bopelela ⟨את⟩ dikoloi tsa gagwe tsa ntwa, mme a tseela ⟨את⟩ setšhaba sa gagwe se a nang le sone.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "a bopelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikoloi tsa gagwe tsa ntwa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "dikoloi tsa gagwe tsa ntwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba sa gagwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setšhaba sa gagwe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a tseela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "se a nang le sone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:09.059222278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Le ⟨את⟩ diphio tse pedi, le ⟨את⟩ mafura a a mo go tsone, a a mo maseleng, le ⟨את⟩ karolo e kgolo ya godimo ga sebete, mo diphiong a e ntsha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Le ⟨את⟩",
+      "marks": "diphio tse pedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "diphio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "maseleng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "karolo e kgolo"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "karolo e kgolo ya godimo ga sebete"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sebete"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "diphiong"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "a e ntsha"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:51.059408636Z",
+  "model": "glm-5.3"
+}

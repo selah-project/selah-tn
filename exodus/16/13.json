@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme fa go ne go le bosegong, dikwale di ne di tlhatloga mme di kofera ⟨את⟩ setse; mme ka moso go ne go na le go robala ga munyu go dikala setse.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go le"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "bosegong"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "di tlhatloga"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "dikwale"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "di kofera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setse"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "setse"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "mme ka moso"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "go ne go na le"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "go robala"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ga munyu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikala"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "setse"
+    }
+  ],
+  "timestamp": "2026-10-04T03:03:22.295994361Z",
+  "model": "glm-5.3"
+}

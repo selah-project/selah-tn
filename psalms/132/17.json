@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "Kwa foo ke tla tlhagafera kerone ya ga Dawide; ke rulagantse lesedi la Mashiakhame.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "kwa foo"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "ke tla tlhagafera"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "kerone"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya ga Dawide"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ke rulagantse"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lesedi"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "la Mashiakhame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:02.128715819Z",
+  "model": "glm-5.3"
+}

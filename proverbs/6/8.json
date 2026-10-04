@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "e siamisa ka selemo senkgwe sa yona, e kgobokanya ka go sega dijo tsa yona.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "e siamisa"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ka selemo"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "senkgwe sa yona"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "e kgobokanya"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ka go sega"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "dijo tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:54.189568747Z",
+  "model": "glm-5.3"
+}

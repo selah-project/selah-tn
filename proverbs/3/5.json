@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ikganye go Yahwe ka pelo ya gago yotlhe, mme o se ka wa ikaega ka tlhaloganyo ya gago.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Ikganye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... yotlhe"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "tlhaloganyo ya gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ikaega"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:31.432521809Z",
+  "model": "glm-5.3"
+}

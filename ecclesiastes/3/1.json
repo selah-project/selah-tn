@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Selotlhele nako, mme sesupa sengwe le sengle se se ikaeletseng kafa tlase ga magodimo.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "sengwe le sengle"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "nako"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mme sesupa sengwe le sengle"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "se se ikaeletseng"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "se se ikaeletseng"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kafa tlase ga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:59.526723334Z",
+  "model": "glm-5.3"
+}

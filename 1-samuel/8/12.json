@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "le go ba bea mo go ene e le ditlhogofo tsa dikete le ditlhogofo tsa masome a matlhano, le go lema go lema ga gagwe, le go sega segotso sa gagwe, le go dira didirisiwa tsa ntwa ya gagwe le didirisiwa tsa dikoloi tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "le go ba bea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "e le ditlhogofo tsa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le ditlhogofo tsa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masome a matlhano"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "le go lema"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "go lema ga gagwe"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "le go sega"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "segotso sa gagwe"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "le go dira"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didirisiwa"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "tsa ntwa ya gagwe"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "le didirisiwa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "tsa dikoloi tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:49.528446810Z",
+  "model": "glm-5.3"
+}

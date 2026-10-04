@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme kgosi Shelomoh a nna mogolo go feta dikgosi tsotlhe tsa lefatshe, ka khumo le bohlale.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "a nna mogolo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go feta ... tsotlhe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "ka khumo"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "le bohlale"
+    }
+  ],
+  "timestamp": "2026-10-03T23:23:49.940147032Z",
+  "model": "glm-5.3"
+}

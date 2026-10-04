@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mahloko go ba ba tlhamang melao ya bosulu, le ba ba ngolang, ba ngola dilo tse di bokente tsa go tlhotlheletsa ba bangwe.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mahloko"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "go ba ba tlhamang melao"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "melao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ya bosulu"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "le ba ba ngolang"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "dilo tse di bokente"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ba ngola"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:14.097996377Z",
+  "model": "glm-5.3"
+}

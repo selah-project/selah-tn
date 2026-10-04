@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Fa ba oketsega, jaana ba dirile boleo go nna; ke tla fetola seriti sa bone go nna seriti sa tlhogo.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "fa ba oketsega"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jaana"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba dirile boleo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "seriti sa bone"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "go nna seriti sa tlhogo"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ke tla fetola"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:15.897225138Z",
+  "model": "glm-5.3"
+}

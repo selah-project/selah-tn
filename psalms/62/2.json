@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Fela go Elohim moya wa me o didimalla; go tswa go Ene ke bolokolohi jwa me.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "o didimalla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa go Ene"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "bolokolohi jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:26.400872420Z",
+  "model": "glm-5.3"
+}

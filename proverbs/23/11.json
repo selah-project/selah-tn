@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Gonne mokolodi wa bone ke wa maatla, o tla lwa ⟨את⟩ kgang ya bone ⟨את⟩ le wena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "mokolodi wa bone"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wa maatla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "tla lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgang ya bone"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "kgang ya bone"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:49:56.777096368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Elohim, o nthutile go tloga bonyaneng jwa me; mme go fitlha gompieno ke tla boela go tlalosa dilo tsa gago tse di makatsang.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "o nthutile"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "go tloga bonyaneng jwa me"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme go fitlha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ke tla boela go tlalosa"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dilo tsa gago tse di makatsang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:35.650228752Z",
+  "model": "glm-5.3"
+}

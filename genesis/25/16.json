@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Ba ne le bana ba Yishmaele, mme ba ne le maina a bone, ka metse ya bone le metswedi ya bone: dikgosi di le lesomepedi go ya ka merafe ya bone.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ba ne le"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨e seng ba bangwe⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaele"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mme ba ne le"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "maina a bone"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "ka metse ya bone"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "metswedi ya bone"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "dikgosi di"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "go ya ka merafe ya bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:57.760500575Z",
+  "model": "glm-5.3"
+}

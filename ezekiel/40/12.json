@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme molelwane kwa pele ga diphaposi, pama e le nngwe, mme pama e le nngwe molelwane ka lehlakoreng le le lengwe; mme phaposi, dipama di le thataro ka lehlakoreng le le lengwe, le dipama di le thataro ka lehlakoreng le le lengwe.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "mme molelwane"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "diphaposi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "pama"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mme pama"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "ka lehlakoreng le le lengwe"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "mme phaposi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "di le thataro"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dipama"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ka lehlakoreng le le lengwe"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le di le thataro"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dipama"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ka lehlakoreng le le lengwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:49:09.627178814Z",
+  "model": "glm-5.3"
+}

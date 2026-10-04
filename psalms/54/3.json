@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 54,
+  "translation": "Elohim, ka leina la gago ntsholle, mme ka nonyane ya gago ntlhatlolere.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ka leina la gago"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ntsholle"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "mme ka nonyane ya gago"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "ntlhatlolere"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:49.833119571Z",
+  "model": "glm-5.3"
+}

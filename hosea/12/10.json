@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme nna ke Yahwe Elohim ya gago go tloga kwa lefatshe la Mitsrayime; gape ke tla go boa ke go baya mahutlheng, jaaka malatsi a moletlo.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tloga kwa lefatshe la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ke tla go boa ke go baya"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "mahutlheng"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "jaaka malatsi a"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moletlo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:00.316795437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 5:28",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Yahwe a utlwa ⟨את⟩ modumo wa mafoko a lona, fa le ne le bua le nna; mme Yahwe a mpolelela: Ke utlwile ⟨את⟩ modumo wa mafoko a setshaba se, se se buileng go wena; ba buile sentle sengwe le sengwe se ba se buileng.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mme a utlwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "wa mafoko a lona"
+    },
+    {
+      "surface": "בדברכם",
+      "gloss": "fa le ne le bua"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a mpolelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke utlwile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wa mafoko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "buileng"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ba buile sentle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ba se buileng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:19.367536823Z",
+  "model": "glm-5.3"
+}

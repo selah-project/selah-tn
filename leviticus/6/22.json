@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Botlhe ba banna ba bakokeredi ba ka e ja; e ⟨את⟩ e boitshepo thata ke yona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ba banna"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ba bakokeredi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ba ka ja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (ofelo, minkha)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e boitshepo thata"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "boitshepo thata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:55.745026453Z",
+  "model": "glm-5.3"
+}

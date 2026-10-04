@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme o tseye koo sengwe se se kwa tlase ka palo, mme o se phuthele mo mafukeng a gago.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tseye"
+    },
+    {
+      "surface": "משם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sengwe se se kwa tlase"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ka palo"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "mme o se phuthele"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mo mafukeng a gago"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "mo mafukeng a gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:33:44.728570096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ba bea ⟨את⟩ mafura godimo ga dihuba, mme a fisa mafura mo altaring.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ba bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "dihuba"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "a fisa"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mo altaring"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:20.981532398Z",
+  "model": "glm-5.3"
+}

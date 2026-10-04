@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Gore go ne go se molwanedi yo o nkgadimitseng — ke ne ke tlaa ka se amogela; gape ga se yo o ntlhoileng yo o ikaditseng kgatlhanong le nna — ke ne ke tlaa ka itshabela mo go ene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "molwanedi"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "yo o nkgadimitseng"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "mme ke ne ke tlaa ka se amogela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "yo o ntlhoileng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatlhanong le nna"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "yo o ikaditseng"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "mme ke ne ke tlaa ka itshabela"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:39.332112340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Se ke wa se ja se sa apewang, le se apilweng ka metsi, mme selete sa molelo: tlhogo ya sone mmogo le maoto a sone le mmogo le selegae sa sone.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "wa se ja"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa go sone"
+    },
+    {
+      "surface": "נא",
+      "gloss": "se sa apewang"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "le se apilweng"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "se apilweng"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka metsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fela"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "selete"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa molelo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tlhogo ya sone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "maoto a sone"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mmogo le"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "selegae sa sone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:23.314795283Z",
+  "model": "glm-5.3"
+}

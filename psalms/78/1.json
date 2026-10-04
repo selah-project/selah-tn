@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Puiso ya go kaela, ya Asafe. Kutlwelang, setshaba sa me, Torah ya me; tlhagatlhagang dikutu tsa lona go mafoko a molomo wa me.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Puiso ya go kaela"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafe"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Kutlwelang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ya me"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tlhagatlhagang"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "dikutu tsa lona"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "go mafoko a"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:43.268404069Z",
+  "model": "glm-5.3"
+}

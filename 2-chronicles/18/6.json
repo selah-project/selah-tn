@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Yehoshafate a re: A ga go na fano moporofeti wa Yahwe gape, gore re ⟨את⟩ mo batleise?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafate"
+    },
+    {
+      "surface": "האין",
+      "gloss": "a ga go na"
+    },
+    {
+      "surface": "פה",
+      "gloss": "fano"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "moporofeti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "וונדרשה",
+      "gloss": "gore re batleise"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩mo",
+      "marks": "moporofeti"
+    }
+  ],
+  "timestamp": "2026-10-04T02:52:00.610587236Z",
+  "model": "glm-5.3"
+}

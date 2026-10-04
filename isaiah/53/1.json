@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Ke mang yo o neng a dumela se re se utlwileng? Gape segosi sa Yahwe, go bontshitswe go mang?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "o dumela"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "se re se utlwileng"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "Gape segosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sa Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "go bontshitswe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:59.222708202Z",
+  "model": "glm-5.3"
+}

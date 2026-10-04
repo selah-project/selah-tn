@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme o mo itheophise, gonne ⟨את⟩ senkgwe sa Elohim wa gago ke ene a se gatisetsang pele; o tla nna a e boitshepo go wena, gonne ke boitshepo Me, Yahwe, Yo o le itheophisang.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "mme o mo itheophise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senkgwe sa Elohim wa gago"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe sa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "a se gatisetsang pele"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a e boitshepo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla nna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ke boitshepo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Yo o le itheophisang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:22.410158791Z",
+  "model": "glm-5.3"
+}

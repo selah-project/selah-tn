@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "A romela thuso ya gago go tswa mo boitshepong, mme go tswa mo Tsiyone a go theeletse.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "thuso ya gago"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "go tswa mo boitshepong"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "mme go tswa mo Tsiyone"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "a go theeletse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:15.561180471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Yahwe, o ntshitse moya wa me mo Sheole, o ntsegeditse botshelo mo go ba ba tileng go ela mo sedibeng.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "o ntsegeditse botshelo"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "mo go ba ba tileng go ela"
+    },
+    {
+      "surface": "בור",
+      "gloss": "sedibe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:57.406479991Z",
+  "model": "glm-5.3"
+}

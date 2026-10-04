@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme ke ne ke letile — gonne ba se na go bua; gonne ba emile, ga ba arabe gape.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "mme ke ne ke letile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se na"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ba emile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ba arabe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-04T02:02:24.580249343Z",
+  "model": "glm-5.3"
+}

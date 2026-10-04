@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme jaanong, bonolo, go kua ga bana ba Yisraele go tsile go ya go nna; mme ke ile ka bona le ⟨את⟩ pheletso eo Mitsrayime ba ba phatlalatsang ba e dira ⟨את⟩ go bone.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jaanong"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonolo"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "go kua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "באה",
+      "gloss": "go tsile"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go ya go nna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke ile ka bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pheletso"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "pheletso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "ba ba phatlalatsang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ go bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:21.268968394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme di nne dinakedi kwa sehubeng sa magodimo go phadima lefatshe; mme go nna jalo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Mme di nne"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "dinakedi"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "kwa sehubeng sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "go phadima"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:30.323505600Z",
+  "model": "glm-5.3"
+}

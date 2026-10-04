@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ba babedi ba botlhale go feta mongwe, gore ba na le sekelo se se siameng mo tirong ya bone.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ba botlhale"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mongwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ba na le"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sekelo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "mo tirong ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:23:46.943978245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Bonang, Adonai Yahwe o tla ka thata, mme seatla sa gagwe se laola mo go ene; bonang, moputso wa gagwe o mo go ⟨את⟩ ene, mme tiro ya gagwe kwa pele ga gagwe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ka thata"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "mme seatla sa gagwe"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "se laola"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "moputso wa gagwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mo go ⟨את⟩ ene",
+      "marks": "moputso wa gagwe"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "mme tiro ya gagwe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "kwa pele ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:15.787764435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme go tswa mo baneng ba Benyamine: Sallu morwa Meshullame, morwa Hodavya, morwa wa ba-Senua.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "mme go tswa mo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "baneng ba"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamine"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Sallu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshullame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Hodavya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "ba-Senua"
+    }
+  ],
+  "timestamp": "2026-10-04T02:38:31.790345402Z",
+  "model": "glm-5.3"
+}

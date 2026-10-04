@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Ba ne ba lebelela kwa go ene, mme ba thunya kganya, mme dipono tsa bone ga di a sekama.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Ba ne ba lebelela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "mme ba thunya kganya"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "dipono tsa bone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "di a sekama"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:18.307477188Z",
+  "model": "glm-5.3"
+}

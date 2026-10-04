@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme matsatsi otlhe a Noa a ne a nna dingwaga di le makgolo a robabongwe le masome a matlhano, mme a tlhokafala.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "a ne a nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "a Noa"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "robabongwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masome a matlhano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mme a tlhokafala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:24.472656298Z",
+  "model": "glm-5.3"
+}

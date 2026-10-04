@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Ga le ka ke la sega mekgwa ya ditlhako tsa ditlhare tsa maru ga le le ka ke la tlhagafala ⟨את⟩ mokgwa wa boraro jwa molekane wa gago.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "le ka ke la sega mekgwa"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mokgwa"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "tsa ditlhare tsa maru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga le"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "le ka ke la tlhagafala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokgwa"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mokgwa"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "wa molekane wa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:29.451340174Z",
+  "model": "glm-5.3"
+}

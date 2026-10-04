@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme malatsi a supa a a tlatswa, morago ga gore Yahwe a gogela ⟨את⟩ Noka.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "a a tlatswa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "a gogela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noka"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Noka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:08.850509029Z",
+  "model": "glm-5.3"
+}

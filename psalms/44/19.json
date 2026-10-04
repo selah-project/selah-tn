@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Pelo ya rona ga e a bula kwa morago, mme dikgato tsa rona ga di a sesologa mo tseleng ya gago.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kwa morago"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "pelo ya rona"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "mme ga di a sesologa"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "dikgato tsa rona"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "tseleng ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:50.841470703Z",
+  "model": "glm-5.3"
+}

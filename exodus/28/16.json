@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "E tlaa nna ya khutlonne, e boeleditsweng gabedi; go anama ga seatla go tlaa nna bolelele jwa yone, le go anama ga seatla bophara jwa yone.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ya khutlonne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tlaa nna"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "e boeleditsweng gabedi"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "go anama ga seatla"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bolelele jwa yone"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "le go anama ga seatla"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara jwa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:55.782016906Z",
+  "model": "glm-5.3"
+}

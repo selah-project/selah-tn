@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "phole e le nngwe ya kgomo, nku e le nngwe ya tona, kwanyana e le nngwe ya ngwaga o le mongwe, e le senepe sa go fisiwa.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "phole"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "איל",
+      "gloss": "nku ya tona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ngwaga o le mongwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "e le senepe sa go fisiwa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:46.750662411Z",
+  "model": "glm-5.3"
+}

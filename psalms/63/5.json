@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Ka jalo ke tla go segofetsa ka botshelo jwa me; ka leina la gago ke tla tlhatlosa diatla tsa me.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ka jalo"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ke tla go segofetsa"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ka botshelo jwa me"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ka leina la gago"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ke tla tlhatlosa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "diatla tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:30.285409257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Bonwe, ke go lotlhotse, mme e seng ka selefera; ke go tlhophile mo setingong sa botlhoko.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "ke go lotlhotse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e seng"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ka selefera"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ke go tlhophile"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mo setingong"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sa botlhoko"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:45.569349123Z",
+  "model": "glm-5.3"
+}

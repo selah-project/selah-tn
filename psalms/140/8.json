@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 140,
+  "translation": "Yahwe, Adonai, nonofo ya sebolokiho sa me, o ne wa phutha tlhogo ya me ka letsatsi la dibetsa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nonofo ya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "sebolokiho sa me"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "o ne wa phutha"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "tlhogo ya me"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "dibetsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:24.045868915Z",
+  "model": "glm-5.3"
+}

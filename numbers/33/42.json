@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme ba tswa kwa Tsalmona, ba nna kwa Funone.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ba tswa"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "kwa Tsalmona"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "kwa Funone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:18:50.235796627Z",
+  "model": "glm-5.3"
+}

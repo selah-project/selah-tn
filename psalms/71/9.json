@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "O se ka wa nlatlhwa ka nako ya bokgedi; fa maatla a me a fela, o se ka wa ntlogela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "wa nlatlhwa"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ya bokgedi"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "fa... a fela"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "wa ntlogela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:37.794039888Z",
+  "model": "glm-5.3"
+}

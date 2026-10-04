@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ruri nna ke tlaleletsweng maatla, ⟨את⟩ ruakh ya Yahwe, le katlholo le nonofo, go tlhalosa go Yaakobo boipelaetso jwa gagwe, le go Yisraele molato wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "mme ruri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ke tlaleletsweng"
+    },
+    {
+      "surface": "כח",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "nonofo"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "go tlhalosa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "go Yaakobo"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "boipelaetso jwa gagwe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "le go Yisraele"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "molato wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:02:12.245817601Z",
+  "model": "glm-5.3"
+}

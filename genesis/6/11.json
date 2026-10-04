@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme lefatshe le ne le senyegile pele ga Elohim, mme lefatshe le ne le tlaleletse kgotso.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "le ne le senyegile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "le ne le tlaleletse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kgotso"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:39.362082903Z",
+  "model": "glm-5.3"
+}

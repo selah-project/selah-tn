@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ka tshenyo ke ne ke re: Tlhologelelo; mme ka thabo: Ke eng se o se dirang?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ka tshenyo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "tlhologelelo"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "mme ka thabo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o se dirang"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:30.652911293Z",
+  "model": "glm-5.3"
+}

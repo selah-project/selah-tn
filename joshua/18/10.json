@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Yehoshua a latlhela losele mo go bone ko Shiloh, pele ga Yahwe; mme foo Yehoshua a kgaola ⟨את⟩ lefatshe go bana ba Yisraele, go ya ka dikarolo tsa bone.",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "a latlhela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "losele"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "ko Shiloh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "a kgaola"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "go ya ka dikarolo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:41:39.175620969Z",
+  "model": "glm-5.3"
+}

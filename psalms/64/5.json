@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "Gore ba thunye mo bosekeng ⟨את⟩ yo o siameng; ka bonako ba mo thunya, mme ba sa boife.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "gore ba thunye"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "mo bosekeng"
+    },
+    {
+      "surface": "תם",
+      "gloss": "yo o siameng"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ka bonako"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ba mo thunya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "boife"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:57.392565791Z",
+  "model": "glm-5.3"
+}

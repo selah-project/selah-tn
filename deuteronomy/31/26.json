@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Layang buka eno ya Torah, e beileng kwa thoko ga sephuthela sa kgolagano ya Yahwe Elohim ya lona, e nne teng foo kgatlhanong le lona ka bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "layang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buka"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buka"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ya Torah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "e beileng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "e (buka)"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "kwa thoko ga"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sephuthela"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sa kgolagano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e nne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng foo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kgatlhanong le lona"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ka bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:17.654301546Z",
+  "model": "glm-5.3"
+}

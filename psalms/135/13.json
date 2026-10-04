@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Yahwe, leina la gago go ya ka bosakhutleng; Yahwe, segakololo sa gago go ya ko go kokomana le kokomana.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya ka bosakhutleng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "segakololo sa gago"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "go ya ko go kokomana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le kokomana"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:35.468449299Z",
+  "model": "glm-5.3"
+}

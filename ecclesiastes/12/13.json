@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Bofelo jwa lefoko, sengwe le sengwe se se utlwilweng: o se ke wa tsamaya o sa tshaba ⟨את⟩ Elohim, mme o boloke ⟨את⟩ melao ya gagwe, gonne se ke sengwe le sengwe sa motho.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "bofelo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "se se utlwilweng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "o se ke wa tsamaya o sa tshaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "melao ya gagwe"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "melao ya gagwe"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "o boloke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa motho"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:45.119705471Z",
+  "model": "glm-5.3"
+}

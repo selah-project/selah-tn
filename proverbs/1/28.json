@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "ba tla go mpitsa, mme ga ke na go araba; ba tla go ntlatlanela, mme ba ka se nne ba nthloga;",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "go mpitsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ke na go araba"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "go ntlatlanela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ka se"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "nne ba nthloga"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:27.084842364Z",
+  "model": "glm-5.3"
+}

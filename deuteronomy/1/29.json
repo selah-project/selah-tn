@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ka re go lona: Lo se ka wa tsoga selelea, le fa lo se ka wa ba boifa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mme ka re"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ka wa"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "tsoga selelea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le fa lo se ka wa"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "boifa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:34.211306417Z",
+  "model": "glm-5.3"
+}

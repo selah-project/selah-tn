@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme a bea ⟨את⟩ aletare ya gauta go tente ya kopano, pele ga ⟨ה⟩ serethe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mme a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aletare ya gauta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "go tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "serethe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:30.333461774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Le madi a sekitse a a neng a a thubile gape; o ne a jaladitse ⟨את⟩ Yerushalayime ka madi a sekitse; mme Yahwe ga a a batla go itshwarela.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "le gape"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "a sekitse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a a neng"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "a a thubile"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "o ne a jaladitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a sekitse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "a a batla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "go itshwarela"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:19.333365845Z",
+  "model": "glm-5.3"
+}

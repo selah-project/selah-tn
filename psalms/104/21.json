@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Dikgogedi tse dinnye di kgogela se di tshwereng, mme di batla dijo tsa tsona go tswa go El.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "dikgogedi tse dinnye"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "di kgogela"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "se di tshwereng"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "mme di batla"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "go tswa go El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "dijo tsa tsona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:15.965104416Z",
+  "model": "glm-5.3"
+}

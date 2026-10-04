@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 120,
+  "translation": "Metsu e bofefo ya monng wa maatla, mmogo le dikhase tsa motlhare wa reteme.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "metsu"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "monng wa maatla"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "e bofefo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "dikhase"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "tsa motlhare wa reteme"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:53.796617141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme Yitshake a bitsa Yaakobo, a mo tshegofatsa, a mo laela, a mmolelela re: o se ke wa tsaya mosadi go tswa mo baneng ba basadi ba Kenaane.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a mo tshegofatsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Yaakobo)"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "a mo laela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a mmolelela re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wa tsaya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "go tswa mo baneng"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ba Kenaane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:58.813827280Z",
+  "model": "glm-5.3"
+}

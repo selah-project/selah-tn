@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 10:12",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme kgosi a dira ⟨את⟩ ditlhare tsa almagime botla jwa ditepiso sa ntlo ya Yahwe le sa ntlo ya kgosi, le dinoko le dibini tsa ba opelang; ditlhare tsa almagime jaalo ga di a ka tsa tla, gape ga di a ka tsa bonwa go fitlha gompieno.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhare tsa almagime"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ditlhare"
+    },
+    {
+      "surface": "האלמגים",
+      "gloss": "tsa almagime"
+    },
+    {
+      "surface": "מסעד",
+      "gloss": "botla jwa ditepiso"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "le sa ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "le dinoko"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "le dibini"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "tsa ba opelang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "di ka tla"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jaalo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ditlhare"
+    },
+    {
+      "surface": "אלמגים",
+      "gloss": "tsa almagime"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gape ga"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "di a bonwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le le gompieno"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:00.635025308Z",
+  "model": "glm-5.3"
+}

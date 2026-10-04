@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme ke tlaa laela ⟨את⟩ boloko jwa me go lona ka ngwaga wa borataro, mme o tlaa dira ⟨את⟩ sepego sa dingwaga di le tharo.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "ke tlaa laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boloko jwa me"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "boloko jwa me"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka ngwaga"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "wa borataro"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "mme o tlaa dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sepego"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "sepego"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "di le tharo"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "sa dingwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:09.504167506Z",
+  "model": "glm-5.3"
+}

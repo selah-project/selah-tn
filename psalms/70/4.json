@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 70,
+  "translation": "A ba boele morago ka ntlha ya bosula jwa tshwenyego ya bone, ba ba reng: He-akh! He-akh!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "a ba boele morago"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "bosula jwa"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "tshwenyego ya bone"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ba ba reng"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-akh!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-akh!"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:59.985861139Z",
+  "model": "glm-5.3"
+}

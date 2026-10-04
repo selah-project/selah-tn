@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme a e apesa ka gauta e e boitshepo, ka bogare le ka ntle; mme a direla yone sediriswa sa gauta se se dikologang.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "a e apesa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e boitshepo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka bogare"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "le ka ntle"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yone"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sediriswa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "se se dikologang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:13.276524187Z",
+  "model": "glm-5.3"
+}

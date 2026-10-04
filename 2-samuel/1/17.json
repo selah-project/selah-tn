@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Dawide a lla ⟨את⟩ selego se, ka ga Shaole le ka ga Yehonathane mora wa gagwe.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "a lla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selego se"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "selego"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaole"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ka ga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathane"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:08:01.842343860Z",
+  "model": "glm-5.3"
+}

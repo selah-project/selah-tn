@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Ba isiwa ka tatolo le boitumelo; ba tsena mo phaposing ya kgosi.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "Ba isiwa"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ka tatolo"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "le boitumelo"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "mo phaposing"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya kgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:33.504899013Z",
+  "model": "glm-5.3"
+}

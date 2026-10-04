@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Gilade ke ya me, mme Manashe ke ya me; mme Efrayime ke maatla a tlhago ya me; Yehuda ⟨is⟩ mmusi-molao wa me.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ke ya me"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilade"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "mme ke ya me"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "mme Efrayime"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tlhago ya me"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mmusi-molao wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:51.268948847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Ga o kgone go tlhaba ⟨את⟩ Paseka mo go nngwe ya dikgoro tsa gago, tse Yahwe Elohim ya gago a di go nayang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "o kgone"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "go tlhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "mo go nngwe"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ya dikgoro tsa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a go nayang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    }
+  ],
+  "timestamp": "2026-10-03T22:26:13.843910593Z",
+  "model": "glm-5.3"
+}

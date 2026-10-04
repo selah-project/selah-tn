@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme ga ke a batla go utlwa Bileame; mme o ne a lo beraka, e bile ke ne ke lo namola mo seatleng sa gagwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ke a batla"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "go utlwa"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileame"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o ne a lo beraka"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "beraka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (go berakwa)"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ke ne ke lo namola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (go namolwa)"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "mo seatleng sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:35.293563504Z",
+  "model": "glm-5.3"
+}

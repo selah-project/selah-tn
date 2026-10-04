@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Gore jaaka go etsa mosele ba tla tlhatloga ka bonako, mme jaaka go etsa go etsa peo ba tla phatsima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jaaka go etsa mosele"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ka bonako"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "ba tla tlhatloga"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "mme jaaka go etsa go etsa"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "peo"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "ba tla phatsima"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:02.552699150Z",
+  "model": "glm-5.3"
+}

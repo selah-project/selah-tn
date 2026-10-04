@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 18:5",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Dawide a tsena mo go sengwe le sengwe se Shaule a neng a mo romile teng, mme a atlega; mme Shaule a mo baya mo godimo ga banna ba ntwa, mme seo se ne se siametse mo dithong tsa setshaba sotlhe, le mo dithong tsa badira ba Shaule.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "a neng a mo romile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "a atlega"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "mme a mo baya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "se ne se siametse"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo dithong tsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setshaba sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo dithong tsa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badira ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    }
+  ],
+  "timestamp": "2026-10-03T23:02:54.965541815Z",
+  "model": "glm-5.3"
+}

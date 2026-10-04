@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme ba-Pelishtime ba kokoanya, ba tsena, ba tlhoma masimo kwa Shuneme; mme Shaole a kokoanya ⟨את⟩ Yisraele otlhe, mme ba tlhoma masimo kwa Gilboe.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ba kokoanya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ba-Pelishtime"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba tlhoma masimo"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "kwa Shuneme"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "a kokoanya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba tlhoma masimo"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "kwa Gilboe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:06:55.775956395Z",
+  "model": "glm-5.3"
+}

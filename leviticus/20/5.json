@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme nna ke tlaa baya sefathego sa me mo mothong yo, le mo lelapeng la gagwe, mme ke tlaa mo segakolola, le ⟨את⟩ botlhe ba ba filang morago ga gagwe, go fila morago ga Molekehe, mo gare ga sechaba sa bone.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ke tlaa baya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefathego sa me"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa me"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mo mothong"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "le mo lelapeng la gagwe"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "mme ke tlaa segakolola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ o a itshepisang",
+      "marks": "mo segakolola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "ba ba filang"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "morago ga gagwe"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "go fila"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molekehe"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "sechaba sa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:56.240804491Z",
+  "model": "glm-5.3"
+}

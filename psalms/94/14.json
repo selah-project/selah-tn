@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 94,
+  "translation": "Gore Yahwe ga o kitla a tlogela setshaba sa gagwe, mme boswa jwa gagwe ga o kitla a bo tlhoka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga o kitla"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "a tlogela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "mme boswa jwa gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga o kitla"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "a bo tlhoka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:06.000706677Z",
+  "model": "glm-5.3"
+}

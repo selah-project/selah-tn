@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Go fitlha ruakh e tlhagelela mo go rona go tswa kwa godimo, mme sekaka se nne setshwarwa-seno se se nang le merogo, mme setshwarwa-seno se se nang le merogo se bonwe se le sekgwa.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Go fitlha"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "e tlhagelela"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mo go rona"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "go tswa kwa godimo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sekaka"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "se nne setshwarwa-seno se se nang le merogo"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "mme setshwarwa-seno se se nang le merogo"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "se le sekgwa"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "se bonwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:52.437729958Z",
+  "model": "glm-5.3"
+}

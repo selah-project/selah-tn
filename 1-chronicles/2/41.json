@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Shalume o belegotswe ⟨את⟩ Yekamyaha, mme Yekamyaha o belegotswe ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Mme Shalume"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o belegotswe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamyaha"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamyaha"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "mme Yekamyaha"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "o belegotswe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:57.166552756Z",
+  "model": "glm-5.3"
+}

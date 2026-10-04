@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 137,
+  "translation": "Gore koo ba ba neng ba re tshwere jaaka makgolegwa ba ne ba re kopa mafoko a sefoko, mme ba ba neng ba re senya ba re kopa boitumelo, ba re: Opelang rona sefoko sa Tsiyone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "ba ne ba re kopa"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "ba ba neng ba re tshwere jaaka makgolegwa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sa sefoko"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "mme ba ba neng ba re senya"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Opelang"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:36.597792655Z",
+  "model": "glm-5.3"
+}

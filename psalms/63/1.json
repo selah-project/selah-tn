@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Psalme ya Dawide, e bile a santse a le bohatleng jwa Yehudha.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "a santse a le"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bohatleng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "jwa Yehudha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:48.406029594Z",
+  "model": "glm-5.3"
+}

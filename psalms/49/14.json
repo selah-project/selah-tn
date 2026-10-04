@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Se ke tsela ya bone — botsenwa jwa bone; mme ba ba latelang ba a dumelela ka molomo wa bone. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "tsela ya bone"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "botsenwa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jwa bone"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "mme ba ba latelang"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ka molomo wa bone"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ba a dumelela"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:50.527209615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Peresia, Kushe le Pute ⟨את⟩ bone; botlhe ba na le sefapa le heleme.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Peresia"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushe"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "le Pute"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bone (Peresia, Kushe le Pute)"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sefapa"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "le heleme"
+    }
+  ],
+  "timestamp": "2026-10-04T00:47:02.048510017Z",
+  "model": "glm-5.3"
+}

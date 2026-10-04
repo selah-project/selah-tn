@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Nna sekgoro sa me, Elohim, mme o lwe kgetsi ya me go setshaba se se sa direng boitshepo; o ntlolole mo go monna wa mafeako le tlolo ya tshiamo.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Nna sekgoro sa me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "mme o lwe"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "kgetsi ya me"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "go setshaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se se sa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "direng boitshepo"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mo go monna"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wa mafeako"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "le tlolo ya tshiamo"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "o ntlolole"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:19.254959085Z",
+  "model": "glm-5.3"
+}

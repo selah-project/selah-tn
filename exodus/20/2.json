@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Nna ke ⟨⟨ke⟩⟩ Yahwe Elohim wa gago, yo o go tsogetseng kwa nageng ya Mitsrayime, kwa ntlong ya bokgoba.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "go tsogetseng"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kwa nageng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kwa ntlong ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bokgoba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:48.158570511Z",
+  "model": "glm-5.3"
+}

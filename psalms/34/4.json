@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Ntshang bogolo jwa Yahwe le nna ⟨את⟩, mme re tlee re name leina la gagwe mmogo.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Ntshang bogolo jwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "le nna ⟨את⟩"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "mme re tlee re name"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:31.245688532Z",
+  "model": "glm-5.3"
+}

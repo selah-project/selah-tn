@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Boitumelo jwa dithaka bo emile, sefefo sa ba ba golegang se fedile, boitumelo jwa sekinoto bo emile.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "bo emile"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "dithaka"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "se fedile"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "sefefo"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "ba ba golegang"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "bo emile"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "sekinoto"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:16.253421502Z",
+  "model": "glm-5.3"
+}

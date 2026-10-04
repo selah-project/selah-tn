@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 70,
+  "translation": "A tlhafale le go tshwenyega ba ba batlang ⟨את⟩ bophelo jwa me; a ba boele morago mme ba tshwarwe ke maitemogelo, ba ba ratang bosula jwa me.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "a tlhafale"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "le go tshwenyega"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ba ba batlang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo jwa me"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "a ba boele morago"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morago"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "mme ba tshwarwe ke maitemogelo"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ba ba ratang"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bosula jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:59.985749593Z",
+  "model": "glm-5.3"
+}

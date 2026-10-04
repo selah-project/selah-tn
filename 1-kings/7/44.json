@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Le ⟨את⟩ lewatle le le lengwe, le ⟨את⟩ dikgomo di le lesome le bobedi ka fa tlase ga lewatle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "le le lengwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "di le"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome le bobedi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    }
+  ],
+  "timestamp": "2026-10-03T23:22:08.034200155Z",
+  "model": "glm-5.3"
+}

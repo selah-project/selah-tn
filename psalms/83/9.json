@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "Gape Ashure o ne a kopana le bone; ba ne ba nna ⟨⟨seatla⟩⟩ go bana ba Lote. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "a kopana"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ne ba nna"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "⟨seatla⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:54.795151967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme Yahwe a busa ⟨את⟩ kgolegelo ya Iyjobe, fa a ne a rapela ka mo bandaanagwe; mme Yahwe a oketsa ⟨את⟩ sengwe le sengwe se se neng se le sa Iyjobe, go nna gabedi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolegelo ya Iyjobe"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "kgolegelo"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ya Iyjobe"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "fa a ne a rapela"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mo bandaanagwe"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "a oketsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe sa Iyjobe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "sa Iyjobe"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "go nna gabedi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:07:14.620551532Z",
+  "model": "glm-5.3"
+}

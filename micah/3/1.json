@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ka re: Betsong, ao, baeteledipele ba Yaakobo, le balaodi ba ntlo ya Yisraele, a ga go a ikaega ka lona go itse ⟨את⟩ katlholo?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "betsong"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "baeteledipele ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "le balaodi ba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga go"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "go itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katlholo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "katlholo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:02:24.918631362Z",
+  "model": "glm-5.3"
+}

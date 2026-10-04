@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "Elohim, se se ke wa nna didimisi; se se ke wa didimala, mme se se ke wa ikhutla, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se se ke"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "wa nna didimisi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fela wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se se ke"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "wa didimala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme se se ke"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "wa ikhutla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:07.557594374Z",
+  "model": "glm-5.3"
+}

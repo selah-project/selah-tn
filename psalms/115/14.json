@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Yahwe a oketse lona, lona le bana ba lona.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "a oketse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana ba lona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:49.046758348Z",
+  "model": "glm-5.3"
+}

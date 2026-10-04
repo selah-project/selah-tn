@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme ⟨את⟩ tonki o tla e kgaola dikgato tsa yone, o tlhatswe sephatlo sa yone le maoto a yone, o di beise godimo ga dikgato tsa yone le godimo ga tlhogo ya yone.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tonki"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "tonki"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "kgaola dikgato"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "dikgato tsa yone"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "tlhatswe"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sephatlo sa yone"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "maoto a yone"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "beise"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "dikgato tsa yone"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le godimo ga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tlhogo ya yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:07.280838376Z",
+  "model": "glm-5.3"
+}

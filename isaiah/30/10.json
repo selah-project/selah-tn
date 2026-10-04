@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Ba ba reng kwa ba bonang: Se ke la bona; le kwa ba lebelang: Se ke la lebela rona dilo tse siameng; buang rona dilo tse itumedisang, lebelang mafufa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ba ba reng"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba reng"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "kwa ba bonang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "la bona"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "le kwa ba lebelang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "la lebela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "dilo tse siameng"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "buang"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "dilo tse itumedisang"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "lebelang"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "mafufa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:53:28.752993230Z",
+  "model": "glm-5.3"
+}

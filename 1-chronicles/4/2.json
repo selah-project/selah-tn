@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Reaya morwa Shobale a belega ⟨את⟩ Yakhate; mme Yakhate a belega ⟨את⟩ Akhumai le ⟨את⟩ Lahade; bone ke malapa a ba-Tsera.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "mme Reaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shobale"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakhate"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yakhate"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "mme Yakhate"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Akhumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Lahade"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahade"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bone ke"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "malapa a"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "ba-Tsera"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:55.740488035Z",
+  "model": "glm-5.3"
+}

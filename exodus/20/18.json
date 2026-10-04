@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme setšhaba sotlhe se ne se bona ⟨את⟩ didumo le ⟨את⟩ dikadibono le ⟨את⟩ modumo wa shofara le ⟨את⟩ thaba e e kolobang; mme fa setšhaba se bona, se ikgebaketse, mme se eme kwa kgakala.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mme … sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "se ne se bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didumo"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "didumo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikadibono"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "dikadibono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "modumo wa shofara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "wa shofara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "e e kolobang"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "fa … bona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "se ikgebaketse"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "se eme"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kwa kgakala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:16.214843438Z",
+  "model": "glm-5.3"
+}

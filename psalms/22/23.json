@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ke tla bolelela bokaulengwe ba me leina la gago; mo gare ga phuthego ke tla go dumisa.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "ke tla bolelela"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "bokaulengwe ba me"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ke tla go dumisa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:32.710313956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Reu o ne a tshela dingwaga di le pedi le masome a mararo, mme a belega ⟨את⟩ Seruge.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "o ne a tshela"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le masome a mararo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seruge"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seruge"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:14.397947117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Tlang, le je senkgwe sa me, mme le noe mo beineng a ke a tlhakaneditse.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "le je"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "senkgwe sa me"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "mme le noe"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "mo beineng"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "a ke a tlhakaneditse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:19.435053818Z",
+  "model": "glm-5.3"
+}

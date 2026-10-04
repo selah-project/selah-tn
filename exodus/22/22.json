@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Fa lo ba sotla ⟨ka tsela nngwe le nngwe⟩, mme ba lla go nna, ke tlaa utlwa lla la gagwe — ruri ke tlaa la utlwa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "⟨ka tsela nngwe le nngwe⟩"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "lo ba sotla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ba (sefelwa le lesego)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "lla"
+    },
+    {
+      "surface": "יצעעק",
+      "gloss": "ba lla"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ke tlaa utlwa"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "lla la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:03:19.649340416Z",
+  "model": "glm-5.3"
+}

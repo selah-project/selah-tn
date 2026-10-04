@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Ba ba kewang kwa lewatleng ka diketeke, ba ba dirang tiro mo metsing a mantsi.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "ba ba kewang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kwa lewatleng"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "ka diketeke"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ba ba dirang"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mo metsing"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:44.133920237Z",
+  "model": "glm-5.3"
+}

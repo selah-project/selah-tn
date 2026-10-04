@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Gonne botshelo jwa me bo fedile ka maswabi, le dingwaga tsa me ka go dumoga; nonofo ya me e kgweditse ka diphoso tsa me, mme marapo a me a a fadehetse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bo fedile"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "ka maswabi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "botshelo jwa me"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "le dingwaga tsa me"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "ka go dumoga"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "e kgweditse"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "ka diphoso tsa me"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "nonofo ya me"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "mme marapo a me"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "a a fadehetse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:49.232523710Z",
+  "model": "glm-5.3"
+}

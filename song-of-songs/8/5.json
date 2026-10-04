@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ke mang yono o tlago go tswa nageng, o ikantse mo go yo a mo ratang? Mo teng ga setlhare sa apole ke go tsositse wena; koo mmaagwe o go belela, koo a belegang yo a go belegang.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yono"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "o tlago"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "nageng"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "o ikantse"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "yo a mo ratang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "setlhare sa apole"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "ke go tsositse"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "o go belela"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mmaagwe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "yo a go belegang"
+    }
+  ],
+  "timestamp": "2026-10-04T02:10:06.645911129Z",
+  "model": "glm-5.3"
+}

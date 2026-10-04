@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 76,
+  "translation": "Go gaufi foo o thubile dintlhwa tse di thukang tsa molamu, sekeresete le tshaka le ntwa. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "go gaufi foo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "o thubile"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "dintlhwa tse di thukang"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tsa molamu"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sekeresete"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "le tshaka"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "le ntwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:47.862863837Z",
+  "model": "glm-5.3"
+}

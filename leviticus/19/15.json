@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Lo se ke lwa dira bobe katlholong; o se ka wa tshwara sefathego sa moimana, mme o se ka wa tlotla sefathego sa mogolo; ka tsedeke o hloke moagisani wa gago.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lo se ke lwa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dira"
+    },
+    {
+      "surface": "עול",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "katlholong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "tshwara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "moimana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "tlotla"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "o hloke"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "moagisani wa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:23.696366699Z",
+  "model": "glm-5.3"
+}

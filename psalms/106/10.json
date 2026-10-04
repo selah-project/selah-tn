@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "A ba boloka mo seatleng sa yo o neng a ba tlhoya, mme a ba golaganya mo seatleng sa mogati.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "a ba boloka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "yo o neng a ba tlhoya"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "mme a ba golaganya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mogati"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:40.659720120Z",
+  "model": "glm-5.3"
+}

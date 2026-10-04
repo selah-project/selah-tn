@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "O se ka wa dira wa bo o sa itlhomphe setshwantsho sa sebediwang, kgotsa sepe se se nang le setshwano sa dilo tse di kwa magodimong, kwa godimo, le tse di kwa lefatsheng, kwa tlase, le tse di kwa metsing, kwa tlase ga lefatshe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "O se ka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wa dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa bo"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "setshwantsho sa sebediwang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kgotsa sepe se"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "se se nang le setshwano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le tse di"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatsheng"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kwa tlase"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le tse di"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kwa metsing"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kwa tlase ga"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:48.158881188Z",
+  "model": "glm-5.3"
+}

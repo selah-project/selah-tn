@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme mafura a ⟨את⟩ sebatana sa ⟨את⟩ sebe o tlaa a foka mo aletareng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sa sebe"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "o tlaa foka"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mo aletareng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:45.040496589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Yahwe a romela ⟨את⟩ Yerubale le ⟨את⟩ Bedane le ⟨את⟩ Yiftake le ⟨את⟩ Shemueele, a bo a lo golola mo dijatong tsa ba ba lo tlhoyang go dikologa; mme lo ne lo nna ka polokego.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubale"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bedane"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yiftake"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Shemueele"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueele"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "a bo a lo golola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lo",
+      "marks": "lo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo dijatong tsa"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ba ba lo tlhoyang"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "lo ne lo nna"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ka polokego"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:57.440031812Z",
+  "model": "glm-5.3"
+}

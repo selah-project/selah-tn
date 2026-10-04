@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Yaakobo a tshoga thata, mme a nna le matlakadibe; mme a kgaoganya ⟨את⟩ batho ba ba neng ⟨את⟩ ba le ene na, le ⟨את⟩ dinku, le ⟨את⟩ dikgomo, le dikamela, go nna dikampa tse pedi.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "a tshoga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "a nna le matlakadibe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "a kgaoganya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ba le ene na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinku"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "le dikamela"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "dikampa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:24:23.848008478Z",
+  "model": "glm-5.3"
+}

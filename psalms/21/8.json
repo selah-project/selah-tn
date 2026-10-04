@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Gore kgosi e tshephela go Yahwe, mme ka hesede wa yo o Hodimo e ke ke ya sutuma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "e tshephela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "mme ka hesede"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "wa yo o Hodimo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sutuma"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:04.725935787Z",
+  "model": "glm-5.3"
+}

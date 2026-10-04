@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "le masomo a gagwe, le ba ba balwang ga ene, di le supa le masome a matlhano dikete, le makgolo a mane.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "le masomo a gagwe"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "le ba ba balwang ga ene"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "supa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masome a matlhano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le mane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:03.531393406Z",
+  "model": "glm-5.3"
+}

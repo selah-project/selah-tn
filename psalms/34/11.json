@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Ditau tse dinnye di a tlhoka mme di a lala tlala; mme ba ba batlang Yahwe ga ba kitla ba tlhoka sepe se se molemo.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Ditau tse dinnye"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "di a tlhoka"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "mme di a lala tlala"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "mme ba ba batlang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "ba kitla ba tlhoka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se se molemo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:52.286635664Z",
+  "model": "glm-5.3"
+}

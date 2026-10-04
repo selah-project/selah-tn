@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Leka go ne ke sa ⟨⟨dumela⟩⟩ go bona se se siameng sa Yahwe mo lefatsheng la ba ba tlhago.",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "Leka go ne"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ke sa dumela"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "se se siameng sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ba ba tlhago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:25.058822161Z",
+  "model": "glm-5.3"
+}

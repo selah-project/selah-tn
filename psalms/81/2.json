@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Opelang ka boipelaetso go Elohim, nonofo ya rona; leledisang ka lentswe go Elohim wa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "opelang ka boipelaetso"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "nonofo ya rona"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "leledisang ka lentswe"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "go Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:06.669347905Z",
+  "model": "glm-5.3"
+}

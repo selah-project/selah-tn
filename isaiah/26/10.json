@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mo tlhokao e ka bonwa fela, ga a a ithuta tsedeke; mo lefatsheng la boamlambe o dira bosula, mme ga a bone boikgogomoso jwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "e ka bonwa fela"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mo tlhokao"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "למד",
+      "gloss": "a a ithuta"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "boamlambe"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "o dira bosula"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "boikgogomoso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:06.833112564Z",
+  "model": "glm-5.3"
+}

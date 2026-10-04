@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 118,
+  "translation": "Go siame go tshegediwa mo Yahwe go na le go ikanyega mo babusigorong.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go siame"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "go tshegediwa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mo Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "go ikanyega"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "mo babusigorong"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:50.768633756Z",
+  "model": "glm-5.3"
+}

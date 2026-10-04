@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Ka ntlha ya seo ga re a tshaba, le fa lefatshe le fetogetse, le dithaba tse di thubegang mo teng ga mawatle.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "re a tshaba"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "le fetogetse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "le dithaba tse di thubegang"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mawatle"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:12.127031542Z",
+  "model": "glm-5.3"
+}

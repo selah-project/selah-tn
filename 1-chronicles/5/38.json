@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "mme Akitube a begeta ⟨את⟩ Tsadoke, mme Tsadoke a begeta ⟨את⟩ Shalume",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "mme Akitube"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadoke"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoke"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "mme Tsadoke"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalume"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalume"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:09.628818887Z",
+  "model": "glm-5.3"
+}

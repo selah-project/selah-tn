@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Go ya go yo o tlhophang setshaba sa gagwe mo nageng e e omileng; gonne ka bosikhale hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "go ya go yo o tlhophang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo nageng e e omileng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosikhale"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:18.920389508Z",
+  "model": "glm-5.3"
+}

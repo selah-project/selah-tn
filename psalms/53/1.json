@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Kwa mokaedi, ka Mahalate, pego ya go ruta, ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mokaedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalate"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pego ya go ruta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:34.997733431Z",
+  "model": "glm-5.3"
+}

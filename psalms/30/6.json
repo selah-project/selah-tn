@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Gore kgautsana fela mo bogaleng jwa gagwe, botshelo bo mo katlegong ya gagwe; boihu bo nna bosigo, mme mo mosong go nna le mmino wa thabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "kgautsana"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "mo bogaleng jwa gagwe"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "mo katlegong ya gagwe"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bo nna"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "boihu"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "mme mo mosong"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "mmino wa thabo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:00.956058591Z",
+  "model": "glm-5.3"
+}

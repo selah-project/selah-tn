@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Masupa a rona ga re a a bona; ga go na moporofeti gape, mme ga go na yo o nang le ⟨את⟩ rona a itse go fitlhe neng.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "masupa a rona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "re a bona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "moporofeti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga go na"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "rona"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a itse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlhe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "neng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:10.204008574Z",
+  "model": "glm-5.3"
+}

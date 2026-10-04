@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Eshtone o ne a belega ⟨את⟩ Beti-Rafa, le ⟨את⟩ Paseac, le ⟨את⟩ Tekina rraagwe Ira-Nakash; banna ba ke ba Bakerha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Mme Eshtone"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ne a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Paseac"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tekina"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tekina"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ira"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Bakerha"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:04.564324606Z",
+  "model": "glm-5.3"
+}

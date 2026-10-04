@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Fa o tsamaya, dikgato tsa gago di ka se koafadiwe, mme fa o taboga, o ka se wa.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "fa o tsamaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "koafadiwa"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "dikgato tsa gago"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "o taboga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "o ka wa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:05.078808682Z",
+  "model": "glm-5.3"
+}

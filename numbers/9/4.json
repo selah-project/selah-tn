@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Moshe a bua le ba bana ba Yisraele gore ba dire Paseka.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "gore ba dire"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:50.324575247Z",
+  "model": "glm-5.3"
+}

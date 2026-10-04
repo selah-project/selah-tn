@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Ka seatla sa gago o golotse setshaba sa gago, bana ba Yaakobo le Yosefa. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "o golotse"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ka seatla sa gago"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "le Yosefa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:08.801172997Z",
+  "model": "glm-5.3"
+}

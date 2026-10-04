@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme balaodi ba bana ba Yisraele ba tsena, ba goga kua go Faro, ba re: Goreng o dira jalo makgoba a gago?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "ba goga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kua go"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Goreng"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o dira"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "makgoba a gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:22.121123715Z",
+  "model": "glm-5.3"
+}

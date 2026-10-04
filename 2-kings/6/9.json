@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme motho wa Elohim a romela kwa kgosing ya Yisraele, a re: Nna le tlhokomelo ya go se tsamaele kwa lefelong le; gonne koo Arame ba ntse ba theoga.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "nna le tlhokomelo"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "go tsamaela"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "ba ntse ba theoga"
+    }
+  ],
+  "timestamp": "2026-10-03T23:33:55.539641447Z",
+  "model": "glm-5.3"
+}

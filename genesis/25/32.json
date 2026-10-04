@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme Esawe a re: Bonwe, ke tsamaya go swa, mme tshotlo ya go nna motsetse e tla nthuseng jang?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "למות",
+      "gloss": "go swa"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mme ... jang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "e"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nthuseng"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "tshotlo ya go nna motsetse"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:07.204043618Z",
+  "model": "glm-5.3"
+}

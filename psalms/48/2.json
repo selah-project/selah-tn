@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Yahwe ke mogolo, mme o a tlotlomadiwa thata, mo toropong ya Elohim ya rona, thabeng ya boitshepo jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ke mogolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "mme o a tlotlomadiwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo toropong"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim ya rona"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "boitshepo jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:35.614379796Z",
+  "model": "glm-5.3"
+}

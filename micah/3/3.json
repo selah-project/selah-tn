@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ba ba jang nama ya setshaba sa me: ba ntshitse letlalo la bone mo go bone, ba phutlhile le ⟨את⟩ marapo a bone, mme ba a anamisa jaaka se mo sejaneng sa go apaya, le jaaka nama mo teng ga sejana se segolo sa go apaya.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "mme ba"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nama ya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "le letlalo la bone"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "ba ntshitse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "marapo a bone"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "marapo a bone"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ba phutlhile"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "mme ba a anamisa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "mo sejaneng sa go apaya"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "le jaaka nama"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "sejana se segolo sa go apaya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:02:24.919081735Z",
+  "model": "glm-5.3"
+}

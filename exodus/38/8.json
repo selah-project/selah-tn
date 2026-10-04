@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme a dira ⟨את⟩ sekhubu sa selefera, le ⟨את⟩ setulo sa sona sa selefera, ka diponelopele tsa basadi ba ba neng ba direla kwa sebatling sa tende ya kopano.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekhubu"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "sekhubu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sa selefera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setulo sa sona"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "setulo sa sona"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sa selefera"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "ka diponelopele"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "ba ba neng ba direla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ba direla"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa sebatling"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:45.838662900Z",
+  "model": "glm-5.3"
+}

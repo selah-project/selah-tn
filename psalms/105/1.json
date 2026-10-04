@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Lebogang Yahwe, bitsang ka leina la gagwe; itsisang mo ditshabeng ditiro tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "lebogang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bitsang"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ka leina la gagwe"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "itsisang"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ditiro tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:05.542995982Z",
+  "model": "glm-5.3"
+}

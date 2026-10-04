@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme gape nna ke utlwile ⟨את⟩ go lala ga bana ba Yisraele, bao Mitsrayime ba ba dirang makgoba; mme ke gakologotse ⟨את⟩ kgolagano ya me.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke utlwile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go lala ga bana ba Yisraele"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "go lala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ba ba dirang makgoba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "mme ke gakologotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano ya me"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:02.056334376Z",
+  "model": "glm-5.3"
+}

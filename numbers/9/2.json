@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ba bana ba Yisraele ba dire ⟨את⟩ Paseka ka nako ya yone e e beilweng.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "ka nako ya yone e e beilweng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:50.324294462Z",
+  "model": "glm-5.3"
+}

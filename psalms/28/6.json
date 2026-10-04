@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Yahwe a a segofaditsweng, gore o utlwile lentswe la dikabelo tsa me.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "a a segofaditsweng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o utlwile"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "dikabelo tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:07.244254967Z",
+  "model": "glm-5.3"
+}

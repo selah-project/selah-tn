@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 11:24",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Go na le yo o phatlalatsang, mme o oketsega gape; mme yo o kganelang se se siameng, fela go ya ko tlhokong.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "מפזר",
+      "gloss": "yo o phatlalatsang"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "mme o oketsega"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "וחושך",
+      "gloss": "mme yo o kganelang"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "go ya ko tlhokong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:28.387246675Z",
+  "model": "glm-5.3"
+}

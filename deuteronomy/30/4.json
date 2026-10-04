@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Fa o ka sulwa kwa mafelelong a magodimo, foo Yahwe Elohim wa gao o tla go phutha, mme foo o tla go tsea.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o ka"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "sulwa"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "kwa mafelelong a"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "o tla go phutha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gao"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "mme foo"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "o tla go tsea"
+    }
+  ],
+  "timestamp": "2026-10-03T22:32:52.302253986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme o ne a mo beela ⟨את⟩ hoshene, mme a bea mo hosheneng ⟨את⟩ Urim le ⟨את⟩ Tumime.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a mo beela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoshene"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshene"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosheneng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tumime"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:31.081881315Z",
+  "model": "glm-5.3"
+}

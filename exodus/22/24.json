@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Fa o ka kadisa selefera go ⟨את⟩ setshaba sa me, ⟨את⟩ yo o humanegang o wena, o se ke wa nna mokadisi mo go ene, o se ke wa bea mo go ene khuelo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "o ka kadisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sa me"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo o humanegang"
+    },
+    {
+      "surface": "העני",
+      "gloss": "yo o humanegang"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "o wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wa nna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "mokadisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "wa bea"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "khuelo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:47.585218880Z",
+  "model": "glm-5.3"
+}

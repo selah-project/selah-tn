@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 48:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Mme bana ba gago ba o ntlhola morago ga bona, ba tla nna ba gago; ba tla bidiwa ka maina a bone ba baneelwa kwa kgabelong ya bone.",
+  "tokens": [
+    {
+      "surface": "ומולדתך",
+      "gloss": "mme bana ba gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "o ntlhola"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "morago ga bona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ba gago"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla nna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maina"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "a bone ba baneelwa"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ba tla bidiwa"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "kwa kgabelong ya bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:02.737435029Z",
+  "model": "glm-5.3"
+}

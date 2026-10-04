@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Bua le bana ba Yisraele, mme o re le bone: Dinako tse di beilweng tsa Yahwe, tse lo tla di bitlang phuthego e e itshepileng — ke tsotlhe tseo dinako tsa me.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "o re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "dinako tse di beilweng tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "lo tla di bitlang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dinako tse di itshepileng"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "phuthego e e itshepileng"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e e itshepileng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tsotlhe tseo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke tsone"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "dinako tsa me"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:42.213972085Z",
+  "model": "glm-5.3"
+}

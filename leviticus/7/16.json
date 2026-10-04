@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme fa sebagelo sa gagwe e le kanoko kgotsa mpho ya boithaopo, se tlaa jewa ka letsatsi leo a tlisang ⟨את⟩ sebagelo sa gagwe ka lona; mme ka maitseboa a a latelang, se se setseng mo go sona se ka jewa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kanoko"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "mpho ya boithaopo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sebagelo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sa gagwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "leo a tlisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebagelo sa gagwe"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "sebagelo sa gagwe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se tlaa jewa"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "mme ka maitseboa a a latelang"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "se se setseng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo go sona"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se ka jewa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:55.076684017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Mme ke tla thuba bao ba mo lwantshang pele ga gagwe, mme bao ba mo tlhoyang ke tla ba gogofatsa.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "mme ke tla thuba"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pele ga gagwe"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "bao ba mo lwantshang"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "mme bao ba mo tlhoyang"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "ke tla ba gogofatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:59.953101847Z",
+  "model": "glm-5.3"
+}

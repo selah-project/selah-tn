@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme bana ba Yisraele ba direla ⟨את⟩ Eglone, kgosi ya Moabe, dingwaga di le lesome le boferabobedi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba direla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglone"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "boferabobedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome le"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T22:47:23.241968357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme moragonyana ga gagwe, Abudione morwa Hilele, wa kwa Pirathone, o ne a atlhopha ⟨את⟩ Yisraele.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a atlhopha"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "moragonyana ga gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abudione"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hilele"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "wa kwa Pirathone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:50:23.830963425Z",
+  "model": "glm-5.3"
+}

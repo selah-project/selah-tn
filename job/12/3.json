@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme nna le ke na le pelo jaaka lona; ga ke wa wa go feta lona; mme ⟨את⟩ ke mang yo o sa tshwanang le ba ba tswhanang le bano?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna ... ke na le"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "jaaka lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ke wa wa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "go feta lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ke mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "o sa tshwanang"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "le"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ba ba tswhanang le bano"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:54.197518903Z",
+  "model": "glm-5.3"
+}

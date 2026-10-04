@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme morago ga moo, pelo ya Dawide e ⟨את⟩ mo kgwetlha, ka ntlha ya go kgwiba ⟨את⟩ lefuka leo le neng le le Shaule.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a kgwetlha"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "go"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "go kgwiba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefuka"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "lefuka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "le neng le le Shaule"
+    }
+  ],
+  "timestamp": "2026-10-03T23:04:52.203132879Z",
+  "model": "glm-5.3"
+}

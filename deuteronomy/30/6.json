@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Yahwe Elohim wa gago o tlaa boelela ⟨את⟩ pelo ya gago le ⟨את⟩ pelo ya peo ya gago, gore o rate Yahwe Elohim wa gago ka pelo ya gago yotlhe le ka moya wa gago otlhe, gore o tle o tshele.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "o tlaa boelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya gago"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "pelo ya peo ya gago"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo ya"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya gago"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "gore o rate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka pelo ya gago yotlhe"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago yotlhe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka ... otlhe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa gago otlhe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore o tle"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "o tshele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:32:08.322417814Z",
+  "model": "glm-5.3"
+}

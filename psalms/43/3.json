@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Romela ponatshegelo ya gago le 'nete ya gago; e tla nkalatleta; e tla nisa kwa thabeng ya boitshepo jwa gago, le kwa diphaposing tsa gago tsa Mishkane.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Romela"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ponatshegelo ya gago"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "le 'nete ya gago"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tsona"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "di tla nkalatleta"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "di tla nisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya boitshepo jwa gago"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "diphaposing tsa gago tsa Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:19.255464638Z",
+  "model": "glm-5.3"
+}

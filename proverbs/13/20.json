@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Yo o tsamayang le ⟨את⟩ bannye ba botlhale o nna le botlhale; mme mogatsi wa basefofolo o tla senyega.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "yo o tsamayang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bannye ba botlhale"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bannye ba botlhale"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "o nna le botlhale"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mme mogatsi wa"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "basefofolo"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "o tla senyega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:59.914485132Z",
+  "model": "glm-5.3"
+}

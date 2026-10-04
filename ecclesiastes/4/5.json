@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Setlhogo se phutha ⟨את⟩ matlhagwa a sone, mme se ja ⟨את⟩ nama ya sone.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "setlhogo"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "se phutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlhagwa a sone"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "matlhagwa a sone"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mme se ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama ya sone"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya sone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:33.512054200Z",
+  "model": "glm-5.3"
+}

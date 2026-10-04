@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Ka jalo, ditshaba, theetsang; mme wena, phuthego, itse ⟨את⟩ se se mo go bone.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka jalo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "theetsang"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "O ditshaba"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "mme itse"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se mo go bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:09:19.209138546Z",
+  "model": "glm-5.3"
+}

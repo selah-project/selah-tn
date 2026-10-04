@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme ba thula madi a a sa nang molato — madi a bara ba bone le a barwedi ba bone — ba ba neng ba ba berka go ditshwantsho tsa Kanaane; mme lefatshe le ne le senyega ka madi.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "ba thula"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a a sa nang molato"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "a bara ba bone"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "le a barwedi ba bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba neng"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ba ba berka"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "go ditshwantsho tsa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaane"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "mme le ne le senyega"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ka madi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:42.124642430Z",
+  "model": "glm-5.3"
+}

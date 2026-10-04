@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 58:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Bonwe, le a itshikinya go lwantshana le go ganetsana, le go beta ka lonno lwa bosula; le seka la itshikinya jaaka gompieno, go dira gore moya wa lona utlwele kwa godimo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "go lwantshana"
+    },
+    {
+      "surface": "ומצה",
+      "gloss": "le go ganetsana"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "le a itshikinya"
+    },
+    {
+      "surface": "ולהכות",
+      "gloss": "le go beta"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ka lonno"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "lwa bosula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le seka la"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "itshikinya"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jaaka gompieno"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "go dira gore... utlwele"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "moya wa lona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:04:43.026798314Z",
+  "model": "glm-5.3"
+}

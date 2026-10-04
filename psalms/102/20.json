@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Gore Yahwe o ne a lebelela kwa tlase go tswa kwa godimo ga boitshepo jwa gagwe; go tswa kwa magodimong o ne a bona lefatshe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "o ne a lebelela kwa tlase"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "go tswa kwa godimo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "boitshepo jwa gagwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "go tswa kwa magodimong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "o ne a bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:27.442828342Z",
+  "model": "glm-5.3"
+}

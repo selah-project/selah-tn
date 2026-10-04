@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Elohim o ne a segotse ⟨את⟩ letsatsi la bosupa, mme a le itshepisa; gonne ka ⟨את⟩ lona o ikhutshitse go tswa mo tirong ya gagwe yotlhe ya a e dirileng Elohim go e dira.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "o ne a segotse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsatsi la bosupa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bosupa"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a le itshepisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lona",
+      "marks": "letsatsi la bosupa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "o ikhutshitse"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tswa mo — yotlhe"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "tiro ya gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "a e dirileng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go e dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:18.509664257Z",
+  "model": "glm-5.3"
+}

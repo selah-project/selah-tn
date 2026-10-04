@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Yahwe a re go Samuele: Utlo lentswe la setshaba, go tsotlhe se ba se go buang; gonne ga ⟨את⟩ wena ba latlhega, mme ⟨את⟩ ke nna ba latlhega, gore ke se ke busa ka bone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utlo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go tsotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba se buang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ba latlhega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ke nna"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ba latlhega"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "go busa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:57:16.473423222Z",
+  "model": "glm-5.3"
+}

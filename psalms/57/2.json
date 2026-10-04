@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "O nne molemo fa me, Elohim, o nne molemo fa me, gonne mo go wena moya wa me o ikhutletse; mme mo setshing sa mafuka a gago ke tla ikhutlela, fitlhela maswe a feta.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "o nne molemo fa me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "o nne molemo fa me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "o ikhutletse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "mme mo setshing"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sa mafuka a gago"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ke tla ikhutlela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fitlhela"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "maswe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:28.599464946Z",
+  "model": "glm-5.3"
+}

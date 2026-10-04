@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Psalme ya Dawide, ya go gakologelwa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ya go gakologelwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:52.605515577Z",
+  "model": "glm-5.3"
+}

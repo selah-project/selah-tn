@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ke kwale mo matlapeng ⟨את⟩ mafoko a a neng a le mo matlapeng a mathomo, a o neng wa a thuba, mme wa a baya mo arekeng.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "mme ke kwale"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "matlapeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "a neng a le"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "matlapeng"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "a mathomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wa a thuba"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mme wa a baya"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "mo arekeng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:10.482792708Z",
+  "model": "glm-5.3"
+}

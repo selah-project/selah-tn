@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme Yahuda a re go bana ba gagwe ba nnye: Go a kgontsha eng fa re bolaya ⟨את⟩ kgaitsadio mong wa rona, mme re fitlhelela ⟨את⟩ madi a gagwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re go bana ba gagwe ba nnye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ba gagwe ba nnye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Go a kgontsha eng"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "go a kgontsha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "re bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgaitsadio mong wa rona"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "mong wa rona"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "mme re fitlhelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a gagwe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:47.270824031Z",
+  "model": "glm-5.3"
+}

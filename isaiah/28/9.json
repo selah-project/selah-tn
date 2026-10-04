@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "⟨את⟩ mang yo a tla mo rutang kitso? Mme ⟨את⟩ mang yo a tla mo tlhalosetsang se a utlwang? A ke ba ba sulang mashi, ba ba tlogetseng mabele?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "a ruta"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kitso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "a tlhalosa"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "se a utlwang"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "ba ba sulang"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "mashi"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ba ba tlogetseng"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:46.731744084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Dula le nna; o se ka wa tshoga; gonne yoo o batlang ⟨את⟩ botshelo jwa me, o batla ⟨את⟩ botshelo jwa gago; gonne wena o a sireletswa le nna.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Dula"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wa tshoga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "o batlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshelo jwa me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "botshelo jwa me"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "o batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshelo jwa gago"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "botshelo jwa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "o a sireletswa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T23:04:15.825158334Z",
+  "model": "glm-5.3"
+}

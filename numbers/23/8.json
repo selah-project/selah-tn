@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ke lale jang eo El a sa la teng? Mme ke tlhoye jang eo Yahwe a sa mo tlhoyeng?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "jang"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "Ke lale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga... a"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "a sa la teng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Mme ke tlhoye jang"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ke tlhoye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga... a"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "a sa mo tlhoyeng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:14:06.744410468Z",
+  "model": "glm-5.3"
+}

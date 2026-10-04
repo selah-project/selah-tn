@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Dimego tsa me di tla thabisa ka go opela, gonne ke tla go opela; le moya wa me, yo o kileng wa o golola.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "di tla thabisa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dimego tsa me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla go opela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "le moya wa me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "o golola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:14.817042151Z",
+  "model": "glm-5.3"
+}

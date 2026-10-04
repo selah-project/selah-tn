@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme o dire matlhare a phekgilo ya shitime, mme o a phutha ka gauta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "matlhare"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "a phekgilo ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitime"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mme o a phutha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "matlhare"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:33.092710513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme lo tlaa nkitsa mme lo ntaela ⟨אתי⟩, gonne lo tlaa ntseka ka pelo ya lona yotlhe.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "lo tlaa nkitsa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "nkitsa (kena)"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "lo tlaa ntaela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "lo tlaa ntseka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... yotlhe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pelo ya lona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:20:31.065207761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Diphuduego di tle mo go bone; a tlase kwa Sheole ba sa tlhokafala, ba sa ntse ba phela; gobe bobesa bo mo bonnong jwa bone, mo gare ga bone.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "diphuduego"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "a tlase"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ba sa ntse ba phela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bobesa"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "mo bonnong jwa bone"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "mo gare ga bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:39.332788739Z",
+  "model": "glm-5.3"
+}

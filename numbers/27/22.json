@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme Moshe a dira jaaka Yahwe a mo laetse ⟨את⟩; a tsaya ⟨את⟩ Yehoshua, a mo emisa fa pele ga Elazare moruti, le fa pele ga setshaba sotlhe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "a mo emisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazare"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "le fa pele ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T22:15:47.661139652Z",
+  "model": "glm-5.3"
+}

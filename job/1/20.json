@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Iyobo a tlhama, a kgaola ⟨את⟩ kobo ya gagwe, a loga ⟨את⟩ tlhogo ya gagwe, a wa fatshe go lefatshe, a ikokobetsa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tlhama"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobo"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a kgaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo ya gagwe"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "kobo ya gagwe"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "a loga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhogo ya gagwe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tlhogo ya gagwe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "a wa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fatshe go lefatshe"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a ikokobetsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:53:24.841030545Z",
+  "model": "glm-5.3"
+}

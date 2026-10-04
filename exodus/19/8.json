@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 19:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme setshaba sotlhe se araba se le esi, ba re: Tsotlhe tse Yahwe a di buileng re di tlaa dira. Mme Moshe a boela a isa ⟨את⟩ mafoko a setshaba kwa go Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "se araba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "se le esi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a di buileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re di tlaa dira"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a boela a isa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a setshaba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a setshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:21.162405130Z",
+  "model": "glm-5.3"
+}

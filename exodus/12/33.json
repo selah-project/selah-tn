@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ba-Mitsrayime ba ne ba gatelela setšhaba go ba isa kwa ntle ga lefatshe ka bonako, gonne ba ne ba re: Re tlhoka go swa re le mafoko.",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "ba ne ba gatelela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ba-Mitsrayime"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "ka bonako"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "go ba isa kwa ntle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba ne ba re"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "re botlhe"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "re tlhoka go swa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:09.925454519Z",
+  "model": "glm-5.3"
+}

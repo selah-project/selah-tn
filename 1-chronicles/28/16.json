@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "le ⟨את⟩ gauta ka boima go ya ka ditafole tsa borulaganyo, tafole le tafole; le selefera go ya ka ditafole tsa selefera.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ka boima"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "go ya ka ditafole"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "tsa borulaganyo"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "le tafole"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "le selefera"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "go ya ka ditafole"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "tsa selefera"
+    }
+  ],
+  "timestamp": "2026-10-04T02:45:19.217415126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme ke ne ke ya, ke ya go e fitlhela kwa Perata, jaaka Yahwe a ne a ntshwaretse ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "mme ke ne ke ya"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "ke ya go e fitlhela"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "kwa Perata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a ne a ntshwaretse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "nna (ke)"
+    }
+  ],
+  "timestamp": "2026-10-04T00:12:36.621408604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 49:20",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Gape bana ba gago ba ba suleng ba tla bo ba re mo ditsebeng tsa gago: Lefelo le le botlhano go nna; ntshelela sebaka gore ke nne.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla bo ba re"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "mo ditsebeng tsa gago"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שכליך",
+      "gloss": "ba gago ba ba suleng"
+    },
+    {
+      "surface": "צר",
+      "gloss": "le le botlhano"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "ntshelela sebaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "gore ke nne"
+    }
+  ],
+  "timestamp": "2026-10-04T00:00:32.779938105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme setshaba ga se a boa go yo o se betang, mme ⟨את⟩ Yahwe Tsebaote ba ne ba sa batle.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "mme setshaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se a boa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "yo o se betang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Tsebaote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ne ba sa"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "batle"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:18.992006933Z",
+  "model": "glm-5.3"
+}

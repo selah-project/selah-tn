@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Mme mokgweetsi wa dinose a bua le ⟨את⟩ Faro a re: ⟨את⟩ diphoso tsa me ke di gopola gompieno.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua le"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokgweetsi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa dinose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphoso tsa me"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "diphoso tsa me"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "di gopola"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:47.291090563Z",
+  "model": "glm-5.3"
+}

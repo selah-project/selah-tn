@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "Mme o busetše ba ba mabapi le rona, ga makga a supa, mo letseng la bone, maswao a bone ao ba go maswaitse ka tsone, Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Mme o busetše"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ba ba mabapi le rona"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ga makga a supa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "letseng la bone"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "maswao a bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "ba go maswaitse ka tsone"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:11.979281277Z",
+  "model": "glm-5.3"
+}

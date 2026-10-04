@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme moruti a neela balaodi ba masome a lekgolo ⟨את⟩ tlhobolo le ⟨את⟩ dikgetsi tse di neng di le tsa kgosi Dawide, tse di neng di le mo ntlong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mme a neela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "balaodi ba"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "masome a lekgolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhobolo"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "tlhobolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgetsi"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "dikgetsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tsa kgosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di neng di le"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:37:43.164467718Z",
+  "model": "glm-5.3"
+}

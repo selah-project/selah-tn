@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme a dira diphaka tsa mabati a setlhare sa shita, mme a di apesa ka gauta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "diphaka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mabati"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "setlhare sa shita"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "a di apesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "diphaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:13.276861896Z",
+  "model": "glm-5.3"
+}

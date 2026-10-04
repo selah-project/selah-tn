@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "O se ka wa neela setlhanka go mong wa one, yo o tshabile go tswa kwa go mong wa one a tlhaga go wena.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "O se ka"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "wa neela"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "setlhanka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mong wa one"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "o tshabile a tlhaga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "go tswa kwa go"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mong wa one"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:38.528581614Z",
+  "model": "glm-5.3"
+}

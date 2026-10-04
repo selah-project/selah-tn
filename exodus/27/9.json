@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme o tla dira ⟨את⟩ kgotla ya Mishkane, go la molatsana-borwa kwa borwa: dikarolo tsa go phuthela kgotla, tsa khoebo e e tlhakaneng ya marokgwe, bophara jwa dlhaka tse lekgolo mo lehlakoreng le le lengwe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgotla ya Mishkane"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "kgotla"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya Mishkane"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "go la molatsana"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kwa borwa"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "dikarolo tsa go phuthela"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "tsa kgotla"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tsa marokgwe"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "e e tlhakaneng"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "mo dlhaka"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bophara jwa"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "mo lehlakoreng"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "le le lengwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:24.139933964Z",
+  "model": "glm-5.3"
+}

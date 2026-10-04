@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Ba ne ba romela ba mo bitsa; mme Yerobeame le phuthego yotlhe ya Yisraele ba tsena, ba boela ba bua le Rekhabeame, ba re:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ba ne ba romela"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ba mo bitsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeame"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le phuthego yotlhe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeame"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:47.793010432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme morago ga dilo tseo, bana ba Moabe le bana ba Amoni, le lebangwe la bone mo go Baamoni ba bangwe, ba ne ba tla kgatlhanong le Yehoshafate go lwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dilo tseo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba ne ba tla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "le lebangwe la bone"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "mo go Baamoni ba bangwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafate"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go lwa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:53:31.394560645Z",
+  "model": "glm-5.3"
+}

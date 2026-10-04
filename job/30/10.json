@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Ba a ntlhoilega, ba ipelaile mo go nna, mme mo ponong ya me ga ba a ka ga kgomarela ⟨mate a⟩ molomo.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "ba a ntlhoilega"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ba ipelaile"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "mme mo ponong ya me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ba a kgomarela"
+    },
+    {
+      "surface": "רק",
+      "gloss": "mate a molomo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:01:49.948627049Z",
+  "model": "glm-5.3"
+}

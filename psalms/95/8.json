@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 95,
+  "translation": "Se ke la boela ke pelo ya lona jaaka kwa Meriba, jaaka letsatsi la Masa kwa ntlheng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke la"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "la boela"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pelo ya lona"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "jaaka kwa Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jaaka letsatsi la"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kwa ntlheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:22.863606134Z",
+  "model": "glm-5.3"
+}

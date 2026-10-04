@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Mme go ekwa ga moea wa bone go a bolokegile thata, mme go emela go ya bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "mme go a bolokegile thata"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "go ekwa ga"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moea wa bone"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "mme go emela"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:09.675913278Z",
+  "model": "glm-5.3"
+}

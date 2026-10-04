@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "A se ke ga re mo dipelong tsa bone: He, moya wa rona o a ipela; a se ke ga re: Re mo metse.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ga re"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "mo dipelong tsa bone"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moya wa rona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ga re"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "re mo metse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:59.254645107Z",
+  "model": "glm-5.3"
+}

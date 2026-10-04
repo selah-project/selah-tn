@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 92,
+  "translation": "Mizmore, sefela, sa letsatsi la ⟨את⟩ Shabata — fela Shaabata ga e na את... Mizmore wa sefela, wa letsatsi la Shabata.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmore"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sefela"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "la letsatsi la"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:25.082706769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 10:9",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Yahwe, Elohim wa gago, a nne a a ntsufogetseng, yo o neng a ikgantsha mo go wena go go baya mo setulong sa bogosi sa Yisraele, ka gale Yahwe o rata ⟨את⟩ Yisraele ka bosakhutlha, mme o go baya go nne kgosi go dira katlholo le tsedeke.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "a nne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "a a ntsufogetseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o neng a ikgantsha"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "לתתך",
+      "gloss": "go go baya"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulong sa bogosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "ka go rata ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ka bosakhutlha"
+    },
+    {
+      "surface": "וישימך",
+      "gloss": "mme o go baya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go nne kgosi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "le tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:00.634346813Z",
+  "model": "glm-5.3"
+}

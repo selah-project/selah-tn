@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Bua le bana ba Yisraele, o ba re: Motho fa a hlalosa nidere, ka tekanyo ya gago ya moya, e tla nna wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "o ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "a hlalosa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nidere"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ka tekanyo ya gago"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "moya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:28.675919882Z",
+  "model": "glm-5.3"
+}

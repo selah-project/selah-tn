@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme banna ba tsaya tsa go ja tsa bone, mme ⟨את⟩ molomo wa Yahwe ga ba o bodise.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "mme ba tsaya"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "tsa go ja tsa bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "molomo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ba o bodise"
+    }
+  ],
+  "timestamp": "2026-10-03T22:37:20.010237734Z",
+  "model": "glm-5.3"
+}

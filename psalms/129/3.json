@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 129,
+  "translation": "Mo mokwatleng wa me balomisi ba lometse, ba atolositse megala ya bona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Mo"
+    },
+    {
+      "surface": "Гבי",
+      "gloss": "mokwatleng wa me"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "ba lometse"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "balomisi"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "ba atolositse"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "megala ya bona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:00.792683991Z",
+  "model": "glm-5.3"
+}

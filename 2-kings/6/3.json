@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ya mongwe o ne a re: O dumele fela, ke kopa, o tsamaye le ⟨את⟩ badiredi ba gago. A araba a re: Nna ke tla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ya mongwe o ne a re"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ya mongwe"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "O dumele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fela, ke kopa"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "o tsamaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badiredi ba gago"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "badiredi ba gago"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A araba a re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tla"
+    }
+  ],
+  "timestamp": "2026-10-03T23:33:56.898640238Z",
+  "model": "glm-5.3"
+}

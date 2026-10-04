@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Boela, moya wa me, kwa boikhutso jwa gago; gonne Yahwe o go direletse molemo.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "boela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "kwa boikhutso jwa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "o direletse molemo"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:21.563837831Z",
+  "model": "glm-5.3"
+}

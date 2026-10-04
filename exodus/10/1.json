@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Yahwe a bua le Moshe: Tsena go Faro, gonne ke ne ke itekatsa go mo boketse — ke ne ke boketsa ⟨את⟩ pelo ya gagwe le ⟨את⟩ pelo ya badiredi ba gagwe — gore ke bontshe dinepe tsa me tseno mo teng ga gagwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ke boketsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya gagwe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "pelo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ya badiredi ba gagwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gorre"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ke bontshe"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "dinepe tsa me"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mo teng ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:19.916258736Z",
+  "model": "glm-5.3"
+}

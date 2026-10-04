@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Yo a swang wa Yeroboame mo toropong, matsha a tla a mo ja; mme yo a swang kwa masimong, dinonyane tsa magodimo di tla a mo ja; gore Yahwe o buile.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "yo a swang"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "wa Yeroboame"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mo toropong"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "a tla a ja"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "matsha"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "mme yo a swang"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kwa masimong"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tla a ja"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dinonyane"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa magodimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    }
+  ],
+  "timestamp": "2026-10-03T23:27:17.354987190Z",
+  "model": "glm-5.3"
+}

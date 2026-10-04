@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme ba mo phethya matsatsi a mane; gonne jalo ba phethya matsatsi a go bola; mme Mitsrayime ya mo lala malatsi a supileng.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ba phethya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "matsatsi a mane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ba phethya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "a go bola"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ya lala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "malatsi a supileng"
+    },
+    {
+      "surface": "יום",
+      "gloss": "malatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:07.508486453Z",
+  "model": "glm-5.3"
+}

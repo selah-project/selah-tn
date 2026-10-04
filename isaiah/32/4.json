@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme pelo ya ba ba potlakileng ka mogopolo e tla tlhaloganya kitso, mme lone la ba ba tlhotsang ba bua lo tla kgona go bua ka go utlwala.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Mme pelo"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "ya ba ba potlakileng ka mogopolo"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "e tla tlhaloganya"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kitso"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "mme lone"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "la ba ba tlhotsang ba bua"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "lo tla kgona"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "ka go utlwala"
+    }
+  ],
+  "timestamp": "2026-10-03T23:53:06.475809068Z",
+  "model": "glm-5.3"
+}

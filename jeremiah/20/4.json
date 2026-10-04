@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 20:4",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Gore go bua jalo Yahwe: Bonwe, ke go dira wena tshogo ya wena, le ya botlhe ba ba go ratang, mme ba tla wa ka tshaka ya ba ba ba tlhoyang, mme matlho a gago a a bona; mme ⟨את⟩ Yuda yotlhe ke e neela ka seatla sa kgosi ya Babile, mme o tla ba isiela Babilone, mme o tla ba otla ka tshaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "כה",
+      "gloss": "go bua jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "ke go dira wena"
+    },
+    {
+      "surface": "למגור",
+      "gloss": "tshogo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ya wena"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le ya botlhe"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ba ba go ratang"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "mme ba tla wa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ya ba ba ba tlhoyang"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "mme matlho a gago"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "a a bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ mme",
+      "marks": "Yuda yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke e neela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa kgosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babile"
+    },
+    {
+      "surface": "והגלם",
+      "gloss": "mme o tla ba isiela"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilone"
+    },
+    {
+      "surface": "והכם",
+      "gloss": "mme o tla ba otla"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    }
+  ],
+  "timestamp": "2026-10-04T00:15:57.560870833Z",
+  "model": "glm-5.3"
+}

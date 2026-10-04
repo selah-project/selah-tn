@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "O rulagantse boinyatso go ntlo ya gago ka go fedisa ditshaba tse dintsi, mme o dirile molato kgatlhanong le botshelo jwa gago.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "O rulagantse"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "boinyatso"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "go ntlo ya gago"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ka go fedisa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "tse dintsi"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "mme o dirile molato"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "botshelo jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:03:09.608614048Z",
+  "model": "glm-5.3"
+}

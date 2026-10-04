@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "le ⟨את⟩ Yatire le mabala a one, le ⟨את⟩ Eshtemowa le mabala a one;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yatire"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a one"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Eshtemowa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemowa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a one"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a one"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:49.006046575Z",
+  "model": "glm-5.3"
+}

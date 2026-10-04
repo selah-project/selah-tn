@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "Ke tla bitsa Elohim Elyone, go El yo o phethang ⟨mo go⟩ nna.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla bitsa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "go El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "yo o phethang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:28.599582848Z",
+  "model": "glm-5.3"
+}

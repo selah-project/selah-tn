@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Sephethe le sepe se sa se nang sepe sa tsholofelo, mme ka bontsi jwa matla a gagwe ga go a ka ga ntshefatsa ope.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "sephethe"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "le sepe"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "sa tsholofelo ya pholoso"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "mme ka bontsi"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "jwa matla a gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "go a ka ga ntshefatsa ope"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:22.206610615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ba arabe mme ba re: Matsogo a rona ga a a tshola ⟨את⟩ madi a, mme matlho a rona ga a a bona.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ba arabe"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Matsogo a rona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a a"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "tshola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "mme matlho a rona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a a"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:27:49.439057225Z",
+  "model": "glm-5.3"
+}

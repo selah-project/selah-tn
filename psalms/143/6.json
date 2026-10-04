@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 143,
+  "translation": "Ke ne ke phutha ⟨את⟩ matsogo a me goya go wena, mogopuwa wa me o tletse bothata jo bo utlwala bo le jaaka lefatshe le lapilegotlhelelela wena. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "ke ne ke phutha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matsogo a me"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "goya go wena"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mogopuwa wa me"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "jaaka lefatshe"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "le lapilegotlhelelela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:16.604594067Z",
+  "model": "glm-5.3"
+}

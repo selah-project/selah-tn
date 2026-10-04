@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 27:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme go tla nna jalo ka letsatsi leo: Yahwe o tla kgama go tswa mollwaneng wa mmila o mogolo go ya ko molapong wa Mitsrayime; mme lona lo tla kgobokanywa, mo e mong le mo e mong, bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme go tla nna jalo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יחבט",
+      "gloss": "o tla kgama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משבלת",
+      "gloss": "go tswa mollwaneng"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "wa mmila o mogolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya ko"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molapong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "תלקטו",
+      "gloss": "lo tla kgobokanywa"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "mo e mong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le mo e mong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:53.590255671Z",
+  "model": "glm-5.3"
+}

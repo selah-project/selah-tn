@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 128,
+  "translation": "Bonang, ke ka tsela e e ntseng jalo motho yo o boifang Yahwe a a segofaditsweng.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka tsela e e ntseng jalo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "a a segofaditsweng"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yo o boifang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:29.152043586Z",
+  "model": "glm-5.3"
+}

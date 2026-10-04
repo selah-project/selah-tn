@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme ka e kwala buken, mme ka e tswalela, mme ka tlhoma baki, mme ka lekanya ⟨את⟩ selefera ka sekala.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "mme ka e kwala"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "buken"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "mme ka e tswalela"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "mme ka tlhoma"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "baki"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "mme ka lekanya"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "ka sekala"
+    }
+  ],
+  "timestamp": "2026-10-04T03:13:58.676471096Z",
+  "model": "glm-5.3"
+}

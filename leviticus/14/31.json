@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "se se ka kgonang ke seatla sa gagwe: ⟨את⟩ e nngwe e le seabe sa boleo le ⟨את⟩ e nngwe e le sehlabelo se se fisang, mmogo le minkha; mme mopristeri a itshwarela yo o tlhaphafatswang mo pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se ka kgonang ke seatla sa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "se ka kgonang"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ke seatla sa gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e nngwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "seabe sa boleo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "e nngwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sehlabelo se se fisang"
+    },
+    {
+      "surface": "על",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mme a itshwarele"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopristeri"
+    },
+    {
+      "surface": "על",
+      "gloss": "a itshwarela"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yo o tlhaphafatswang"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mo pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:29.609153405Z",
+  "model": "glm-5.3"
+}

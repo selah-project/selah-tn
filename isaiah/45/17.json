@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Yisraele o bolokileng ka Yahwe, boloko jwa go sa feleng; ga lo ka ke la swabiwa le go nyadiwa, go fitlha dikokomane go sa feleng.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "o bolokileng"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "boloko"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "jwa go sa feleng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "lo ka ke la swabiwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le go"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "nyadiwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "dikokomane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-04T00:00:20.182519366Z",
+  "model": "glm-5.3"
+}

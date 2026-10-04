@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 10:2",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme tiro yotlhe ya maatla a gagwe le bontlhano jwa gagwe, le tlhaloso ya bogolo jwa Mordekayi, mo go go neng go mo godisa kgosi — a ga ga a kwadwa mo bukeng ya dintlha tsa maloba a dikgosi tsa Madayi le Peresha?",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mme ... yotlhe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ya maatla a gagwe"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "le bontlhano jwa gagwe"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "le tlhaloso"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "ya bogolo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "jwa Mordekayi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo go go neng go"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "mo godisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "a kwadwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bukeng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dintlha"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "tsa maloba"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "a dikgosi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "tsa Madayi"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "le Peresha"
+    }
+  ],
+  "timestamp": "2026-10-04T02:17:49.217304118Z",
+  "model": "glm-5.3"
+}

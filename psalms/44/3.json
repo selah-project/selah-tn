@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Wena, ka letsogo la gago o ne wa kgapha ditshaba, o bo wa ba jalalaela; o ne wa thuba ditshaba, o bo wa di romela kgakala.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ka letsogo la gago"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "o ne wa kgapha"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "o bo wa ba jalalaela"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "o ne wa thuba"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "o bo wa di romela kgakala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:31.409333207Z",
+  "model": "glm-5.3"
+}

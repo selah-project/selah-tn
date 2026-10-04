@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "O ne a anamisa diatla tsa gagwe kgatlhanong le ba ba kgontheitseng le ene; o ne a senya kgolagano ya gagwe.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "a anamisa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "diatla tsa gagwe"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "kgatlhanong le ba ba kgontheitseng le ene"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "a senya"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kgolagano ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:52.424655264Z",
+  "model": "glm-5.3"
+}

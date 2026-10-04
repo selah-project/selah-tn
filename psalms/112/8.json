@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 112,
+  "translation": "Pelo ya gagwe e nonofile — o se ka wa tshaba, go fitlha a bona ⟨את⟩ baba ba gagwe.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "e nonofile"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "tshaba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יראה",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "baba ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:51.572221573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme lo diragatse ⟨את⟩ melawana ya me, le ⟨את⟩ dikatlholo tsa me lo di sireletse mme lo di dire; mme lo nne mo lefatsheng ka polokego.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme lo diragatse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melawana ya me"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melawana ya me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikatlholo tsa me"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikatlholo tsa me"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "lo di sireletse"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme lo di dire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "melawana le dikatlholo"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mme lo nne"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka polokego"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:35.835674277Z",
+  "model": "glm-5.3"
+}

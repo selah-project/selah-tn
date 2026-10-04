@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Ka kgolakgolano ya lefatshe, balaodi ba yone ke bantsi; mme ka motho yo o bonang, yo o itseng, dilo di tla nna tse telele.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "ka kgolakgolano"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ke bantsi"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "balaodi ba yone"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "mme ka motho"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "yo o bonang"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yo o itseng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dilo"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "di tla nna tse telele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:05.916562091Z",
+  "model": "glm-5.3"
+}

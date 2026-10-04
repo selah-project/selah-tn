@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Kgosi ya Makeda, e le nngwe; kgosi ya Bet-Ele, e le nngwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makeda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:39:15.500608190Z",
+  "model": "glm-5.3"
+}

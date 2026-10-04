@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme Balaka a re go Bileame: O se ka wa mo nyefola ka gope, o se kgotsa wa mo gakolola ka gope.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileame"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kapele"
+    },
+    {
+      "surface": "קב",
+      "gloss": "go nyefola"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "mo nyefola"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kapele"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "go gakolola"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se kgotsa wa"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "mo gakolola"
+    }
+  ],
+  "timestamp": "2026-10-03T22:13:44.024700056Z",
+  "model": "glm-5.3"
+}

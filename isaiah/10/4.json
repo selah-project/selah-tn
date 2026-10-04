@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Go sa lebale, ba tla nonotsha maoto fa gare ga ba ba tsheretsweng, mme fa gare ga ba ba bolailweng ba tla wa. Ka tsotlhe tseo bogale jwa gagwe bo sa boela morogo, mme go ntse go le gale seatla sa gagwe se ogologotse.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "go sa lebale"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "ba tla nonotsha maoto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fa gare ga"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ba ba tsheretsweng"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "mme fa gare ga"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "ba ba bolailweng"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ba tla wa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka tsotlhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bo sa boela morogo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bogale jwa gagwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "mme go ntse"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "se ogologotse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:14.098658737Z",
+  "model": "glm-5.3"
+}

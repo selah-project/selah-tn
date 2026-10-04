@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme ke, ke tlaa tlhomamisa ⟨את⟩ kgolagano ya me le wena ⟨את⟩, mme o tlaa itse gore ke ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "mme ke tlaa tlhomamisa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgolagano ya me"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgolagano ya me"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le wena ⟨את⟩"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "mme o tlaa itse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:36:50.967695785Z",
+  "model": "glm-5.3"
+}

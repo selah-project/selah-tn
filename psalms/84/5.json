@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 84,
+  "translation": "Ba lumelang ba ba nang le boitumelo — ba ba dulang mo ntlong ya gago; ba tla go continue go leboha. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ba ba nang le boitumelo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba ba dulang"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mo ntlong ya gago"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka metlha"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ba tla go leboha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:45.730629873Z",
+  "model": "glm-5.3"
+}

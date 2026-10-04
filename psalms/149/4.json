@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 149,
+  "translation": "Gore Yahwe o itumelela mo setshabeng sa gagwe; o kgabisa ba inueileng ka poloko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "o itumelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "mo setshabeng sa gagwe"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "o kgabisa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba inueileng"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "ka poloko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:35.470119074Z",
+  "model": "glm-5.3"
+}

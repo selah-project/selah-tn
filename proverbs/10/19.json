@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ka bontsi jwa mafoko kgololo ga go fokotse; mme yo o thibang dinofo tsa gagwe o nna le tlhaloganyo.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ka bontsi jwa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "fokotse"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "kgololo"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "mme yo o thibang"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "dinofo tsa gagwe"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "o nna le tlhaloganyo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:46:20.325275645Z",
+  "model": "glm-5.3"
+}

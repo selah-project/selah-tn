@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 101,
+  "translation": "Matlho a me a lebeleletse ba ineelo ba lefatshe, gore ba dule le nna; yo o tsamayang ka tsela e e itekanetseng, yena o tlaa ntirela.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "a ba ineelo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gore ba dule"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yo o tsamayang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e e itekanetseng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "o tlaa ntirela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:59.163212749Z",
+  "model": "glm-5.3"
+}

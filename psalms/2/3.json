@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "A re kgaoganyeng ⟨את⟩ dikgolegelo tsa bone, mme a re tlhole dithapo tsa bone go tswa mo go rona.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "a re kgaoganyeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgolegelo tsa bone"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "dikgolegelo tsa bone"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "mme a re tlhole"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa mo go rona"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "dithapo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:33.830915251Z",
+  "model": "glm-5.3"
+}

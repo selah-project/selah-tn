@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme Nobakhe ya tsamaya, a gapa ⟨את⟩ Kenate le ⟨את⟩ metsewaneng ya yone, mme a e bitsa Nobakhe ka leina la gagwe.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Mme Nobakhe"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ya tsamaya"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a gapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenate"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metsewaneng ya yone"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "metsewaneng ya yone"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a e bitsa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "e"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobakhe"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ka leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:17:02.187051489Z",
+  "model": "glm-5.3"
+}

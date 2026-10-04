@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Ruri Elohim o tla nonotsha tlhogo ya ba ba mo tlhoyang, le sefatlhago sa tlhogo ya yo o tsamayang ka dinako tsotlhe mo dibe tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "o tla nonotsha"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ya ba ba mo tlhoyang"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "tlhogo (crown)"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sefatlhago"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "yo o tsamayang ka dinako tsotlhe"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "mo dibe tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:03.711956316Z",
+  "model": "glm-5.3"
+}

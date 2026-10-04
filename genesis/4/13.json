@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Kaine a re go Yahwe: Boleo jwa me jo bo kgolo go feta go ka rwalelwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "jo bo kgolo"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "boleo jwa me"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "go feta go ka rwalelwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:44.360802273Z",
+  "model": "glm-5.3"
+}

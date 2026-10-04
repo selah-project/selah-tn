@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Ga lo tla ja nama ya tsone, le se kgweng go kgoma lemareha la tsone; di ⟨ke⟩ tsa boielo go lona.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ga lo tla ja nama ya tsone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "lo tla ja"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "le se kgweng go kgoma lemareha la tsone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kgweng go kgoma"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "ba boielo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "di"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:03:36.531991579Z",
+  "model": "glm-5.3"
+}

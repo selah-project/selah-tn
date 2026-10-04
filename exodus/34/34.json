@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme fa Moshe a tsena kwa go Yahwe go ya go bua ⟨את⟩ le ene, a ntsha ⟨את⟩ sebadi seo, go fitlha a a tsena; mme a tsena a bua le bana ba Yisraele ⟨את⟩ se a neng a laetswe.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "Mme fa... a tsena"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go ya go bua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ene"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebadi seo"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "sebadi seo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "a a tsena"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mme a tsena"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "a neng a laetswe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:05.436441831Z",
+  "model": "glm-5.3"
+}

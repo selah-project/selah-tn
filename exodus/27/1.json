@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme o tlaa dira ⟨את⟩ aletara ka dikgong tsa shita; boleele jwa ama di le tlhano, le bophara jwa ama di le tlhano; aletara e tlaa nna e ya khutlo-nne; mme bohatla jwa yone bo tlaa nna jwa ama di le tharo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tlaa dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aletara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletara"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ka dikgong"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "tsa shita"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "di le tlhano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bolele"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "le di le tlhano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "e ya khutlo-nne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tlaa nna"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletara"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mme di le tharo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bohatla jwa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:39.361364147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme gape ke ne ka re: Ga ke kitla ke ba tlhotlhora go tswa pele ga lona; mme ba tlaa nna ba lona jaaka mabota, mme medimo ya ⟨את⟩ bone e tlaa nna sephiso go lona.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ka re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "ke kitla ke ba tlhotlhora"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bone"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "go tswa pele ga lona"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme ba tlaa nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ba lona"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "jaaka mabota"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "mme medimo ya bone"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "e tlaa nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "sephiso"
+    }
+  ],
+  "timestamp": "2026-10-03T22:45:30.005582069Z",
+  "model": "glm-5.3"
+}

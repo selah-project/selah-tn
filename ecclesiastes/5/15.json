@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme se gape ke bolwetse jo bo mpe: ka ditsela tsotlhe jaaka a tlile, jalo o tlaa tsamaa; mme molemo ofe wa gagwe, a dira ka thata go ruakh?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jo bo mpe"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "bolwetse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka ditsela tsotlhe"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "a tlile"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "o tlaa tsamaa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mme molemo ofe"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa gagwe"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "a dira ka thata"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "go ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:26.640724886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 138,
+  "translation": "Ke tla ikobela legodimo la gago la boitshepo, mme ke go leboga ka ⟨את⟩ leina la gago, ka ntlha ya hesede ya gago le ka ntlha ya boammaokuri ja gago; gonne o godisitse mo go leina la gago lonothlhe ⟨את⟩ lefoko la gago.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Ke tla ikobela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "legodimo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "la boitshepo la gago"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "mme ke go leboga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gago"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ka ntlha ya"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "boammaokuri ja gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "o godisitse"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonothlhe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lefoko la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:56.991793443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ka ntlha ya seo ke ratile ditaelo tsa gago, go feta gauta — ee, go feta gauta e e phepafetseng.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke ratile"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ditaelo tsa gago"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "go feta gauta"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "go feta gauta e e phepafetseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:09.021719029Z",
+  "model": "glm-5.3"
+}

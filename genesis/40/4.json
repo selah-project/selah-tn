@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme mookamedi wa bolaisi a laela ⟨את⟩ Yosefa go nna ⟨את⟩ bone, mme a ba direla ⟨את⟩ bone; ba nna malatsi mo kgolegelong.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wa bolaisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "a ba direla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "mo kgolegelong"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:57.198332766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Yoktane a belega ⟨את⟩ Almodade le ⟨את⟩ Shelefe le ⟨את⟩ Khatsharmavete le ⟨את⟩ Yarakhe.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Mme Yoktane"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodade"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodade"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Shelefe"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khatsharmavete"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Khatsharmavete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yarakhe"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yarakhe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:02.868906195Z",
+  "model": "glm-5.3"
+}

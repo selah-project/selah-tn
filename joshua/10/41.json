@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Yehoshuaa o ne a ba tlhasela, go tswa kwa Kadeshe-Barnea go fitlha kwa Azha, le ⟨את⟩ lefatshe la Goshene loompi, go fitlha kwa Gibhone.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "o ne a ba tlhasela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuaa"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "go tswa kwa Kadeshe"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "kwa Azha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Goshene loompi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "loompi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "la Goshene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "kwa Gibhone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:07:34.071322860Z",
+  "model": "glm-5.3"
+}

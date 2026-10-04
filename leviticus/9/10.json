@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ⟨את⟩ mafura le ⟨את】 diphilo le ⟨את⟩ karolo e kgolo ya sebete, go tswa mo setlhabelong sa phoso, o ne a di foka mo aletare, jaaka Yahwe a neng a laetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diphilo"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "diphilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "karolo e kgolo ya sebete"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "karolo e kgolo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sebete"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "setlhabelong sa phoso"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "a di foka"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:46.643850279Z",
+  "model": "glm-5.3"
+}

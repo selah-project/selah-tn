@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 99,
+  "translation": "Moshe le Aharone mo bakgetheng ba gagwe, mme Shmuele mo ba ba bitsang leina la gagwe; ba ne ba bitsa Yahwe, mme yena o ne a ba araba.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "mo bakgetheng ba gagwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "mme Shmuele"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "mo ba ba bitsang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "ba ne ba bitsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme yena"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "o ne a ba araba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:29.007311258Z",
+  "model": "glm-5.3"
+}

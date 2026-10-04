@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Botlhe ba boela morago, ba kgaphologa mmogo; ga go ope yo o dirang botoka, ga go le fa e le mongwe.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Botlhe"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ba boela morago"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ba kgaphologa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go ope"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "botoka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le fa e le"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mongwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:34.998386990Z",
+  "model": "glm-5.3"
+}

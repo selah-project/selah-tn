@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 1:31",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ba ba badilweng ba one, ba mophato wa Zebulune, masome a matlhano le bosupa dikete le makgolo a mane.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ba ba badilweng ba one"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ba mophato wa"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulune"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "bosupa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masome a matlhano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a mane"
+    }
+  ],
+  "timestamp": "2026-10-04T03:05:42.947220746Z",
+  "model": "glm-5.3"
+}

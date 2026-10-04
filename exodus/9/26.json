@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Fela mo lefatsheng la Goshene, kwa bana ba Yisraele ba neng ba le teng, ga go ne go se na matswapha.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go ne go se"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "matswapha"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:14.621039777Z",
+  "model": "glm-5.3"
+}

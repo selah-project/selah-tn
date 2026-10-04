@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "mme ke ne ka go neela ⟨את⟩ ntlo ya mong wa gago le ⟨את⟩ basadi ba mong wa gago mo letsheng la gago; mme ke ne ka go neela ⟨את⟩ ntlo ya Yisraele le ya Yehuda. Mme fa e le se se nnye, ke ka go oketsa se o se batlang, le se o se batlang.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mme ke ne ka go neela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya mong wa gago"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ya mong wa gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "basadi ba mong wa gago"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ba mong wa gago"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "mo letsheng la gago"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mme ke ne ka go neela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yisraele le ya Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le ya Yehuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "e le se se nnye"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "ke ka go oketsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "—"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "se o se batlang"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "le se o se batlang"
+    }
+  ],
+  "timestamp": "2026-10-03T23:12:18.496700400Z",
+  "model": "glm-5.3"
+}

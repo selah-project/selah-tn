@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme Esau a taboga go mo tshegetsa, a mo ana moletlo, a owa mo sehubeng sa gagwe, a mo nosa, mme ba lela bobedi.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "mme a taboga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "go mo tshegetsa"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "a mo ana moletlo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "a owa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "sehubeng sa gagwe"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "a mo nosa"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "mme ba lela"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:34.772063110Z",
+  "model": "glm-5.3"
+}

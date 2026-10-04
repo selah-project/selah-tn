@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim a bopa ⟨את⟩ motho ka lerole la lefatshe, a phefumole mo sehubeng sa gagwe moya wa botshelo; mme motho a nna moyamodimo o tshelang.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "Mme ... a bopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "מן",
+      "gloss": "la"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "a phefumole"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "mo sehubeng sa gagwe"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "moya"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wa botshelo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme ... a nna"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "moyamodimo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "o tshelang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:20.464126935Z",
+  "model": "glm-5.3"
+}

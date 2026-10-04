@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme kgosi ya re: Rapelang Hamaane go tla go dira ⟨את⟩ lefoko la Estere. Mme kgosi le Hamaane ba tsena mo mokgweng oo Estere a neng a a lo aboditsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kgosi ya re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Rapelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamaane"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamaane"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go tla go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko la Estere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "la Estere"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "le Hamaane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "mokgweng oo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a neng a a"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "lo aboditsa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:31.848410721Z",
+  "model": "glm-5.3"
+}

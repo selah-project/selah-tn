@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 92,
+  "translation": "Go itsise gore Yahwe o tobele, lefika la me, mme go sego bone bosula go tsamaisana le ene.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "go itsise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "o tobole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lefika la me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme go sego"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "bone bosula"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go tsamaisana le ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:33.518363769Z",
+  "model": "glm-5.3"
+}

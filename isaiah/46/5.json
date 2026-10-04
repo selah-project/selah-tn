@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 46,
+  "translation": "Le tlaa ntshwana le mang, le tlaa ntleka, le tlaa nkholosa, gore re tshwane?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "le mang"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "le tlaa ntshwana"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "le tlaa ntleka"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "le tlaa nkholosa"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "gore re tshwane"
+    }
+  ],
+  "timestamp": "2026-10-03T23:59:56.718088707Z",
+  "model": "glm-5.3"
+}

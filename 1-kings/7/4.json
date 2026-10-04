@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Le matlhatlaganyane a le mararo, mme se se golagantsweng le se se golagantsweng, makgetho a le mararo.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "matlhatlaganyane"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mararo"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "le matlhatlaganyane"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "se se golagantsweng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "se se golagantsweng"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mararo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "makgetho"
+    }
+  ],
+  "timestamp": "2026-10-03T23:22:20.556005039Z",
+  "model": "glm-5.3"
+}

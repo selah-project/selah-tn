@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 122,
+  "translation": "Ka ntlha ya bakaulengwe ba me le ditsala ba me, ke tla bua: kagiso e nne mo go wena.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ka ntlha ya"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bakaulengwe ba me"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "le ditsala ba me"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ke tla bua"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:15.885640931Z",
+  "model": "glm-5.3"
+}

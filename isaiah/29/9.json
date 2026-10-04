@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Emang le makale, le sa tsamaye; iteeletse, le foufatse; le a gotlhwa, mme ga se ka masele; le a thubega, mme ga se ka se gotlhwang.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "emang le sa tsamaye"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "le makale"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "iteeletse"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "le foufatse"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "le a gotlhwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga se"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ka masele"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "le a thubega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga se"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ka se gotlhwang"
+    }
+  ],
+  "timestamp": "2026-10-03T23:53:34.372343882Z",
+  "model": "glm-5.3"
+}

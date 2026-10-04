@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme o ntshitse ⟨את⟩ setshaba sa gago, ⟨את⟩ Yisraele, mo nageng ya Mitsrayime, ka diale le diphodisa, ka seatla se se nonofileng le ka lengole la go oatla, ka boitimokare jo bogolo.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "mme o ntshitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sa gago"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo nageng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "ka diale"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "le diphodisa"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ka seatla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "se se nonofileng"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "le ka lengole"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "la go oatla"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "ka boitimokare"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "jo bogolo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:22:15.413799364Z",
+  "model": "glm-5.3"
+}

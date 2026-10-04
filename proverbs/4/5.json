@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Bone khokgontshi, bone tlhaloganyo; o se ka wa lebala, mme o se ka wa fapoga mo mafokong a molomo wa me.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Bone"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "khokgontshi"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "tlhaloganyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ka wa"
+    },
+    {
+      "surface": "תט",
+      "gloss": "fapoga"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "mo mafokong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:20.118255248Z",
+  "model": "glm-5.3"
+}

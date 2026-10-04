@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ke tla tlogela ⟨את⟩ masalela a boswa jwa me, ke ba neela mo seatleng sa ba ba ba tlhoya; mme ba tla nna tlhae le tsewa go ba ba ba tlhoya botlhe.",
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "mme ke tla tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masalela a boswa jwa me"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "masalela"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "a boswa jwa me"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "ke ba neela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ba ba ba tlhoya"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme ba tla nna"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "tlhae"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "le tsewa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ... botlhe"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ba ba ba tlhoya"
+    }
+  ],
+  "timestamp": "2026-10-03T23:42:29.533158631Z",
+  "model": "glm-5.3"
+}

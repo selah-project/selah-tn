@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Tshoga, tsamaya go Nineve, motse oo mogolo, mme o phatlalatse go yone ⟨את⟩ phatlalatso eo ke e buang go wena.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tshoga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsamaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motse oo"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "mme o phatlalatse"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "go yone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phatlalatso"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "phatlalatso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e buang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:41.653935447Z",
+  "model": "glm-5.3"
+}

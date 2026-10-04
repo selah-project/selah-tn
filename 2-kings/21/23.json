@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme badiri ba Amon ba rulaganya maano kgatlhanong le ene, mme ba bolaya ⟨את⟩ kgosi ka mo tlung ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "mme ba rulaganya maano"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "badiri ba"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kgatlhanong le ene"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "mme ba bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ka mo tlung ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:41:08.010068194Z",
+  "model": "glm-5.3"
+}

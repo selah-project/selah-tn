@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme yo o se jang o tla rwala ⟨את⟩ molato wa gagwe, goboitsepo jwa Yahwe o ne a bo tlhotlhomolosa; mme motho yoo o tla kgaolwa go tswa mo setshabeng sa gagwe.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "mme yo o se jang"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "molato wa gagwe"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "o tla rwala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goboitsepo jwa Yahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "goboitsepo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "o ne a bo tlhotlhomolosa"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "mme o tla kgaolwa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "motho yoo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "go tswa mo setshabeng sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:17.875640480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme Shaule a botsa Yahwe, mme Yahwe ga a mo arabe — le ka ditoro, le ka Uurime, le ka baporofeti.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "a botsa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "a mo arabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "ka ditoro"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "ka Uurime"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "ka baporofeti"
+    }
+  ],
+  "timestamp": "2026-10-03T23:07:30.904927320Z",
+  "model": "glm-5.3"
+}

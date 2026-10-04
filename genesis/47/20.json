@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 47,
+  "translation": "Mme Yosefe a reka ⟨את⟩ lefatshe lonthe la Mitsrayime bakaulengwe la Faro; ka gonne batho ba ba Mitsrayime ba ne ba rekisitse, motho yo mongwe le yo mongwe a rekisitse tshimo ya gagwe, ka gonne tlala e ne e ba gatelela; mme lefatshe la nna laa Faro.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "a reka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe lonthe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonthe"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "bakaulengwe la Faro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ba ne ba rekisitse"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "batho ba ba Mitsrayime"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "tshimo ya gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "e ne e ba gatelela"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ya nna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "laa Faro"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:43.219377747Z",
+  "model": "glm-5.3"
+}

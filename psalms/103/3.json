@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Yo o tlhobolang diphoso tsa gago tsotlhe, yo o fodisang bolwetse bo bo tseneletseng jotlhe jwa gago.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "yo o tlhobolang"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "diphoso tsa gago"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "yo o fodisang"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "bolwetse bo bo tseneletseng jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:28.825502481Z",
+  "model": "glm-5.3"
+}

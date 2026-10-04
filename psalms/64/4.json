@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "Ba ba betlang ka tlhogako lestema la bone jaaka tshaka, ba lomagantse matshe a bone — lefoko la thogoname.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ba ba"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "betlang"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "jaaka tshaka"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lestema la bone"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ba lomagantse"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "matshe a bone"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "מר",
+      "gloss": "la thogoname"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:35.340617551Z",
+  "model": "glm-5.3"
+}

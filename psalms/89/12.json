@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Magodimo ke a gago, ee, lefatshe le ke la gago; lefatshe la batho botlhe le tladelo ya lone — wena o laile motheo wa tsone.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ke a gago"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "le ke la gago"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe la batho botlhe"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "le tladelo ya lone"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "o laile motheo wa tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:32.245516244Z",
+  "model": "glm-5.3"
+}

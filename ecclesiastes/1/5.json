@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme phepo ya tlhaga, mme phepo ya phirima, mme e hema ka yunitlho go ya kwa lefelong la yona — foo ya tlhaga gape.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "mme phepo ya tlhaga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "phepo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mme e phirima"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "phepo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "go ya kwa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "lefelong la yona"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "e hema ka yunitlho"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ya tlhaga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:28.266364077Z",
+  "model": "glm-5.3"
+}

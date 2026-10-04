@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme a tlhoma ⟨את⟩ dikgoro-tsogo kwa pele ga tempole, e le nngwe go ya kwa go la moja, mme e le nngwe go ya kwa go la molema; a bita leina la la moja Yakhine, mme leina la la molema Boaze.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tlhoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgoro-tsogo"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "dikgoro-tsogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tempole"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "go ya kwa go la moja"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "mme e le nngwe"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "go ya kwa go la molema"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "la la moja"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhine"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme leina"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "la la molema"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaze"
+    }
+  ],
+  "timestamp": "2026-10-04T02:46:42.033243665Z",
+  "model": "glm-5.3"
+}

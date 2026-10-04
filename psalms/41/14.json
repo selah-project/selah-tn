@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Yo o segofaditsweng ke Yahwe, Elohim wa Yisraele, go tloga mo letheonkeng go fitlha mo letheonke. Ame, mme Ame.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Yo o segofaditsweng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "go tloga mo letheonkeng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "mo letheonke"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ame"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "mme Ame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:22.194977988Z",
+  "model": "glm-5.3"
+}

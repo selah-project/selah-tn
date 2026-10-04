@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Ba ne ba baya mo go bone mafoko a matshwao a gagwe, le dikgakgamatso mo lefatsheng la Kame.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "ba baya"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "matshwao a gagwe"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "le dikgakgamatso"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "חם",
+      "gloss": "la Kame"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:00.329274497Z",
+  "model": "glm-5.3"
+}

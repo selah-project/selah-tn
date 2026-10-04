@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Morwalo wa sekaka sa lewatle. Jaaka dikgoro tsa phefo kwa borwa di feta, jalo o tla go sekaka, go tswa lefatshe le le tlhabang tlhogo.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "morwalo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sekaka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "jaaka dikgoro tsa phefo"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "kwa borwa"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "di feta"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "go sekaka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tswa lefatshe"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "le le tlhabang tlhogo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:00.058359461Z",
+  "model": "glm-5.3"
+}

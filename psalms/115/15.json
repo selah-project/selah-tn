@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Lona lo tlhotswe ke Yahwe, mmopi wa magodimo le lefatshe.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "lo tlhotswe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ke Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mmopi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wa magodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:49.046893851Z",
+  "model": "glm-5.3"
+}

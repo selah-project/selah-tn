@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Yaakobo a bona ⟨את⟩ sefathe sa Labane, mme bonwe, se ne se sa nna mo go ene jaaka maabane le maabane a a fetileng.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefathe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathe"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonwe"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "se ne se sa nna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "jaaka maabane"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "le maabane a a fetileng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:47.618429627Z",
+  "model": "glm-5.3"
+}

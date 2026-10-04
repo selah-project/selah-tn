@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme bana ba Yisraele ba tshabela difatlhago tsa bone kwa Yahuda; Elohim a ba neela mo diatleng tsa bone.",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "ba tshabela difatlhago"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "a ba neela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "mo diatleng tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:51:09.495089192Z",
+  "model": "glm-5.3"
+}

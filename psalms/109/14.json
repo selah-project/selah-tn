@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Boleo jwa bo-rraagwe bo gakologelwe kwa Yahwe; mme boso jwa mmèagwe ga bo phimolwe.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "bo gakologelwe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "boleo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "jwa bo-rraagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "mme boso"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jwa mmèagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "bo phimolwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:23.502627762Z",
+  "model": "glm-5.3"
+}

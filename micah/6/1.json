@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Bua pelokgwe ⟨את⟩ se se buang Yahwe: Tshoga, o arabele ⟨את⟩ dithaba, mme dikhwaere di thwe lentswe la gago.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Bua pelokgwe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pelokgwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se buang Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "se buang"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tshoga"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "arabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithaba"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "mme di thwe"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "dikhwaere"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "lentswe la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:04:29.719939227Z",
+  "model": "glm-5.3"
+}

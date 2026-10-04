@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme lefatshe la bone le ne lala ka medimo; ba obamela tiro ya matsogo a bone, se diatlana tsa bone di se dirileng.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "mme le ne lala"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "lefatshe la bone"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "ka medimo"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "tiro ya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "matsogo a bone"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ba obamela"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di se dirileng"
+    },
+    {
+      "surface": "אצבעותיו",
+      "gloss": "diatlana tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:31.157245294Z",
+  "model": "glm-5.3"
+}

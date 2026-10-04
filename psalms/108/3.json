@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "Tsogang, nevele le kinore; ke tla tsogatsa ⟨moso⟩.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "tsogang"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevele"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "le kinore"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ke tla tsogatsa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "moso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:52.085357601Z",
+  "model": "glm-5.3"
+}

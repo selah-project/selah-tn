@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 76,
+  "translation": "O phadima, wena, o mogolo thata go feta dithaba tsa tlorologo.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "o phadima"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "o mogolo thata"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "go feta dithaba tsa"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "tlorologo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:11.555953949Z",
+  "model": "glm-5.3"
+}

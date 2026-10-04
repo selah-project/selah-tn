@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Ba romela ⟨את⟩ hempe ya mebala e mentsi, ba e isa kwa rraabone, ba re: E, re e fitlhile; lemoga fa o bone: ke hempe ya morwa wa gago, kana nnyaa?",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ba romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hempe ya mebala e mentsi"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "hempe"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "ya mebala e mentsi"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ba e isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "rraabone"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "E"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "re e fitlhile"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "lemoga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "hempe"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ya morwa wa gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nnyaa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:45.491013308Z",
+  "model": "glm-5.3"
+}

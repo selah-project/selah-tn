@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme setshelo sa sedibana se se aparisiwang ka sona se tla tlhabololwa; mme fa se apewa ka setshelo sa kopore, se tla kgaphisiwa le go tlhapiwa ka metsi.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "mme setshelo sa"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sedibana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "se aparisiwang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka sona"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "se tla tlhabololwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ka setshelo sa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kopore"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "se apewa"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "se tla kgaphisiwa"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "le go tlhapiwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:55.744727368Z",
+  "model": "glm-5.3"
+}

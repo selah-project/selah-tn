@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 71,
+  "translation": "Elohim, o se ka wa ba kgakala le nna; Elohim wa me, o tsamaya ka potlako go nthusa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "wa ba kgakala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "go nthusa"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "o tsamaya ka potlako"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:37.794668721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "E kete le le monate go lefoko la gago go marapo a me, go feta dinotshe mo molomong wa me!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "e kete"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "le le monate"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "go marapo a me"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lefoko la gago"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "go feta dinotshe"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mo molomong wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:49.634537389Z",
+  "model": "glm-5.3"
+}

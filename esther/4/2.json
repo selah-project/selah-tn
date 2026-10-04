@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme a tsena go fitlha kwa pele ga kgoro ya kgosi, gonne go ne go se letlelese go tsena kwa kgorong ya kgosi ka go apara saeke.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "mme a tsena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go ne go se letlelese"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgorong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "ka go apara"
+    },
+    {
+      "surface": "שק",
+      "gloss": "saeke"
+    }
+  ],
+  "timestamp": "2026-10-04T02:17:01.480915229Z",
+  "model": "glm-5.3"
+}

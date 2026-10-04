@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme Yahwe o ne a boloka ⟨את⟩ Yisraele ka letsatsi leo mo seatleng sa Mitsrayime; mme Yisraele a bona ⟨את⟩ Mitsrayime e sule kwa sephareng sa lewatle.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "mme a boloka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מת",
+      "gloss": "e sule"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "sephareng"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa lewatle"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:44.653107554Z",
+  "model": "glm-5.3"
+}

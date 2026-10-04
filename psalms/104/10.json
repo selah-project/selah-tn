@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Yo o romelang didibisi mo diphapanong; magareng ga dithaba di a tsamaya.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "yo o romelang"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "didibisi"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "mo diphapanong"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "di a tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:11.292576682Z",
+  "model": "glm-5.3"
+}

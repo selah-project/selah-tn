@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahwe Tsebaote, ene mo o tshwanetseng go mo itshepisa; mme ene ke tsabo ya lona, mme ene ke tshoso ya lona.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Tsebaote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "o mo itshepisa"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "o tshwanetseng go mo itshepisa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "ke tsabo ya lona"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "ke tshoso ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:31.115228793Z",
+  "model": "glm-5.3"
+}

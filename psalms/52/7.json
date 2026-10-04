@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "El o tla a go thubagatsa ka bosakhutshaku, a go tsewa, a go ntshiwa mo tendeng ya gago, le metswedi ya gago mo lefatsheng la ba ba tshelang. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le fa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "o tla a go thubagatsa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka bosakhutshaku"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "a go tsewa"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "a go ntshiwa"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "mo tendeng"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "metswedi ya gago"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "la ba ba tshelang"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:06.756612066Z",
+  "model": "glm-5.3"
+}

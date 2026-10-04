@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme muse o ne wa tlhatloga go tswa mo lefatsheng, o ne wa nwesa seletse ⟨את⟩ se sengwe le se sengwe sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "Mme muse"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "o ne wa tlhatloga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "o ne wa nwesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seletse se sengwe le se sengwe sa lefatshe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se sengwe le se sengwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "seletse"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:20.463959652Z",
+  "model": "glm-5.3"
+}

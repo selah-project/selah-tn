@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ke tla go leboga ka boitshepo jwa pelo, fa ke ntse ke ithuta dikatlholo tsa tsedeke ya gago.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ke tla go leboga"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "ka boitshepo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "jwa pelo"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "fa ke ntse ke ithuta"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikatlholo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsa tsedeke ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:04.693580595Z",
+  "model": "glm-5.3"
+}

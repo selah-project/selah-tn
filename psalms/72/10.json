@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Dikgosi tsa Tarshishe le tsa ditlhaketlhake di tla romela minkha; dikgosi tsa Sheba le Seba di tla tlisa diphoho.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishe"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "le tsa ditlhaketlhake"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "di tla romela"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "le Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "diphoho"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "di tla tlisa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:24.458719162Z",
+  "model": "glm-5.3"
+}

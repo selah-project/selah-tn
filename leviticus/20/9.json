@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Gore motho mongwe le mongwe yo o tlhoileng ⟨את⟩ rraagwe le ⟨את⟩ mmaagwe, a bolawe ka tlhamalalo; rraagwe le mmaagwe o a tlhoya; madi a gagwe a mo gare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "o tlhoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraagwe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mmaagwe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmaagwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a bolawe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ka tlhamalalo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "le mmaagwe"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "o a tlhoya"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "madi a gagwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a mo gare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:05.800958260Z",
+  "model": "glm-5.3"
+}

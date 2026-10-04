@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Go moetapele. Poo e e rutisang, ya bana ba Korake.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moetapele"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poo e e rutisang"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korake"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:21.460572414Z",
+  "model": "glm-5.3"
+}

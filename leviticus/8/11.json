@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a rhaba sone godimo ga aletara makgetho a supa, mme a tlodisa ⟨את⟩ aletara le ⟨את⟩ didiriswa tsotlhe tsa yone, le ⟨את⟩ sediba le ⟨את⟩ motheo wa sone, go di itshepisa.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "a rhaba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sone"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletara"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "a supa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "makgetho"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "a tlodisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aletara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tsa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sediba"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "sediba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "motheo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "motheo wa sone"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "go di itshepisa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:01.372013949Z",
+  "model": "glm-5.3"
+}

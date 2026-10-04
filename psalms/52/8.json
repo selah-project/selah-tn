@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Mme ba ba siameng ba tla a bona, ba tla a tshoga, mme ba tla a mo gakologa.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "mme ba tla a bona"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba ba siameng"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ba tla a tshoga"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "mo gagong"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ba tla a gakologa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:06.756717675Z",
+  "model": "glm-5.3"
+}

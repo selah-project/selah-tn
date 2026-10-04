@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Bosuthi jwa rraago le bosuthi jwa mmaago o se ke wa bo senola; mmaago ke enye; o se ke wa senola bosuthi jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Bosuthi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jwa rraago"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "le bosuthi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "jwa mmaago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "bo senola"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mmaago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke enye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "senola"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "bosuthi jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:41.433932101Z",
+  "model": "glm-5.3"
+}

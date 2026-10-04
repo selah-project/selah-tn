@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ke ne ka ikutlula go tlogela tshepo ya ⟨את⟩ pelo yame go sibogela tiro yotlhe ye ke e diritseng mo gare ga letsatsi.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "mme ke ne ka ikutlula"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "go tlogela tshepo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo yame"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo yame"
+    },
+    {
+      "surface": "על",
+      "gloss": "go sibogela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "ye ke e diritseng"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:23.936325502Z",
+  "model": "glm-5.3"
+}

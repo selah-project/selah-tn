@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme kgosi ya swa, mme a isiwa Shomeroni, mme ba mo hlabilitse ⟨את⟩ kgosi kwa Shomeroni.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mme kgosi ya swa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "mme a isiwa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "mme ba mo hlabitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "kwa Shomeroni"
+    }
+  ],
+  "timestamp": "2026-10-03T23:31:23.188935167Z",
+  "model": "glm-5.3"
+}

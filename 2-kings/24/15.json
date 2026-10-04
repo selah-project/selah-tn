@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme a isa ⟨את⟩ Yehoyakhine kwa Babele, le ⟨את⟩ mma kgosi, le ⟨את⟩ basadi ba kgosi, le ⟨את⟩ balekane ba gagwe, le ⟨את⟩ banna ba maatla a lefatshe; a ba isa ka sekgobong go tswa Yerushalayime go ya Babele.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "a isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakhine"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhine"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "kwa Babele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mma kgosi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "basadi ba kgosi"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "basadi ba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "balekane ba gagwe"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "balekane ba gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "banna ba maatla"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "banna ba maatla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a lefatshe"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "a ba isa"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "ka sekgobong"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "go tswa Yerushalayime"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "go ya Babele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:29.918544798Z",
+  "model": "glm-5.3"
+}

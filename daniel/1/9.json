@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Elohim a fa ⟨את⟩ Daniele hesede le mohau, fa pele ga moeteledipele wa bahoditsweng.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniele"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniele"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "le mohau"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "שר",
+      "gloss": "moeteledipele"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "wa bahoditsweng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:30.580925997Z",
+  "model": "glm-5.3"
+}

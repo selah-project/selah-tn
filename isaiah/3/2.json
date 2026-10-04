@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Yo o nonneng le motho wa ntwa, moatlhodi le moporofeti, moitse-dika le mogolwane.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "yo o nonneng"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le motho"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa ntwa"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "moatlhodi"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "le moporofeti"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "moitse-dika"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "le mogolwane"
+    }
+  ],
+  "timestamp": "2026-10-04T03:11:56.776771465Z",
+  "model": "glm-5.3"
+}

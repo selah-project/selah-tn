@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Nako ya go latlhula maje, le nako ya go kgobokanya maje; nako ya go agana, le nako ya go ba kgakala le go agana.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "go latlhula"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "maje"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le nako"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "go kgobokanya"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "maje"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "go agana"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le nako"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "go ba kgakala"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "le go agana"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:48.220933864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme lo tlaa jala ⟨את⟩ ngwaga wa borobedi, mme lo ja mo sepegong sa kgale go fitlha ka ngwaga wa borongwe; go fitlha sepego sa sone se tsena, lo tlaa ja sa kgale.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "lo tlaa jala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwaga wa borobedi"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "wa borobedi"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "mme lo ja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "sepegong"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "sa kgale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ka ngwaga"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "wa borongwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sepego sa sone"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "lo tlaa ja"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "sa kgale"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:09.504496275Z",
+  "model": "glm-5.3"
+}

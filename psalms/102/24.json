@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "O ntsositse maikutlo mo tseleng, o kgama matsatsi a me.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "O ntsositse maikutlo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "maikutlo"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "o kgama"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:51.947071197Z",
+  "model": "glm-5.3"
+}

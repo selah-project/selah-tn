@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme a re kwa go ena: Bonwe, ke ne ke amogetse sefathego sa gago gape go nna le se, gore ke se seke ka fetola ⟨את⟩ toropo eo o e buileng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ena"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke amogetse"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefathego sa gago"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go nna le se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "gore ke se seke"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "ka fetola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "o e buileng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:57.243961458Z",
+  "model": "glm-5.3"
+}

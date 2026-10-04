@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme barui ba ne ba tla, ba ba tlhotlola; mme Moshe a tlhagafala, a ba boloka, a motsa ⟨את⟩ dipoo tsa bone.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba ne ba tla"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "barui"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "ba ba tlhotlola"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a tlhagafala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "a ba boloka"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "a motsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipoo tsa bone"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "dipoo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:48.058520748Z",
+  "model": "glm-5.3"
+}

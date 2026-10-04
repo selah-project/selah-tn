@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme matlho a lona a tla bona, mme lona lo tla re: Yahwe o tlhabolotse kafa godimo ga molelwane wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "mme matlho a lona"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "a tla bona"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "lo tla re"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "o tlhabolotse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kafa godimo ga"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:28.229353261Z",
+  "model": "glm-5.3"
+}

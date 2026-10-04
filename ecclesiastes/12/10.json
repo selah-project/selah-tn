@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Khoelethe o ne a batla go fitlhela mafoko a a itumedisang, mme a kwala ka botlhale mafoko a nnete.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "o ne a batla"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Khoelethe"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "go fitlhela"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a a itumedisang"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "mme a kwala"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ka botlhale"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "a nnete"
+    }
+  ],
+  "timestamp": "2026-10-04T03:23:42.052477379Z",
+  "model": "glm-5.3"
+}

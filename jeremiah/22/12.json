@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Gore mo lefelong leo ba neng ba mo isa botlhoko jwa gagwe koo, o tla swa; mme ⟨את⟩ lefatshe leno ga le kitla la se ka la bo la bona gape.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mo lefelong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "ba neng ba mo isa botlhoko jwa gagwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Shalume"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o tla swa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "lefatshe leno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "la bona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-04T00:15:31.068940339Z",
+  "model": "glm-5.3"
+}

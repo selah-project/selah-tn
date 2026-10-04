@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 140,
+  "translation": "Tlhogo ya ba ba nne dikologile, bosula jwa molomo wa bone bo ka ba phutha.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "ba ba nne dikologile"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "molomo wa bone"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "bo ka ba phutha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:33.708029488Z",
+  "model": "glm-5.3"
+}

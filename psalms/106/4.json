@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Nkatlolope Yahwe ka nako ya tumelo ya setshaba sa gago, nketele ka thokgamo ya gago.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Nkatlolope"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "ka nako ya tumelo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "nketele"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ka thokgamo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:59.086998581Z",
+  "model": "glm-5.3"
+}

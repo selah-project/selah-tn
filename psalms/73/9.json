@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 73,
+  "translation": "Ba beile molomo wa bone kwa magodimong, mme lone la bone lo tsamaya mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Ba beile"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "molomo wa bone"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "mme lone la bone"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "lo tsamaya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:39.266358039Z",
+  "model": "glm-5.3"
+}

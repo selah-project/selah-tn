@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Batlang Yahwe le matla a gagwe; batlang sefatlhego sa gagwe ka metlha.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "batlang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "le matla a gagwe"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "batlang"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefatlhego sa gagwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka metlha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:05.543574174Z",
+  "model": "glm-5.3"
+}

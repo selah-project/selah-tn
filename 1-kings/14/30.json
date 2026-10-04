@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme go ne go na le ntwa gareng ga Rekhabeame le gareng ga Yarabeame maloko otlhe.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Mme ntwa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "go ne go na le"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gareng ga"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeame"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le gareng ga"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabeame"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "maloko"
+    }
+  ],
+  "timestamp": "2026-10-03T23:27:14.905397421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Wena o laetse melao ya gago ya go e boloka ka botlalo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "o laetse"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "melao ya gago"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ya go e boloka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ka botlalo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:26.002068176Z",
+  "model": "glm-5.3"
+}

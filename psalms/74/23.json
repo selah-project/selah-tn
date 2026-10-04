@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Se e tloe ka tlhaloganyo lentswe la ba ba go loantsheng; tlhakatlhakano ya ba ba go tsuologelang e namela ka bosakhutlho.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "e tloe ka tlhaloganyo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "la ba ba go loantsheng"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "tlhakatlhakano"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "ya ba ba go tsuologelang"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "e namela"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:06.823116993Z",
+  "model": "glm-5.3"
+}

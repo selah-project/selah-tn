@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "O ne a dira lefifi lefelo la gagwe la sephiri, bophirima jwa gagwe bo ne bo le kgakala le ena; lefifi la metsi, maru a didirilweng tsa magodimo.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "o ne a dira"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "lefelo la gagwe la sephiri"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "bophirima jwa gagwe"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "bo ne bo le kgakala le ena"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "lefifi la"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "maru a didirilweng tsa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:20.243832905Z",
+  "model": "glm-5.3"
+}

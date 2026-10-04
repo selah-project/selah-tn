@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ke mang wa go itse? A ka boa Elohim a ina le boikuelo, a boele mo mogotleng wa sengalo sa gagwe, mme re se ka wa tima.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wa go itse"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "a ka boa"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "mme a ina le boikuelo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a boele"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "mo mogotleng wa sengalo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sa gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme re se ka"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "go tima"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:33.296513820Z",
+  "model": "glm-5.3"
+}

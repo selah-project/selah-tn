@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme e ke Torah ya minkha: bara ba Aharone ba tla eisa ⟨את⟩ e pele ga Yahwe, kwa pele ga aletare.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Mme e ke"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ya minkha"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ba tla eisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (minkha)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ba Aharone"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:27.543310807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Ka jalo, bonwe, ke tla ka ⟨את⟩ tsela ya gago ka maleka, mme ke tla aga ⟨את⟩ lebota la yone, mme ditsela tsa yone ga di tla bonwa.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka jalo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonwe, ke"
+    },
+    {
+      "surface": "שך",
+      "gloss": "ke tla ka (go thiba)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela ya gago"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya gago"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "ka maleka"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "mme ke tla aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebota la yone"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "lebota la yone"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "mme ditsela tsa yone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "di tla bonwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:13.567132064Z",
+  "model": "glm-5.3"
+}

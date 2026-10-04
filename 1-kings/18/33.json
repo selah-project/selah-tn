@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme a bea hantle ⟨את⟩ meruti, a kgaola ⟨את⟩ phologolo ya kgomo, a e beisa godimo ga meruti.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "a bea hantle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meruti"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "meruti"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "a kgaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phologolo ya kgomo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "phologolo ya kgomo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a e beisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "meruti"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:43.289044871Z",
+  "model": "glm-5.3"
+}

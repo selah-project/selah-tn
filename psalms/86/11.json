@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Ntsebisetse tsela ya gago, Yahwe; ke tla tsamaya ka boammaaruri jo bo sa ipolayeng fela jwa gago. Kopanya pelo ya me go tshaba leina la gago.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ntsebisetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya gago"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ke tla tsamaya"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ka boammaaruri jwa gago"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kopanya"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "go tshaba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:51.104419442Z",
+  "model": "glm-5.3"
+}

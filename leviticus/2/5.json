@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme fa minkha ya mpho ya gago e le ya mo potong, e tla nna slete e tlhakantshitsweng ka mafura, e se nang sedawa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "potong"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "mpho ya gago"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "slete"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "e tlhakantshitsweng"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "e se nang sedawa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla nna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:21.002153759Z",
+  "model": "glm-5.3"
+}

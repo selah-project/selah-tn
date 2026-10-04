@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mpholose go tswa mo diphuduego tsa me tsotlhe; se ka nntsha setshwantsho sa kgopolo e e sa siamang.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "go tswa mo ... tsotlhe"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "diphuduego tsa me"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "Mpholose"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "setshwantsho sa kgopolo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "e e sa siamang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "nntsha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:48.155030665Z",
+  "model": "glm-5.3"
+}

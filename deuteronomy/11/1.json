@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme o rate ⟨את⟩ Yahwe Elohim ya gago, mme o boloke tshireletso ya gagwe, le melawana ya gagwe, le ditshiamiso tsa gagwe, le melao ya gagwe, letsatsi le letsatsi.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Mme o rate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "mme o boloke"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "tshireletso ya gagwe"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "le melawana ya gagwe"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "le ditshiamiso tsa gagwe"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "le melao ya gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "letsatsi le letsatsi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "letsatsi le letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:06:52.643059667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Dingwaga di le lesome pedi ba ne ba direla ⟨את⟩ Kedarlaomere, mme ngwaga wa bolesome tharo ba tsuologa.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Dingwaga"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ba ne ba direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomere"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomere"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mme...tharo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga wa"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "ba tsuologa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:59.808818015Z",
+  "model": "glm-5.3"
+}

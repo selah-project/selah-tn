@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme ruakh ya Mitsrayime e tla fifala mo teng ga yona, mme puso ya yono ke tla e menya; mme ba tla batla mo medimong, le mo balaoding ba mafoko, le mo ba buisang le bafu, le mo baitse-sephiri.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "e tla fifala"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mo teng ga yona"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "mme puso ya yono"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ke tla e menya"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "mme ba tla batla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "medimong"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "balaoding ba mafoko"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ba buisang le bafu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "baitse-sephiri"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:39.179203242Z",
+  "model": "glm-5.3"
+}

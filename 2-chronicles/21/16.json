@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Yahwe a tsosa kgatlhanong le Yehorame ⟨את⟩ ruakh ya Bafilistia le ya Baarabea, ba ba metsing ga Bakushime.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "Mme… a tsosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya Bafilistia le ya Baarabea"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh ya"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Bafilistia"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "le ya Baarabea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "metsing ga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gaufi le"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Bakushime"
+    }
+  ],
+  "timestamp": "2026-10-04T02:53:10.085074148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Fa matheo a senywa, yo o siamang o ka se dira eng?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "matheo"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "a senywa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo o siamang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "o ka se dira"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:49.305763201Z",
+  "model": "glm-5.3"
+}

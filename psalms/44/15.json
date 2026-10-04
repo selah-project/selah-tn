@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "O re dira maano a tlhaole mo ditshabeng, go tuduhatsa tlhogo mo merafeng ya ditshaba.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "O re dira"
+    },
+    {
+      "surface": "משל",
+      "gloss": "maano a tlhaole"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "go tuduhatsa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "merafeng ya ditshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:36.136636491Z",
+  "model": "glm-5.3"
+}

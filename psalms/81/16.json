@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Ba ba mo tlhoyang ba Yahwe ba tla ikanela go yena, mme nako ya bone e tla nna ya kanamoko.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ba tla ikanela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme e tla nna"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "nako ya bone"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ya kanamoko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:48.484554700Z",
+  "model": "glm-5.3"
+}

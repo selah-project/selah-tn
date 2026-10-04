@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 99,
+  "translation": "Yahwe Elohim wa rona, wena o ne wa ba araba; El yo o ba pholositseng mo dikotlhaong o ne wa nna le bona, mme wa ba kganela ka merero ya bone.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "o ne wa ba araba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yo o ba pholositseng mo dikotlhaong"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o ne wa nna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "mme wa ba kganela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "merero ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:29.007566967Z",
+  "model": "glm-5.3"
+}

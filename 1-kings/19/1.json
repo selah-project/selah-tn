@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Akabe a bolelela Jezebele ⟨את⟩ tsotlhe tse Eliya a di dirileng, le ⟨את⟩ tsotlhe tse a bolaileng — ⟨את⟩ baporofeti botlhe ka tshaka.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a bolelela"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akabe"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "go Jezebele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsotlhe tse Eliya a di dirileng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di dirileng"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsotlhe tse a bolaileng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a bolaileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baporofeti botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "baporofeti"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    }
+  ],
+  "timestamp": "2026-10-03T23:31:01.258927282Z",
+  "model": "glm-5.3"
+}

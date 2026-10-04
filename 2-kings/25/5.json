@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme masole a Bakashde a latela kgosi, ba mo fithlela kwa mafatsheng a Yerikho; mme masole a gagwe a ne a phatlalala go tswa mo go ene.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "a latela"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "masole"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Bakashde"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kgosi (morago ga)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "ba mo fithlela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ena"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "kwa mafatsheng"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "a Yerikho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme masole onyana"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "a gagwe"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "a phatlalala"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "go tswa mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:12.429458902Z",
+  "model": "glm-5.3"
+}

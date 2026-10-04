@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "mme moperesiti a mo atamalisa ⟨את⟩, mme a mo emisa kwa pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "a mo atamalisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesiti"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "mme a mo emisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:05:33.939759528Z",
+  "model": "glm-5.3"
+}

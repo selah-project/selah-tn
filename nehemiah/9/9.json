@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme o bone ⟨את⟩ bokgole jwa bo-rra rona kwa Mitsrayime, mme ⟨את⟩ go lela ga bone o ne o utlile kwa lewatling la Sufe.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "o bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokgole"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bokgole"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bo-rra rona"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "go lela ga bone"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "go lela ga bone"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "o utlile"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatling"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "la Sufe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:32:47.377461891Z",
+  "model": "glm-5.3"
+}

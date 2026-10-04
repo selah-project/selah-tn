@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme wena o mo tlhoyang thuto, o ntsha mafoko a me morago ga gago.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "o mo tlhoyang"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "thuto"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "o ntsha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a me"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "morago ga gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:24.724584329Z",
+  "model": "glm-5.3"
+}

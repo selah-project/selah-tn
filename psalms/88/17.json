@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "Bosula jwa gago bo fedile ka nna; diterama tsa gago di nthibetse.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "bo fedile"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "bosula jwa gago"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "diterama tsa gago"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "di nthibetse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:55.739583414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Shamuele a bua le setshaba ⟨את⟩ katlholo ya bogosi, mme a e kwala mo bukeng, mme a e baya fa pele ga Yahwe; mme Shamuele a romola setshaba ⟨את⟩ sotlhe, mongwe le mongwe a ya kwa lapsing la gagwe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katlholo ya bogosi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ya bogosi"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "mme a kwala"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mo bukeng"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "mme a baya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mme a romola"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kwa lapsing la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:20.968063051Z",
+  "model": "glm-5.3"
+}

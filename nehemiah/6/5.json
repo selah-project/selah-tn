@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 6:5",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Sanbalate a romela molaetsa o o tshwanang le o o mo boraro, la bohlano, ⟨את⟩ motlhankara wa gagwe, mme a na le lengwalo le le bulegileng mo seatleng sa gagwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwà me"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanbalate"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jaaka molaetsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "o o"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "la"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "bobotharo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motlhankara wa gagwe"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "motlhankara wa gagwe"
+    },
+    {
+      "surface": "ואגרת",
+      "gloss": "mme lengwalo"
+    },
+    {
+      "surface": "פתוחה",
+      "gloss": "le le bulegileng"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo seatleng sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:31:28.373436511Z",
+  "model": "glm-5.3"
+}

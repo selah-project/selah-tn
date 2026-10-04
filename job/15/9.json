@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "O itse eng, mme re sa se itse? O a tlhaloganya eng, mme rona ga re na ⟨sona⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "O itse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme re sa"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "se itse"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "O a tlhaloganya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme rona ga re na"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨sona⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T01:57:36.815375306Z",
+  "model": "glm-5.3"
+}

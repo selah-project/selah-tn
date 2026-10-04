@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 146,
+  "translation": "Yahwe o boloka ⟨את⟩ bajaki, mosele le mokgwenyana o ba emaletsa; mme tsela ya ba ba bosula o a e bopaaka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bajaki"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bajaki"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "mosele"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "le mokgwenyana"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "o ba emaletsa"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mme tsela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya ba ba bosula"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "o a e bopaaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:36.365841557Z",
+  "model": "glm-5.3"
+}

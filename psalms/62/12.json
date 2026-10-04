@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Lefoko le le lengwe Elohim o buile; gabedi ke la teele; gore maatla ke a ga Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "le le lengwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "gabedi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke la teele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a ga Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:00.233019620Z",
+  "model": "glm-5.3"
+}

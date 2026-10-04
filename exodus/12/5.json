@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Kwanyana e e phepa, e e noulang, e e dingwaga di le nngwe, e tla nna ya lona; mo dipoo tsa kwanyana kgotsa mo dipoo tsa diphudi le tla e tsaya.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e e phepa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "e e noulang"
+    },
+    {
+      "surface": "בן",
+      "gloss": "e e dingwaga"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "di le nngwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "dipoo tsa kwanyana"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kgotsa mo"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "dipoo tsa diphudi"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "le tla e tsaya"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:27.937568873Z",
+  "model": "glm-5.3"
+}

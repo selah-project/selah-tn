@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "O ntshitse kgakala ba ba ntswaelang; o nthibile gore e nne sekgopha mo go bone; ke tswaletse, mme nna ga ke tseye sepe ke tswa.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "o ntshitse kgakala"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "ba ba ntswaelang"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "o nthibile"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "sekgopha"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ke tswaletse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ke tswa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:05.407879772Z",
+  "model": "glm-5.3"
+}

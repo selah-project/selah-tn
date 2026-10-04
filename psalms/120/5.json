@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 120,
+  "translation": "Oh! (woe) to me, for I sojourned in Meshek, I dwelt with the tents of Kedar.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "oh! (woe)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "I sojourned"
+    },
+    {
+      "surface": "משך",
+      "gloss": "in Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "I dwelt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "tents of"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:32.848795532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ntlolle mo molomong wa tau; mo ditlhakoreng tsa dipoo tsa tlhaga o ntse o ntshwareletse.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "ntlolle"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "mo molomong"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "wa tau"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "mo ditlhakoreng"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "tsa dipoo tsa tlhaga"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "o ntse o ntshwareletse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:32.710168046Z",
+  "model": "glm-5.3"
+}

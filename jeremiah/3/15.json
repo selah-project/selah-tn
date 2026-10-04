@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ke tlaa neela lona badisa ba tsamaelanang le pelo ya me, mme ba tlaa fusa ⟨את⟩ lona ka kitso le botlhale.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke tlaa neela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "badisa"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "jaaka pelo ya me"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "mme ba tlaa fusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ka kitso"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "le botlhale"
+    }
+  ],
+  "timestamp": "2026-10-04T00:09:58.651568400Z",
+  "model": "glm-5.3"
+}

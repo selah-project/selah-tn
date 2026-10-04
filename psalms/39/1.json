@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Go mokaedi, go Yedutune; moko wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go mokaedi"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "go Yedutune"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:15.059965138Z",
+  "model": "glm-5.3"
+}

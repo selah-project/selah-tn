@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 123,
+  "translation": "Go feteletswe go tlala ga moya wa rona ka go lekeletsa ga ba ba phatsimang, le kutlwaiso ya ba ba tlhomang tlhogo.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "go feteletswe"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "go tlala"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moya wa rona"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "ka go lekeletsa"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "ga ba ba phatsimang"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "le kutlwaiso"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ya ba ba tlhomang tlhogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:04.306448692Z",
+  "model": "glm-5.3"
+}

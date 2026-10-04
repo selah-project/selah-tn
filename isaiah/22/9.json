@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme diphuting tsa toropo ya Dawide ⟨את⟩ di le bone, gore di biletse; mme la kokoantsa ⟨את⟩ metsi a sepeng se se kwa tlase.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diphuting"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "diphuting"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "di le bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "di biletse"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "mme la kokoantsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "a sepeng"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "se se kwa tlase"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:57.249519332Z",
+  "model": "glm-5.3"
+}

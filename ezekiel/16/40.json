@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme ba tla goroga kgatlhanong le wena ka mokgatho wa batho, mme ba tla go tlhasela ka dinaire, mme ba tla go bolaya ka ditsaka tsa bone.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "mme ba tla goroga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kgatlhanong le wena"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ka mokgatho wa batho"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "mme ba tla go tlhasela ka dinaire"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ka dinaire"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "mme ba tla go bolaya"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "ka ditsaka tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:36:45.500862916Z",
+  "model": "glm-5.3"
+}

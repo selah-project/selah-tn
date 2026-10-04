@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 150,
+  "translation": "Bakang mo dikhureleng tsa modumo o mogolo, bakang mo dikhureleng tsa terua.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Bakang"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "mo dikhureleng"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tsa modumo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "bakang"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "mo dikhureleng"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "tsa terua"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:35.988005458Z",
+  "model": "glm-5.3"
+}

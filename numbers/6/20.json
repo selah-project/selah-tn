@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 6:20",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme mopristi o di rurumagatse e le sehlabelo sa go rurumagatsa pele ga Yahwe; ⟨⟨e⟩⟩ e boitshepo ke ya mopristi, mmogo le sehuba sa sehlabelo sa go rurumagatsa le sedidi sa teruma; mme morago ga moo Mnasara a ka nwa bebera.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "mme o di rurumagatse"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tseo (sedidi, dikuku)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopristi"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "sehlabelo sa go rurumagatsa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e boitshepo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ya mopristi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "sehuba"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "sa sehlabelo sa go rurumagatsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "sedidi"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "sa teruma"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme morago ga moo"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "a ka nwa"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "Mnasara"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bebera"
+    }
+  ],
+  "timestamp": "2026-10-03T22:05:46.045510909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme ba dira gore ⟨את⟩ bara ba bone le ⟨את⟩ barwedi ba bone ba fete ka molelo, ba dira dibupo tsa bone le go nagadiša—e seng go nagadiša, ba beeletsa go dira bosula mo matlhong a Yahwe, go mo galefela.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "ba dira go feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bara ba bone"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bara ba bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "barwedi ba bone"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "barwedi ba bone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "ba dira dibupo"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "dibupo"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "ba nagadiša"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "ba ithekela"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo matlhong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "go mo galefela"
+    }
+  ],
+  "timestamp": "2026-10-04T03:10:59.617085001Z",
+  "model": "glm-5.3"
+}

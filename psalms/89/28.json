@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Ee, nna ke mo neela maemo a motlhanka wa ntlha, a kwa godimo ga dikgosi tsa lefatshe.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "motlhanka wa ntlha"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ke mo neela maemo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "a kwa godimo"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ga dikgosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tsa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:10.799243947Z",
+  "model": "glm-5.3"
+}

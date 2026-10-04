@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 23:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme Abrahame a thetsela Efrone, mme Abrahame a bapisa go Efrone ⟨את⟩ selefera a e buile mo diteneng tsa bana ba Kete — dikobo di le nne tsa shekele tsa selefera, e e amogelelang go morogi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mme a thetsela"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efrone"
+    },
+    {
+      "surface": "וישקל",
+      "gloss": "mme a bapisa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "לעפרן",
+      "gloss": "go Efrone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selefera"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a e buile"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mo diteneng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kete"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "di le nne"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dikobo tsa"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekele"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tsa selefera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "e e amogelelang"
+    },
+    {
+      "surface": "לסחר",
+      "gloss": "go morogi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:19.540323397Z",
+  "model": "glm-5.3"
+}

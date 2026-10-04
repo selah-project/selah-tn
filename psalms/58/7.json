@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Elohim, senya ⟨את⟩ meno a bone mo molomong wa bone; o sege meno a a gagametseng a ditau tse dinnye, Yahwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "senya"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "meno a bone"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "mo molomong wa bone"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "meno a a gagametseng"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "a ditau tse dinnye"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "o sege"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:21.063293780Z",
+  "model": "glm-5.3"
+}

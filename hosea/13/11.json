@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Ke ne ke go neela kgosi ka makasike a me, mme ke e tseela ka bogale jwa me.",
+  "tokens": [
+    {
+      "surface": "אֶֽתֵּן",
+      "gloss": "ke ne ke go neela"
+    },
+    {
+      "surface": "לְךָ֥",
+      "gloss": "go"
+    },
+    {
+      "surface": "מֶ֨לֶךְ֙",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "בְּאַפִּ֔י",
+      "gloss": "ka makasike a me"
+    },
+    {
+      "surface": "וְאֶקַּ֖ח",
+      "gloss": "mme ke e tseela"
+    },
+    {
+      "surface": "בְּעֶבְרָתִֽי",
+      "gloss": "ka bogale jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:56.091861689Z",
+  "model": "glm-5.3"
+}

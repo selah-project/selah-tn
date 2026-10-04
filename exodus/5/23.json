@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Gonne go tloga nakong eo ke kile go tla go Farao go bua ka leina la gago, o dirile bosula jwa setšhaba se, mme go boloka ga gago o sa boloke ⟨את⟩ setšhaba sa gago.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "Gonne go tloga nakong eo"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ke kile go tla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ka leina la gago"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "o dirile bosula"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "jwa setšhaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "mme go boloka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "o sa boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba sa gago"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setšhaba sa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:10.000095920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Ba-Mitsrayime ba tla itse gore ke nna Yahwe, fa ke ntsha ⟨את⟩ letsogo la me lo go Mitsrayime, mme ke ntsha ⟨את⟩ bana ba Yisraele mo gare ga bone.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ba tla itse"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ba-Mitsrayime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "fa ke ntsha letsogo la me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsogo la me"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "letsogo la me"
+    },
+    {
+      "surface": "על",
+      "gloss": "lo go"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "mme ke tla ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "mo gare ga bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:03.666335597Z",
+  "model": "glm-5.3"
+}

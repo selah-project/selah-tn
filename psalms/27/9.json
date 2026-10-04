@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Se ka wa fitlhla sefatlhego sa gago mo go nna; se ka wa gakolola modiri wa gago ka bogale; o ne o le thuso ya me; se ka wa ntlogela, mme se ka wa ntlohlela, Elohim wa poloko ya me.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ka wa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "wa fitlhla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka wa"
+    },
+    {
+      "surface": "תט",
+      "gloss": "wa gakolola"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ka bogale"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "thuso ya me"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o ne o le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka wa"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "wa ntlogela"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme se ka wa"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "wa ntlohlela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "poloko ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:59.776715645Z",
+  "model": "glm-5.3"
+}

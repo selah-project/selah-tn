@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 10:36",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Le go isa ⟨את⟩ dipeo tsa ntlha tsa lefatshe la rona, le dipeo tsa ntlha tsa phulo ya setlhare sengwe le sengwe, ngwaga ka ngwaga, go ya ntlong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולהביא",
+      "gloss": "le go isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipeo tsa ntlha tsa lefatshe la rona"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "dipeo tsa ntlha"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "tsa lefatshe la rona"
+    },
+    {
+      "surface": "ובכורי",
+      "gloss": "le dipeo tsa ntlha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsa phulo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ya setlhare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka ngwaga"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ya ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:33:49.454204745Z",
+  "model": "glm-5.3"
+}

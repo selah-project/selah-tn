@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mo molomong wa sefolelo go na le setlha sa keletso ya bonnofo, mme molomo wa ba bo tlhale o ba sireletsa.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "mo molomong wa"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sefolelo"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "setlha"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "keletso ya bonnofo"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "mme molomo wa"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ba bo tlhale"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "o ba sireletsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:46:27.035333864Z",
+  "model": "glm-5.3"
+}

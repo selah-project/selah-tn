@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go ne go na le lentswe go tswa kwa godimo ga sekarapa se se neng se le mo ditlhageng tsa bone; fa ba ne ba emile, ba ne ba ntsha mafuka a bone.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go na le"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go tswa kwa godimo ga"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sekarapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng se le"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ditlhageng tsa bone"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "fa ba ne ba emile"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ba ne ba ntsha"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "mafuka a bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:31:44.992755710Z",
+  "model": "glm-5.3"
+}

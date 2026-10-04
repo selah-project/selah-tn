@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme a ise ⟨את⟩ sekyala sa gagwe go Yahwe, kwa sebakeng sa go tsena sa tenda ya kopano, e ntlha ya sekyala.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "a ise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekyala sa gagwe"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sekyala sa gagwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sebakeng sa go tsena"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "איל",
+      "gloss": "e ntlha"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ya sekyala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:31.866732680Z",
+  "model": "glm-5.3"
+}

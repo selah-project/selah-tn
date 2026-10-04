@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Mme ba tla bua maatla a dilo tsa gago tse di bolotlheng, mme bogolo jwa gago ke bo bala.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "mme maatla"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "a dilo tsa gago tse di bolotlheng"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla bua"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "mme bogolo jwa gago"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ke bo bala"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:52.294675437Z",
+  "model": "glm-5.3"
+}

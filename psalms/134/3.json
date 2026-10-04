@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 134,
+  "translation": "Yahwe a go segotse go tswa Tsiyone, Mmodiri wa magodimo le lefatshe.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "a go segotse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "go tswa Tsiyone"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Mmodiri"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wa magodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:48.827645483Z",
+  "model": "glm-5.3"
+}

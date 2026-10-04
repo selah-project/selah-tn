@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Botala bo omile, sepe se thothokile; mme lefoko la Elohim wa rona le tla ema go sa fele.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "bo omile"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "botala"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "se thothokile"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mme lefoko"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "la Elohim wa rona"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "le tla ema"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go sa fele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:17.184688776Z",
+  "model": "glm-5.3"
+}

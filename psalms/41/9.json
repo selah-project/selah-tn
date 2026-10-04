@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Lefoko la Beliyale le a tetswa mo go ene; mme yo o robetseng ga a ka ke a boela a tlhatloga.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyale"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "le a tetswa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mme yo o robetseng"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "o robetseng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "a ka ke a boela"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "a tlhatloga"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:49.825622570Z",
+  "model": "glm-5.3"
+}

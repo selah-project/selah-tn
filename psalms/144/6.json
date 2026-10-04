@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Tlhaba ka keletso ya gago e ba phatlalatse; romela mefo ya gago, e ba tlhakatlhakanye.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Tlhaba ka keletso"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "keletso"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "e ba phatlalatse"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "romela"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "mefo ya gago"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "e ba tlhakatlhakanye"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:57.415699819Z",
+  "model": "glm-5.3"
+}

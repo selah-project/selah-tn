@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Nkoe a begetse bana ba bararo: ⟨את⟩ Sheeme, ⟨את⟩ Khame, le ⟨את⟩ Yefete.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "a begetse"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nkoe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "bararo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheeme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheeme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khame"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yefete"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefete"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:39.361896481Z",
+  "model": "glm-5.3"
+}

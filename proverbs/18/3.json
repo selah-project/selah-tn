@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Fa mochi a tsena, go tsena gape nyatso, mme le tlhaole, go tlhapa.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "fa ... a tsena"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mochi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "nyatso"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "tlhaole"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "go tlhapa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:22:09.342895650Z",
+  "model": "glm-5.3"
+}

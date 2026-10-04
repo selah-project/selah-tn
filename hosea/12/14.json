@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ka moporofeti Yahwe o ne a tlisa ⟨את⟩ Yisraele a tswa mo Mitsrayime, mme ka moporofeti o ne a bolokwa.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "mme ka moporofeti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "o ne a tlisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "a tswa mo Mitsrayime"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "mme ka moporofeti"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "o ne a bolokwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:29.103159489Z",
+  "model": "glm-5.3"
+}

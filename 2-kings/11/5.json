@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "A ba laela go re: Se ke lefoko seo lo tlang go se dira: tharo ya lona, ba ba tsenang ka ⟨the⟩ Shabata, e nne ba ba sireletsang tshireletso ya ntlo ya kgosi.",
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "a ba laela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ke lefoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "lo tlang go se dira"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ba ba tsenang"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ka Shabata"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "e nne ba ba sireletsang"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tshireletso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:36:26.182929815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Go tswa kwa go Wena ⟨את⟩ tumo ya me e a tlhagelela; mo phuthegong e ntsi ke a tlatsa maikano a me pele ga ba ba tshabang Yena.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ Go tswa kwa go Wena",
+      "marks": "tumo ya me"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "tumo ya me"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mo phuthegong"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e ntsi"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "maikano a me"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ke a tlatsa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ba ba tshabang Yena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:12.987042563Z",
+  "model": "glm-5.3"
+}

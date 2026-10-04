@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Kwa ntlha ga foo mala a me a tlaa huma a tshwana le kinore ka ntlha ya Moabe, le sekaeng sa me ka ntlha ya Kire-Khereše.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa ntlha ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "foo"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mala a me"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "ka ntlha ya Moabe"
+    },
+    {
+      "surface": "ככנור",
+      "gloss": "a tshwana le kinore"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "a tlaa huma"
+    },
+    {
+      "surface": "וקרבי",
+      "gloss": "le sekaeng sa me"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "ka ntlha ya Kire-"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Khereše"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:24.610844567Z",
+  "model": "glm-5.3"
+}

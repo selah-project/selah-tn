@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme Yeshua a begeta ⟨את⟩ Yoyakime, mme Yoyakime a begeta ⟨את⟩ Elyashibe, mme Elyashibe ⟨את⟩ Yoyadae.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Mme Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakime"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakime"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "mme Yoyakime"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashibe"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashibe"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "mme Elyashibe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyadae"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyadae"
+    }
+  ],
+  "timestamp": "2026-10-04T03:25:02.974456867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 27:4",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Dipelelwane tsa gago di mo pelong ya mawatle; ba ba agileng ba phethile bontle bwa gago.",
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "mo pelong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mawatle"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "dipelelwane tsa gago"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ba ba agileng"
+    },
+    {
+      "surface": "כללו",
+      "gloss": "ba phethile"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "bontle bwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:43:18.898300072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "ka jalo ke ne ke re: jaanong Ba-Pelishte ba tlaa tlase go ntlhabela kwa Gilgala, mme sebopego sa Yahwe ga ke a se amogetse; ka jalo ka ikgapoletsa, ka neela sephidiso se se fisang.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ka ne ke re"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ba tlaa tlase"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelishte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go ntlhabela"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "kwa Gilgala"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "le sebopego sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ke a"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "se amogetse"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "ka ikgapoletsa"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "ka neela"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sephidiso se se fisang"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:40.865863871Z",
+  "model": "glm-5.3"
+}

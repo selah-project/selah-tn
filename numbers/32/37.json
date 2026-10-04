@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme bana ba Reubene ba aga ⟨את⟩ Khesbone le ⟨את⟩ Eleale le ⟨את⟩ Kiryathayime.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mme bana ba"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ba aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khesbone"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Khesbone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Eleale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Eleale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kiryathayime"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryathayime"
+    }
+  ],
+  "timestamp": "2026-10-03T22:17:20.579034464Z",
+  "model": "glm-5.3"
+}

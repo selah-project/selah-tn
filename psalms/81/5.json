@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Gore ke molao wa go tlhoma go Yisraele ⟨e⟩, ke katlholo ya Elohim wa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "חק",
+      "gloss": "molao wa go tlhoma"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke one"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:23.076020071Z",
+  "model": "glm-5.3"
+}

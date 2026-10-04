@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ke wa gago, ntolokele: gonne ke batile melao ya gago ya taolo.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ke wa gago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ntolokele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "melao ya gago ya taolo"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ke batile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:45.684000926Z",
+  "model": "glm-5.3"
+}

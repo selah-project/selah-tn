@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme tsedeke e tla nna ya rona, fa re tlhokomela go dira ⟨את⟩ taelo yotlhe kwa pele ga Yahwe Elohim wa rona, jaaka a re laetse.",
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "mme tsedeke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ya rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "re tlhokomela"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "a re laetse"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:20.801179048Z",
+  "model": "glm-5.3"
+}

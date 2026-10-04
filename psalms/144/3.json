@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 144,
+  "translation": "Yahwe, ke eng motho, gore o mo itse; morwa wa motho, gore o mo akanya?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "gore o mo itse"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "gore o mo akanya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:13.223978495Z",
+  "model": "glm-5.3"
+}

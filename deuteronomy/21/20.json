@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ba re kwa bagolong ba motse wa gagwe: Morwa wa rona yo, yo o tlholang le yo o ganang, ga a reetse lentswe la rona; ke molwela dijo le mojalwa.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolong"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ba motse wa gagwe"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "morwa wa rona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "yo o tlholang"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "le yo o ganang"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a reetse"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "lentswe la rona"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "molwela dijo"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "le mojalwa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:28:29.180833286Z",
+  "model": "glm-5.3"
+}

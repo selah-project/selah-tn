@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "⟨את⟩ Tente ya kopano, le ⟨את⟩ areka ya bopaki, le ⟨את⟩ sebethego se se mo go yona, le ⟨את⟩ dituluswa tsotlhe tsa tlente;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tente ya kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "areka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "areka"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "ya bopaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sebethego"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sebethego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dituluswa tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dituluswa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tsa tlente"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:14.042532509Z",
+  "model": "glm-5.3"
+}

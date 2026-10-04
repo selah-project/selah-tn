@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ba bantsi ba tla kgwaragana mo go tsone, ba wa, ba thuntsha, ba tswalelwa mo maraleng, ba tsewa.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "Mme ba tla kgwaragana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bantsi"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ba wa"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ba thuntsha"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "ba tswalelwa mo maraleng"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "ba tsewa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:31.115631671Z",
+  "model": "glm-5.3"
+}

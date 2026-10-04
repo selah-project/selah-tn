@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Ka gonne o tla bona ⟨את⟩ lefatshe go tswa kgakala, mme o se ka wa tsena mo lefatsheng leo ke neng ke lo fa bareng ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gonne"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "go tswa kgakala"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o tla bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "mme o se ka wa tsena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wa tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "neng ke lo fa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bareng ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:33:53.157952214Z",
+  "model": "glm-5.3"
+}

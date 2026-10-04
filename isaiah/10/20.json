@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 10:20",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme go tla nna ka letsatsi leo, masalela a Yisraele le a ba ba falotseng mo baneng ba Yaakobo a ka se tswelele go ikanya mo go o o ba otlang, mme a ikanya mo go Yahwe, Yo o Boitshepo wa Yisraele, ka boammauri.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme go tla nna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "tswelele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "go ikanya"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "masalela a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ופליטת",
+      "gloss": "le a ba ba falotseng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo baneng ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "להשען",
+      "gloss": "go ikanya mo go"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "o o ba otlang"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "mme a ikanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Yo o Boitshepo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ka boammauri"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:11.650438843Z",
+  "model": "glm-5.3"
+}

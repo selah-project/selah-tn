@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme a e phutha ka gauta e e phatswa, mme a direla yone sekhurumelo sa gauta go dikologa.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "a phutha ka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yone"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e phatswa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a direla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yone"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sekhurumelo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:53.016845914Z",
+  "model": "glm-5.3"
+}

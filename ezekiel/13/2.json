@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 13:2",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Morwa wa motho, porofeta kgatlhanong le baporofeti ba Yisraele ba ba porofetang, mme o re go ba ba porofetang ka pelo ya bone: Reetseng lefoko la Yahwe.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "porofeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "baporofeti ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ba ba porofetang"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "mme o re"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "go baporofeti ba"
+    },
+    {
+      "surface": "מלבם",
+      "gloss": "ka pelo ya bone"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Reetseng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:35:29.087309679Z",
+  "model": "glm-5.3"
+}

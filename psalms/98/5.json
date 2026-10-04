@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 98,
+  "translation": "Tshamekang ka kginore go Yahwe, ka kginore le ka lentswe la pina.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Tshamekang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kginore"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kginore"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "le ka lentswe"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "la pina"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:11.721073124Z",
+  "model": "glm-5.3"
+}

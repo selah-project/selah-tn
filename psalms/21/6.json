@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Kgolo ke tlotla ya gagwe mo thusong ya gago; aodi le kgalalelo o di beile mo go ene.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "kgolo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "tlotla ya gagwe"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "mo thusong ya gago"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "aodi"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "le kgalalelo"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "o di beile"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:04.725618821Z",
+  "model": "glm-5.3"
+}

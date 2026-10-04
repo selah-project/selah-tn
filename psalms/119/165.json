@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Kagiso e ntsi e na le ba ba ratang Toraha ya gago, mme ga go na sepe se se ba gogang kwa tlase.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e ntsi"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ba ba ratang"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toraha ya gago"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go na"
+    },
+    {
+      "surface": "למו",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "sepe se se gogang kwa tlase"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:14.587716346Z",
+  "model": "glm-5.3"
+}

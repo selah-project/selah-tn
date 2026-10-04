@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme ke ne ke re go wena: Romola ⟨את⟩ morwa wa me gore a ntlhokomele; mme o gana go mo romola — bonwe, nna ke bolaya ⟨את⟩ morwa wa gago, wa ntlhano.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mme ke ne ke re"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Romola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa wa me"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "gore a ntlhokomele"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "mme o gana"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "go mo romola"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ke bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa gago"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "wa ntlhano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:01.673970525Z",
+  "model": "glm-5.3"
+}

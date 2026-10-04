@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "Gore dikete tsa dingwaga mo mahitleng a gago ke jaaka maabane, fa a feta, le jaaka tsela ya bosepele mo bosigong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mo mahitleng a gago"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jaaka letsatsi"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "la maabane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "le tsela ya bosepele"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "mo bosigong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:09.838324666Z",
+  "model": "glm-5.3"
+}

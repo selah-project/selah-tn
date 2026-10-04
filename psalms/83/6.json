@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "Gore ba ile ba bala pelo mmogo; kgatlhanong le wena ba kgadile kgolagano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ba ile ba bala"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kgatlhanong le wena"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ba kgadile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:08.678445715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Mme o tla tla, a tlhotlha ⟨את⟩ lefatshe la Mitsrayime; ba ba lekantsweng loso — go loso, go loso; ba ba lekantsweng go tshwarwa — go go tshwarwa, go go tshwarwa; ba ba lekantsweng tshaka — go tshaka, go tshaka",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "mme o tla tla"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "a tlhotlha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Mitsrayime"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba lekantsweng"
+    },
+    {
+      "surface": "למות",
+      "gloss": "loso"
+    },
+    {
+      "surface": "למות",
+      "gloss": "go loso"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ba ba lekantsweng"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "go tshwarwa"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "go go tshwarwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ba ba lekantsweng"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "go tshaka"
+    }
+  ],
+  "timestamp": "2026-10-04T00:26:35.047956810Z",
+  "model": "glm-5.3"
+}

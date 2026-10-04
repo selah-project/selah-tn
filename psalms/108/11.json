@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 108,
+  "translation": "Mang o tla nisa me go tsena motse o o nonofileng? Mang o tla kaela me go fitlha go Edome?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Mang"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "o tla nisa me"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "o o nonofileng"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Mang"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "o tla kaela me"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:49.169842721Z",
+  "model": "glm-5.3"
+}

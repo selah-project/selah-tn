@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Jaaka lerole le a logololwa, bja logololwa; jaaka donake le a imolwa ke molelo, ba ba boboki ba timale kwa pele ga Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "jaaka go logololwa"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "mose"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "bja logololwa"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "jaaka go imolwa"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "donake"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba timale"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba boboki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:45.244990447Z",
+  "model": "glm-5.3"
+}

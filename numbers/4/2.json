@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ntsha ⟨את⟩ palo ya bana ba Kehate, mo gare ga bana ba Lewi, go ya ka malapa a bone, go ya ka malapa a borra bone:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Ntsha palo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palo ya bana ba Kehate"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "palo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehate"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya ka malapa a bone"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ya ka malapa a"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "borra bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:56.198448842Z",
+  "model": "glm-5.3"
+}

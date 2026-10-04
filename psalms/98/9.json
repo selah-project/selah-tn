@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 98,
+  "translation": "Pele ga Yahwe, ka gonne o ntse a tla go katlhola lefatshe; o tla katlhola ⟨את⟩ lefatshe-lotlhe ka tsedeke, le ditshaba ka tshiamiso.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o ntse a tla"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "go katlhola"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o tla katlhola"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨את⟩ lefatshe-lotlhe"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "le ditshaba"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ka tshiamiso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:42.674163915Z",
+  "model": "glm-5.3"
+}

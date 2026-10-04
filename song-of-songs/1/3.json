@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ka seela sa mafura a gago — a a siameng; leina la gago ke mafura a a nouleng; ka jalo bakgarebe ba a go rata.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "ka seela sa"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "mafura a gago"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "a a siameng"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "a a nouleng"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "bakgarebe"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "ba a go rata"
+    }
+  ],
+  "timestamp": "2026-10-04T02:06:15.429757508Z",
+  "model": "glm-5.3"
+}

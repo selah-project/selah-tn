@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Foo ba tlaa lla, mme a o ka a araba, ka ntlha ya khumo ya maikutlo a ba ba boleng.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "ba tlaa lla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga... a"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "araba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "khumo ya maikutlo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "a ba ba boleng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:03:28.338843323Z",
+  "model": "glm-5.3"
+}

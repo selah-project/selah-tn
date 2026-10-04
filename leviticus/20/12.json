@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme motho yo o robang le ⟨את⟩ mosadi wa morwawe — ba babedi ba bolawe ka tlhamalalo; tlhakatlhakano ba e dirile; madi a bone a mo go bone.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "o robang le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa morwawe"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "mosadi wa morwawe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ba bolawe"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ka tlhamalalo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tlhakatlhakano"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba e dirile"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "madi a bone"
+    },
+    {
+      "surface": "בם",
+      "gloss": "a mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:05.801555660Z",
+  "model": "glm-5.3"
+}

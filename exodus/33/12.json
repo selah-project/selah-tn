@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme Moshe a re go Yahwe: Boni, wena o re go nna, Tsenya ⟨את⟩ batho ba ba kwa godimo, mme wena ga o a mpontsha ⟨את⟩ yo o tla mo romang le nna; mme wena o rile, Ke a go itse ka leina, gape o fumetse kganyafo kwa mahetleng a me.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Boni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "העל",
+      "gloss": "Tsenya kwa godimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "o a mpontsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo o tla mo romang le nna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "o tla mo romang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "o rile"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "Ke a go itse"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "o fumetse"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kganyafo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kwa mahetleng a me"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:48.415612726Z",
+  "model": "glm-5.3"
+}

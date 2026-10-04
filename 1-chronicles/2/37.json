@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme Zabade a belega ⟨את⟩ Efepale, mme Efepale a belega ⟨את⟩ Obede.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Mme Zabade"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efepale"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efepale"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "mme Efepale"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obede"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obede"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:54.119155625Z",
+  "model": "glm-5.3"
+}

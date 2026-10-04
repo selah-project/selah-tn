@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Shete a tshela, morago ga go belega ⟨את⟩ Enoshe, dingwaga tse supa le makgolo a robedi; mme a belega bana ba basha le banngwana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a tshela"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shete"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "go belega ga gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoshe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tse supa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "le robedi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana ba basha"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "banngwana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:09.796855789Z",
+  "model": "glm-5.3"
+}

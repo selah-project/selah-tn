@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme se se ne se le bosula mo matlhong a Elohim, ka ntlha ya se se; mme o ne a itaya ⟨את⟩ Yisraele.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "se se ne se le bosula"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo matlhong a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mme o ne a itaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T02:41:45.732252182Z",
+  "model": "glm-5.3"
+}

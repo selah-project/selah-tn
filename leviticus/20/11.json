@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme motho yo o robang le ⟨את⟩ mosadi wa rraagwe — sefsa sa rraagwe se a se senotse — ba babedi ba bolawe ka tlhamalalo; madi a bone a mo go bone.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "o robang le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa rraagwe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa rraagwe"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "sefsa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa rraagwe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "se a se senotse"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ba bolawe"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ka tlhamalalo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "madi a bone"
+    },
+    {
+      "surface": "בם",
+      "gloss": "a mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:05.801389704Z",
+  "model": "glm-5.3"
+}

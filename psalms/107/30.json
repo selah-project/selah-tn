@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Mme ba itumelela gonne se se didimalletse, mme a ba isa kwa boemakebong jwa boikaelelo jwa bone.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Mme ba itumelela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "se se didimalletse"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "mme a ba isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "boemakebong"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "jwa boikaelelo jwa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:33.570896157Z",
+  "model": "glm-5.3"
+}

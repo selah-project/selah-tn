@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "Ba tlatile madi a bone jaaka metsi mabapi le Yerushalayime, mme ga go na yo o bolayang.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "ba tlatile"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "madi a bone"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jaaka metsi"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "mabapi le"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go na"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "yo o bolayang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:37.354143620Z",
+  "model": "glm-5.3"
+}

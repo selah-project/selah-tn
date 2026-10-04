@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "O tlhatloganya maru go tswa kwa mafelelong a lefatshe, o dira dimpoporwana tsa pula, o ntsha ruakh go tswa mo ditseleng tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "o tlhatloganya"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "go tswa kwa mafelelong a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "dimpoporwana"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "tsa pula"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dira"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "o ntsha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "go tswa mo ditseleng tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:45.899403489Z",
+  "model": "glm-5.3"
+}

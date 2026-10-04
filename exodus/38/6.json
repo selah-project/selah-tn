@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme a dira ⟨את⟩ dikhukhu ka dikgong tsa setlhare sa shitime, mme a di khupanya ka selefera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikhukhu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dikhukhu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dikgong"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ta shitime"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "a di khupanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dikhukhu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ka selefera"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:45.838263586Z",
+  "model": "glm-5.3"
+}

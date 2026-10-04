@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Pelo ya yo o hlalefetseng e mo letlhakoreng la gagwe la moja, mme pelo ya sefoolana e mo letlhakoreng la gagwe la molema.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "pelo ya"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yo o hlalefetseng"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "mo letlhakoreng la gagwe la moja"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "mme pelo ya"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sefoolana"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "mo letlhakoreng la gagwe la molema"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:42.315838259Z",
+  "model": "glm-5.3"
+}

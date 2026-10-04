@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 140,
+  "translation": "Ntshireletse, Yahwe, mo diatleng tsa yo o bobe; mo go motho wa dikgoka o nthekanye; yo ba rulagantseng go ntshintsha dikgato tsa me.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ntshireletse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mo diatleng tsa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo o bobe"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mo go motho"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "wa dikgoka"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "o nthekanye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ba rulagantseng"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "go ntshintsha"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "dikgato tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:24.045302316Z",
+  "model": "glm-5.3"
+}

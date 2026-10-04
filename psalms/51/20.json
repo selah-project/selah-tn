@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 51,
+  "translation": "Dira botse ka thato ya gago go ⟨את⟩ Tsiyone; o age dikhureu tsa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Dira botse"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ka thato ya gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyone"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "o age"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "dikhureu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:11.589979585Z",
+  "model": "glm-5.3"
+}

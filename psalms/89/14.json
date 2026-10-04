@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Go wena ke letlhago le maatla; seatla sa gago se nonofile, letlhagorwalo la gago le ko godimo.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "letlhago"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "se nonofile"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "le ko godimo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letlhagorwalo la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:47.248756403Z",
+  "model": "glm-5.3"
+}

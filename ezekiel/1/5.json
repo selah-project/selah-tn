@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 1:5",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go tswa mo teng ga yona go ne go na le setshwano sa diphoofolo di le nne tsa botshelo, mme se ke sebonalo sa tsone: setshwano sa motho se na le tsone.",
+  "tokens": [
+    {
+      "surface": "ומתוכה",
+      "gloss": "mme go tswa mo teng ga yona"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "setshwano"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "di le nne"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "diphoofolo tsa botshelo"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "mme se ke"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "sebonalo sa tsone"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "setshwano"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa motho"
+    },
+    {
+      "surface": "להנה",
+      "gloss": "se na le tsone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:30:01.006916360Z",
+  "model": "glm-5.3"
+}

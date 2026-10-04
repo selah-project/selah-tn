@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Kgapang ⟨את⟩ letlalo la kalo ya dipelo tsa lona, mme megogo ya lona e seke ya thatafala gape.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Kgapang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letlako la kalo ya dipelo tsa lona"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "letlalo la kalo"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "dipelo tsa lona"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "mme megogo ya lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e seke"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ya thatafala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:22.782900666Z",
+  "model": "glm-5.3"
+}

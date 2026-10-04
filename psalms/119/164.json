@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ka makgetho a supa ka letsatsi ke a go leboga, ka ntlha ya dikahlolo tsa tsedeko ya gago.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "ka makgetho a supa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "ke a go leboga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedeko ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:59.061389398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 37:7",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Go bua jalo Yahwe, Elohim wa Yisraele: Jaana lo tla re go kgosi ya Yuda, e leng ⟨את⟩ lona yo a lo romileng go nna go mpotsha: Bonang, sesole sa Faro se se tlolang go lo thusa, se tla boa go ya lefatsheng la sone, mo Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "go bua jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jaana"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "lo tla re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "yo a lo romileng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "go nna go mpotsha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לדרשני",
+      "gloss": "go mpotsha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sesole sa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "se se tlolang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "go lo thusa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se tla boa"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "go ya lefatsheng la sone"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mo Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-04T00:23:29.669019737Z",
+  "model": "glm-5.3"
+}

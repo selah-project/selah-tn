@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Go tswa mo lefatsheng leo a ya Ashure, mme a aga ⟨את⟩ Nineve, le ⟨את⟩ Rekhobot-Ir, le ⟨את⟩ Kalakh.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mme a aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rekhobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rekhobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kalakh"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:18.904208197Z",
+  "model": "glm-5.3"
+}

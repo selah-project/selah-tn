@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Opelang mo go ene, diragatsang mo go ene; tlotlang ka makgethwa a gagwe otlhe.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "opelang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "diragatsang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "tlotlang"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... otlhe"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "makgethwa a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:05.543208875Z",
+  "model": "glm-5.3"
+}

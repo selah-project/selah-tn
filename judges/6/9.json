@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme ka lo golola mo seatleng sa Mitsrayime, le mo seatleng sa botlhe ba ba lo tlhobileng, mme ka ba gasakasa ko pele ga lona, mme ka go neela lona ⟨את⟩ lefatshe la bone.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "mme ka lo golola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayime"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "le mo seatleng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa botlhe"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "ba ba lo tlhobileng"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "mme ka ba gasakasa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ko pele ga lona"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ko pele ga lona"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mme ka neela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la bone"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lefatshe la bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:47:07.104954315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Senkgwe seno sa rona se ne se bothitho re se tsere ⟨את⟩ sone jaaka dikotla malatsing a a neng a le kwa malapeng a rona, ka letsatsi la go tsamaya ga rona go tla go lona; mme jale, bonang, se omile, mme se thunthuntshitswe.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Senkgwe seno"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "sa rona"
+    },
+    {
+      "surface": "חם",
+      "gloss": "se ne se bothitho"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "re se tsere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sone",
+      "marks": "senkgwe seno sa rona"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "kwa malapeng a rona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "go tsamaya ga rona"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go tla"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mme jale"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "se omile"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme se"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "se thunthuntshitswe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:37:21.531973589Z",
+  "model": "glm-5.3"
+}

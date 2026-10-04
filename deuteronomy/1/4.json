@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Morago ga go beta ⟨את⟩ Sihone, kgoshi ya Baemore, yo o neng a nna kwa Kheshbone, le ⟨את⟩ Oge, kgoshi ya Bashane, yo o neng a nna kwa Ashatarote kwa Edrei,",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Morago ga"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "go beta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihone"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoshi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya Baemore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "a neng a nna"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "kwa Kheshbone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Oge"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oge"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoshi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ya Bashane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "a neng a nna"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "kwa Ashatarote"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "kwa Edrei"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:56.194837815Z",
+  "model": "glm-5.3"
+}

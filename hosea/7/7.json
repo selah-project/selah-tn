@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Botlhe ba tukela jaaka sesepa, mme ba ja ⟨את⟩ baatlhodi ba bone; dikgosi tsotlhe tsa bone di ne tsewa, ga go na ope mo go bone a begang go nna.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "ba tukela"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "jaaka sesepa"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mme ba ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baatlhodi ba bone"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "baatlhodi ba bone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dikgosi tsa bone"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "di ne tsewa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a begang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T03:17:09.641048676Z",
+  "model": "glm-5.3"
+}

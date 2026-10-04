@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 122,
+  "translation": "Dinao tsa rona di ne di emile mo dikgorong tsa gago, Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "di emile"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di ne di"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Dinao tsa rona"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "mo dikgorong tsa gago"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:17.464329398Z",
+  "model": "glm-5.3"
+}

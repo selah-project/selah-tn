@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme a fapogela mo go bone, a lela; mme a boela kwa go bone, a bua le bone; mme a tsea mo go bone ⟨את⟩ Shimeone, a mo goga a mo tlama fa pele ga matlho a bone.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "a fapogela"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "a lela"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa go bone"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tsea"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "mo go bone ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimeone"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeone"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "a tlama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo go Shimeone"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "fa pele ga matlho a bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:58.598656838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Ke tla boga Yahwe ka pelo ya me yotlhe; ke tla bua boitse JOtlhe jwa gago.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ke tla boga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... yotlhe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ke tla bua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dilo tsa gago tse dikgakgamatsang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:29.416837530Z",
+  "model": "glm-5.3"
+}

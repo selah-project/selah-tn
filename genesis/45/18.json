@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mme tsayang ⟨את⟩ rraago lona le ⟨את⟩ malapa a lona, mme tlang go nna; mme ke tla go neela ⟨את⟩ se se siameng sa lefatshe la Mitsrayime, mme lo je ⟨את⟩ mafura a lefatshe.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "mme tsayang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rraago lona"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "rraago lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "malapa a lona"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "malapa a lona"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mme tlang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ke tla go neela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se siameng sa lefatshe la Mitsrayime"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mme lo je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura a lefatshe"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:31:23.092811793Z",
+  "model": "glm-5.3"
+}

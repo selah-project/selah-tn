@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Yehoshua a laela ⟨את⟩ bakgethwa, a re: Tshang go tswa mo Yoredeneng.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakgethwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakgethwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Tshang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "mo Yoredeneng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:35:13.409776446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "A ba nyelele jaaka metsi, a ba tsamaye teng; fa a thapisa mosele, a ba le mo kgakgelong jaaka ba ba segilweng.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "a ba nyelele"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "a ba tsamaye teng"
+    },
+    {
+      "surface": "למו",
+      "gloss": "teng"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "fa a thapisa"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "mosele"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "ba ba segilweng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:21.063422648Z",
+  "model": "glm-5.3"
+}

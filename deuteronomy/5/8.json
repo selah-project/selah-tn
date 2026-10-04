@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "O se ka wa dira sebopego sa mmetlesi, sebopego sa sengwe le sengwe se se kwa magodimong kwa godimo, le se se kwa lefatsheng kwa tlase, le se se kwa metsing kwa tlase ga lefatshe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gago"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sebopego sa mmetlesi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "sebopego sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le se se"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatsheng"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kwa tlase"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le se se"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kwa metsing"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kwa tlase ga"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:33.277490638Z",
+  "model": "glm-5.3"
+}

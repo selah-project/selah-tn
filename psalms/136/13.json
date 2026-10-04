@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Go ya go yo o segang lewatle la Sufe go nna dikarolo, gonne ka bosikhale hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "go ya go yo o segang"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "la Sufe"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "go nna dikarolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka bosikhale"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:18.919941649Z",
+  "model": "glm-5.3"
+}

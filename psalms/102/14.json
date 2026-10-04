@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Wena o tlaa simolola, o tlhopolotse Tsiyone, gonne ke nako ya go mo showa mohau, gonne nakotlhomo e setse e tsile.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "o tlaa simolola"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "o tlhopolotse"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ya go mo showa mohau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e tsile"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nakotlhomo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:01.044305464Z",
+  "model": "glm-5.3"
+}

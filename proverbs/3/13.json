@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Boitumelo bo kwa go motho yo o bonang bohlale, le motho yo o tlisang tlhaloganyo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "boitumelo bo kwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "yo o bonang"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "le motho"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "yo o tlisang"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "tlhaloganyo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:25.781769774Z",
+  "model": "glm-5.3"
+}

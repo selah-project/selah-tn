@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Gonne hesede ya gago e fa pele ga matlho a me, mme ke ne ke tsamaya ka boammaaruri ja gago.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "mme ke ne ke tsamaya"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ka boammaaruri ja gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:31.193438685Z",
+  "model": "glm-5.3"
+}

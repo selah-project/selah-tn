@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 10:29",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Fela dibe tsa Yarobeamo morwa Nebate, tse a neng a dira gore ⟨את⟩ Yisraele a di dire, Yehue ga a a siama go tswa mo go tsone — ditokana tsa gauta tse di neng di le kwa Bethele le tse di neng di le kwa Dane.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "a dira gore a di dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "סר",
+      "gloss": "a siama go tswa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehue"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "עגלי",
+      "gloss": "ditokana"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(karolo ya Bethele)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le tse"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "kwa Dane"
+    }
+  ],
+  "timestamp": "2026-10-03T23:36:06.822644365Z",
+  "model": "glm-5.3"
+}

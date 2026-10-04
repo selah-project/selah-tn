@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go simolola kgosi e ntšhwa go busa Mitsrayime, e e neng e sa itse ⟨את⟩ Yosefe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Mme go simolola"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e ntšhwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "go busa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e neng e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:32:26.568781491Z",
+  "model": "glm-5.3"
+}

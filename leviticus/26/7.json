@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme lo tla tlhasela ⟨את⟩ ba ba neng ba le kgatlhanong le lona, mme ba tla wa pele ga lona ka tshaka.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "Mme lo tla tlhasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba neng ba le kgatlhanong le lona"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ba ba neng ba le kgatlhanong le lona"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "mme ba tla wa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ka tshaka"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:07.912522558Z",
+  "model": "glm-5.3"
+}

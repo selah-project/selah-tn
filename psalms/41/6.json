@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Ba ba mo tlhoyang ba tla re ka bosula kgatsha me, ba re: O tla swa neng, le leina la gagwe le ntle le phiroge?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla re"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ka bosula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kgatsha me"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "O tla swa neng"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o swa"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "le ... le phiroge"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:06.522973461Z",
+  "model": "glm-5.3"
+}

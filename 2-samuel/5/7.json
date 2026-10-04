@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme Dawide a tsaya ⟨את⟩ teti ya Tsiyone; e ka tswa e le toropo ya Dawide.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teti ya Tsiyone"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "teti"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsiyone"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e ka tswa e le"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T23:10:17.348284621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "a ga ke na go dira go Yerushalayime le go ditshwantsho tsa yona jaaka ke ileng ka dira go Shomeron le go medimo ya yona ya maaka?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a ga ke na"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka ke ileng"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ka dira"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "go Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "le go medimo ya yona ya maaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jaana"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "go Yerushalayime"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "le go ditshwantsho tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:02.186865271Z",
+  "model": "glm-5.3"
+}

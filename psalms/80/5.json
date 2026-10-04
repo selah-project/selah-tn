@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "Yahwe Elohim Tsebaote, go fitlha ka nako efe? O galefetse thapelo ya batho ba gago.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ka nako efe"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "O galefetse"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "thapelo ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "batho ba gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:20.968721209Z",
+  "model": "glm-5.3"
+}

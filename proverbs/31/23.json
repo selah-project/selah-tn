@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Monna wa gagwe a itsege kwa dikgorong, fa a rapama le bagolo ba lefatshe.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "a itsege"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "kwa dikgorong"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "monna wa gagwe"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "fa a rapama"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:29.978331838Z",
+  "model": "glm-5.3"
+}

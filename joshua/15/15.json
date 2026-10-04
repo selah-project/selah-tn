@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme a tlhatloga koo go ya go baagi ba Debire; mme leina la Debire kwa tshimologong e ne e le Kiriyate-Sefera.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a tlhatloga"
+    },
+    {
+      "surface": "משם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baagi ba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme leina la"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kwa tshimologong"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriyate-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefera"
+    }
+  ],
+  "timestamp": "2026-10-03T22:41:19.726136475Z",
+  "model": "glm-5.3"
+}

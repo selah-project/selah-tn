@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Lona peo ya Abrahame, modiri wa gagwe; bana ba Yaakobo, ba ba tlhophilweng ba gagwe.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "modiri wa gagwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ba ba tlhophilweng ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:27.175537227Z",
+  "model": "glm-5.3"
+}

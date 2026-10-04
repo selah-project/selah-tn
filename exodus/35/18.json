@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "⟨את⟩ dietsele tsa Mishkane le ⟨את⟩ dietsele tsa kgotlha, le ⟨את⟩ dikgolokwe tsa tsone.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dietsele tsa Mishkane"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "dietsele"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tsa Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dietsele tsa kgotlha"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "dietsele"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tsa kgotlha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgolokwe tsa tsone"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "dikgolokwe tsa tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:43.489240559Z",
+  "model": "glm-5.3"
+}

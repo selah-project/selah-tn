@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme kgosi ya Ashure ya fudusa ⟨את⟩ Yisraele kwa Ashure, ya ba baya kwa Halakhe le kwa Habore, kwa nokeng ya Gozane, le kwa ditoropong tsa Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ya fudusa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ya Ashure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "kwa Ashure"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ya ba baya"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "kwa Halakhe"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "le kwa Habore"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "kwa nokeng"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "ya Gozane"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "le kwa ditoropong"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "tsa Madai"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:19.015865941Z",
+  "model": "glm-5.3"
+}

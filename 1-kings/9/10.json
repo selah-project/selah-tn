@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme go fela dingwaga di le masome a mabedi tse Shelomoh a neng a aga ⟨את⟩ diwetse tse pedi ka tsone — ⟨את⟩ ntlo ya Yahwe le ⟨את⟩ ntlo ya kgosi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go fela"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "go fela"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a neng a aga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diwetse tse pedi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "diwetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya kgosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:23:56.548723255Z",
+  "model": "glm-5.3"
+}

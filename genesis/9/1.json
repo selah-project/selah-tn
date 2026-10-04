@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Elohim o ne a segotla ⟨את⟩ Noke le ⟨את⟩ bana ba gagwe, mme a ba re: Tsholang, bongakalang, mme jaleng ⟨את⟩ lefatshe ka bontsi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "a segotla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noke"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Tsholang"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "bongakalang"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "jaleng ka bontsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:53.472709757Z",
+  "model": "glm-5.3"
+}

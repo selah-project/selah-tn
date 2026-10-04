@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 21:5",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme ba bua le kgosi: Motho yo o re nyeletsang, le yo o rerang kgatlhanong le rona — re tlhakanngwe, re sa kgone go ema mo molelwaneng o mongwe le o mongwe wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "o re nyeletsa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le yo"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "o rera kgatlhanong"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "נשמדנו",
+      "gloss": "re tlhakanngwe"
+    },
+    {
+      "surface": "מהתיצב",
+      "gloss": "go ema"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo ... o mongwe le o mongwe"
+    },
+    {
+      "surface": "גבל",
+      "gloss": "molelwaneng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:16:39.745672902Z",
+  "model": "glm-5.3"
+}

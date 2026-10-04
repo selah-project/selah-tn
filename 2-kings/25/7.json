@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme ba tlhaba ⟨את⟩ bana ba Tsidakia pele ga matlho a gagwe; mme matlho a Tsidakia ba a tima, ba mo bopele ka dithapo tsa tong, mme ba mo isa Babele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ba Tsidakia"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "ba tlhaba"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "pele ga matlho a gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matlho"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidakia"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ba a tima"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ba mo bopele"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ka dithapo tsa tong"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ba mo isa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:12.429990439Z",
+  "model": "glm-5.3"
+}

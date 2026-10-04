@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "mme Ba-Yisraele ba ne ba ya kwa Bafilisiting botlhe, go ya go baakaletsa mongwe le mongwe ⟨את⟩ mogoma wa gagwe, le ⟨את⟩ sesepa sa gagwe, le ⟨את⟩ sekgokgotla sa gagwe, le ⟨את⟩ phatla ya gagwe.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ba ne ba ya kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ba-Yisraele"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Bafilisiting"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "go ya go baakaletsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogoma wa gagwe"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "mogoma wa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sesepa sa gagwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "sesepa sa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekgokgotla sa gagwe"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "sekgokgotla sa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phatla ya gagwe"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "phatla ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:28.226206522Z",
+  "model": "glm-5.3"
+}

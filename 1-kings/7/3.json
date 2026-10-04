@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme go ne go kgabisitswe ka kedire kwa godimo, mo dikakamanong tse di neng di le mo ditlhakong tse di masome a mane le di tlhano, di le lesome le boraro mo thutlhameng nngwe le nngwe.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "go ne go kgabisitswe"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ka kedire"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "dikakamanong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di neng di le"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ditlhakong"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "masome a mane"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "le di tlhano"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lesome le boraro"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le boraro"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "thutlhameng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:22:20.555882248Z",
+  "model": "glm-5.3"
+}

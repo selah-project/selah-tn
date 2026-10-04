@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme nna ke keteka ⟨את⟩ ba ba suleng, ba ba kileng ba swa, go feta ba ba tshelang, ba ba sa ntse ba tshela.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ke keteka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba suleng"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ba ba suleng"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "ba ba kileng"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ba swa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ba ba tshelang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ba tshela"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "sa ntse"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:54.783972609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Yo o bopang dipelo tsa bone mmogo, yo o tlhaloganyang botlhe ditiro tsa bone.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Yo o bopang"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dipelo tsa bone"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "yo o tlhaloganyang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ditiro"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:33.829456127Z",
+  "model": "glm-5.3"
+}

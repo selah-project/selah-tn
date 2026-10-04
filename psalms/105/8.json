@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "O gakologotse kgolagano ya gagwe go ya ileileng, lefoko a laetseng, go dikokomana di le sekete.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "O gakologotse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya ileileng"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kgolagano ya gagwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "di le sekete"
+    },
+    {
+      "surface": "דור",
+      "gloss": "go dikokomana"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:27.175766674Z",
+  "model": "glm-5.3"
+}

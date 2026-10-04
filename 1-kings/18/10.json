@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ka botshelo jwa Yahwe Elohim wa gago, fa go na le setshaba kgotsa bogosi feo morena wa me a sa romeleng go go batla; mme ba re: ga o yo; a dira gore ⟨את⟩ bogosi le ⟨את⟩ setshaba di ikane gore ga o a bonwa.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Ka botshelo jwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "kgotsa bogosi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "feo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a romeleng"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa me"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mo go jone"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "go go batla"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga o yo"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "a dira gore di ikane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogosi"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bogosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "o a bonwa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:27.152703788Z",
+  "model": "glm-5.3"
+}

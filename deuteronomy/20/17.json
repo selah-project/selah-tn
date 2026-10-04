@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 20:17",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Gore o ba senye ka tlhalego — ⟨את⟩ Mowiti le Emori, Kanana le Ferizi, Mowi le Jebusi — jaaka Yahwe Elohim wa gago a go laetse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ka tlhalego"
+    },
+    {
+      "surface": "תחרימם",
+      "gloss": "o ba senya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mowiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "le Emori"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanana"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "le Ferizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mowi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Jebusi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "a go laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:28:35.671794952Z",
+  "model": "glm-5.3"
+}

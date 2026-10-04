@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ba ba nnelang setshaba se, ba se epa phoso; mme ba ba nnelwang ke bone, ba a menngwa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "mme ba ne ba"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "ba ba nnelang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "ba epang phoso"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "mme ba ba nnelwang ke bone"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "ba a menngwa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:00.637027164Z",
+  "model": "glm-5.3"
+}

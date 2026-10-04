@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 90,
+  "translation": "Mme bosele jwa Adonai Elohim wa rona bo nne mo go rona, mme o tlhomiše tiro ya diatla tsa rona mo go rona; ee, tiro ya diatla tsa rona o e tlhomiše.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme bo nne"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "bosele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mo go rona"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "mme tiro"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ya diatla tsa rona"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "o tlhomiše"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mo go rona"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ee, tiro"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ya diatla tsa rona"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "o e tlhomiše"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:21.929783773Z",
+  "model": "glm-5.3"
+}

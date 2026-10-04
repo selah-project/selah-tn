@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ba dira senkgwe sa go tshenama, mme beine e itumedisa botshelo, mme selefera e araba ⟨את⟩ sengwe le sengwe.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "sa go tshenama"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "mme beine"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "e itumedisa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "mme selefera"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "e araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sengwe le sengwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:29.697833911Z",
+  "model": "glm-5.3"
+}

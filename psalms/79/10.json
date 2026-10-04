@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "Ke eng fa ditshaba di tla re: Elohim ya tsone o kae? A e itsiwe mo ditshabeng, fa pele ga matlho a rona, dipolao tsa madi a badiri ba gago a a tsheditsweng.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ke eng fa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "di tla re"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "איה",
+      "gloss": "o kae"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ya tsone"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "A e itsiwe"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "fa pele ga matlho a rona"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "dipolao tsa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "badiri ba gago"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "a a tsheditsweng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:11.978979119Z",
+  "model": "glm-5.3"
+}

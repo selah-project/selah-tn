@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Yahwe a bua le Moshe: Tsamaela go setshaba, mme o ba itshepise gompieno le moso, mme ba tlhatshe diaparo tsa bone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tsamaela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "o ba itshepise"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "le moso"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ba tlhatshe"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "diaparo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:55.425759379Z",
+  "model": "glm-5.3"
+}

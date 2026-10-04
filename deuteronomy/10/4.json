@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 10:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme a kwala mo matlapeng, jaaka mokwalo wa mathomo, ⟨את⟩ mafoko a lesome a Yahwe a neng a a bua go lona kwa thabeng, mo bogareng jwa molelo, ka letsatsi la phuthego; mme Yahwe a ne a a fa nna.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "mme a kwala"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "matlapeng"
+    },
+    {
+      "surface": "כמכתב",
+      "gloss": "jaaka mokwalo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa mathomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a lesome"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "a lesome"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwa thabeng"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mo bogareng jwa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "la phuthego"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "mme a ne a a fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:10.483103248Z",
+  "model": "glm-5.3"
+}

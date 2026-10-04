@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ke ne ke re pelong ya me: Elohim o tlaa katlhola ⟨את⟩ yo o nang le tsedeke le ⟨את⟩ yo o bokaone; gonne go na le nako ya sengwe le sengwe, le mo tirong yotlhe koo.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "pelong ya me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo o nang le tsedeke"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "yo o nang le tsedeke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yo o bokaone"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "yo o bokaone"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o tlaa katlhola"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya sengwe le sengwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:31.845367936Z",
+  "model": "glm-5.3"
+}

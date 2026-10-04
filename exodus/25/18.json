@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme o dire makherube a mabedi a gauta; ka go betla ka thlogo o di dire ⟨את⟩, mo diphuduhung tsa bobedi tsa Kaporete.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "makherube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ka go betla ka thlogo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o di dire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "makherube"
+    },
+    {
+      "surface": "משני",
+      "gloss": "tsa bobedi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mo diphuduhung"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporete"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:25.344696141Z",
+  "model": "glm-5.3"
+}

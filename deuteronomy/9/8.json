@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme mo Chorebe lo ne lo dira Yahwe a tlhaswa ke bogale, mme Yahwe a tsuologelana le lona go menya lona.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "mme mo Chorebe"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "lo ne lo dira ... a tlhaswa ke bogale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "mme a tsuologelana le lona a tlhaga bogale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "go menya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:35.250093400Z",
+  "model": "glm-5.3"
+}

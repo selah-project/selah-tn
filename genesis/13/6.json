@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Mme lefatshe le ne le sa kgone go ba tshegetsa ⟨את⟩ gore ba nne mmogo, gonne dithoto tsa bone di ne di le dintsi thata, mme ba ne ba sa kgone go nna mmogo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ... se"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "go tshegetsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di ne di le"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "dithoto tsa bone"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dintsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ... se"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba sa kgone"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:25.166766714Z",
+  "model": "glm-5.3"
+}

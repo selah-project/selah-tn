@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ke eng se se dirang gore lo kgwathe setshaba sa me, mme logaganya sefatlhego sa ba humanegileng? go bua Adonai Yahwe Tsebaote.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "ke eng se se dirang gore"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "lo kgwathe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "mme ... sefatlhego sa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ba humanegileng"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "logaganya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    }
+  ],
+  "timestamp": "2026-10-03T23:45:07.106297589Z",
+  "model": "glm-5.3"
+}

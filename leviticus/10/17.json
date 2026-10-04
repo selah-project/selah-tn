@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ke ka goreng fa le sa je ⟨את⟩ sehlabelo sa sebe kwa lefelong la boitshepo, gonne ke boitshepo jwa boitshepo jo bo kwa godimo, ⟨את⟩ mme o ne a se neela lona gore le bo tsamaise ka ⟨את⟩ bojotshe joa setshaba, go fenya boleo jwa bone mo mahetleng a bone fa pele ga Yahwe?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ke ka goreng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa sebe"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sehlabelo sa sebe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwa lefelong"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "la boitshepo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "jwa boitshepo jo bo kwa godimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme ⟨את⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ne a neela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "go tsamaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojotshe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bojotshe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jwa setshaba"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "go fenya boleo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mo mahetleng a bone"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:02.992633136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mme a neela ⟨את⟩ lentswe la gagwe ka go lela, mme Baitsraele ba se ba e utlwa — Mitsrayime e ne ya utlwa, le ntlo ya Faro e ne ya utlwa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mme a neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la gagwe"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "lentswe la gagwe"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ka go lela"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ba ne ba utlwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e ne ya utlwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    }
+  ],
+  "timestamp": "2026-10-03T21:31:48.308682914Z",
+  "model": "glm-5.3"
+}

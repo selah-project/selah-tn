@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o ne a tsena gape go Rahele, mme o ne a rata gape ⟨את⟩ Rahele go feta Lea; mme a dira mo go ene dingwaga tse supa tse dingwe gape.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahele"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "a rata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahele"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahele"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "go feta Lea"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tse supa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "tse dingwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:50.588877557Z",
+  "model": "glm-5.3"
+}

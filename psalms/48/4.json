@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Elohim mo diforong twa yone o itsege e le botshepelelo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "mo diforong twa yone"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "o itsege"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "e le botshepelelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:35.614639348Z",
+  "model": "glm-5.3"
+}

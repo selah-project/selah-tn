@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme lo di kwale mo dikgoropontshong tsa ntlo ya lona le mo dikgorong tsa lona.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "lo di kwale"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "dikgoropontshong"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya lona"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "mo dikgorong tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:15.578479539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Kwa borwa e ne e le ya Efrayime, mme kwa bokone ya Manase; lewatle le ne le le mollolwane wa one; mme ba kopana le Ashere kwa bokone, le le Yisaskare kwa botlhaba.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "kwa borwa"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ya Efrayime"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "mme kwa bokone"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ya Manase"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme o ne a nna"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "mollolwane wa one"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "mme le Ashere"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "ba kopana"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kwa bokone"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "mme le Yisaskare"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kwa botlhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T22:41:48.056513008Z",
+  "model": "glm-5.3"
+}

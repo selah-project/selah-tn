@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme o tla bua le bone ⟨את⟩ mafoko ono botlhe, mme ba ka se reetse wena; o tla bitsa bone, mme ba ka se arabe wena.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko ono botlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ono"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ka se"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "reetse"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "o tla bitsa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ka se"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "arabe wena"
+    }
+  ],
+  "timestamp": "2026-10-04T00:10:58.935487310Z",
+  "model": "glm-5.3"
+}

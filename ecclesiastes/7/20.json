@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Gonne motho ga go yo o lokileng mo lefatsheng yo o dirang botle mme a se kang wa dira boleo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gonne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo o lokileng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dira"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "botle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a se kang"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "wa dira boleo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:40.911508051Z",
+  "model": "glm-5.3"
+}

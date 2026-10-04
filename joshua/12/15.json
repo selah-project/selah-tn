@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Kgosi ya Libna, e le nngwe; kgosi ya Adulame, e le nngwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulame"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:39:15.500488612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ba bana ba Yehuda: Perets, Khetsrone, le Karmi, le Khure, le Shobale.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetsrone"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "le Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "le Khure"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "le Shobale"
+    }
+  ],
+  "timestamp": "2026-10-04T03:24:55.740132304Z",
+  "model": "glm-5.3"
+}

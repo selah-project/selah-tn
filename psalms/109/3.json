@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Mme mafoko a tlhoyo a ntseletse, mme ba lwa le nna ka ntle le mabaka.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Mme mafoko a"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "tlhoyo"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "a ntseletse"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "mme ba lwa le nna"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka ntle le mabaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:33.194977547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme go tla nna mo letsatsing leo, mme ke tla thuba ⟨את⟩ seoda sa Yisraele mo mokgatshaning wa Yizreeli.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "go tla nna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mo letsatsing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ke tla thuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seoda sa Yisraele"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "seoda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "mo mokgatshaning"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:09.364095715Z",
+  "model": "glm-5.3"
+}

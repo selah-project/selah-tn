@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Jaaka sekhurumetso sa mokala ba timetswe, ba se ke ba bua; ba tla isiwa, gonne ba se kgone go tsamaya. Se ka wa ba boifa, gonne ba se kgone go dira bosula, mme le go dira botoka ga go na mo go bone.",
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "jaaka sekhurumetso sa mokala"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "sa go thuntsha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wa bua"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "go isiwa"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "ba tla isiwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se kgone"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "wa boifa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ba bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se kgone"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "go dira bosula"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "go dira botoka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mo go bone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:10:41.290876928Z",
+  "model": "glm-5.3"
+}

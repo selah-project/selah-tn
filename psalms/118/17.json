@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 118,
+  "translation": "Ga ke kitla ke swa, ke tlaa tshela, mme ke tlaa bolela ditiro tsa Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga ke kitla"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ke swa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ke tlaa tshela"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "mme ke tlaa bolela"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ditiro tsa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:10.520555267Z",
+  "model": "glm-5.3"
+}

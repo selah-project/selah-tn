@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "mme Yahwe a go romela mo tseleng, mme a re: Tsamaya, o senye ka botlalo ⟨את⟩ baba, ⟨את⟩ Amaleke, mme o lwe le bone go fitlha o ba feditsa ⟨את⟩ bone.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "a go romela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsamaya"
+    },
+    {
+      "surface": "וHחרמתה",
+      "gloss": "o senye ka botlalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "baba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleke"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "o lwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "o ba feditsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:01:44.618720563Z",
+  "model": "glm-5.3"
+}

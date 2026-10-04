@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Mme Parafo a bua le Yosefe: Mo lolelwaneng lwa me, bonong, ke ne ke emetse molelwaneng wa Nile.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parafo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "mo lolelwaneng lwa me"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonong"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ke ne ke emetse"
+    },
+    {
+      "surface": "על",
+      "gloss": "molelwaneng wa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "molelwaneng"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nile"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:59.706442312Z",
+  "model": "glm-5.3"
+}

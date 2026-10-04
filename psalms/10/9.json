@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "O nna a le mo seboeng jaaka tau mo sehubeng sa yone; o nna a le mo seboeng go tshwara yo molato, a tshwara yo molato a mo gogela mo sejaneng sa gagwe.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "o nna a le mo seboeng"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "mo seboeng"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "jaaka tau"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "mo sehubeng"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "o nna a le mo seboeng"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "go tshwara"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yo molato"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "a tshwara"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yo molato"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "a mo gogela"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "mo sejaneng sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:39.188899690Z",
+  "model": "glm-5.3"
+}

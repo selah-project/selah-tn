@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme ka lehlakore la bobedi, dikhutlwana tse di nang le dikama di le lesome le metlhano; ditlhaka tsa tsone di le tharo, le mathebe a tsone a le tharo.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "mme ka lehlakore"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "di le metlhano"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "dikhutlwana"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ditlhaka tsa tsone"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "di le tharo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "le mathebe a tsone"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "a le tharo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:33.461671906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme o tla ntsha ⟨את⟩ phologolo ya poo kwa ntle ga setshwarwa, mme a e fise jaaka a fisitse poo ya ntlha; ke khutshwafoko ya setshaba.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "mme a e ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phologolo ya poo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "phologolo ya poo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle ga"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "setshwarwa"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "mme a e fise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "phologolo ya poo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "a fisitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "poo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya ntlha"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "khutshwafoko"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ya setshaba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke e"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:28.306412679Z",
+  "model": "glm-5.3"
+}

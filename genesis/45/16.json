@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 45:16",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mme phuti e ne ya utlwa mo tlung ya Paro, e re: Ba tsile bakaulengwe ba Yosefe; mme go ne go siama mo matlhong a Paro le mo matlhong a makgoba a gagwe.",
+  "tokens": [
+    {
+      "surface": "והקל",
+      "gloss": "phuti"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "e ne ya utlwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mo tlung"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "e re"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tsile"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bakaulengwe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ba Yosefe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "go ne go siama"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo matlhong"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "a Paro"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "le mo matlhong"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a makgoba a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:31:27.053564946Z",
+  "model": "glm-5.3"
+}

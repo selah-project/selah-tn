@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 130,
+  "translation": "Mme go wena go nemilwe tshwarelo, gore o tle go tsewe wa tshaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mme"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "go nemilwe tshwarelo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "wa tshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:52.491268194Z",
+  "model": "glm-5.3"
+}

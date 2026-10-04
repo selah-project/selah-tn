@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o tlhaole ⟨את⟩ tonki kwa pele ga Yahwe, kwa bokgoning jwa tenti ya phokoano.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "mme o tlhaole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tonki"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tonki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa bokgoning"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phokoano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:25.133573363Z",
+  "model": "glm-5.3"
+}

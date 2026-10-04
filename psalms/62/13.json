@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Mme go wena, Adonai, go na le hesede; gonne wena o duela motho ka mongwe le ka mongwe go ya ka tiro ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Mme go wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "o duela"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "motho ka mongwe le ka mongwe"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "go ya ka tiro ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:16.878961997Z",
+  "model": "glm-5.3"
+}

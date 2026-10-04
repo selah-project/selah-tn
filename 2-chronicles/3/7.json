@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme a phima ⟨את⟩ ntlo — diphaphatha, magoro, mabota a yona le mabati a yona — ka gauta, mme a betla dikerube mo maboteng.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "mme a phima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "diphaphatha"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "magoro"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "le mabota a yona"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "le mabati a yona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "mme a betla"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "dikerube"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "maboteng"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:35.646050598Z",
+  "model": "glm-5.3"
+}

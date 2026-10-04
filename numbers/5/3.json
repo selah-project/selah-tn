@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Botlhe ba monamagadi le ba banna ba mokeletse; kwa ntle ga setshaba sa metse lo ba mokeletse; e seng gore ba nne ba seng boitshepo mo ⟨את⟩ di-shabeng tsa bone tse ke nna ke nnelang mo go tsone.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "ba monamagadi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "le"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ba banna"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "ba mokeletse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ga setshaba sa metse"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "lo ba mokeletse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e seng gore"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "ba nne ba seng boitshepo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo di-shabeng tsa bone"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "di-shabeng tsa bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ke nnelang"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "mo go tsone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:05:45.756881231Z",
+  "model": "glm-5.3"
+}

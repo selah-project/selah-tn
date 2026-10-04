@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme Abrahame a mmolelela: Tshwareka le wena, gore o se ka wa busa ⟨את⟩ morwa wa me koo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a mmolelela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "tshwareka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore o se ka"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "wa busa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa wa me"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:11.733130814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ke mang yo o itseng gore ruakh ya bana ba motho e a ela kwa godimo, le ruakh ya phologolo e a neela kwa tlase go lefatshe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yo o itseng"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "e a ela kwa godimo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "le ruakh"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ya phologolo"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "e a neela kwa tlase"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kwa tlase"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "go lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:39.902910185Z",
+  "model": "glm-5.3"
+}

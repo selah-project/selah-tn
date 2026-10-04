@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme jaanong tsamaya; mme nna ke tla nna le molomo wa gago, mme ke tla go ruta se o tla se buang.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsamaya"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke tla nna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa gago"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "mme ke tla go ruta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "o tla se bua"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:52.491046116Z",
+  "model": "glm-5.3"
+}

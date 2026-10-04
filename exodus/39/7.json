@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme a a bea mo dikgatselelng tsa efode — maje a segopotso go bara ya Yisraele — jaaka Yahwe a ne a laela ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ one",
+      "marks": "maje"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "dikgatselelng"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maje"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "a segopotso"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a ne a laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:10.698119630Z",
+  "model": "glm-5.3"
+}

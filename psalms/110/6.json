@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 110,
+  "translation": "O tla a atlholanya mo ditshabeng, a tlatsa mmele; o ne a thuba ⟨את⟩ tlhogo mo lefatshheng le le tonanyang.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "o tla a atlholanya"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a tlatsa"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "mmele"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "o ne a thuba"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo lefatshheng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshhe"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "le le tonanyang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:12.345010844Z",
+  "model": "glm-5.3"
+}

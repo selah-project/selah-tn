@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Khumo ga e thusa ka letsatsi la bogale; mme tsedeke e boloka go swa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "e thusa"
+    },
+    {
+      "surface": "הון",
+      "gloss": "khumo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "la bogale"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mme tsedeke"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "e boloka"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "go swa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:46:12.615314134Z",
+  "model": "glm-5.3"
+}

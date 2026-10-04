@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Nna ke tla go busetsa mafoko, le ⟨את⟩ ditsala tsa gago mmogo le wena.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ke tla go busetsa mafoko"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditsala tsa gago"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ditsala tsa gago"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mmogo le wena"
+    }
+  ],
+  "timestamp": "2026-10-04T02:03:37.140841875Z",
+  "model": "glm-5.3"
+}

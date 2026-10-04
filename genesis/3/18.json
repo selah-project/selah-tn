@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme dilo e di botlhatsana le dikharetare di tla a mo go tshela mo go wena; mme o tla a ja ⟨את⟩ ditlhare tse dinnye tsa masimo.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "dilo e di botlhatsana"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "dikharetare"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "di tla a mo go tshela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "o tla a ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhare tse dinnye tsa masimo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ditlhare tse dinnye"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tsa masimo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:04.275453712Z",
+  "model": "glm-5.3"
+}

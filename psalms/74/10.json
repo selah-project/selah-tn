@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Go fitlhe ke neng, Elohim, moganedi a tla nyantsha? A tlhaselani a tla nyefola leina la gago bosakhutlho?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "go fitlhe"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ke neng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "a tla nyantsha"
+    },
+    {
+      "surface": "צר",
+      "gloss": "moganedi"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "a tla nyefola"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "a tlhaselani"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "bosakhutlho"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:10.204305912Z",
+  "model": "glm-5.3"
+}

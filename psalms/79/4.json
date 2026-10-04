@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "Re fetogile segwebo go baagelani ba rona, seromo le segodi go ba ba re mabapi.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "re fetogile"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "segwebo"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "go baagelani ba rona"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "seromo"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "le segodi"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "go ba ba re mabapi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:37.354298402Z",
+  "model": "glm-5.3"
+}

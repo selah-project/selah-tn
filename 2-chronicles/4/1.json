@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme a dira altare ya kopore, dikhuba di le masome a mabedi botelele jwa yone, mme dikhuba di le masome a mabedi bophara jwa yone, mme dikhuba di le lesome bogodimo jwa yone.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a dira"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya kopore"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "di le masome a mabedi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikhuba"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "botelele jwa yone"
+    },
+    {
+      "surface": "וועשרים",
+      "gloss": "mme di le masome a mabedi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikhuba"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara jwa yone"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "mme di le lesome"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikhuba"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bogodimo jwa yone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:48:01.491725041Z",
+  "model": "glm-5.3"
+}

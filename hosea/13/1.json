@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Fa Efrayime a bua, go ne go na le tshoganyetso; o ne a ikhupusa mo Yisraele, mme a ipooletsa mo Baale, mme a tlhokafala.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Fa ... a bua"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "tshoganyetso"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "o ne a ikhupusa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o (ene)"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mo Yisraele"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "mme a ipooletsa"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "mo Baale"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mme a tlhokafala"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:59.217391205Z",
+  "model": "glm-5.3"
+}

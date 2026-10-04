@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 124,
+  "translation": "Mme ka nako eo metsi a ne a re tlaa phutholola, nokana e ne e tlaa feta ko godimo ga botshelo jwa rona,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "mme ka nako eo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "a ne a re tlaa phutholola"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "nokana"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "e ne e tlaa feta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ko godimo ga"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "botshelo jwa rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:36.015171301Z",
+  "model": "glm-5.3"
+}

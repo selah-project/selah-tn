@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 53,
+  "translation": "Ruri ene o ne a rwala bolwetse jwa rona, mme dimatshwenyego tsa rona o di ne; mme rona re ne re mo akanya e le yo o amilweng, yo Elohim a mo kgweditsweng, le yo o sotlegang.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "bolwetse jwa rona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "o ne a rwala"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "mme dimatshwenyego tsa rona"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "o di ne"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mme rona"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "re ne re mo akanya"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "yo o amilweng"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "yo o kgweditsweng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ke Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "le yo o sotlegang"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:59.223252240Z",
+  "model": "glm-5.3"
+}

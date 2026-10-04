@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme fa a sa e golole ⟨את⟩ tshimo, kgotsa fa a rekisete ⟨את⟩ tshimo go motho o mongwe, e ka se gololwe gape.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "e golole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshimo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tshimo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kgotsa fa"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "a rekisete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshimo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tshimo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "go motho"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "o mongwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "gololwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:45.184205855Z",
+  "model": "glm-5.3"
+}

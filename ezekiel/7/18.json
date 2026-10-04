@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 7:18",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme ba tla iketlela ka disaka, poifo e kgolo e tla ba khurumetsa, maswabi a tla nna mo sefatong sengwe le sengwe, le phologo mo dihologong tsotlhe tsa bone.",
+  "tokens": [
+    {
+      "surface": "וחגרו",
+      "gloss": "mme ba tla iketlela"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ka disaka"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "e tla khurumetsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "poifo e kgolo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefatong"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "maswabi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "dihologong tsotlhe tsa bone"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "phologo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:33:10.536334780Z",
+  "model": "glm-5.3"
+}

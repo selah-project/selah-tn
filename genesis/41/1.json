@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Mme go ne go feditse malatsi a dingwaga di le pedi, mme Farao a tlhopha, mme bonwe, o eme kwa molapong.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go feditse"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "kwa bofelong jwa"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dingwaga di le pedi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "mme Farao"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "a tlhopha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonwe"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "o eme"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "molapong"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:15.524283440Z",
+  "model": "glm-5.3"
+}

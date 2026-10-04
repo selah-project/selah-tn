@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "O tla utlwa lentswe la Yahwe Elohim wa gago, mme o dira ⟨את⟩ melao ya gagwe le ⟨את⟩ melawana ya gagwe, eo ke e go laelang letsatsi leno.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "o tla utlwa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya gagwe"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "melao ya gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "melawana ya gagwe"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "melawana ya gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "e go laelang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi leno"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:28.390363381Z",
+  "model": "glm-5.3"
+}

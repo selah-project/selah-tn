@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 140,
+  "translation": "Ruri ba tsedekang ba tla akgola leina la gago; ba tsepameng ba tla nna kwa go ⟨את⟩ sefatlhego sa gago.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba tsedekang"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "ba tla akgola"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba tla nna dulo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba tsepameng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefatlhego sa gago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:19.374876709Z",
+  "model": "glm-5.3"
+}

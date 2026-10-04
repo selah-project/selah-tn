@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Fa a tsena a le nosi, o tla tsamaela outside a le nosi; fa a na le mosadi, mosadi wa gagwe o tla tsamaela outside ena le ene.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "a le nosi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "a le nosi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tla tsamaela outside"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "a na le"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "o tla tsamaela outside"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ena le ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:43.305162736Z",
+  "model": "glm-5.3"
+}

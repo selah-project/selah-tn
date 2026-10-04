@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme Elohim a ela godimo go tswa mo go ene, kwa lefelong Elohim a neng a buile le ene fela ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a ela godimo"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "go tswa mo go ene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwa lefelong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile le ene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "go ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:28.492250039Z",
+  "model": "glm-5.3"
+}

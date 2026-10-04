@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ⟨o⟩ bua ⟨mo⟩ re: Nka se tsamaye, mme kwa lefatsheme le kwa lolwapeng lwame ke tla tsamaya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme o bua"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka se"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tsamaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nnyaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "lefatsheme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le kwa"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "lolwapeng lwame"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tla tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:30.662817932Z",
+  "model": "glm-5.3"
+}

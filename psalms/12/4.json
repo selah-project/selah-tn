@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "A Yahwe a kgutlitse mahaphapha ohle a borethaba, le lene la bua dilo tse dikgolo.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "a kgutlitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mahaphapha"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "a borethaba"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lene"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "la bua"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dilo tse dikgolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:52.163217859Z",
+  "model": "glm-5.3"
+}

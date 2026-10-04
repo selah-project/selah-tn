@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme ⟨את⟩ go tswa mo kgotleng ya bana ba Yisraele o tla tsaya dinku-di-masweu tse pedi tsa dikubi tsa dikhutshwane go di dira kabelo ya khoe, le tonne e le nngwe go e dira sephudugo.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "go tswa mo ⟨את⟩"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kgotla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tla tsaya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "dikhutshwane-di-masweu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "tsa dikubi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "go di dira kabelo ya khoe"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "mme tonne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "go e dira sephudugo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:34.282476091Z",
+  "model": "glm-5.3"
+}

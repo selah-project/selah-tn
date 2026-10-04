@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme lo tla batla go tswa foo ⟨את⟩ Yahwe Elohim wa lona, mme lo tla fitlhela, ka gonne lo mo batla ka pelo ya lona yotlhe le ka moyeng wa lona ootlhe.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "mme lo tla batla"
+    },
+    {
+      "surface": "משם",
+      "gloss": "go tswa foo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa lona"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "mme lo tla fitlhela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "lo mo batla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... yotlhe"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya lona"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka ... ootlhe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:06:16.029369052Z",
+  "model": "glm-5.3"
+}

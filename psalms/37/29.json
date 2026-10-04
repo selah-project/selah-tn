@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Ba-tsedeke ba tla rua ⟨את⟩ lefatshe, mme ba nne mo go lone ka bosikhutshwane.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "ba-tsedeke"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ba-tla-rua"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "mme-ba-nne"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ka-bosikhutshwane"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo-go-lone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:31.236913542Z",
+  "model": "glm-5.3"
+}

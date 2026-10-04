@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "O tla belega banana le basetsana, mme ba se ka ba nna ⟨ba gago⟩, gonne ba tla tsamaya ba le mo botshwarweng.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "banana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le basetsana"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "o tla belega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ba gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tla tsamaya"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "mo botshwarweng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:23.124546981Z",
+  "model": "glm-5.3"
+}

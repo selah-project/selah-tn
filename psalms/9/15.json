@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Gore ke tlhalose dithoko tsa gago tse di tlhakaneng kwa dikgorong tsa morwadia Tsiyone; ke itumelele katolho ya gago.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ke tlhalose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tse di tlhakaneng"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "dithoko tsa gago"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "kwa dikgorong"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tsa morwadia"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ke itumelele"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "katolho ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:10.718899693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "le ⟨את⟩ tafole le ⟨את⟩ dituluswa tsa yona, le ⟨את⟩ sesupa-lesedi se se phepa le dituluswa ⟨את⟩ tsotlhe tsa yona, le ⟨את⟩ altare ya phekolo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dituluswa tsa yona"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dituluswa tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sesupa-lesedi"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "sesupa-lesedi"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "se se phepa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dituluswa tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dituluswa tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ya phekolo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:14.042756718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme setshaba se ne sa araba, sa re: e nne se kgakala le rona go tlogela ⟨את⟩ Yahwe, go direla medimo e mengwe.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "se ne sa araba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sa re"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "e nne se kgakala le rona"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "go tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "go direla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e mengwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:51.433620211Z",
+  "model": "glm-5.3"
+}

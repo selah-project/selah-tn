@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Bua le phuthego yotlhe ya bana ba Yisraele, o ba re: Boitshepo lo nna le jone, gonne ke boitshepo me, Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "o ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "lo nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ke boitshepo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:41.041233036Z",
+  "model": "glm-5.3"
+}

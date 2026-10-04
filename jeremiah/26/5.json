@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 26:5",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "go reetsa mafoko a badiri ba me, baporofeti, bao ke ba romelang go lona, ka go tswa ka moso le go romela, mme lo se ka wa reetsa;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "go reetsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "a badiri ba me"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "baporofeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ba romelang"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "והשכם",
+      "gloss": "ka go tswa ka moso"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "le go romela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "lo a reetsa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:17:36.560340579Z",
+  "model": "glm-5.3"
+}

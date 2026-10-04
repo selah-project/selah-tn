@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Yisraele yotlhe le Yuda di ne di rata ⟨את⟩ Dawide, gonne ene o ne a ntsha a tsena pele ga bone.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le Yuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "di ne di rata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ga bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:02:43.076913742Z",
+  "model": "glm-5.3"
+}

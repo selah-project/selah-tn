@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Gore ba ne ba ralala go tswa kgakala le ditsaka, go tswa kgakala le tshaka e e ntshitsweng, le go tswa kgakala le otha e e kgabisitsweng, le go tswa kgakala le boima jwa ntwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "go tswa kgakala le"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ditsaka"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ba ne ba ralala"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "go tswa kgakala le"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "e e ntshitsweng"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "le go tswa kgakala le"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "otha"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "e e kgabisitsweng"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "le go tswa kgakala le"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "boima"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "jwa ntwa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:49:22.351250596Z",
+  "model": "glm-5.3"
+}

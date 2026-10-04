@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Ga le ka ke la ja mo godimo ga madi; ga le ka ke la porofeta ka maano, mme ga le ka ke la sediristhana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ka ke la ja"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo godimo ga"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "le ka ke la porofeta ka maano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "le ka ke la sediristhana"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:29.451159410Z",
+  "model": "glm-5.3"
+}

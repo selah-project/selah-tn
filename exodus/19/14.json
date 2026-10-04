@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme Moshe a tlalelela go tswa mo thabeng go ya go setshaba, mme a boitshepisa ⟨את⟩ setshaba; mme ba tlhatswa diaparo tsa bone.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "a tlalelela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a boitshepisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "ba tlhatswa"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "diaparo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:09.826010497Z",
+  "model": "glm-5.3"
+}

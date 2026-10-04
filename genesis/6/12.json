@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Elohim a bona ⟨את⟩ lefatshe, mme bonang, e ne e senyegile; gonne nama yotlhe e ne e senyle ⟨את⟩ tsela ya yona mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "e ne e senyegile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "e ne e senyle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela ya yona"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tsela ya yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:14:39.362966747Z",
+  "model": "glm-5.3"
+}

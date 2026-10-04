@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Shelomoh a aga ⟨את⟩ Gezere, le ⟨את⟩ Beit-Khorone ya kwa tlase.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezere"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Beit-Khorone ya kwa tlase"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "-Khorone"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ya kwa tlase"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:35.231540718Z",
+  "model": "glm-5.3"
+}

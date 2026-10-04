@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ke ne ke utlwa, mme ga ke a tlhaloganya; mme ka re: Adonai wa me, ke eng bokhutlo jwa tse?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme me"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke ne ke utlwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ke a tlhaloganya"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "bokhutlo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "jwa tse"
+    }
+  ],
+  "timestamp": "2026-10-04T02:25:20.243317973Z",
+  "model": "glm-5.3"
+}

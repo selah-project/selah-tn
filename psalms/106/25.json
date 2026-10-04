@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme ba tsielela mo ditlhareng tsa bone, ba sa reetse lentswe la Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "ba tsielela"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "mo ditlhareng tsa bone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "reetse"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:06.169233092Z",
+  "model": "glm-5.3"
+}

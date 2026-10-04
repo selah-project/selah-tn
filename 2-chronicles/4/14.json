@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme maemo ⟨את⟩ o a dirile, le diketle ⟨את⟩ o a dirile mo maemong.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "maemo"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "maemo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o a dirile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diketle"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "diketle"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o a dirile"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "maemong"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:23.647739789Z",
+  "model": "glm-5.3"
+}

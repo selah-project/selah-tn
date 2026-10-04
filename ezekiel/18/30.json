@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 18:30",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Ka jalo, motho ka tsela ya gagwe Ke tlaa mo katlhola ⟨את⟩ lona, ntlo ya Yisraele — go bua Adonai Yahwe. Boelang, boelang go tswa mo diperekodi tsotlhe tsa lona, mme bophirima bo se ka ba nna phogologo mo go lona.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka jalo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ka tsela ya gagwe"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "Ke tlaa katlhola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona, ntlo ya Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "boelang"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "boelang"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tswa mo tsotlhe"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "diperekodi tsa lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e nne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "למכשול",
+      "gloss": "phogologo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bophirima"
+    }
+  ],
+  "timestamp": "2026-10-04T00:39:00.002558121Z",
+  "model": "glm-5.3"
+}

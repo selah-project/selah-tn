@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 76,
+  "translation": "Mo Yudhea Elohim o a itsege; mo Yisraele leina la gagwe le legolo.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "o a itsege"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mo Yudhea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mo Yisraele"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "legolo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:47.862587033Z",
+  "model": "glm-5.3"
+}

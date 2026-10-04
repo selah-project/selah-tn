@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Gore ke tla khudisa metsi mo go molomolodi, le dinoka mo lefatsheng le le omileng; ke tla khudisa ruakh ya me mo peong ya gago, le segorogoreto sa me mo baneng ba gago.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "ke tla khudisa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "molomolodi"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "le dinoka"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "lefatsheng le le omileng"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "ke tla khudisa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya me"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peong ya gago"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "le segorogoreto sa me"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "baneng ba gago"
+    }
+  ],
+  "timestamp": "2026-10-03T23:58:15.162449118Z",
+  "model": "glm-5.3"
+}

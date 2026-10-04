@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Shemuuele a bitsa ⟨את⟩ setshaba go ya go Yahwe kwa Mitzpa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "kwa Mitzpa"
+    }
+  ],
+  "timestamp": "2026-10-03T22:58:52.571033306Z",
+  "model": "glm-5.3"
+}

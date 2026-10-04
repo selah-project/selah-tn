@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 111,
+  "translation": "O dirile segopotso sa dilo tsa gagwe tse di makatsang; Yahwe ke mosa le mohau.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "segopotso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "sa dilo tsa gagwe tse di makatsang"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mosa"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "le mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:10.024789366Z",
+  "model": "glm-5.3"
+}

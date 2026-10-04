@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "O apesa ngwaga sejwale ka botoka jwa gago, mme ditsela tsa gago di a tlhaga borokho.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "o apesa sejwale"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "ka botoka jwa gago"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "mme ditsela tsa gago"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "di a tlhaga"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "borokho"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:07.792590936Z",
+  "model": "glm-5.3"
+}

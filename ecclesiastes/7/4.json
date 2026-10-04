@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Pelo ya ba nang le bohlale e mo ntlong ya tlhokafalo, mme pelo ya bosula e mo ntlong ya boithabiso.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ya ba nang le bohlale"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ya tlhokafalo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "mme pelo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ya bosula"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ya boithabiso"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:46.862495969Z",
+  "model": "glm-5.3"
+}

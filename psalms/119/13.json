@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ka diphopho tsa me ke ne ka tlhalosa dikatlholo tsotlhe tsa molomo wa gago.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "ka diphopho tsa me"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ke ne ka tlhalosa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikatlholo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:22.836616189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 19:17",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme lefatshe la Yudha le tla nna se se bakang tyhwego go Mitsrayime; mang le mang yo o le gopolang ⟨את⟩ o tla tshoganyetse, ka ntlha ya maikaelelo a Yahwe Tsebaote, ao a a rulaganyang kgatlhanong le yone.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "mme le tla nna"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "go Mitsrayime"
+    },
+    {
+      "surface": "לחגא",
+      "gloss": "se se bakang tyhwego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mang le mang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יזכיר",
+      "gloss": "o le gopolang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Yudha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "o"
+    },
+    {
+      "surface": "יפחד",
+      "gloss": "o tla tshoganyetse"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "maikaelelo a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "a a rulaganyang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kgatlhanong le yone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:30.783716633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "Fa o dira dilo tse di makatsang, re ne re sa di lebelela; o ne wa tlase, dithaba di ne tsa tholola go fa pele ga gago.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "fa o dira"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dilo tse di makatsang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "re sa di lebelela"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "o ne wa tlase"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "go fa pele ga gago"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "di ne tsa tholola"
+    }
+  ],
+  "timestamp": "2026-10-04T00:03:43.940777483Z",
+  "model": "glm-5.3"
+}

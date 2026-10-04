@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 19:13",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Ga go jaaka e e tla o tlatsang mo go ena, mme o tla a sugiwa ka majwe ka go tlala, kgotsa a thuntshiwa ka molelo; e le phologolo kgotsa e le monna, ga o tla a tshela; fa lerumo la yobele le bula ba tla tlhatloga thabeng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "e tla o tlatsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go ena"
+    },
+    {
+      "surface": "יד",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "a sugiwa ka majwe"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "go tlala"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "a thuntshiwa"
+    },
+    {
+      "surface": "יירה",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e le"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kgotsa e le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "a tshela"
+    },
+    {
+      "surface": "במשך",
+      "gloss": "fa e bula"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "lerumo la yobele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "tlhatloga"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:09.825726430Z",
+  "model": "glm-5.3"
+}

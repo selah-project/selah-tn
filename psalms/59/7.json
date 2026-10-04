@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Ba boela ka bosegong, ba kua jaaka ntja, mme ba dikologa motse.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ba boela"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ka bosegong"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ba kua"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "jaaka ntja"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "mme ba dikologa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:21.262500784Z",
+  "model": "glm-5.3"
+}

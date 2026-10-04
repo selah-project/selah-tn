@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Yahwe o tshegetsa ba otlhe ba ba welang, mme o emisa ka dinao ba otlhe ba ba khumamileng.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "o tshegetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ba otlhe"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ba ba welang"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "mme o emisa ka dinao"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ba otlhe"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "ba ba khumamileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:03.619618906Z",
+  "model": "glm-5.3"
+}

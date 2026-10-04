@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Yahwe a bonagela Shelomo ka bosigo, a mmolelela jaana: Ke utlwile ⟨את⟩ thapelo ya gago, mme ke tlhophile lefelo le go nna ⟨ke⟩ la me lefelo la go tlhabela.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bonagela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ka bosigo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a mmolelela jaana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Ke utlwile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thapelo ya gago"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "thapelo ya gago"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "mme ke tlhophile"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna ⟨ke⟩ la me"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "lefelo la"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "go tlhabela"
+    }
+  ],
+  "timestamp": "2026-10-04T02:49:26.062261157Z",
+  "model": "glm-5.3"
+}

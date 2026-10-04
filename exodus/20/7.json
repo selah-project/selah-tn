@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "O se ka wa isa ⟨את⟩ leina la Yahwe Elohim ya gago ka gating, gonne Yahwe ga o kitla o golola ⟨את⟩ yo o isang ⟨את⟩ leina la gagwe ka gating.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wa isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ka gating"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "o kitla o golola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo o isang leina la gagwe ka gating"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "isang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ka gating"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:44.600061052Z",
+  "model": "glm-5.3"
+}

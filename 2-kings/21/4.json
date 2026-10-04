@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme a aga mebilwana ya diphologolo mo ntlong ya Yahwe, eo Yahwe a neng a re go e buile, kwa Yerushalayime ke tla bea ⟨את⟩ leina la me.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "mme a aga"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "mebilwana ya diphologolo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a neng a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ke tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la me"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "leina la me"
+    }
+  ],
+  "timestamp": "2026-10-03T23:41:32.015047643Z",
+  "model": "glm-5.3"
+}

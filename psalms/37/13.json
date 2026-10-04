@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Adonai o a mo tshega, gonne o ⟨bone⟩ gore letsatsi la gagwe le tla.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "o a tshega"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "o bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "le tla"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "letsatsi la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:04.990905600Z",
+  "model": "glm-5.3"
+}

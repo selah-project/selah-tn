@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 143,
+  "translation": "Goba mo tlhoganyong o ile a mmana nkokotse mogogoro wa me, o ise a fenye botshelo jwa me a bo etse mo lefatshe, o ise a ntshole mo lefifing, jaaka ba ba suleng ka kgale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Goba"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "o ile a mmana"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mo tlhoganyong"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mogogoro wa me"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "o ise a fenye"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a bo etse mo lefatshe"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "botshelo jwa me"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "o ise a ntshole"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "mo lefifing"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "jaaka ba ba suleng"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka kgale"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:14.141615772Z",
+  "model": "glm-5.3"
+}

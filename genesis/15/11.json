@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme dinotshe di ne tsa ntsha matlhagapa mo masapeng a dipegile; mme Abrahame o ne a boela a ela ⟨את⟩ tsona.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "di ne tsa ntsha"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "matlhagapa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "masapeng a dipegile"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o ne a boela a ela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tsona"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:36.560105210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 81,
+  "translation": "Mme ka ba isa mo go tlhoyong ya dipelo tsa bone, ba tsamaya ka dithaelo tsa bone.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "ka ba isa mo go tlhoyong"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "mo go tlhoyong"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dipelo tsa bone"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "ka dithaelo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:48.484123394Z",
+  "model": "glm-5.3"
+}

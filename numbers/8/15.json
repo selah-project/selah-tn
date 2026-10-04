@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme morago ga seo balevi ba tle go direla ⟨את⟩ tente ya kopano, mme o ba hlwekise ⟨את⟩ mme o ba rwele jaaka ⟨את⟩ tebofo.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "mme morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba tle"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "go direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tente"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "mme o ba hlwekise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "balevi"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "mme o ba rwele jaaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tebofo"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tebofo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:41.946857958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Ke tla ya kae go tswa mo rukhakeng ya gago? Ke tla balegela kae go tswa mo sefatshong sa gago?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "Ke tla ya"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "go tswa mo rukhakeng ya gago"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ke tla balegela kae"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "go tswa mo sefatshong sa gago"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "balegela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:44.012469798Z",
+  "model": "glm-5.3"
+}

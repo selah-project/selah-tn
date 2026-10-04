@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Yahwe o tla fenya ⟨את⟩ ditshaba tsotlhe tseno kafa pele ga lona, mme lo tla di fenya; ditshaba tse dikgolo, tse di nonofileng go feta lona.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "Mme...o tla fenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshaba tsotlhe tseno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "kafa pele ga lona"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "mme lo tla di fenya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "tse dikgolo"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "tse di nonofileng"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "go feta lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:16.835561296Z",
+  "model": "glm-5.3"
+}

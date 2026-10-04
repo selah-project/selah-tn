@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ke tlaa dira ⟨את⟩ Yerushalayime go nna dithopho, legae la dinoka, mme ke tlaa dira ⟨את⟩ ditoropo tsa Yudha go nna tahoko, go se na mmudi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Mme ke tlaa dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "go nna dithopho"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "legae"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "la dinoka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditoropo tsa Yudha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ditoropo tsa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tlaa dira"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "go nna tahoko"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "go se na"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mmudi"
+    }
+  ],
+  "timestamp": "2026-10-04T00:10:50.495674447Z",
+  "model": "glm-5.3"
+}

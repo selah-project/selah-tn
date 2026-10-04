@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 116,
+  "translation": "Wa mohau ke Yahwe, ebile wa tsedeke; mme Elohim ya rona ke wa kutlwelawahlogo.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "wa mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ebile wa tsedeke"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "mme Elohim ya rona"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "wa kutlwelawahlogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:21.563442358Z",
+  "model": "glm-5.3"
+}

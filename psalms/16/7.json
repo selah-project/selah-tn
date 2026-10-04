@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Ke tla lobela ⟨את⟩ Yahwe, yo o ntlhagisitseng; ee, dipuiso tsa me di a ntlhagisa bosigo.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "ke tla lobela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "o ntlhagisitseng"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "di a ntlhagisa"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "dipuiso tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:19.743469888Z",
+  "model": "glm-5.3"
+}

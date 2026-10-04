@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Tlhaloganyang se, lona ba lebisang Eloha tlhoko; fela ke nnyaa ka lo thaga, mme go se nngwe yo o ka lo bolokang.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "tlhaloganyang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "lona ba lebisang tlhoko"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fela ke nnyaa"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "ka lo thaga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme go se nngwe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "yo o ka lo bolokang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:13.956713764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ka botsa malengwa oo yo o buang mo go nna: Ke eng tseno? Mme a mpolelela: Tseno ke dikhudu tse di rulagantseng ⟨את⟩ Yuda, ⟨את⟩ Yisraele le Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mme ka botsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malengwa oo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yo o buang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a mpolelela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "dikhudu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "rulagantseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T01:08:33.616100364Z",
+  "model": "glm-5.3"
+}

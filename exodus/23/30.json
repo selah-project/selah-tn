@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ka bonnyane jwa bonnyane ke tla ba gogela kgakala go tswa pele ga gawena, go fitlha o nala, mme o rule ⟨את⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ka bonnyane"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "jwa bonnyane"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "ke tla ba gogela kgakala"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "go tswa pele ga gawena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "o nala"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "mme o rule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:37.914411454Z",
+  "model": "glm-5.3"
+}

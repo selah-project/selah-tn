@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme Bafilisitia ba bolaoka ⟨את⟩ masomo a bone a ntwa, ba laakanya kwa Soko, e e mo Yhuda, ba nna phologolo fa gare ga Soko le Aseka, kwa Efese-Damime.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ba bolaoka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisitia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masomo a bone"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "masomo a bone"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "a ntwa"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ba laakanya"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e mo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yhuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba nna phologolo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "fa gare ga"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Aseka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "kwa Efese"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:01:55.910954025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 109,
+  "translation": "Mme ba bula bosula mo go nna fa se molemong, mme tlhoyo fa seatleng sa lorato la me.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "mme ba bula"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fa se"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "mme tlhoyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fa seatleng sa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "lorato la me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:54.120215303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "A ga lo kaya bana ba Bakushite go nna, bana ba Yisraele? go bua Yahwe. A ga ke ka ke ka ntsha ⟨את⟩ Yisraele go tswa mo lefatsheng la Mitsrayime, le Bafilista go tswa mo Kafthore, le Barame go tswa mo Kiri?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "A ga ... kaya"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "go kaya bana"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "ba Bakushite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "A ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ka ntsha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tswa mo lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "le Bafilista"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "go tswa mo Kafthore"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "le Barame"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "go tswa mo Kiri"
+    }
+  ],
+  "timestamp": "2026-10-04T01:00:13.324017165Z",
+  "model": "glm-5.3"
+}

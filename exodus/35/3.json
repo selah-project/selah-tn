@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Se ke la baya molelo mo malapeng a lona otlhe, ka letsatsi la Shabata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "la baya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo … otlhe"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "malapeng a lona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:55.892905570Z",
+  "model": "glm-5.3"
+}

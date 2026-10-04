@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme bagolo botlhe ba Yisraele ba tsaya, mme bapriste ba epola ⟨את⟩ arke.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe ba"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ba epola"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bapriste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arke"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arke"
+    }
+  ],
+  "timestamp": "2026-10-03T23:23:44.570146477Z",
+  "model": "glm-5.3"
+}

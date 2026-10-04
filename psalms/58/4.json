@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 58,
+  "translation": "Ba boshula ba tlositswe mo popelong; ba tlhakathega mo mmaleng, ba bua maaka.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "ba tlositswe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba boshula"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mo popelong"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ba tlhakathega"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mo mmaleng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "maaka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:20.740251376Z",
+  "model": "glm-5.3"
+}

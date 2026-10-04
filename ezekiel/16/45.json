@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Morwadia mmaago ke ⟨את⟩ wena, yo o latlhang monna wa gagwe le bana ba gagwe; mme kgaitsedi ya dikgaitsediago ke ⟨את⟩ wena, ba ba latlhileng banna ba bone le bana ba bone; mmaago bone ke Mohiti, mme rraago bone ke Moemori.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mmaago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wena — o latlhang monna wa gagwe"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "o latlhang"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "monna wa gagwe"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "mme kgaitsedi ya"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "dikgaitsediago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wena — kgaitsedi ya dikgaitsediago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "latlhileng"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "banna ba bone"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "le bana ba bone"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "mmaago bone"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Mohiti"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "mme rraago bone"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Moemori"
+    }
+  ],
+  "timestamp": "2026-10-04T00:37:15.667530065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme a tsenya ⟨את⟩ bapriste le ⟨את⟩ Balevi, mme a ba phutha kwa seraleng sa botlhaba.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Mme a tsenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapriste"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bapriste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "mme a ba phutha"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "kwa seraleng sa"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "botlhaba"
+    }
+  ],
+  "timestamp": "2026-10-04T03:27:14.090041357Z",
+  "model": "glm-5.3"
+}

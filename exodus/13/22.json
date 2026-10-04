@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Ga go a ka ga tlosiwa molula wa leru ka letsatsi, le molula wa molelo ka bofuse, go tswa fa pele ga setshaba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ga go a ka ga"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "tlosiwa"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "molula wa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "leru"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "le molula wa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ka bofuse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:35.935384424Z",
+  "model": "glm-5.3"
+}

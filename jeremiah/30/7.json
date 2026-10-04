@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 30:7",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Ao! Gore letsatsi leo le kgolo, ga go sepe se se tshwanang le jone; mme ke yone nako ya botlhoko ya Yaakobo, mme go tswa mo go yona o tla bolokiwa.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ao!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le kgolo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sepe se se tshwanang le jone"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mme nako"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ya botlhoko"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke yone"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ya Yaakobo"
+    },
+    {
+      "surface": "וממנה",
+      "gloss": "mme go tswa mo go yona"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "o tla bolokiwa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:20:01.635256126Z",
+  "model": "glm-5.3"
+}

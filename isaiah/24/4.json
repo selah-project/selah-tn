@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Lefatshe le tsuologile, le fela; lefatshe le dutlwe, le fela; ba ba kwa godimo ba setshaba sa lefatshe ba dutlwe.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "le tsuologile"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "le fela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "le dutlwe"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "le fela"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe le"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ba dutlwe"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ba ba kwa godimo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ba setshaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:10.054925572Z",
+  "model": "glm-5.3"
+}

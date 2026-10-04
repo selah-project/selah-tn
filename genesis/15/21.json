@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "le ⟨את⟩ ba-Amorite, le ⟨את⟩ Mokenane, le ⟨את⟩ Mokergashe, le ⟨את⟩ Mojabose.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Amorite"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ba-Amorite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mokenane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokenane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mokergashe"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Mokergashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mojabose"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Mojabose"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:21.636146120Z",
+  "model": "glm-5.3"
+}

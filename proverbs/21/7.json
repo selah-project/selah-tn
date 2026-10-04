@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Leswelwa la ba ba bosula le tla ba goga, gonne ba gana go dira katlholo.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "leswelwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "la ba ba bosula"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "le tla ba goga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba gana"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:48:21.617435587Z",
+  "model": "glm-5.3"
+}

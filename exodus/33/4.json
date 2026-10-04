@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme sechaba se utlwa ⟨את⟩ mafoko a mabe a a ntseng jalo, ba tutubala; mme motho o ne a sa apara diaparo tsa gagwe tsa bontle.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "se utlwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a mabe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a a ntseng jalo"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ba tutubala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "apara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "diaparo tsa gagwe tsa bontle"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "diaparo tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:48.340814908Z",
+  "model": "glm-5.3"
+}

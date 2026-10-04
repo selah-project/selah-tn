@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme a tlisa ⟨את⟩ sehlabelo se se fisang, mme a se dira go ya ka tlwaelo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo se se fisang"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo se se fisang"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "a se dira"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "go ya ka tlwaelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:51.492979455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "A bua, mme go tsena dikhukhwane le dikwankwa, mo melelwaneng ya bone yotlhe.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme go tsena"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "dikhukhwane"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "dikwankwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo... yotlhe"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "melelwane ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:01.996633104Z",
+  "model": "glm-5.3"
+}

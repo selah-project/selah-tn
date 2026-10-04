@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Go utlwa ka tsebe ba a utlwa me; bana ba mošwi ba a ikhutsafatla go nna.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "go utlwa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ka tsebe"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ba a utlwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ba mošwi"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ba a ikhutsafatla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:44.627488978Z",
+  "model": "glm-5.3"
+}

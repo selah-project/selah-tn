@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 2:26",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Jaana setshwantsho sa sesumi ge a bonwa, jalo ntlo ya Yisraele e swabilwe — bone, dikgosi tsa bone, baeteledipele ba bone, bapriste ba bone le baporofeti ba bone.",
+  "tokens": [
+    {
+      "surface": "כבשת",
+      "gloss": "setshwantsho sa"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "sesumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "a bonwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jaana"
+    },
+    {
+      "surface": "הבישו",
+      "gloss": "e swabilwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dikgosi tsa bone"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "baeteledipele ba bone"
+    },
+    {
+      "surface": "וכהניהם",
+      "gloss": "bapriste ba bone"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "baporofeti ba bone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:13:20.221541488Z",
+  "model": "glm-5.3"
+}

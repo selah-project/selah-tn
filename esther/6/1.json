@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mo bosigong jo boroko jwa kgosi bo ne bo ile, mme a re go ise ⟨את⟩ buka ya dikhologo, mafoko a malatsi, mme di ne tsa balwa pele ga kgosi.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "mo bosigong"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "bo ne bo ile"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "boroko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "jwa kgosi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "go isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buka"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buka"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "ya dikhologo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "a malatsi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme di ne tsa"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    }
+  ],
+  "timestamp": "2026-10-04T02:17:23.518965899Z",
+  "model": "glm-5.3"
+}

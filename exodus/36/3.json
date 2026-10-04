@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 36:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme ba tsaya go tswa kwa go Moshe ⟨את⟩ mpho yotlhe e bana ba Yisraele ba nèeng ebone ya tiro ya tirelo ya boitshepo go e dira; mme ba ne ba sa tswele ba mo neela mpho ya boithaopo moso le moso.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ba tsaya"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "go tswa kwa go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ba nèeng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "ya tiro"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ya tirelo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya boitshepo"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "go e dira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (mpho eo)"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme ba ne"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ba sa tswele ba neela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa tswele"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "mpho ya boithaopo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le moso"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:09.284627330Z",
+  "model": "glm-5.3"
+}

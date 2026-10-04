@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Mme ka boadinvela jwa gao, atlega, raka, ka ntlha ya lefoko la boikanyego le botlhagafatsi le tsedeke; mme letsogo lao la moja le tla go ruta dilo tse di makatsang.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "ka boadinvela jwa gao"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "atlega"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "raka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "boikanyego"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "botlhagafatsi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "le tla go ruta"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dilo tse di makatsang"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsogo lao la moja"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:53.295680980Z",
+  "model": "glm-5.3"
+}

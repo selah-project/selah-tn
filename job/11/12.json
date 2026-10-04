@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme motho yo o se nang tlhaloganyo o tlaa nna le tlhaloganyo, fa phologolo ya tonki ya tlhaga e belega motho.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme motho"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "yo o se nang tlhaloganyo"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "o tlaa nna le tlhaloganyo"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "fa phologolo ya tonki"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "ya tlhaga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "e belega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:25.913398003Z",
+  "model": "glm-5.3"
+}

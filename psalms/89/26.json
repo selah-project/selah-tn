@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Ke tla bea seatla sa gagwe mo lewatleng, le letsogo la gagwe la mo jaong mo dinokeng.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ke tla bea"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mo lewatleng"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "le mo dinokeng"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "letsogo la gagwe la mo jaong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:10.798915806Z",
+  "model": "glm-5.3"
+}

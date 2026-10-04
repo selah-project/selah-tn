@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "O se ka wa bua boshweu kgatlhanong le moagisana wa gago.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bua"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "kgatlhanong le moagisana wa gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "paki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "boshweu"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:42.670946793Z",
+  "model": "glm-5.3"
+}

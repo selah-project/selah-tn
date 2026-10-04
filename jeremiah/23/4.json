@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 23:4",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme ke tla ba tlhoma badisa ba ba tla ba tlhokomelang; mme ba sa tshaba, ba sa thothomela, ba sa tlhoka go bone, go bua Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "mme ke tla ba tlhoma"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "badisa"
+    },
+    {
+      "surface": "ורעום",
+      "gloss": "ba ba tla ba tlhokomelang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "ba sa tshaba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "ba sa thothomela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יפקדו",
+      "gloss": "ba sa tlhoka go bone"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:16:12.811916033Z",
+  "model": "glm-5.3"
+}

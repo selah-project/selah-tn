@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "O tla di tlhatswa, ruakh e di tlhatlosa, sefofane se di phatlalatsa ⟨את⟩bone; fela wena o tla itumelela go Yahwe, o tla ikakanya go E e Boitshepo ya Yisraele.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "o tla di tlhatswa"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "e di tlhatlosa"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "sefofane"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "se di phatlalatsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩bone",
+      "marks": "bone (dithaba tse di fokoletsweng)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fela wena"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "o tla itumelela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "go E e Boitshepo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "o tla ikakanya"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:45.342607490Z",
+  "model": "glm-5.3"
+}

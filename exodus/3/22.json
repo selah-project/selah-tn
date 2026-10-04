@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme mosadi o tla kopa wa moagisanyane le wa a nang mo tlung ya gagwe dithoto tsa selefera le tsa gauta, le diaparo; mme le tla di beisa mo baneng ba lona le mo baneng ba lona basha; mme le tla thuba ⟨את⟩ baagi ba Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "o tla kopa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "wa moagisanyane"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "le wa a nang"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mo tlung ya gagwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithoto tsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "le dithoto tsa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "le diaparo"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mme le tla di beisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "baneng ba lona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "baneng ba lona basha"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "mme le tla thuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baagi ba Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baagi ba Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:50.709557860Z",
+  "model": "glm-5.3"
+}

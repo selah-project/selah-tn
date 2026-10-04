@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "Ka gobo moya wa me o tlala ka dikgotlhisara, mme botshelo jwa me bo fihlela kwa Sheole.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "o tlala"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "ka dikgotlhisara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "mme botshelo jwa me"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwa Sheole"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "bo fihlela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:25.101108439Z",
+  "model": "glm-5.3"
+}

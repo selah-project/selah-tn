@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Elohim a dira ⟨את⟩ rakiya, a kgaogantsha magareng ga metsi a a kwa tlase ga rakiya le metsi a a kwa godimo ga rakiya; mme go nna jalo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakiya"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "a kgaogantsha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kwa tlase ga"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le magareng ga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kwa godimo ga"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:56.714741851Z",
+  "model": "glm-5.3"
+}

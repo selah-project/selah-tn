@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Tshwara ⟨את⟩ Balevi mo gare ga bana ba ga Yisraele, mme o ba tlhaphafatse ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tshwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "mme o ba tlhaphafatse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Balevi"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:15.516821805Z",
+  "model": "glm-5.3"
+}

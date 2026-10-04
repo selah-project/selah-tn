@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme go ne go le jalo, fa Ahiya a utlwa ⟨את⟩ modumo wa maoto a gagwe a tsena kwa lebateng, a re: Tsena, mosadi wa Yeroboame; ke eng se o itira mošwa? Gonne ke romilwe go wena ka se se boima.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go ne go le jalo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "fa a utlwa"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "wa maoto a gagwe"
+    },
+    {
+      "surface": "באה",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "kwa lebateng"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "באי",
+      "gloss": "Tsena"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "wa Yeroboame"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "o itira mošwa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Gonne ke"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "romilwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ka se se boima"
+    }
+  ],
+  "timestamp": "2026-10-03T23:27:21.145031374Z",
+  "model": "glm-5.3"
+}

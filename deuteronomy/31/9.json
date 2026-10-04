@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Mme Moshe a kwala ⟨את⟩ Torah eno, mme a e naya bakaulengwe ba balebedi, bana ba Levi, ba ba rwalang ⟨את⟩ arone ya kgolagano ya Yahwe, le go ba babogolo botlhe ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "a kwala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah eno"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah eno"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "a e naya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakaulengwe ba balebedi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ba ba rwalang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arone"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arone"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya kgolagano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe ba"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "babogolo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:11.313538434Z",
+  "model": "glm-5.3"
+}

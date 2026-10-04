@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme kgosi e ntsha ⟨את⟩ sekereseto sa yone mo seatleng sa yone, mme e se neela Hamane, morwa wa Medata, wa Moagage, moloi wa Bajuda.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "mme e ntsha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekereseto sa yone"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "sekereseto sa yone"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatleng sa yone"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "mme e se neela"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "wa Moagage"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "moloi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "wa Bajuda"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:31.511424993Z",
+  "model": "glm-5.3"
+}

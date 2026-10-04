@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Medimo e e eleditsweng ga o e dire go wena.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "medimo e e eleditsweng"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "e e eleditsweng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:01.311559129Z",
+  "model": "glm-5.3"
+}

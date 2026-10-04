@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Bana ba ba tla belegwang go bona, seologenseme sa bone sa boraro, se tla tsena mo setlhopheng sa Yahwe.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ba tla belegwang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "דור",
+      "gloss": "seologenseme"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "sa boraro"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "se tla tsena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mo setlhopheng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:23.769617422Z",
+  "model": "glm-5.3"
+}

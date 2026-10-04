@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme banna ba Babilone ba dirile ⟨את⟩ Sukote-Benote, mme banna ba Kute ba dirile ⟨את⟩ Nergale, mme banna ba Hamate ba dirile ⟨את⟩ Ashime.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "mme banna ba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilone"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukote-Benote"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukote"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benote"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "mme banna ba"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kute"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergale"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergale"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "mme banna ba"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamate"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashime"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:40:21.135113307Z",
+  "model": "glm-5.3"
+}

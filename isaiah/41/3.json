@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "O ba tlaleletsa, o feta ka kagiso; o tsela e sa e tsamayeng ka maoto a gagwe.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "o ba tlaleletsa"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "o feta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ka kagiso"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "o tsela"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ka maoto a gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "e tsamayeng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:58:05.281719806Z",
+  "model": "glm-5.3"
+}

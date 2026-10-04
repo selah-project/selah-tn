@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme ke tla romela morongwa pele ga gago, mme ke tla tlhotlhora ⟨את⟩ Mokanana, Moamora, Mohete, Moperize, Mohive le Moyebuse.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ke tla romela"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "morongwa"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ke tla tlhotlhora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokanana"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanana"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Moamora"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Mohete"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Moperize"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mohive"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Moyebuse"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:48.340502204Z",
+  "model": "glm-5.3"
+}

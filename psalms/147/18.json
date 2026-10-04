@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "O romela lefoko la gagwe mme di a tsenngwa; o baya ruakh wa gagwe go noka, mme metsi a a elela.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "o romela"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lefoko la gagwe"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "mme di a tsenngwa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o baya go noka"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh wa gagwe"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "a a elela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:03.559443299Z",
+  "model": "glm-5.3"
+}

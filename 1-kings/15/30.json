@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Ka ntlha ya dibe tsa Yerobowame tse a neng a di dira, le tse a neng a dira gore Yisraele e di dire, le ka bogale jwa gagwe jwa go kgopoloa ga gagwe go tswhikitso ya gagwe ya ⟨את⟩ Yahwe, Elohim wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ka ntlha ya"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dibe tsa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobowame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a neng a di dira"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le tse"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "a neng a dira gore e di dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "le ka bogale jwa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jwa"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "go kgopoloa ga gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:14.531654834Z",
+  "model": "glm-5.3"
+}

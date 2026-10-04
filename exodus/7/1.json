@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Yahwe a re go Moshe: Bonwe, go go ntshitse Elohim go Faro, mme Aharone kgaitsadio a nne moporofeti wa gago.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "go go ntshitse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "go Faro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mme Aharone"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kgaitsadio"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a nne"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "moporofeti wa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:57.653009577Z",
+  "model": "glm-5.3"
+}

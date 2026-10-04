@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme o beke ⟨את⟩ kgetsana magareng ga Tente ya Kopano le aletare, mme o baye koo metsi.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "mme o beke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgetsana"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kgetsana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kopano"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o baye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:05.560448153Z",
+  "model": "glm-5.3"
+}

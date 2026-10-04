@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 96,
+  "translation": "Gore Yahwe ke mogolo, mme o segolatswa thata; o a tshosiwa go feta medimo yotlhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ke mogolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "mme o segolatswa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "o a tshosiwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩ o"
+    },
+    {
+      "surface": "על",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:52.184196781Z",
+  "model": "glm-5.3"
+}

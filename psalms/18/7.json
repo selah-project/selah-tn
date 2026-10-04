@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mo maemong a me a bothata ke ne ke bitsa Yahwe, mme ke kua ka go Elohim ya me; o ne a utwa lentswe la me go tswa mo tempeleng ya gagwe, mme kua ya me e ne ya tsena mo ditsebeng tsa gagwe.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "mo maemong a me a bothata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke ne ke bitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ka go"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya me"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ke kua"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o ne a utwa"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "go tswa mo tempeleng ya gagwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentswe la me"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "mme kua ya me"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fa pele ga gagwe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "e ne ya tsena"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "mo ditsebeng tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:41.857098389Z",
+  "model": "glm-5.3"
+}

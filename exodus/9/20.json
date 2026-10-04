@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Yo o neng a tshaba ⟨את⟩ lentšu la Yahwe, mo makgobong a Farao, o ne a balekisa ⟨את⟩ makgoba a gagwe le ⟨את⟩ dikgomo tsa gagwe a ba isa mo malapeng.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Yo o neng a tshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu la Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "mo makgobong"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "a Farao"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "o ne a balekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makgoba a gagwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "makgoba a gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo tsa gagwe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "dikgomo tsa gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a ba isa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "mo malapeng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:35:49.587470546Z",
+  "model": "glm-5.3"
+}

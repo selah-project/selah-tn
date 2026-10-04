@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme jaanong seke la tshaba; nna ke tla le tlhokomela, le bana ba lona ba bannyane. Mme a ba kgotsofatsa, mme a bua mo dipelong tsa bone.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jaanong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "seke"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "la tshaba"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "ke tla le tlhokomela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "bana ba lona ba bannyane"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "mme a ba kgotsofatsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bone"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dipelong tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:45.448293878Z",
+  "model": "glm-5.3"
+}

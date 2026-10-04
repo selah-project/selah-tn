@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 20:15",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme le me ka ikanela ka go tlhatlosa seatla sa me mo go bone mo nageng: ga ke na go ba isa kwa lefatsheng leo ke neng ke ba neela, lefatshe le elelang mashi le dinotshe, lefatshe le tlhakaneng ka botlhokwa go fatshe tsotlhe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ka ikanela ka go tlhatlosa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa me"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo nageng"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ga ke na go"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ba isa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke neng ke ba neela"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "le elelang"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mashi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le dinotshe"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "le tlhakaneng ka botlhokwa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "lefatshe le"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "fatshe tsotlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:39:32.100090558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Moshe a isa kwa pele ⟨את⟩ Aharone le ⟨את⟩ bana ba gagwe, ⟨את⟩ a ba tlhatswa ka metsi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a isa kwa pele"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "a ba tlhatswa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ a ba"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:31.081527191Z",
+  "model": "glm-5.3"
+}

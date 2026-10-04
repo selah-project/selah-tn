@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Fela Ene ke lefika la me le bolokolohi jwa me; ke lefelo la me le phagamo; ga ke tla tsamaya ke sutegela thata.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ene"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lefika la me"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "le bolokolohi jwa me"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "lefelo la me le phagamo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ke tla tsamaya ke sutegela"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "thatа"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:26.400983128Z",
+  "model": "glm-5.3"
+}

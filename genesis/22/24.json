@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme molatedi wa gagwe, leina la gagwe e ne e le Reuma, yena o ne a tsala gape ⟨את⟩ Tebakhe, le ⟨את⟩ Gakgame, le ⟨את⟩ Takhashe, le ⟨את⟩ Maaka.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Mme molatedi wa gagwe"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o ne a tsala gape"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebakhe"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Gakgame"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gakgame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Takhashe"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Takhashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Maaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:34.986349319Z",
+  "model": "glm-5.3"
+}

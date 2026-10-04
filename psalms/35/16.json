@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mabapi le ba ba sa itshepang, ba ba beta diphoso mo dikoping, ba ne ba bubaletse meno ya bone kgatlhanong le nna.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "mabapi le ba ba sa itshepang"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "ba ba beta diphoso"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "mo dikoping"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "ba ne ba bubaletse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatlhanong le nna"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "meno ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:22.530342521Z",
+  "model": "glm-5.3"
+}

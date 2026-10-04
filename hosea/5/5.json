@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme boikhauhau bja Yisraele bo tla araba mo sefathegong sa sona; mme Yisraele le Efrayime di tla iketla molatong wa tsona; Yuda le yena o iketlile le tsona.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "mme ... bo tla araba"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boikhauhau"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "mo sefathegong sa sona"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "mme Yisraele"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "le Efrayime"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "di tla iketla"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "molatong wa tsona"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "o iketlile"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le yena"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "le tsona"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:48.725004588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Hamane a raya kgosi: Go monna yo kgosi e iponelea go mo tlotla —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a raya"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "raya ⟨mo⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "e iponelea"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "go mo tlotla"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:50.392974838Z",
+  "model": "glm-5.3"
+}

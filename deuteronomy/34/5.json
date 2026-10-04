@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme Moshe, motlhanka wa Yahwe, a tlhokafala koo, mo lefatsheng la Moabe, ka molomo wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a tlhokafala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "motlhanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "la Moabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:34:31.196177609Z",
+  "model": "glm-5.3"
+}

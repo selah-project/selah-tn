@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Ba tlaa kgorwa ka bokhutu jwa ntlo ya gago, mme molapo wa meleti ya gago o tlaa ba nwesa.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "Ba tlaa kgorwa"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "ka bokhutu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya gago"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "mme molapo"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "meleti ya gago"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "o tlaa ba nwesa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:11.978132474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme Yahwe a tlhoma nakwana e e beilweng, a re: Moso Yahwe o tla dira sepe se mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a tlhoma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nakwana e e beilweng"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Moso"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla dira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sepe se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:24.913853199Z",
+  "model": "glm-5.3"
+}

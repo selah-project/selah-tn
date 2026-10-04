@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Nosa ⟨את⟩ tlhogo ya bana ba Gereshone le bone, ka malapa a bo-rra-bone, ka malapa a bone:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Nosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhogo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshone"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka malapa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "a bo-rra-bone"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka malapa a bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:04:12.304146144Z",
+  "model": "glm-5.3"
+}

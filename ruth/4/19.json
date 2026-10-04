@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Khetsrone o begetse ⟨את⟩ Rame, mme Rame o begetse ⟨את⟩ Aminadabe.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "mme Khetsrone"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o begetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rame"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Rame"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "mme Rame"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o begetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadabe"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:08:53.261422878Z",
+  "model": "glm-5.3"
+}

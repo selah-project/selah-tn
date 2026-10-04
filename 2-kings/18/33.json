@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "A medimo ya ditshaba e ne ya boloka ⟨את⟩ lefatshe la mongwe le mongwe mo seatleng sa kgosi ya Ashure?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "A ... e ne"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo ya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la mongwe le mongwe"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "lefatshe la gagwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:40.966892437Z",
+  "model": "glm-5.3"
+}

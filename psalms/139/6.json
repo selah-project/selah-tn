@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Kitso ya gago e makatsa thata; e kgolo go nna, e kwa godimo — ga nkgonne e.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "e makatsa thata"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kitso"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "e kwa godimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nkgonne"
+    },
+    {
+      "surface": "לה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:44.012353154Z",
+  "model": "glm-5.3"
+}

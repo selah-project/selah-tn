@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Go ikokobetsa ya boikokobetso lefoko la gago le eme kwa magodimong, go ya le lekatikati, lefoko la gago le eme kwa magodimong; o tlhomile lefatshe, mme le eme.",
+  "tokens": [
+    {
+      "surface": "לדור",
+      "gloss": "kokobetso"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "le kokobetso"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "boikokobetso jwa gago"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "o tlhomile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "mme le eme"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:04.533654422Z",
+  "model": "glm-5.3"
+}

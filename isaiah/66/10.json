@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Itumelelang ka ⟨את⟩ Yerushalayime, mme lo itumelele ka yona, lona lotlhe ba le ratang; itumelelang ⟨את⟩ le ene ka boitumelo, lona lotlhe ba le laila mo go yona.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "itumelelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mme lo itumelele"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lona lotlhe"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "ba le ratang"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "itumelelang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "le ene ⟨את⟩"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ka boitumelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lona lotlhe"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "ba le laila"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo go yona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:13:14.659801613Z",
+  "model": "glm-5.3"
+}

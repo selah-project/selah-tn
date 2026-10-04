@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Gore ba me ke bana ba Yisraele; makgoba a me ke bone, bao ke ba tlositseng ⟨את⟩ bone mo lefatsheng la Mitsrayime; nna ke Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "makgoba"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ke ba tlositseng"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:40.108900787Z",
+  "model": "glm-5.3"
+}

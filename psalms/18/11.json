@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme o ne wa nama mo kerubeng, a fofa; ee, o ne wa fofa mo mafukeng a ruakh.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "mme o ne wa nama"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubeng"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "a fofa"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ee, o ne wa fofa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo mafukeng a"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mafukeng"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:20.243682455Z",
+  "model": "glm-5.3"
+}

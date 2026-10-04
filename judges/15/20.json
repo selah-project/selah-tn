@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme a atlholela ⟨את⟩ Yisraele ka malatsi a Pelishtime, dingwaga di masome a mabedi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Mme a atlholela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ka malatsi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Pelishtime"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "di masome a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T22:51:38.074314666Z",
+  "model": "glm-5.3"
+}

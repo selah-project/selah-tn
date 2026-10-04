@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 29:2",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "morago ga go tsamaya ga Yekonyahe kgosi, le kgosigadi, le baofi ba kgosi, bagosi ba Yuda le ba Yerushalayime, le baatlaodi le baetsi ba ditshepe, go tswa kwa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonyahe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "והגבירה",
+      "gloss": "le kgosigadi"
+    },
+    {
+      "surface": "והסריסים",
+      "gloss": "le baofi ba kgosi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bagosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le ba Yerushalayime"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "le baatlaodi"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "le baetsi ba ditshepe"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "go tswa kwa Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T00:20:43.468218789Z",
+  "model": "glm-5.3"
+}

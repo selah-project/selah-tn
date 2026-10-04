@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Nako ya go batla, le nako ya go latlhega; nako ya go boloka, le nako ya go latlhula.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "go batla"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le nako"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "go latlhega"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le nako"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "go latlhula"
+    }
+  ],
+  "timestamp": "2026-10-04T02:12:48.221169947Z",
+  "model": "glm-5.3"
+}

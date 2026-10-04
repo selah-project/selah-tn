@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ba bua mafoko, ba tsaya ka molato ka maaka ka go ka kgolagano; mme katlholo e tlhaga jaaka peo e e bolayang mo dikgorokgweng tsa masimo.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "ba tsaya ka molato"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ka maaka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ka go ka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "mme e tlhaga"
+    },
+    {
+      "surface": "כראש",
+      "gloss": "jaaka peo e e bolayang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "dikgorokgweng"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tsa masimo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:56:00.864803065Z",
+  "model": "glm-5.3"
+}

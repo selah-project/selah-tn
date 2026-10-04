@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme Akabe a romela mo baneng ba Yisraele botlhe, mme a bokoutsa ⟨את⟩ baporofeti kwa thabeng ya Karmeile.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mme a romela"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akabe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo botlhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "baneng ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "mme a bokoutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baporofeti"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "baporofeti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmeile"
+    }
+  ],
+  "timestamp": "2026-10-03T23:29:37.687009231Z",
+  "model": "glm-5.3"
+}

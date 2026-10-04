@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Ka gonne ke tla bolela bosweu jwa me; ke tshwenyega ka boleo jwa me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "bosweu jwa me"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ke tshwenyega"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ka boleo jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:50.317003255Z",
+  "model": "glm-5.3"
+}

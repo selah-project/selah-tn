@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme go tswa mo setshabeng sa Yisasikhara: ⟨את⟩ Kedeshe le ⟨את⟩ mafuso a yona, ⟨את⟩ Daberathe le ⟨את⟩ mafuso a yona.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mme go tswa mo setshabeng sa"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisasikhara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeshe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafuso a yona"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mafuso a yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberathe"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberathe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafuso a yona"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mafuso a yona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:36.801039575Z",
+  "model": "glm-5.3"
+}

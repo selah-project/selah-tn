@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme lentswe le ne le molemo kwa mahlong a Adonai, gore Shelomoh o ne a kopa lentswe ⟨את⟩ le.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "mme le ne le molemo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kwa mahlong a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "o ne a kopa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:02.735205606Z",
+  "model": "glm-5.3"
+}

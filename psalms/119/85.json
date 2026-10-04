@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ba dikhoo ba ntshola dipitsa tsa me, se se se sa tsamaiseng le Torah ya gago.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ba ntshola"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tsa me"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ba dikhoo"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "dipitsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go le jalo"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "jaaka Torah ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:27.643710022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Yahwe a re go Moshe kwa Midiyane: Tsamaya, boela kwa Mitsrayime, gonne ba tlhokafetse botlhe banna ba ba neng ba batla ⟨את⟩ botshelo ja gago.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "kwa Midiyane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tsamaya"
+    },
+    {
+      "surface": "שב",
+      "gloss": "boela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kwa Mitsrayime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ba tlhokafetse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "ba ba neng ba batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshelo ja gago"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "botshelo ja gago"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:32.021647096Z",
+  "model": "glm-5.3"
+}

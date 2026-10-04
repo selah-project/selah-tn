@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Gore ka dinnue tsa go tsubela le ka puo e nngwe o tla bua le setshaba se.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "tsa go tsubela"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "dinnue"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "le ka puo"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-04T03:12:13.406719396Z",
+  "model": "glm-5.3"
+}

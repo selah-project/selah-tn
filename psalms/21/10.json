@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "O tlaa ba dira jaaka sesepa sa molelo, ka nako ya sebo sa gago; Yahwe ka bogale jwa gagwe o tlaa ba melemelela, mme molelo o tlaa ba ja.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "O tlaa ba dira jaaka"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "sesepa sa molelo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ka nako ya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sebo sa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ka bogale jwa gagwe"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "o tlaa ba melemelela"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "mme o tlaa ba ja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:25.488569092Z",
+  "model": "glm-5.3"
+}

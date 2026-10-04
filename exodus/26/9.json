@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "O tlaa kopanya ⟨את⟩ dirala di le tlhano ka bongwe, mme ⟨את⟩ di le thataro ka bongwe; o tlaa gapsa ⟨את⟩ serala sa borataro go lebane le sephatlo sa pele sa tenthle.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "o tlaa kopanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirala di le tlhano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "di le tlhano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dirala"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ka bongwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "di le thataro"
+    },
+    {
+      "surface": "שש",
+      "gloss": "di le thataro"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dirala"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ka bongwe"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "o tlaa gapsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serala sa borataro"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "serala"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "sa borataro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מול",
+      "gloss": "lebane le"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sephatlo sa pele"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tenthle"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:51.117574779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 9:10",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Jaaka merebe mo nageng, ke ne ke fumetse ⟨את⟩ Yisraele; jaaka peo ya ntlha ya mo setlhareng sa mafei, kwa tshimologong ya sone, ke ne ke bona bo-ntate ba lona; bona ba ne ba tseneela Baale-Peore, ba ikhapisitse go Bosula, ba nna dilo tse di makgapha jaaka se ba se ratang.",
+  "tokens": [
+    {
+      "surface": "כענבים",
+      "gloss": "jaaka merebe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mo nageng"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ke ne ke fumetse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כבכורה",
+      "gloss": "jaaka peo ya ntlha"
+    },
+    {
+      "surface": "בתאנה",
+      "gloss": "ya mo setlhareng sa mafei"
+    },
+    {
+      "surface": "בראשיתה",
+      "gloss": "kwa tshimologong ya sone"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke ne ke bona"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bo-ntate ba lona"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba ne ba tseneela"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baale-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peore"
+    },
+    {
+      "surface": "וינזרו",
+      "gloss": "ba ikhapisitse"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "go Bosula"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "שקוצים",
+      "gloss": "dilo tse di makgapha"
+    },
+    {
+      "surface": "כאהבם",
+      "gloss": "jaaka se ba se ratang"
+    }
+  ],
+  "timestamp": "2026-10-04T00:54:43.712256897Z",
+  "model": "glm-5.3"
+}

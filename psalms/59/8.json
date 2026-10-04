@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Bonang, ba ntsha ka molomo wa bone; ditshaka di mo dinneng tsa bone; gore, ke mang a utlwa?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "ba ntsha"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ka molomo wa bone"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ditshaka"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "mo dinneng tsa bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a utlwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:21.262627207Z",
+  "model": "glm-5.3"
+}

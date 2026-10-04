@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "A ka bosakhutshwana o tla nna o sa itumelela mo go rona? A tlhogofo ya gago e tla tswelela pele go tloga mo setlheng go ya go setlhe?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "a ka bosakhutshwana"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "o tla nna o sa itumelela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mo go rona"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "e tla tswelela pele"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tlhogofo ya gago"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "go tloga mo setlheng"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "go ya go setlhe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:20.384182398Z",
+  "model": "glm-5.3"
+}

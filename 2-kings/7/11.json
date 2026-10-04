@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme bareisi ba tlhatloba lentswe, ba bolelela kwa ntlong ya kgosi ba le mo teng.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Mme ba tlhatloba lentswe"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "bareisi"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ba bolelela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kwa ntlong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "ba le mo teng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:35:39.372860324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Fokotsega mo boloking mme o dire se se siameng; batla kagiso mme o se kaela yone.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Fokotsega"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "mo boloking"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "batla"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "mme o se kaela yone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:27.814079363Z",
+  "model": "glm-5.3"
+}

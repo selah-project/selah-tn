@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 120,
+  "translation": "Too long has my soul dwelt with the hater of peace!",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "too long"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "has dwelt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨for⟩ her (it)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my soul"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "the hater of"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:32.849290817Z",
+  "model": "glm-5.3"
+}

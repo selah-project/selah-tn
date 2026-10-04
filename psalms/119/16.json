@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Mo melawong ya gago ke tla ipela, ga nka lebala lefoko la gago.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "mo melawong ya gago"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ke tla ipela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "nka lebala"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lefoko la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:22.837280154Z",
+  "model": "glm-5.3"
+}

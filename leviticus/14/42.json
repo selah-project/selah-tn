@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme ba tsehe maje a mangwe, mme ba a tsenye kwa bofelong jwa maja ao; mme a tsehe sekgwa se sengwe, a bo a betse ⟨את⟩ ntlo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "mme ba tsehe"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "maje"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "a mangwe"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "mme ba a tsenye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bofelong jwa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "maja ao"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "mme sekgwa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "a tsehe"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "a bo a betse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:55:14.607652674Z",
+  "model": "glm-5.3"
+}

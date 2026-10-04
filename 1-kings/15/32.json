@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Mme go ne go na le ntwa gareng ga Asa le gareng ga Bawasha, kgosi ya Yisraele, malatsi a bone otlhe.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Mme ntwa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "go ne go na le"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gareng ga"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le gareng ga"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bawasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "malatsi a bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:14.531932197Z",
+  "model": "glm-5.3"
+}

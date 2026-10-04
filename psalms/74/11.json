@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Go tweng o busa seatla sa gago, le seatla se se siameng sa gago? Ntsha mo sehubeng sa gago, o ba fedise.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Go tweng"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "le seatla se se siameng sa gago"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mo sehubeng sa gago"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "⟨sehubeng sa gago⟩"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "o ba fedise"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:36.326880784Z",
+  "model": "glm-5.3"
+}

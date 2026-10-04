@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme a mo tlatsa ⟨את⟩ ka ruakh ya Elohim, ka bohlale, ka tlhaloganyo, le ka kitso, le mo tirong yotlhe.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "a mo tlatsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalele"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ka bohlale"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ka tlhaloganyo"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "le ka kitso"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mo ... yotlhe"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "tirong"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:59.101772804Z",
+  "model": "glm-5.3"
+}

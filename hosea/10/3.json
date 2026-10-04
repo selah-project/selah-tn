@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Ka gonne jaanong ba tla re: Ga go na kgosi ya rona, gonne re ne re sa boife ⟨את⟩ Yahwe; mme kgosi — e ka re dira eng?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla re"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ya rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "re sa"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "boife"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mme kgosi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e ka re dira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    }
+  ],
+  "timestamp": "2026-10-04T00:56:00.864653243Z",
+  "model": "glm-5.3"
+}

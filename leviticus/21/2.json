@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Ntle fela le maokeledi wa gagwe yo a mo gaufi le ene: mmaagwe, rraagwe, morwa wa gagwe, morwadia gagwe, kgaitsadie yo monnye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ntle fela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "le"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "maokeledi wa gagwe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yo a mo gaufi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "le ene"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "mmaagwe"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "morwadia gagwe"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "kgaitsadie yo monnye"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:03.730742016Z",
+  "model": "glm-5.3"
+}

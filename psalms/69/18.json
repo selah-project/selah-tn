@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Mme o se ka wa fitlha sefatlhego sa gago go modiri wa gago, gonne go tsieditswe me; iketla, araba me.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Mme o se ka wa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fitlha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefatlhego sa gago"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "go modiri wa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "צר",
+      "gloss": "go tsieditswe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "iketla"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "araba me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:53.146998810Z",
+  "model": "glm-5.3"
+}

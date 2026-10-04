@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Itekedisa gore o se ka wa tlogela ⟨את⟩ Molevite, malatsi a gago otlhe, mo lefatsheng la gago.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Itekedisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gore"
+    },
+    {
+      "surface": "פן",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "wa tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Molevite"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Molevite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "malatsi a gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "lefatsheng la gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:25:53.372994172Z",
+  "model": "glm-5.3"
+}

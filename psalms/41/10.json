@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "Le motho wa kagiso ya me, yo mo go ene neng ke tshepile, o jele senkgwe sa me, o goditse lesele go nna.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "wa kagiso ya me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "neng ke tshepile"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "o jele"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "senkgwe sa me"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "o goditse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "lesele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:49.825850620Z",
+  "model": "glm-5.3"
+}

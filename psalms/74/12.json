@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 74,
+  "translation": "Mme Elohim ⟨ke⟩ kgosi ya me go tloga kwa tshimologong, o dira diphodiso mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Mme Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kgosi ya me"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "go tloga kwa tshimologong"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "o dira"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "diphodiso"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨lefatshe⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:36.327134188Z",
+  "model": "glm-5.3"
+}

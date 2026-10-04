@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme bana ba Yisraele ba nne, mongwe le mongwe kwa kampeng ya gagwe, le mongwe le mongwe kwa segolotsing sa gagwe, go ya ka masomo a bone.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "ba nne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kampeng ya gagwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le mongwe le mongwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "segolotsing sa gagwe"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "go ya ka masomo a bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:02:11.814298166Z",
+  "model": "glm-5.3"
+}

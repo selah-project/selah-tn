@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme mongwe le mongwe wa balekane ba ba nang le botlhale mo go lona, a tle a bo a dire ⟨את⟩ sengwe le sengwe se Yahwe a se laletseng",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "balekane ba ba nang le botlhale"
+    },
+    {
+      "surface": "לב",
+      "gloss": ""
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "a tle"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "a bo a dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a se laletseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:45.545132864Z",
+  "model": "glm-5.3"
+}

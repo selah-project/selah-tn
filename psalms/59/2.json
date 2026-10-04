@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Ntlhabolole go ba ba mo tlhoyang, Elohim wa me; go ba ba tlhatlogang kgatlhanong le nna, nntshe kwa godimo.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ntlhabolole"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "go ba ba mo tlhoyang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa me"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "go ba ba tlhatlogang kgatlhanong le nna"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "nntshe kwa godimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:09.616902320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ka ba lekanya go bona ⟨את⟩ selefera le ⟨את⟩ gauta le ⟨את⟩ diterekwa, mpho ya ntlo ya Elohim ya rona, e kgosi le batlhalefi ba yona le ditona tsa yona le Yisraele yotlhe ba ba neng ba fitlhelwa ba neng ba e tlhatlosa.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "ka ba lekanya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selefera"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diterekwa"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "diterekwa"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim ya rona"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "ba neng ba e tlhatlosa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "e kgosi"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "le batlhalefi ba yona"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "le ditona tsa yona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ba ba neng ba fitlhelwa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:28:47.780267819Z",
+  "model": "glm-5.3"
+}

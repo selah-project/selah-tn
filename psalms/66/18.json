@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Bosula, fa ke ne ke se ke bo leletse mo pelong ya me, Adonai o ne a tlaa se reetsa.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "Bosula"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke ne ke se ke bo leletse"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "mo pelong ya me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga … a"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o ne a tlaa reetsa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:00.623652460Z",
+  "model": "glm-5.3"
+}

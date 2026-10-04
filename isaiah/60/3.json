@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "Mme ditshaba di tla tsamaya kwa ponalong ya gago, le dikgosi kwa khanyong ya go tlhagelela ga gago.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Mme di tla tsamaya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "kwa ponalong ya gago"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "le dikgosi"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "kwa khanyong"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "ya go tlhagelela ga gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:04:16.800259825Z",
+  "model": "glm-5.3"
+}

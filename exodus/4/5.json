@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "E le gore ba dumele gore go tlhageletse go wena Yahwe, Elohim wa bo-ntate ba bone, Elohim wa Abrahame, Elohim wa Yitshake, le Elohim wa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "e le gore"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "ba dumele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "go tlhageletse"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bo-ntate ba bone"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "le Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:47.475003677Z",
+  "model": "glm-5.3"
+}

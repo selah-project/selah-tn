@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Setlhare sa gago sotlhe le mmogo le maungo a lefatshe la gago, sesefo se tla se tsaya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "setlhare sa gago"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "le mmogo le maungo"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "a lefatshe la gago"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "se tla se tsaya"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "sesefo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:23.124739968Z",
+  "model": "glm-5.3"
+}

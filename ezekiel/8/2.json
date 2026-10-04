@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 8:2",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ke ne ka lebelela, mme bonwe, go ne go na le sepego se se tshwanang le ponahalo ya molelo: go tswa mo ponahalong ya sehuba sa gagwe go ya kwa tlase, molelo; mme go tswa mo sehubeng sa gagwe go ya kwa godimo, go ne go le jaaka ponahalo ya khanya, jaaka mmala wa khashmale.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "mme ke ne ka lebelela"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonwe"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "sepego"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "jaaka ponahalo ya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "go tswa mo ponahalong ya"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "sehuba sa gagwe"
+    },
+    {
+      "surface": "ולמטה",
+      "gloss": "go ya kwa tlase"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "וממתניו",
+      "gloss": "mme go tswa mo sehubeng sa gagwe"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "go ya kwa godimo"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "jaaka ponahalo ya"
+    },
+    {
+      "surface": "זהר",
+      "gloss": "khanya"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "jaaka mmala wa"
+    },
+    {
+      "surface": "החשמלה",
+      "gloss": "khashmale"
+    }
+  ],
+  "timestamp": "2026-10-04T00:34:00.530089251Z",
+  "model": "glm-5.3"
+}

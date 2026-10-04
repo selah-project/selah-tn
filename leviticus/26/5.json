@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme go baya dinawa go tla go fitlhelela go kgobokanya mebere, mme go kgobokanya mebere go tla go fitlhelela go baya peo; mme lo tla ja ⟨את⟩ senkgwe sa lona go fitlha lo tlala, mme lo tla nna ka pabalesego mo lefatsheng la lona.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "go tla go fitlhelela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "go baya dinawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go kgobokanya mebere"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "go kgobokanya mebere"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "mme go kgobokanya mebere"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "go tla go fitlhelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go baya peo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "go baya peo"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "mme lo tla ja"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "senkgwe sa lona"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "go fitlha lo tlala"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mme lo tla nna"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka pabalesego"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "mo lefatsheng la lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:07.912094815Z",
+  "model": "glm-5.3"
+}

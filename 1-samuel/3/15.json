@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Shmuele a robala go fitlha moso, a bula ⟨את⟩ mabati a ntlo ya Yahwe; mme Shmuele a ne a tshaba go bolela ⟨את⟩ ponatshegelo eo go Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabati"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "mabati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "mme Shmuele"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "a ne a tshaba"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ponatshegelo eo"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ponatshegelo eo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-03T22:56:55.824999425Z",
+  "model": "glm-5.3"
+}

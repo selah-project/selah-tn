@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme ba ba ikhumetseng ba tla rua ⟨את⟩ lefatshe, ba itumelele ka kagiso e ntsi.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "mme ba ba ikhumetseng"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ba tla rua"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ba itumelele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e ntsi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:47.003178167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Ga o ka ke wa sutisa ⟨את⟩ leina la Yahwe Elohim ya gago ka lefela; gonne Yahwe ga o kitla o golola ⟨את⟩ yo o sutisang ⟨את⟩ leina la gagwe ka lefela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "o ka ke wa sutisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la Yahwe Elohim ya gago"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ka lefela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "o kitla o golola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo o sutisang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "sutisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ka lefela"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:00.839777978Z",
+  "model": "glm-5.3"
+}

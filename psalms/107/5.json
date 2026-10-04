@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Ba tlhoka dijo, ba bo ba tlhoka metsi; botshelo jwa bone bo ne bo fokotsega mo go bone.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "ba tlhoka dijo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ba bo ba"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "tlhoka metsi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "botshelo jwa bone"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "bo fokotsega"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:17.610563301Z",
+  "model": "glm-5.3"
+}

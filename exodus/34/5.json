@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Mme Yahwe wa theoga ka maru, mme wa iphitlhela koo le ene, mme wa bitla ka leina la Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wa theoga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ka maru"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "wa iphitlhela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le ene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wa bitla"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:29.702696626Z",
+  "model": "glm-5.3"
+}

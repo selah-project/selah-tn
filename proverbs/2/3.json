@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "gore fa o bitsa go tlhaloganya, mme o neela lentswe la gago go tsaya tlhalo;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "go tlhaloganya"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "o bitsa"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "go tsaya tlhalo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o neela"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "lentswe la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:37.279695249Z",
+  "model": "glm-5.3"
+}

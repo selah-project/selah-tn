@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Ke eng, morwa wa me? le ke eng, morwa wa mpa ya me? le ke eng, morwa wa maikano a me?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ke eng"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "morwa wa me"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "le ke eng"
+    },
+    {
+      "surface": "בר",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "wa mpa ya me"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "le ke eng"
+    },
+    {
+      "surface": "בר",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "wa maikano a me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:53:01.159625716Z",
+  "model": "glm-5.3"
+}

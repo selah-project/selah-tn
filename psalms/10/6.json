@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "O bua ka pelong ya gagwe: Ga ke tlarologe; go dikokomana tsotlhe ga ke ke la nna mo bosuleng.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ka pelong ya gagwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ke tlarologe"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "go kokomana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le dikokomana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨jaaka⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ke ke la"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mo bosuleng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:47.954437371Z",
+  "model": "glm-5.3"
+}

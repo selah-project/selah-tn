@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Gore bonang, ba iphitlhile go mpontsha; ba makgopakgopa ba tlhagane kgatlhanong le nna. Ga go ke ke ya kgwele ya me, gape ga go se e se phosang ya me, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "ba iphitlhile"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "go mpontsha"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ba tlhagane"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatlhanong le nna"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ba makgopakgopa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "keke ya kgwele ya me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gape ga go"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "se e se phosang ya me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:09.617202453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "A Elohim a tlhape, a ba ba mo tlhoyang ba phatlalale; mme ba ba mo tlhoyang ba tshabe go tswa kwa pele ga gagwe.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "a tlhape"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "ba phatlalale"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "a ba ba mo tlhoyang"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "mme ba tshabe"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "ba ba mo tlhoyang"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "go tswa kwa pele ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:45.244799136Z",
+  "model": "glm-5.3"
+}

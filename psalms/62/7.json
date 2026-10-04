@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Fela ene ke lefika la me le tokoloho ya me; e ke phatlalatso ya me, ga ke ka ke ka tsamaisiwa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ene"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lefika la me"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "le tokoloho ya me"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "e ke phatlalatso ya me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ke ka ke ka tsamaisiwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:08.665207830Z",
+  "model": "glm-5.3"
+}

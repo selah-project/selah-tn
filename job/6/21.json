@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Gore jaanong le ne le sepe; le bone tshoganyo, mme le tshaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "le ne le sepe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "tshoganyo"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "mme le tshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T01:54:10.319247675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 147,
+  "translation": "Yo o nayang sego sa tlhaga jaaka maotho; go nang le sediri jaaka lerole o a se phatlalatsa.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "yo o nayang"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sego sa tlhaga"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "jaaka maotho"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "go nang le sediri"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "jaaka lerole"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "o a se phatlalatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:08.329565772Z",
+  "model": "glm-5.3"
+}

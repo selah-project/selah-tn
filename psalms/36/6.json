@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Yahwe, mo magodimong go na le hesede ya gago; tumelo ya gago e fitlha kwa marung.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "mo magodimong"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tumelo ya gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e fitlha kwa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "marung"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:47.288913911Z",
+  "model": "glm-5.3"
+}

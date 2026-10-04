@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 140,
+  "translation": "Ke ne ke re go Yahwe: Elo wa me ke wena; theetsa, Yahwe, lentswe la dithapelo tsa me.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ke ne ke re"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elo wa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ke wena"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "theetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "dithapelo tsa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:24.045716299Z",
+  "model": "glm-5.3"
+}

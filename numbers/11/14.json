@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Ga nke ke kgona ke nosi go rwala ⟨את⟩ setshaba sotlhe se, ka gonne se se bokete go feta ka nna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nke ke kgona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "nosi"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "go rwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sotlhe se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gonne"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "se se bokete"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go feta ka nna"
+    }
+  ],
+  "timestamp": "2026-10-03T22:09:46.401003495Z",
+  "model": "glm-5.3"
+}

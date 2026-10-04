@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 45,
+  "translation": "Kgotha tshaka ya gago mo lengweng, wa maatla; tlotlo ya gago le boikgantsho jwa gago.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Kgotha"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "tshaka ya gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lengweng"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wa maatla"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "tlotlo ya gago"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "le boikgantsho jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:48.487319535Z",
+  "model": "glm-5.3"
+}

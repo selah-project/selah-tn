@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Yehoshua a tshoga ka moso, mme a ba gaufi ⟨את⟩ Yisraele go ya ka ditlhaka tsa bone; mme tlhaka ya Yehuda e tshwarwa.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a tshoga ka moso"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "mme a ba gaufi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "go ya ka ditlhaka tsa bone"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "mme e tshwarwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tlhaka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T22:38:13.938245761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Seatla sa dipaki se tla nna sa ntlha mo go ena go mo bolaya, mme kwa bofelong seatla sa setshaba sotlhe; mme o ntsha bosula jo bo kwa gare ga gago.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "seatla sa"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "dipaki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "se tla nna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go ena"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "sa ntlha"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "go mo bolaya"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "mme seatla sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setshaba sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "kwa bofelong"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "mme o ntsha"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "jo bo kwa gare ga gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:28:32.173393207Z",
+  "model": "glm-5.3"
+}

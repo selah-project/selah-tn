@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "O nna le mohau go ba ba tlhogoethileng le ba humanegileng, mme bophelo jwa ba humanegileng o bo boloka.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "o nna le mohau go"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ba ba tlhogoethileng"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le ba humanegileng"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "bophelo jwa"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ba humanegileng"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "o bo boloka"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:13.433577306Z",
+  "model": "glm-5.3"
+}

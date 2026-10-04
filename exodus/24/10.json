@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme ba bona ⟨את⟩ Elohim ya Yisraele; mme ka fa tlase ga dinao tsa gagwe go ne go ntse jaaka tiro ya leje la safire, le jaaka bosemorogo jwa magodimo go tlhapiwa.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ya Yisraele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "mme ka fa tlase ga"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "dinao tsa gagwe"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "jaaka tiro ya"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "leje la"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safire"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "le jaaka bosemorogo jwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "go tlhapiwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:23.570838814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Ke neelitse letheka la me ba ba betlang, le mahura a me ba ba ntshang; sefathego sa me ga ke se fitlhe go tswa go tshwenyo le go thunya metswako.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "letheka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke neelitse"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "ba ba betlang"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "le mahura a me"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "ba ba ntshang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ke se fitlhe"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "go tswa go tshwenyo"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "le go thunya metswako"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:56.493662661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme a riala: Ga go modumo wa go goga ga ba ba fenang, mme ga go modumo wa go goga ga ba ba fenwang; modumo wa go opela nna ke a o utlwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a riala"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "wa go goga"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ba ba fenang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "wa go goga"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "ba ba fenwang"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "wa go opela"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ke a o utlwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:47:13.746625235Z",
+  "model": "glm-5.3"
+}

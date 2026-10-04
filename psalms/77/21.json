@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "O ne wa kaela setshaba sa gago jaaka dinku, ka seatla sa Moshe le sa Aharone.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "O ne wa kaela"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "jaaka dinku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le sa Aharone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:20.297531931Z",
+  "model": "glm-5.3"
+}

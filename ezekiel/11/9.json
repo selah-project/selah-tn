@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme ke tlaa lontsha mo go yone, mme ke neela ⟨את⟩ lona mo diatleng tsa baagi ba bapha, mme ke dira dikatlholo mo go lona.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "mme ke tlaa lontsha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke neela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mo diatleng"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "baagi ba bapha"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "mme ke dira"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mo go lona"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "dikatlholo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:34:34.211788353Z",
+  "model": "glm-5.3"
+}

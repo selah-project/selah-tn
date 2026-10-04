@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme lo se ke la ikana ka leina la me ka maaka, e seng go nyenyefatsa leina la Elohim ya gago; me ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme lo se ke la"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ikana"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ka leina la me"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ka maaka"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "go nyenyefatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:59.919922224Z",
+  "model": "glm-5.3"
+}

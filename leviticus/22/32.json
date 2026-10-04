@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme se seka sa nyatsa ⟨את⟩ leina la me le le itshepileng; mme nna ke tla itshepisiwa mo gare ga bana ba Yisraele. Nna ke Yahwe, yo o le itshepisang.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme se seka sa"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "nyatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la me le le itshepileng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "la me le le itshepileng"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "mme nna ke tla itshepisiwa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "yo o le itshepisang"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:03.190122785Z",
+  "model": "glm-5.3"
+}

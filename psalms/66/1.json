@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 66,
+  "translation": "Ya go laola. Sesegune, mmino. Ba re leloko go Elohim, lefatshe lotlhe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ya go laola"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sesegune"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mmino"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ba re leloko"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:04.863032348Z",
+  "model": "glm-5.3"
+}

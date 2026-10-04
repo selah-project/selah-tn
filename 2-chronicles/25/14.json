@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 25:14",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme go ne go le jalo, morago ga Amatsiahu go boa go otla ⟨את⟩ ba-Edome, a isa ⟨את⟩ medimo ya bana ba Seire, a ba emisa gore e nne medimo ya gagwe, a ineela pele ga yone, a fisetsa yone mokgwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le jalo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "go boa"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiahu"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "go otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba-Edome"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "ba-Edome"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ba Seire"
+    },
+    {
+      "surface": "ויעמידם",
+      "gloss": "a ba emisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gagwe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "gore e nne medimo"
+    },
+    {
+      "surface": "ולפניהם",
+      "gloss": "pele ga yone"
+    },
+    {
+      "surface": "ישתחוה",
+      "gloss": "a ineela"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "yone"
+    },
+    {
+      "surface": "יקטר",
+      "gloss": "a fisetsa mokgwa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:55:58.433114944Z",
+  "model": "glm-5.3"
+}

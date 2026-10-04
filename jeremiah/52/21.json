@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 52:21",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Mme mafoko a dikgotla, dingwaga tse di lesome le robedi e bile e le moalo wa mongwe le mongwe, mme khoebo ya dikgato tse di lesome le pedi e ne e e dikologa, mme boleele jwa wona bo ne bo le dinoka tse nne — ⟨e⟩ le eme ka teng.",
+  "tokens": [
+    {
+      "surface": "והעמודים",
+      "gloss": "Mme dikgotleng"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "robedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dimo"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "boleele"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "kgotla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "mme khoebo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dimo"
+    },
+    {
+      "surface": "יסבנו",
+      "gloss": "e ne e e dikologa"
+    },
+    {
+      "surface": "ועביו",
+      "gloss": "mme boleele jwa wona"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nne"
+    },
+    {
+      "surface": "אצבעות",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "eme ka teng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:15:47.456657190Z",
+  "model": "glm-5.3"
+}

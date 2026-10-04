@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ba tlogela ⟨את⟩ Yahwe, mme ba direla ⟨את⟩ Baale le ⟨את⟩ Ashitarote.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "mme ba tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mme ba direla"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "le Ashitarote"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:17.508411010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "O ne a ba tlhotlheletsa mo tsela e e thwantshe, ya go ya kwa toropong ya boagedi.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "o ne a ba tlhotlheletsa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tsela"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "e e thwantshe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ya go ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ya boagedi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:17.610958774Z",
+  "model": "glm-5.3"
+}

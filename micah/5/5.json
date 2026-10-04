@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme ba tla raya ⟨את⟩ lefatshe la Ashure ka tshaka, le ⟨את⟩ lefatshe la Nimrode kwa dikgorong tsa yone; mme o tla ntsha mo Ashure, fa a ka tsena mo lefatsheng la rona, mme fa a ka tlola mo melelwaneng ya rona.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "ba tla raya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Ashure"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tshaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "lefatshe la Nimrode"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrode"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "kwa dikgorong tsa yone"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "mme o tla ntsha"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "mo Ashure"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "a ka tsena"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "mo lefatsheng la rona"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "a ka tlola"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "mo melelwaneng ya rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:02:18.660649689Z",
+  "model": "glm-5.3"
+}

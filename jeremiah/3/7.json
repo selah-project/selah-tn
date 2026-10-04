@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ke ne ka re, morago ga go dira ga gagwe ⟨את⟩ tsotlhe tseno, o tlaa boela go nna; mme ⟨o sa⟩ boele. Mme kgaitsadio e e boikepo, Yehuda, o ne a a bona.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mme ke ne ka re"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "go dira ga gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o tlaa boela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ⟨o sa⟩"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "boele"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "o ne a a bona"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "e e boikepo"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "kgaitsadio"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-04T00:07:09.537203873Z",
+  "model": "glm-5.3"
+}

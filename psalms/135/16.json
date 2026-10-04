@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Molomo di na le one, mme ga di buе; mahutu a mabedi di na le one, mme ga di bone.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "di na le one"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "di buе"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mahutu a mabedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "di na le one"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "di bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:35.468945003Z",
+  "model": "glm-5.3"
+}

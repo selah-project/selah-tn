@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 62,
+  "translation": "Go moeteledipele wa mmino, go ya ka Yedutune; pina ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moeteledipele wa mmino"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutune"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pina"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:26.400684043Z",
+  "model": "glm-5.3"
+}

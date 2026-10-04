@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 92,
+  "translation": "Setšhwa se segolo ke ditiro tsa gago, Yahwe; di utswafetse thata mekgwa ya gago ya go akanya.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "setšhwa se segolo"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ke segolo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ditiro tsa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thatâ"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "di utswafetse"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "mekgwa ya gago ya go akanya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:31.605949717Z",
+  "model": "glm-5.3"
+}

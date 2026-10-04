@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 131,
+  "translation": "Ruri, ke tlhomilebile mme ke khutshitse moya wa me, jaaka ngwana yo o imisitsweng mo ga mmaagwe; jaaka ngwana yo o imisitsweng, moya wa mo go nna ke such.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ke tlhomilebile"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "mme ke khutshitse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "jaaka ngwana yo o imisitsweng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo ga"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmaagwe"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "jaaka ngwana yo o imisitsweng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:58.391590429Z",
+  "model": "glm-5.3"
+}

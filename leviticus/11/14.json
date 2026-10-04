@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Le ⟨את⟩ sedaa, le ⟨את⟩ seaya, le mofuta wa yone o mongwe le o mongwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sedaa"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "sedaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seaya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "seaya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "le mofuta wa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:39.782857349Z",
+  "model": "glm-5.3"
+}

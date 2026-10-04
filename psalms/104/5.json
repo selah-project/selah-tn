@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "O tlhomile lefatshe mo motheong wa lone; ga le ka ke la tetema go yanakonyana le go ya bosakhutlheng.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "O tlhomile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "motheong wa lone"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga le ka ke la"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tetema"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go ya nakonyana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go ya bosakhutlheng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:32.354335307Z",
+  "model": "glm-5.3"
+}

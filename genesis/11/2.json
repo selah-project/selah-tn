@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme fa ba ne ba tlogela botlhaba, ba fitlhela lekaleng kwa lefatsheng la Shineare, mme ba nna koo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go le"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "fa ba ne ba tlogela"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "botlhaba"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ba fitlhela"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "lekaleng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kwa lefatsheng"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "la Shineare"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:07.525049231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Ke lapile ka go goga ka lentswe, mometsometsong wa me o omile, matlho a me a feditse, fa ke solofela Elohim wa me.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ke lapile"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ka go goga ka lentswe"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "o omile"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "mometsometsong wa me"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "a feditse"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "fa ke solofela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:54.656094202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "A re bua, mme a emisa ruakh ya sekhurumelo, mme e baya metsi a gagwe kwa godimo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A re bua"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ya sekhurumelo"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "mme e baya kwa godimo"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "metsi a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:18.268352237Z",
+  "model": "glm-5.3"
+}

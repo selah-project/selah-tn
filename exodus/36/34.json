@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 36:34",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme o ne a khuparetse ⟨את⟩ dikgorokwane ka gauta, mme a dira ⟨את⟩ dipopego tsa tsona tsa gauta — malapa a dithupa; mme a khuparetse ⟨את⟩ dithupa ka gauta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dikgorokwane"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "a khuparetse"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩"
+    },
+    {
+      "surface": "טבעתם",
+      "gloss": "dipopego tsa tsona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "a dithupa"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mme a khuparetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithupa"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "dithupa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:14.511240910Z",
+  "model": "glm-5.3"
+}

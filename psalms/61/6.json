@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 61,
+  "translation": "Gore wena, Elohim, o utlwile dikano tsa me; o neetse boswa jwa ba ba tshabang leina la gago.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "o utlwile"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "dikano tsa me"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "o neetse"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "boswa"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "jwa ba ba tshabang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:28.048741938Z",
+  "model": "glm-5.3"
+}

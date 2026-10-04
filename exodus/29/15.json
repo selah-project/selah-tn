@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o tla tsaya ⟨את⟩ nku e le nngwe, mme Aharone le bana ba gagwe ba tla beha ⟨את⟩ diatla tsa bone mo tlhogong ya nku eo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme o tla tsaya ⟨את⟩",
+      "marks": "nku e le nngwe"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nku"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "o tla tsaya"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ba tla beha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diatla tsa bone"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tsa bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogong"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ya nku eo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:16.100961947Z",
+  "model": "glm-5.3"
+}

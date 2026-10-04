@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme Yahwe Elohim wa gago o tlaa bea ⟨את⟩ dikgoloo tsotlhe tseo mo baba ba gago, le mo ba ba go tlhoyang, ba ba neng ba go tlhasela.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "o tlaa bea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgoloo tsotlhe tseo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "dikgoloo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "baba ba gago"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ba ba go tlhoyang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "ba neng ba go tlhasela"
+    }
+  ],
+  "timestamp": "2026-10-03T22:32:08.322564423Z",
+  "model": "glm-5.3"
+}

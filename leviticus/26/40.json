@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme ba tla itlama ⟨את⟩ bokaone jwa bone le ⟨את⟩ bokaone jwa bo-rraabo, ka go tsena tsela e e seng ya bone, e ba nnileng ka e tsena kgatlhanong le me; le gape ka go tsamaya le me ka go ntlhoile.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "ba tla itlama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokaone jwa bone"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "bokaone jwa bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bokaone"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bokaone"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jwa bo-rraabo"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "ka go tsena tsela e e seng ya bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ba nnileng ka e tsena kgatlhanong le me"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kgatlhanong le me"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "le gape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le me"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ka go ntlhoile"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:39.826280647Z",
+  "model": "glm-5.3"
+}

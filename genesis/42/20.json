@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme ⟨את⟩ morwarraagwe yo monnye lo tle lo mo ise kwa go nna, e tla bo e siametse mafoko a lona, mme lo se ka la swa. Mme ba dira jalo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "morwarraagwe yo monnye"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "morwarraagwe"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yo monnye"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "lo tle lo mo ise"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "e tla bo e siametse"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "mafoko a lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme lo se ka la"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "swa"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba dira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:06.483349913Z",
+  "model": "glm-5.3"
+}

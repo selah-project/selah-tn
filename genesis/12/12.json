@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Go tla bo go le jalo gore ba-Mitsrayime fa ba ka go bona ⟨את⟩, ba re: Mosadi wa ga ene ke yo; mme ba mpolaya, mme wena ⟨את⟩ ba go boloka botshelo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Go tla bo go le jalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "fa ba ka go bona"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ba-Mitsrayime"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa ga ene"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ke yo"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "ba mpolaya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "gloss note": "",
+      "marks": "wena"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ba go boloka botshelo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:31.302156227Z",
+  "model": "glm-5.3"
+}

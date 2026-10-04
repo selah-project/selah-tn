@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "translation": "Fa ke ka a bala, ba feta lerole la lotshitshi; fa ke tsoga, ke sa le le wena.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "Fa ke ka a bala"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "lerole la lotshitshi"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "ba feta"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "fa ke tsoga"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "ke sa le"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:04.521989601Z",
+  "model": "glm-5.3"
+}

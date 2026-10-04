@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Bologang lefoko la Yahwe, baeteledipele ba Sedomo; elelogetseng Torah ya Elohim wa rona, setshaba sa Gemora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Bologang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "baeteledipele"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ba Sedomo"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "elelogetseng"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim wa rona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "sa Gemora"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:23.681900038Z",
+  "model": "glm-5.3"
+}

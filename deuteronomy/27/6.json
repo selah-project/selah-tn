@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Ka maje a a felletseng o tlaa aga ⟨את⟩ altar ya Yahwe Elohim wa gago, mme o tlaa neela mo go yona dineelo tsa go fisidiwa go Yahwe Elohim wa gago.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "ka maje"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "a a felletseng"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "o tlaa aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar ya Yahwe Elohim wa gago"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "mme o tlaa neela mo go yona"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "dineelo tsa go fisidiwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:13.303751479Z",
+  "model": "glm-5.3"
+}

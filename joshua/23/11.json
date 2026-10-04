@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme le ikgapele thata dipelo tsa lona, gore le rate ⟨את⟩ Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "mme le ikgapele"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "dipelo tsa lona"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "gore le rate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya lona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:02.527514946Z",
+  "model": "glm-5.3"
+}

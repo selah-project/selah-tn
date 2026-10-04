@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme jaanong, tsamaya, o tle; ke go gakolola ka kopo, gore o boloke ⟨את⟩ botshelo jwa gago le ⟨את⟩ botshelo jwa morwa wa gago Shelomoe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "tsamaya o tle"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ke go gakolola"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ka kopo"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "gakololo"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "o boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshelo jwa gago"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "botshelo jwa gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "botshelo jwa morwa wa gago Shelomoe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "botshelo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jwa morwa wa gago"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:03.201860159Z",
+  "model": "glm-5.3"
+}

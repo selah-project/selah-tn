@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Fa o mo roma ⟨את⟩ kgaitsadie rona a le ⟨את⟩ rona, re tlaa tsamaela fatshe, mme re reke dijo tsa gago.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "o"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "roma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgaitsadie rona"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "kgaitsadie rona"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "re tlaa tsamaela fatshe"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "mme re reke"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsa gago"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dijo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:10.264527747Z",
+  "model": "glm-5.3"
+}

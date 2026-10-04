@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "moro wa go bula lebone, ditekatswekatswe bakeng sa moro wa go itshepisa, le bakeng sa pheko ya dinangwa;",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "moro"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "wa go bula lebone"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ditekatswekatswe"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "bakeng sa moro wa"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "go itshepisa"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "le bakeng sa pheko ya"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "dinangwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:42:18.272737481Z",
+  "model": "glm-5.3"
+}

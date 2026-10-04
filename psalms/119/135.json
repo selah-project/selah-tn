@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Sefathego sa gago se phadime mo modiring wa gago, mme n rutse ⟨את⟩ melawana ya gago.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "sefathego sa gago"
+    },
+    {
+      "surface": "האר",
+      "gloss": "se phadime"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "mo modiring wa gago"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "mme n rutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melawana ya gago"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melawana ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:13.366674529Z",
+  "model": "glm-5.3"
+}

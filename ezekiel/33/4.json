@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "mme yo o utlwang a utlwa ⟨את⟩ lentswe la shofara mme a sa gakololwa, mme fa tshaka e tla e mo tsaya, madi a gagwe a tla bo a le mo tlhogong ya gagwe;",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "mme yo o utlwang a utlwa"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "yo o utlwang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "la shofara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "gakololwa"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "mme e tla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tshaka"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "e mo tsaya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a gagwe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "mo tlhogong ya gagwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a tla bo a le"
+    }
+  ],
+  "timestamp": "2026-10-04T00:45:21.111940068Z",
+  "model": "glm-5.3"
+}

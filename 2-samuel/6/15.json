@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Dawide le ntlo ya Yisraele yotlhe ba ne ba isa ⟨את⟩ arone ya Yahwe ka tlerere le ka modumo wa shofare.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Mme Dawide"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yotlhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ba ne ba isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arone"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arone"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ka tlerere"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "le ka modumo wa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofare"
+    }
+  ],
+  "timestamp": "2026-10-03T23:10:54.446775731Z",
+  "model": "glm-5.3"
+}

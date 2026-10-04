@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme a tlogela ⟨את⟩ kgakololo ya bangwe ba bagolo ba ba neng ba mo kgakolola, a ya go ipaakanyetsa le ⟨את⟩ bana ba ba godileng ⟨את⟩ le ene, ba ba neng ba eme pela gagwe.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "a tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgakololo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "kgakololo ya"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bangwe ba bagolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba neng"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ba mo kgakolola"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "a ya go ipaakanyetsa le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba godileng"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ba godileng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba neng"
+    },
+    {
+      "surface": "העומדים",
+      "gloss": "ba eme"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pela ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:33.035924352Z",
+  "model": "glm-5.3"
+}

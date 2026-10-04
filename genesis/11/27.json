@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme tshepediso ya kokomana ya Terakh ke ene: Terakh o begile ⟨את⟩ Avirame, ⟨את⟩ Nakhore le ⟨את⟩ Harane; mme Harane o begile ⟨את⟩ Lote.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme tshepediso ya kokomana ke ene"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "kokomana"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o begile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avirame"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avirame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhore"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Harane"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harane"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "mme Harane"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o begile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lote"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:21.527412152Z",
+  "model": "glm-5.3"
+}

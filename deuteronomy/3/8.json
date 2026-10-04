@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ka nako eo re tsere ⟨את⟩ lefatshe mo diatleng tsa dikgosi tse pedi tsa Baemore, tse di mo bogosing jwa Yoritane, go tloga mo molapong wa Arnone go fitlha kwa thabeng ya Heremone.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "mme re tsere"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo diatleng tsa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "tsa Baemore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "mo bogosing jwa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoritane"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "go tloga mo molapong wa"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kwa thabeng ya"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Heremone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:06:07.601576960Z",
+  "model": "glm-5.3"
+}

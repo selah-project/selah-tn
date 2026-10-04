@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 128,
+  "translation": "Mosadi wa gago o tla nna jaaka mmutlwa o o nang le maungo kwa mafikeng a ntlo ya gago; bana ba gago jaaka matlhare a ditlhatsweng tsa morula, go dikologa tafole ya gago.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Mosadi wa gago"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "jaaka mmutlwa"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "o o nang le maungo"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "kwa mafikeng a"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya gago"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba gago"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "jaaka matlhare a ditlhatsweng"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "tsa morula"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "tafole ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:29.151925894Z",
+  "model": "glm-5.3"
+}

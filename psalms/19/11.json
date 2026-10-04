@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Di a lebelediwa go feta gauta, ee, go feta selefera e ntsi e e hlama; di monate go feta dinotshe le minki ya dinotshe.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "di a lebelediwa"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "go feta gauta"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "go feta selefera e e hlama"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e ntsi"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "di monate"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "go feta dinotshe"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "minki ya"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "dinotshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:06.545445044Z",
+  "model": "glm-5.3"
+}

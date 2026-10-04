@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 15:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 15,
+  "translation": "Nako eo Moshe le bana ba Yisraele ba ne ba opela ⟨את⟩ pina e go Yahwe, mme ba re, ba bua jaana: Ke tla opela go Yahwe, gonne o godile thata; pitse le mong wa yone o ne a e latlhela lewatleng.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Nako eo"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "ba ne ba opela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pina e"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "pina e"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba bua jaana"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "Ke tla opela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "o godile"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "that"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "pitse"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "le mong wa yone"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "o ne a e latlhela"
+    },
+    {
+      "surface": "בים",
+      "gloss": "lewatleng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:03.569486919Z",
+  "model": "glm-5.3"
+}

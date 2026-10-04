@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme lo tlaa ipeolola ⟨את⟩ nama ya sediba sa lona; mme e tlaa nna lesupi la kgolagano magareng ga me le ga lona.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "lo tlaa ipeolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "ya sediba sa lona"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tlaa nna"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "lesupi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "la kgolagano"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "magareng ga me"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "le ga lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:17:32.397364318Z",
+  "model": "glm-5.3"
+}

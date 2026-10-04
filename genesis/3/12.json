@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme motho a re: Mosadi yo o ntsentseng a nne le nna — ke ena a mptsitseng go tswa mo setlhareng, mme ke a ja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Mosadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "o ntsentseng"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "a nne le nna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ena"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a mptsitseng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "setlhareng"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mme ke a ja"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:19.938402805Z",
+  "model": "glm-5.3"
+}

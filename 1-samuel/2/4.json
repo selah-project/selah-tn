@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Dithunya tsa ba ba nonofileng di thubegile, mme ba ba welang ba kgabisitse maatla.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "dithunya"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "tsa ba ba nonofileng"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "di thubegile"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "mme ba ba welang"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "ba kgabisitse"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "maatla"
+    }
+  ],
+  "timestamp": "2026-10-03T22:55:46.500891608Z",
+  "model": "glm-5.3"
+}

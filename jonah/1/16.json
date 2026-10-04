@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme banna ba tshaba Yahwe ka tshabo e kgolo, ba neela sehlabelo go Yahwe, mme ba ikana dikano.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ba tshaba"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ka tshabo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ba neela sehlabelo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "ba ikana"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "dikano"
+    }
+  ],
+  "timestamp": "2026-10-04T01:01:11.214035975Z",
+  "model": "glm-5.3"
+}

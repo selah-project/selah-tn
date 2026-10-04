@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 70,
+  "translation": "Elohim, go mpoloketsa, Yahwe, ka bonako o ntheme thuso.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "go mpoloketsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "go nthus a"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ka bonako o tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:59.985625475Z",
+  "model": "glm-5.3"
+}

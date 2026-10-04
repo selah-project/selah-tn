@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Boitseallo jwa dikgetsi ke jone go Yahwe, a ntsha ⟨את⟩ bone mo lefatsheng la Mitsrayime; bosigo joo ke jone go Yahwe, boitseallo jwa dikgetsi go bana botlhe ba Yisraele, go dikokomana tsa bone.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "jwa dikgetsi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke jone"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "a ntsha bone"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke jone"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "joo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "boitseallo jwa dikgetsi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go botlhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "go dikokomana tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:50.269249082Z",
+  "model": "glm-5.3"
+}

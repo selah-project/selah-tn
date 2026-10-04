@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 130,
+  "translation": "A Yisraele a tshoge Yahwe, gonne go Yahwe go na le hesede, mme go na le kolololo e ntsi mo go ene.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "a tshoge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "go na le hesede"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "mme e ntsi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "kolololo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:22.221555665Z",
+  "model": "glm-5.3"
+}

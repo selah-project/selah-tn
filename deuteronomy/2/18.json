@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "O wela mo gare ga ⟨את⟩ molelwane wa Moabe, wa ⟨את⟩ Are, kajeno:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "O"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wela mo gare ga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molelwane wa Moabe"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Are"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Are"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:25.367741074Z",
+  "model": "glm-5.3"
+}

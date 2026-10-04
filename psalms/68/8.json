@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 68,
+  "translation": "Elohim, fa o ne o tsamaela kwa pele ga setshaba sa gago, fa o ne o tsamaya ka Yeshimone. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "fa o ne o tsamaela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "fa o ne o tsamaya"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ka Yeshimone"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:57.463546950Z",
+  "model": "glm-5.3"
+}

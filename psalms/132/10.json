@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 132,
+  "translation": "Ka ntlha ya Dawide modiri wa gago, o se ka wa busa sefatlhego sa Mashiakh wa gago.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "modiri wa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka wa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "busa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatlhego"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "sa Mashiakh wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:12.516842076Z",
+  "model": "glm-5.3"
+}

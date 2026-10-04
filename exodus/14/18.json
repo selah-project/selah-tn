@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme baeng ba Mitsrayime ba tla itse gore nna ke Yahwe, fa ke tlhagelela ka seriti ka Farao, ka ditera tsa gagwe le ka ba ba kgankang maraka.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "mme ba tla itse"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baeng ba Mitsrayime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "fa ke tlhagelela ka seriti"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ka Farao"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ka ditera tsa gagwe"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "le ka ba ba kgankang maraka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:38:14.431875231Z",
+  "model": "glm-5.3"
+}

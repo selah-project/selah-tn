@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Go tloga ka ngwana wa dingwaga di le masome a mabedi le go feta, botlhe ba ba tsang mo sesoleng mo Yisraele — lo ba bale ⟨את⟩ ka masomo a bone; wena le Aharone.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "go tloga ka ngwana wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "le go feta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ba ba tsang"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mo sesoleng"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mo Yisraele"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "lo ba bale"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ka masomo a bone"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:02.141017726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme o tlaa isa ⟨את⟩ tafole, mme wa rulaganya ⟨את⟩ dilo tsa yone; mme o tlaa isa ⟨את⟩ sethantlha, mme wa tlhatlosa ⟨את⟩ difeela tsa yone.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "mme o tlaa isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "mme wa rulaganya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tsa yone"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "dilo tsa yone"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "mme o tlaa isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sethantlha"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "sethantlha"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "mme wa tlhatlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "difeela tsa yone"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "difeela tsa yone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:21.366889541Z",
+  "model": "glm-5.3"
+}

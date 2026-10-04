@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme re ne ra rapela kwa Elohim ya rona, ra baya mosebe kgatlhanong le bone ka letsatsi le ka bosigo, ka ntlha ya bone.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "ra rapela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ya rona"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "ra baya"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "mosebe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kgatlhanong le bone"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le ka bosigo"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ka ntlha ya bone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:31:05.181260678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ba e tlhaba, mme Moshe a phuthela ⟨את⟩ madi moaltareng ka dikakaretso.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Mme ba e tlhaba"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "a phuthela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareng"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka dikakaretso"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:14.598925541Z",
+  "model": "glm-5.3"
+}

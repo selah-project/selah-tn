@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme o bea ⟨את⟩ thekwane mo tlhogo ya gagwe, mme o nea ⟨את⟩ korona ya boitshepo mo thekwaneng.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "mme o bea"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "thekwane"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tlhogo ya gagwe"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o nea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korona ya boitshepo"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya boitshepo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "thekwaneng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:28.704880929Z",
+  "model": "glm-5.3"
+}

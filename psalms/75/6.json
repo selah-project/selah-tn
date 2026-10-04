@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 75,
+  "translation": "Se tlhatlose dinaka tsa lona kwa godimo; se bule ka molala o o thata.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "tlhatlose"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "dinaka tsa lona"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "se bule"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ka molala"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "o o thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:21.853012888Z",
+  "model": "glm-5.3"
+}

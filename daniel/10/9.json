@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ka utlwa ⟨את⟩ lentswe la mafoko a gagwe; mme fa ke utlwa ⟨את⟩ lentswe la mafoko a gagwe, nna ke ne ke le mo borokong jo bo tseneletseng ka sefathego sa me, mme sefathego sa me se ne se le fatshe.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ka utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "mafoko a gagwe"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "fa ke utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "mafoko a gagwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "mo borokong jo bo tseneletseng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa me"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "mme sefathego sa me"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:23:25.529999747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Lelomo la me le tlhapele polelo ya gago, gonne meaelo ya gago yotlhe ke tsedeke.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "le tlhapele"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lelomo la me"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "polelo ya gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "meaelo ya gago"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:32.741110769Z",
+  "model": "glm-5.3"
+}

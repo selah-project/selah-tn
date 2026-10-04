@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 54,
+  "translation": "Elohim, utlwe thapelo ya me; theeletsa mafoko a molomo wa me.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utlwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "theeletsa"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:49.833286366Z",
+  "model": "glm-5.3"
+}

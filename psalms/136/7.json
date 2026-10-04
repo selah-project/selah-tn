@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Go mo e bong yo o dirang dihedikhwana tse dikgolo, gonne go ya le lekae hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "go mo e bong yo o dirang"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "dihedikhwana"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "tse dikgolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lekae"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:19.078497932Z",
+  "model": "glm-5.3"
+}

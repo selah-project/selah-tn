@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Mahlo a me a fedile ka go letelela poloko ya gago, le lefoko la tsedeke ya gago.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mahlo a me"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "a fedile"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "poloko ya gago"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "le lefoko la"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedeke ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:29.658813240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 56,
+  "translation": "Diphologolo tsotlhe tsa masimo, tlang go ja, le diphologolo tsotlhe tsa sekgowa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "diphologolo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tsa masimo"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "diphologolo"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "tsa sekgowa"
+    }
+  ],
+  "timestamp": "2026-10-04T00:01:20.081932967Z",
+  "model": "glm-5.3"
+}

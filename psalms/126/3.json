@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 126,
+  "translation": "Yahwe o dirile dilo tse dikgolo le rona; re ne re itumela.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "o dirile dilo tse dikgolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "re ne re"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "itumela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:37.409972257Z",
+  "model": "glm-5.3"
+}

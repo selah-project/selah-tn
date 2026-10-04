@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ba ba humanegileng ba tla ja mme ba tloga; ba ba batlang Yahwe ba tla mo baka; pelo ya lona e tla tshela ka bosikhutshwane.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla ja"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba ba humanegileng"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "mme ba tloga"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ba tla baka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "ba ba batlang Yena"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "e tla tshela"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pelo ya lona"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ka bosikhutshwane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:12.987179114Z",
+  "model": "glm-5.3"
+}

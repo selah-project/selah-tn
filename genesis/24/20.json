@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "A boa a ikatisa, a thula ⟨את⟩ senwelo sa gagwe mo sekhomong, a boele a taboga gape go ya motsemung go khaba, mme a khaba ⟨את⟩ metsi go dikamela tsa gagwe tsotlhe.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "a ikatisa"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "a thula"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "senwelo sa gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "sekhomong"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "a taboga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "motsemung"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "go khaba"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "a khaba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go tsotlhe"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "dikamela tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:13.435836628Z",
+  "model": "glm-5.3"
+}

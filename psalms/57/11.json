@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "Gore hesede ya gago e kgolo go fitlha kwa magodimong, mme boammaaruri jwa gago go fitlha kwa marung.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kwa magodimong"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme go fitlha"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "kwa marung"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "boammaaruri jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:40.374158202Z",
+  "model": "glm-5.3"
+}

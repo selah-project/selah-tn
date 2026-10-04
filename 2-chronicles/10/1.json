@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Rehavame ya ya kwa Shekeme, gonne kwa Shekeme Yisraele yotlhe e ne e tlile go mo dira kgosi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ya ya"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavame"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "kwa Shekeme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "באו",
+      "gloss": "e ne e tlile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "go dira kgosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:49:43.872784616Z",
+  "model": "glm-5.3"
+}

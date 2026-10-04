@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Bua kwa ntlheng ya bathe, mme ba kope mongwe le mongwe — monna go moratedi wa gagwe, mosadi go moratedi wa gagwe — dithoto tsa selefera le tsa gauta.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kwa ntlheng ya"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "bathe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "mme ba kope"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moratedi wa gagwe"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "moratedi wa gagwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithoto tsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "le tsa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:40.140719243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Psalme ya Dawide. Yahwe ke modisa wa me; ga ke tlhoke sepe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "modisa wa me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ke tlhoke sepe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:32.566981676Z",
+  "model": "glm-5.3"
+}

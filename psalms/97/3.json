@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 97,
+  "translation": "Molelo o ya pele ga gagwe, o fereleditse ba ba mo ganang ka botlalo.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Molelo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga gagwe"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "o ya"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "o fereleditse"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ba ba mo ganang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:50.580133761Z",
+  "model": "glm-5.3"
+}

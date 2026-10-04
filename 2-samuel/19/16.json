@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme kgosi ya boela, ya tla go fitlha kwa Yoredaneng; mme Yehuda a tsena kwa Gilgala, go ya go dumedisa ⟨את⟩ kgosi, go fetisetsa ⟨את⟩ kgosi go fala ⟨את⟩ Yoredane.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mme kgosi ya boela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya tla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha kwa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredaneng"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mme Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "kwa Gilgala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "go dumedisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "go fetisetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredane"
+    }
+  ],
+  "timestamp": "2026-10-03T23:17:00.997505424Z",
+  "model": "glm-5.3"
+}

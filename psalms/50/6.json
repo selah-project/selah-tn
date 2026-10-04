@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme magodimo a tlhagatsa tsedeke ya gagwe, gonne Elohim ke mogatlholi. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "a tlhagatsa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tsedeke ya gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ke mogatlholi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:06.795825522Z",
+  "model": "glm-5.3"
+}

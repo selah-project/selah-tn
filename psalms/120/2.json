@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 120,
+  "translation": "Yahwe, boloka moya wa me go tswa mo sephoneng sa maaka, le go tswa mo lelemeng la boikhuelo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "go tswa mo sephoneng"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sa maaka"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "go tswa mo lelemeng"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "la boikhuelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:53.796373585Z",
+  "model": "glm-5.3"
+}

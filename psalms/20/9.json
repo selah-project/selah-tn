@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Ba nonotle, ba wa; mme rona re tlhagafala, re itaphaakantsha.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "nonotle"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ba wa"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mme rona"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "re tlhagafala"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "re itaphaakantsha"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:04.572550541Z",
+  "model": "glm-5.3"
+}

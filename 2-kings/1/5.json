@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme barongwa ba boela kwa go ene, mme a ba botsa: Ke eng se se diragaletseng — le boetse?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ba boela"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "barongwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa go ene"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a ba botsa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se se diragaletseng"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "le boetse"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:14.855040142Z",
+  "model": "glm-5.3"
+}

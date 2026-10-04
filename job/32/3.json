@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme kgatlhanong le ditsala tsa gagwe tse tharo bogale jwa gagwe bo ne bo tuka, ka ba ne ba sa bone karabo, mme ba latlhela ⟨את⟩ Iyobo.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "le tse tharo"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "ditsala tsa gagwe"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "bo ne bo tuka"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bogale jwa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ba bone"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "karabo"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "ba latlhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobo"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:02:51.692702810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme fa ke utlwa ⟨את⟩ lefoko le, ka thaya ⟨את⟩ diaparo tsa me le mokgabo wa me, ka ntsha sekgwa sa tlhogo ya me le bodide ba me, mme ka nna fatshe ke makala.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "fa ke utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "ka thaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa me"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa me"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "le mokgabo wa me"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "ka ntsha"
+    },
+    {
+      "surface": "משער",
+      "gloss": "sekgwa sa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tlhogo ya me"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "le bodide ba me"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "mme ka nna fatshe"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "ke makala"
+    }
+  ],
+  "timestamp": "2026-10-04T02:29:28.016968314Z",
+  "model": "glm-5.3"
+}

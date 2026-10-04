@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Lentswe la Yahwe le sega ditlhatlhana tsa molelo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "le sega"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ditlhatlhana"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:00.343375137Z",
+  "model": "glm-5.3"
+}

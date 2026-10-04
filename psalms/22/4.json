@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme wena o itshepa, o nnye fathe dithoroko tsa Yisraele.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "o itshepa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "o nnye fathe"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "dithoroko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:54.013888969Z",
+  "model": "glm-5.3"
+}

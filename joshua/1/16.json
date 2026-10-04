@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ba araba ⟨את⟩ Yehoshuaa ba re: Sengwe le sengwe se o re laetseng re tlaa se dira, mme kwa o kaya re romelang teng, re tlaa tsamaya.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Mme ba araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "o re laetseng"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re tlaa se dira"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o kaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "re romelang teng"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "o kaya re romelang"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "re tlaa tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-03T22:35:47.146018976Z",
+  "model": "glm-5.3"
+}

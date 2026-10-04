@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Le masomo a one, le ba ba balwang gaetsho, e le dikete di le tlhano le masome a mane, makgolo a thata le masome a matlhano.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "le masomo a one"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "le ba ba balwang gaetsho"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "di le tlhano"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "le masome a mane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "makgolo a thata"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masome a matlhano"
+    }
+  ],
+  "timestamp": "2026-10-03T22:03:17.076905244Z",
+  "model": "glm-5.3"
+}

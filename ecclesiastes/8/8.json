@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Ga go na motho yo o busang ruakh, wa mo emisa ⟨את⟩ ruakh; gape ga go na bokolodi mo letsatsing la loso, mme ga go na kgololosego mo ntweng, mme bosula ga bo boloke ⟨את⟩ mong wa jona.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "yo o busang"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "wa mo emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gape ga go na"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "bokolodi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mo letsatsing"
+    },
+    {
+      "surface": "המות",
+      "gloss": "la loso"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go na"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "kgololosego"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mo ntweng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "boloke"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mong wa jona"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "mong wa jona"
+    }
+  ],
+  "timestamp": "2026-10-04T02:15:06.625534474Z",
+  "model": "glm-5.3"
+}

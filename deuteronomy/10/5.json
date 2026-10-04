@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ka boela, ka theoga mo thabeng, mme ka baya ⟨את⟩ dithaele mo Arengeng eo ke neng ke e dirile; mme di ne di le koo, jaaka Yahwe a ntlhaetse.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ka boela"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ka theoga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ka baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithaele"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "dithaele"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "mo Arengeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke neng ke e dirile"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme di ne di le"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "a ntlhaetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:23:50.208178056Z",
+  "model": "glm-5.3"
+}

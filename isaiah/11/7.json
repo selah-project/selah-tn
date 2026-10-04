@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme kgomo le phiri ba fularela mmogo, bana ba tsone ba robala mmogo; mme tau e tla ja motsutlha jaaka kgomo.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "mme kgomo"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "le phiri"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "ba fularela"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "ba robala"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "bana ba tsone"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "mme tau"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "jaaka kgomo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "e tla ja"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "motsutlha"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:16.455632419Z",
+  "model": "glm-5.3"
+}

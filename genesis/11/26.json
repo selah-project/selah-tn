@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme Terakh a tshela dingwaga di le masome a supa, mme a bega ⟨את⟩ Avirame, ⟨את⟩ Nakhore le ⟨את⟩ Harane.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a tshela"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "masome a supa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a bega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avirame"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avirame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhore"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Harane"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:21.527140098Z",
+  "model": "glm-5.3"
+}

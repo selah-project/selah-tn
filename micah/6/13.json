@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme nna le, ke go lwatsa ka go go beta, go go senyetsa, ka ntlha ya dibeke tsa gago.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme nna le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "ke go lwatsa"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "ka go go beta"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "go go senyetsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "dibeke tsa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:03:57.604396853Z",
+  "model": "glm-5.3"
+}

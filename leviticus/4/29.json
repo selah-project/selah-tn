@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme a bea ⟨את⟩ seatla sa gagwe mo tlhogong ya sehlabelo sa bofono, mme a bolaela ⟨את⟩ sehlabelo sa bofono kwa lefelong la sehlabelo sa go fiswa.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "mme a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogong"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya sehlabelo sa bofono"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mme a bolaela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa bofono"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sehlabelo sa bofono"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwa lefelong"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "la sehlabelo sa go fiswa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:22.232602077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Mme nna ke tlhoka, ke tlhobilwe ke botlhoko; bolokolotshi jwa gago, jwa Elohim, bo ntlhagase kwa godimo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ke tlhoka"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "ke tlhobilwe ke botlhoko"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "bolokolotshi jwa gago"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jwa Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "bo ntlhagase kwa godimo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:03.846770946Z",
+  "model": "glm-5.3"
+}

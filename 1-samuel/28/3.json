@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Mme Shemuwele a tlhokafala, mme Yisraele otlhe a mo lla, mme ba mo boloka kwa Ramale, mo toropong ya gagwe. Mme Shaole o ne a ntshitse baditishani le ⟨את⟩ ba ba itsegeng moya mo lefatshheng.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Mme Shemuwele"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a tlhokafala"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "a mo lla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ba mo boloka"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "kwa Ramale"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "mo toropong ya gagwe"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Mme Shaole"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a ntshitse"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "baditishani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba ba itsegeng moya"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "ba ba itsegeng moya"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "mo lefatshheng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:06:55.775777935Z",
+  "model": "glm-5.3"
+}

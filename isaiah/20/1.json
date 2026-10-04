@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mo ngwageng oo Tartane a neng a tsile kwa Ashdode, fa Sargone, kgosi ya Ashure, a ne a mo rula, mme a lwa le Ashdode, mme a e tsaya.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "mo ngwageng oo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tsile"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartane"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "kwa Ashdode"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "a ne a mo rula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Sargone"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ya Ashure"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "mme a lwa"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "le Ashdode"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "mme a e tsaya"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:34.241425037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme motho, fa a ka kgwatha motho ope kgotsa e chiwa, o tlaa bolawa ka tlhogantsho.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "a ka kgwatha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ope kgotsa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "e chiwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bolawa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ka tlhogantsho"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:11.366125080Z",
+  "model": "glm-5.3"
+}

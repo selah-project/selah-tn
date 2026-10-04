@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "⟨את⟩ menora ya boitshepo, ⟨את⟩ diruiwa tsa yone, diruiwa tsa go di tatola, le ⟨את⟩ ditlamelo tsa yone tsotlhe, le ⟨את⟩ mafura a lesedi,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora ya boitshepo"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ya boitshepo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diruiwa tsa yone"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "diruiwa tsa yone"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "diruiwa"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "tsa go di tatola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditlamelo tsa yone tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ditlamelo tsa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a lesedi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "a lesedi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:55.358548379Z",
+  "model": "glm-5.3"
+}

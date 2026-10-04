@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme ke tla bea seitsibi sa ntlo ya Dawide mo magetleng a gagwe; o tla a bula, mme ga go ope wa go tswalela; mme o tla a tswalela, mme ga go ope wa go bula.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tla bea"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "seitsibi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa ntlo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "magetleng a gagwe"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "o tla a bula"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go ope"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wa go tswalela"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "mme o tla a tswalela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go ope"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wa go bula"
+    }
+  ],
+  "timestamp": "2026-10-03T23:51:00.032923924Z",
+  "model": "glm-5.3"
+}

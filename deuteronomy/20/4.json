@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Gonne Yahwe Elohim ya lona ke ene yo o tsamayang le lona, go lwa le lona kgatlhanong le ba ba mo tlhoyang ba lona, go go boloka ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yo o tsamayang"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ba ba mo tlhoyang ba lona"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:28:38.523312582Z",
+  "model": "glm-5.3"
+}

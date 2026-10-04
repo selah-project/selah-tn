@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Le ⟨את⟩ tafole le ⟨את⟩ dithoto tsa yone ka tsotlhe, le ⟨את⟩ setswerwa sa dikanelo le ⟨את⟩ dithoto tsa sona ka tsotlhe, le ⟨את⟩ altare ya mokgabo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithoto tsa yone ka tsotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka tsotlhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dithoto tsa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setswerwa sa dikanelo"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "setswerwa sa dikanelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithoto tsa sona ka tsotlhe"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dithoto tsa sona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "altare ya mokgabo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ya mokgabo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:44:27.366622386Z",
+  "model": "glm-5.3"
+}

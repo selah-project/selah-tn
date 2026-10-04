@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ⟨את⟩ Natane moporofeti, le Benajahu, le ⟨את⟩ bagale, le ⟨את⟩ Shelomoe mngwae, ga a ka a ba bitsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natane moporofeti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natane"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeti"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "le Benajahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bagale"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "bagale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoe mngwae"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mngwae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a ka a ba bitsa"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:03.201563588Z",
+  "model": "glm-5.3"
+}

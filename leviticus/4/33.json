@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme o tla bea letsogo la gagwe mo tlhogong ya sehlabelo sa phoso, mme a e tlhokafatsa e le sehlabelo sa phoso kwa lefelong le a tlhokafatsang ⟨את⟩ sehlabelo sa go chiswa teng.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "mme o tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsogo la gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsogo la gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogong"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya sehlabelo sa phoso"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mme a e tlhokafatsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa phoso"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "e le sehlabelo sa phoso"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwa lefelong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "a tlhokafatsang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa go chiswa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo sa go chiswa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:58.214368869Z",
+  "model": "glm-5.3"
+}

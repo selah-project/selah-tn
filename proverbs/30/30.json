@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Tau, yo o nonnileng mo diphoofolong tsotlhe, mme o ka se boele ka go bopha ope;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "tau"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "yo o nonnileng"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mo diphoofolong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "a boele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka go bopha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ope"
+    }
+  ],
+  "timestamp": "2026-10-04T01:52:18.919457257Z",
+  "model": "glm-5.3"
+}

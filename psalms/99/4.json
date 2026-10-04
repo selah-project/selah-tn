@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 99,
+  "translation": "Mme maatla a kgosi a ratana le katlholo; wena o bopa tshiamiso, katlholo le tsedeke mo go Yaakobo wena o di dirile.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Mme maatla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a kgosi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "a ratana le"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "o bopa"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "tshiamiso"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katlholo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "le tsedeke"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "mo go Yaakobo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o di dirile"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:09.946909201Z",
+  "model": "glm-5.3"
+}

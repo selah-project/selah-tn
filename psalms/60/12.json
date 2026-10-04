@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 60,
+  "translation": "A ga se wena, Elohim, yo o re latlhang? mme ga o tsamaye, Elohim, le masomo a rona.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A ga se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "yo o re latlhang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "o tsamaye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "le masomo a rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:23:51.269541499Z",
+  "model": "glm-5.3"
+}

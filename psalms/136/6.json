@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 136,
+  "translation": "Go mo e bong yo o anamisitseng lefatshe godimo ga metsi, gonne go ya le lekae hesede ya gagwe.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "go mo e bong yo o anamisitseng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lekae"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:19.078374931Z",
+  "model": "glm-5.3"
+}

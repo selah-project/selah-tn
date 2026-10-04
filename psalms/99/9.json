@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 99,
+  "translation": "Godiragatse Yahwe Elohim ya rona, mme mo phenyeng mo thabong ya boitshepo ya gagwe, gonne Yahwe Elohim ya rona ⟨⟨e⟩⟩ boitshepo.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "godiragatse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ya rona"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "mme mo phenyeng"
+    },
+    {
+      "surface": "להר",
+      "gloss": "mo thabong"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "boitshepo ya gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ya rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:45.180414644Z",
+  "model": "glm-5.3"
+}

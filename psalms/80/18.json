@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 80,
+  "translation": "A seatla sa gago se nne mo go monna wa sebatla sa gago, mo go morwa motho yo o mo nonotshetseng mo go wena.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "a se nne"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wa sebatla sa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "o nonotshetseng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:19.555921048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme o beye ⟨את⟩ setulo sa khutso kwa godimo ga ⟨את⟩ areka, mme mo arekeng o beye ⟨את⟩ bopaki jo ke tlaa go joneelang.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "o beye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setulo sa khutso"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "setulo sa khutso"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa godimo ga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "areka"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kwa godimo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme mo"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arekeng"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o beye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bopaki"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tlaa go joneelang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-03T21:43:03.901484471Z",
+  "model": "glm-5.3"
+}

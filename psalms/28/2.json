@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Utlwa lentswe la dikopo tsa me, fa ke go lelelela, fa ke tlhatsa diatla tsa me kwa lefifing le le boitshepo la gago.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Utlwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "la dikopo tsa me"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "fa ke go lelelela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": ""
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "fa ke tlhatsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "diatla tsa me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "lefifing le le boitshepo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "la gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:17:29.148956758Z",
+  "model": "glm-5.3"
+}

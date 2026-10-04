@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme jaanong ke tlaa senola ⟨את⟩ bonweenwee jwa gagwe kwa mahlong a bae a ba mo ratang, mme ga go na motho yo o tlaa mo bolokang mo seatleng sa me.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ke tlaa senola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonweenwee jwa gagwe"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "bonweenwee jwa gagwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "kwa mahlong a"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "bae a ba mo ratang"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "a ka mo boloka"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mo seatleng sa me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:36.254197231Z",
+  "model": "glm-5.3"
+}

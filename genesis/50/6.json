@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 50,
+  "translation": "Mme Faro a re: Go ya, o ee go boloka ⟨את⟩ rre wa gago, jaaka a go tshekitseditse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "o ee go boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rre wa gago"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rre wa gago"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "a go tshekitseditse"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:09.229892182Z",
+  "model": "glm-5.3"
+}

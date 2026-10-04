@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme se se se salang go tswa go sone go fitlha moso; mme se se salang go tswa go sone go fitlha moso, mo molelong lo tla se fisa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme … se se"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "sa salang"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa go sone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "mme se se salang"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tswa go sone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mo molelong"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "lo tla se fisa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:36:23.315048407Z",
+  "model": "glm-5.3"
+}

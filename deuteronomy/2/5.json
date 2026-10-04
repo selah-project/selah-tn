@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Le se ka wa ba gana kgotsano, gonne ga ke na go le neela sepe sa lefatshe la bone, go fitlha kwa go tlharetso ya phadima ya lonao; gonne Esaue ke yena yo ke neng ka mo neela ⟨את⟩ thaba ya Seire e le boswa jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "le se ka wa"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "ba gana kgotsano"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke na go neela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "sepe sa lefatshe la bone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha kwa"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tlharetso"
+    },
+    {
+      "surface": "כף",
+      "gloss": "phadima"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ya lonao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "boswa"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esaue"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ka mo neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba ya Seire"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ya Seire"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:12.541911737Z",
+  "model": "glm-5.3"
+}

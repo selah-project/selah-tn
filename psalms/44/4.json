@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Gore e seng ka dijwangwa tsa bone ba laeng lefatshe, mme lerumo la bone le ne le sa ba pholose; gore ke letsogo la gago la moja nngwe, le lerumo la gago, le bohalo jwa sefatlhego sa gago, gonne o ne o ba rate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore e seng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "ka dijwangwa tsa bone"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ba laeng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "mme lerumo la bone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "le ne le sa ba pholose"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore ke"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsogo la gago la moja nngwe"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "le lerumo la gago"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "le bohalo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jwa sefatlhego sa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "o ne o ba rate"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:31.409523260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme molelwane o ne o tswa o ya kwa lewatlele go ya kwa Mikmetathe kwa bokone; mme molelwane o ne o rularela kwa botlhaba go ya kwa Taanate-Shiloe, o ne wa e feta ⟨את⟩ mo botlhaba go ya kwa Yanoe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "o ne o tswa"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "o ya kwa lewatlele"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "Mikmetathe"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kwa bokone"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "o ne o rularela"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "kwa botlhaba"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Taanate"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shiloe"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "o ne wa e feta"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "yone (Taanate-Shiloe)"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "mo botlhaba"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "go ya kwa Yanoe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:41:41.401864570Z",
+  "model": "glm-5.3"
+}

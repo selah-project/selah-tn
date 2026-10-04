@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Gore ba bona ba ba botlhale ba a swa; mmogo sefole le wa setlhogo ba a senyega, mme ba tlogetse madi a bone go ba bangwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ba ba botlhale"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ba a swa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sefole"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "le wa setlhogo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba a senyega"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "mme ba tlogetse"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "go ba bangwe"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "madi a bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:09.676287309Z",
+  "model": "glm-5.3"
+}

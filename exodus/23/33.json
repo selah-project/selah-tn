@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ba se ka ba nna mo lefatsheng la gago, gore ba se ka go dira ⟨את⟩ gore o dire boleo go lwa le nna, gonne o direla ⟨את⟩ medimo ya bone, gonne ⟨e⟩ tla nna lefala go wena.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba se ka"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "mo lefatsheng la gago"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore ba se ka"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "ba dira gore o dire boleo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gore o",
+      "marks": "wena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go lwa le nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya bone"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "medimo ya bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "lefala"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:22.128721025Z",
+  "model": "glm-5.3"
+}

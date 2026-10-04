@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Go fodiwa mo boemong jwa go fodiwa, kgobalo mo boemong jwa kgobalo, leso mo boemong jwa leso.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "go fodiwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "go fodiwa"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "kgobalo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "kgobalo"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "leso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mo boemong jwa"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "leso"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:01.046261730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Fa Yisraele e santse e le ngwana, ke ne ke a mo rata, mme mo Mitsrayime ke ne ke bitsa morwa ka me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ke ne ke a mo rata"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "mo Mitsrayime"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke ne ke bitsa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "morwa ka me"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:15.687315982Z",
+  "model": "glm-5.3"
+}

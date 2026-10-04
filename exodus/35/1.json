@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "Mme Moshe a bokanya ⟨את⟩ setshaba sotlhe sa banana ba Yisraele, a ba re: Mafoko a ke la go dira a re Yahwe a laetseng go a dira.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "a bokanya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba sotlhe sa banana ba Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "banana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "a (mafoko)"
+    }
+  ],
+  "timestamp": "2026-10-04T03:02:23.099857518Z",
+  "model": "glm-5.3"
+}

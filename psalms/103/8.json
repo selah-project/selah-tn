@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 103,
+  "translation": "Yahwe ke yo mohau le yo o nang le mohau, o se ka wa galefa ka bonako, mme o na le hesede e ntsi.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "yo mohau"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "le yo o nang le mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "o se ka wa galefa ka bonako"
+    },
+    {
+      "surface": "אפים",
+      "gloss": ""
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mme o na le ... e ntsi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:05.692667969Z",
+  "model": "glm-5.3"
+}

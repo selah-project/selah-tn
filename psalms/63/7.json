@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Fa ke gopola wena mo bolong jwa me, ka dikgetsana tsa bosigo ke a go nahanela.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ke gopola wena"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "bolong jwa me"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "ka dikgetsana tsa bosigo"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ke a go nahanela"
+    },
+    {
+      "surface": "בך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:30.285757724Z",
+  "model": "glm-5.3"
+}

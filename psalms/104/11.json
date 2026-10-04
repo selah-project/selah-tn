@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Di nwesa diphologolo tsotlhe tsa masimo; ditonki tsa naga di phimola thubelo ya tsona.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "di nwesa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "diphologolo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tsa masimo"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "di phimola"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "ditonki tsa naga"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "thubelo ya tsona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:11.292711346Z",
+  "model": "glm-5.3"
+}

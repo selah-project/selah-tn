@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme se se o tlaa se dirang: dikhutlo di le makgolo a mararo bolelele jwa sekele, masome a matlhano dikhutlo bophara jwa sone, le masome a mararo dikhutlo bogodimo jwa sone.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "mme se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tlaa se dira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sekele"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "di le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a mararo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikhutlo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bolelele"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "jwa sekele"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masome a matlhano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikhutlo"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bophara jwa sone"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le masome a mararo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikhutlo"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "bogodimo jwa sone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:30.415413289Z",
+  "model": "glm-5.3"
+}

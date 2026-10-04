@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme Abrahame a logaganya ⟨את⟩ dikgwana tse di adimang tsa kokoane di le supa, di le nosi.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "a logaganya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgwana tse di adimang"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "supa"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "dikgwana tse di adimang"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tsa kokoane"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "di le nosi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:11.015421140Z",
+  "model": "glm-5.3"
+}

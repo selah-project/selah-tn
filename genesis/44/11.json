@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Ba bagama, ba laola mongwe le mongwe sekele sa gagwe fa fatshe, mme mongwe le mongwe a bula sekele sa gagwe.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ba bagama"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ba laola"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekele sa gagwe"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sekele sa gagwe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fa fatshe"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "mme a bula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sekele sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:57.988346203Z",
+  "model": "glm-5.3"
+}

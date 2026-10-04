@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Ga ke tsabe dikelete tsa setshaba, ba ba mo tikologong ya me ba ipaakanyetsang go tlhasela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ke tsabe"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "dikelete"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mo tikologong"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ba ipaakanyetsang go tlhasela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatlhanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:55.872528472Z",
+  "model": "glm-5.3"
+}

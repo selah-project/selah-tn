@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Mme a tsena kwa go rraagwe, a re: Rra! Mme a re: Ke fano! Ke mang wena, morwa ka?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mme a tsena kwa go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa go"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Rra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ke fano"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:31.375796439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme fa lo sa reetlelela go nna, mme lo sa dira ⟨את⟩ ditaelo tsotlhe tseno,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "lo reetlelela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme lo sa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaelo tsotlhe tseno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ditaelo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:23.239726862Z",
+  "model": "glm-5.3"
+}

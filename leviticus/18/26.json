@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme lona lo tshwanetse go sireletsa ⟨את⟩ melawana ya me le ⟨את⟩ dikatlholo tsa me, mme lo se ka wa dira le fa e le sengwe sa dilo tsotlhe tse di gannyeng tseno — moahi wa selegae le moafiri yo o dinang mo gare ga lona.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "lo tshwanetse go sireletsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melawana ya me"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melawana ya me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikatlholo tsa me"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikatlholo tsa me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme lo se ka wa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dira"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "le fa e le sengwe sa tsotlhe"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "dilo tse di gannyeng"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseno"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "moahi wa selegae"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "le moafiri"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "yo o dinang"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mo gare ga lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:59.213446120Z",
+  "model": "glm-5.3"
+}

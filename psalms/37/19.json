@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Ba seka wa nyatsa nakong ya bosula, mme malatsi a tlala ba tla a busetsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba seka wa"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "nyatsa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nakong"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ya bosula"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "mme malatsi"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "a tlala"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ba tla a busetsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:23.913924360Z",
+  "model": "glm-5.3"
+}

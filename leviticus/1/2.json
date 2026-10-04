@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Bua le bana ba Yisraele, mme o ba re: Fa motho wa lona a tlisa ⟨את⟩ mpho go Yahwe, go tswa mo diphoofolong — go tswa mo dikgamong le go tswa kamong — lo tla tlisa ⟨את⟩ mpho ya lona.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "mme o ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "a tlisa"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "wa lona"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "diphoofolong"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tswa mo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgamong"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le go tswa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kamong"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "lo tla tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya lona"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "mpho ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:59.999668061Z",
+  "model": "glm-5.3"
+}

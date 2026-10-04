@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "Ke ene Yahwe, Elohim wa rona; dikatlholo tsa gagwe di mo lefatshe lotlhe.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ke ene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo ... lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "dikatlholo tsa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:27.175644022Z",
+  "model": "glm-5.3"
+}

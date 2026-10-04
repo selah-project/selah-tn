@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "O ile a bula molula, mme a o poroma; mme a wela mothanong oo a o dirileng.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "molula"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "o ile a bula"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "mme a o poroma"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "mme a wela"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "mothanong"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "a o dirileng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:01.424429455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Se seng maswe go tshosa ke sone; katlholo ya sone le boreme jwa sone di tla tswa mo go sone,",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "seng maswe go tshosa"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ke sone"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke sone"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo go sone"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "katlholo ya sone"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "le boreme jwa sone"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "di tla tswa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:04:27.973237157Z",
+  "model": "glm-5.3"
+}

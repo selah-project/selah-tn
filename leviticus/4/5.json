@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme kgothatsi-kgothatsi yo o tloditsweng a tla tswa madi a phologolo, mme a isa ⟨את⟩ one kwa tenteng ya kopano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "a tla tswa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kgothatsi-kgothatsi"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "yo o tloditsweng"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "madi a"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "mme a isa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ one"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenteng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:55.529100713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "e a neng a e kgaola le ⟨את⟩ Abrahame, le se a se ikanaetsang le Yitshake",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a kgaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "le se a se ikanaetsang"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "le Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:00.521890105Z",
+  "model": "glm-5.3"
+}

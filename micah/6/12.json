@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 6:12",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "gore batho ba ba humileng ba yona ba a tlala tshotlo, mme baagi ba yona ba bua maaka, mme lone la bone lo na le bolo mo molomong wa bone.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עשיריה",
+      "gloss": "batho ba ba humileng ba yona"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ba a tlala"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tshotlo"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "baagi ba yona"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "mme lone la bone"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "mo molomong wa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:03:16.577309954Z",
+  "model": "glm-5.3"
+}

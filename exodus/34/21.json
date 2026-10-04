@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 34,
+  "translation": "Matsatsi a marataro o tlaa dira, mme ka letshwai la bosupa o tlaa Shabata; ka nako ya go epa le ka nako ya kgotlho o tlaa Shabata.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "a marataro"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Matsatsi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tlaa dira"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "mme ka letshwai"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bosupa"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "o tlaa Shabata"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "ka nako ya go epa"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "le ka nako ya kgotlho"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "o tlaa Shabata"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:49.879602475Z",
+  "model": "glm-5.3"
+}

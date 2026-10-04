@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Ka go kwa ka tsebe ke ne ka go kwa, mme jaanong leihlo la me le go bone.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ka go kwa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ke ne ka go kwa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leihlo la me"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "le go bone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:07:44.417639718Z",
+  "model": "glm-5.3"
+}

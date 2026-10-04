@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 149,
+  "translation": "Dumelang Yah, opelang go Yahwe kobama e ntšha, tumagano ya gagwe mo phuthegong ya ba ineelo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "opelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kobama"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e ntšha"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tumagano ya gagwe"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mo phuthegong"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ya ba ineelo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:35.469358860Z",
+  "model": "glm-5.3"
+}

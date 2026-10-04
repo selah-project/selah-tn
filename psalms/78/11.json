@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 78,
+  "translation": "Mme ba lebala ditiro tsa gagwe, le dilo tsa gagwe tse di gakgamatsang, ao ⟨את⟩ a neng a di bonitsa.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Mme ba lebala"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ditiro tsa gagwe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le dilo tsa gagwe tse di gakgamatsang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "⟨את⟩ a neng a di bonitsa",
+      "marks": "dilo tse di gakgamatsang"
+    }
+  ],
+  "timestamp": "2026-10-04T03:20:28.810884414Z",
+  "model": "glm-5.3"
+}

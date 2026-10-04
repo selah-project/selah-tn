@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme Bafilistia ba babale batlhokomedi ba seke go mo latela Shaule le go latela bana ba gagwe, mme Bafilistia ba tlhotlhorela ⟨את⟩ Yonathane le ⟨את⟩ Abinadabe le ⟨את⟩ Malki-Shua, bana ba Shaule.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ba babale batlhokomedi ba seke go mo latela"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilistia"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "go latela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "le go latela"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mme ba tlhotlhorela"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilistia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonathane"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abinadabe"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    }
+  ],
+  "timestamp": "2026-10-04T02:39:29.564758239Z",
+  "model": "glm-5.3"
+}

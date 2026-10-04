@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme go tswa mo setshabeng sa Binjamine, ⟨את⟩ Gibone le ⟨את⟩ mafelo a yone a bojang, ⟨את⟩ Geba le ⟨את⟩ mafelo a yone a bojang.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mme go tswa mo setshabeng sa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibone"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a yone a bojang"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mafelo a yone a bojang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a yone a bojang"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mafelo a yone a bojang"
+    }
+  ],
+  "timestamp": "2026-10-03T22:42:43.497095582Z",
+  "model": "glm-5.3"
+}

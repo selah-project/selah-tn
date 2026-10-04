@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Yehoshua a laela ⟨את⟩ baitseledi ba setshaba, a re:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baitseledi ba setshaba"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "baitseledi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ba setshaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T22:35:22.088750496Z",
+  "model": "glm-5.3"
+}

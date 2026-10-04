@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme kgosi ya ba re: Toro ke ne ke e lora, mme ruakh ya me e ne ya tshwenyega, go itse ⟨את⟩ toro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "toro"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ke ne ke e lora"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "mme e ne ya tshwenyega"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya me"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "go itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toro"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "toro"
+    }
+  ],
+  "timestamp": "2026-10-04T02:18:50.274786877Z",
+  "model": "glm-5.3"
+}

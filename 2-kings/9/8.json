@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme ntlo yaotlhe ya Ahabu e tla nyelela, mme ke tla ralala mo Ahabu yo o sesang mo sesoleng, yo o tsentsweng le yo o tlogetswe, mo Yisraele.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "e tla nyelela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yaotlhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahabu"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ke tla ralala"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "mo Ahabu"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "yo o sesang"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "mo sesoleng"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "yo o tsentsweng"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "le yo o tlogetswe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mo Yisraela"
+    }
+  ],
+  "timestamp": "2026-10-03T23:35:10.400326268Z",
+  "model": "glm-5.3"
+}

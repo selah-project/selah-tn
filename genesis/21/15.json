@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme metsi a ne a fela mo sekatlaseng, mme o ne a latlhela ⟨את⟩ ngwana ka fa tlase ga sekgongwe se se sengwe sa ditshego.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "a ne a fela"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "sekatlaseng"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "a latlhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fa tlase ga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se se sengwe"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "sa ditshego"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:43.484710119Z",
+  "model": "glm-5.3"
+}

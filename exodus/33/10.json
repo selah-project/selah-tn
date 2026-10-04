@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 33,
+  "translation": "Mme setsha so siameng, batho botlhe ba ne ba bona ⟨את⟩ pilara ya maru e eme kwa goleleng ga tlou, mme batho botlhe ba ne ba tlhaga, ba motlhaoke mongwe le mongwe kwa goleleng ga tlou ya gagwe.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mme ba ne ba bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilara"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "pilara"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ya maru"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa goleleng ga"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tlou"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "mme ba ne ba tlhaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ba motlhaoke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kwa goleleng ga"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tlou ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:46:48.415206497Z",
+  "model": "glm-5.3"
+}

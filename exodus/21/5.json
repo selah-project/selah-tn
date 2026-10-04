@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "translation": "Mme fa setlhanka se ka re ka botlalo: Ke ratile ⟨את⟩ mong wa me, ⟨את⟩ mosadi wa me le ⟨את⟩ bana ba me; ga nke ka tswa gololwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme fa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "setlhanka"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke ratile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mong wa me"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa me"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mosadi wa me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "nke ka tswa"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "gololwa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:41:23.227317342Z",
+  "model": "glm-5.3"
+}

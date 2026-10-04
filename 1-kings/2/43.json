@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme ke eng fa o sa boloke ⟨את⟩ kolobetso ya Yahwe, le ⟨את⟩ taelo e ke neng ke e laetse go wena?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "mme ke eng fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolobetso ya Yahwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "kolobetso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taelo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke neng ke e laetse"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:24.072746565Z",
+  "model": "glm-5.3"
+}

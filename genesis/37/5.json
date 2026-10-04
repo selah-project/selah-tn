@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme Yosefe o ne a lora toro, mme a e bolelela baene ba gagwe; mme ba oketsa go mo tlhoya gape.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "a lora"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mme a bolelela"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "baene ba gagwe"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "mme ba oketsa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "go tlhoya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Yosefe)"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:08.425633066Z",
+  "model": "glm-5.3"
+}

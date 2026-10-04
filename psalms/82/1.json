@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 82,
+  "translation": "Psalme ya Asafe. Elohim o emile mo phuthegong ya El; mo gareng ga medimo o katlhola.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "o emile"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "mo phuthegong ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mo gareng ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o katlhola"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:46.757238004Z",
+  "model": "glm-5.3"
+}

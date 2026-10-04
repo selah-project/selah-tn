@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 104,
+  "translation": "Ke tla opela ga ke ntse ke le mo botshelong go Yahwe; ke tla kgaba sebinola go Elohim ya me fa nka ntse ke le mo botshelong.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla opela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "mo botshelong jwa me"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla kgaba sebinola"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "go Elohim ya me"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "fa nka ntse ke le mo botshelong"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:14.994278427Z",
+  "model": "glm-5.3"
+}

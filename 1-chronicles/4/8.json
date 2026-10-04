@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Kotsi a begeta ⟨את⟩ Anube le ⟨את⟩ Tsobeba, le malapa a Aharkele morrage wa Harume.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Mme Kotsi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anube"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anube"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsobeba"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Tsobeba"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "le malapa a"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Aharkele"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morrage wa"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harume"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:08.560926018Z",
+  "model": "glm-5.3"
+}

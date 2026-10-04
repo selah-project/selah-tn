@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Ba re kwa setshabeng: Fetang, mme lo thokele ⟨את⟩ toropo, mme ba ba rabang dibetsa ba tla feta kwa pele ga arka ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshabeng"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "fetang"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "mme lo thokele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "mme ba ba rabang dibetsa"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ba tla feta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:24.971317081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "A bea ⟨את⟩ setopo sa gagwe kwa lebitleng la gagwe, ba lla mo go ene, ba re: Aoo, kgaitsadio!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setopo sa gagwe"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "setopo sa gagwe"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "kwa lebitleng la gagwe"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ba lla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Aoo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kgaitsadio"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:59.835324803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "mme moperesite a laela gore go tsewe gore wa o tlaa bojwa dinonyane di le pedi tse di tshelang, tse di itshepileng, le setlhare sa kedarere, le lesilo le lehibidu la setlhako sa sehwerwe, le eosope;",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesite"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "gore go tsewe"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "gore wa o tlaa bojwa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "di le pedi"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "dinonyane"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "tse di tshelang"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "tse di itshepileng"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "le setlhare"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sa kedarere"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "le lesilo le lehibidu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "la sehwerwe"
+    },
+    {
+      "surface": "ו אזב",
+      "gloss": "le eosope"
+    }
+  ],
+  "timestamp": "2026-10-04T03:04:24.217182256Z",
+  "model": "glm-5.3"
+}

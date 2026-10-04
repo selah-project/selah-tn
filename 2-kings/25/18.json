@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "Mme mookamedi wa setlhopha sa badirisi o ne a tseela ⟨את⟩ Serayah, moruti yo mogolo, le ⟨את⟩ Tsefanyahu, moruti wa bobedi, le ⟨את⟩ bakaulengwe ba le bararo ba ba neng ba lebile kgoro.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mme o ne a tsaya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mookamedi wa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "badirisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "yo mogolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsefanyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba le bararo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba le bararo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "bailengwe"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "kgoro"
+    }
+  ],
+  "timestamp": "2026-10-03T23:44:37.143916925Z",
+  "model": "glm-5.3"
+}

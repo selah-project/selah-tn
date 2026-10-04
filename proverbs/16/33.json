@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mogolokwane o kwa teng ga sehuba, mme katlholo ya sone yotlhe e tswa go Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "mo sehubeng"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "o latlhwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogolokwane"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "mogolokwane"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "mme go tswa go Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "katlholo ya sone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:46:36.774117575Z",
+  "model": "glm-5.3"
+}

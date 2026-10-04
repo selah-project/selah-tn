@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Ba nyatse lefatshe le le ratwang, ba sa dumeleleng lefoko la gagwe;",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Ba nyatse"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "le le ratwang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa dumeleleng"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "dumo"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "lefoko la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:14.528363908Z",
+  "model": "glm-5.3"
+}

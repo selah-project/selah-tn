@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 126,
+  "translation": "Pina ya go tlhatloga. Fa Yahwe a boela ⟨את⟩ phologo ya Tsiyone, re ne re le jaaka ba ba lorang.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya go tlhatloga"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "fa ... a boela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phologo ya Tsiyone"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "phologo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "re ne re le"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "jaaka ba ba lorang"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:37.409584956Z",
+  "model": "glm-5.3"
+}

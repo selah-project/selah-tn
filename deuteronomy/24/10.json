@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Fa o kalela moeng wa gago sekoloto sa sengwe le sengwe, o se ke wa tsena mo nyakong ya gagwe go ya go tsaya sekaolo sa gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "o kalela"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "moeng wa gago"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "sekoloto"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "sa sengwe le sengwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyakong ya gagwe"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "go ya go tsaya"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "sekaolo sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:29:20.720516142Z",
+  "model": "glm-5.3"
+}

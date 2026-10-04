@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme madi otlhe lo se ka wa ja, a dinonyane le a diphologolo, mo malokweng a lona otlhe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mme ... otlhe"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ka"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "wa ja"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo ... otlhe"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "malokweng a lona"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "a dinonyane"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "le a diphologolo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:07.738821795Z",
+  "model": "glm-5.3"
+}

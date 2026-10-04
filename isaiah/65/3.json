@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 65,
+  "translation": "Setshaba se se nkgalefang ⟨את⟩ me ka go lekalekanyo, mo sefatong sa me; ba beditsa diphologolo masimong, ba chesa khibafo godimo ga matlapana.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "se se nkgalefang"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka go lekalekanyo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatong sa me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka bosakhutlhe"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ba beditsa diphologolo"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "masimong"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ba chesa khibafo"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "matlapana"
+    }
+  ],
+  "timestamp": "2026-10-04T00:06:59.237307515Z",
+  "model": "glm-5.3"
+}

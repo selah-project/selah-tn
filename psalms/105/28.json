@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 105,
+  "translation": "O ne a romela lefifi, mme la nna lefifi; mme ba ne ba sa ganetsa ⟨את⟩ lefoko la gagwe.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "la nna lefifi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ganetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko la gagwe"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "lefoko la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:00.329415867Z",
+  "model": "glm-5.3"
+}

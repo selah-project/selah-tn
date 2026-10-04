@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Gabedi ke buile, mme ga ke arabe; ga ke oketse sepe.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ga nngwe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke buile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ke arabe"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "gabedi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ke oketse"
+    }
+  ],
+  "timestamp": "2026-10-04T02:04:19.958155191Z",
+  "model": "glm-5.3"
+}

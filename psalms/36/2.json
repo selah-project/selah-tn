@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Go bua Yahwe: phoko ya bokaferere mo pelong ya me — go tsamaya ka go se boife Elohim fa pele ga mahiti a gagwe.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "go bua Yahwe"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "phoko"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ya bokaferere"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelong ya me"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go tsamaya ka go se"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "boife"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahiti a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:18:38.748467714Z",
+  "model": "glm-5.3"
+}

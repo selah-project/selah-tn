@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme Elohim a re: Go nne rakiya mo bogareng jwa metsi, mme e nne e kgaogantse magareng ga metsi le metsi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "go nne"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo bogareng jwa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme e nne"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "e kgaogantse"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "למים",
+      "gloss": "le metsi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:00:56.714446606Z",
+  "model": "glm-5.3"
+}

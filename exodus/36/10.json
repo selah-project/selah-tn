@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme a kopanya ⟨את⟩ ditaleng di le tlhano, se sengwe le se sengwe; mme ditaleng di le tlhano a di kopanya, se sengwe le se sengwe.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Mme a kopanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaleng di le tlhano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "di le tlhano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ditaleng"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mme di le tlhano"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ditaleng"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "a di kopanya"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "se sengwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:06.522905172Z",
+  "model": "glm-5.3"
+}

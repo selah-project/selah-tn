@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme wena, morwa wa motho, tseela wena setena, mme o ⟨את⟩ se beye pele ga wena, mme o paale mo go sone toropo, ⟨את⟩ Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tseela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "setena"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mme o se beye"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ se",
+      "marks": "setena"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga wena"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "mme o paale"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo go sone"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-04T00:33:30.886856991Z",
+  "model": "glm-5.3"
+}

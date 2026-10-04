@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 52:11",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 52,
+  "translation": "Fetogang, fetogang, tswang koo; seke wa kgweetsa se se sa boitshepang; tswang mo teng ga yona; itlhokomolokang, lona ba ba rwalang didiriswa tsa Yahwe.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "fetogang"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "fetogang"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "tswang"
+    },
+    {
+      "surface": "משם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "se se sa boitshepang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "seke wa"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kgweetsa"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "tswang"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "mo teng ga yona"
+    },
+    {
+      "surface": "הברו",
+      "gloss": "itlhokomolokang"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ba ba rwalang"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "tsa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T00:00:46.602367648Z",
+  "model": "glm-5.3"
+}

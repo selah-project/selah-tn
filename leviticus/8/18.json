@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a tlisa ⟨את⟩ ramu ya sefutfunyego, mme Aharone le bara ba gagwe ba tlhagolela ⟨את⟩ diatla tsa bone mo tlhogo ya ramu.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Mme a tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramu ya sefutfunyego"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ramu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya sefutfunyego"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "ba tlhagolela"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bara ba gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diatla tsa bone"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tsa bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tlhogo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ya ramu"
+    }
+  ],
+  "timestamp": "2026-10-03T21:53:14.598776558Z",
+  "model": "glm-5.3"
+}

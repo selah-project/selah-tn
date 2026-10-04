@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "Boammaaru bo tlhaga mo lefatsheng, mme tsedeke bo lebile kwa tlase go tswa magodimong.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Boammaaru"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "bo tlhaga"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "mme tsedeke"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "go tswa magodimong"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "bo lebile kwa tlase"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:58.303872640Z",
+  "model": "glm-5.3"
+}

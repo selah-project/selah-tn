@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Yahwe o ba thusa, mme o ba golola; o ba golola go tswa go ba ba bopa dibi, mme o ba boloka, gonne ba tshegela go ikhutsa mo go ⟨Elohim⟩.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "o ba thusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "mme o ba golola"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "o ba golola"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "go tswa go ba ba bopa dibi"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "mme o ba boloka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "ba tshegela go ikhutsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T01:19:27.768913080Z",
+  "model": "glm-5.3"
+}

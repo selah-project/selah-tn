@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Ga a kitla a tsaya monna ⟨את⟩ mosadi wa rraagwe, mme ga a kitla a senola lefuka la rraagwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa rraagwe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa rraagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "a senola"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "lefuka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "la rraagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:30:01.549367438Z",
+  "model": "glm-5.3"
+}

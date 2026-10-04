@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme Solomone a simolola go aga ⟨את⟩ ntlo ya Yahwe kwa Yerushalayime, mo thabeng ya Moriya, e e neng ya bonwa ke Dawide rraagwe, lefelong leo Dawide a neng a le baakanyetseng, mo morong wa Arname Mobusite.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "a simolola"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mo thabeng"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "ya Moriya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ya bonwa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ke Dawide"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a le baakanyetseng"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "mo morong"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "wa Arname"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Mobusite"
+    }
+  ],
+  "timestamp": "2026-10-04T02:47:38.293809148Z",
+  "model": "glm-5.3"
+}

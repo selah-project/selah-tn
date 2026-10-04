@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Lelefang le le lengwe le le lengwe le matlhako a maoto a lona a nang le kgolagano le lone, ke lone go lona ke neng ka se neela, jaaka ke buile le Moshe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lelefang le le lengwe le le lengwe"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lelefang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le le nang le kgolaganelo"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "a nang le kgolagane le lone"
+    },
+    {
+      "surface": "כף",
+      "gloss": "matlhako a"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "maoto a lona"
+    },
+    {
+      "surface": "בו",
+      "gloss": "le lone"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ke neng ka se neela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke buile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:32.323551592Z",
+  "model": "glm-5.3"
+}

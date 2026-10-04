@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Abimeleke a re go Abrahame: O bone eng, gore o dirile ⟨את⟩ selo se?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "o bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selo se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "selo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-03T21:19:05.209759228Z",
+  "model": "glm-5.3"
+}

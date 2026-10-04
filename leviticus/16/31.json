@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Ke ⟨e⟩ Shabata ya boikhutso go lona; mme lo tla koafatsa ⟨את⟩ bophelo jwa lona — sešwaeno sa bosakhutshwanyane.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya boikhutso"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke ⟨e⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "mme lo tla koafatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo jwa lona"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "bophelo jwa lona"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sešwaeno sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bosakhutshwanyane"
+    }
+  ],
+  "timestamp": "2026-10-03T21:57:54.278618779Z",
+  "model": "glm-5.3"
+}

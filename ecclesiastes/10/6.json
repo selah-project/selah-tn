@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Sekhura se bewe kwa maemong a a kwa godimo a a menateng, mme ba ba humang ba nna ba dutse kwa tlase.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "se bewe"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "sekhura"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "kwa maemong a a kwa godimo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a a menateng"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "mme ba ba humang"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "kwa tlase"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba nna ba dutse"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:48.792529584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Se se tlaa dirwa go lona, Bethele, ka ntlha ya bosenyi jwa lona jo bo bose; ka moso kgosi ya Yisraele e tlaa nyelela ka go nyelela.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "se se tlaa dirwa jalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "go dirwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "bosenyi"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "jwa lona jo bo bose"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "e tlaa nyelela"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ka go nyelela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:00.384988253Z",
+  "model": "glm-5.3"
+}

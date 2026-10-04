@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Monna, mong wa lefatshe, o buile le rona ka thata, mme o ne a re tsaya jaaka bao ba sepelisang lefatshe, ⟨את⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "Monna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ka thata"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme o ne a re tsaya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "rona"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "jaaka bao ba sepelisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:01:25.812772138Z",
+  "model": "glm-5.3"
+}

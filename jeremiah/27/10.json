@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "gore ke maaka ba a porofetelang go lona, e le gore ba lo ntshe kgakala mo lefatsheng la lona; mme ke tla lo hudusa, lo bo lo senyega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "ba porofetelang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "למען",
+      "gloss": "e le gore"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ba lo ntsha kgakala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "lefatsheng la lona"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "mme ke tla lo hudusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lo"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "lo senyega"
+    }
+  ],
+  "timestamp": "2026-10-04T00:18:26.988782743Z",
+  "model": "glm-5.3"
+}

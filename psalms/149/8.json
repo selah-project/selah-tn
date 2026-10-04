@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 149,
+  "translation": "go logaganya dikgosi tsa bone ka dikgogelo, le ba ba tlotlegang ba bone ka dikgole tsa tshipi.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "go logaganya"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dikgosi tsa bone"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ka dikgogelo"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "le ba ba tlotlegang ba bone"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ka dikgole"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "tshipi"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:35.217764651Z",
+  "model": "glm-5.3"
+}

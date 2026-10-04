@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Go tla ntshiwa sepele, go ntshiwa sepele lefatshe, mme go tla utswiwa, go utswiwa; gonne Yahwe o buile ⟨את⟩ lefoko le.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Go tla ntshiwa sepele"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "go ntshiwa sepele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "mme go tla utswiwa"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "go utswiwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lefoko le"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:10.054752910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 24:16",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Morwa wa motho, bonela, ke a tlosa mo go wena ⟨את⟩ se dumelelang mahlo a gago, ka mogare; mme o se ke wa ilela, o se ke wa lela, mme mangope a gago a se ke a tla.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonela"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ke a tlosa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se dumelelang mahlo a gago"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "se dumelelang"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a gago"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "ka mogare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke"
+    },
+    {
+      "surface": "תספד",
+      "gloss": "wa ilela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "wa lela"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "mme ... a se ke"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "mangope a gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:42:14.795741997Z",
+  "model": "glm-5.3"
+}

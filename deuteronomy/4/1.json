@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme jaanong, Yisraele, theeletsa melawana le dikatlholo eo nna ke go rutang go di dira, gore lo tshelo, lo tsene lo bo lo ruile ⟨את⟩ lefatshe leo Yahwe, Elohim ya bo-rralona, a lone le lona.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "theeletsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dikatlholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "ke go rutang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lo",
+      "marks": "go dira"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go di dira"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "lo tshelo"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "lo tsene"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "lo bo lo ruile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ya bo-rralona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a lone"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:22:25.418344883Z",
+  "model": "glm-5.3"
+}

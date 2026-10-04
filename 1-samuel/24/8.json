@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme Dawide a kganela ⟨את⟩ banna ba gagwe ka mafoko, mme a sa ba letla go tsoga kgatlhanong le Shaule; mme Shaule a tlhatloga mo phaposing ya lefatshe, a tsamaya mo tseleng.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "a kganela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna ba gagwe"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "banna ba gagwe"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ka mafoko"
+    },
+    {
+      "surface": "ויא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "a ba letla"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "go tsoga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "mme Shaule"
+    },
+    {
+      "surface": "קם",
+      "gloss": "a tlhatloga"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "mo phaposing ya lefatshe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mo tseleng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:04:52.203574593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Yehoshua a re: O re utswisitse kae? Yahwe o go tlhotlhorisa ka letsatsi le. Mme Yisraele yotlhe a mo gabanya ka maje, ba ba fisa ka molelo, ba ba gabanetse ka maje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "o re utswisitse"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "o go tlhotlhorise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "a gabanya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "gagwe (Akhane)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ka maje"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ba fisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "ba gabanetse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ka maje"
+    }
+  ],
+  "timestamp": "2026-10-03T22:37:15.807234611Z",
+  "model": "glm-5.3"
+}

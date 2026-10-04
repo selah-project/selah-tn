@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Fa lo tsamaya ka melawana ya me, le boloka ⟨את⟩ melao ya me ya mafelelo mme lo e dira —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ka melawana ya me"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "lo tsamaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩ boloka",
+      "marks": "melao ya me ya mafelelo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "melao ya me ya mafelelo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "lo boloka"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme lo e dira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya me ya mafelelo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:01:10.832106388Z",
+  "model": "glm-5.3"
+}

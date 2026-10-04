@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "A re: Fa lo thusa basadi ba Basheberu go belega, lo bo lo bona mo mabaleng a pelego: fa e le morwa, mo bolaye; mme fa e le morwadia, a tsheleng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "fa lo thusa go belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basadi ba Basheberu"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "basadi ba Basheberu"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "lo bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabaleng a pelego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa e le"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "mo bolaye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "morwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme fa e le"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "היא",
+      "gloss": "—"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "a tsheleng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:07.715768291Z",
+  "model": "glm-5.3"
+}

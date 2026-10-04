@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "O se ke wa tsaya mo go ena ⟨את⟩ riba le tlaleletso; mme o boife Elohim wa gago, mme mokgwenisi wa gago a tle a tshela le wena.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tsaya"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "mo go ena ⟨את⟩",
+      "marks": "riba le tlaleletso"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "le tlaleletso"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "mme o boife"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a tle a tshela"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mokgwenisi wa gago"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:09.692798321Z",
+  "model": "glm-5.3"
+}

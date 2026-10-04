@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Fa moganedi wa gago a wa, o se ka wa ithabisa; mme fa a thubega, pelo ya gago e se ka wa nna le tshego;",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "Fa a wa"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "moganedi wa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "wa ithabisa"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "mme fa a thubega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e se ka"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "nna le tshego"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:50:05.066562018Z",
+  "model": "glm-5.3"
+}

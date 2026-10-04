@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Dithuntho tsa bona di tla nna dintsi — ba ba peloepelang morago ga medimo e mengwe; ke ka ke ne ka khudumela dikhabo tsa bona tsa madi, mme ⟨את⟩ maina a bona ke ka ke ne ka a tsenya mo molomong wa me.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "di tla nna dintsi"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "dithuntho tsa bona"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ba ba peloepelang"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ke ka"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ka khudumela"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "dikhabo tsa bona"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "tsa madi"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "mme ke ka"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ka tsenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maina a bona"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "maina a bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomong wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:13.637321014Z",
+  "model": "glm-5.3"
+}

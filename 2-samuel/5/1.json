@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme ditlhopha tsotlhe tsa Yisraele di ne tsa tla kwa Dawide kwa Kheberone, mme di re se se: Bonang, re lerapo la gago le nama ya gago re rona.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "di ne tsa tla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ditlhopha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Kheberone"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "di re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "Bonang re"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "lerapo la gago"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "le nama ya gago"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "re rona"
+    }
+  ],
+  "timestamp": "2026-10-03T23:10:36.835456404Z",
+  "model": "glm-5.3"
+}

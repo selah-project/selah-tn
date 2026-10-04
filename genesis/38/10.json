@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme se a neng a se dirile se ne se le bosula mo mahelong a Yahwe, mme Yahwe o ne a bolaya ⟨את⟩ ene le ene.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "se ne se le bosula"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mo mahelong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se dirileng"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a bolaya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le ene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ene"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:27.764271292Z",
+  "model": "glm-5.3"
+}

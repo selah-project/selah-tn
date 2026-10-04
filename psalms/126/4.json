@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 126,
+  "translation": "Boela, Yahwe, ⟨את⟩ phologo ya rona, jaaka dinoka tse di thubang mo borwa.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "boela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phologo ya rona"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "phologo ya rona"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "jaaka dinoka"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "mo borwa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:37.410116840Z",
+  "model": "glm-5.3"
+}

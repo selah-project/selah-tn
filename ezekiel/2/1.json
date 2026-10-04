@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme a bua go nna: Morwa motho, ema ka dinao tsa gago, mme ke tla bua ⟨את⟩ le wena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a bua"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ema"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "dinao tsa gago"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "mme ke tla bua"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-04T00:31:56.152548133Z",
+  "model": "glm-5.3"
+}

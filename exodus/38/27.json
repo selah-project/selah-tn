@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 38:27",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 38,
+  "translation": "Mme makgolo a le lekgolo a ditelante tsa selefera a ne a dirisediwa go epa ⟨את⟩ mesu ya boitshepo le ⟨את⟩ mesu ya parokhete; makgolo a le lekgolo a mesu go ya ka makgolo a le lekgolo a ditelante — telante e le nngwe ya mosu o le mongwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme (a ne a le)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "makgolo a le lekgolo"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "a ditelante"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "tsa selefera"
+    },
+    {
+      "surface": "לצקת",
+      "gloss": "go epa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesu ya boitshepo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mesu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya boitshepo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mesu ya parokhete"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mesu"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ya parokhete"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "makgolo a le lekgolo"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "a mesu"
+    },
+    {
+      "surface": "למאת",
+      "gloss": "go ya ka makgolo a le lekgolo"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "a ditelante"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "telante e le nngwe"
+    },
+    {
+      "surface": "לאדן",
+      "gloss": "ya mosu o le mongwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:48:32.950653132Z",
+  "model": "glm-5.3"
+}

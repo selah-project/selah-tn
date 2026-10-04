@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme banna ba Yisraele ba tswa kwa Mitzpa, ba latela ⟨את⟩ Bafalishita, ba ba tlhaseditse go fitlha kwa tlase ga Bete-Kare.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba tswa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ba latela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bafalishita"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalishita"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ba ba tlhaseditse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kwa tlase ga"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bete-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kare"
+    }
+  ],
+  "timestamp": "2026-10-03T22:57:02.213208763Z",
+  "model": "glm-5.3"
+}

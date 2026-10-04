@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Mme lo tla boloka ⟨את⟩ dikaelo tsotlhe tsa me le ⟨את⟩ dikatlholo tsotlhe tsa me, mme lo di dire: ke nna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Mme lo tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikaelo tsotlhe tsa me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "dikaelo tsa me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikatlholo tsotlhe tsa me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikatlholo tsa me"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme lo di dire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "dikaelo le dikatlholo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:58:12.929852600Z",
+  "model": "glm-5.3"
+}

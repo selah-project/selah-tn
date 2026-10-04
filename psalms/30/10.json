@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Ke molemo ofe mo mading a me, fa ke wa kwa tlase go sejana? A lerole le tla go bontsha bontle? A le tla phatlalatsa boammaaruri jwa gago?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ke molemo ofe"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "mo mading a me"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "fa ke wa kwa tlase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "sejana"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "a le tla go bontsha bontle"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "a le tla phatlalatsa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "boammaaruri jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:16:37.529509115Z",
+  "model": "glm-5.3"
+}

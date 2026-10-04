@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme banna ba Dawide ba mo rialo: Bonalo, rona fano mo Yhudha re a tshaba; mme go feta foo fa re ya Keila, kwa masomong a Bafalisiti?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba rialo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonalo,"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "פה",
+      "gloss": "fano"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mo Yhudha"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "re a tshaba;"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "mme go feta foo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "re ya"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "Keila,"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "masomong"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Bafalisiti?"
+    }
+  ],
+  "timestamp": "2026-10-03T23:05:07.638330401Z",
+  "model": "glm-5.3"
+}

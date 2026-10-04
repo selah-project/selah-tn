@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Ba tla go tshaba fa letsatsi le ntse, le fa pele ga ngwedi, molokoloko o mongwe, molokoloko o mongwe.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "ba tla go tshaba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fa…le ntse"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "le fa pele ga"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ngwedi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "molokoloko o mongwe"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "molokoloko o mongwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:54.069829117Z",
+  "model": "glm-5.3"
+}

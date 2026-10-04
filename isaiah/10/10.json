@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Jaaka letsa la me le ne la fitlhela maboloso a medimo ya maaka, le ditshwantsho tsa sone tse dikgolo go tsa Yerushalayime le tsa Shomeron —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "la ne la fitlhela"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "letsa la me"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "maboloso a"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "medimo ya maaka"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "le ditshwantsho tsa sone"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "go tsa Yerushalayime"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "le tsa Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-03T23:47:02.186720059Z",
+  "model": "glm-5.3"
+}

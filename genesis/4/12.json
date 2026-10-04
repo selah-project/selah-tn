@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Fa o lema ⟨את⟩ lefatshe, le ka se ntsha maatla a lona go go neela; o tla nna o timetse le o fologelwa mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o lema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ka se ntsha"
+    },
+    {
+      "surface": "תת",
+      "gloss": "go neela"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "maatla a lona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "נע",
+      "gloss": "o timetse"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "o fologelwa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o tla nna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:13:11.251970681Z",
+  "model": "glm-5.3"
+}

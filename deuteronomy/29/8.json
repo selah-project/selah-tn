@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme bolokang ⟨את⟩ mafoko a kgolagano e, mme lo a dira ⟨את⟩ tsone, gore lo atlege mo ⟨את⟩ sengwe le sengwe se lo se dirang.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Mme bolokang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a kgolagano e"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "a kgolagano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme lo a dira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tsone"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "lo atlege"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "lo se dirang"
+    }
+  ],
+  "timestamp": "2026-10-03T22:31:42.532275149Z",
+  "model": "glm-5.3"
+}

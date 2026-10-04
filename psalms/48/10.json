@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 48,
+  "translation": "Re akanyetse, Elohim, ⟨את⟩ hesede ya gago, mo teng ga tempole ya gago.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "re akanyetse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mo teng ga"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tempole ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:56.481458698Z",
+  "model": "glm-5.3"
+}

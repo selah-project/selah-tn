@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 36:27",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Mme ⟨את⟩ ruakh ya me ke tla e bea mo teng ga lona, mme ke tla dira ⟨את⟩ gore lo tsamae ka melawana ya me, mme melao ya me lo e sireletse, mme lo e dire.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya me"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya me"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla e bea"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "mo teng ga lona"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se o se dirang (אשר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בחקי",
+      "gloss": "ka melawana ya me"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "lo tsamae"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "melao ya me"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "lo e sireletse"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "lo e dire"
+    }
+  ],
+  "timestamp": "2026-10-04T00:46:20.742769493Z",
+  "model": "glm-5.3"
+}

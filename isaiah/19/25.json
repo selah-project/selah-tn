@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "Yeo Yahwe Tsebaote a neng a e baroka, a re: Barokwa ke batho ba me ba Mitsrayime, le seabe sa seatla sa me sa Ashure, le boswa jwa me jwa Yisraele.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "a baroka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "barokwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "batho ba me"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "le seabe sa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa me"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "le boswa jwa me"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:48:49.903532488Z",
+  "model": "glm-5.3"
+}

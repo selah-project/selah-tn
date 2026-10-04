@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 55,
+  "translation": "Ya moeteledipeleng, ka dibinode, pego e e rutang, ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ya moeteledipeleng"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ka dibinode"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pego e e rutang"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-04T01:22:55.410891826Z",
+  "model": "glm-5.3"
+}

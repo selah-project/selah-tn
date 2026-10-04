@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Ele ya me, Ele ya me, ke eng o ntlogetse? O kgakala le bolokolofi jwa me, mafoko a gohuwa ga me.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Ele ya me"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ele ya me"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "o ntlogetse"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "o kgakala"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "le bolokolofi jwa me"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "a gohuwa ga me"
+    }
+  ],
+  "timestamp": "2026-10-04T03:19:50.725053709Z",
+  "model": "glm-5.3"
+}

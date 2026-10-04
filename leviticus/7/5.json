@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme mopriste o tla a ⟨את⟩ di fisa mo altareng, e le mpho ya molelo go Yahwe; ke mpho ya kgolafalo e.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "o tla a di fisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ di",
+      "marks": "di (dikidinyana le mafura)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mo altareng"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mpho ya molelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "mpho ya kgolafalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke e"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:16.203528335Z",
+  "model": "glm-5.3"
+}

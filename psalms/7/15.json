@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Bonang, o imetse boloi, mme a imola bokgobo, mme a belega leshano.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "o imetse"
+    },
+    {
+      "surface": "און",
+      "gloss": "boloi"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "mme a imola"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bokgobo"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "mme a belega"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leshano"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:01.424319935Z",
+  "model": "glm-5.3"
+}

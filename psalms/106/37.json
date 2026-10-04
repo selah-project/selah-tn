@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme ba ne ba berka ⟨את⟩ barwa ba bone le ⟨את⟩ barwedi ba bone go dishede.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ba ne ba berka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barwa ba bone"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "barwa ba bone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "barwedi ba bone"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "barwedi ba bone"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "go dishede"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:42.124395242Z",
+  "model": "glm-5.3"
+}

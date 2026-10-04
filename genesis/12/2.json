@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme ke tla go dira sechaba se segolo, mme ke tla go tshegofatsa, mme ke tla godisa leina la gago; mme o nne tshegofatso.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "ke tla go dira"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "se segolo"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "ke tla go tshegofatsa"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "ke tla godisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "o nne"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "tshegofatso"
+    }
+  ],
+  "timestamp": "2026-10-03T21:16:51.510158893Z",
+  "model": "glm-5.3"
+}

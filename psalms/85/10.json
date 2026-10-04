@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 85,
+  "translation": "Ruri, tshireletso ya gagwe e kgaufisi le ba ba mo segofetseng, gore boitlhao bo nne mo lefatsheng la rona.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "e kgaufisi"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "le ba ba mo segofetseng"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "tshireletso ya gagwe"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "boitlhao"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "mo lefatsheng la rona"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:58.303595487Z",
+  "model": "glm-5.3"
+}

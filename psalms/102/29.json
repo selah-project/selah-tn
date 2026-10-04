@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 102,
+  "translation": "Bana ba badiri ba gago ba tlaa nna, mme peo ya bone e tlaa tlhomama pele ga wena.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ba badiri ba gago"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "ba tlaa nna"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "mme peo ya bone"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga wena"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "e tlaa tlhomama"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:41.496930051Z",
+  "model": "glm-5.3"
+}

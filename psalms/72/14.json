@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 72,
+  "translation": "Go tswa mo bosioleng le mo tlhaoleleng o golosa bophelo jwa bone; mme madi a bone a tlhokomelwa thata mo matlhong a gagwe.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "go tswa mo bosioleng"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "le mo tlhaoleleng"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "o golosa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bophelo jwa bone"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "a tlhokomelwa thata"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "madi a bone"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mo matlhong a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:13.433805985Z",
+  "model": "glm-5.3"
+}

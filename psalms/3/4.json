@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme wena, Yahwe, ke sehuba sa me; ke tlotlo ya me, le yo o tlhatlolang tlhogo ya me.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sehuba"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "sa me"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "tlotlo ya me"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "le yo o tlhatlolang"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tlhogo ya me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:07.254120624Z",
+  "model": "glm-5.3"
+}

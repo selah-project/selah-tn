@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme lefatshe la tlhaga mme la thunya; motheo wa dithaba o ne wa tshikinyega, mme o ne wa thunya, gonne bogale jwa gagwe bo ne jwa tuka.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "mme la thunya"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "la tlhaga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "motheo wa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "o ne wa tshikinyega"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "mme o ne wa thunya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "bogale bo ne jwa tuka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:41.857257710Z",
+  "model": "glm-5.3"
+}

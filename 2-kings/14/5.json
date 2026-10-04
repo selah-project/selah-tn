@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme e ne e le fa puso e ne e nonofile mo diateng tsa gagwe, gore a bolaya ⟨את⟩ badiri ba gagwe, ba ba neng ba bolaile ⟨את⟩ kgosi, rraagwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "e nonofile"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "puso"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mo diateng tsa gagwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badiri ba gagwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "badiri ba gagwe"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ba ba neng ba bolaile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:38:20.260768002Z",
+  "model": "glm-5.3"
+}

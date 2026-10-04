@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme moragonyana o belegetse ngwana wa mosetsana, mme a bita leina la gagwe ⟨את⟩ Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "mme moragonyana"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "o belegetse"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ngwana wa mosetsana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "mme a bita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gagwe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:27.153018939Z",
+  "model": "glm-5.3"
+}

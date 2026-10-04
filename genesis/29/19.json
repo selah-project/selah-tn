@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme Labane a re: Go a siama gore ke mo neele ⟨אתה⟩ wena, go feta go mo neela ⟨אתה⟩ monna yo mongwe; nna o ntse le nna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme … a re"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Go a siama"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "gore ke mo neele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "wena (yena)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "go feta go mo neela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "monna yo mongwe"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yo mongwe"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "nna o ntse"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:22:51.749002985Z",
+  "model": "glm-5.3"
+}

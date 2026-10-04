@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 64,
+  "translation": "Mme Elohim o tlaa ba thunya ka mose; ka bonako dikgobalo tsa bone di ka nna teng.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "mme o tlaa ba thunya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ka mose"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "ka bonako"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di ka nna teng"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "dikgobalo tsa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:57.393075395Z",
+  "model": "glm-5.3"
+}

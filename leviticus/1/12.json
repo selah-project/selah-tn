@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme o tlaa e sega ka dikarolo tsa yone, mmogo le ⟨את⟩ tlhogo ya yone le ⟨את⟩ mafura a yone; mme moperesitara o tlaa di rulaganya mo dikgatong tse di mo molelong, tse di mo altareng.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "mme o tlaa e sega"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "e"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ka dikarolo tsa yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mmogo le ⟨את⟩",
+      "marks": "tlhogo ya yone"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tlhogo ya yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a yone"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "mafura a yone"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "mme o tlaa di rulaganya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperesitara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tsone",
+      "marks": "tsone"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dikgatong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "על",
+      "gloss": "di mo"
+    },
+    {
+      "surface": "האש",
+      "gloss": "molelong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "על",
+      "gloss": "di mo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:50:29.886881034Z",
+  "model": "glm-5.3"
+}

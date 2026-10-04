@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Moya-tlhotlhomolodi o bua mongwe le ⟨את⟩ mogatsana wa gagwe; sephatlo se se borethaba, ka pelo le pelo ba bua.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "moya-tlhotlhomolodi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogatsana wa gagwe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mogatsana wa gagwe"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "sephatlo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "se se borethaba"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ka pelo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "le pelo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba bua"
+    }
+  ],
+  "timestamp": "2026-10-04T01:13:52.163078444Z",
+  "model": "glm-5.3"
+}

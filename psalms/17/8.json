@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Nkgabisa jaaka sebono sa leihlo (morwadia leihlo); mo moriting wa mafuka a gago o mpata.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "nkgabisa"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "jaaka sebono sa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mo moriting wa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "mafuka a gago"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "o mpata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:24.951232990Z",
+  "model": "glm-5.3"
+}

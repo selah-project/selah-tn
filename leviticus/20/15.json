@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme monna yo o nayang bobolelo jwa gagwe go phologolo, a bolawe ga go pelaelo; mme lo bolaye ⟨את⟩ phologolo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o nayang"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "bobolelo jwa gagwe"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "go phologolo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a bolawe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ga go pelaelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme lo bolaye ⟨את⟩",
+      "marks": "phologolo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "phologolo"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "lo bolaye"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:35.145461338Z",
+  "model": "glm-5.3"
+}

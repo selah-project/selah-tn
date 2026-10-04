@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme setshaba se tsamaya se ya go thuba ⟨את⟩ masomo a Arame; mme seae sa moukolane se nna ka shekele, le maswele a seae mabedi ka shekele, jaaka go bua Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Mme setshaba se tsamaya se ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "go thuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masomo a Arame"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "masomo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "a Arame"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go nna"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "seae"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sa moukolane"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ka shekele"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "le maswele a seae mabedi"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "maswele"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ka shekele"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jaaka go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:36:19.905298724Z",
+  "model": "glm-5.3"
+}

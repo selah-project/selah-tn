@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 91,
+  "translation": "Boshwa ga bo tle go wena, mme bolwetse ga bo tle go atamela teng ya gago.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "bo tle"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "boshwa"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "mme bolwetse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "bo atamele"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "teng ya gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:31:46.906850329Z",
+  "model": "glm-5.3"
+}

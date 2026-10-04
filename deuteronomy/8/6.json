@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme o boloke ⟨את⟩ melao ya Yahwe Elohim ya gago, go tsamaya mo ditseleng tsa gagwe, le go tshaba ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Mme o boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya Yahwe Elohim ya gago"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "melao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "mo ditseleng tsa gagwe"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "le go tshaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-10-03T22:24:02.600602827Z",
+  "model": "glm-5.3"
+}

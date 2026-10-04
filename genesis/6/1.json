@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme go ne go nna jalo, fa batho ba simolola go ata mo sefatlhogong sa lefatshe, le barwadi ba belegwa go ba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go nna jalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ba simolola"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "go ata"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatlhogo sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le barwadi"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ba belegwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go ba"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:44.365740525Z",
+  "model": "glm-5.3"
+}

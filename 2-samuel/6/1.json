@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme Dawide o ne a kgobokesa gape ⟨את⟩ botlhe ba ba tlhophilweng mo Yisraele, dirobo di le masome a mararo.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "a kgobokesa gape"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botlhe ba ba tlhophilweng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ba ba tlhophilweng"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mo Yisraele"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "masome a mararo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dirobo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:11:02.100272390Z",
+  "model": "glm-5.3"
+}

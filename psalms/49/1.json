@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "Ya moeteledipele wa dikosa, ya bana ba Korakhe, moko wa go opela.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ya moeteledipele wa dikosa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko wa go opela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:19.982351941Z",
+  "model": "glm-5.3"
+}

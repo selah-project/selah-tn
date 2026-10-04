@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Setshaba sotlhe se se setseng — Baemori, Bakhete, Baperize, Bahive le Bajebuse — ba e seng bana ba Yisraele:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "se se setseng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemori"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Bakhete"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Baperize"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Bahive"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Bajebuse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "e bone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:24:35.232193998Z",
+  "model": "glm-5.3"
+}

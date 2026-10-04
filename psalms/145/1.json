@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Keteko, ya Dawide. Ke a go godisa, Eloha wa me, ⟨kgosi⟩, mme leina la gago ke tla la thorisa go ya lelele, le ka bosakhutshwane.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Keteko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Ke a go godisa"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloha wa me"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "mme ke tla la thorisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya lelele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ka bosakhutshwane"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:19.899779085Z",
+  "model": "glm-5.3"
+}

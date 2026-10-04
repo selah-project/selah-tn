@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 141,
+  "translation": "Mme go wena, Yahwe, Adonai, matlho a me a go lebile; go wena ke itshabile; o se ke wa ntsholola botshelo jwa me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matlho a me"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke itshabile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תער",
+      "gloss": "wa ntsholola"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "botshelo jwa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:18.591791292Z",
+  "model": "glm-5.3"
+}

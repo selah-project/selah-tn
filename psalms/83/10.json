@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "Dira go bone jaaka go wa kwa Midiane, jaaka Sisera, jaaka Yabine, kwa molapong wa Kishone.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "jaaka go kwa Midiane"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "jaaka Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "jaaka Yabine"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "kwa molapong wa"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:28:54.795416059Z",
+  "model": "glm-5.3"
+}

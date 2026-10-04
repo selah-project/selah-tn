@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme ba tlogela ⟨את⟩ ntlo ya Yahwe, Elohim ya bomalomeabone, mme ba direla ⟨את⟩ dithunya tsa Ashera le ⟨את⟩ medimo; mme go ne go nna bokgalalelo kwa Yuda le Yerushalayime ka molato wa bone oo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "mme ba tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bomalomeabone"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mme ba direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithunya tsa Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "dithunya tsa Ashera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "medimo"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ne go nna"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "bokgalalelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le Yerushalayime"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "ka molato wa bone"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:54:40.488708554Z",
+  "model": "glm-5.3"
+}

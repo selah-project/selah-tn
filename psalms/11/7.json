@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Gore Yahwe o siama; tsedeke o e rata; ba ba tlhamaletseng ba tla bona sefathego sa gagwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "o siama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o e rata"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ba ba tlhamaletseng"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "sefathego sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:03.355766405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 57,
+  "translation": "Ke tla boela ke bolela tsedeko ya gago le ⟨את⟩ ditiro tsa gago, mme di ka se go solegele molemo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "tla bo ke bolela"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeko ya gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditiro tsa gago"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ditiro tsa gago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "di ka go solegela molemo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:02:44.260486867Z",
+  "model": "glm-5.3"
+}

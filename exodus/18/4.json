@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Le leina la la bobedi e ne e le Eli-ezere, gonne o ne a re: Elohim wa rraagwe o ne a nthusitse, mme o nntshitse mo tshakeng ya Farao.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "le leina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "la la bobedi"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eli-ezere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "wa rraagwe"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "o ne a nthusitse"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "mme o nntshitse"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mo tshakeng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Farao"
+    }
+  ],
+  "timestamp": "2026-10-03T21:39:55.832614010Z",
+  "model": "glm-5.3"
+}

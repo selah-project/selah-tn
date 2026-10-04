@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme mopriste yo o tlisang ⟨את⟩ mpho ya go fisiwa ya motho, letlalo la mpho eo e a e tlisetsa mopriste; e tla nna ya gagwe.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Mme mopriste"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "yo o tlisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya go fisiwa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "mpho ya go fisiwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya motho"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "la mpho eo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e a e tlisetsa"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya gagwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla nna"
+    }
+  ],
+  "timestamp": "2026-10-03T21:51:16.203974726Z",
+  "model": "glm-5.3"
+}

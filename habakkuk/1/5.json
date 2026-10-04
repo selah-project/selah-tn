@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Le fa pele mo ditshabeng, mme le lebele, mme le tshwenegege thata; gonne tiro e dirwa mo matsheng a lona, e mo neng le ka e tshepa, le ka e tlhaloswa.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "le fa pele"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mo ditshabeng"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "mme le lebele"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "mme le tshwenegege"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "thata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "e dirwa"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "mo matsheng a lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "le ka e tshepa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "le ka e tlhaloswa"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "le ka e tlhaloswa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:04:27.972817726Z",
+  "model": "glm-5.3"
+}

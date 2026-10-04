@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme ke tla kampa go dikologa go wena jaaka sediko, ke tla beela wena setheo sa sesole, mme ke tla tlhoma mo go wena dikago tsa go sabolola.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "ke tla kampa"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "jaaka sediko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go dikologa go wena"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ke tla beela"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "setheo sa sesole"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ke tla tlhoma"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "dikago tsa go sabolola"
+    }
+  ],
+  "timestamp": "2026-10-03T23:53:40.714325678Z",
+  "model": "glm-5.3"
+}

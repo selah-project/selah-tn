@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Naara a beela mo ⟨את⟩ Akhusame le ⟨את⟩ Khephere le ⟨את⟩ Temene le ⟨את⟩ Haashketari; bana bana ke bana ba Naara.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a beela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhusame"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Akhusame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khephere"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Khephere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Temene"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Haashketari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haashketari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bana bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:08.560580904Z",
+  "model": "glm-5.3"
+}

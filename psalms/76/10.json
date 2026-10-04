@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 76,
+  "translation": "Fa Elohim a tlhatloga go katlhola, go boloka botlhe ba ba ikhudang ba lefatshe. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "fa … a tlhatloga"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "go katlhola"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "ba ba ikhudang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:26:40.401879965Z",
+  "model": "glm-5.3"
+}

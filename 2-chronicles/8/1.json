@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme go fitlha kwa bofelong jwa dingwaga tse masome a mabedi tse Shelomo a neng a bopa ka tsone ⟨את⟩ ntlo ya Yahwe le ⟨את⟩ ntlo ya gagwe,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go fitlha"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "kwa bofelong"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tse masome a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a neng a bopa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya gagwe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:49:21.137844361Z",
+  "model": "glm-5.3"
+}

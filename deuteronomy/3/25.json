@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "A ke tsege, ke tsamaye go bona ⟨את⟩ lefatshe le le siameng le mo kgakala jwa Yordane, thaba e e siameng eo, le Lebanone.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "A ke tsege"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke tsamaye"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe le le siameng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "le le siameng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le mo kgakala jwa"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "mo kgakala jwa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordane"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "e e siameng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eo"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "le Lebanone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:21:14.629708023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "Mme kgalalelo ya Yahwe e tla senolwa, mme nama yotlhe e tla e bona mmogo, gonne molomo wa Yahwe o buile.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "mme ... e tla senolwa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "mme ... e tla bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:17.184126856Z",
+  "model": "glm-5.3"
+}

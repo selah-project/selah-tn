@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme Faro o ka wa go reetsa; mme ke tla bea ⟨את⟩ seatla sa me mo Mitsrayime, mme ke tla ntsha ⟨את⟩ masole a me, ⟨את⟩ batho ba me, bana ba Yisraaele, mo lefatsheng la Mitsrayime ka dikatlholo tse dikgolo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ... o ka wa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "go reetsa"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa me"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa me"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mo Mitsrayime"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ke tla ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masole a me"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "masole a me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho ba me"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "batho ba me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraaele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "ka dikatlholo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "tse dikgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:34:57.653701616Z",
+  "model": "glm-5.3"
+}

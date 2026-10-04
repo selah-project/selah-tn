@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme a ba botsa: O ne a le motho wa mokgwa ofe, yoo monna yo o neng a tlhatloga go go tlaola, mme a bua le lona ⟨את⟩ mafoko a?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a ba botsa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ofe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mokgwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo o"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a tlhatloga"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "go go tlaola"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:14.855689232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Botshabelo bo kgakala le ba ba bosula, gonne melawana ya gago ga ba e batle.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "bo kgakala"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "le ba ba bosula"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "botshabelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melawana ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ba e batle"
+    }
+  ],
+  "timestamp": "2026-10-04T01:37:56.627992042Z",
+  "model": "glm-5.3"
+}

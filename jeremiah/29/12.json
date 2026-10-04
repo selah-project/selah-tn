@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme lo tla go bitsa ⟨את⟩ nna, mme lo tsamaye, lo rapelela kwa go nna, mme ke tla go reetsa.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Mme lo tla go bitsa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "mme lo tsamaye"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "lo rapelela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa go nna"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "mme ke tla go reetsa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "go"
+    }
+  ],
+  "timestamp": "2026-10-04T00:19:47.060773846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme fela kwa lefelong leo Yahwe Elohim ya gago a tla bo a tlhopha gore leina la gagwe le nne teng, foo o tlaa tlhaba ⟨את⟩ Paseka ka maitseboa, phirimafoo ga pula ea letsatsi — e le nako eo o neng o tswa kwa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lefelong leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "a tlhopha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "go baya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "o tlaa tlhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ka maitseboa"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "phirimafoo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ga pula ea letsatsi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nako"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "o neng o tswa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kwa Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T22:26:13.844212611Z",
+  "model": "glm-5.3"
+}

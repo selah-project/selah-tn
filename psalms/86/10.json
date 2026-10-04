@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 86,
+  "translation": "Gore o mogolo, mme o dira dilo tse di makatsang; wena fela Elohim o wena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme o dira"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "dilo tse di makatsang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wena fela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:51.104282681Z",
+  "model": "glm-5.3"
+}

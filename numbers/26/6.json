@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Go ya le Khetsrone, merafe ya baKhetsrone; go ya le Kharime, merafe ya baKharime.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "go ya le Khetsrone"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "merafe ya"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "baKhetsrone"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "go ya le Kharime"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "merafe ya"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "baKharime"
+    }
+  ],
+  "timestamp": "2026-10-03T22:13:59.928285750Z",
+  "model": "glm-5.3"
+}

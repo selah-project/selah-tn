@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme o e diile ka gauta e e phatswa: ⟨את⟩ phatlho ya yone, le ⟨את⟩ dikgarapa tsa yone go dikologa, le ⟨את⟩ dilenaka tsa yone; mme o dire mola wa gauta o o dikologa.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Mme o e diile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (altara)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e phatswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phatlho ya yone"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "phatlho ya yone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgarapa tsa yone"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "dikgarapa tsa yone"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dilenaka tsa yone"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dilenaka tsa yone"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o dire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go yone"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mola"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wa gauta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "o o dikologa"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:10.603958215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme Shim'i a bua jaana a ntse a tlola: Tlhaga, tlhaga, wena motho wa madi, le motho wa boleo!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "mme … jaana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shim'i"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "a ntse a tlola"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Tlhaga"
+    },
+    {
+      "surface": "צא",
+      "gloss": "tlhaga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho wa"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le motho wa"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "boleo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:14:21.671400716Z",
+  "model": "glm-5.3"
+}

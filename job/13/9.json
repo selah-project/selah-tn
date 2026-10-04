@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "A go siama gore a le sekaseke ⟨את⟩ lona? A jaaka motho a tshwenywa, le mo tshwenya yena?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "a go siama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "a le sekaseke"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "a tshwenywa jaaka"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "le mo tshwenya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:19.787823412Z",
+  "model": "glm-5.3"
+}

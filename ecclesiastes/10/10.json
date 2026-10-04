@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Fa tshipi e bokoa, mme e sa kgaphiwa sephatlho, o tlaa oketsa maatla; mme phemelo ya khemiso ke bohlale.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "e bokoa"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "tshipi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme ⟨e⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sephatlho"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "kgaphiwa"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "mme maatla"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "o tlaa di oketsa"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "mme phemelo"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "ya khemiso"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    }
+  ],
+  "timestamp": "2026-10-04T02:14:02.520563097Z",
+  "model": "glm-5.3"
+}

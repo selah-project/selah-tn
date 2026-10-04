@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "Mme ba mo tlhagola ⟨את⟩ Hamane mo setlhareng se a neng a se ikadileletse go Mordekai; mme bogale jwa kgosi jwa nna bo ithule.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "ba mo tlhagola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamane"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "setlhareng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a neng a se ikadileletse"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "go Mordekai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "bogale jwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "jwa nna bo ithule"
+    }
+  ],
+  "timestamp": "2026-10-04T02:17:38.567027160Z",
+  "model": "glm-5.3"
+}

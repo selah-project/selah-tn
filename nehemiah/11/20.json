@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme ba ba neng ba setse ga Yisraele, baparoma le Balefi, ba ne ba nna mo ditoropong tsotlhe tsa Yuda, mongwe le mongwe mo nageng ya gagwe.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "Mme ba ba neng ba setse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ga Yisraele"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baparoma"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balefi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo ditoropong tsotlhe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tsa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "mo nageng ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:34:15.021734248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Fa lo tlogela ⟨את⟩ Yahwe mme lo direla medimo ya bafaladi, o tla boela a dira bosula go lona, mme a lo fenya, morago ga gore a lo dire botlhoko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "lo tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "mme lo direla"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo ya"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bafaladi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "o tla boela"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "a dira bosula"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "mme a lo fenya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lo",
+      "marks": "lo fenya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "a lo dire"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "botlhoko"
+    }
+  ],
+  "timestamp": "2026-10-03T22:44:57.392481411Z",
+  "model": "glm-5.3"
+}

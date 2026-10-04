@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 84,
+  "translation": "Gore letsatsi le sehemo ke Yahwe Elohim; kgotso le tlhaloganyo Yahwe o di neela; se se siameng ga se a ka sa se ganetsa ba ba tsamayang ka boikanyego.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "le sehemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kgotso"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "le tlhaloganyo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o di neela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "a ka sa se ganetsa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "ba ba tsamayang"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "ka boikanyego"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:57.290718817Z",
+  "model": "glm-5.3"
+}

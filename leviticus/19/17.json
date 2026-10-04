@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "O se ke wa tlhoya ⟨את⟩ kgaenyo wa gago mo pelong ya gago; netefatsa o laole ⟨את⟩ mogwera wa gago, mme o se ke wa bara seabe mo go ene.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "wa tlhoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgaenyo wa gago"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kgaenyo wa gago"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "mo pelong ya gago"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "netefatsa"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "o laole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogwera wa gago"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "mogwera wa gago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wa bara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "seabe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:59:01.900050724Z",
+  "model": "glm-5.3"
+}

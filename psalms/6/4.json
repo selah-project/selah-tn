@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Moya wa me o tshwenyegile thata; mme wena, Yahwe — go fitlha neng?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Moya wa me o"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "tshwenyegile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "neng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:18:38.557744966Z",
+  "model": "glm-5.3"
+}

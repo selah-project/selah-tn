@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Ntshangwe ba bangwe mo setshabeng, banna ba le lesome le bobedi, monna a le mongwe, monna a le mongwe, go tswa mo setshabeng sengwe le sengwe;",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Ntshangwe ba bangwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshabeng"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ba le"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome le bobedi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mongwe"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "go tswa mo setshabeng sengwe le sengwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:36:22.034590595Z",
+  "model": "glm-5.3"
+}

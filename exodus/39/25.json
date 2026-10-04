@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 39,
+  "translation": "Mme ba dira dibelele tsa gauta e e phepa, mme ba beeletsa ⟨את⟩ dibelele mo gare ga dinamune mo dikarolwaneng tlase ga seaparwa, go dikologa, mo gare ga dinamune.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mme ba dira"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "dibelele"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e e phepa"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mme ba beeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibelele"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "dibelele"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "dinamune"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "dikarolwaneng tlase ga"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "seaparwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "dinamune"
+    }
+  ],
+  "timestamp": "2026-10-03T21:49:45.928500472Z",
+  "model": "glm-5.3"
+}

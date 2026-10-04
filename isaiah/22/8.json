@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme ⟨o⟩ senola ⟨את⟩ phuthugo ya Yudha; mme o ne o lebile ka letsatsi leo kwa dibetsong tsa Ntlo ya Sehiring.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Mme o senola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phuthugo ya Yudha"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "phuthugo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "mme o ne o lebile"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "dibetsong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Ntlo"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ya Sehiring"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:40.781702151Z",
+  "model": "glm-5.3"
+}

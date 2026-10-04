@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Mme ka ga Yishmaele, ke a go utlwile: Bonwe, ke a lofile ⟨את⟩ ene, mme ke tlaa mo atisa, mme ke tlaa mo tokafatsa thata thata; o tlaa begetha dietelele di le dintsi di le dintsi, mme ke tlaa mo dira setshaba se segolo.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "Mme ka ga Yishmaele"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ke a go utlwile"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "ke a lofile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "en"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "ke tlaa mo atisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "en"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ke tlaa mo tokafatsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ene",
+      "marks": "en"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "di le dintsi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dintsi"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "dietebele"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "o tlaa begetha"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "mme ke tlaa mo dira"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "se segolo"
+    }
+  ],
+  "timestamp": "2026-10-03T21:18:24.139169190Z",
+  "model": "glm-5.3"
+}

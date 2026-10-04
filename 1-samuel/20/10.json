@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 20,
+  "translation": "Mme Dawide a re go Yehonatane: Ke mang tla mpolatsa? Kana eng fa rragwe a go araba ka bokgopolo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "tla mpolatsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng fa"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "a go araba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rragwe"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ka bokgopolo"
+    }
+  ],
+  "timestamp": "2026-10-03T23:02:51.570716099Z",
+  "model": "glm-5.3"
+}

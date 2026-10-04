@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 31,
+  "translation": "Bonang, malatsi a tla, go bua Yahwe, mme ke tla jala ⟨את⟩ ntlo ya Yisraele le ⟨את⟩ ntlo ya Yehuda ka peo ya motho le ka peo ya phologolo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "mme ke tla jala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya motho"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "le ka peo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ya phologolo"
+    }
+  ],
+  "timestamp": "2026-10-04T00:18:57.944888608Z",
+  "model": "glm-5.3"
+}

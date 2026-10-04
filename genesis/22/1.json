@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Mme morago ga dilo tseo, Elohim a leka ⟨את⟩ Abrahame, a mo re: Abrahame. Mme a re: Ke fano.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go diragalagetse"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dilo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "a leka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a mo re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go ene"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ke fano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:20:14.369718236Z",
+  "model": "glm-5.3"
+}

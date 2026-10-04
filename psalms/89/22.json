@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Ya ka me e tla agiwa gagwe; gape letsogo la me le tla mo nonofatsa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya ka me"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "e tla agiwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "gagwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gape"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "letsogo la me"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "le tla mo nonofatsa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:59.952876869Z",
+  "model": "glm-5.3"
+}

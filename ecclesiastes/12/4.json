@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "mme mabati a tswalelwa kwa sekarung, fa modumo wa go gatsa o le kwa tlase, mme mongwe a tlhaga ka lentswe la nonyane, mme barwadi ba kopelo botlhe ba ithobatse;",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "mme mabati a tswalelwa"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "mabati"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "kwa sekarung"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "fa ... o le kwa tlase"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "wa go gatsa"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "mme mongwe a tlhaga"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ka lentswe la"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "nonyane"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ba ithobatse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barwadi"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "ba kopelo"
+    }
+  ],
+  "timestamp": "2026-10-04T02:16:19.458228897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Gore bana ba Yisraele ba tla nna malatsi a mantsi go se nne kgosi, mme go se nne moeteledipele, mme go se nne sepheto, mme go se nne pilara, mme go se nne efode, le diterafime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba tla nna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se nne"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme go se nne"
+    },
+    {
+      "surface": "שר",
+      "gloss": "moeteledipele"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme go se nne"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sepheto"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme go se nne"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "pilara"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme go se nne"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "le diterafime"
+    }
+  ],
+  "timestamp": "2026-10-04T00:53:39.245931110Z",
+  "model": "glm-5.3"
+}

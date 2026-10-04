@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Nna ke ya tsela ya lefatshe lotlhe; kgotsa o nne thata, mme o nne monna.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ke ya tsela"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "kgotsa o nne thata"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "mme o nne"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "monna"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:50.894759678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme a thuba ⟨את⟩ matlo a baqaedeshe ao a neng a le mo tlung ya Yahwe, koo basadi ba neng ba bopa matlo a Ashera gone.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "a thuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlo a baqaedeshe"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "matlo"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a baqaedeshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo tlung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koo"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "ba bopa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gone"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "matlo"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "a Ashera"
+    }
+  ],
+  "timestamp": "2026-10-03T23:42:29.734523131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme ⟨את⟩ tsone di tshwanetse go di tlhoifa mo dinonyaneng; ga di a tshwanela go jewa, sheketse ke tsone: ⟨את⟩ nonyane ya sephodise ya sehonotse, le ⟨את⟩ sefarese, le ⟨את⟩ seazeniya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tsone"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tsone"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "go di tlhoifa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "dinonyane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di a tshwanela go jewa"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sheketse"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke tsone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonyane ya sephodise"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "nonyane ya sephodise"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sefarese"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "sefarese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seazeniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "seazeniya"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:39.782549604Z",
+  "model": "glm-5.3"
+}

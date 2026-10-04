@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme nna ka bua le lona, mme lo a ka lwa reetsa; mme lo ile lwa tsuologela ⟨את⟩ molomo wa Yahwe, mme lo ile lwa itlhoga, mme lo ile lwa ya godimo go thabeng.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "ka bua"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme lo a ka"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "lwa reetsa"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "lo ile lwa tsuologela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "lo ile lwa itlhoga"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "lo ile lwa ya godimo"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "go thabeng"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:13.754367037Z",
+  "model": "glm-5.3"
+}

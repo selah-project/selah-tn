@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme ba ne ba ntse foo go leka ka tsone ⟨את⟩ Yisraele, go itse gore a ba ka reetsa ⟨את⟩ melao ya Yahwe, e a neng a laela ⟨את⟩ borraabone ka letsogo la Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Mme ba ne ba ntse"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "go leka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "go itse gore"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "a ba ka reetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "melao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e a neng a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borraabone"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "borraabone"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsogo la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:45:15.745364107Z",
+  "model": "glm-5.3"
+}

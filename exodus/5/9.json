@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Maikaelelo a tiro a bo bo tlhagafala mo bathong, ba e dire; mme ba se ka ba lebelela mafoko a maaka.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "a bo bo tlhagafala"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "maikaelelo a tiro"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bathong"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ba e dire"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ba se ka"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ba lebelela"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "mafoko a"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "maaka"
+    }
+  ],
+  "timestamp": "2026-10-03T21:33:42.665317054Z",
+  "model": "glm-5.3"
+}

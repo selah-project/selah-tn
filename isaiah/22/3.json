@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 22,
+  "translation": "Balaodi ba gago ba ile ba tshaba le ka nngwe, ba ile ba tshwarwa ka borututumogi; botlhe ba ba bonwang mo go wena ba ile ba tshwarwa mmogo, ba ile ba tshaba ba le kwa kgakala.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "balaodi ba gago"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ba ile ba tshaba"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "le ka nngwe"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "ka borututumogi"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ba ile ba tshwarwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "ba ba bonwang mo go wena"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ba ile ba tshwarwa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kwa kgakala"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "ba ile ba tshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T23:50:31.240515851Z",
+  "model": "glm-5.3"
+}

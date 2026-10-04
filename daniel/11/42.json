@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme o tla atolosa seatla sa gagwe godimo ga ditshaba; mme lefatshe la Mitsrayime le ka se falole.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mme o tla atolosa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "godimo ga ditshaba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "mme lefatshe la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "ya go falola"
+    }
+  ],
+  "timestamp": "2026-10-04T02:24:27.967575783Z",
+  "model": "glm-5.3"
+}

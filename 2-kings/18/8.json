@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "E ne e le ene a tlhasela ⟨את]] Bafiliste go fitlha go Aza le ⟨את⟩ melelwane ya yone, go tswa mo setowereng sa batlhodi go fitlha go toropo e e sireletsegileng.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "e ne e le ene"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a tlhasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bafiliste"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafiliste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "melelwane ya yone"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "melelwane ya yone"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "go tswa mo setowereng sa"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "batlhodi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha go"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "e e sireletsegileng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:12.968744626Z",
+  "model": "glm-5.3"
+}

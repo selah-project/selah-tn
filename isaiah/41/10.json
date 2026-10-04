@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 41,
+  "translation": "O se ka wa tshoga, gonne ke na le wena; o se ka wa leleka maoto, gonne ke Elohim wa gago; ke go nonotshitse, ke a go thusa, mme ke a go tshegetsa ka letsogong la me la tsedeke.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wa tshoga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ke na le wena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "wa leleka maoto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "ke go nonotshitse"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mme"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ke a go thusa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mme"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "ke a go tshegetsa"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "ka letsogong"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "la tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-03T23:57:17.010465930Z",
+  "model": "glm-5.3"
+}

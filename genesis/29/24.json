@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 29,
+  "translation": "Mme Labane a mo neela ⟨את⟩ Zilpafa, lekgoba la gagwe la mosadi, e le la Lea morwadia kgosibe, e le lekgoba la mosadi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpafa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpafa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "lekgoba la gagwe la mosadi"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "e le la Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "morwadia kgosibe"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "lekgoba la mosadi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:21:56.991082743Z",
+  "model": "glm-5.3"
+}

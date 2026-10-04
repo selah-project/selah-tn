@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "mme a re kwa Dawiding: Wena o na le tsedeke go feta nna, gonne wena o ntsholetse molemo, mme nna ke go ntsholetse bosula.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawiding"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "o na le tsedeke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go feta nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "o ntsholetse"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "ke go ntsholetse"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bosula"
+    }
+  ],
+  "timestamp": "2026-10-03T23:04:46.830042269Z",
+  "model": "glm-5.3"
+}

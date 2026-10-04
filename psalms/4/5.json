@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Tshogang mme le se ke la dira phoso; rialo ka pelong ya lona mo bolong jwa lona, mme le iketleetse. Selah",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Tshogang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme le se ke la"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "dira phoso"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "rialo"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ka pelong ya lona"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "bolong jwa lona"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "mme le iketleetse"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T01:12:07.549637683Z",
+  "model": "glm-5.3"
+}

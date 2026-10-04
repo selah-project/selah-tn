@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 106,
+  "translation": "Mme o ba boloka ka ntlha ya leina la gagwe, go bontsha ⟨את⟩ maatla a gagwe.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "mme o ba boloka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "go bontsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maatla a gagwe"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "maatla a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:34:36.400912564Z",
+  "model": "glm-5.3"
+}

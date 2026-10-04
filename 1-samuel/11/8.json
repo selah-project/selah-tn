@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme a ba lekanya palo kwa Bezeka; mme bana ba Yisraele ba ne ba le dikete di le makgolo a mararo, mme banna ba Yehuda ba le dikete di le masome a mararo.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "a ba lekanya palo"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "kwa Bezeka"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ne ba le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "di le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a mararo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme banna ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba le masome a mararo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:39.027734349Z",
+  "model": "glm-5.3"
+}

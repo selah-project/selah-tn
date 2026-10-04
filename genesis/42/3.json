@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Mme barwa ba Yosefa ba le lesome ba fologela go reka po kwa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ba fologela"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ba le lesome"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "go reka"
+    },
+    {
+      "surface": "בר",
+      "gloss": "po"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kwa Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T21:29:26.559979936Z",
+  "model": "glm-5.3"
+}

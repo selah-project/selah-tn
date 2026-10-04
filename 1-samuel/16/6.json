@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme fa ba sena go tsena, a bona ⟨את⟩ Eliabe, mme a re: Ruri, pele ga Yahwe go tloditswe ga gagwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e nna"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "fa ba tsena"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliabe"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliabe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "yo o tloditsweng wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:00:49.426557645Z",
+  "model": "glm-5.3"
+}

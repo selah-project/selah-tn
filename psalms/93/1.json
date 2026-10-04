@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 93,
+  "translation": "Yahwe o busa, o apere botshegofatso, o apere botshegofatso; Yahwe o ikantse ka maatla, o ikobelitse maatla; go na le moo, lefatshe le tlhomame, ga le ka go tsamaisa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "botshegofatso"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "o apere"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "o apere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "o ikobelitse maatla"
+    },
+    {
+      "surface": "אף",
+      "gloss": "go na le moo"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "le tlhomame"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "go tsamaisa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:24.858536160Z",
+  "model": "glm-5.3"
+}

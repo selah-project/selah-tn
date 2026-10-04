@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Morwa wa motho, utlwisise se se fsang tlhakanelo, o bo o bare mofetoledi kgotsa seka fela go ntlo ya Yisraele.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "utlwisise se se fsang tlhakanelo"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "se se fsang tlhakanelo"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "o bo o bare seka"
+    },
+    {
+      "surface": "משל",
+      "gloss": "seka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T00:37:36.184095248Z",
+  "model": "glm-5.3"
+}

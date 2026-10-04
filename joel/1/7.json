@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 1:7",
+  "book": "joel",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "E dirile sephiri se se senyang sepe se se nang le mosola mo korong ya me, mme se se dirile se setotositse letsatsi le le kwalo la me, se se ne se se huditse ka diphaphatha, mme se se timametse diphaphatha tsotlhe, mme mmedi wa yone o heheretse o ntse o tshweudile.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "e dirile"
+    },
+    {
+      "surface": "גפני",
+      "gloss": "korong ya me"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "se se senyang sepe se se nang le mosola"
+    },
+    {
+      "surface": "ותאנתי",
+      "gloss": "mme se se dirile se setotositse letsatsi le le kwalo la me"
+    },
+    {
+      "surface": "לקצפה",
+      "gloss": "se se ne se se huditse ka diphaphatha"
+    },
+    {
+      "surface": "חשף",
+      "gloss": "se se timametse diphaphatha tsotlhe"
+    },
+    {
+      "surface": "חשפה",
+      "gloss": "se se huditse"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "mme se se latlhile"
+    },
+    {
+      "surface": "הלבינו",
+      "gloss": "mmedi wa yone o heheretse o ntse o tshweudile"
+    },
+    {
+      "surface": "שריגיה",
+      "gloss": "diphaphatha tsa yone"
+    }
+  ],
+  "timestamp": "2026-10-04T00:55:55.934968623Z",
+  "model": "glm-5.3"
+}

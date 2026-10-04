@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme barwa ba Elohim ba bona ⟨את⟩ barwadi ba batho, gore di ne di le botse, mme ba nna basadi go tswa mo go botlhe bao ba ba neng ba ba tlhophile.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barwadi ba batho"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barwadi ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "di ne di le botse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "di"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ba nna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tswa mo go botlhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "ba ba neng ba ba tlhophile"
+    }
+  ],
+  "timestamp": "2026-10-03T21:15:44.366073206Z",
+  "model": "glm-5.3"
+}

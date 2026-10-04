@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 83,
+  "translation": "Gore bonwe, ba ba go tlhoyang ba gana go didima, mme ba ba mo tlhoyang ba tlhatlogile ditlhogo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ba ba go tlhoyang"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ba gana go didima"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "mme ba ba mo tlhoyang"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ba tlhatlogile"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ditlhogo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:07.557745732Z",
+  "model": "glm-5.3"
+}

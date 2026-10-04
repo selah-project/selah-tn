@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mafoko ohle a a phepisa; motho ga a kgone go a bua; leitlho ga le khutlwe go bona, mme seetlhong ga se a tlatla go reetsa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "a phepisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "a kgone"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go a bua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "le khutlwe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leitlho"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "se a tlatla"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "seetlhong"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "go reetsa"
+    }
+  ],
+  "timestamp": "2026-10-04T02:13:28.266933051Z",
+  "model": "glm-5.3"
+}

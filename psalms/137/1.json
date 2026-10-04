@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 137,
+  "translation": "Kwa mepong ya Babylone, koo re ne re dua, mme re lela, fa re ne re gopola ⟨את⟩ Tsiyone.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mepong"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylone"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "re ne re dua"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mme"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "re lela"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "fa re ne re gopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyone"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:40:36.597456342Z",
+  "model": "glm-5.3"
+}

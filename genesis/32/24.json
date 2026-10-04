@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Mme a ba tsaya, mme a ba feta ka ⟨את⟩ nokana, mme a feta ⟨את⟩ sengwe le sengwe se a nang le sone.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "mme a ba tsaya"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "mme a ba feta ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nokana"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "nokana"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "mme a feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwe le sengwe se a nang le sone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a nang le sone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:23:35.200436560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "O tla le kgala ka bonako, fa le amogela difatlhego ka sephiring.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "o tla le kgala"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ka bonako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka sephiring"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "difatlhego"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "le amogela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:56:19.788054745Z",
+  "model": "glm-5.3"
+}

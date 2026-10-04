@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme o ba waakantsha ⟨את⟩ melawana le ⟨את⟩ ditorah, mme o ba itsise ⟨את⟩ tseleng e ba tlang go tsamaya ka yona, le ⟨את⟩ tiro e ba tlang go e dira.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "o ba waakantsha"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melawana"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditorah"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "ditorah"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "o ba itsise"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tseleng"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "e ba tlang go tsamaya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tiro"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ba tlang go e dira"
+    }
+  ],
+  "timestamp": "2026-10-03T21:40:01.100758204Z",
+  "model": "glm-5.3"
+}

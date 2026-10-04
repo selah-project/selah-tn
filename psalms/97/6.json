@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 97,
+  "translation": "Magodimo a boletse tsedeke ya hae, mme ditshaba tsotlhe di bone kgalalelo ya hae.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "a boletse"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tsedeke ya hae"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "mme di bone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kgalalelo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-04T01:32:18.719524074Z",
+  "model": "glm-5.3"
+}

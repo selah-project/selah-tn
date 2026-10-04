@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 17,
+  "translation": "Go tswa fa pele ga gago katlholo ya me a tle; matlho a gago a bone dilo tse di tlhamaleseng.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Go tswa fa pele ga gago"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "katlholo ya me"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a tle"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matlho a gago"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "dilo tse di tlhamaleseng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:52.171240116Z",
+  "model": "glm-5.3"
+}

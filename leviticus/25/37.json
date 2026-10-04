@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 25,
+  "translation": "⟨את⟩ selefera ya gago o se ka wa se mo neela ka riba, le ka oketego o se ka wa mo neela sejo sa gago.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selefera ya gago"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "selefera ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wa neela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "ka riba"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "le ka oketego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wa neela"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "sejo sa gago"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:49.498381797Z",
+  "model": "glm-5.3"
+}

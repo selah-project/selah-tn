@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ka ntlha ya foo, ba ba bosula ga ba kitla ba ema mo katlholong, le ba ba nelang dibe mo phuthegong ya ba ba siameng.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ntlha ya foo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ba kitla ba ema"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba bosula"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mo katlholong"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "le ba ba nelang dibe"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "mo phuthegong"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ya ba ba siameng"
+    }
+  ],
+  "timestamp": "2026-10-04T01:11:43.176265864Z",
+  "model": "glm-5.3"
+}

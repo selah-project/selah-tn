@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 59,
+  "translation": "Gore diphoso tsa rona di ne tsa nna dintsi pele ga ga wena, mme dibe tsa rona di ne tsa re boshola; gore diphoso tsa rona di na ⟨את⟩ rona, mme bobe jwa rona re bo itse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "di ne tsa nna dintsi"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "diphoso tsa rona"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pele ga ga wena"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "mme dibe tsa rona"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "di ne tsa boshola"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "diphoso tsa rona"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "rona"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "mme bobe jwa rona"
+    },
+    {
+      "surface": "ידענומ",
+      "gloss": "re bo itse"
+    }
+  ],
+  "timestamp": "2026-10-04T00:04:07.193950401Z",
+  "model": "glm-5.3"
+}

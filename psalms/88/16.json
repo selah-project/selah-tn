@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 88,
+  "translation": "Ke a tshwenyega, nna, mme ke a swa, go tloga bonyaneng; ke ile ka rwala matshogo a gago; ke a tlhakatlhakanela.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "ke a tshwenyega"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "mme ke a swa"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "go tloga bonyaneng"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke ile ka rwala"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "matshogo a gago"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ke a tlhakatlhakanela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:24.172701862Z",
+  "model": "glm-5.3"
+}

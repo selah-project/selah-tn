@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Mme morwa Shelomoe e ne e le Rekhabeame; Abiya morwa <gloss>y<\/gloss>agwe, Asa morwa yagwe, Yehoshafate morwa yagwe.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "mme morwa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoe"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeame"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa yagwe"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa yagwe"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafate"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa yagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T02:36:09.314511646Z",
+  "model": "glm-5.3"
+}

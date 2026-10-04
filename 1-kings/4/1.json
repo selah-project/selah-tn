@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme kgosi Selomone e ne e le kgosi go ya kwa Yisraele jotlhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:42.173448092Z",
+  "model": "glm-5.3"
+}

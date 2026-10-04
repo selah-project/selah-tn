@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 115,
+  "translation": "Ba ba itshekileng go Yahwe, ikaeganang go Yahwe — Mong wa thuso wa bone le sefofane sa bone ke ene.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Ba ba itshekileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ikaeganang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "Mong wa thuso wa bone"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "le sefofane sa bone"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ene"
+    }
+  ],
+  "timestamp": "2026-10-04T01:36:49.289794867Z",
+  "model": "glm-5.3"
+}

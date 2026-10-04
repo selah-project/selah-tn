@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Yo o bolaileng dikogo tsa Mitsrayime, tsa batho le tsa diphoofolo.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "yo o bolaileng"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "dikogo tsa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "tsa batho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "le"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "tsa diphoofolo"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:45.899516361Z",
+  "model": "glm-5.3"
+}

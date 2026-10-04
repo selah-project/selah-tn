@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 6,
+  "translation": "Mme bana ba ba golegileng ba dira ⟨את⟩ Paseka ka e lesome le nne ya kgwedi ya ntlha.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ba golegileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ka e lesome le"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nne"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya kgwedi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya ntlha"
+    }
+  ],
+  "timestamp": "2026-10-04T02:26:35.992141735Z",
+  "model": "glm-5.3"
+}

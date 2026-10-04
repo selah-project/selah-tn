@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 23,
+  "translation": "Mme o ne wa boela kwa bo-boshweng jwa bongwana jwa gago, fa ba ba tswang kwa Mitsrayime ba ne ba tlwaela didiri tsa gago, ka ntlha ya didiri tsa bongwana jwa gago.",
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "mme wa boela kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bo-boshwa"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "bo-boshwa"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "bongwana jwa gago"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "fa ba ne ba dira"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ba ba tswang kwa Mitsrayime"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "didiri tsa gago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "didiri"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "bongwana jwa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T00:42:10.608828458Z",
+  "model": "glm-5.3"
+}

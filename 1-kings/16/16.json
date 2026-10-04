@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme setshaba se se neng se tlhomile kamokgwa se utlwa go re: Zimri o dirileano ka sephiri, mme gape o kgwetse ⟨את⟩ kgosi; mme Yisraele yotlhe ya dira gore ⟨את⟩ Omri, molaodi wa sesole se se neng se le mo Yisraele, e nne kgosi mo letsatsing leo, kwa kamokgweng.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "se utlwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "se se neng se tlhomile kamokgwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "o dirileano ka sephiri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "o kgwetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ya dira gore e nne kgosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "molaodi wa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mo letsatsing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "kwa kamokgweng"
+    }
+  ],
+  "timestamp": "2026-10-03T23:28:42.779256762Z",
+  "model": "glm-5.3"
+}

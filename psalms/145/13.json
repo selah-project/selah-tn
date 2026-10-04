@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 145,
+  "translation": "Bogosi jwa gago ke bogosi jwa lefatshe le le sa feleng, mme pusong ya gago e tsamaya mo malokong otlhe.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "bogosi jwa gago"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "bogosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "dingwaga tse di sa feleng"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "mme pusong ya gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo otlhe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "moloko"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "le moloko"
+    }
+  ],
+  "timestamp": "2026-10-04T01:42:03.619393440Z",
+  "model": "glm-5.3"
+}

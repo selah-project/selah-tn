@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "⟨את⟩ seorabe sengwe le sengwe, le mofuta wa sone.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seorabe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "seorabe"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "le mofuta wa sone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:39.782959815Z",
+  "model": "glm-5.3"
+}

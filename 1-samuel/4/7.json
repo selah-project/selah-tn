@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "Mme Ba-Pelisethe ba ne ba tshoba, gonne ba ne ba re: Elohim o tsile kwa teng ga kampa. Mme ba re: Ao, go rona! gonne ga go a ka ga nna jalo maabane le maloba.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba ne ba tshoba"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Ba-Pelisethe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba ne ba re"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tsile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa teng ga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "a ka ga nna"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "maabane"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "le maloba"
+    }
+  ],
+  "timestamp": "2026-10-04T03:08:25.430719968Z",
+  "model": "glm-5.3"
+}

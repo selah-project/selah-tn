@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Malatsi a le lesome le bongwe a leeto go tswa kwa Khorebe, ka tsela ya thaba ya Seire, go fitlha kwa Kadeshe-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "le"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome le bongwe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "go tswa kwa Khorebe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ya thaba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ya Seire"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kwa Kadeshe"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-10-03T22:20:56.194491025Z",
+  "model": "glm-5.3"
+}

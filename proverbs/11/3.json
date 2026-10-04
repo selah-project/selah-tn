@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Boikanyegi jwa ba bopegang bo ba tataisa; mme boferefere jwa ba sa ikanyegang bo ba senya.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "boikanyegi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba bopegang"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "bo ba tataisa"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "mme boferefere"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "ba sa ikanyegang"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "bo ba senya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:46:12.615137421Z",
+  "model": "glm-5.3"
+}

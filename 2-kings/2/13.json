@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 2,
+  "translation": "Mme a tsema ⟨את⟩ aderete ya Eliya e e neng e wa mo go ene, mme a boela a ema fa thoko ga Yoredene.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "a tsema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aderete ya Eliya"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "aderete"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e neng e"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "mo go ene"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme a boela"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa thoko ga"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "thoko"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    }
+  ],
+  "timestamp": "2026-10-03T23:32:36.949509055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "Gore ⟨את⟩ yo Yahwe a mo ratang o a mo gakolola, mme jaaka rraagwe ⟨את⟩ morwa a mo itumelela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo Yahwe a mo ratang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "a mo ratang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "o a mo gakolola"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "mme jaaka rraagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "a mo itumelela"
+    }
+  ],
+  "timestamp": "2026-10-04T01:43:00.913587636Z",
+  "model": "glm-5.3"
+}

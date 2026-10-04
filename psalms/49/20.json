@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 49,
+  "translation": "O tlaa tsamaya go ya kwa malokoeng a bokaulengwe ba gagwe; go fitlha ka bosikhutshwanyana ba ka kgona go bona seetsele.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "o tlaa tsamaya go ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "malokoeng"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "bokaulengwe ba gagwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha ka"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "bosikhutshwanyanyana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ka kgona go"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "seetsele"
+    }
+  ],
+  "timestamp": "2026-10-04T01:21:10.357226681Z",
+  "model": "glm-5.3"
+}

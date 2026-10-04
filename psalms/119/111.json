@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 119,
+  "translation": "Ke tsere boswa jwa bopaki jwa gago go ya le lekatikati, gonne boitumelo jwa pelo ya me ke jone.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ke tsere boswa"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bopaki jwa gago"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lekatikati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya me"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke jone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:38:23.957996301Z",
+  "model": "glm-5.3"
+}

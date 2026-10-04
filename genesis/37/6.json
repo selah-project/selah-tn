@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme a ba re: Re kopa, ke kwa toro e e neng ke e lora.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ke kwa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "re kopa"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "toro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e e neng"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ke e lora"
+    }
+  ],
+  "timestamp": "2026-10-03T21:26:08.425851128Z",
+  "model": "glm-5.3"
+}

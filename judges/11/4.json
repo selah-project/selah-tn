@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "Mme go sena go feta matsatsi, bana ba Amonne ba lwana le Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme go sena"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "go feta matsatsi"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ba lwana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:51:14.297702319Z",
+  "model": "glm-5.3"
+}

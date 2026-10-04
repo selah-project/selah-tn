@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Kae kgosi ya Khamate, le kgosi ya Arapade, le kgosi ya toropo ya Sefarvayime, Hena le Ivva?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Kae"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamate"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le kgosi ya"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arapade"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le kgosi ya"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "toropo ya"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvayime"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "le Ivva"
+    }
+  ],
+  "timestamp": "2026-10-03T23:55:52.399156468Z",
+  "model": "glm-5.3"
+}

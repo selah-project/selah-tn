@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 79,
+  "translation": "Se ke ka gakologelwa ditlhoko tsa bogologolo; se eleng kgakala le rona. Siamisa ritlhoko tsa gago ka bonako, gonne re khutlhile thata.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se ke"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ka gakologelwa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ditlhoko tsa"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "bogologolo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ka bonako"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "ka amogela"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mohau wa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "re khutlhile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "thata"
+    }
+  ],
+  "timestamp": "2026-10-04T01:29:31.566127744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 77,
+  "translation": "Wena ke ⟨⟨the⟩⟩ El yo o dirang dilo tse di makatsang; o itsisitse maatla a gago mo merafeng.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo o dirang"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "dilo tse di makatsang"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "o itsisitse"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mo merafeng"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "maatla a gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:27:08.801048949Z",
+  "model": "glm-5.3"
+}

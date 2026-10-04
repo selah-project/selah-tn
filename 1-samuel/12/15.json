@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Mme fa le sa utlue modimo wa Yahwe, mme le ganwana ⟨את⟩ molomo wa Yahwe, seatla sa Yahwe se tla nna se le kgatlhanong le lona le bo malome ba lona.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "le utlue"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "modimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "mme le ganwana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "se tla nna se le"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kgatlhanong le lona"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "le bo malome ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T22:59:12.324179112Z",
+  "model": "glm-5.3"
+}

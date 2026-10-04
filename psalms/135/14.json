@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 135,
+  "translation": "Gore Yahwe o tla a katlhola setshaba sa gagwe, mme ka ga badiri ba gagwe o tla a ikhutusa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "o tla a katlhola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setshaba sa gagwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme ka ga"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "badiri ba gagwe"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "o tla a ikhutusa"
+    }
+  ],
+  "timestamp": "2026-10-04T01:39:35.468669666Z",
+  "model": "glm-5.3"
+}

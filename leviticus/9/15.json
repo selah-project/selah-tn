@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme a tlisa ⟨את⟩ karabane ya batho; mme a tsaya ⟨את⟩ pudi ya tonapo, sehlabelo sa boge se se neng se le sa batho, mme a e bolaya, mme a e etsa sehlabelo sa boge, jaaka ya ntlha.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karabane"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "karabane"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya batho"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pudi ya tonapo"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "pudi ya tonapo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sehlabelo sa boge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se neng se"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sa batho"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "a e bolaya"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "a e etsa sehlabelo sa boge"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "jaaka ya ntlha"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:51.492849120Z",
+  "model": "glm-5.3"
+}

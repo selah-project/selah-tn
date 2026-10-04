@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "mme a laela ⟨את⟩ morongwa a re: Fa o sena go feta go bua ⟨את⟩ mafoko otlhe a ntwa kwa kgosing,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morongwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "morongwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "fa o sena go feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko otlhe a ntwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosing"
+    }
+  ],
+  "timestamp": "2026-10-03T23:11:49.141957906Z",
+  "model": "glm-5.3"
+}

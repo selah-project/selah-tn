@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 43,
+  "translation": "Ba ne ba ikokobetse ba apara ⟨את⟩ minkha go fitlhela Yosefe a tsena ka sehubja, gonne ba utlhile gore koo ba tla ja senkgwe.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "ba apara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlhela"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "ka sehubja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ba utlhile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:28:51.938879088Z",
+  "model": "glm-5.3"
+}

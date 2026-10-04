@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 11,
+  "translation": "O tla na lerora mo ba bosuleng: dipheretlho, molelo le thulare, le ruakh e e sefsang — karolo ya sekomane sa bone.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "O tla na lerora"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba bosuleng"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "dipheretlho"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "le thulare"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "le ruakh"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "e e sefsang"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "ya sekomane sa bone"
+    }
+  ],
+  "timestamp": "2026-10-04T01:14:03.355605757Z",
+  "model": "glm-5.3"
+}

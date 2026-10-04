@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Mme a tlhatswa ⟨את⟩ mala le ⟨את⟩ maoto, mme a di fisa mo go sehlabelo se se fisang, mo go ⟨the⟩ altare.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "a tlhatswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mala"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maoto"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "maoto"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "a di fisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo se se fisang"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altareng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:51.492706074Z",
+  "model": "glm-5.3"
+}

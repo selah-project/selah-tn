@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme go ne go le mo pusong ya bosigo ya moso, mme Yahwe a lebelela setsha sa Baegipita ka pilara ya molelo le maru, a tlhakatlhakanya ⟨את⟩ setsha sa Baegipita.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ne go le"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "mo pusong ya bosigo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ya moso"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "a lebelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "setsha sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Baegipita"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ka pilara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya molelo"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "le maru"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "a tlhakatlhakanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setsha sa Baegipita"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "setsha sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Baegipita"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:22.974231400Z",
+  "model": "glm-5.3"
+}

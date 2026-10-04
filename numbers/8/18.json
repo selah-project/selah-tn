@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ke ne ka tsaya ⟨את⟩ Balefi go boemela ba ntlhano botlhe mo baneng ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Mme ke ne ka tsaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balefi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balefi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "go boemela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ba ntlhano"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mo baneng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:07:52.479763853Z",
+  "model": "glm-5.3"
+}

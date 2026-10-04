@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 28,
+  "translation": "Korona ya boikakabetso ya ba bolawa ke dara ba Efrayime e tla tlhatlolwa ka maoto.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "ka maoto"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "e tla tlhatlolwa"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korona"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ya boikakabetso"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "ya ba bolawa ke dara"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ba Efrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T23:52:50.502378456Z",
+  "model": "glm-5.3"
+}

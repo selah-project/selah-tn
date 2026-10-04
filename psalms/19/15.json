@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 19,
+  "translation": "A mafoko a molomo wa me le tekelelo ya pelo ya me di nne tse di amogelwang pele ga wena, Yahwe, leje la me le Mokolodi wa me.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "a ... di nne"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "tse di amogelwang"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo wa me"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "le tekelelo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ya pelo ya me"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "leje la me"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "le Mokolodi wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:15:12.750849476Z",
+  "model": "glm-5.3"
+}

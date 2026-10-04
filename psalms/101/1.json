@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 101,
+  "translation": "Ya Dawide, moko wa maleta. Hesede le katlholo ke tla di opela; go wena, Yahwe, ke tla go leta.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko wa maleta"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le katlholo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla di opela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla go leta"
+    }
+  ],
+  "timestamp": "2026-10-04T01:33:22.898012860Z",
+  "model": "glm-5.3"
+}

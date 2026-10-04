@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Ke rakile kgolagano le yo o tlhophilweng ke me; ke ikaneletse go Dawide modiri wa me.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "ke rakile"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgolagano"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "le yo o tlhophilweng ke me"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ikaneletse"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dawide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "modiri wa me"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:52.427901006Z",
+  "model": "glm-5.3"
+}

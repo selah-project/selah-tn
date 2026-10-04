@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme morago ga gagwe go ne go tlhagelela Yaire wa Giladi, mme a atlholola ⟨את⟩ Yisraele dingwaga di le masome a mabedi le pedi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "go ne go tlhagelela"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "morago ga gagwe"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yaire"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "wa Giladi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "a atlholola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "le pedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T22:49:32.287628338Z",
+  "model": "glm-5.3"
+}

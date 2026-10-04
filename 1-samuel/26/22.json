@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 26:22",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 26,
+  "translation": "Mme Dawide a araba a re: Bona lerumo la kgosi; mme a mongwe wa basimane a fete a bo a tseye.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "lerumo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la kgosi"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a fete"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a mongwe"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "wa basimane"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "a bo a tseye"
+    }
+  ],
+  "timestamp": "2026-10-03T23:06:56.429587399Z",
+  "model": "glm-5.3"
+}

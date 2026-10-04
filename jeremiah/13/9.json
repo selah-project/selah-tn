@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 13,
+  "translation": "Go bua Yahwe: Jaana ke tla senya ⟨את⟩ botlhaga jwa Yehuda, le ⟨את⟩ botlhaga jo bogolo jwa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "jaana"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ke tla senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botlhaga jwa Yehuda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "botlhaga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "botlhaga jo bogolo jwa Yerushalayime"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "botlhaga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "jo bogolo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:14:03.222274092Z",
+  "model": "glm-5.3"
+}

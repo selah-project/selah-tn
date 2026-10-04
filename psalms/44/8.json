@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 44,
+  "translation": "Gore wena o ntshitse mo go ba ba re tlhobileng, mme ba ba re tlhoyang o ba tlhaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "mo go ba ba re tlhobileng"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "mme ba ba re tlhoyang"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "o ba tlhaya"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:34.972417154Z",
+  "model": "glm-5.3"
+}

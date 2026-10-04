@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Ba mo tseela, ba latlhela ⟨את⟩ mo sebiling; mme sebila se ne se le se senang sepe — ga go na metsi mo go sone.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Ba mo tseela"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ba latlhela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "mo sebiling"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "mme sebila"
+    },
+    {
+      "surface": "רק",
+      "gloss": "se le se senang sepe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go sone"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T21:27:15.424523018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 9,
+  "translation": "Se re ka se dira mo go bone ke se: re ba tshwareletse botshelo, gore bogale bo se ka wa re ama, ka ntlha ya kano e re e tlhometse bone.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re ka se dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "re ba tshwareletse botshelo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gore bo se ka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "re"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "kano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e re e"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "tlhometse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T22:37:59.181088264Z",
+  "model": "glm-5.3"
+}

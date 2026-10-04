@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "translation": "Mme kgosi a tsena go tswa kwa Damaske, mme kgosi a bona ⟨את⟩ altare; mme kgosi a atamela kwa altareng, mme a neela sehlabelo se a neng a se tlisitse kwa go yone.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "go tswa kwa Damaske"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "a atamela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareng"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a neela sehlabelo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwa go yone"
+    }
+  ],
+  "timestamp": "2026-10-03T23:39:34.674112163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 30:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 30,
+  "translation": "Mme o tla tseela ⟨את⟩ selefera ya pokodiso go tswa go ⟨את⟩ bana ba Yisraele, mme o e neela go tirong ya borelelo ba phuthego; e tla nna segopotso go bana ba Yisraele kwa pele ga Yahwe, go itshwarelwa bophelo jwa lona.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tla tseela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selefera ya pokodiso"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "ya pokodiso"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tswa go ⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o tla e neela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "selefera"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tirong ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "borelelo ba"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e tla nna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "segopotso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "go itshwarelwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jwa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T21:45:13.208254573Z",
+  "model": "glm-5.3"
+}

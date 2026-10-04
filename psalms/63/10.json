@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 63,
+  "translation": "Mme bone, ba batlang moya wa me go o senya, ba tla tsena kwa motheong wa lefatshe.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Mme bone"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "go o senya"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ba batlang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba tla tsena"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "kwa motheong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:24:02.013011604Z",
+  "model": "glm-5.3"
+}

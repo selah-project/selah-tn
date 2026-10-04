@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "translation": "Ke tlhabologile mo leroleng le le tseneletseng, mme ga go na moo ke ka emang; ke tsile kwa meetse mengata, mme molapo o o elelang o nteletse.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Ke tlhabologile"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "leroleng le le tseneletseng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ga go na"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "moo ke ka emang"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ke tsile"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "kwa meetse mengata"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "molapo o o elelang"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "o nteletse"
+    }
+  ],
+  "timestamp": "2026-10-04T01:25:54.655966521Z",
+  "model": "glm-5.3"
+}

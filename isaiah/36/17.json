@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 36,
+  "translation": "Go fitlha ke tsena ke tla ke tsa ⟨את⟩ lona kwa lefatsheng le le tshwanang le lefatshe la lona — lefatshe la mabele le beine e ncha, lefatshe la senkgwe le marapa a dinotshe.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ke tsena"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ke tla ke tsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "le le tshwanang le lefatshe la lona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "le beine e ncha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "le marapa a dinotshe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:56:15.025116441Z",
+  "model": "glm-5.3"
+}

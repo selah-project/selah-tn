@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 40,
+  "translation": "A senngwe ka ntlha ya tshwenyego ya bone ba ba reng go nna: Ha-a, ha-a.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "a senngwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "tshwenyego ya bone"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ba ba reng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ha-a"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ha-a"
+    }
+  ],
+  "timestamp": "2026-10-04T01:20:10.103471788Z",
+  "model": "glm-5.3"
+}

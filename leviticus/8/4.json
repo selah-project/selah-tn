@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme Moshe a dira jaaka Yahwe a neng a laeletse ⟨את⟩gagwe; mme setšhaba se ne sa thapisana kwa sekgorong sa Tente ya Kopano.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laeletse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩gagwe"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "sa thapisana"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sekgorong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T21:52:10.629917788Z",
+  "model": "glm-5.3"
+}

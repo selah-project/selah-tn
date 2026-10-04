@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 24,
+  "translation": "Mme o tla tseelaongwe, o bape ⟨את⟩ e: dikuku di le dimentlwane, efaha tse pedi di tla nna mo kukung e nngwe.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tla tsea"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tlaelaongwe"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "mme o bape"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (tlaelaongwe eo)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dimentlwane"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "di le dimentlwane"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "dikuku"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "efaha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "di tla nna"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "mo kukung"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T22:00:02.593811772Z",
+  "model": "glm-5.3"
+}

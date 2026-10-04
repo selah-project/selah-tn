@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 12,
+  "translation": "Rraagwe o ne a boesa ⟨את⟩ joko ya rona; mme wena jaanong, ntolosa bokete jwa tirelo ya rraagwe e boima, le joko jo boima a neng a bo beela mo go rona, mme re tla go direla.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Rraagwe"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "a boesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joko ya rona"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "joko ya rona"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jaanong"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ntolosa"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "tirelo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "e boima"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "le joko"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jo boima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a neng a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bo beela"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mo go rona"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "re tla go direla"
+    }
+  ],
+  "timestamp": "2026-10-03T23:26:47.793215224Z",
+  "model": "glm-5.3"
+}

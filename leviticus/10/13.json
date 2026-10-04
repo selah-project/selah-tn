@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Le o tlaa e ja ⟨את⟩ kwa lefelong le le boitshepo, gonne karolo ya gago le karolo ya bana ba gago ke yone, e tswa mo dituelong tsa molelo tsa Yahwe; gonne jaana ke lailedwe.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "le o tlaa e ja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (senkgwe)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kwa lefelong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "le le boitshepo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "karolo ya gago"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "le karolo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ya bana ba gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yone"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "e tswa mo dituelong tsa molelo tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jaana"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke lailedwe"
+    }
+  ],
+  "timestamp": "2026-10-03T21:54:18.787998940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 37,
+  "translation": "Mme bana ba gagwe ba bapelaeli ba mo tlhoya, mme rraagwe a boloka ⟨את⟩ lefoko.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ba mo tlhoya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ba gagwe ba bapelaeli"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "mme rraagwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "a boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefoko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lefoko"
+    }
+  ],
+  "timestamp": "2026-10-03T21:25:16.715779023Z",
+  "model": "glm-5.3"
+}

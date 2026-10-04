@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Lefatshe la lona le senyegile, ditoropo tsa lona di goletse molelo; mmu wa lona baagi ba ba sa tswang ba mo jelang fa pele ga lona ⟨את⟩, mme o senyegile jaaka go wa ga baagi ba ba sa tswang.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "Lefatshe la lona"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "le senyegile"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "ditoropo tsa lona"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "di goletse"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "mmu wa lona"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "fa pele ga lona"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "baagi ba ba sa tswang"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ba mo jelang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mmu wa lona"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "mme o senyegile"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "jaaka go wa ga"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "baagi ba ba sa tswang"
+    }
+  ],
+  "timestamp": "2026-10-03T23:43:48.912733369Z",
+  "model": "glm-5.3"
+}

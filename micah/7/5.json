@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 7,
+  "translation": "O se ke wa tshepa mo motsaleng, o se ke wa ikanyege mo mogatsanong; mo go yo o robalang mo sehubeng sa gago, boloka meboipo ya molomo wa gago.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "tshepa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mo motsaleng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ikanyege"
+    },
+    {
+      "surface": "באלוף",
+      "gloss": "mo mogatsanong"
+    },
+    {
+      "surface": "משכבת",
+      "gloss": "yo o robalang"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "mo sehubeng sa gago"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "meboipo ya"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T01:04:13.815588676Z",
+  "model": "glm-5.3"
+}

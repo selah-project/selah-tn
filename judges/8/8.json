@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 8:8",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme a tlalogela koo a ya kwa Penuwele, a bua le bone ka tsela e tshwanang; mme batho ba Penuwele ba ⟨את⟩ mo araba jaaka batho ba Sukote ba neng ba araba.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a tlalogela"
+    },
+    {
+      "surface": "משם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "kwa Penuwele"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bua le"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ka tsela e tshwanang"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "ba araba"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Gideone"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "batho ba"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuwele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ba neng ba araba"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "batho ba"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukote"
+    }
+  ],
+  "timestamp": "2026-10-03T22:48:14.125120211Z",
+  "model": "glm-5.3"
+}

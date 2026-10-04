@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 127,
+  "translation": "Ka se se sa direng sepe go lona, go tsoga kwa tshimologong ya moso, go dutla bosigo jo bo leele, go ja senkgwe sa boithatiro; jalo o neelanya yo a mo ratang boroko.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ka se se sa direng sepe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "go tsoga kwa tshimologong ya moso"
+    },
+    {
+      "surface": "קום",
+      "gloss": "go tsoga"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "go dutla bosigo jo bo leele"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "go nna fa fatshe bosigo"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "sa boithatiro"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o neelanya"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "yo a mo ratang"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "boroko"
+    }
+  ],
+  "timestamp": "2026-10-04T03:21:04.344546656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 3,
+  "translation": "mme ba laela ⟨את⟩ setshaba ba re: Fa lo bona ⟨את⟩ areka ya kgolagano ya Yahwe Elohim ya lona, le baperesti ba Levi e e belegang, lo tlogele mo legaeng la lona, mme lo latele.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "ba laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "Fa lo bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "areka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "areka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya kgolagano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "le baperesti"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ba Levi"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "e e belegang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "areka"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "lo tlogele"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "mo legaeng la lona"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "lo latele"
+    }
+  ],
+  "timestamp": "2026-10-03T22:35:44.942282Z",
+  "model": "glm-5.3"
+}

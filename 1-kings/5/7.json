@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 5,
+  "translation": "Mme ba ba tlhomileng bao ba ne ba tlhokomela ⟨את⟩ kgosi Salomone le ⟨את⟩ botlhe ba ba neng ba tla kwa tafoleng ya kgosi Salomone, mongwe le mongwe ka kgwedi ya gagwe; ba ne ba sa letlele sepe go tlhoka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "ba ba tlhomileng"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "botlhe ba ba neng ba tla kwa tafoleng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ba ba neng ba tla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafoleng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "ka kgwedi ya gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ne ba sa letlele"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "go tlhoka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sepe"
+    }
+  ],
+  "timestamp": "2026-10-03T23:21:31.534890439Z",
+  "model": "glm-5.3"
+}

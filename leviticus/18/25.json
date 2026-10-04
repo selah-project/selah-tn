@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme lefatshe le ne le tlhwefala, mme ke ne ke tlhotlora boleo jwa lone mo go lone, mme lefatshe le ne le hlatlolola ⟨את⟩ baagi ba lone.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "le ne le tlhwefala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ke ne ke tlhotlora"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "boleo jwa lone"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo go lone"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "le ne le hlatlolola"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baagi ba lone"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "baagi ba lone"
+    }
+  ],
+  "timestamp": "2026-10-03T21:56:59.213154649Z",
+  "model": "glm-5.3"
+}

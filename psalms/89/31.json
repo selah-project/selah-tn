@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 89,
+  "translation": "Fa bana ba gagwe ba tlaa tlogela Torah ya me, mme ga ba tsamaye mo dikatlholong tsa me:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ba tlaa tlogela"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ya me"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "mme mo dikatlholong tsa me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ba tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-04T01:30:48.662908186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 27,
+  "translation": "Ruri a se ke — gore ke lo lokise ⟨lona⟩; go fitlha ke swa, ga ke kitla ke ntsha boitshoko bwa me go tswa mo go nna.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "ruri a se ke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go se mpona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ke lo lokise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ke swa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ke kitla"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ke ntsha"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "boitshoko bwa me"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tswa mo go nna"
+    }
+  ],
+  "timestamp": "2026-10-04T02:00:52.402101933Z",
+  "model": "glm-5.3"
+}

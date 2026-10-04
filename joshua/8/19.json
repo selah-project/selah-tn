@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 8:19",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ba ba neng ba iphitlhile ba tlhama ka bonako mo lefelong la bone, mme ba taboga ka go golagadiwa ga seatla sa gagwe; mme ba tsena toropo mme ba e gapa; mme ba thama ka bonako mme ba tselela ⟨את⟩ toropo ka molelo.",
+  "tokens": [
+    {
+      "surface": "והאורב",
+      "gloss": "mme ba ba neng ba iphitlhile"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ba tlhama"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ka bonako"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "mo lefelong la bone"
+    },
+    {
+      "surface": "וירוצו",
+      "gloss": "mme ba taboga"
+    },
+    {
+      "surface": "כנטות",
+      "gloss": "ka go golagadiwa ga"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mme ba tsena"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "וילכדוה",
+      "gloss": "mme ba e gapa"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "mme ba thama ka bonako"
+    },
+    {
+      "surface": "ויציתו",
+      "gloss": "mme ba tselela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    }
+  ],
+  "timestamp": "2026-10-03T22:38:10.430524941Z",
+  "model": "glm-5.3"
+}

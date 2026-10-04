@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 107,
+  "translation": "Mme a ba mo godise mo phuthegong ya setshaba, le mo phuthegong ya bagolo ba mo rete.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Mme a ba mo godise"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mo phuthegong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya setshaba"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "le mo phuthegong"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ya bagolo"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ba mo rete"
+    }
+  ],
+  "timestamp": "2026-10-04T01:35:33.571119248Z",
+  "model": "glm-5.3"
+}

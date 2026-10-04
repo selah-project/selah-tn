@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 18,
+  "translation": "Mme basha ba le lesome, ba berekang ka dibetsa tsa Yoabe, ba dikela go dikologa, ba tlhaba ⟨את⟩ Abeshalome, ba mmolaya.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ba dikela go dikologa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ba le lesome"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "basha"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ba berekang ka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dibetsa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba tlhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abeshalome"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abeshalome"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ba mmolaya"
+    }
+  ],
+  "timestamp": "2026-10-03T23:16:31.969921487Z",
+  "model": "glm-5.3"
+}

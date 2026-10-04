@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme bana ba Elfale: Evele, le Mishame, le Shamede. Ene ⟨הוא⟩ a aga ⟨את⟩ Ono le ⟨את⟩ Lode, le metse ya yone.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elfale"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evele"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "le Mishame"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "le Shamede"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨הוא⟩ ene"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Lode"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lode"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "le metse ya yone"
+    }
+  ],
+  "timestamp": "2026-10-04T02:37:20.795654844Z",
+  "model": "glm-5.3"
+}

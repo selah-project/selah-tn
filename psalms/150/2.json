@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 150,
+  "translation": "Mogang ka bogale jwa dikgwebo tsa gagwe; mogang ka bontsi jwa bogolo jwa gagwe.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Mogang"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "ka bogale jwa dikgwebo tsa gagwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mogang"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ka bontsi jwa"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "bogolo jwa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-04T01:41:43.328839045Z",
+  "model": "glm-5.3"
+}

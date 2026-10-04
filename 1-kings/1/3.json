@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Mme ba batla mosetsana yo montle go ralala melelwane ya Yisraele yotlhe; mme ba fitlhela ⟨את⟩ Abishege, moShuneme, mme ba mo isa kwa go kgosi.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "mme ba batla"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "mosetsana"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "yo montle"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "go ralala"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "melelwane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele yotlhe"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "mme ba fitlhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishege"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishege"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "moShuneme"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mme ba mo isa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "enе (mosetsana)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa go kgosi"
+    }
+  ],
+  "timestamp": "2026-10-03T23:19:33.613479878Z",
+  "model": "glm-5.3"
+}

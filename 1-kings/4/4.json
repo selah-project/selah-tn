@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 4,
+  "translation": "le Benayahu morwa Yehoyada, kwa godimo ga sesole; le Tsadoke le Evyatara, baruti.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "le Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa godimo ga"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "le Tsadoke"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "le Evyatara"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "baruti"
+    }
+  ],
+  "timestamp": "2026-10-03T23:20:42.173919281Z",
+  "model": "glm-5.3"
+}

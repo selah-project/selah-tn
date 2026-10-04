@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 14,
+  "translation": "Mme wena, o tlhatlose ⟨את⟩ thibolo ya gago, o ogolotse ⟨את⟩ seatla sa gago mo lewatleng, o bo o se phuthe; mme bana ba Yisraele ba tsene mo bogareng jwa lewatle mo sechabeng se omileng.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "o tlhatlose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thibolo ya gago"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "thibolo ya gago"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "o ogolotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gago"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "o bo o se phuthe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsene"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo bogareng jwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "mo sechabeng se omileng"
+    }
+  ],
+  "timestamp": "2026-10-03T21:37:49.028237071Z",
+  "model": "glm-5.3"
+}

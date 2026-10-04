@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Diakantswa tsa boikutlwetlha ga di dire sepe, mme tsedeke e boloka go tswa lehu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "di dire sepe"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "diakantswa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "boikutlwetlha"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mme tsedeke"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "e boloka"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "go tswa lehu"
+    }
+  ],
+  "timestamp": "2026-10-04T01:45:13.329921462Z",
+  "model": "glm-5.3"
+}
