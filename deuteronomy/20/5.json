@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme badiredi ba tlaa bua le setshaba, ba re: Ke mang ⟨⟨the⟩⟩ motho yo o agileng ntlo e ntšha mme a sa e laela? A tsamaye a boele kwa ntlong ya gagwe, gore a se ke a swa mo ntweng, mme motho yo mongwe a e laele.",
+  "translation": "Mme ba-shoteri ba tlaa bua le setshaba, ba re: Ke mang yo o agileng ntlo e ntšhwa mme a sa e kalake? A tsamaye a boele kwa ntlong ya gagwe, gore a se ka a swa mo ntweng, mme monnamogolo yo mongwe a e kalake.",
   "tokens": [
     {
       "surface": "ודברו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "השטרים",
-      "gloss": "badiredi"
+      "gloss": "ba-shoteri"
     },
     {
       "surface": "אל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מי",
-      "gloss": "Ke mang"
+      "gloss": "ke mang"
     },
     {
       "surface": "האיש",
-      "gloss": "motho"
+      "gloss": "yo (monnamogolo)"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "חדש",
-      "gloss": "e ntšha"
+      "gloss": "e ntšhwa"
     },
     {
       "surface": "ולא",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "חנכו",
-      "gloss": "e laela"
+      "gloss": "e kalake"
     },
     {
       "surface": "ילך",
-      "gloss": "A tsamaye"
+      "gloss": "a tsamaye"
     },
     {
       "surface": "וישב",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "פן",
-      "gloss": "gore a se ke"
+      "gloss": "gore a se ka"
     },
     {
       "surface": "ימות",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "mme motho"
+      "gloss": "mme monnamogalo"
     },
     {
       "surface": "אחר",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "יחנכנו",
-      "gloss": "a e laele"
+      "gloss": "a e kalake"
     }
   ],
-  "timestamp": "2026-10-03T22:28:26.320936751Z",
+  "timestamp": "2026-10-04T03:49:02.297312133Z",
   "model": "glm-5.3"
 }

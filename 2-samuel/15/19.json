@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "tn",
   "chapter": 15,
-  "translation": "Mme kgosi a bua le Itai Mogathi, a re: Ke eng o tsamaya ⟨את⟩ le rona? Boela, ina le kgosi, ka gonne o mošha, mme gape o lesogo go ya kwa lefelong la gago.",
+  "translation": "Mme kgosi a re go Itai wa kwa Gata: Ke eng fa wena gape o tsamaya ⟨את⟩ le rona? Boela, mme nna le kgosi, gore wena ke motho wa kwa ntle, gape mogolwa — boela kwa lefelong la gago.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "mme a bua"
+      "gloss": "a re"
     },
     {
       "surface": "המלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "le"
+      "gloss": "go"
     },
     {
       "surface": "אתי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הגתי",
-      "gloss": "Mogathi"
+      "gloss": "wa kwa Gata"
     },
     {
       "surface": "למה",
-      "gloss": "ke eng"
+      "gloss": "ke eng fa"
     },
     {
       "surface": "תלך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "le"
+      "gloss": "gape"
     },
     {
       "surface": "אתה",
@@ -45,7 +45,8 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ le rona"
+      "gloss": "⟨את⟩ le rona",
+      "marks": "le rona"
     },
     {
       "surface": "שוב",
@@ -53,7 +54,7 @@
     },
     {
       "surface": "ושב",
-      "gloss": "ina"
+      "gloss": "mme nna"
     },
     {
       "surface": "עם",
@@ -65,11 +66,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ka gonne"
+      "gloss": "gore"
     },
     {
       "surface": "נכרי",
-      "gloss": "o mošha"
+      "gloss": "motho wa kwa ntle"
     },
     {
       "surface": "אתה",
@@ -77,11 +78,11 @@
     },
     {
       "surface": "וגם",
-      "gloss": "mme gape"
+      "gloss": "gape"
     },
     {
       "surface": "גלה",
-      "gloss": "o lesogo"
+      "gloss": "mogolwa"
     },
     {
       "surface": "אתה",
@@ -89,9 +90,9 @@
     },
     {
       "surface": "למקומך",
-      "gloss": "go ya kwa lefelong la gago"
+      "gloss": "kwa lefelong la gago"
     }
   ],
-  "timestamp": "2026-10-03T23:14:05.969544950Z",
+  "timestamp": "2026-10-04T03:37:30.803402517Z",
   "model": "glm-5.3"
 }

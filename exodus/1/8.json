@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Mme go simolola kgosi e ntšhwa go busa Mitsrayime, e e neng e sa itse ⟨את⟩ Yosefe.",
+  "translation": "Mme go tlhagelela kgosi e ntšhwa mo Mitsrayime, yoo a neng a sa itse ⟨את⟩ Yosefe.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "Mme go simolola"
+      "gloss": "go tlhagelela"
     },
     {
       "surface": "מלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "go busa"
+      "gloss": "mo"
     },
     {
       "surface": "מצרים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "e e neng e"
+      "gloss": "yoo"
     },
     {
       "surface": "לא",
-      "gloss": "sa"
+      "gloss": "a sa"
     },
     {
       "surface": "ידע",
@@ -49,6 +49,6 @@
       "gloss": "Yosefe"
     }
   ],
-  "timestamp": "2026-10-03T21:32:26.568781491Z",
+  "timestamp": "2026-10-04T03:48:36.898573375Z",
   "model": "glm-5.3"
 }

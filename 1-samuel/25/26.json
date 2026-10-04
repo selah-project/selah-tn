@@ -5,8 +5,97 @@
   "book": "1-samuel",
   "lang": "tn",
   "chapter": 25,
-  "translation": "Mme jaanong, mong wa me, e tshela Yahwe, mme moya wa gago o tshela, yoo o go thibelang Yahwe go tsena ka mading, le go itshireletsa ka seatla sa gago; mme jaanong, ma ba nne jaaka Nabale ba ba mo tlhoyang, le ba ba batlang boshwa go mong wa me.",
-  "tokens": [],
-  "timestamp": "2026-10-03T23:05:44.962727674Z",
+  "translation": "Mme jaanong, morena wa me, go ya ka Yahwe a phela le moya wa gago o a phela, yo o ka go thibang Yahwe go tsena mo mading, le go boloka seatla sa gago go wena, e tla nna jaanong baba ba gago ba nna jaaka Nabale, le ba ba batlang bosula go morena wa gago.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa me"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "le o a phela"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מנעך",
+      "gloss": "o go thibang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "mo mading"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "le go boloka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e tla nna jaanong"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "כנבל",
+      "gloss": "jaaka Nabale"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "baba ba gago"
+    },
+    {
+      "surface": "והמבקשים",
+      "gloss": "le ba ba batlang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa gago"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bosula"
+    }
+  ],
+  "timestamp": "2026-10-04T03:38:39.516302907Z",
   "model": "glm-5.3"
 }

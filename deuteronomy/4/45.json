@@ -5,8 +5,57 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 4,
-  "translation": "Ene tshepedišo e tšhweu: tsela e sengwe: tsela e sengwe: tsela e sengwe.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:22:28.310265072Z",
+  "translation": "E tsene ke bopaki, le melao, le dikatlholo, tse Moshe a neng a bua le bana ba Yisraele fa ba ntshiwa mo Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "e tsene"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "le melao"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "le dikatlholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "fa ba ntshiwa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mo Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-04T03:35:14.113049487Z",
   "model": "glm-5.3"
 }

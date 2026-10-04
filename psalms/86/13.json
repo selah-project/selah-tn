@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 86,
-  "translation": "Gore hesede ya gago ke kgolo go feta ⟨⟨the⟩⟩ mo go nna, mme o ntshitse moya wa me go tswa go Sheole ya kwa tlase.",
+  "translation": "Gore hesede ya gago ke kgolo go nnala me, mme o ntshitse ⟨את⟩ moya wa me go tswa mo Sheole ya kwa tlase.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "גדול",
-      "gloss": "kgolo"
+      "gloss": "ke kgolo"
     },
     {
       "surface": "עלי",
-      "gloss": "mo go nna"
+      "gloss": "go nna"
     },
     {
       "surface": "והצלת",
-      "gloss": "mme o ntshitse"
+      "gloss": "mme o ntshitse ⟨את⟩"
     },
     {
       "surface": "נפשי",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "משאול",
-      "gloss": "go tswa go Sheole"
+      "gloss": "go tswa mo Sheole"
     },
     {
       "surface": "תחתיה",
       "gloss": "ya kwa tlase"
     }
   ],
-  "timestamp": "2026-10-04T01:30:13.593477368Z",
+  "timestamp": "2026-10-04T03:44:29.195287058Z",
   "model": "glm-5.3"
 }

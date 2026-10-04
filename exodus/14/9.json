@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Mme Ba-Mitsrayime ba ne ba tlhopa morago ga bone; dipitse tsotlhe tsa dikoloi tsa Farao, le babaši ba gagwe, le masole a gagwe, ba ne ba ba fitlhela ba nnileng kwa lewatle, kwa Pihahiroth, pele ga Baale-Tsefone.",
+  "translation": "Mme Mitsrayime e ne ya ba tlhotlhora, ya ba thabela ba phuthegile kwa lewatleng — dipitse tsotlhe le dikoloi tsa Faro, balaodi ba gagwe le sesole sa gagwe — kwa Phihahirote, fa pele ga Baale-Tsefone.",
   "tokens": [
     {
       "surface": "וירדפו",
-      "gloss": "ba ne ba tlhopa"
+      "gloss": "e ne ya ba tlhotlhora"
     },
     {
       "surface": "מצרים",
-      "gloss": "Ba-Mitsrayime"
+      "gloss": "Mitsrayime"
     },
     {
       "surface": "אחריהם",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "וישיגו",
-      "gloss": "ba ba fitlhela"
+      "gloss": "ya ba thabela"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ba nnileng kwa lewatle"
+      "marks": "ba phuthegile"
     },
     {
       "surface": "חנים",
-      "gloss": "ba nnileng"
+      "gloss": "ba phuthegile"
     },
     {
       "surface": "על",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הים",
-      "gloss": "lewatle"
+      "gloss": "lewatleng"
     },
     {
       "surface": "כל",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Farao"
+      "gloss": "Faro"
     },
     {
       "surface": "ופרשיו",
-      "gloss": "le babaši ba gagwe"
+      "gloss": "balaodi ba gagwe"
     },
     {
       "surface": "וחילו",
-      "gloss": "le masole a gagwe"
+      "gloss": "sesole sa gagwe"
     },
     {
       "surface": "על",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "פי",
-      "gloss": "Pi-"
+      "gloss": ""
     },
     {
       "surface": "החירת",
-      "gloss": "Pihahiroth"
+      "gloss": "Phihahirote"
     },
     {
       "surface": "לפני",
-      "gloss": "pele ga"
+      "gloss": "fa pele ga"
     },
     {
       "surface": "בעל",
@@ -89,6 +89,6 @@
       "gloss": "Tsefone"
     }
   ],
-  "timestamp": "2026-10-03T21:38:02.397160713Z",
+  "timestamp": "2026-10-04T03:31:04.432438795Z",
   "model": "glm-5.3"
 }

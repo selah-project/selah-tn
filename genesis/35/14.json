@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 35,
-  "translation": "Mme Yaakobo a emisetsa setšhaba mo lefelong Elohim a neng a buile le ene fela ⟨את⟩ — setšhaba sa leje — mme a nosetsa mo go sona se nosiwang, mme a nosetsa mo go sona mafura.",
+  "translation": "Mme Yaakobo a tlhoma setlhako se se tletseng kwa lefelong le Elohim a neng a bua ⟨את⟩ ene gone, setlhako sa leje; mme a thubela mo go sona sehlabelo sa go nwa, mme a e ntsha mafura mo go sona.",
   "tokens": [
     {
       "surface": "ויצב",
-      "gloss": "a emisetsa"
+      "gloss": "a tlhoma"
     },
     {
       "surface": "יעקב",
@@ -17,36 +17,36 @@
     },
     {
       "surface": "מצבה",
-      "gloss": "setšhaba sa keteko"
+      "gloss": "setlhako se se tletseng"
     },
     {
       "surface": "במקום",
-      "gloss": "mo lefelong"
+      "gloss": "kwa lefelong"
     },
     {
       "surface": "אשר",
-      "gloss": "fela"
+      "gloss": "le"
     },
     {
       "surface": "דבר",
-      "gloss": "a buile le ene"
+      "gloss": "a bua"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "go ene"
+      "gloss": "⟨את⟩ ene",
+      "marks": "Yaakobo"
     },
     {
       "surface": "מצבת",
-      "gloss": "setšhaba sa keteko"
+      "gloss": "setlhako"
     },
     {
       "surface": "אבן",
-      "gloss": "leje"
+      "gloss": "sa leje"
     },
     {
       "surface": "ויסך",
-      "gloss": "a nosetsa"
+      "gloss": "a thubela"
     },
     {
       "surface": "עליה",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "נסך",
-      "gloss": "se nosiwang"
+      "gloss": "sehlabelo sa go nwa"
     },
     {
       "surface": "ויצק",
-      "gloss": "a nosetsa"
+      "gloss": "a e ntsha"
     },
     {
       "surface": "עליה",
@@ -69,6 +69,6 @@
       "gloss": "mafura"
     }
   ],
-  "timestamp": "2026-10-03T21:25:28.492493874Z",
+  "timestamp": "2026-10-04T03:30:24.702156851Z",
   "model": "glm-5.3"
 }

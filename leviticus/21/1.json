@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 21,
-  "translation": "Mme Yahwe a bua le Moshe, a re: Bua le baperesti, bana ba Aharone, mme o re le bone: Motho a se ka a itsekisa ka ⟨את⟩ mofu mo setšhabeng sa gagwe.",
+  "translation": "Mme Yahwe a bua le Moshe: Bua le baperesti, bana ba Aharone, mme o re le bone: Mothalwa a se ka a itlhapa ka motho yo o tlhokafetseng mo setshabeng sa gagwe.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Mme ... a bua"
+      "gloss": "Mme a bua"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "a re"
+      "gloss": "bua"
     },
     {
       "surface": "אל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לנפש",
-      "gloss": "ka mofu"
+      "gloss": "ka motho yo o tlhokafetseng"
     },
     {
       "surface": "לא",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "יטמא",
-      "gloss": "a itsekisa"
+      "gloss": "a itlhapa"
     },
     {
       "surface": "בעמיו",
-      "gloss": "mo setšhabeng sa gagwe"
+      "gloss": "mo setshabeng sa gagwe"
     }
   ],
-  "timestamp": "2026-10-03T21:59:03.730475410Z",
+  "timestamp": "2026-10-04T03:32:40.884466972Z",
   "model": "glm-5.3"
 }

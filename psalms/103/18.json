@@ -5,8 +5,29 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 103,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-04T01:33:18.203097020Z",
+  "translation": "Go ba ba sireletseng kgolagano ya gagwe, le ba ba gopolang melawana ya gagwe go e dira.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "go ba ba sireletseng"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kgolagano ya gagwe"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "le ba ba gopolang"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "melawana ya gagwe"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "go e dira"
+    }
+  ],
+  "timestamp": "2026-10-04T03:44:53.783112223Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 11,
-  "translation": "Yahwe ⟨⟨is⟩⟩ mo tempeleng ya gagwe ya boitshepo; Yahwe, kgonthesto ya gagwe kwa magodimong; matlho a gagwe a a lebelela, dipaete tsa gagwe di a le tlhatlhoba bana ba batho.",
+  "translation": "Yahwe o mo templeng ya gagwe ya boitshepo, Yahwe kwa magodimong go nna setulo sa gagwe sa bogosi; mahitla a gagwe a lebelela, maphekolo a gagwe a lekola bana ba motho.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בהיכל",
-      "gloss": "mo tempeleng"
+      "gloss": "mo templeng"
     },
     {
       "surface": "קדשו",
-      "gloss": "ya gagwe ya boitshepo"
+      "gloss": "ya boitshepo ya gagwe"
     },
     {
       "surface": "יהוה",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "כסאו",
-      "gloss": "kgonthesto ya gagwe"
+      "gloss": "setulo sa gagwe sa bogosi"
     },
     {
       "surface": "עיניו",
-      "gloss": "matlho a gagwe"
+      "gloss": "mahitla a gagwe"
     },
     {
       "surface": "יחזו",
-      "gloss": "a a lebelela"
+      "gloss": "a lebelela"
     },
     {
       "surface": "עפעפיו",
-      "gloss": "dipaete tsa gagwe"
+      "gloss": "maphekolo a gagwe"
     },
     {
       "surface": "יבחנו",
-      "gloss": "di a le tlhatlhoba"
+      "gloss": "a lekola"
     },
     {
       "surface": "בני",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "אדם",
-      "gloss": "batho"
+      "gloss": "motho"
     }
   ],
-  "timestamp": "2026-10-04T01:14:49.305888437Z",
+  "timestamp": "2026-10-04T03:43:36.966861095Z",
   "model": "glm-5.3"
 }

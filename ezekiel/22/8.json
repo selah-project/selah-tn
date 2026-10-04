@@ -5,8 +5,30 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 22,
-  "translation": "Boitshepo bwa me o bo sotla, mme Shabata ya me o e boitshuntsha.",
-  "tokens": [],
-  "timestamp": "2026-10-04T00:39:26.094743681Z",
+  "translation": "Dilo tsa me tse di boitshepo o di nyeditse, mme ⟨את⟩ diShabata tsa me o di tloditse.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "dilo tsa me tse di boitshepo"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "o di nyeditse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "diShabata tsa me"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "diShabata tsa me"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "o di tloditse"
+    }
+  ],
+  "timestamp": "2026-10-04T03:42:20.186686522Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,57 @@
   "book": "1-samuel",
   "lang": "tn",
   "chapter": 25,
-  "translation": "Mme jaanong, kaelo e, e moṡomi wa gago a e bileditseng go mong wa gago, e tsewe go ba ba tsamayang ka dinao tsa ga mong wa me.",
-  "tokens": [],
-  "timestamp": "2026-10-03T23:05:44.962878335Z",
+  "translation": "Mme jaanong, tlhotlheletso e, eo khomi ya gago a e isitseng go morena wa gago, e neelwe basha ba ba tsamayang maotong a morena wa gago.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jaanong"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "tlhotlheletso"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "a e isitseng"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "khomi ya gago"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "go morena wa gago"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "e neelwe"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "basha"
+    },
+    {
+      "surface": "המתהלכים",
+      "gloss": "ba ba tsamayang"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "maotong a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:38:39.516447840Z",
   "model": "glm-5.3"
 }

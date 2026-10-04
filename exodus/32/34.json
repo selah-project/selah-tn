@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 32,
-  "translation": "Mme jaanong, tsamaya, kaela ⟨את⟩ setšhaba seo go ya kwa sebakeng se ke se buileng go wena. Bonwe, morwarraagwe wa me o tla tsamaya pele ga gago; mme mo letsatsing la go etela ga me, ke tla bona dibo tsa bona mo go bone.",
+  "translation": "Mme jaanong tsamaya, o kgwele ⟨את⟩ setshaba se kwa sebakeng se ke se buileng go wena; bonang, morongwa wa me o tla tsamaya pele ga gago; mme ka letsatsi la go etela ga me, ke tla etetse boleo ya bone.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "נחה",
-      "gloss": "kaela"
+      "gloss": "o kgwele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "setšhaba"
+      "marks": "setshaba"
     },
     {
       "surface": "העם",
-      "gloss": "setšhaba"
+      "gloss": "setshaba se"
     },
     {
       "surface": "אל",
-      "gloss": "go ya kwa"
+      "gloss": "kwa"
     },
     {
       "surface": "אשר",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Bonwe"
+      "gloss": "bonang"
     },
     {
       "surface": "מלאכי",
-      "gloss": "morwarraagwe wa me"
+      "gloss": "morongwa wa me"
     },
     {
       "surface": "ילך",
@@ -62,25 +62,25 @@
     },
     {
       "surface": "וביום",
-      "gloss": "mme mo letsatsing la"
+      "gloss": "mme ka letsatsi"
     },
     {
       "surface": "פקדי",
-      "gloss": "go etela ga me"
+      "gloss": "la go etela ga me"
     },
     {
       "surface": "ופקדתי",
-      "gloss": "ke tla bona"
+      "gloss": "ke tla etetse"
     },
     {
       "surface": "עליהם",
-      "gloss": "mo go bone"
+      "gloss": "bone"
     },
     {
       "surface": "חטאתם",
-      "gloss": "dibo tsa bona"
+      "gloss": "boleo ya bone"
     }
   ],
-  "timestamp": "2026-10-03T21:45:59.542619231Z",
+  "timestamp": "2026-10-04T03:32:01.081360462Z",
   "model": "glm-5.3"
 }

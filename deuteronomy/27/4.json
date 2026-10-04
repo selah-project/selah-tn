@@ -5,8 +5,84 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Mme e tla bo e le fa lo feta ⟨את⟩ Yoridane, lo tlhomiša ⟨את⟩ maje a mabapi, a mo go one a mantsi ao ke ba laelang kgotsa ke ba laelang lona letsatsi lengwe le le lengwe la gompieno, mo thabeng ya Eybhale; mme o ba o apara ⟨את⟩ one ka sadire.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:30:21.207545654Z",
+  "translation": "Mme go tla nna jalo: fa lo tlala ⟨את⟩ Yoredene, lo tlhome ⟨את⟩ maje ano ke ke laelang ⟨את⟩ lona le letlhano, mo thabeng ya Eybale, mme o a apese ka sidia.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme go tla nna jalo"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "fa lo tlala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "lo tlhome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maje ano"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "maje"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ke laelang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le letlhano"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mo thabeng"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ya Eybale"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "mme o a apese"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maje"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "ka sidia"
+    }
+  ],
+  "timestamp": "2026-10-04T03:35:29.430901012Z",
   "model": "glm-5.3"
 }

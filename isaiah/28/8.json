@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 28,
-  "translation": "Gore ditafole tsotlhe di a tlala seka se se tlhotlhorwang le menótša, go sena lefelo le le itshekileng.",
+  "translation": "Gore ditafole tsotlhe di ne di tlala go hlatsha le meswana, go sena ⟨mo⟩ lefelo.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Gore"
+      "gloss": "gore"
     },
     {
       "surface": "כל",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "מלאו",
-      "gloss": "di a tlala"
+      "gloss": "di ne di tlala"
     },
     {
       "surface": "קיא",
-      "gloss": "seka se se tlhotlhorwang"
+      "gloss": "go hlatsha"
     },
     {
       "surface": "צאה",
-      "gloss": "le menótša"
+      "gloss": "meswana"
     },
     {
       "surface": "בלי",
@@ -40,6 +40,6 @@
       "gloss": "lefelo"
     }
   ],
-  "timestamp": "2026-10-03T23:52:12.201910715Z",
+  "timestamp": "2026-10-04T03:40:14.716214552Z",
   "model": "glm-5.3"
 }

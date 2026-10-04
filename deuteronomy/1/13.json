@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Go ipaelang banna ba ba botlhale, ba ba tlhalogang, le ba ba itsiweng, go merofe ya lona, mme ke ba tlhoma dihlogo godimo ga lona.",
+  "translation": "Ntshang mo go lona banna ba ba botlhale, ba ba nang le tlhaloganyo, ba ba itsiweng, go ditshaba tsa lona, mme ke tlaa ba dira baeteledipele ba lona.",
   "tokens": [
     {
       "surface": "הבו",
-      "gloss": "Go ipaelang"
+      "gloss": "Ntshang"
     },
     {
       "surface": "לכם",
-      "gloss": "mo lona"
+      "gloss": "mo go lona"
     },
     {
       "surface": "אנשים",
@@ -24,26 +24,26 @@
       "gloss": "ba ba botlhale"
     },
     {
-      "surface": "וידעים",
-      "gloss": "le ba ba itsiweng"
+      "surface": "ונבנים",
+      "gloss": "ba ba nang le tlhaloganyo"
     },
     {
-      "surface": "ונבנים",
-      "gloss": "ba ba tlhalogang"
+      "surface": "וידעים",
+      "gloss": "ba ba itsiweng"
     },
     {
       "surface": "לשבטיכם",
-      "gloss": "go merofe ya lona"
+      "gloss": "go ditshaba tsa lona"
     },
     {
       "surface": "ואשימם",
-      "gloss": "mme ke ba tlhoma"
+      "gloss": "mme ke tlaa ba dira"
     },
     {
       "surface": "בראשיכם",
-      "gloss": "dihlogo godimo ga lona"
+      "gloss": "baeteledipele ba lona"
     }
   ],
-  "timestamp": "2026-10-03T22:21:11.747125539Z",
+  "timestamp": "2026-10-04T03:52:36.591042881Z",
   "model": "glm-5.3"
 }

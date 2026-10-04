@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 26,
-  "translation": "Mme e ne e le mo ngwageng wa bolesomepedi, ka ⟨the⟩ letsatsi la ntlha la kgwedi, lefoko la Yahwe le ne la tla go nna, le re:",
+  "translation": "Mme go nna jalo, mo ngwageng wa bolesomepedi, ka letsatsi la ntlha la kgwedi, lefoko la Yahwe le ne la tla go nna, le re:",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Mme e ne e le"
+      "gloss": "go nna jalo"
     },
     {
       "surface": "בעשתי",
-      "gloss": "mo ngwageng wa bolesomepedi"
+      "gloss": "mo ngwageng wa bo-"
     },
     {
       "surface": "עשרה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "le ne le"
+      "gloss": "le ne la nna"
     },
     {
       "surface": "דבר",
@@ -52,6 +52,6 @@
       "gloss": "le re"
     }
   ],
-  "timestamp": "2026-10-04T00:42:17.967233936Z",
+  "timestamp": "2026-10-04T03:43:09.329809648Z",
   "model": "glm-5.3"
 }

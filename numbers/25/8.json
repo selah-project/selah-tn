@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 25,
-  "translation": "Mme a latela monna wa Yisraele kwa phaposing, mme a tlhagola ⟨את⟩ bone bontši — ⟨את⟩ monna wa Yisraele le ⟨את⟩ mosadi, mo thogwaneng ya gagwe; mme bolwetse bo emiseditse mo go bana ba Yisraele.",
+  "translation": "Mme a latela monna wa Yisraele go ya kwa phaposing, a ba thuntsha ⟨את⟩ ba babedi, ⟨את⟩ monna wa Yisraele le ⟨את⟩ mosadi kwa mpa ya gagwe; mme seetseinyego se ne sa emisiwa go tswa mo baneng ba Yisraele.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "wa Yisraele"
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "go ya kwa"
     },
     {
       "surface": "הקבה",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "וידקר",
-      "gloss": "a tlhagola"
+      "gloss": "a ba thuntsha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bone bontši"
+      "marks": "ba babedi"
     },
     {
       "surface": "שניהם",
-      "gloss": "bone bontši"
+      "gloss": "ba babedi"
     },
     {
       "surface": "את",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "wa Yisraele"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "le ⟨את⟩",
       "marks": "mosadi"
     },
     {
@@ -68,33 +68,33 @@
     },
     {
       "surface": "אל",
-      "gloss": "mo"
+      "gloss": "kwa"
     },
     {
       "surface": "קבתה",
-      "gloss": "thogwaneng ya gagwe"
+      "gloss": "mpa ya gagwe"
     },
     {
       "surface": "ותעצר",
-      "gloss": "bo emiseditse"
+      "gloss": "se ne sa emisiwa"
     },
     {
       "surface": "המגפה",
-      "gloss": "bolwetse"
+      "gloss": "seetseinyego"
     },
     {
       "surface": "מעל",
-      "gloss": "mo go"
+      "gloss": "go tswa"
     },
     {
       "surface": "בני",
-      "gloss": "bana"
+      "gloss": "mo baneng"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "ba Yisraele"
     }
   ],
-  "timestamp": "2026-10-03T22:15:20.929853603Z",
+  "timestamp": "2026-10-04T03:33:51.685963929Z",
   "model": "glm-5.3"
 }

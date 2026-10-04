@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 31,
-  "translation": "Yahwe, se ka wa ntlogela go tshwenyegiša, ka gonne ke go bileditse; a ba ba bosula ba tshwenyegišwe, ba khuthe go Sheole.",
+  "translation": "Yahwe, a ke se ke tlhoywe, gonne ke ne ke go bitsa; ba ba tlhoyang — ba ba bosula — a ba tlhoywe, a ba nne le seho didibeng le go nna didimala go ya kwa Sheole.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "se"
+      "gloss": "a ke se ke"
     },
     {
       "surface": "אבושה",
-      "gloss": "ka wa ntlogela go tshwenyegiša"
+      "gloss": "tlhoywe"
     },
     {
       "surface": "כי",
-      "gloss": "ka gonne"
+      "gloss": "gonne"
     },
     {
       "surface": "קראתיך",
-      "gloss": "ke go bileditse"
+      "gloss": "ke ne ke go bitsa"
     },
     {
       "surface": "יבשו",
-      "gloss": "a ba tshwenyegišwe"
+      "gloss": "a ba tlhoywe"
     },
     {
       "surface": "רשעים",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "ידמו",
-      "gloss": "ba khuthe"
+      "gloss": "a ba nne didimala"
     },
     {
       "surface": "לשאול",
-      "gloss": "go Sheole"
+      "gloss": "go ya kwa Sheole"
     }
   ],
-  "timestamp": "2026-10-04T01:16:58.032376689Z",
+  "timestamp": "2026-10-04T03:44:15.033833938Z",
   "model": "glm-5.3"
 }

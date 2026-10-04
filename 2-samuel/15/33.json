@@ -5,8 +5,46 @@
   "book": "2-samuel",
   "lang": "tn",
   "chapter": 15,
-  "translation": "Mme Dawide a mo raya: Fa o ntse o tlala kgotsa o ntse o ntshitse le wena, o tla nna mo go nna botlhako jo bo tletse.",
-  "tokens": [],
-  "timestamp": "2026-10-03T23:13:50.353614545Z",
+  "translation": "Mme Dawide a mo buela go re: Fa o tsamaya le nna, o tla nna ⟨את⟩ morwalo mo go nna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a mo buela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "o tsamaya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna",
+      "marks": "le nna"
+    },
+    {
+      "surface": "והית",
+      "gloss": "o tla nna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "morwalo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:37:20.737446394Z",
   "model": "glm-5.3"
 }

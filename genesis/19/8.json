@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 19,
-  "translation": "Bonang, kea lo kopa, ke na le barwadi ba babedi ba ba sa itseng monna; ke tla ba ntša, kea lo kopa, ⟨אתהן⟩ go lona; dirang bone jaaka go siametse mo dithong tsa lona; fela go banna bano le se dire sepe, goba e le ka ntlha ya go bo ba tsentse ka fa tlase ga serwalo sa ntlha ya me.",
+  "translation": "Bonang jaanong, ke na le barwedi ba babedi ba ba sa itseng monna; a mpoloke, ke tla ba ntsha ke mo go lona, mme lo ba dire jaaka go siametse mo diphakeng tsa lona; fela ba banna baba o se ka wa ba direla sepe, gonne ka ntlha ya seo ba tsile ka moriti wa marulelo a me.",
   "tokens": [
     {
       "surface": "הנה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "kea lo kopa"
+      "gloss": "jaanong"
     },
     {
       "surface": "לי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שתי",
-      "gloss": "babedi"
+      "gloss": "ba babedi"
     },
     {
       "surface": "בנות",
-      "gloss": "barwadi"
+      "gloss": "barwedi"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "ba sa"
+      "gloss": "sa"
     },
     {
       "surface": "ידעו",
@@ -45,15 +45,16 @@
     },
     {
       "surface": "אוציאה",
-      "gloss": "ke tla ba ntša"
+      "gloss": "ke tla ba ntsha"
     },
     {
       "surface": "נא",
-      "gloss": "kea lo kopa"
+      "gloss": "a mpoloke"
     },
     {
       "surface": "אתהן",
-      "gloss": "⟨אתהן⟩"
+      "gloss": "⟨את⟩",
+      "marks": "bone (barwedi)"
     },
     {
       "surface": "אליכם",
@@ -61,7 +62,7 @@
     },
     {
       "surface": "ועשו",
-      "gloss": "dirang"
+      "gloss": "mme lo ba dire"
     },
     {
       "surface": "להן",
@@ -73,7 +74,7 @@
     },
     {
       "surface": "בעיניכם",
-      "gloss": "mo dithong tsa lona"
+      "gloss": "mo diphakeng tsa lona"
     },
     {
       "surface": "רק",
@@ -81,19 +82,19 @@
     },
     {
       "surface": "לאנשים",
-      "gloss": "go banna"
+      "gloss": "banna baba"
     },
     {
       "surface": "האל",
-      "gloss": "bano"
+      "gloss": "bao"
     },
     {
       "surface": "אל",
-      "gloss": "le se"
+      "gloss": "o se ka wa"
     },
     {
       "surface": "תעשו",
-      "gloss": "dire"
+      "gloss": "ba direla"
     },
     {
       "surface": "דבר",
@@ -101,7 +102,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "goba"
+      "gloss": "gonne"
     },
     {
       "surface": "על",
@@ -109,21 +110,21 @@
     },
     {
       "surface": "כן",
-      "gloss": "go bo"
+      "gloss": "seo"
     },
     {
       "surface": "באו",
-      "gloss": "ba tsentse"
+      "gloss": "ba tsile"
     },
     {
       "surface": "בצל",
-      "gloss": "ka fa tlase ga serwalo"
+      "gloss": "ka moriti wa"
     },
     {
       "surface": "קרתי",
-      "gloss": "sa ntlha ya me"
+      "gloss": "marulelo a me"
     }
   ],
-  "timestamp": "2026-10-03T21:18:14.975496784Z",
+  "timestamp": "2026-10-04T03:29:41.835235258Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 26,
-  "translation": "Mme le le fa ba ntse mo lefatsheng la ba ba ba tlhoyang, ga ke ba kokoše, ga ke ba retetse go ba fetsa botlhole, kgotsa go phutlhama ⟨את⟩ kgolagano ya me le bone; gonne ke nna Yahwe Elohim wa bone.",
+  "translation": "Mme le foo, fa ba ntse mo lefatsheng la ba ba ba tlhoyang, ga ke a ba latlha mme ga ke a ba tlhoa, go ba fetsa, go phutlhama kgolagano ya me ⟨את⟩ le bone; gonne ke nna Yahwe Elohim wa bone.",
   "tokens": [
     {
       "surface": "ואף",
-      "gloss": "Mme le le"
+      "gloss": "mme le foo"
     },
     {
       "surface": "גם",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "מאסתים",
-      "gloss": "ke ba kokoše"
+      "gloss": "ke a ba latlha"
     },
     {
       "surface": "ולא",
-      "gloss": "ga"
+      "gloss": "mme ga"
     },
     {
       "surface": "געלתים",
-      "gloss": "ke ba retetse"
+      "gloss": "ke a ba tlhoa"
     },
     {
       "surface": "לכלתם",
-      "gloss": "go ba fetsa botlhole"
+      "gloss": "go ba fetsa"
     },
     {
       "surface": "להפר",
@@ -61,7 +61,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ le bone"
+      "gloss": "⟨את⟩ le bone",
+      "marks": "le bone"
     },
     {
       "surface": "כי",
@@ -80,6 +81,6 @@
       "gloss": "Elohim wa bone"
     }
   ],
-  "timestamp": "2026-10-03T22:02:14.066211582Z",
+  "timestamp": "2026-10-04T03:32:38.379158190Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Ke ene a buseditseng ⟨את⟩ molelwane wa Yisraele, go tloga kwa go tseneng ga Hamate go fitlha kwa lewatleling la lefatshe la mosele, jaaka Yahwe Elohim wa Yisraele a buile ka seatla sa mothanka wa gagwe Yona morwa Amitai, moporofeti, yo o tswang kwa Gathe-Khefere.",
+  "translation": "Yo o ile a busetsa ⟨את⟩ molelwane wa Yisraele, go tloga go tsena ga Hamate go fitlha kwa lewatleng la lerwalo, jaaka lefoko le Yahwe Elohim wa Yisraele a le buile ka seatla sa modiri wa gagwe Yona morwa Amitayi, moporofeti, yo o tswang kwa Gathe-Khefere.",
   "tokens": [
     {
       "surface": "הוא",
-      "gloss": "ke ene"
+      "gloss": "yo"
     },
     {
       "surface": "השיב",
-      "gloss": "a buseditseng"
+      "gloss": "a busetsa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "molelwane"
+      "marks": "molelwane wa Yisraele"
     },
     {
       "surface": "גבול",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisraele"
+      "gloss": "Yisraele"
     },
     {
       "surface": "מלבוא",
-      "gloss": "kwa go tseneng ga"
+      "gloss": "go tsena ga"
     },
     {
       "surface": "חמת",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "עד",
-      "gloss": "go fitlha"
+      "gloss": "go fitlha kwa"
     },
     {
       "surface": "ים",
-      "gloss": "kwa lewatleling"
+      "gloss": "lewatle"
     },
     {
       "surface": "הערבה",
-      "gloss": "la lefatshe la mosele"
+      "gloss": "lerwalo"
     },
     {
       "surface": "כדבר",
-      "gloss": "jaaka lentšu"
+      "gloss": "jaaka lefoko"
     },
     {
       "surface": "יהוה",
@@ -58,19 +58,19 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisraele"
+      "gloss": "Yisraele"
     },
     {
       "surface": "אשר",
-      "gloss": "leo"
+      "gloss": "le"
     },
     {
       "surface": "דבר",
-      "gloss": "a buile"
+      "gloss": "a le buile"
     },
     {
       "surface": "ביד",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "mothanka wa gagwe"
+      "gloss": "modiri wa gagwe"
     },
     {
       "surface": "יונה",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "אמתי",
-      "gloss": "Amitai"
+      "gloss": "Amitayi"
     },
     {
       "surface": "הנביא",
@@ -109,6 +109,6 @@
       "gloss": "Gathe-Khefere"
     }
   ],
-  "timestamp": "2026-10-03T23:38:17.516030387Z",
+  "timestamp": "2026-10-04T03:39:21.497991583Z",
   "model": "glm-5.3"
 }

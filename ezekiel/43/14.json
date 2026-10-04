@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 43,
-  "translation": "Mme go tswa mo sehubeng sa lefatshe go ya go setulo se se kwa tlase, diama tse pedi, mme bophara ama e le nngwe; mme go tswa go setulo se se nnye go ya go setulo se segolo, diama tse nne, mme bophara jwa ⟨the⟩ ama.",
+  "translation": "Mme go tswa mo serapeng sa lefatshe go fitlha kwa sebakeng se se kwa tlase ga sone, diphuthego di le pedi, mme bophara phuthego e le nngwe; mme go tswa mo sebakeng se sennyane go fitlha kwa sebakeng se segolo, diphuthego di le nne, mme bophara jwa phuthego.",
   "tokens": [
     {
       "surface": "ומחיק",
-      "gloss": "mme go tswa mo sehubeng"
+      "gloss": "Mme go tswa mo serapeng"
     },
     {
       "surface": "הארץ",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "עד",
-      "gloss": "go ya go"
+      "gloss": "go fitlha kwa"
     },
     {
       "surface": "העזרה",
-      "gloss": "setulo"
+      "gloss": "sebakeng"
     },
     {
       "surface": "התחתונה",
-      "gloss": "se se kwa tlase"
+      "gloss": "se se kwa tlase ga sone"
     },
     {
       "surface": "שתים",
-      "gloss": "tse pedi"
+      "gloss": "di le pedi"
     },
     {
       "surface": "אמות",
-      "gloss": "diama"
+      "gloss": "diphuthego"
     },
     {
       "surface": "ורחב",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "ama"
+      "gloss": "phuthego"
     },
     {
       "surface": "אחת",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "ומהעזרה",
-      "gloss": "mme go tswa go setulo"
+      "gloss": "mme go tswa mo sebakeng"
     },
     {
       "surface": "הקטנה",
-      "gloss": "se se nnye"
+      "gloss": "se sennyane"
     },
     {
       "surface": "עד",
-      "gloss": "go ya go"
+      "gloss": "go fitlha kwa"
     },
     {
       "surface": "העזרה",
-      "gloss": "setulo"
+      "gloss": "sebakeng"
     },
     {
       "surface": "הגדולה",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "ארבע",
-      "gloss": "tse nne"
+      "gloss": "di le nne"
     },
     {
       "surface": "אמות",
-      "gloss": "diama"
+      "gloss": "diphuthego"
     },
     {
       "surface": "ורחב",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "האמה",
-      "gloss": "jwa ama"
+      "gloss": "jwa phuthego"
     }
   ],
-  "timestamp": "2026-10-04T00:50:07.641842433Z",
+  "timestamp": "2026-10-04T03:43:01.579622465Z",
   "model": "glm-5.3"
 }

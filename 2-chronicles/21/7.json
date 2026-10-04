@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "tn",
   "chapter": 21,
-  "translation": "Mme Yahwe ga a ka a batla go senya ⟨את⟩ ntlo ya Dawide, ka ntlha ya kgolagano e a neng a e kgantshitse le Dawide, le jaaka a ne a se bua go mo neela lesedi le go bana ba gagwe tsatsi tsotlhe.",
+  "translation": "Mme Yahwe a sa batle go senya ⟨את⟩ ntlo ya ga Dawide, ka ntlha ya kgolagano ye a e kgantshitseng le Dawide, le jaaka a buile go mo neela lesedi le le mo banyaneng ba gagwe, ka malatsi otlhe.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "mme ga a ka a batla"
+      "gloss": "mme ... ga"
     },
     {
       "surface": "אבה",
-      "gloss": ""
+      "gloss": "a batle"
     },
     {
       "surface": "יהוה",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ntlo ya Dawide"
+      "marks": "ntlo ya ga Dawide"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo ya"
+      "gloss": "ntlo"
     },
     {
       "surface": "דויד",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "e a neng a e kgantshitse"
+      "gloss": "ye"
     },
     {
       "surface": "כרת",
-      "gloss": ""
+      "gloss": "a e kgantshitseng"
     },
     {
       "surface": "לדויד",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "וכאשר",
-      "gloss": "le jaaka a ne a se bua"
+      "gloss": "le jaaka"
     },
     {
       "surface": "אמר",
-      "gloss": ""
+      "gloss": "a buile"
     },
     {
       "surface": "לתת",
-      "gloss": "go mo neela"
+      "gloss": "go neela"
     },
     {
       "surface": "לו",
@@ -78,17 +78,17 @@
     },
     {
       "surface": "ולבניו",
-      "gloss": "le go bana ba gagwe"
+      "gloss": "le banyana ba gagwe"
     },
     {
       "surface": "כל",
-      "gloss": "tsatsi tsotlhe"
+      "gloss": "otlhe"
     },
     {
       "surface": "הימים",
-      "gloss": ""
+      "gloss": "ka malatsi"
     }
   ],
-  "timestamp": "2026-10-04T02:53:28.675161181Z",
+  "timestamp": "2026-10-04T03:46:43.408728944Z",
   "model": "glm-5.3"
 }

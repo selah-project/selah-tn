@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 23,
-  "translation": "Mme Moshe a bua ⟨את⟩ meletlo ya Yahwe — dikopano tse di laetsweng — ho bana ba Yisraele.",
+  "translation": "Mme Moshe a bua ⟨את⟩ dikgoro tsa Yahwe go bana ba Yisraele.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "meletlo ya Yahwe"
+      "marks": "dikgoro tsa Yahwe"
     },
     {
       "surface": "מעדי",
-      "gloss": "meletlo — dikopano tse di laetsweng"
+      "gloss": "dikgoro"
     },
     {
       "surface": "יהוה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ho"
+      "gloss": "go"
     },
     {
       "surface": "בני",
@@ -41,6 +41,6 @@
       "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-03T21:59:57.567795993Z",
+  "timestamp": "2026-10-04T03:32:35.620720537Z",
   "model": "glm-5.3"
 }

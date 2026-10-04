@@ -5,8 +5,73 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 23,
-  "translation": "Mme Bileame a bua le Balake a re: Aga mo go nna mo lefelong le dikgoro tse supa tsa dikobo, mme o baakanye mo go nna mo lefelong le dipoo tse supa le ditonki tse supa tsa nku.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:13:31.552584501Z",
+  "translation": "Mme Bileame a bua le Balake a re: Aga ⟨את⟩ me altare mo sebakeng se, e supa, mme ba oketse mo sebakeng se, dikgomo tsa me tse supa le dipodi tsa me tse supa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balake"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "Aga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo sebakeng se"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "e supa"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "me altare"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "ba oketse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo sebakeng se"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tse supa"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "le tse supa"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "dipodi"
+    }
+  ],
+  "timestamp": "2026-10-04T03:34:07.648598441Z",
   "model": "glm-5.3"
 }

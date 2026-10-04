@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 3,
-  "translation": "Mošöré o tla ikana ka letsatsi leo, a re: Nka nna molapisi; goba e ka nna ka ga ntlo ya me ga go na senkgwe, mme ga go na kanokokwane; se mpuse yo o busang setshaba.",
+  "translation": "Ka letsatsi leo o tla bua, a re: Ga ke kitla ke nna mmalwetsi, mme mo tlung ya me ga go ⟨go⟩ na le senkgwe kgotsa diaparo; se mpese go nna moeteledipele wa setshaba.",
   "tokens": [
     {
       "surface": "ישא",
-      "gloss": "o tla ikana"
+      "gloss": "o tla bua"
     },
     {
       "surface": "ביום",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "לא",
-      "gloss": "Nka"
+      "gloss": "ga"
     },
     {
       "surface": "אהיה",
-      "gloss": "nna"
+      "gloss": "ke kitla ke nna"
     },
     {
       "surface": "חבש",
-      "gloss": "molapisi"
+      "gloss": "mmalwetsi"
     },
     {
       "surface": "ובביתי",
-      "gloss": "goba e ka nna ka ga ntlo ya me"
+      "gloss": "mme mo tlung ya me"
     },
     {
       "surface": "אין",
-      "gloss": "ga go na"
+      "gloss": "ga go"
     },
     {
       "surface": "לחם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ואין",
-      "gloss": "mme ga go na"
+      "gloss": "kgotsa"
     },
     {
       "surface": "שמלה",
-      "gloss": "kanokokwane"
+      "gloss": "diaparo"
     },
     {
       "surface": "לא",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "תשימני",
-      "gloss": "mpuse"
+      "gloss": "mpese"
     },
     {
       "surface": "קצין",
-      "gloss": "yo o busang"
+      "gloss": "moeteledipele"
     },
     {
       "surface": "עם",
-      "gloss": "setshaba"
+      "gloss": "wa setshaba"
     }
   ],
-  "timestamp": "2026-10-03T23:44:38.737101925Z",
+  "timestamp": "2026-10-04T03:39:44.022986713Z",
   "model": "glm-5.3"
 }

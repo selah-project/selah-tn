@@ -5,8 +5,42 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 19,
-  "translation": "Mme fa segoledi se tlala go nna le wena mo lefatsheng la lona, se se ka goga kwa tlhago o se ganela go se tlhoka tebopele, se se ka kgwetlha.",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:58:05.904681927Z",
+  "translation": "Mme fa moafiri a nna ⟨את⟩ le wena mo lefatsheng la lona, lo se ka la mo gatelela ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena"
+    },
+    {
+      "surface": "גר",
+      "gloss": "moafiri"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "mo lefatsheng la lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ka"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "la mo gatelela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "moafiri"
+    }
+  ],
+  "timestamp": "2026-10-04T03:32:31.719782840Z",
   "model": "glm-5.3"
 }

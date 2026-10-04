@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 2,
-  "translation": "Mme kgosi Selomoh a ikana ka Yahwe, a re: Elohim a ntire jalo, mme a oketse jalo — gomme Adoniyahu o buile ⟨את⟩ lentšu leno kgatlhanong le moyo wa gagwe.",
+  "translation": "Mme kgosi Solomone a ikana ka Yahwe, a re: Elohim a ntshegetse jalo, mme a oketse jalo, gonne Adonia o buile ⟨את⟩ lefoko le kgatlhanong le botshelo jwa gagwe.",
   "tokens": [
     {
       "surface": "וישבע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Selomoh"
+      "gloss": "Solomone"
     },
     {
       "surface": "ביהוה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "a ntire"
+      "gloss": "a ntshegetse"
     },
     {
       "surface": "לי",
-      "gloss": "nna"
+      "gloss": "mpa"
     },
     {
       "surface": "אלהים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וכה",
-      "gloss": "mme jalo gape"
+      "gloss": "mme jalo"
     },
     {
       "surface": "יוסיף",
@@ -53,34 +53,34 @@
     },
     {
       "surface": "כי",
-      "gloss": "gomme"
+      "gloss": "gonne"
     },
     {
       "surface": "בנפשו",
-      "gloss": "kgatlhanong le moyo wa gagwe"
+      "gloss": "kgatlhanong le botshelo jwa gagwe"
     },
     {
       "surface": "דבר",
-      "gloss": "o buile"
+      "gloss": "a buile"
     },
     {
       "surface": "אדניהו",
-      "gloss": "Adoniyahu"
+      "gloss": "Adonia"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lentšu"
+      "marks": "lefoko le"
     },
     {
       "surface": "הדבר",
-      "gloss": "lentšu"
+      "gloss": "lefoko le"
     },
     {
       "surface": "הזה",
-      "gloss": "leno"
+      "gloss": "le"
     }
   ],
-  "timestamp": "2026-10-03T23:20:21.010538304Z",
+  "timestamp": "2026-10-04T03:39:20.307092776Z",
   "model": "glm-5.3"
 }

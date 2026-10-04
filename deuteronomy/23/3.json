@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 23,
-  "translation": "Mmamzeri ga a kitla a tsena mo phuthegong ya Yahwe; lelovya la bošome ga lo a ka lwa lo tsena mo phuthegong ya Yahwe.",
+  "translation": "Lamzere ga a tsene mo phuthegong ya Yahwe; gongwe le kokomana ya gagwe ya bolesome ga e tsene mo phuthegong ya Yahwe.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יבא",
-      "gloss": "a tsena"
+      "gloss": "a tsene"
     },
     {
       "surface": "ממזר",
-      "gloss": "Mmamzeri"
+      "gloss": "lamzere"
     },
     {
       "surface": "בקהל",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "גם",
-      "gloss": "le"
+      "gloss": "gongwe le"
     },
     {
       "surface": "דור",
-      "gloss": "lovya"
+      "gloss": "kokomana"
     },
     {
       "surface": "עשירי",
-      "gloss": "la bošome"
+      "gloss": "ya bolesome"
     },
     {
       "surface": "לא",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "יבא",
-      "gloss": "lo tsena"
+      "gloss": "e tsene"
     },
     {
       "surface": "לו",
-      "gloss": "go"
+      "gloss": "ya gagwe"
     },
     {
       "surface": "בקהל",
@@ -60,6 +60,6 @@
       "gloss": "ya Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T22:30:01.549765426Z",
+  "timestamp": "2026-10-04T03:35:18.979414164Z",
   "model": "glm-5.3"
 }

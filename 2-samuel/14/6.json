@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Mme mašika a gago a ne a na le bana ba babedi, mme ba babedi ba lwana kwa masimong, mme go sena mo ba kgarolang; mme a bitsa mongwe le mongwe, wa o wa nngwe, mme a mo bolaya.",
+  "translation": "Mme lekgoba la gago le na le bana ba babedi, mme ba babedi ba ne ba lwana mo masimong, mme ga go na yo o ba pholosang magareng ga bona, mme yo mongwe a tlhaba ⟨את⟩ yo mongwe, a mo bolaya.",
   "tokens": [
     {
       "surface": "ולשפחתך",
-      "gloss": "mme mašika a gago"
+      "gloss": "lekgoba la gago"
     },
     {
       "surface": "שני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וינצו",
-      "gloss": "mme ba lwana"
+      "gloss": "ba ne ba lwana"
     },
     {
       "surface": "שניהם",
@@ -29,46 +29,47 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "kwa masimong"
+      "gloss": "mo masimong"
     },
     {
       "surface": "ואין",
-      "gloss": "mme go sena"
+      "gloss": "mme ga go na"
     },
     {
       "surface": "מציל",
-      "gloss": "mo ba kgarolang"
+      "gloss": "yo o ba pholosang"
     },
     {
       "surface": "ביניהם",
-      "gloss": "fa gare ga bona"
+      "gloss": "magareng ga bona"
     },
     {
       "surface": "ויכו",
-      "gloss": "mme a bitsa"
+      "gloss": "a tlhaba"
     },
     {
       "surface": "האחד",
-      "gloss": "mongwe le mongwe"
+      "gloss": "yo mongwe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mongwe le mongwe (ya bobedi)"
+      "marks": "yo mongwe"
     },
     {
       "surface": "האחד",
-      "gloss": "mongwe le mongwe"
+      "gloss": "yo mongwe"
     },
     {
       "surface": "וימת",
-      "gloss": "mme a bolaya"
+      "gloss": "a bolaya"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ mo"
+      "gloss": "⟨את⟩",
+      "marks": "yena"
     }
   ],
-  "timestamp": "2026-10-03T23:12:41.160536771Z",
+  "timestamp": "2026-10-04T03:38:19.906034023Z",
   "model": "glm-5.3"
 }

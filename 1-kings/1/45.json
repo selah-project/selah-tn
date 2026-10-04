@@ -5,24 +5,24 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Mme Tsadoke moperesiti le Natane moporofeti ba mo tloditse ⟨אתו⟩ go nna kgosi kwa Gikhione, mme ba tlhatloga koo ka itumelelo, mme toropo e gogomoga; ke ⟨the⟩ modumo oo o o utlwileng.",
+  "translation": "Mme Tsadoki moperesti le Natane moporofeti ba ne ba mo tloditsha ⟨את⟩ jaaka kgosi kwa Gikhione; mme ba tlola foo ba itumetse, mme toropo ya gagoga — ke lentswe leo lo lo utlwileng.",
   "tokens": [
     {
       "surface": "וימשחו",
-      "gloss": "ba mo tloditse"
+      "gloss": "ba ne ba mo tloditsha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "enaa (yo o tloditsweng)"
+      "gloss": "⟨את⟩",
+      "marks": "ena (Solomone)"
     },
     {
       "surface": "צדוק",
-      "gloss": "Tsadoke"
+      "gloss": "Tsadoki"
     },
     {
       "surface": "הכהן",
-      "gloss": "moperesiti"
+      "gloss": "moperesti"
     },
     {
       "surface": "ונתן",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "go nna kgosi"
+      "gloss": "jaaka kgosi"
     },
     {
       "surface": "בגחון",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "ba tlhatloga"
+      "gloss": "ba tlola"
     },
     {
       "surface": "משם",
-      "gloss": "koo"
+      "gloss": "foo"
     },
     {
       "surface": "שמחים",
-      "gloss": "ka itumelelo"
+      "gloss": "ba itumetse"
     },
     {
       "surface": "ותהם",
-      "gloss": "toropo e gogomoga"
+      "gloss": "ya gagoga"
     },
     {
       "surface": "הקריה",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "הקול",
-      "gloss": "modumo"
+      "gloss": "lentswe leo"
     },
     {
       "surface": "אשר",
-      "gloss": "oo"
+      "gloss": "lo lo"
     },
     {
       "surface": "שמעתם",
-      "gloss": "o o utlwileng"
+      "gloss": "lo lo utlwileng"
     }
   ],
-  "timestamp": "2026-10-03T23:19:28.940960230Z",
+  "timestamp": "2026-10-04T03:37:44.944921814Z",
   "model": "glm-5.3"
 }

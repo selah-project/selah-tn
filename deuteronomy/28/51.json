@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 28,
-  "translation": "Mme o tla ja peo ya diphoofolo tsa gago le peo ya lefatshe la gago, go fitlha o senngwe; o se ka wa tlogelela sepe: mmidi, nabole e ntšha le mafura, bana ba dikgomo tsa gago le mannyana a dinku tsa gago, go fitlha a go senya ⟨⟨את⟩ wena⟩.",
+  "translation": "Mme o tla ja peo ya dikgomo tsa gago le peo ya lefatshe la gago, go fitlha o senngwe; o tla se ka wa go tlogela korong, mosele wa nabu le mafura, banana ba dikgomo tsa gago le banana ba dinku tsa gago, go fitlha a go senya ⟨את⟩ wena.",
   "tokens": [
     {
       "surface": "ואכל",
-      "gloss": "mme o tla ja"
+      "gloss": "Mme o tla ja"
     },
     {
       "surface": "פרי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בהמתך",
-      "gloss": "ya diphoofolo tsa gago"
+      "gloss": "ya dikgomo tsa gago"
     },
     {
       "surface": "ופרי",
@@ -37,27 +37,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨yo⟩"
+      "gloss": "⟨jaaka⟩"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "o tla se ka"
     },
     {
       "surface": "ישאיר",
-      "gloss": "a tlogelele"
+      "gloss": "wa go tlogela"
     },
     {
       "surface": "לך",
-      "gloss": "go"
+      "gloss": "mo go wena"
     },
     {
       "surface": "דגן",
-      "gloss": "mmidi"
+      "gloss": "korong"
     },
     {
       "surface": "תירוש",
-      "gloss": "nabole e ntšha"
+      "gloss": "mosele wa nabu"
     },
     {
       "surface": "ויצהר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "שגר",
-      "gloss": "bana"
+      "gloss": "banana"
     },
     {
       "surface": "אלפיך",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "ועשתרת",
-      "gloss": "le mannyana"
+      "gloss": "le banana ba dinku"
     },
     {
       "surface": "צאנך",
-      "gloss": "a dinku tsa gago"
+      "gloss": "tsa gago"
     },
     {
       "surface": "עד",
@@ -89,9 +89,10 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩",
+      "marks": "wena"
     }
   ],
-  "timestamp": "2026-10-04T03:07:56.091205794Z",
+  "timestamp": "2026-10-04T03:34:41.747091884Z",
   "model": "glm-5.3"
 }

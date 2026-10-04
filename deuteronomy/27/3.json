@@ -5,8 +5,122 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Mme o kwale mo go tsone ⟨את⟩ mafoko otlhe a Torah eno, fa o feta, gore o tsene mo lefatsheng leo Yahwe Elohim ya gago a o nayang, lefatshe le le elesang mashi le maši a dinosi le maši a dinosi, jaaka Yahwe Elohim ya bo-ntate-kgolo ya gago a go builetseng.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:30:21.207365519Z",
+  "translation": "Mme o kwale mo go tsone ⟨את⟩ mafoko otlhe a Torah eno, fa o tlala, gore o tsene kwa lefatsheng leo Yahwe Elohim wa gago a go nayong, lefatshe le le rusanang mashi le maungo, jaaka Yahwe Elohim wa bo-ntatemao a buile go wena.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "Mme o kwale"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "a Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "בעברך",
+      "gloss": "fa o tlala"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨gore⟩"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "o tsene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a go nayong"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "le le rusanang"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mashi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le maungo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bo-ntatemao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-04T03:35:29.430709212Z",
   "model": "glm-5.3"
 }

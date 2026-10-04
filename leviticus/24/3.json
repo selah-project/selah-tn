@@ -5,8 +5,78 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 24,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:00:48.075068312Z",
+  "translation": "Ntle ga seana sa bopaki, mo tenteng ya kopano, Aharone o tlaa se rulaganya ⟨את⟩ go tswa maitseboa go fitlha moso, kwa pele ga Yahwe, ka go sa kgaotse; ke molao wa bosakhutlho go dikokomana tsa lona.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle ga"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "seana sa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mo tenteng ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kopano"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "o tlaa se rulaganya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "se (sesane\/malebana le se se rulagangwang)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "go tswa maitseboa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka go sa kgaotse"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molao"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa bosakhutlho"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "go dikokomana tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:32:52.519806238Z",
   "model": "glm-5.3"
 }

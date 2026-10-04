@@ -5,27 +5,27 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 2,
-  "translation": "A re: Bua wena kwa Sholomone kgosing, gonne ga a kitla a buša ⟨את⟩ sefala sa gago; a mpe neye ⟨את⟩ Abishege wa Shuname go nna mosadi.",
+  "translation": "Mme a re: Bua o kopa Sholeme kgosi, gonne ga go kitla a bogala ⟨את⟩ sefathego sa gago, gore a nke ⟨את⟩ Abishage wa Shuname go nna mosadi wa me.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "Mme a re"
     },
     {
       "surface": "אמרי",
-      "gloss": "bua"
+      "gloss": "Bua"
     },
     {
       "surface": "נא",
-      "gloss": "wena"
+      "gloss": "o kopa"
     },
     {
       "surface": "לשלמה",
-      "gloss": "kwa Sholomone"
+      "gloss": "Sholeme"
     },
     {
       "surface": "המלך",
-      "gloss": "kgosing"
+      "gloss": "kgosi"
     },
     {
       "surface": "כי",
@@ -33,37 +33,37 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ga go kitla"
     },
     {
       "surface": "ישיב",
-      "gloss": "a buša"
+      "gloss": "a bogala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sefala sa gago"
+      "marks": "sefathego sa gago"
     },
     {
       "surface": "פניך",
-      "gloss": "sefala sa gago"
+      "gloss": "sefathego sa gago"
     },
     {
       "surface": "ויתן",
-      "gloss": "a mpe neye"
+      "gloss": "a nke"
     },
     {
       "surface": "לי",
-      "gloss": "nna"
+      "gloss": "go nna mosadi wa me"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Abishege"
+      "marks": "Abishage wa Shuname"
     },
     {
       "surface": "אבישג",
-      "gloss": "Abishege"
+      "gloss": "Abishage"
     },
     {
       "surface": "השונמית",
@@ -74,6 +74,6 @@
       "gloss": "go nna mosadi"
     }
   ],
-  "timestamp": "2026-10-03T23:20:59.328643946Z",
+  "timestamp": "2026-10-04T03:38:55.621496486Z",
   "model": "glm-5.3"
 }

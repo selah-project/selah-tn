@@ -5,8 +5,75 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Mme Moshe le balaodi ba Yisraele ba laela ⟨את⟩ setshaba, ba re: Bolokang ⟨את⟩ taelo yotlhe e ke e laelang kgotsa ke e laelang lona leina lengwe le lengwe la lona letsatsi lengwe le le lengwe la gompieno.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:30:21.206824974Z",
+  "translation": "Mme Moshe le bagodi ba Yisraele ba laela ⟨את⟩ setshaba, ba re: Bolokang ⟨את⟩ taelo yotlhe e ke e laelang ⟨את⟩ lona le letlhano.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ba laela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "le bagodi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Bolokang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo yotlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "e laelang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le letlhano"
+    }
+  ],
+  "timestamp": "2026-10-04T03:35:29.430261911Z",
   "model": "glm-5.3"
 }

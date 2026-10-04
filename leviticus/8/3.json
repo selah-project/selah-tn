@@ -5,12 +5,12 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 8,
-  "translation": "mme o thapise ⟨את⟩ setšhaba sotlhe kwa sekgorong sa Tente ya Kopano.",
+  "translation": "Mme o kakaretse setshaba sotlhe ⟨את⟩ kwa sebakeng sa go tsena sa teng ya kopano.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "setšhaba sotlhe"
+      "marks": "setshaba sotlhe"
     },
     {
       "surface": "כל",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "העדה",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "הקהל",
-      "gloss": "o thapise"
+      "gloss": "o kakaretse"
     },
     {
       "surface": "אל",
@@ -30,17 +30,17 @@
     },
     {
       "surface": "פתח",
-      "gloss": "sekgorong"
+      "gloss": "sebakeng sa go tsena"
     },
     {
       "surface": "אהל",
-      "gloss": "Tente"
+      "gloss": "teng"
     },
     {
       "surface": "מועד",
-      "gloss": "ya Kopano"
+      "gloss": "ya kopano"
     }
   ],
-  "timestamp": "2026-10-03T21:52:10.629794648Z",
+  "timestamp": "2026-10-04T03:31:54.234894217Z",
   "model": "glm-5.3"
 }

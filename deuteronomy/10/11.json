@@ -5,8 +5,78 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 10,
-  "translation": "Mme Yahwe a re go nna: Tshoga, tsamaya pele ga setshaba se se neng se le pele, gore ba tsene ba bo ba laole lefatshe leo ke neng ke ikana go ba bolelela ⟨את⟩ go se neela bone.",
-  "tokens": [],
-  "timestamp": "2026-10-04T03:06:44.598143411Z",
+  "translation": "Mme Yahwe a bua le nna: Tshoga, tsamaaya pele ga setshaba, gore ba tsene mme ba laole ⟨את⟩ lefatshe leo ke neng ke tlhotlhomisa go borraabone go go fa bone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme … a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tshoga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsamaaya"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "go palama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gore ba tsene"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ba laole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ne ke tlhotlhomisa"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "go borraabone"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go go fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:34:57.119591593Z",
   "model": "glm-5.3"
 }

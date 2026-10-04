@@ -5,27 +5,27 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 26,
-  "translation": "Mme a re isa go ⟨the⟩ lefelo le, mme a re neela ⟨את⟩ lefatshe le, lefatshe le elelang mashi le asene.",
+  "translation": "Mme o re isa kwa lefelong leno, mme a re neela ⟨את⟩ lefatshe leno, lefatshe le le telsang mashi le boitshepe.",
   "tokens": [
     {
       "surface": "ויבאנו",
-      "gloss": "a re isa"
+      "gloss": "mme o re isa"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "kwa"
     },
     {
       "surface": "המקום",
-      "gloss": "lefelo"
+      "gloss": "lefelong"
     },
     {
       "surface": "הזה",
-      "gloss": "le"
+      "gloss": "leno"
     },
     {
       "surface": "ויתן",
-      "gloss": "a re neela"
+      "gloss": "mme a neela"
     },
     {
       "surface": "לנו",
@@ -34,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lefatshe"
+      "marks": "lefatshe leno"
     },
     {
       "surface": "הארץ",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "le"
+      "gloss": "leno"
     },
     {
       "surface": "ארץ",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "זבת",
-      "gloss": "le elelang"
+      "gloss": "le le telsang"
     },
     {
       "surface": "חלב",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "ודבש",
-      "gloss": "le asene"
+      "gloss": "le boitshepe"
     }
   ],
-  "timestamp": "2026-10-03T22:29:56.210543170Z",
+  "timestamp": "2026-10-04T03:48:57.200067835Z",
   "model": "glm-5.3"
 }

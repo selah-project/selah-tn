@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Se se neng se le teng ke sone se tla diragalang, mme se se dirilweng ke sone se tla dirwaga; mme ga go na sepe se sešwa ka fa tlase ga letsatsi.",
+  "translation": "Se se neng se le teng ke sona se se tlang go nna teng, mme se se dirilweng ke sona se se tlang go dirwa; mme ga go na sepe se seswa ka fa tlase ga letsatsi.",
   "tokens": [
     {
       "surface": "מה",
-      "gloss": "se"
+      "gloss": "se se neng se le teng"
     },
     {
       "surface": "שהיה",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ke sone"
+      "gloss": "ke sona"
     },
     {
       "surface": "שיהיה",
-      "gloss": "se tla diragalang"
+      "gloss": "se se tlang go nna teng"
     },
     {
       "surface": "ומה",
-      "gloss": "mme se"
+      "gloss": "mme se se dirilweng"
     },
     {
       "surface": "שנעשה",
-      "gloss": "se se dirilweng"
+      "gloss": "se dirilweng"
     },
     {
       "surface": "הוא",
-      "gloss": "ke sone"
+      "gloss": "ke sona"
     },
     {
       "surface": "שיעשה",
-      "gloss": "se tla dirwaga"
+      "gloss": "se se tlang go dirwa"
     },
     {
       "surface": "ואין",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "חדש",
-      "gloss": "se sešwa"
+      "gloss": "se seswa"
     },
     {
       "surface": "תחת",
@@ -60,6 +60,6 @@
       "gloss": "letsatsi"
     }
   ],
-  "timestamp": "2026-10-04T02:12:38.538365621Z",
+  "timestamp": "2026-10-04T03:46:13.924902320Z",
   "model": "glm-5.3"
 }

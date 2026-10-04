@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 7,
-  "translation": "Mme ⟨את⟩ mafura a yone a mangwe o tlaa a tlisa, ⟨את⟩ mogala le ⟨את⟩ mafura a a falotsang sepheng se se mo teng.",
+  "translation": "Mme o tla neela mo go yone ⟨את⟩ mafura a yone ona: ⟨את⟩ mokwatla wa mafura le ⟨את⟩ mafura a a khurumedang ⟨את⟩ mala.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "mme ⟨את⟩",
-      "marks": "mafura oompe"
+      "gloss": "Mme ⟨את⟩",
+      "marks": "mafura a yone ona"
     },
     {
       "surface": "כל",
-      "gloss": "a mangwe"
+      "gloss": "ona"
     },
     {
       "surface": "חלבו",
@@ -22,20 +22,20 @@
     },
     {
       "surface": "יקריב",
-      "gloss": "o tlaa a tlisa"
+      "gloss": "o tla neela"
     },
     {
       "surface": "ממנו",
-      "gloss": "ho tswa ho yona"
+      "gloss": "mo go yone"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mogala"
+      "marks": "mokwatla wa mafura"
     },
     {
       "surface": "האליה",
-      "gloss": "mogala"
+      "gloss": "mokwatla wa mafura"
     },
     {
       "surface": "ואת",
@@ -48,18 +48,18 @@
     },
     {
       "surface": "המכסה",
-      "gloss": "a a falotsang"
+      "gloss": "a a khurumedang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dintho tse di mo teng"
+      "marks": "mala"
     },
     {
       "surface": "הקרב",
-      "gloss": "dintho tse di mo teng"
+      "gloss": "mala"
     }
   ],
-  "timestamp": "2026-10-03T21:51:44.810729692Z",
+  "timestamp": "2026-10-04T03:32:26.010903334Z",
   "model": "glm-5.3"
 }

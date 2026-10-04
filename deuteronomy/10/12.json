@@ -5,8 +5,115 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 10,
-  "translation": "Mme jaanong, Yisraele, ke eng Yahwe Elohim wa gago a se kang a go kopa fela — go tshaba Yahwe Elohim wa gago, go tsamaya mo ditsebeng tsa gagwe tsotlhe, go mo rata, le go direla Yahwe Elohim wa gago ka pelo ya gago yotlhe le ka moya wa gago otlhe.",
-  "tokens": [],
-  "timestamp": "2026-10-04T03:06:44.600017830Z",
+  "translation": "Mme jaanong, Yisraele, ke eng Yahwe Elohim wa gago a se a kopa go wena, fela e seng go tshaba ⟨את⟩ Yahwe Elohim wa gago, go tsamaya mo ditseleng tsa gagwe tsotlhe, go mo rata, le go direla ⟨את⟩ Yahwe Elohim wa gago ka pelo ya gago yotlhe le ka moya wa gago otlhe?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jaanong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "a kopa"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "go tshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo … tsotlhe"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ditseleng tsa gagwe"
+    },
+    {
+      "surface": "ולאהבה",
+      "gloss": "go mo rata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "go direla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka … yotlhe"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka … otlhe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:34:57.119911213Z",
   "model": "glm-5.3"
 }

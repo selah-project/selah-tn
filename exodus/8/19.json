@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 8,
+  "translation": "Mme ke tla dira pheduso magareng ga setshaba sa me le setshaba sa gago; moso se se supo se tla nna teng.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "pheduso"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le magareng ga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setshaba sa gago"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla nna teng"
+    },
+    {
+      "surface": "האת",
+      "gloss": "se se supo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-04T03:30:07.698736052Z",
+  "model": "glm-5.3"
+}

@@ -5,8 +5,50 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 21,
-  "translation": "Mme a kwala mo diphukwaneng a re: Baitse tsela ya tlhokomololo—⟨the⟩ boela jwa dijo, mme baye Nabote kwa tlhogo ya setshaba.",
-  "tokens": [],
-  "timestamp": "2026-10-03T23:29:20.169625806Z",
+  "translation": "Mme a kwala mo mangolong a re: Baleletsa boima, mme moletse ⟨את⟩ Nabote kwa tlhogo ya setshaba.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "mme a kwala"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "mo mangolong"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "baleletsa"
+    },
+    {
+      "surface": "צום",
+      "gloss": "boima"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "mme moletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabote"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabote"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "kwa tlhogo ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    }
+  ],
+  "timestamp": "2026-10-04T03:38:47.090702718Z",
   "model": "glm-5.3"
 }

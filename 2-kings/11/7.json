@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "tn",
   "chapter": 11,
-  "translation": "Le dikarolo tse pedi tsa lona, botlhe ba ba tswang ka ⟨the⟩ Shabata, ba tla boloka ⟨את⟩ tshireletso ya ntlo ya Yahwe go dikologa kgosi.",
+  "translation": "Mme dikarolo tse pedi tse di mo gare ga lona, botlhe ba ba tsamayang ka letsatsi la Shabata, di tla boloka ⟨את⟩ tlhokomelo ya ntlo ya Yahwe go dikologa kgosi.",
   "tokens": [
     {
       "surface": "ושתי",
-      "gloss": "le dikarolo tse pedi"
+      "gloss": "Mme dikarolo tse pedi"
     },
     {
       "surface": "הידות",
-      "gloss": "tsa lona"
+      "gloss": "maemo"
     },
     {
       "surface": "בכם",
-      "gloss": "mo go lona"
+      "gloss": "mo gare ga lona"
     },
     {
       "surface": "כל",
@@ -25,32 +25,32 @@
     },
     {
       "surface": "יצאי",
-      "gloss": "ba ba tswang"
+      "gloss": "ba ba tsamayang"
     },
     {
       "surface": "השבת",
-      "gloss": "ka Shabata"
+      "gloss": "ka letsatsi la Shabata"
     },
     {
       "surface": "ושמרו",
-      "gloss": "ba tla boloka"
+      "gloss": "di tla boloka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tshireletso"
+      "marks": "tlhokomelo"
     },
     {
       "surface": "משמרת",
-      "gloss": "tshireletso"
+      "gloss": "tlhokomelo"
     },
     {
       "surface": "בית",
-      "gloss": "ya ntlo"
+      "gloss": "ntlo"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "אל",
@@ -61,6 +61,6 @@
       "gloss": "kgosi"
     }
   ],
-  "timestamp": "2026-10-03T23:36:26.183436486Z",
+  "timestamp": "2026-10-04T03:39:10.075498381Z",
   "model": "glm-5.3"
 }

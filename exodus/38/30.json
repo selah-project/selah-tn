@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 38,
-  "translation": "Mme ka yona a dira ⟨את⟩ manala a sefofane sa ⟨the⟩ kgoro ya bohuta jwa setlhabelo, ⟨את⟩ aletare ya tshipi, le ⟨את⟩ marala a yone a tshipi a a nang le one, le ⟨את⟩ dithuso tsotlhe tsa aletare.",
+  "translation": "Mme ka yona a dira ⟨את⟩ ditswe tsa kgoro ya setente sa kopano, le ⟨את⟩ althara ya kopore, le ⟨את⟩ sekefo sa kopore se e nang le sone, le ⟨את⟩ dithuluso tsotlhe tsa althara.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "mme a dira"
+      "gloss": "a dira"
     },
     {
       "surface": "בה",
@@ -18,62 +18,62 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "manala"
+      "marks": "ditswe"
     },
     {
       "surface": "אדני",
-      "gloss": "manala"
+      "gloss": "ditswe"
     },
     {
       "surface": "פתח",
-      "gloss": "sefofane sa"
+      "gloss": "kgoro"
     },
     {
       "surface": "אהל",
-      "gloss": "bohuta"
+      "gloss": "setente"
     },
     {
       "surface": "מועד",
-      "gloss": "setlhabelo"
+      "gloss": "kopano"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "aletare ya tshipi"
+      "marks": "althara"
     },
     {
       "surface": "מזבח",
-      "gloss": "aletare"
+      "gloss": "althara"
     },
     {
       "surface": "הנחשת",
-      "gloss": "ya tshipi"
+      "gloss": "ya kopore"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "marala a tshipi"
+      "marks": "sekefo"
     },
     {
       "surface": "מכבר",
-      "gloss": "marala"
+      "gloss": "sekefo"
     },
     {
       "surface": "הנחשת",
-      "gloss": "a tshipi"
+      "gloss": "ya kopore"
     },
     {
       "surface": "אשר",
-      "gloss": "a a nang le one"
+      "gloss": "se"
     },
     {
       "surface": "לו",
-      "gloss": "a yone"
+      "gloss": "e nang le sone"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "dithuso tsotlhe"
+      "marks": "dithuluso tsotlhe"
     },
     {
       "surface": "כל",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "כלי",
-      "gloss": "dithuso"
+      "gloss": "dithuluso"
     },
     {
       "surface": "המזבח",
-      "gloss": "tsa aletare"
+      "gloss": "tsa althara"
     }
   ],
-  "timestamp": "2026-10-03T21:48:42.061258049Z",
+  "timestamp": "2026-10-04T03:32:05.152459547Z",
   "model": "glm-5.3"
 }

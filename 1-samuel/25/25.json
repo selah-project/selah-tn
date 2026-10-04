@@ -5,8 +5,127 @@
   "book": "1-samuel",
   "lang": "tn",
   "chapter": 25,
-  "translation": "Kaelo ya ga mong wa me e se ka wa bewa mo tlhokong ya motho yo o sa tsayeng sepe, mo Nabale, gonne jaaka leina la gagwe le ntse jalo, ke ene: Nabale ke leina la gagwe, mme bokgakala bo mo go ene; mme nna, moṡhomi wa gago, ga ke a bona ⟨את⟩ basha ba ga mong wa me ba o ba rometseng.",
-  "tokens": [],
-  "timestamp": "2026-10-03T23:05:44.962474757Z",
+  "translation": "A se ka, ke kopa, morena wa me a baya ⟨את⟩ pelo ya gagwe mo mothong yo o sa siamang yo, mo go Nabale, gonne jaaka leina la gagwe, jalo ke ena: Nabale ke leina la gagwe, mme bokgaka bo mo gagwe; mme nna, khomi ya gago, ga ke a bona ⟨את⟩ basha ba morena wa me bao o ba romileng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a se ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya gagwe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mothong"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "yo o sa siamang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "כשמו",
+      "gloss": "jaaka leina la gagwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ena"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabale"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "mme bokgaka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bo mo gagwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "khomi ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basha ba morena wa me"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "basha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "o ba romileng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:38:39.515996977Z",
   "model": "glm-5.3"
 }

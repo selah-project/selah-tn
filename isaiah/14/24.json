@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Yahwe Tsebaote o ile a ikana a re: Go tla nna jaaka ke akantse, e bile jaaka ke maletse, jalo ke tla nna jalo.",
+  "translation": "Yahwe Tsebaote oa go naya maatla go bua: Ruri, jaaka ke ne ke akantse, jalo ⟨ke⟩ gone jaaka e neng e le; mme jaaka ke ne ke ruta ka lenaane, jalo e tla ema.",
   "tokens": [
     {
       "surface": "נשבע",
-      "gloss": "o ile a ikana"
+      "gloss": "oa go naya maatla"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "a re"
+      "gloss": "go bua"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "Ruri"
     },
     {
       "surface": "לא",
-      "gloss": "go tla nna jaaka"
+      "gloss": "ga"
     },
     {
       "surface": "כאשר",
@@ -37,33 +37,33 @@
     },
     {
       "surface": "דמיתי",
-      "gloss": "ke akantse"
+      "gloss": "ke ne ke akantse"
     },
     {
       "surface": "כן",
-      "gloss": "e bile jaaka"
-    },
-    {
-      "surface": "היתה",
-      "gloss": "ke maletse"
-    },
-    {
-      "surface": "וכאשר",
       "gloss": "jalo"
     },
     {
+      "surface": "היתה",
+      "gloss": "e neng e le"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "mme jaaka"
+    },
+    {
       "surface": "יעצתי",
-      "gloss": "ke tla nna jalo"
+      "gloss": "ke ne ke ruta ka lenaane"
     },
     {
       "surface": "היא",
-      "gloss": ""
+      "gloss": "e"
     },
     {
       "surface": "תקום",
-      "gloss": ""
+      "gloss": "e tla ema"
     }
   ],
-  "timestamp": "2026-10-03T23:47:04.993514942Z",
+  "timestamp": "2026-10-04T03:39:50.181326815Z",
   "model": "glm-5.3"
 }

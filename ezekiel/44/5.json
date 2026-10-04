@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 44,
-  "translation": "Mme Yahwe a bua le nna: Morwa motho, baya pelo ya gago, mme o bone ka matlho a gago, mme utlwe ka ditsebe tsa gago ⟨את⟩ tsotlhe tse ke di buang ⟨את⟩ le wena, ka ga dikaelo tsotlhe tsa ntlo ya Yahwe le Torah ya yone yotlhe; mme o baye pelo ya gago go ya go tsena ga ⟨the⟩ ntlo, le mo ditlhagoneng tsotlhe tsa boitshepo.",
+  "translation": "Mme Yahwe a bua le nna: Morwa wa motho, baya pelo ya gago, mme bona ka mahiti a gago, mme ka ditsebe tsa gago utlwa ⟨את⟩ sengwe le sengwe se ke se buang ⟨את⟩ le wena, ka ga melawana yotlhe ya ntlo ya Yahwe le Torotlhe ya yona; mme o baye pelo ya gago go tsena ga ntlo, ka ditlhatshana tsotlhe tsa boitshepo.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "morwa"
+      "gloss": "Morwa"
     },
     {
       "surface": "אדם",
-      "gloss": "motho"
+      "gloss": "wa motho"
     },
     {
       "surface": "שים",
@@ -37,32 +37,32 @@
     },
     {
       "surface": "וראה",
-      "gloss": "mme o bone"
+      "gloss": "mme bona"
     },
     {
       "surface": "בעיניך",
-      "gloss": "ka matlho a gago"
+      "gloss": "ka mahiti a gago"
     },
     {
       "surface": "ובאזניך",
-      "gloss": "le ka ditsebe tsa gago"
+      "gloss": "mme ka ditsebe tsa gago"
     },
     {
       "surface": "שמע",
-      "gloss": "utlwe"
+      "gloss": "utlwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tsotlhe tse ke di buang le wena"
+      "marks": "sengwe le sengwe"
     },
     {
       "surface": "כל",
-      "gloss": "tsotlhe"
+      "gloss": "sengwe le sengwe"
     },
     {
       "surface": "אשר",
-      "gloss": "tse"
+      "gloss": "se"
     },
     {
       "surface": "אני",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מדבר",
-      "gloss": "di bua"
+      "gloss": "se ke se buang"
     },
     {
       "surface": "אתך",
@@ -78,27 +78,27 @@
     },
     {
       "surface": "לכל",
-      "gloss": "ka ga dikaelo tsotlhe"
+      "gloss": "ka ga … yotlhe"
     },
     {
       "surface": "חקות",
-      "gloss": "dikaElE tsotlhe"
+      "gloss": "melawana yotlhe"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo ya"
+      "gloss": "ya ntlo"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "ya Yahwe"
     },
     {
       "surface": "ולכל",
-      "gloss": "le Torah ya yone yotlhe"
+      "gloss": "le … yotlhe"
     },
     {
       "surface": "תורתו",
-      "gloss": "Torah ya yone"
+      "gloss": "Torotlhe ya yona"
     },
     {
       "surface": "ושמת",
@@ -110,25 +110,25 @@
     },
     {
       "surface": "למבוא",
-      "gloss": "go ya go tsena"
+      "gloss": "go tsena ga"
     },
     {
       "surface": "הבית",
-      "gloss": "ga ntlo"
+      "gloss": "ntlo"
     },
     {
       "surface": "בכל",
-      "gloss": "mo ditlhagoneng tsotlhe"
+      "gloss": "ka … tsotlhe"
     },
     {
       "surface": "מוצאי",
-      "gloss": "ditlhago"
+      "gloss": "ditlhatshana tsotlhe"
     },
     {
       "surface": "המקדש",
-      "gloss": "boitshepo"
+      "gloss": "tsa boitshepo"
     }
   ],
-  "timestamp": "2026-10-04T00:51:30.552979649Z",
+  "timestamp": "2026-10-04T03:43:00.551364302Z",
   "model": "glm-5.3"
 }

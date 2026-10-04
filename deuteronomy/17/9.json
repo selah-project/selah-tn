@@ -5,31 +5,31 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 17,
-  "translation": "Mme o tla tsena go ⟨⟨the⟩⟩ bakohane — Balevi — le go ⟨⟨the⟩⟩ moatlhodi yo o tla bang kwa matsatsing ao; o tlhatlhobe, mme ba tla go bolelela ⟨את⟩ lefoko la katlholo.",
+  "translation": "Mme o tla boa o tsena kwa baporing ba balevi, le kwa moatlhoding yo o tlang go nna mo malatsing ao, mme o batla, mme ba tla go bolelela ⟨את⟩ lefoko la katlholo.",
   "tokens": [
     {
       "surface": "ובאת",
-      "gloss": "o tla tsena"
+      "gloss": "mme o tla boa o tsena"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "kwa"
     },
     {
       "surface": "הכהנים",
-      "gloss": "bakohane"
+      "gloss": "baporofeti"
     },
     {
       "surface": "הלוים",
-      "gloss": "Balevi"
+      "gloss": "balevi"
     },
     {
       "surface": "ואל",
-      "gloss": "le go"
+      "gloss": "le kwa"
     },
     {
       "surface": "השפט",
-      "gloss": "moatlhodi"
+      "gloss": "moatlhoding"
     },
     {
       "surface": "אשר",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "o tla bang"
+      "gloss": "o tlang go nna"
     },
     {
       "surface": "בימים",
-      "gloss": "kwa matsatsing"
+      "gloss": "mo malatsing"
     },
     {
       "surface": "ההם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ודרשת",
-      "gloss": "o tlhatlhobe"
+      "gloss": "mme o batla"
     },
     {
       "surface": "והגידו",
-      "gloss": "ba tla go bolelela"
+      "gloss": "mme ba tla go bolelela"
     },
     {
       "surface": "לך",
@@ -73,6 +73,6 @@
       "gloss": "la katlholo"
     }
   ],
-  "timestamp": "2026-10-03T22:28:20.620664496Z",
+  "timestamp": "2026-10-04T03:34:47.125614231Z",
   "model": "glm-5.3"
 }

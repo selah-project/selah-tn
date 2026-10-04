@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Moya wa me o ne o ikhunyafatsa ka Elohim, ka El yo o tlhago; ke tla ka nngwe ke tla mme ke bonale sefathego sa Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "o ne o ikhunyafatsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ka El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yo o tlhago"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ke tla ka nngwe"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ke tla"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mme ke bonale"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefathego sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T03:44:26.798884750Z",
+  "model": "glm-5.3"
+}

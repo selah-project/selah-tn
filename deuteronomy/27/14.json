@@ -5,8 +5,45 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Mme balapedi ba tlaa bua, mme ba re mo Setswaneng se se buang thata, se se reng",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:30:22.621540541Z",
+  "translation": "Mme Balevi ba tla araba, ba boela ba bulelela mo bathong botlhe ba Yisraele, ka lentswe le le kwa godimo:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ba tla araba"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ba boela ba bulelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo bathong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ka lentswe"
+    },
+    {
+      "surface": "רם",
+      "gloss": "le le kwa godimo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:35:34.552226627Z",
   "model": "glm-5.3"
 }

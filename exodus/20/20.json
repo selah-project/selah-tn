@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme Moshe a re go setšhaba: Lo se ke lwa tshaba; gonne e seng gore go le laka ⟨את⟩ lena Elohim o tlile, le gore tshabo ya gagwe e nne pele ga sefathego sa lona, gore lo se ke lwa dira bobe.",
+  "translation": "Mme Moshe a re go setshaba: Se ke wa boe wa tsoga, gore Elohim o tla go leka, le gore tsogo ya gagwe e nne pele ga dipono tsa ⟨את⟩ lona, gore o se ke wa dira phoso.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,36 +21,35 @@
     },
     {
       "surface": "העם",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "אל",
-      "gloss": "lo se ke"
+      "gloss": "se ke"
     },
     {
       "surface": "תיראו",
-      "gloss": "lwa tshaba"
+      "gloss": "wa tsoga"
     },
     {
       "surface": "כי",
-      "gloss": "gonne"
+      "gloss": "gore"
     },
     {
       "surface": "לבעבור",
-      "gloss": "e seng gore"
+      "gloss": "go"
     },
     {
       "surface": "נסות",
-      "gloss": "go le laka"
+      "gloss": "go leka"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "lena"
+      "gloss": "⟨את⟩ lona"
     },
     {
       "surface": "בא",
-      "gloss": "o tlile"
+      "gloss": "o tla"
     },
     {
       "surface": "האלהים",
@@ -66,7 +65,7 @@
     },
     {
       "surface": "יראתו",
-      "gloss": "tshabo ya gagwe"
+      "gloss": "tsogo ya gagwe"
     },
     {
       "surface": "על",
@@ -74,17 +73,17 @@
     },
     {
       "surface": "פניכם",
-      "gloss": "sefathego sa lona"
+      "gloss": "dipono tsa lona"
     },
     {
       "surface": "לבלתי",
-      "gloss": "gore lo se ke"
+      "gloss": "gore o se ke"
     },
     {
       "surface": "תחטאו",
-      "gloss": "lwa dira bobe"
+      "gloss": "wa dira phoso"
     }
   ],
-  "timestamp": "2026-10-03T21:40:16.215262308Z",
+  "timestamp": "2026-10-04T03:30:48.046766550Z",
   "model": "glm-5.3"
 }

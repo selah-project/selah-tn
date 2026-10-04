@@ -5,8 +5,37 @@
   "book": "zechariah",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Bonwe, letsatsi le le tlago go ya go Yahwe, mmeДиvishe... Dipoelo tsa gago di tla kgaoganngwa fa gare ga gago.",
-  "tokens": [],
-  "timestamp": "2026-10-04T01:11:12.965408756Z",
+  "translation": "Bonwe, letsatsi le tsela go Yahwe, mme dikepe tsa gago di tla kgaogangwa mo teng ga gago.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "le tsela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "mme di tla kgaogangwa"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "dikepe tsa gago"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mo teng ga gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:43:28.162546401Z",
   "model": "glm-5.3"
 }

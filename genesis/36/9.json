@@ -5,8 +5,37 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 36,
-  "translation": "Mme bana bano ke bana ba boipelego ba Esawe, rrr... ",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:24:58.089623525Z",
+  "translation": "Mme ene ke bana ba Esau, rraagwe Edome, kwa thabeng ya Seire.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme ene"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwa thabeng ya"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seire"
+    }
+  ],
+  "timestamp": "2026-10-04T03:30:31.560521450Z",
   "model": "glm-5.3"
 }

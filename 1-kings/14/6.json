@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Mme go ne go le jalo, fa Ahiya a utlwa ⟨את⟩ modumo wa maoto a gagwe a tsena kwa lebateng, a re: Tsena, mosadi wa Yeroboame; ke eng se o itira mošwa? Gonne ke romilwe go wena ka se se boima.",
+  "translation": "Mme fa Ahiya a utlwa ⟨את⟩ modumo wa dinao tsa gagwe a tsena mo kgorong, a re: Tsena, mosadi wa Yeroboame; ke eng fa se — wena o itira yo mongwe? Mme nna ke romilwe go wena ka dika tse di bokete.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Mme go ne go le jalo"
+      "gloss": "mme go nna"
     },
     {
       "surface": "כשמע",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "רגליה",
-      "gloss": "wa maoto a gagwe"
+      "gloss": "wa dinao tsa gagwe"
     },
     {
       "surface": "באה",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "בפתח",
-      "gloss": "kwa lebateng"
+      "gloss": "mo kgorong"
     },
     {
       "surface": "ויאמר",
-      "gloss": "mme a re"
+      "gloss": "a re"
     },
     {
       "surface": "באי",
-      "gloss": "Tsena"
+      "gloss": "tsena"
     },
     {
       "surface": "אשת",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "למה",
-      "gloss": "ke eng"
+      "gloss": "ke eng fa"
     },
     {
       "surface": "זה",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "מתנכרה",
-      "gloss": "o itira mošwa"
+      "gloss": "o itira yo mongwe"
     },
     {
       "surface": "ואנכי",
-      "gloss": "Gonne ke"
+      "gloss": "mme nna"
     },
     {
       "surface": "שלוח",
-      "gloss": "romilwe"
+      "gloss": "ke romilwe"
     },
     {
       "surface": "אליך",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "קשה",
-      "gloss": "ka se se boima"
+      "gloss": "dika tse di bokete"
     }
   ],
-  "timestamp": "2026-10-03T23:27:21.145031374Z",
+  "timestamp": "2026-10-04T03:39:36.059034195Z",
   "model": "glm-5.3"
 }

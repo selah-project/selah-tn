@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 16,
-  "translation": "Gore ka letsatsi leno o tla dira boitshwarelo go lona, go lopa ⟨את⟩ lona go tswa mo dibe tsa lona tse dišhe; fa pele ga Yahwe lo tla bo lo itekanetse.",
+  "translation": "Gore ka letsatsi leno go tla dirwa kaponerelo ya lona gore lo hlaphohetsege, go lo ntsha mo diphosong tsotlhe tsa lona; fa pele ga Yahwe lo tla hlaphohema.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "יכפר",
-      "gloss": "o tla dira boitshwarelo"
+      "gloss": "go tla dirwa kaponerelo"
     },
     {
       "surface": "עליכם",
-      "gloss": "go lona"
+      "gloss": "ya lona"
     },
     {
       "surface": "לטהר",
-      "gloss": "go lopa"
+      "gloss": "gore lo hlaphohetsege"
     },
     {
       "surface": "אתכם",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "go tswa mo tsotlhe"
+      "gloss": "mo tsotlhe"
     },
     {
       "surface": "חטאתיכם",
-      "gloss": "dibe tsa lona"
+      "gloss": "diphoso tsa lona"
     },
     {
       "surface": "לפני",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "תטהרו",
-      "gloss": "lo tla itekanetse"
+      "gloss": "lo tla hlaphohema"
     }
   ],
-  "timestamp": "2026-10-03T21:57:54.278483975Z",
+  "timestamp": "2026-10-04T03:33:25.101571223Z",
   "model": "glm-5.3"
 }

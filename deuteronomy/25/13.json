@@ -5,8 +5,41 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 25,
-  "translation": "Ga go ke ke go nna le sebagiwa se sengwe le se sengwe mo motseng wa gago, leje le le lengwe le leje le le lengwe, legolo le le simolola kgolo le le lengwe le le simolola nyenyane.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:29:10.915660258Z",
+  "translation": "Ga o nne le ⟨ke⟩ mo sekotong sa gago leje le leje, le kgolo le le nnye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o nne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "le"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "mo sekotong sa gago"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "leje"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "le leje"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "le kgolo"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "le le nnye"
+    }
+  ],
+  "timestamp": "2026-10-04T03:34:39.106545102Z",
   "model": "glm-5.3"
 }

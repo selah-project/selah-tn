@@ -5,8 +5,45 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 28,
-  "translation": "mme ke boela ka kagiso go ya kwa ntlong ya rraagwane — ya me, mme Yahwe a nnelela Elohim.",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:21:37.547452723Z",
+  "translation": "mme ke boela ka kagiso mo tlhatlhong ga rraagwane — mme Yahwe a nnela ⟨ke⟩ Elohim",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "mme ke boela"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ka kagiso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo tlhatlhong ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tlhatlho"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rraagwane"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme a nnela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T03:30:20.881734285Z",
   "model": "glm-5.3"
 }

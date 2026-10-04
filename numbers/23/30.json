@@ -5,8 +5,45 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 23,
-  "translation": "Mme Balake a dira jaaka Bileame a ntse a bua, mme a neela poo le tonki ya nku mo altareng.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:13:31.552810665Z",
+  "translation": "Mme Balake a dira jaaka Bileame a buileng; a neela kgomo le pardi mo alatareng ngwe le ngwe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jaaka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a buileng"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileame"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a neella"
+    },
+    {
+      "surface": "פר",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "le pardi"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "mo alatareng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:34:07.648825095Z",
   "model": "glm-5.3"
 }

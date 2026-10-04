@@ -5,8 +5,83 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 6,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:21:41.752884631Z",
+  "translation": "Mme Yahwe o ne a re laela go dira ⟨את⟩ melawana yotlhe e, gore re itse gore re tshabe Yahwe Elohim wa rona, e nnela rona molemo letsatsi le le lengwe le le lengwe, a re boloke a tshela jaaka gompieno.",
+  "tokens": [
+    {
+      "surface": "ויצונו",
+      "gloss": "Mme Yahwe o ne a re laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melawana yotlhe e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "go tshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa rona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "e nnela rona molemo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "לחיתנו",
+      "gloss": "a re boloke a tshela"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "jaaka letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-10-04T03:35:23.308389059Z",
   "model": "glm-5.3"
 }

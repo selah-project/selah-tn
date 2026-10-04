@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tn",
   "chapter": 20,
-  "translation": "A ga wena, Elohim ya rona, ⟨he⟩ o ne wa ntsha ⟨את⟩ badudi ba lefatshe leno go tswa pele ga sechaba sa gago Yisraele, mme wa e neela peo ya Abrahame yo o mo ratang, go isa lelele?",
+  "translation": "A ga wena Elohim wa rona, o ne wa fudusa ⟨את⟩ baagi ba lefatshe leno go tswa fa pele ga setshaba sa gago Yisraele, mme wa e neela peo ya Abrahame yo o mo ratang, ka bosikhale?",
   "tokens": [
     {
       "surface": "הלא",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim ya rona"
+      "gloss": "Elohim wa rona"
     },
     {
       "surface": "הורשת",
-      "gloss": "o ne wa ntsha"
+      "gloss": "o ne wa fudusa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "badudi ba lefatshe leno"
+      "marks": "baagi ba lefatshe leno"
     },
     {
       "surface": "ישבי",
-      "gloss": "badudi"
+      "gloss": "baagi"
     },
     {
       "surface": "הארץ",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "מלפני",
-      "gloss": "go tswa pele ga"
+      "gloss": "go tswa fa pele ga"
     },
     {
       "surface": "עמך",
-      "gloss": "sechaba sa gago"
+      "gloss": "setshaba sa gago"
     },
     {
       "surface": "ישראל",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "go isa lelele"
+      "gloss": "ka bosikhale"
     }
   ],
-  "timestamp": "2026-10-04T03:26:44.786110602Z",
+  "timestamp": "2026-10-04T03:46:42.363463160Z",
   "model": "glm-5.3"
 }

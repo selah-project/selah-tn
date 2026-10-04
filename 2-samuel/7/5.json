@@ -5,8 +5,65 @@
   "book": "2-samuel",
   "lang": "tn",
   "chapter": 7,
-  "translation": "Tsamaya, o bolelele le go re go modiredi wa me, go Dawide: jaana go bua Yahwe: A wena ke bona o ka mpe o agele kgweno yodimo yodimo e ntšhwa, e bile ke tlaa nna ke le teng, mme o ne o sa le kwa teng?",
-  "tokens": [],
-  "timestamp": "2026-10-03T23:10:57.258487526Z",
+  "translation": "Tsamaya, o re go modiri wa me, go Dawide: go bua jalo Yahwe: A wena o tlaa agela ntlo ya go nna ke nna mo go yone?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tsamaya"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "o re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "modiri wa me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "A wena"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "o tlaa agela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "ya go nna mo go yone"
+    }
+  ],
+  "timestamp": "2026-10-04T03:37:41.828840877Z",
   "model": "glm-5.3"
 }

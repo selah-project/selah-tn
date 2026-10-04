@@ -5,49 +5,49 @@
   "book": "2-kings",
   "lang": "tn",
   "chapter": 17,
-  "translation": "Mme ba dira gore ⟨את⟩ bara ba bone le ⟨את⟩ barwedi ba bone ba fete ka molelo, ba dira dibupo tsa bone le go nagadiša—e seng go nagadiša, ba beeletsa go dira bosula mo matlhong a Yahwe, go mo galefela.",
+  "translation": "Mme ba ne ba isa ⟨את⟩ barwa ba bone le ⟨את⟩ barwadi ba bone mo moleng, ba dira tlhatlhobo ya matsogo, ba aga le ka go laola, mme ba ithekisetsa go dira bosula mo ditsong tsa Yahwe, go a galefitse.",
   "tokens": [
     {
       "surface": "ויעבירו",
-      "gloss": "ba dira go feta"
+      "gloss": "ba ne ba isa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bara ba bone"
+      "marks": "barwa ba bone"
     },
     {
       "surface": "בניהם",
-      "gloss": "bara ba bone"
+      "gloss": "barwa ba bone"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "barwedi ba bone"
+      "marks": "barwadi ba bone"
     },
     {
       "surface": "בנותיהם",
-      "gloss": "barwedi ba bone"
+      "gloss": "barwadi ba bone"
     },
     {
       "surface": "באש",
-      "gloss": "ka molelo"
+      "gloss": "mo moleng"
     },
     {
       "surface": "ויקסמו",
-      "gloss": "ba dira dibupo"
+      "gloss": "ba dira tlhatlhobo"
     },
     {
       "surface": "קסמים",
-      "gloss": "dibupo"
+      "gloss": "ya matsogo"
     },
     {
       "surface": "וינחשו",
-      "gloss": "ba nagadiša"
+      "gloss": "ba aga le ka go laola"
     },
     {
       "surface": "ויתמכרו",
-      "gloss": "ba ithekela"
+      "gloss": "ba ithekisetsa"
     },
     {
       "surface": "לעשות",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "mo matlhong a"
+      "gloss": "mo ditsong tsa"
     },
     {
       "surface": "יהוה",
@@ -67,9 +67,9 @@
     },
     {
       "surface": "להכעיסו",
-      "gloss": "go mo galefela"
+      "gloss": "go a galefitse"
     }
   ],
-  "timestamp": "2026-10-04T03:10:59.617085001Z",
+  "timestamp": "2026-10-04T03:39:43.924842203Z",
   "model": "glm-5.3"
 }

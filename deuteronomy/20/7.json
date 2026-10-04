@@ -5,23 +5,23 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme ke mang ⟨⟨the⟩⟩ motho yo o reretseng mosadi mme a sa mo tsaya? A tsamaye a boele kwa ntlong ya gagwe, gore a se ke a swa mo ntweng, mme motho yo mongwe a mo tsaye.",
+  "translation": "Mme ke mang yo o pegileng mosadi kgotsa a sa mo tsaya? A a tsamaye a boe kwa ntlong ya gagwe, gore a se ke a swa mo ntweng, mme motho yo mongwe a mo tseye.",
   "tokens": [
     {
       "surface": "ומי",
-      "gloss": "Mme ke mang"
+      "gloss": "mme ke mang"
     },
     {
       "surface": "האיש",
-      "gloss": "motho"
-    },
-    {
-      "surface": "אשר",
       "gloss": "yo"
     },
     {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
       "surface": "ארש",
-      "gloss": "o reretseng"
+      "gloss": "pegileng"
     },
     {
       "surface": "אשה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ילך",
-      "gloss": "A tsamaye"
+      "gloss": "a tsamaye"
     },
     {
       "surface": "וישב",
-      "gloss": "a boele"
+      "gloss": "a boe"
     },
     {
       "surface": "לביתו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "פן",
-      "gloss": "gore a se ke"
+      "gloss": "gore a se ke a"
     },
     {
       "surface": "ימות",
-      "gloss": "a swa"
+      "gloss": "swa"
     },
     {
       "surface": "במלחמה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "mme motho"
+      "gloss": "mme motho yo mongwe"
     },
     {
       "surface": "אחר",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "יקחנה",
-      "gloss": "a mo tsaye"
+      "gloss": "a mo tseye"
     }
   ],
-  "timestamp": "2026-10-03T22:28:26.321337672Z",
+  "timestamp": "2026-10-04T03:35:27.176826477Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,97 @@
   "book": "1-samuel",
   "lang": "tn",
   "chapter": 17,
-  "translation": "Mme a ema, a bitsa morafe wa masole a Yisraele, a ba re: Ke eng fa lo ntse lo tsamaela go rulaganya ntwa? A ga ke Mmofelistine, e bile lono lokgoba ba Shau? Kgethang monna yo lo mo ratang, a a tle kwa go nna.",
+  "translation": "Mme a ema, a golega kwa diphuthegong tsa Yisraele, a ba re: Ke eng fa lo tsile go rulaganya ntwa? A ga ke na Mofilistea, mme lona lo direla Saele? Tlhophang monna yo lo ratang gore a tle a tlase go nna.",
   "tokens": [
     {
-      "surface": "ומצחת",
-      "gloss": ""
+      "surface": "ויעמד",
+      "gloss": "a ema"
     },
     {
-      "surface": "נחשת",
-      "gloss": ""
+      "surface": "ויקרא",
+      "gloss": "a golega"
     },
     {
-      "surface": "על",
-      "gloss": ""
+      "surface": "אל",
+      "gloss": "kwa"
     },
     {
-      "surface": "רגליו",
-      "gloss": ""
+      "surface": "מערכת",
+      "gloss": "diphuthegong tsa"
     },
     {
-      "surface": "וכידון",
-      "gloss": ""
+      "surface": "ישראל",
+      "gloss": "Yisraele"
     },
     {
-      "surface": "נחשת",
-      "gloss": ""
+      "surface": "ויאמר",
+      "gloss": "a ba re"
     },
     {
-      "surface": "בין",
-      "gloss": ""
+      "surface": "להם",
+      "gloss": "go bone"
     },
     {
-      "surface": "כתפיו",
-      "gloss": ""
+      "surface": "למה",
+      "gloss": "ke eng fa"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "lo tsile"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "go rulaganya"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mofilistea"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "lo direla"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saele"
+    },
+    {
+      "surface": "ברו",
+      "gloss": "tlhophang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a tlase"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
     }
   ],
-  "timestamp": "2026-10-03T23:01:38.653153445Z",
+  "timestamp": "2026-10-04T03:37:32.497491318Z",
   "model": "glm-5.3"
 }

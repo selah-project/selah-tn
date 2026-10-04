@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 9,
-  "translation": "Mme a tlhatswa ⟨את⟩ mala le ⟨את⟩ maoto, mme a di fisa mo go sehlabelo se se fisang, mo go ⟨the⟩ altare.",
+  "translation": "Mme a tlhatswa ⟨את⟩ marothodi a mafura le ⟨את⟩ maoto; mme a a fopholeditse mo sefithelong, mo sefating.",
   "tokens": [
     {
       "surface": "וירחץ",
-      "gloss": "a tlhatswa"
+      "gloss": "Mme a tlhatswa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mala"
+      "marks": "marothodi a mafura"
     },
     {
       "surface": "הקרב",
-      "gloss": "mala"
+      "gloss": "marothodi a mafura"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "le ⟨את⟩",
       "marks": "maoto"
     },
     {
@@ -31,21 +31,21 @@
     },
     {
       "surface": "ויקטר",
-      "gloss": "a di fisa"
+      "gloss": "mme a a fopholeditse"
     },
     {
       "surface": "על",
-      "gloss": "mo go"
+      "gloss": "mo"
     },
     {
       "surface": "העלה",
-      "gloss": "sehlabelo se se fisang"
+      "gloss": "sefithelong"
     },
     {
       "surface": "המזבחה",
-      "gloss": "altareng"
+      "gloss": "sefating"
     }
   ],
-  "timestamp": "2026-10-03T21:52:51.492706074Z",
+  "timestamp": "2026-10-04T03:31:47.450050455Z",
   "model": "glm-5.3"
 }

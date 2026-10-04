@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 16,
-  "translation": "Ke ⟨e⟩ Shabata ya boikhutso go lona; mme lo tla koafatsa ⟨את⟩ bophelo jwa lona — sešwaeno sa bosakhutshwanyane.",
+  "translation": "Shabata ya boikhutso gotlhelele ke ena go lona, mme lo tla kgwatisa ⟨את⟩ mea ya lona; ke molao wa go sa fetoge.",
   "tokens": [
     {
       "surface": "שבת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שבתון",
-      "gloss": "ya boikhutso"
+      "gloss": "ya boikhutso gotlhelele"
     },
     {
       "surface": "היא",
-      "gloss": "ke ⟨e⟩"
+      "gloss": "ke ena"
     },
     {
       "surface": "לכם",
@@ -25,26 +25,26 @@
     },
     {
       "surface": "ועניתם",
-      "gloss": "mme lo tla koafatsa"
+      "gloss": "mme lo tla kgwatisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bophelo jwa lona"
+      "marks": "mea ya lona"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "bophelo jwa lona"
+      "gloss": "mea ya lona"
     },
     {
       "surface": "חקת",
-      "gloss": "sešwaeno sa"
+      "gloss": "molao"
     },
     {
       "surface": "עולם",
-      "gloss": "bosakhutshwanyane"
+      "gloss": "wa go sa fetoge"
     }
   ],
-  "timestamp": "2026-10-03T21:57:54.278618779Z",
+  "timestamp": "2026-10-04T03:33:25.101714131Z",
   "model": "glm-5.3"
 }

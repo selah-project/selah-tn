@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Mme kgosi ya re go bone: Isang le badimi ba mong wa lona, mo lo mmoise Shelomoh morwa wa me mo ⟨ה⟩mule wa me, mme lo mo isotse kwa Gikhone.",
+  "translation": "Mme kgosi ya re go bone: Tsayang le lona badiri ba morena wa lona, mme lo madise ⟨את⟩ Shelomoho morwa ka mo phardaeng ya me, mme lo mo ise ⟨אתו⟩ kwa tlase go ya Gikhone.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,41 +21,41 @@
     },
     {
       "surface": "קחו",
-      "gloss": "Isang"
+      "gloss": "tsayang"
     },
     {
       "surface": "עמכם",
-      "gloss": "le"
+      "gloss": "le lona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "badimi ba mong wa lona"
+      "marks": "badiri"
     },
     {
       "surface": "עבדי",
-      "gloss": "badimi"
+      "gloss": "badiri"
     },
     {
       "surface": "אדניכם",
-      "gloss": "ba mong wa lona"
+      "gloss": "ba morena wa lona"
     },
     {
       "surface": "והרכבתם",
-      "gloss": "mo lo mmoise"
+      "gloss": "mme lo madise"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shelomoh"
+      "marks": "Shelomoho"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Shelomoho"
     },
     {
       "surface": "בני",
-      "gloss": "morwa wa me"
+      "gloss": "morwa ka"
     },
     {
       "surface": "על",
@@ -63,34 +63,34 @@
     },
     {
       "surface": "הפרדה",
-      "gloss": "mule"
+      "gloss": "phardaa"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "e e"
     },
     {
       "surface": "לי",
-      "gloss": "wa me"
+      "gloss": "ya me"
     },
     {
       "surface": "והורדתם",
-      "gloss": "lo mo isotse"
+      "gloss": "mme lo mo ise kwa tlase"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "mo"
+      "gloss": "⟨אתו⟩",
+      "marks": "Shelomoho"
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "go ya"
     },
     {
       "surface": "גחון",
       "gloss": "Gikhone"
     }
   ],
-  "timestamp": "2026-10-03T23:19:53.263489056Z",
+  "timestamp": "2026-10-04T03:37:55.298969214Z",
   "model": "glm-5.3"
 }

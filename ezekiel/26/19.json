@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 26,
-  "translation": "Gore go bua jalo Adonai Yahwe: Fa ke dira gore o nne toropo e e senyegileng, jaaka di toropo tse di sa nneleng batho, fa ke tladiša Tehome kgatlhanong le wena, mme metsi a mantsi a go khudufatsa.",
+  "translation": "Gore gompieno go bua Adonai Yahwe: Fa ke go dira motse o o senyang, jaaka metse e e sa nniwang, fa ke go isa godimo tehome, mme metsi a mantsi a go khurumetsa.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "go bua jalo"
+      "gloss": "gompieno"
     },
     {
       "surface": "אמר",
-      "gloss": "Adonai Yahwe o bua"
+      "gloss": "go bua"
     },
     {
       "surface": "אדני",
@@ -29,56 +29,57 @@
     },
     {
       "surface": "בתתי",
-      "gloss": "fa ke dira"
+      "gloss": "fa ke go dira"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩",
+      "marks": "wena"
     },
     {
       "surface": "עיר",
-      "gloss": "toropo"
+      "gloss": "motse"
     },
     {
       "surface": "נחרבת",
-      "gloss": "e e senyegileng"
+      "gloss": "o o senyang"
     },
     {
       "surface": "כערים",
-      "gloss": "jaaka di toropo"
+      "gloss": "jaaka metse"
     },
     {
       "surface": "אשר",
-      "gloss": "tse"
+      "gloss": "e"
     },
     {
       "surface": "לא",
-      "gloss": "di sa"
+      "gloss": "ga"
     },
     {
       "surface": "נושבו",
-      "gloss": "nnelang batho"
+      "gloss": "e sa nniwang"
     },
     {
       "surface": "בהעלות",
-      "gloss": "fa ke tladiša"
+      "gloss": "fa ke go isa godimo"
     },
     {
       "surface": "עליך",
-      "gloss": "kgatlhanong le wena"
+      "gloss": "mo go wena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tehome"
+      "marks": "tehome"
     },
     {
       "surface": "תהום",
-      "gloss": "Tehome"
+      "gloss": "tehome"
     },
     {
       "surface": "וכסוך",
-      "gloss": "mme a go khudufatsa"
+      "gloss": "mme a go khurumetsa"
     },
     {
       "surface": "המים",
@@ -89,6 +90,6 @@
       "gloss": "a mantsi"
     }
   ],
-  "timestamp": "2026-10-04T00:43:41.525748486Z",
+  "timestamp": "2026-10-04T03:42:37.302800656Z",
   "model": "glm-5.3"
 }

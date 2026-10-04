@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 30,
-  "translation": "Mme e ga ⟨is⟩ kwa mawatleng, gore o re: Ke mang yo o tlaang go rona a feta kwa mawatleng, mme a e tsayela rona, mme a e utswetsa rona ⟨את⟩, mme re e dire?",
+  "translation": "Mme ga e kwa mosele wa lewatle, gore o re: Ke mang yo o tlalang kwa mosele wa lewatle ka rona, mme a e tlele kwa go rona, a e utisetse rona ⟨את⟩, mme re e dire?",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מעבר",
-      "gloss": "kwa"
+      "gloss": "mosele"
     },
     {
       "surface": "לים",
-      "gloss": "mawatleng"
+      "gloss": "wa lewatle"
     },
     {
       "surface": "הוא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "gore o re"
+      "gloss": "go re"
     },
     {
       "surface": "מי",
@@ -33,35 +33,35 @@
     },
     {
       "surface": "יעבר",
-      "gloss": "a tlaa feta"
+      "gloss": "o tlalang"
     },
     {
       "surface": "לנו",
-      "gloss": "go rona"
+      "gloss": "ka rona"
     },
     {
       "surface": "אל",
-      "gloss": "go ya"
+      "gloss": "kwa"
     },
     {
       "surface": "עבר",
-      "gloss": "kwa mo go kgakala"
+      "gloss": "mosele"
     },
     {
       "surface": "הים",
-      "gloss": "mawatle"
+      "gloss": "wa lewatle"
     },
     {
       "surface": "ויקחה",
-      "gloss": "mme a e tsayela"
+      "gloss": "mme a e tlele"
     },
     {
       "surface": "לנו",
-      "gloss": "rona"
+      "gloss": "kwa go rona"
     },
     {
       "surface": "וישמענו",
-      "gloss": "mme a e utswetsa"
+      "gloss": "a e utisetse rona"
     },
     {
       "surface": "אתה",
@@ -73,6 +73,6 @@
       "gloss": "mme re e dire"
     }
   ],
-  "timestamp": "2026-10-03T22:32:08.495857270Z",
+  "timestamp": "2026-10-04T03:47:57.764116468Z",
   "model": "glm-5.3"
 }

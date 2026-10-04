@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Mme Eliya a araba, a bua le bone a re: Fa ke motho wa ⟨the⟩ Elohim, a tlhole molelo o theogela kwa magodimong, o go jele ⟨את⟩ wena le ⟨את⟩ masome a matlhano a gago. Mme molelo wa Elohim wa theogela kwa magodimong, wa mo ja ⟨את⟩ ena le ⟨את⟩ masome a gagwe a matlhano.",
+  "translation": "Mme Eliya a araba, a bua le bone: Fa ke motho wa Elohim, a molelo o tlale go tswa kwa magodimong, o je ⟨את⟩ wena le ⟨את⟩ masome a mabedi le metso e mehlano a gago. Mme molelo wa Elohim o ne wa tlala go tswa kwa magodimong, wa ja ⟨את⟩ ene le ⟨את⟩ masome a mabedi le metso e mehlano a gagwe.",
   "tokens": [
     {
       "surface": "ויען",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "תרד",
-      "gloss": "a tlhole o theogela"
+      "gloss": "a o tlale"
     },
     {
       "surface": "אש",
@@ -49,31 +49,33 @@
     },
     {
       "surface": "מן",
-      "gloss": "kwa"
+      "gloss": "go tswa"
     },
     {
       "surface": "השמים",
-      "gloss": "magodimong"
+      "gloss": "kwa magodimong"
     },
     {
       "surface": "ותאכל",
-      "gloss": "o go jele"
+      "gloss": "o je"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩",
+      "marks": "wena"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "masome a mabedi le metso e mehlano a gago"
     },
     {
       "surface": "חמשיך",
-      "gloss": "masome a matlhano a gago"
+      "gloss": "masome a mabedi le metso e mehlano a gago"
     },
     {
       "surface": "ותרד",
-      "gloss": "wa theogela"
+      "gloss": "o ne wa tlala"
     },
     {
       "surface": "אש",
@@ -85,29 +87,31 @@
     },
     {
       "surface": "מן",
-      "gloss": "kwa"
+      "gloss": "go tswa"
     },
     {
       "surface": "השמים",
-      "gloss": "magodimong"
+      "gloss": "kwa magodimong"
     },
     {
       "surface": "ותאכל",
-      "gloss": "wa mo ja"
+      "gloss": "wa ja"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ena"
+      "gloss": "⟨את⟩",
+      "marks": "ene"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "masome a mabedi le metso e mehlano a gagwe"
     },
     {
       "surface": "חמשיו",
-      "gloss": "masome a gagwe a matlhano"
+      "gloss": "masome a mabedi le metso e mehlano a gagwe"
     }
   ],
-  "timestamp": "2026-10-03T23:31:47.093910285Z",
+  "timestamp": "2026-10-04T03:39:21.032600343Z",
   "model": "glm-5.3"
 }

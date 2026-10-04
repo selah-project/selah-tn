@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme le tla boloka ⟨את⟩ mekgwa yotlhe ya me le ⟨את⟩ dikatlholo tsotlhe tsa me, mme le di dira; e seng fa le sa boloke, lefatshe le le tlisang kwa go lona go nna ka ho lone le ka le phenya; ga le kitla le tlosiwa ke lefatshe leo ke nna nkileng ka le isa koo go nna mo go lona.",
+  "translation": "Mme lo boloke ⟨את⟩ melawana ya me yotlhe le ⟨את⟩ dikatlholo tsa me tsotlhe, mme lo di dire; gore lefatshe le ke lo isang koo go nna mo go lone le se ka la lo ntsha ka go tlhoka.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Mme le tla boloka"
+      "gloss": "mme lo boloke"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mekgwa yotlhe ya me"
+      "marks": "melawana ya me yotlhe"
     },
     {
       "surface": "כל",
@@ -22,11 +22,12 @@
     },
     {
       "surface": "חקתי",
-      "gloss": "mekgwa ya me"
+      "gloss": "melawana ya me"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "dikatlholo tsa me tsotlhe"
     },
     {
       "surface": "כל",
@@ -38,25 +39,23 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "mme le di dira"
+      "gloss": "mme lo di dire"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "mekgwa le dikatlholo"
+      "gloss": "⟨את⟩ di"
     },
     {
       "surface": "ולא",
-      "gloss": "e seng fa"
+      "gloss": "gore le se ka"
     },
     {
       "surface": "תקיא",
-      "gloss": "le tlhoka go le phenya"
+      "gloss": "la go tlhoka"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "lona"
+      "gloss": "⟨את⟩ lo"
     },
     {
       "surface": "הארץ",
@@ -64,20 +63,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "leo"
+      "gloss": "le"
     },
     {
       "surface": "אני",
-      "gloss": "ke nna"
+      "gloss": "ke"
     },
     {
       "surface": "מביא",
-      "gloss": "nkileng ka le isa"
+      "gloss": "lo isang"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "lona"
+      "gloss": "⟨את⟩ lo"
     },
     {
       "surface": "שמה",
@@ -89,9 +87,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "mo go lona"
+      "gloss": "mo go lone"
     }
   ],
-  "timestamp": "2026-10-03T21:59:39.614905390Z",
+  "timestamp": "2026-10-04T03:32:47.312926692Z",
   "model": "glm-5.3"
 }

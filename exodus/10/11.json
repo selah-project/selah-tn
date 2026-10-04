@@ -5,23 +5,23 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 10,
-  "translation": "Go nna jalo ga go a siama; tsamayang ruri lona banna, le dire Yahwe ⟨את⟩, gore seo lo se batlang ke lona; mme a ba tlhotlhomolola ⟨את⟩ ba ba tswa kwa 〈pelong ya〉 Farao.",
+  "translation": "Ga se jalo; tsamaang jaanong, lona banna, le ye go direla ⟨את⟩ Yahwe, gonne se ke sone se le se batlang; mme Farao a ba leleka go tswa mo ponong ya ⟨את⟩ Farao.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "go nna jalo ga go a siama"
+      "gloss": "ga"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "se jalo"
     },
     {
       "surface": "לכו",
-      "gloss": "tsamayang"
+      "gloss": "tsamaang"
     },
     {
       "surface": "נא",
-      "gloss": "ruri"
+      "gloss": "jaanong"
     },
     {
       "surface": "הגברים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ועבדו",
-      "gloss": "le dire"
+      "gloss": "le ye go direla"
     },
     {
       "surface": "את",
@@ -42,12 +42,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "gore"
+      "gloss": "gonne"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ seo",
-      "marks": "lona"
+      "gloss": "⟨את⟩ se"
     },
     {
       "surface": "אתם",
@@ -55,30 +54,29 @@
     },
     {
       "surface": "מבקשים",
-      "gloss": "lo batlang"
+      "gloss": "le se batlang"
     },
     {
       "surface": "ויגרש",
-      "gloss": "a ba tlhotlhomolola"
+      "gloss": "mme a ba leleka"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ba",
-      "marks": "ba ba tswa kwa pelelong ya Farao"
+      "gloss": "⟨את⟩ bone"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ kwa pelelong ya"
+      "gloss": "go tswa mo ponong ya ⟨את⟩"
     },
     {
       "surface": "פני",
-      "gloss": "pelo ya"
+      "gloss": "ponong"
     },
     {
       "surface": "פרעה",
       "gloss": "Farao"
     }
   ],
-  "timestamp": "2026-10-03T21:36:14.097962271Z",
+  "timestamp": "2026-10-04T03:30:50.322716609Z",
   "model": "glm-5.3"
 }

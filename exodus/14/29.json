@@ -5,8 +5,53 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Mme bana ba Yisraele ba ne ba tsamaya mo lefatshe le le omileng, mo teng ga lewatle; mme metsi e ne e le phapo ya bone go tswa mo go ya moja go ya go ya moja.",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:37:50.998025547Z",
+  "translation": "Mme bana ba Yisraele ba tsamaya mo lefelong le le omileng, mo bogareng jwa lewatle; mme metsi e ne e le phaka go bone, ka letlhagonya le ka molema.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mme bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "mo lefelong le le omileng"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo bogareng jwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "mme metsi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "phaka"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "ka letlhagonya"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "le ka molema"
+    }
+  ],
+  "timestamp": "2026-10-04T03:31:00.106669182Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,93 @@
   "book": "1-samuel",
   "lang": "tn",
   "chapter": 25,
-  "translation": "Tswelela, kaelo, ka kgololesego ya moṡomi wa gago, gonne Yahwe o tla dira mong wa me ntlo e e tiileng, gonne dibolotloetso tsa ga Yahwe mong wa me o di lobile, mme boshwa ga bo kitla bo bonwa mo go wena, nako tsotlhe ya matsatsi a gago.",
-  "tokens": [],
-  "timestamp": "2026-10-03T23:05:44.963037167Z",
+  "translation": "O tlholele, ke kopa, molato wa khomi ya gago, gonne Yahwe o tla dira tota go morena wa gago ntlo e e tiileng, gonne dintwa tsa Yahwe morena wa gago o a di lwantsha, mme bosula ga bo tla bonwa mo go wena matsatsi otlhe a gago.",
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "o tlholele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "molato"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wa khomi ya gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o tla dira"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "go morena wa gago"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "e e tiileng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "dintwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa gago"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "o a di lwantsha"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mme bosula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bo tla bonwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "matsatsi otlhe a gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:38:39.516597103Z",
   "model": "glm-5.3"
 }

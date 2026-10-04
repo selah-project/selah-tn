@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 2,
-  "translation": "Mme a lebelela kafa le kafa, mme a bona gore go se na motho, mme a bolaya ⟨את⟩ Mošerayime yo, mme a mo fitlhela mo mohuting.",
+  "translation": "Mme a leba kafa le kafa, a bona fa go se na motho, a itaya ⟨את⟩ Mo-Mitsrayime, mme a mo fitlhela mo lehalala.",
   "tokens": [
     {
       "surface": "ויפן",
-      "gloss": "a lebelela"
+      "gloss": "a leba"
     },
     {
       "surface": "כה",
-      "gloss": "kafa le"
+      "gloss": "kafa"
     },
     {
       "surface": "וכה",
-      "gloss": "kafa"
+      "gloss": "le kafa"
     },
     {
       "surface": "וירא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "gore"
+      "gloss": "fa"
     },
     {
       "surface": "אין",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "ויך",
-      "gloss": "a bolaya"
+      "gloss": "a itaya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mošerayime yo"
+      "marks": "Mo-Mitsrayime"
     },
     {
       "surface": "המצרי",
-      "gloss": "Mošerayime yo"
+      "gloss": "Mo-Mitsrayime"
     },
     {
       "surface": "ויטמנהו",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "בחול",
-      "gloss": "mo mohuting"
+      "gloss": "mo lehalala"
     }
   ],
-  "timestamp": "2026-10-03T21:32:34.493698149Z",
+  "timestamp": "2026-10-04T03:30:37.756090870Z",
   "model": "glm-5.3"
 }

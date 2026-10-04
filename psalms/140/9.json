@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 140,
-  "translation": "Se ka fa Yahwe dikeletso tsa yo o sa siamang; se ka dira gore poledišo e atlege — se ka e tsamaisa — gore ba se ka ba ikakanya. Selah.",
+  "translation": "Se kgotsofose, Yahwe, dikgahlegelo tsa yo o bosula; se itlhaloganye tlhofo ya gagwe, gore ba se ke ba tlhatloga. Sela.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "se ka"
+      "gloss": "se"
     },
     {
       "surface": "תתן",
-      "gloss": "fa"
+      "gloss": "kgotsofose"
     },
     {
       "surface": "יהוה",
@@ -21,33 +21,33 @@
     },
     {
       "surface": "מאויי",
-      "gloss": "dikeletso"
+      "gloss": "dikgahlegelo"
     },
     {
       "surface": "רשע",
-      "gloss": "yo o sa siamang"
+      "gloss": "tsa yo o bosula"
     },
     {
       "surface": "זממו",
-      "gloss": "poledišo"
+      "gloss": "tlhofo ya gagwe"
     },
     {
       "surface": "אל",
-      "gloss": "se ka"
+      "gloss": "se"
     },
     {
       "surface": "תפק",
-      "gloss": "e tsamaisa"
+      "gloss": "itlhaloganye"
     },
     {
       "surface": "ירומו",
-      "gloss": "ba ikakanye"
+      "gloss": "ba tlhatloga"
     },
     {
       "surface": "סלה",
-      "gloss": "Selah"
+      "gloss": "Sela"
     }
   ],
-  "timestamp": "2026-10-04T01:40:33.707807654Z",
+  "timestamp": "2026-10-04T03:45:12.440079167Z",
   "model": "glm-5.3"
 }

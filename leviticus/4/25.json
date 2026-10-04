@@ -5,8 +5,78 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 4,
-  "translation": "Mme moporofeti... mme mokerubi a tla mo tswa madi a sekolto sa phoso ka menwana ya gagwe, a a beye godimo ga dinaka tsa altare ya sehlabelo se se fisitsweng, mme ⟨את⟩ madi a yone a a tloele kwa motheong wa altare ya sehlabelo se se fisitsweng.",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:51:03.739609227Z",
+  "translation": "Mme moporofeti wa boikhutso o tla tsea ka mmona wa seya sa phoso ka menwana ya gagwe, a bo behe mo ditlhakoreng tsa aletare ya sehlabelo se se fisitsweng, mme ⟨את⟩ madi a yone a tlabollela kwa tikologong ya aletare ya sehlabelo se se fisitsweng.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mme o tla tsea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moporofeti wa boikhutso"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ka mmona wa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "seya sa phoso"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ka menwana ya gagwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mme a bo behe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "ditlhakoreng tsa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo se se fisitsweng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "madi a yone"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a yone"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "a tlabollela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "tikologong ya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo se se fisitsweng"
+    }
+  ],
+  "timestamp": "2026-10-04T03:31:40.489509426Z",
   "model": "glm-5.3"
 }

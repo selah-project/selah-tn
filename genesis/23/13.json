@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 23,
-  "translation": "Mme a bua le Efrone mo diteneng tsa setshaba sa lefatshe, a re: Ee, fa o nthusa o ntsheditswe, ke tla naya selefera ya ⟨⟨the⟩⟩ tlhaka; e tsaye go tswa go nna, mme ke tla fitlhela ⟨את⟩ mmuela wame koo.",
+  "translation": "Mme a bua le Efrone mo dikhutlheng tsa setshaba sa lefatshe, a re: Fela fa wena, nna, o nthuela — ke ne ke fa selefera sa tshimo; e tswele mo go nna, mme ke tlaa fitlhela ⟨את⟩ setopo sa me kwa.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "mme a bua"
+      "gloss": "a bua"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "באזני",
-      "gloss": "mo diteneng"
+      "gloss": "mo dikhutlheng tsa"
     },
     {
       "surface": "עם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אך",
-      "gloss": "ee"
+      "gloss": "fela"
     },
     {
       "surface": "אם",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "o nthusa"
+      "gloss": "nna"
     },
     {
       "surface": "שמעני",
-      "gloss": "o ntsheditswe"
+      "gloss": "o nthuela"
     },
     {
       "surface": "נתתי",
-      "gloss": "ke tla naya"
+      "gloss": "ke ne ke fa"
     },
     {
       "surface": "כסף",
@@ -65,34 +65,34 @@
     },
     {
       "surface": "השדה",
-      "gloss": "ya tlhaka"
+      "gloss": "sa tshimo"
     },
     {
       "surface": "קח",
-      "gloss": "e tsaye"
+      "gloss": "e tswele"
     },
     {
       "surface": "ממני",
-      "gloss": "go tswa go nna"
+      "gloss": "mo go nna"
     },
     {
-      "surface": "ויקברה",
-      "gloss": "mme ke tla fitlhela"
+      "surface": "ואקברה",
+      "gloss": "mme ke tlaa fitlhela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mmuela wame"
+      "marks": "setopo sa me"
     },
     {
       "surface": "מתי",
-      "gloss": "mmuela wame"
+      "gloss": "setopo sa me"
     },
     {
       "surface": "שמה",
-      "gloss": "koo"
+      "gloss": "kwa"
     }
   ],
-  "timestamp": "2026-10-03T21:19:19.539623949Z",
+  "timestamp": "2026-10-04T03:29:52.114395402Z",
   "model": "glm-5.3"
 }

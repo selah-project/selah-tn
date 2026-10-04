@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 8,
-  "translation": "Gore wena o ba kgaogantse go nna jaaka boswa, go tswa mo go ditshaba tsotlhe tsa ⟨the⟩ lefatshe, jaaka o buile ka seatla sa Moshe mokoloa wa gago, fa o ne o ntsha ⟨את⟩ bo-rra-bo-rona kwa Mitsrayime, Adonai Yahwe.",
+  "translation": "Gore wena o ba kgaogantse go nna boswa jwa gago, go tswa mo ditshabeng tsotlhe tsa lefatshe, jaaka o buile ka seatla sa Moshe modiri wa gago, fa o ne o ntsha ⟨את⟩ borraetsho rona go tswa mo Mitsrayime, Adonai Yahwe.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "go nna jaaka"
+      "gloss": "go nna boswa jwa gago"
     },
     {
       "surface": "לנחלה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "go tswa mo go tsotlhe"
+      "gloss": "go tswa mo ... tsotlhe"
     },
     {
       "surface": "עמי",
-      "gloss": "ditshaba"
+      "gloss": "ditshabeng"
     },
     {
       "surface": "הארץ",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "mokoloa wa gago"
+      "gloss": "modiri wa gago"
     },
     {
       "surface": "בהוציאך",
@@ -66,15 +66,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bo-rra-bo-rona"
+      "marks": "borraetsho rona"
     },
     {
       "surface": "אבתינו",
-      "gloss": "bo-rra-bo-rona"
+      "gloss": "borraetsho rona"
     },
     {
       "surface": "ממצרים",
-      "gloss": "kwa Mitsrayime"
+      "gloss": "go tswa mo Mitsrayime"
     },
     {
       "surface": "אדני",
@@ -85,6 +85,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T23:25:07.014975176Z",
+  "timestamp": "2026-10-04T03:38:57.069039572Z",
   "model": "glm-5.3"
 }

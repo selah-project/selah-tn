@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 30,
-  "translation": "Mme Yaakobo a tsaya dithipa tsa sekhukhu sa livhene, sa motho-montsho (luze) le sa pula (armone), mme a di peolola ka meala e meso, a senola ⟨⟨⟩⟩ bošweu jo bo neng bo le mo dithipeng.",
+  "translation": "Mme Yaakobo a tsaya thupa ya sekgala sa lebena, e ntšhwa gape e sa omang, le ya luz le ya armon; a di kgabola ka dikhgabola tse di tshweu, a senola ⟨את⟩ tshweu e e neng e le mo dithupeng.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "boepuso"
+      "gloss": "⟨go iposa⟩"
     },
     {
       "surface": "יעקב",
@@ -21,39 +21,39 @@
     },
     {
       "surface": "מקל",
-      "gloss": "dithipa"
+      "gloss": "thupa"
     },
     {
       "surface": "לבנה",
-      "gloss": "sa livhene"
+      "gloss": "ya lebena"
     },
     {
       "surface": "לח",
-      "gloss": "tse di gogilweng"
+      "gloss": "e ntšhwa gape e sa omang"
     },
     {
       "surface": "ולוז",
-      "gloss": "le sa luze"
+      "gloss": "le ya luz"
     },
     {
       "surface": "וערמון",
-      "gloss": "le sa armone"
+      "gloss": "le ya armon"
     },
     {
       "surface": "ויפצל",
-      "gloss": "mme a di peolola"
+      "gloss": "a di kgabola"
     },
     {
       "surface": "בהן",
-      "gloss": "mo go tsone"
+      "gloss": "mo dithupeng"
     },
     {
       "surface": "פצלות",
-      "gloss": "meala"
+      "gloss": "dikhgabola"
     },
     {
       "surface": "לבנות",
-      "gloss": "e meso"
+      "gloss": "tse di tshweu"
     },
     {
       "surface": "מחשף",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "הלבן",
-      "gloss": "bošweu"
+      "gloss": "tshweu"
     },
     {
       "surface": "אשר",
-      "gloss": "jo bo neng"
+      "gloss": "e e neng e le"
     },
     {
       "surface": "על",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "המקלות",
-      "gloss": "dithipeng"
+      "gloss": "dithupeng"
     }
   ],
-  "timestamp": "2026-10-03T21:23:40.044481390Z",
+  "timestamp": "2026-10-04T03:48:50.925485459Z",
   "model": "glm-5.3"
 }

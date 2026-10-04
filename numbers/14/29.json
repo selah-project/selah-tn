@@ -5,8 +5,69 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Mo nageng e e tileng, diphologolo tsa me tsa mmatota — mme diphae tsa lona di tla wa, le bao lona ba ba balwang ka palo ya lona yotlhe, go simolola ka ngwana wa dingwaga di le masome a mabedi le go godimo, ba ba neng ba se lekana le me.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:09:11.295899978Z",
+  "translation": "Mo teng ga sekaka se, mebele ya lona e tla wa, le ba ba balweng botlhe ba lona, go ya ka palo ya lona yotlhe, aloga baneng ba dingwaga di le masome a mabedi le go feta, ba ba neng ba ngongorega kgatlhanong le nna;",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "mo teng ga sekaka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "e tla wa"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "mebele ya lona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le botlhe"
+    },
+    {
+      "surface": "פקדיכם",
+      "gloss": "ba ba balweng ba lona"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ya ka yotlhe"
+    },
+    {
+      "surface": "מספרכם",
+      "gloss": "palo ya lona"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "alog(a) baneng"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "le go feta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ba neng ba"
+    },
+    {
+      "surface": "הלינתם",
+      "gloss": "ngongorega"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgatlhanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-04T03:33:45.451720986Z",
   "model": "glm-5.3"
 }

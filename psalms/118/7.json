@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 118,
-  "translation": "Yahwe ⟨is⟩ wa me, mothusi wa me; mme nna ke tlaa bona ba ba mo tlhoyang.",
+  "translation": "Yahwe o na le nna, mo go ba ba thusang ba me; mme nna ke tlaa bona ba ba mo tlhoyang ba me.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "wa me"
+      "gloss": "o na le nna"
     },
     {
       "surface": "בעזרי",
-      "gloss": "mothusi wa me"
+      "gloss": "mo go ba ba thusang ba me"
     },
     {
       "surface": "ואני",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "בשנאי",
-      "gloss": "ba ba mo tlhoyang"
+      "gloss": "ba ba mo tlhoyang ba me"
     }
   ],
-  "timestamp": "2026-10-04T01:36:56.130552573Z",
+  "timestamp": "2026-10-04T03:45:24.765367329Z",
   "model": "glm-5.3"
 }

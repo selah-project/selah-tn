@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 21,
-  "translation": "Tshoga, o sege ⟨את⟩ mosimane, o mo tshware ⟨את⟩ ka seatla sa gago, gonne ke tla mo dira setšhaba se segolo.",
+  "translation": "Tshoga, o tsoge ⟨את⟩ ngwana, o bo o tshwara ka thata ⟨את⟩ seatla sa gago mo go ene; gonne ke tla mo dira setshaba se segolo.",
   "tokens": [
     {
       "surface": "קומי",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "שאי",
-      "gloss": "o sege"
+      "gloss": "o tsoge"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mosimane"
+      "marks": "ngwana"
     },
     {
       "surface": "הנער",
-      "gloss": "mosimane"
+      "gloss": "ngwana"
     },
     {
       "surface": "והחזיקי",
-      "gloss": "o mo tshware"
+      "gloss": "o bo o tshwara ka thata"
     },
     {
       "surface": "את",
@@ -35,11 +35,11 @@
     },
     {
       "surface": "ידך",
-      "gloss": "ka seatla sa gago"
+      "gloss": "seatla sa gago"
     },
     {
       "surface": "בו",
-      "gloss": "mo"
+      "gloss": "mo go ene"
     },
     {
       "surface": "כי",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "לגוי",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "גדול",
@@ -58,6 +58,6 @@
       "gloss": "ke tla mo dira"
     }
   ],
-  "timestamp": "2026-10-03T21:19:45.536459072Z",
+  "timestamp": "2026-10-04T03:29:23.107580111Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "tn",
   "chapter": 5,
-  "translation": "Mme a re: Se ke boikepo. Mme a tlhagela ⟨את⟩ yone mo teng ga ⟨the⟩ efa, mme a tlhagela ⟨את⟩ leje la selefera mo molomong wa yone.",
+  "translation": "Mme a re: Se ke boikepo. A mo tlhatlola ⟨את⟩ fa gare ga efa, mme a tlhatlola ⟨את⟩ leje la selefera mo molomong wa yona.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Mme a re"
+      "gloss": "a re"
     },
     {
       "surface": "זאת",
@@ -21,28 +21,27 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "mme a tlhagela"
+      "gloss": "a tlhatlola"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "yone (mosadi yo o neng a dutse mo efeng)"
+      "gloss": "⟨את⟩mo"
     },
     {
       "surface": "אל",
-      "gloss": "mo teng ga"
+      "gloss": "fa"
     },
     {
       "surface": "תוך",
-      "gloss": "mo teng"
+      "gloss": "gare ga"
     },
     {
       "surface": "האיפה",
-      "gloss": "the efa"
+      "gloss": "efa"
     },
     {
       "surface": "וישלך",
-      "gloss": "mme a tlhagela"
+      "gloss": "a tlhatlola"
     },
     {
       "surface": "את",
@@ -63,9 +62,9 @@
     },
     {
       "surface": "פיה",
-      "gloss": "molomong wa yone"
+      "gloss": "molomong wa yona"
     }
   ],
-  "timestamp": "2026-10-04T01:08:52.500526733Z",
+  "timestamp": "2026-10-04T03:44:25.046648624Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Mme Yonathane a ne a se utlwe fa rraagwe a ne a pateletsa ⟨את⟩ setšhaba ka seano, mme a ntsha karolo ya thogwana yeo e neng e le mo letsong la gagwe, mme a e tlhapa mo tshukuntsweng ya dinotshe, mme a busetsa letsogo la gagwe go ya molomong wa gagwe, mme matlho a gagwe a nna bothitho.",
+  "translation": "Mme Yonathane a sa utlwe fa rraagwe a ne a betla setshaba sekoloto, a boela a anamisa karolo ya thue e e neng e le mo letsong la gagwe, a e tlhatloba mo boalong jwa dibi, a boela a isa letsogo la gagwe kwa molomong wa gagwe, mme matlho a gagwe a bulega.",
   "tokens": [
     {
       "surface": "ויונתן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "a ne a se"
+      "gloss": "a sa"
     },
     {
       "surface": "שמע",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בהשביע",
-      "gloss": "fa ... a ne a pateletsa ka seano"
+      "gloss": "fa a ne a betla sekoloto"
     },
     {
       "surface": "אביו",
@@ -30,20 +30,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "setšhaba"
+      "marks": "setshaba"
     },
     {
       "surface": "העם",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "וישלח",
-      "gloss": "mme a ntsha"
+      "gloss": "a boela a anamisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "karolo ya thogwana"
+      "marks": "karolo ya thue"
     },
     {
       "surface": "קצה",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "המטה",
-      "gloss": "thogwana"
+      "gloss": "thue"
     },
     {
       "surface": "אשר",
-      "gloss": "yeo e neng e le"
+      "gloss": "e e neng e le"
     },
     {
       "surface": "בידו",
@@ -63,24 +63,24 @@
     },
     {
       "surface": "ויטבל",
-      "gloss": "mme a e tlhapa mo"
+      "gloss": "a e tlhatloba"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "tshukuntsweng ya dinotshe"
+      "marks": "boalong jwa dibi"
     },
     {
       "surface": "ביערת",
-      "gloss": "tshukuntsweng ya"
+      "gloss": "mo boalong jwa"
     },
     {
       "surface": "הדבש",
-      "gloss": "dinotshe"
+      "gloss": "dibi"
     },
     {
       "surface": "וישב",
-      "gloss": "mme a busetsa"
+      "gloss": "a boela a isa"
     },
     {
       "surface": "ידו",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "go ya"
+      "gloss": "kwa"
     },
     {
       "surface": "פיו",
@@ -96,13 +96,13 @@
     },
     {
       "surface": "ותראנה",
-      "gloss": "mme ... a nna bothitho"
+      "gloss": "a burega"
     },
     {
       "surface": "עיניו",
       "gloss": "matlho a gagwe"
     }
   ],
-  "timestamp": "2026-10-03T23:01:50.997092256Z",
+  "timestamp": "2026-10-04T03:37:22.559588832Z",
   "model": "glm-5.3"
 }

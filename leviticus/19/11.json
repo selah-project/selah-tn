@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 19,
-  "translation": "Lo se ke la utswa, mme lo se ke la ikakanya, mme lo se ke la ikakanya ka mošomo — motho ga a ka ke a ikakanya le moagi wa gagwe.",
+  "translation": "Lo se ke la utswa, mme lo se ke la waanela, mme lo se ke la waanela sephiri motho yo o mo ratang; le nna ga ke utlwe.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "lo se ke la"
+      "gloss": "lo"
     },
     {
       "surface": "תגנבו",
-      "gloss": "utswa"
+      "gloss": "se ke la utswa"
     },
     {
       "surface": "ולא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תכחשו",
-      "gloss": "ikana-ikana"
+      "gloss": "waanela"
     },
     {
       "surface": "ולא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תשקרו",
-      "gloss": "ikakanya"
+      "gloss": "waanela sephiri"
     },
     {
       "surface": "איש",
@@ -37,13 +37,9 @@
     },
     {
       "surface": "בעמיתו",
-      "gloss": "mošomo"
-    },
-    {
-      "surface": "לשקר",
-      "gloss": "ikakanya"
+      "gloss": "yo o mo ratang"
     }
   ],
-  "timestamp": "2026-10-03T21:56:59.919787279Z",
+  "timestamp": "2026-10-04T03:32:22.119686576Z",
   "model": "glm-5.3"
 }

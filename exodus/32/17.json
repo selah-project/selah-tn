@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 32,
-  "translation": "Mme Yehoshua a utlwa ⟨את⟩ modumo wa setshaba fa ba ne ba goga, a riala go Moshe: Ga se ⟨is⟩ kwantle — modumo wa ntwa o kwa khampeng.",
+  "translation": "Mme Yehoshua a utlwa ⟨את⟩ lentswe la setshaba fa ba leILELA — mme a bua le Moshe: lentswe la ntwa kwa kampeng.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -18,27 +18,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "modumo"
+      "marks": "lentswe"
     },
     {
       "surface": "קול",
-      "gloss": "modumo"
+      "gloss": "lentswe"
     },
     {
       "surface": "העם",
-      "gloss": "setshaba"
+      "gloss": "la setshaba"
     },
     {
       "surface": "ברעה",
-      "gloss": "fa ba ne ba goga"
+      "gloss": "fa ba leILELA"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a riala"
+      "gloss": "mme a bua"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "le"
     },
     {
       "surface": "משה",
@@ -46,17 +46,17 @@
     },
     {
       "surface": "קול",
-      "gloss": "modumo"
+      "gloss": "lentswe"
     },
     {
       "surface": "מלחמה",
-      "gloss": "ntwa"
+      "gloss": "la ntwa"
     },
     {
       "surface": "במחנה",
-      "gloss": "mo khampeng"
+      "gloss": "kwa kampeng"
     }
   ],
-  "timestamp": "2026-10-03T21:47:13.746376161Z",
+  "timestamp": "2026-10-04T03:31:55.171209972Z",
   "model": "glm-5.3"
 }

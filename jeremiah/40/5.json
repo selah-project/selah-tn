@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "tn",
   "chapter": 40,
-  "translation": "Mme fa a santse a sa boela, a re: Boela kwa go Gedalaya, morwa wa Ahiqame morwa wa Shafane, yoo kgosi ya Babeli a mo laeditseng kwa metseng ya Yuda; o nne le ⟨את⟩ ene gareng ga setshaba, kana ya kwa go sepe se se siamang mo matlhong a gago go ya, o ye. Mme mogogi wa batakaši a mo neela karolo ya dijo le mpho, mme a mo romela.",
+  "translation": "Mme a santse a sa boela, o boele kwa Gedalaya morwa wa Ashikame, morwa wa Shafane, yo kgosi ya Babilone a laileditseng mo ditoropong tsa Yudahe; o nne ⟨את⟩ ene gareng ga batho, kana ya kwa sepe se se siamang mo matlhong a gago go ya, tsamaya. Mme mogolo wa badirisi a mo neela dijo tsa taelo le mpho, a mo romela.",
   "tokens": [
     {
       "surface": "ועודנו",
-      "gloss": "mme fa a santse"
+      "gloss": "mme a santse"
     },
     {
       "surface": "לא",
-      "gloss": "sa"
+      "gloss": "ga"
     },
     {
       "surface": "ישוב",
-      "gloss": "a boela"
+      "gloss": "a boele"
     },
     {
       "surface": "ושבה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa go"
+      "gloss": "kwa"
     },
     {
       "surface": "גדליה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "morwa wa"
+      "gloss": "morwa"
     },
     {
       "surface": "אחיקם",
-      "gloss": "Ahiqame"
+      "gloss": "Ashikame"
     },
     {
       "surface": "בן",
-      "gloss": "morwa wa"
+      "gloss": "morwa"
     },
     {
       "surface": "שפן",
@@ -49,27 +49,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yoo"
+      "gloss": "yo"
     },
     {
       "surface": "הפקיד",
-      "gloss": "a mo laeditseng"
+      "gloss": "a laileditseng"
     },
     {
       "surface": "מלך",
-      "gloss": "kgosi ya"
+      "gloss": "kgosi"
     },
     {
       "surface": "בבל",
-      "gloss": "Babeli"
+      "gloss": "ya Babilone"
     },
     {
       "surface": "בערי",
-      "gloss": "kwa metseng ya"
+      "gloss": "mo ditoropong"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yuda"
+      "gloss": "tsa Yudahe"
     },
     {
       "surface": "ושב",
@@ -77,8 +77,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "le ⟨את⟩ ene",
-      "marks": "Gedalaya"
+      "gloss": "⟨את⟩ ene",
+      "marks": "ene"
     },
     {
       "surface": "בתוך",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "setshaba"
+      "gloss": "batho"
     },
     {
       "surface": "או",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa go"
+      "gloss": "ya"
     },
     {
       "surface": "כל",
@@ -114,27 +114,27 @@
     },
     {
       "surface": "לך",
-      "gloss": "o ye"
+      "gloss": "tsamaya"
     },
     {
       "surface": "ויתן",
-      "gloss": "a neela"
+      "gloss": "a mo neela"
     },
     {
       "surface": "לו",
-      "gloss": "a mo"
+      "gloss": "mo"
     },
     {
       "surface": "רב",
-      "gloss": "mogogi wa"
+      "gloss": "mogolo wa"
     },
     {
       "surface": "טבחים",
-      "gloss": "batakaši"
+      "gloss": "badirisi"
     },
     {
       "surface": "ארחה",
-      "gloss": "karolo ya dijo"
+      "gloss": "dijo tsa taelo"
     },
     {
       "surface": "ומשאת",
@@ -145,6 +145,6 @@
       "gloss": "a mo romela"
     }
   ],
-  "timestamp": "2026-10-04T00:25:14.711000932Z",
+  "timestamp": "2026-10-04T03:47:48.027491682Z",
   "model": "glm-5.3"
 }

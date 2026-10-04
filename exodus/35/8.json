@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 35,
+  "translation": "le mafura a go khanya, le diphuthaetswalo go dira mafura a go itshepisa, le go dira pheko ya diphuthaetswalo",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "le mafura"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "a go khanya"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "le diphuthaetswalo"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "go dira mafura a"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "go itshepisa"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "le go dira pheko ya"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "diphuthaetswalo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:31:32.000174135Z",
+  "model": "glm-5.3"
+}

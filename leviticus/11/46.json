@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 11,
-  "translation": "Eno ke ⟨⟨the⟩⟩ Torah ya diphoofolo, le ya dinonyane, le ya sengwe le sengwe se se nang le botshelo se se nonlinearang mo metsing, le ya sengwe le sengwe se se dirang maro mo lefatsheng.",
+  "translation": "Se ke Torah ya diphoofolo, le ya dinonyane, le ya sengwe le sengwe se se phelang se se kgarakgaratsang mo metsing, le ya sengwe le sengwe se se siditseng mo lefatsheng.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "Eno"
+      "gloss": "Se"
     },
     {
       "surface": "תורת",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "נפש",
-      "gloss": "se se nang le botshelo"
+      "gloss": "se se phelang"
     },
     {
       "surface": "החיה",
-      "gloss": "e e tlhago"
+      "gloss": "se se phelang"
     },
     {
       "surface": "הרמשת",
-      "gloss": "se se nonlinearang"
+      "gloss": "se se kgarakgaratsang"
     },
     {
       "surface": "במים",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "נפש",
-      "gloss": "se se nang le botshelo"
+      "gloss": "se"
     },
     {
       "surface": "השרצת",
-      "gloss": "se se dirang maro"
+      "gloss": "se se siditseng"
     },
     {
       "surface": "על",
@@ -64,6 +64,6 @@
       "gloss": "lefatsheng"
     }
   ],
-  "timestamp": "2026-10-03T21:52:45.076276942Z",
+  "timestamp": "2026-10-04T03:31:36.281481612Z",
   "model": "glm-5.3"
 }

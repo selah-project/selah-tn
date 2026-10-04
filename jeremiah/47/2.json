@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "tn",
   "chapter": 47,
-  "translation": "Go bua jalo Yahwe: Bonang, metsi a a tlalogang go tswa kwa bokone, mme a tla nna molapo o o tlhotlagang, mme a tlhotlaga ⟨the⟩ lefatshe le se se mo go lone, toropo le ba ba nnang mo go yona; mme batho ba go wa lefoko la tsogologo, mme mongwe le mongwe yo o nnang mo lefatsheng a llelaka.",
+  "translation": "Go bua jalo Yahwe: Bonang, metsi a a tlwang go tswa kwa bokone, mme a nne nokana e e tlhaselang, mme a tlhasela lefatshe le se se mo go sone, toropo le ba ba dulang mo go yona; mme batho ba tla llela, mme mongwe le mongwe yo o dulang mo lefatsheng a llele.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Go bua jalo"
+      "gloss": "jalo"
     },
     {
       "surface": "אמר",
-      "gloss": "bua"
+      "gloss": "go bua"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עלים",
-      "gloss": "a a tlalogang"
+      "gloss": "a a tlwang"
     },
     {
       "surface": "מצפון",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "והיו",
-      "gloss": "mme a tla nna"
+      "gloss": "mme a nne"
     },
     {
       "surface": "לנחל",
-      "gloss": "molapo"
+      "gloss": "nokana"
     },
     {
       "surface": "שוטף",
-      "gloss": "o o tlhotlagang"
+      "gloss": "e e tlhaselang"
     },
     {
       "surface": "וישטפו",
-      "gloss": "mme a tlhotlaga"
+      "gloss": "mme a tlhasela"
     },
     {
       "surface": "ארץ",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ומלואה",
-      "gloss": "le se se mo go lone"
+      "gloss": "le se se mo go sone"
     },
     {
       "surface": "עיר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "וישבי",
-      "gloss": "le ba ba nnang"
+      "gloss": "le ba ba dulang"
     },
     {
       "surface": "בה",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "וזעקו",
-      "gloss": "mme batho ba go wa"
+      "gloss": "mme ba tla llela"
     },
     {
       "surface": "האדם",
-      "gloss": "lefoko la tsogologo"
+      "gloss": "batho"
     },
     {
       "surface": "והילל",
-      "gloss": "mme a llelaka"
+      "gloss": "mme a llele"
     },
     {
       "surface": "כל",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "יושב",
-      "gloss": "yo o nnang"
+      "gloss": "yo o dulang"
     },
     {
       "surface": "הארץ",
       "gloss": "mo lefatsheng"
     }
   ],
-  "timestamp": "2026-10-04T00:26:28.172272953Z",
+  "timestamp": "2026-10-04T03:41:38.863147244Z",
   "model": "glm-5.3"
 }

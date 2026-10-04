@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 26,
-  "translation": "Go ya ka molomo wa ⟨ה⟩ lotlhwao, kgolagano ya lona e tla kgaoganwa, gareng ga ba bantsi le ba bannye.",
+  "translation": "Go ya ka molomo wa gorale, boswa jwa gagwe bo tla kgaoganngwa, gareng ga ba bantsi le ba bannye.",
   "tokens": [
     {
       "surface": "על",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "הגורל",
-      "gloss": "wa lotlhwao"
+      "gloss": "wa gorale"
     },
     {
       "surface": "תחלק",
-      "gloss": "e tla kgaoganwa"
+      "gloss": "bo tla kgaoganngwa"
     },
     {
       "surface": "נחלתו",
-      "gloss": "kgolagano ya gagwe"
+      "gloss": "boswa jwa gagwe"
     },
     {
       "surface": "בין",
@@ -40,6 +40,6 @@
       "gloss": "le ba bannye"
     }
   ],
-  "timestamp": "2026-10-03T22:15:25.176135598Z",
+  "timestamp": "2026-10-04T03:33:40.037647718Z",
   "model": "glm-5.3"
 }

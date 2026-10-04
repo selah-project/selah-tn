@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "tn",
   "chapter": 11,
-  "translation": "Mme a lebelela, mme ta re, ⟨⟨kgosi⟩⟩ e eme fa ⟨the⟩ pilareng, jaaka tlwaelo, le ditona le ditorompete kwa kgosing, mme setshaba sotlhe sa lefatshe se itumelela, di bina ka ditorompete; mme Atalya a gasa ⟨את⟩ diaparo tsa gagwe, a goga re: Kgolano! Kgolano!",
+  "translation": "Mme a leba, mme tafoo, kgosi e eme fa ga sefofane, jaaka tlwaelo, mme didiri le ditorompete kwa go kgosi, mme setshaba sotlhe sa lefatshe se itumetse, mme se bina ka ditorompete; mme Atalyaha a goroga ⟨את⟩ diaparo tsa gagwe, mme a go gaoga: Kgolagano! Kgolagano!",
   "tokens": [
     {
       "surface": "ותרא",
-      "gloss": "a lebelela"
+      "gloss": "a leba"
     },
     {
       "surface": "והנה",
-      "gloss": "mme ta re"
+      "gloss": "mme tafoo"
     },
     {
       "surface": "המלך",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "עמד",
-      "gloss": "e eme"
+      "gloss": "eme"
     },
     {
       "surface": "על",
-      "gloss": "fa"
+      "gloss": "fa ga"
     },
     {
       "surface": "העמוד",
-      "gloss": "pilareng"
+      "gloss": "sefofane"
     },
     {
       "surface": "כמשפט",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "והשרים",
-      "gloss": "le ditona"
+      "gloss": "mme didiri"
     },
     {
       "surface": "והחצצרות",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "kwa go"
     },
     {
       "surface": "המלך",
-      "gloss": "kgosing"
+      "gloss": "kgosi"
     },
     {
       "surface": "וכל",
-      "gloss": "mme … sotlhe"
+      "gloss": "mme ... sotlhe"
     },
     {
       "surface": "עם",
@@ -65,23 +65,23 @@
     },
     {
       "surface": "שמח",
-      "gloss": "se itumelela"
+      "gloss": "se itumetse"
     },
     {
       "surface": "ותקע",
-      "gloss": "di bina"
+      "gloss": "mme se bina ka"
     },
     {
       "surface": "בחצצרות",
-      "gloss": "ka ditorompete"
+      "gloss": "ditorompete"
     },
     {
       "surface": "ותקרע",
-      "gloss": "a gasa"
+      "gloss": "a goroga"
     },
     {
       "surface": "עתליה",
-      "gloss": "Atalya"
+      "gloss": "Atalyaha"
     },
     {
       "surface": "את",
@@ -94,17 +94,17 @@
     },
     {
       "surface": "ותקרא",
-      "gloss": "a goga"
+      "gloss": "mme a go gaoga"
     },
     {
       "surface": "קשר",
-      "gloss": "Kgolano"
+      "gloss": "Kgolagano!"
     },
     {
       "surface": "קשר",
-      "gloss": "Kgolano"
+      "gloss": "Kgolagano!"
     }
   ],
-  "timestamp": "2026-10-03T23:37:41.359712050Z",
+  "timestamp": "2026-10-04T03:39:18.348483750Z",
   "model": "glm-5.3"
 }

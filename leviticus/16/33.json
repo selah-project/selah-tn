@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 16,
-  "translation": "Mme o tlaa dira boitshwarelo jwa ⟨את⟩ boitshepo jwa boitshepo, le jwa ⟨את⟩tente ya phuthego, le jwa ⟨את⟩altare a e direle boitshwarelo; le jwa baporofeti ba boitshepo, le jwa setšhaba se se kotlanyeng ka bobotlana, a ba direle boitshwarelo.",
+  "translation": "Mme o tla itshwarela ⟨את⟩ boitshepo jwa boitshepo, le ⟨את⟩ tenda ya kopano, mme ⟨את⟩ altare o tla e itshwarela; mme bakamedi, le setshaba sotlhe sa phuthego, o tla ba itshwarela.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "mme o tlaa dira boitshwarelo jwa"
+      "gloss": "mme o tla itshwarela"
     },
     {
       "surface": "את",
@@ -18,28 +18,28 @@
     },
     {
       "surface": "מקדש",
-      "gloss": "boitshepo jwa"
-    },
-    {
-      "surface": "הקדש",
       "gloss": "boitshepo"
     },
     {
+      "surface": "הקדש",
+      "gloss": "jwa boitshepo"
+    },
+    {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "tente ya phuthego"
+      "marks": "tenda ya kopano"
     },
     {
       "surface": "אהל",
-      "gloss": "tente"
+      "gloss": "tenda"
     },
     {
       "surface": "מועד",
-      "gloss": "ya phuthego"
+      "gloss": "ya kopano"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "mme ⟨את⟩",
       "marks": "altare"
     },
     {
@@ -48,27 +48,27 @@
     },
     {
       "surface": "יכפר",
-      "gloss": "a e direle boitshwarelo"
+      "gloss": "o tla e itshwarela"
     },
     {
       "surface": "ועל",
-      "gloss": "le jwa"
+      "gloss": "mme mo go"
     },
     {
       "surface": "הכהנים",
-      "gloss": "baporofeti ba boitshepo"
+      "gloss": "bakamedi"
     },
     {
       "surface": "ועל",
-      "gloss": "le jwa"
+      "gloss": "le mo go"
     },
     {
       "surface": "כל",
-      "gloss": "se se kotlanyeng ka bobotlana"
+      "gloss": "sotlhe"
     },
     {
       "surface": "עם",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "הקהל",
@@ -76,9 +76,9 @@
     },
     {
       "surface": "יכפר",
-      "gloss": "a ba direle boitshwarelo"
+      "gloss": "o tla ba itshwarela"
     }
   ],
-  "timestamp": "2026-10-03T21:56:26.433523708Z",
+  "timestamp": "2026-10-04T03:32:38.816478443Z",
   "model": "glm-5.3"
 }

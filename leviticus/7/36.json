@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 7,
-  "translation": "E bile se Yahwe a laetseng go ba neela ka letšatši a ba tlodisago ⟨את⟩ bone, mo ⟨את⟩ baneng ba Yisraele — molao wa bosakhutlho wa meloko ya bone.",
+  "translation": "e bong se Yahwe a se laela go ba naya ka letsatsi a ba tlhodisa, ⟨את⟩ bone ⟨את⟩ go tswa mo baneng ba Yisraele — molao wa bosikhale go dikokomana tsa bone.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "e bile se"
+      "gloss": "e bong se"
     },
     {
       "surface": "צוה",
-      "gloss": "a laetseng"
+      "gloss": "a laela"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לתת",
-      "gloss": "go neela"
+      "gloss": "go naya"
     },
     {
       "surface": "להם",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "ביום",
-      "gloss": "ka letšatši"
+      "gloss": "ka letsatsi"
     },
     {
       "surface": "משחו",
-      "gloss": "a ba tlodisago"
+      "gloss": "a ba tlhodisa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ bone",
-      "marks": "a ba tlodisa"
+      "gloss": "⟨את⟩",
+      "marks": "bone"
     },
     {
       "surface": "מאת",
-      "gloss": "mo ⟨את⟩"
+      "gloss": "⟨את⟩ go tswa mo"
     },
     {
       "surface": "בני",
-      "gloss": "baneng ba"
+      "gloss": "baneng"
     },
     {
       "surface": "ישראל",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "עולם",
-      "gloss": "wa bosakhutlho"
+      "gloss": "wa bosikhale"
     },
     {
       "surface": "לדרתם",
-      "gloss": "wa meloko ya bone"
+      "gloss": "go dikokomana tsa bone"
     }
   ],
-  "timestamp": "2026-10-03T21:51:42.976892863Z",
+  "timestamp": "2026-10-04T03:32:08.543478619Z",
   "model": "glm-5.3"
 }

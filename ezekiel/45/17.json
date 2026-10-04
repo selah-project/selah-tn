@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 45,
-  "translation": "Mme go tla nna mo go nasi: dituelo tse di fisitsweng le minkha le se se nwewang, mo dithakong le mo dikgweding tse dišwa le mo di-Shabateng, mo meletlong yotlhe ya ntlo ya Yisraele; ene o tla dira ⟨את⟩ setuelo sa phoso le ⟨את⟩ minkha le ⟨את⟩ tuelo e e fisitsweng le ⟨את⟩ dituelo tsa kagiso, go itshwarelwa ga ntlo ya Yisraele.",
+  "translation": "Mme mo go nasi go tla nna diphopholetso, le minkha, le nesekhe, mo dikhonkoreseng, le mo dikgweding tse disha, le mo diShabateng, mo meletlong yotlhe ya ntlo ya Yisraele; ene o tla dira ⟨את⟩ phopholetso ya sebe le ⟨את⟩ minkha le ⟨את⟩ phopholetso le ⟨את⟩ diphopholetso tsa kagiso, go kaakatsa mo boemong ya ntlo ya Yisraele.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "mo go"
+      "gloss": "mme mo go"
     },
     {
       "surface": "הנשיא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העולות",
-      "gloss": "dituelo tse di fisitsweng"
+      "gloss": "diphopholetso"
     },
     {
       "surface": "והמנחה",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "והנסך",
-      "gloss": "le se se nwewang"
+      "gloss": "le nesekhe"
     },
     {
       "surface": "בחגים",
-      "gloss": "mo dithakong"
+      "gloss": "mo dikhonkoreseng"
     },
     {
       "surface": "ובחדשים",
-      "gloss": "mo dikgweding tse dišwa"
+      "gloss": "le mo dikgweding tse disha"
     },
     {
       "surface": "ובשבתות",
-      "gloss": "mo di-Shabateng"
+      "gloss": "le mo diShabateng"
     },
     {
       "surface": "בכל",
-      "gloss": "mo"
+      "gloss": "mo yotlhe"
     },
     {
       "surface": "מועדי",
-      "gloss": "meletlong yotlhe"
+      "gloss": "meletlo"
     },
     {
       "surface": "בית",
@@ -70,15 +70,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "setuelo sa phoso"
+      "marks": "phopholetso ya sebe"
     },
     {
       "surface": "החטאת",
-      "gloss": "setuelo sa phoso"
+      "gloss": "phopholetso ya sebe"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "minkha"
     },
     {
@@ -87,39 +87,39 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "tuelo e e fisitsweng"
+      "gloss": "⟨את⟩",
+      "marks": "phopholetso"
     },
     {
       "surface": "העולה",
-      "gloss": "tuelo e e fisitsweng"
+      "gloss": "phopholetso"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "dituelo tsa kagiso"
+      "gloss": "⟨את⟩",
+      "marks": "diphopholetso tsa kagiso"
     },
     {
       "surface": "השלמים",
-      "gloss": "dituelo tsa kagiso"
+      "gloss": "diphopholetso tsa kagiso"
     },
     {
       "surface": "לכפר",
-      "gloss": "go itshwarelwa ga dibe"
+      "gloss": "go kaakatsa"
     },
     {
       "surface": "בעד",
-      "gloss": "mo boemong jwa"
+      "gloss": "mo boemong"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo"
+      "gloss": "ya ntlo"
     },
     {
       "surface": "ישראל",
       "gloss": "ya Yisraele"
     }
   ],
-  "timestamp": "2026-10-04T03:18:15.693838487Z",
+  "timestamp": "2026-10-04T03:42:37.308550677Z",
   "model": "glm-5.3"
 }

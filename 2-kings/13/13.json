@@ -5,8 +5,65 @@
   "book": "2-kings",
   "lang": "tn",
   "chapter": 13,
-  "translation": "Mme Yoashe o robala le ditsala di a bo di le bagolo botlhano — rraago, mmua le gotlhe ga bo a siama.",
-  "tokens": [],
-  "timestamp": "2026-10-03T23:38:10.580649135Z",
+  "translation": "Mme Yowashe o ne a robala le bo-rraagwe, mme Yerobowame a nna mo setulong sa gagwe; mme Yowashe o ne a fitlhwa kwa Shomorone le dikgosi tsa Yisraele.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "o ne a robala"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yowashe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-rraagwe"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "mme Yerobowame"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a nna"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "setulong sa gagwe"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "o ne a fitlhwa"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yowashe"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "kwa Shomorone"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T03:38:47.413522300Z",
   "model": "glm-5.3"
 }

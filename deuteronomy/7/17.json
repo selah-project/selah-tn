@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 7,
-  "translation": "Fa o re ka pelong ya gago: Ditshaba tseno di le dintsi go feta nna, ke tla kgona jang go di tlhoša?",
+  "translation": "Fa o re mo pelong ya gago: Ditshaba tse di bontsi go feta nna; nka di ntsha jang ka go di tlhola?",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "fa"
+      "gloss": "Fa"
     },
     {
       "surface": "תאמר",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בלבבך",
-      "gloss": "ka pelong ya gago"
+      "gloss": "mo pelong ya gago"
     },
     {
       "surface": "רבים",
-      "gloss": "di le dintsi"
+      "gloss": "bontsi"
     },
     {
       "surface": "הגוים",
-      "gloss": "ditshaba"
+      "gloss": "Ditshaba tse"
     },
     {
       "surface": "האלה",
-      "gloss": "tseno"
+      "gloss": "tse"
     },
     {
       "surface": "ממני",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "אוכל",
-      "gloss": "ke tla kgona"
+      "gloss": "nka"
     },
     {
-      "surface": "להורישׁם",
-      "gloss": "go di tlhoša"
+      "surface": "להורישם",
+      "gloss": "ka di ntsha ka go di tlhola"
     }
   ],
-  "timestamp": "2026-10-03T22:23:34.738765385Z",
+  "timestamp": "2026-10-04T03:34:37.539092899Z",
   "model": "glm-5.3"
 }

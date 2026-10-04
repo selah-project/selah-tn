@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tn",
   "chapter": 35,
-  "translation": "Mme ke ne ke romela go lona badiri ba me ⟨את⟩ botlhe, baporofeti, ka moso le ka go roma, ke re: Boelang, ke kopa lona, mongwe le mongwe mo tseleng ya gagwe e e bosula, lo dire dilo tsa lona tse di siameng, le seka tsa latela medimo e mengwe go e dira; lo nne kwa lefatsheng leo ke neng ke le lo neela lona le bokoko ba lona; mme ga lo a ka lwa gotobatsa ⟨את⟩ ditsebe tsa lona, mme ga lo a ka lwa mpeeletsa.",
+  "translation": "Mme ka roma go lona ⟨את⟩ baporofeti ba me botlhe, ba ba neng ba tshwara moso ba roma, ba re: Buang ka kopo, mongwe le mongwe a boe mo tseleng ya gagwe e e bosula, mme lo dire ditiro tsa lona tse di siameng, mme lo se ka wa tsela morago dimodimo tse dingwe go di direla; mme lo nne mo lefatsheeng leo ke neng ka se lo neela lona le bokgobokanyo jwa lona. Mme ga lo a ka lo thuba dikutu tsa lona, mme ga lo a ka lo mmetla go nna.",
   "tokens": [
     {
       "surface": "ואשלח",
-      "gloss": "Mme ke ne ke romela"
+      "gloss": "Mme ka roma"
     },
     {
       "surface": "אליכם",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "badiri ba me botlhe"
+      "marks": "baporofeti ba me botlhe"
     },
     {
       "surface": "כל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "badiri ba me"
+      "gloss": "ba me"
     },
     {
       "surface": "הנבאים",
@@ -34,23 +34,23 @@
     },
     {
       "surface": "השכים",
-      "gloss": "ka moso"
+      "gloss": "ba ba neng ba tshwara moso"
     },
     {
       "surface": "ושלח",
-      "gloss": "le ka go roma"
+      "gloss": "ba roma"
     },
     {
       "surface": "לאמר",
-      "gloss": "ke re"
+      "gloss": "ba re"
     },
     {
       "surface": "שבו",
-      "gloss": "Boelang"
+      "gloss": "Buang"
     },
     {
       "surface": "נא",
-      "gloss": "ke kopa lona"
+      "gloss": "ka kopo"
     },
     {
       "surface": "איש",
@@ -66,55 +66,55 @@
     },
     {
       "surface": "והיטיבו",
-      "gloss": "lo dire dilo tsa lona tse di siameng"
+      "gloss": "mme lo dire sentle"
     },
     {
-      "surface": "מעלалיכם",
-      "gloss": ""
+      "surface": "מעלליכם",
+      "gloss": "ditiro tsa lona"
     },
     {
       "surface": "ואל",
-      "gloss": "le seka tsa"
+      "gloss": "mme lo se ka wa"
     },
     {
       "surface": "תלכו",
-      "gloss": "latela"
+      "gloss": "tsela"
     },
     {
       "surface": "אחרי",
-      "gloss": ""
+      "gloss": "morago"
     },
     {
       "surface": "אלהים",
-      "gloss": "medimo"
+      "gloss": "dimodimo"
     },
     {
       "surface": "אחרים",
-      "gloss": "e mengwe"
+      "gloss": "tse dingwe"
     },
     {
       "surface": "לעבדם",
-      "gloss": "go e dira"
+      "gloss": "go di direla"
     },
     {
       "surface": "ושבו",
-      "gloss": "lo nne"
+      "gloss": "mme lo nne"
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "mo"
     },
     {
       "surface": "האדמה",
-      "gloss": "lefatsheng leo"
+      "gloss": "lefatsheeng leo"
     },
     {
       "surface": "אשר",
-      "gloss": "ke neng ke"
+      "gloss": "leo"
     },
     {
       "surface": "נתתי",
-      "gloss": "le lo neela"
+      "gloss": "ke neng ka se neela"
     },
     {
       "surface": "לכם",
@@ -122,7 +122,7 @@
     },
     {
       "surface": "ולאבתיכם",
-      "gloss": "le bokoko ba lona"
+      "gloss": "le bokgobokanyo jwa lona"
     },
     {
       "surface": "ולא",
@@ -130,16 +130,16 @@
     },
     {
       "surface": "הטיתם",
-      "gloss": "lo a ka lwa gotobatsa"
+      "gloss": "lo a ka lo thuba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ditsebe tsa lona"
+      "marks": "dikutu tsa lona"
     },
     {
       "surface": "אזנכם",
-      "gloss": "ditsebe tsa lona"
+      "gloss": "dikutu tsa lona"
     },
     {
       "surface": "ולא",
@@ -147,13 +147,13 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "lo a ka lwa mpeeletsa"
+      "gloss": "lo a ka lo mmetla"
     },
     {
       "surface": "אלי",
-      "gloss": ""
+      "gloss": "go nna"
     }
   ],
-  "timestamp": "2026-10-04T00:21:56.295462453Z",
+  "timestamp": "2026-10-04T03:41:51.863347923Z",
   "model": "glm-5.3"
 }

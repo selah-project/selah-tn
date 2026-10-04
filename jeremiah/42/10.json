@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "tn",
   "chapter": 42,
-  "translation": "Fa lo boela lo nna mo lefatsheng le, ke tlaa lo aga ⟨את⟩ mme ga ke thube, ke tlaa lo jadisa ⟨את⟩ mme ga ke ntše, gore ke iketletse ka bosula bo ke bo dirileng go lona.",
+  "translation": "Fa boela lo nna mo lefatsheng le, ke tlaa lo aga ⟨את⟩ mme ga ke senye, ke tlaa lo jala ⟨את⟩ mme ga ke lo ntshe, gonne ke sokolotse ka bosula jo ke bo dirileng go lona.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "fa"
+      "gloss": "Fa"
     },
     {
       "surface": "שוב",
-      "gloss": "lo boela"
+      "gloss": "boela"
     },
     {
       "surface": "תשבו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ lona",
       "marks": "lona"
     },
     {
@@ -42,15 +42,15 @@
     },
     {
       "surface": "אהרס",
-      "gloss": "ke thube"
+      "gloss": "ke senye"
     },
     {
       "surface": "ונטעתי",
-      "gloss": "ke tlaa lo jadisa"
+      "gloss": "ke tlaa lo jala"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ lona",
       "marks": "lona"
     },
     {
@@ -59,15 +59,15 @@
     },
     {
       "surface": "אתוש",
-      "gloss": "ke ntše"
+      "gloss": "ke lo ntshe"
     },
     {
       "surface": "כי",
-      "gloss": "gore"
+      "gloss": "gonne"
     },
     {
       "surface": "נחמתי",
-      "gloss": "ke iketletse"
+      "gloss": "ke sokolotse"
     },
     {
       "surface": "אל",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "bo"
+      "gloss": "jo"
     },
     {
       "surface": "עשיתי",
@@ -90,6 +90,6 @@
       "gloss": "go lona"
     }
   ],
-  "timestamp": "2026-10-04T00:26:30.384195211Z",
+  "timestamp": "2026-10-04T03:42:12.880451681Z",
   "model": "glm-5.3"
 }

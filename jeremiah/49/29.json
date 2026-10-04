@@ -5,8 +5,61 @@
   "book": "jeremiah",
   "lang": "tn",
   "chapter": 49,
-  "translation": "Matlhaga a bone le dipoo tsa bone di tla tsewa; diaparo tsa matlhaga, le dilo tsa bone tsotlhe, le dikamele tsa bone, ba di beolela bone; mme ba bitsa mo go tsone: maswe a magolo go tswa kwa makgetlho a le mmalwa.",
-  "tokens": [],
-  "timestamp": "2026-10-04T00:29:02.458688392Z",
+  "translation": "Matlhare a bone le dinku tsa bone di tla tsewa; mapapatla a matlhare le didiriswa tsa bone tsotlhe le dikamela tsa bone ba tla di rwalela go bone; mme ba tla kgala mo go bone: Tshoganyetso go dikologa.",
+  "tokens": [
+    {
+      "surface": "אהליהם",
+      "gloss": "matlhare a bone"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "le dinku tsa bone"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "di tla tsewa"
+    },
+    {
+      "surface": "יריעותיהם",
+      "gloss": "mapapatla a matlhare"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "didiriswa tsa bone tsotlhe"
+    },
+    {
+      "surface": "וגמליהם",
+      "gloss": "le dikamela tsa bone"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ba tla di rwalela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bone"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "mme ba tla kgala"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mo go bone"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "tshoganyetso"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "go dikologa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:42:32.876695101Z",
   "model": "glm-5.3"
 }

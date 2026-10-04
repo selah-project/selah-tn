@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 7,
-  "translation": "Le ⟨את⟩ diphio tse pedi, le ⟨את⟩ mafura a a leng ho tsone, a a leng ho mmoko, le ⟨את⟩ serapa se se leng ho sebete, mmoho le diphio di tlogelelwe.",
+  "translation": "Le ⟨את⟩ diphio tse pedi, le ⟨את⟩ mafura a a mo go tsone, a a mo dikgereng, le ⟨את⟩ loba lo lo kwa godimo ga sebete; o tla lo ntsha le diphio.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "Le ⟨את⟩",
       "marks": "diphio tse pedi"
     },
     {
@@ -31,36 +31,36 @@
     },
     {
       "surface": "אשר",
-      "gloss": "a a leng"
+      "gloss": "a a"
     },
     {
       "surface": "עליהן",
-      "gloss": "ho tsone"
+      "gloss": "mo go tsone"
     },
     {
       "surface": "אשר",
-      "gloss": "a a leng"
+      "gloss": "a a"
     },
     {
       "surface": "על",
-      "gloss": "ho"
+      "gloss": "mo"
     },
     {
       "surface": "הכסלים",
-      "gloss": "mmoko"
+      "gloss": "dikgereng"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "serapa"
+      "marks": "loba"
     },
     {
       "surface": "היתרת",
-      "gloss": "serapa"
+      "gloss": "loba"
     },
     {
       "surface": "על",
-      "gloss": "ho"
+      "gloss": "kwa godimo ga"
     },
     {
       "surface": "הכבד",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "על",
-      "gloss": "mmoho le"
+      "gloss": "le"
     },
     {
       "surface": "הכלית",
@@ -76,9 +76,9 @@
     },
     {
       "surface": "יסירנה",
-      "gloss": "di tlogelelwe"
+      "gloss": "o tla lo ntsha"
     }
   ],
-  "timestamp": "2026-10-03T21:51:44.810882517Z",
+  "timestamp": "2026-10-04T03:32:26.011060210Z",
   "model": "glm-5.3"
 }

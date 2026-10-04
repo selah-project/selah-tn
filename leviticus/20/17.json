@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme monna yo o tla nyang ⟨את⟩ kgaitsadie, morwadia rraagwe kgotsa morwadia mmaagwe, mme a bona ⟨את⟩ bosele jwa gagwe, mme yena a bona ⟨את⟩ bosele jwa gagwe — hesede ke yone; mme ba tla kgaolwa mahlong a bana ba setšhaba sa bone: bosele jwa kgaitsadie jwa ne jwa senolwa; o tla belegwa ke molato wa gagwe.",
+  "translation": "Mme monna yo o tsayang kgaitsadi ya gagwe, morwadia rraagwe kana morwadia mmaagwe, mme a bona ⟨את⟩ bonakedi jwa yona, mme yona a bona ⟨את⟩ bonakedi jwa gagwe — hesede ke yone; ba tla kgaolwa mahlong a bana ba setshaba sa bone: o senotse bonakedi jwa kgaitsadi ya gagwe; boleo jwa gagwe o tla bo jwala.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "יקח",
-      "gloss": "o tla nyang"
+      "gloss": "o tsayang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kgaitsadie"
+      "marks": "kgaitsadi ya gagwe"
     },
     {
       "surface": "אחתו",
-      "gloss": "kgaitsadie"
+      "gloss": "kgaitsadi ya gagwe"
     },
     {
       "surface": "בת",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "או",
-      "gloss": "kgotsa"
+      "gloss": "kana"
     },
     {
       "surface": "בת",
@@ -55,15 +55,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bosele jwa gagwe"
+      "marks": "bonakedi jwa yona"
     },
     {
       "surface": "ערותה",
-      "gloss": "bosele jwa gagwe"
+      "gloss": "bonakedi jwa yona"
     },
     {
       "surface": "והיא",
-      "gloss": "mme yena"
+      "gloss": "mme yona"
     },
     {
       "surface": "תראה",
@@ -72,11 +72,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bosele jwa gagwe"
+      "marks": "bonakedi jwa gagwe"
     },
     {
       "surface": "ערותו",
-      "gloss": "bosele jwa gagwe"
+      "gloss": "bonakedi jwa gagwe"
     },
     {
       "surface": "חסד",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "ונכרתו",
-      "gloss": "mme ba tla kgaolwa"
+      "gloss": "ba tla kgaolwa"
     },
     {
       "surface": "לעיני",
@@ -100,29 +100,29 @@
     },
     {
       "surface": "עמם",
-      "gloss": "setšhaba sa bone"
+      "gloss": "setshaba sa bone"
     },
     {
       "surface": "ערות",
-      "gloss": "bosele jwa"
+      "gloss": "bonakedi"
     },
     {
       "surface": "אחתו",
-      "gloss": "kgaitsadie"
+      "gloss": "jwa kgaitsadi ya gagwe"
     },
     {
       "surface": "גלה",
-      "gloss": "jwa ne jwa senolwa"
+      "gloss": "o senotse"
     },
     {
       "surface": "עונו",
-      "gloss": "molato wa gagwe"
+      "gloss": "boleo jwa gagwe"
     },
     {
       "surface": "ישא",
-      "gloss": "o tla belegwa ke"
+      "gloss": "o tla bo jwala"
     }
   ],
-  "timestamp": "2026-10-03T21:59:33.651081302Z",
+  "timestamp": "2026-10-04T03:33:15.955722566Z",
   "model": "glm-5.3"
 }

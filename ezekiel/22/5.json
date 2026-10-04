@@ -5,8 +5,45 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 22,
-  "translation": "Boitshepo bwa me o bo sotla, mme Shabata ya me o e boitshuntsha.",
-  "tokens": [],
-  "timestamp": "2026-10-04T00:39:26.094033337Z",
+  "translation": "Ba ba gaufi le ba ba kgakala ba tlaa go tlhabisa ditlhong, wena o sa itshepeng mo leineng, o nago le tlhakatlhakano e ntsi.",
+  "tokens": [
+    {
+      "surface": "הקרבות",
+      "gloss": "ba ba gaufi"
+    },
+    {
+      "surface": "והרחקות",
+      "gloss": "le ba ba kgakala"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "יתקלסו",
+      "gloss": "ba tlaa go tlhabisa ditlhong"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mo go wena"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "o sa itshepeng"
+    },
+    {
+      "surface": "השם",
+      "gloss": "mo leineng"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "o nago le e ntsi"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "tlhakatlhakano"
+    }
+  ],
+  "timestamp": "2026-10-04T03:42:29.840208453Z",
   "model": "glm-5.3"
 }

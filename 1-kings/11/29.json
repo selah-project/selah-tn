@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 11,
-  "translation": "Mme go ne go le ka nako eo fa Yerobhoeame a ne a tswa kwa Yerushalayime, mme Ahiya wa Shilo, moporofeti, a mo fitlhela mo tseleng, a ikabetse ka salma e ntšhwa; mme ba ne ba le bone nosi fela kwa masimong.",
+  "translation": "Mme go ne go le ka nako eo, Yerobowamo a tswa kwa Yerushalayime; mme Ahiya wa kwa Shilo, moporofeti, a kopana le ⟨את⟩ ene mo tseleng — mme ene a ikarabetsa ka seaparo se sesha; mme ba babedi ba le nosi fela mo kgaufeleng.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Mme go ne go le"
+      "gloss": "go ne go le"
     },
     {
       "surface": "בעת",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "וירבעם",
-      "gloss": "fa Yerobhoeame"
+      "gloss": "Yerobowamo"
     },
     {
       "surface": "יצא",
-      "gloss": "a ne a tswa"
+      "gloss": "a tswa"
     },
     {
       "surface": "מירושלם",
@@ -33,11 +33,12 @@
     },
     {
       "surface": "וימצא",
-      "gloss": "a mo fitlhela"
+      "gloss": "a kopana le"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ mo"
+      "gloss": "⟨את⟩",
+      "marks": "Ahiya"
     },
     {
       "surface": "אחיה",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "השילני",
-      "gloss": "wa Shilo"
+      "gloss": "wa kwa Shilo"
     },
     {
       "surface": "הנביא",
@@ -61,29 +62,29 @@
     },
     {
       "surface": "מתכסה",
-      "gloss": "a ikabetse"
+      "gloss": "a ikarabetsa"
     },
     {
       "surface": "בשלמה",
-      "gloss": "ka salma"
+      "gloss": "ka seaparo"
     },
     {
       "surface": "חדשה",
-      "gloss": "e ntšhwa"
+      "gloss": "se sesha"
     },
     {
       "surface": "ושניהם",
-      "gloss": "mme bone bobedi"
+      "gloss": "mme ba babedi"
     },
     {
       "surface": "לבדם",
-      "gloss": "nosi fela"
+      "gloss": "ba le nosi fela"
     },
     {
       "surface": "בשדה",
-      "gloss": "kwa masimong"
+      "gloss": "mo kgaufeleng"
     }
   ],
-  "timestamp": "2026-10-03T23:26:42.379504880Z",
+  "timestamp": "2026-10-04T03:39:34.329805063Z",
   "model": "glm-5.3"
 }

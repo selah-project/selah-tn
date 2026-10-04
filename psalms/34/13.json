@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 34,
-  "translation": "Ke mang ⟨the⟩ monna yo o batlang botshelo, o mo ratang malatsi a mantsi, gore a bone se se siameng?",
+  "translation": "Ke mang ⟨mo⟩ motho yo o ratang bophelo, yo o ratang matsatsi a mantsi, gore a bone se siameng?",
   "tokens": [
     {
       "surface": "מי",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "האיש",
-      "gloss": "monna"
+      "gloss": "motho"
     },
     {
       "surface": "החפץ",
-      "gloss": "yo o batlang"
+      "gloss": "yo o ratang"
     },
     {
       "surface": "חיים",
-      "gloss": "botshelo"
+      "gloss": "bophelo"
     },
     {
       "surface": "אהב",
-      "gloss": "o mo ratang"
+      "gloss": "yo o ratang"
     },
     {
       "surface": "ימים",
-      "gloss": "malatsi a mantsi"
+      "gloss": "matsatsi"
     },
     {
       "surface": "לראות",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "טוב",
-      "gloss": "se se siameng"
+      "gloss": "se siameng"
     }
   ],
-  "timestamp": "2026-10-04T01:18:27.813713155Z",
+  "timestamp": "2026-10-04T03:44:36.200164102Z",
   "model": "glm-5.3"
 }

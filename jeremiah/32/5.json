@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tn",
   "chapter": 32,
-  "translation": "Mme Babilone o tla isa ⟨את⟩ Tsidkiyahu, mme koo ⟨he⟩ o tla nna go fitlha ke batla ⟨אתו⟩, go bua Yahwe; gonne le ka lwa le Bakasde, le ka se atlege.",
+  "translation": "Mme Baabele o tla isa ⟨את⟩ Tsedekiahu, mme koo o tla nna go fitlha ke ⟨את⟩ mo keteka, go bua Yahwe; gonne fa le lwa le ⟨את⟩ Bakasdi, le ka se atlege.",
   "tokens": [
     {
       "surface": "ובבל",
-      "gloss": "Mme Babilone"
+      "gloss": "Mme Baabele"
     },
     {
       "surface": "יולך",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tsidkiyahu"
+      "marks": "Tsedekiahu"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsidkiyahu"
+      "gloss": "Tsedekiahu"
     },
     {
       "surface": "ושם",
@@ -38,12 +38,11 @@
     },
     {
       "surface": "פקדי",
-      "gloss": "ke batla"
+      "gloss": "ke mo keteka"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "Tsidkiyahu"
+      "gloss": "⟨את⟩ mo"
     },
     {
       "surface": "נאם",
@@ -55,29 +54,30 @@
     },
     {
       "surface": "כי",
-      "gloss": "gonne"
+      "gloss": "gonne fa"
     },
     {
       "surface": "תלחמו",
-      "gloss": "le ka lwa"
+      "gloss": "le lwa le"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ le"
+      "gloss": "⟨את⟩",
+      "marks": "Bakasdi"
     },
     {
       "surface": "הכשדים",
-      "gloss": "Bakasde"
+      "gloss": "Bakasdi"
     },
     {
       "surface": "לא",
-      "gloss": "ga se"
+      "gloss": "le ka se"
     },
     {
       "surface": "תצליחו",
-      "gloss": "atlega"
+      "gloss": "atlege"
     }
   ],
-  "timestamp": "2026-10-04T00:22:09.887097787Z",
+  "timestamp": "2026-10-04T03:41:22.049786814Z",
   "model": "glm-5.3"
 }

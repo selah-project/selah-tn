@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 9,
-  "translation": "Mme ba mo neela ⟨את⟩ sehlabelo se se fisang ka dikarolo tsa sone, le ⟨את⟩ tlhogo; mme o a di fisa mo go ⟨the⟩ altare.",
+  "translation": "Mme ba mo neela ⟨את⟩ sefithelo le dikgaoganyo tsa sone, le ⟨את⟩ tlhogo; mme a se fopholeditse mo sefating.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "sehlabelo se se fisang"
+      "marks": "sefithelo"
     },
     {
       "surface": "העלה",
-      "gloss": "sehlabelo se se fisang"
+      "gloss": "sefithelo"
     },
     {
       "surface": "המציאו",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "אליו",
-      "gloss": "go ene"
+      "gloss": "mo"
     },
     {
       "surface": "לנתחיה",
-      "gloss": "ka dikarolo tsa sone"
+      "gloss": "le dikgaoganyo tsa sone"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "le ⟨את⟩",
       "marks": "tlhogo"
     },
     {
@@ -39,17 +39,17 @@
     },
     {
       "surface": "ויקטר",
-      "gloss": "o a di fisa"
+      "gloss": "mme a se fopholeditse"
     },
     {
       "surface": "על",
-      "gloss": "mo go"
+      "gloss": "mo"
     },
     {
       "surface": "המזבח",
-      "gloss": "altare"
+      "gloss": "sefating"
     }
   ],
-  "timestamp": "2026-10-03T21:52:51.492487384Z",
+  "timestamp": "2026-10-04T03:31:47.449785246Z",
   "model": "glm-5.3"
 }

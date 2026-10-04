@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 18,
-  "translation": "Mme Yitro a re: A Yahwe a segofadiwe, yo o ⟨את⟩ lo golotseng mo seatleng sa Mitsrayime le mo seatleng sa Faro, yena yo o golotseng ⟨את⟩ setšhaba mo tlase ga seatla sa Mitsrayime.",
+  "translation": "Mme Yitro a re: Yahwe a akgolwa, yo o ⟨את⟩ lo ntshitseng mo seatleng sa Mitsrayime, le mo seatleng sa Faro, yo o ntshitseng ⟨את⟩ setshaba mo seatleng sa Mitsrayime.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "a segofadiwe"
+      "gloss": "a akgolwa"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הציל",
-      "gloss": "o lo golotseng"
+      "gloss": "o lo ntshitseng"
     },
     {
       "surface": "אתכם",
@@ -53,34 +53,34 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yena yo"
+      "gloss": "yo"
     },
     {
       "surface": "הציל",
-      "gloss": "o golotseng"
+      "gloss": "o ntshitseng"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "setšhaba"
+      "marks": "setshaba"
     },
     {
       "surface": "העם",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "מתחת",
-      "gloss": "mo tlase ga"
+      "gloss": "mo"
     },
     {
       "surface": "יד",
-      "gloss": "seatla sa"
+      "gloss": "seatleng sa"
     },
     {
       "surface": "מצרים",
       "gloss": "Mitsrayime"
     }
   ],
-  "timestamp": "2026-10-03T21:39:09.536301497Z",
+  "timestamp": "2026-10-04T03:30:58.239001143Z",
   "model": "glm-5.3"
 }

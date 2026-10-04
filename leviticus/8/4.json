@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 8,
-  "translation": "Mme Moshe a dira jaaka Yahwe a neng a laeletse ⟨את⟩gagwe; mme setšhaba se ne sa thapisana kwa sekgorong sa Tente ya Kopano.",
+  "translation": "Mme Moshe a dira jaaka Yahwe a mo laeditse ⟨את⟩, mme setshaba se ne sa tlhokaletswa kwa sebakeng sa go tsena sa teng ya kopano.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "a laeletse"
+      "gloss": "a laeditse"
     },
     {
       "surface": "יהוה",
@@ -29,15 +29,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩gagwe"
+      "gloss": "⟨את⟩ mo",
+      "marks": "Moshe"
     },
     {
       "surface": "ותקהל",
-      "gloss": "sa thapisana"
+      "gloss": "se ne sa tlhokaletswa"
     },
     {
       "surface": "העדה",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "אל",
@@ -45,17 +46,17 @@
     },
     {
       "surface": "פתח",
-      "gloss": "sekgorong"
+      "gloss": "sebakeng sa go tsena"
     },
     {
       "surface": "אהל",
-      "gloss": "Tente"
+      "gloss": "teng"
     },
     {
       "surface": "מועד",
-      "gloss": "ya Kopano"
+      "gloss": "ya kopano"
     }
   ],
-  "timestamp": "2026-10-03T21:52:10.629917788Z",
+  "timestamp": "2026-10-04T03:31:54.235115702Z",
   "model": "glm-5.3"
 }

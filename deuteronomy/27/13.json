@@ -5,8 +5,57 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Mme ba ba nang le tshepo e, ba tlaa ema go la segajilo se segolo se se nang le kganelo: Reubene, Gade, le Ashere, le Zebulune, Dane, le Nafutale.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:30:22.621288534Z",
+  "translation": "Mme ba ba latelang ba tla ema go mo kgalelong, kwa thabeng ya Eyibale: Reubene, Gade, le Ashere, le Zebulune, Dane, le Nafutale.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "mme ba ba latelang"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ba tla ema"
+    },
+    {
+      "surface": "על",
+      "gloss": "go mo"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "kgalelong"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwa thabeng"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyibale"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le Ashere"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "le Zebulune"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dane"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "le Nafutale"
+    }
+  ],
+  "timestamp": "2026-10-04T03:35:34.551980835Z",
   "model": "glm-5.3"
 }

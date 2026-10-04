@@ -5,24 +5,24 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 21,
-  "translation": "Mme e neelwa ⟨את⟩ go hloekisiwa gore e tsewe ka seatla; ⟨e⟩ ⟨is⟩ tshaka, e boile, mme e hloekisitswe, gore e neelwe ⟨את⟩ mo seatleng sa mmolai.",
+  "translation": "Mme o ne a e fa ⟨את⟩ go kgabisiwa, go ka tshwarwa ka seatla; e ne e betswa bofefo, tshaka e, mme e kgabisiwa, go e fa ⟨את⟩ mo seatleng sa mmolai.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Mme e neelwa"
+      "gloss": "a e fa"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "go hloekisiwa"
+      "marks": "go kgabisiwa"
     },
     {
       "surface": "למרטה",
-      "gloss": "go hloekisiwa"
+      "gloss": "go kgabisiwa"
     },
     {
       "surface": "לתפש",
-      "gloss": "gore e tsewe"
+      "gloss": "go tshwarwa"
     },
     {
       "surface": "בכף",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "היא",
-      "gloss": "⟨e⟩"
+      "gloss": "e ne"
     },
     {
       "surface": "הוחדה",
-      "gloss": "e boile"
+      "gloss": "e betswa bofefo"
     },
     {
       "surface": "חרב",
@@ -46,16 +46,16 @@
     },
     {
       "surface": "מרטה",
-      "gloss": "e hloekisitswe"
+      "gloss": "e kgabisiwa"
     },
     {
       "surface": "לתת",
-      "gloss": "gore e neelwe"
+      "gloss": "go e fa"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "mo seatleng"
+      "marks": "mo seatleng sa mmolai"
     },
     {
       "surface": "ביד",
@@ -66,6 +66,6 @@
       "gloss": "sa mmolai"
     }
   ],
-  "timestamp": "2026-10-04T00:39:38.492102435Z",
+  "timestamp": "2026-10-04T03:41:27.250180780Z",
   "model": "glm-5.3"
 }

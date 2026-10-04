@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 32,
-  "translation": "Sefoolo ga sa tlaa bidiwa gape ⟨the⟩ yo o pelonomi, mme yo o pelotlhwafading ga sa tlaa rewa gore ke morui.",
+  "translation": "Ga go kitla go bidiwa gape setlhogo ⟨ke⟩ yo o bulelang diatla, mme moputswa ga o kitla wa bidiwa ⟨ke⟩ morui.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ga go kitla"
     },
     {
       "surface": "יקרא",
@@ -21,29 +21,29 @@
     },
     {
       "surface": "לנבל",
-      "gloss": "sefoolo"
+      "gloss": "setlhogo"
     },
     {
       "surface": "נדיב",
-      "gloss": "yo o pelonomi"
+      "gloss": "yo o bulelang diatla"
     },
     {
       "surface": "ולכילי",
-      "gloss": "mme yo o pelotlhwafading"
+      "gloss": "mme moputswa"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ga o kitla"
     },
     {
       "surface": "יאמר",
-      "gloss": "go rewa"
+      "gloss": "wa bidiwa"
     },
     {
       "surface": "שוע",
       "gloss": "morui"
     }
   ],
-  "timestamp": "2026-10-03T23:54:02.585734446Z",
+  "timestamp": "2026-10-04T03:39:56.945661759Z",
   "model": "glm-5.3"
 }

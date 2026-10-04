@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme setšhaba sotlhe se ne se bona ⟨את⟩ didumo le ⟨את⟩ dikadibono le ⟨את⟩ modumo wa shofara le ⟨את⟩ thaba e e kolobang; mme fa setšhaba se bona, se ikgebaketse, mme se eme kwa kgakala.",
+  "translation": "Setshaba sotlhe se ne se bona ⟨את⟩ medumo le ⟨את⟩ dikhanya le ⟨את⟩ molumo wa shofara le ⟨את⟩ thaba e e nang le mosi; setshaba sa bona se ne sa thothomola, sa ema kwa kgakala.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Mme … sotlhe"
+      "gloss": "sotlhe"
     },
     {
       "surface": "העם",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "ראים",
@@ -22,29 +22,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "didumo"
+      "marks": "medumo"
     },
     {
       "surface": "הקולת",
-      "gloss": "didumo"
+      "gloss": "medumo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "dikadibono"
+      "gloss": "le ⟨את⟩",
+      "marks": "dikhanya"
     },
     {
       "surface": "הלפידם",
-      "gloss": "dikadibono"
+      "gloss": "dikhanya"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "modumo wa shofara"
+      "gloss": "le ⟨את⟩",
+      "marks": "molumo wa shofara"
     },
     {
       "surface": "קול",
-      "gloss": "modumo"
+      "gloss": "molumo"
     },
     {
       "surface": "השפר",
@@ -52,8 +52,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "thaba"
+      "gloss": "le ⟨את⟩",
+      "marks": "thaba e e nang le mosi"
     },
     {
       "surface": "ההר",
@@ -61,29 +61,29 @@
     },
     {
       "surface": "עשן",
-      "gloss": "e e kolobang"
+      "gloss": "e e nang le mosi"
     },
     {
       "surface": "וירא",
-      "gloss": "fa … bona"
+      "gloss": "sa bona"
     },
     {
       "surface": "העם",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "וינעו",
-      "gloss": "se ikgebaketse"
+      "gloss": "sa thothomola"
     },
     {
       "surface": "ויעמדו",
-      "gloss": "se eme"
+      "gloss": "sa ema"
     },
     {
       "surface": "מרחק",
       "gloss": "kwa kgakala"
     }
   ],
-  "timestamp": "2026-10-03T21:40:16.214843438Z",
+  "timestamp": "2026-10-04T03:31:28.585716091Z",
   "model": "glm-5.3"
 }

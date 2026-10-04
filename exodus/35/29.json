@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 35,
-  "translation": "Mongwe le mongwe wa banna le basadi bao pelo ya bone e neng ya ba golola go isa ⟨את⟩ tlamelo mo mošomong oohle oo Yahwe a neng a laela go o dira ka seatla sa Moshe — bana ba Yisraele ba ne ba isa tlamelo ya boithaopo go Yahwe.",
+  "translation": "Motho mongwe le mongwe le mosadi mongwe le mongwe, ba pelo ya bone e neng ya ba dira ba ikhutlafatse go isa mpho ya tiro yotlhe ye Yahwe a neng a laetse go diriwa ka seatla sa Moshe — bana ba Yisraele ba ne ba isa dinpeo tsa go ikhutlafatsa go Yahwe.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "wa banna"
+      "gloss": "motho"
     },
     {
       "surface": "ואשה",
-      "gloss": "le basadi"
+      "gloss": "le mosadi"
     },
     {
       "surface": "אשר",
-      "gloss": "bao"
+      "gloss": "ba"
     },
     {
       "surface": "נדב",
-      "gloss": "e ba golola"
+      "gloss": "e neng ya ba dira ba ikhutlafatse"
     },
     {
       "surface": "לבם",
@@ -34,7 +34,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "go isa tlamelo"
+      "marks": "ba"
     },
     {
       "surface": "להביא",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "לכל",
-      "gloss": "mo ... oohle"
+      "gloss": "ya"
     },
     {
       "surface": "המלאכה",
-      "gloss": "mošomo"
+      "gloss": "tiro yotlhe"
     },
     {
       "surface": "אשר",
-      "gloss": "oo"
+      "gloss": "ye"
     },
     {
       "surface": "צוה",
-      "gloss": "a laela"
+      "gloss": "a neng a laetse"
     },
     {
       "surface": "יהוה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "go o dira"
+      "gloss": "go diriwa"
     },
     {
       "surface": "ביד",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "נדבה",
-      "gloss": "tlamelo ya boithaopo"
+      "gloss": "dinpeo tsa go ikhutlafatsa"
     },
     {
       "surface": "ליהוה",
       "gloss": "go Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T21:47:59.101320196Z",
+  "timestamp": "2026-10-04T03:31:29.889570354Z",
   "model": "glm-5.3"
 }

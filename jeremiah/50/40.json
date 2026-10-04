@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tn",
   "chapter": 50,
-  "translation": "Jaaka go tlhabolola ga Elohim ⟨את⟩ Sodome le ⟨את⟩ Gomore le ⟨את⟩ baagelani ba yona, go bua Yahwe; ga ope ya tla nna teng koo, mme ga morwa wa motho a ka nna moši koo.",
+  "translation": "Jaaka go sutlwaelwa ga ga Elohim ga ⟨את⟩ Sodome le ⟨את⟩ Gomorae le ⟨את⟩ baagelani ba yone, go bua Yahwe; ga go kitla a nna fela motho, mme ga go kitla a nna mo go yone morwa wa motho.",
   "tokens": [
     {
       "surface": "כמהפכת",
-      "gloss": "Jaaka go tlhabolola ga"
+      "gloss": "jaaka go sutlwaelwa ga"
     },
     {
       "surface": "אלהים",
@@ -27,20 +27,20 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "Gomore"
+      "marks": "Gomorae"
     },
     {
       "surface": "עמרה",
-      "gloss": "Gomore"
+      "gloss": "Gomorae"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "baagelani ba yona"
+      "marks": "baagelani ba yone"
     },
     {
       "surface": "שכניה",
-      "gloss": "baagelani ba yona"
+      "gloss": "baagelani ba yone"
     },
     {
       "surface": "נאם",
@@ -52,31 +52,31 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ga go kitla"
     },
     {
       "surface": "ישב",
-      "gloss": "a ka nna teng"
+      "gloss": "a nna"
     },
     {
       "surface": "שם",
-      "gloss": "koo"
+      "gloss": "fela"
     },
     {
       "surface": "איש",
-      "gloss": "ope"
+      "gloss": "motho"
     },
     {
       "surface": "ולא",
-      "gloss": "mme ga"
+      "gloss": "mme ga go kitla"
     },
     {
       "surface": "יגור",
-      "gloss": "a ka nna moši"
+      "gloss": "a nna"
     },
     {
       "surface": "בה",
-      "gloss": "koo"
+      "gloss": "mo go yone"
     },
     {
       "surface": "בן",
@@ -87,6 +87,6 @@
       "gloss": "wa motho"
     }
   ],
-  "timestamp": "2026-10-04T00:29:29.562422239Z",
+  "timestamp": "2026-10-04T03:41:35.868009925Z",
   "model": "glm-5.3"
 }

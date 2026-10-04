@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 32:14",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 32,
+  "translation": "Gonne segosi se tla tlogelwa, phatlalatso ya toropo e tla siea; phophama le lefelo la go lebelela di tla nna mebo go ya le pele, boitumelo jwa dipere tsa naga, boolo jwa diphologolo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "segosi"
+    },
+    {
+      "surface": "נטש",
+      "gloss": "se tla tlogelwa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "phatlalatso"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "e tla siea"
+    },
+    {
+      "surface": "עפל",
+      "gloss": "phophama"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "le lefelo la go lebelela"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di tla nna"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨mo go⟩"
+    },
+    {
+      "surface": "מערות",
+      "gloss": "mebo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "le pele"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "dipere tsa naga"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "boolo"
+    },
+    {
+      "surface": "עדרים",
+      "gloss": "diphologolo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:39:58.185885411Z",
+  "model": "glm-5.3"
+}

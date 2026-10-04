@@ -5,8 +5,81 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Yo o segilweng ke mahuri o tshwanetse go bolelwa",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:30:22.621708034Z",
+  "translation": "O laotswe motho yo o dirang setshwantsho sa sekgoba le se thuntshitsweng, se se kelotlhologo go Yahwe, se dirwang ke diatla tsa moopedi, mme a se baya mo sephetlogong; mme setshaba sotlhe se tla araba, se re: Ame.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "o laotswe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o dirang"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "setshwantsho sa sekgoba"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "le se thuntshitsweng"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "se se kelotlhologo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "se dirwang"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ke diatla"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tsa moopedi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme a baya"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mo sephetlogong"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "se tla araba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "se re"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ame"
+    }
+  ],
+  "timestamp": "2026-10-04T03:35:34.552393213Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tn",
   "chapter": 7,
-  "translation": "Bua go setshaba sotlhe sa lefatshe, le go bapriste, o re: Fa lo ne lo tshega le go lopa ka ⟨the⟩ bohlano le ka ⟨the⟩ bosupa, dingwaga tse di masome a supa tseno, a lo tshega e le nna nna?",
+  "translation": "Bua le setshaba sona sotle sa lefatshe, le le balaodi ba ⟨את⟩, o re: Fa lo ne lo itshikinya go jele mo kgweding ya bohlano le ya bobedi, dingwaga tse di masome a supa tseo, a lo ne lo itshikinya go jele nna, nna?",
   "tokens": [
     {
       "surface": "אמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "le"
     },
     {
       "surface": "כל",
-      "gloss": "sotlhe"
+      "gloss": "sotle"
     },
     {
       "surface": "עם",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "le go"
+      "gloss": "le le"
     },
     {
       "surface": "הכהנים",
-      "gloss": "bapriste"
+      "gloss": "balaodi ba ⟨את⟩"
     },
     {
       "surface": "לאמר",
@@ -41,31 +41,31 @@
     },
     {
       "surface": "כי",
-      "gloss": "fa"
+      "gloss": "Fa"
     },
     {
       "surface": "צמתם",
-      "gloss": "lo tshega"
+      "gloss": "lo ne lo itshikinya go jele"
     },
     {
       "surface": "וספוד",
-      "gloss": "le go lopa"
+      "gloss": "go jele"
     },
     {
       "surface": "בחמישי",
-      "gloss": "ka bohlano"
+      "gloss": "mo kgweding ya bohlano"
     },
     {
       "surface": "ובשביעי",
-      "gloss": "le ka bosupa"
+      "gloss": "le ya bobedi"
     },
     {
       "surface": "וזה",
-      "gloss": "tseno"
+      "gloss": "tseo"
     },
     {
       "surface": "שבעים",
-      "gloss": "di masome a supa"
+      "gloss": "masome a supa"
     },
     {
       "surface": "שנה",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "הצום",
-      "gloss": "go tshega"
+      "gloss": "go itshikinya go jele"
     },
     {
       "surface": "צמתני",
-      "gloss": "lo tshega go nna"
+      "gloss": "lo ne lo itshikinya go jele nna"
     },
     {
       "surface": "אני",
       "gloss": "nna"
     }
   ],
-  "timestamp": "2026-10-04T01:08:30.171793158Z",
+  "timestamp": "2026-10-04T03:47:35.786584542Z",
   "model": "glm-5.3"
 }

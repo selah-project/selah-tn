@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 25,
-  "translation": "Mme o dire ⟨את⟩ diphatla ka ditlhare tsa setlhare sa shitime, mme o di kgabisitse ka gauta; mme ka tsone tafole e tla isišwa ⟨את⟩.",
+  "translation": "Mme o tla dira ⟨את⟩ dikgapu ka setlhare sa shita, o di batakanye ka gauta, mme ⟨את⟩ tafole e ka isiwa ka tsone.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -14,36 +14,35 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "diphatla"
+      "marks": "dikgapu"
     },
     {
       "surface": "הבדים",
-      "gloss": "diphatla"
+      "gloss": "dikgapu"
     },
     {
       "surface": "עצי",
-      "gloss": "ka ditlhare"
+      "gloss": "ka setlhare"
     },
     {
       "surface": "שטים",
-      "gloss": "setlhare sa shitime"
+      "gloss": "sa shita"
     },
     {
       "surface": "וצפית",
-      "gloss": "mme o di kgabisitse"
+      "gloss": "o batakanye"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "gauta"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "זהב",
-      "gloss": "gauta"
+      "gloss": "ka gauta"
     },
     {
       "surface": "ונשא",
-      "gloss": "mme e tla isišwa"
+      "gloss": "e isiwe"
     },
     {
       "surface": "בם",
@@ -59,6 +58,6 @@
       "gloss": "tafole"
     }
   ],
-  "timestamp": "2026-10-03T21:42:21.214053517Z",
+  "timestamp": "2026-10-04T03:31:21.093048204Z",
   "model": "glm-5.3"
 }

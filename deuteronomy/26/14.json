@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 26,
-  "translation": "Ga ke a se ja mo sepelolong sa me, mme ga ke a se ntsha mo boiteleng, mme ga ke a ka ke se neela sehuba; ke utlile lentswe la Yahwe Elohim wa me; ke dirile go ya ka sengwe le sengwe se o ntsweletseng.",
+  "translation": "Ga ke a ka ka se ja mo botsoko jwa me go tswa mo go sona, mme ga ke a ka ka se ntsha go tswa mo go sona ka boiting, mme ga ke a ka kea se fa sefengo; ke utlile lentswe la Yahwe Elohim wa me, ke dirile jaaka tsotlhe tse o di laetseng.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אכלתי",
-      "gloss": "ke a se ja"
+      "gloss": "ke a ka ka se ja"
     },
     {
       "surface": "באני",
-      "gloss": "mo sepelolong sa me"
+      "gloss": "mo botsoko jwa me"
     },
     {
       "surface": "ממנו",
-      "gloss": ""
+      "gloss": "go tswa mo go sona"
     },
     {
       "surface": "ולא",
@@ -29,31 +29,31 @@
     },
     {
       "surface": "בערתי",
-      "gloss": "ke a se ntsha"
+      "gloss": "ke a ka ka se ntsha"
     },
     {
       "surface": "ממנו",
-      "gloss": ""
+      "gloss": "go tswa mo go sona"
     },
     {
       "surface": "בטמא",
-      "gloss": "mo boiteleng"
+      "gloss": "ka boiting"
     },
     {
       "surface": "ולא",
-      "gloss": "mme ga ke a ka ke"
+      "gloss": "mme ga"
     },
     {
       "surface": "נתתי",
-      "gloss": "se neela"
+      "gloss": "ke a ka kea fa"
     },
     {
       "surface": "ממנו",
-      "gloss": ""
+      "gloss": "go tswa mo go sona"
     },
     {
       "surface": "למת",
-      "gloss": "sehuba"
+      "gloss": "sefengo"
     },
     {
       "surface": "שמעתי",
@@ -77,17 +77,17 @@
     },
     {
       "surface": "ככל",
-      "gloss": "go ya ka sengwe le sengwe"
+      "gloss": "jaaka tsotlhe"
     },
     {
       "surface": "אשר",
-      "gloss": "se"
+      "gloss": "tse"
     },
     {
       "surface": "צויתני",
-      "gloss": "o ntsweletseng"
+      "gloss": "o di laetseng"
     }
   ],
-  "timestamp": "2026-10-03T22:30:58.255646570Z",
+  "timestamp": "2026-10-04T03:35:00.381889219Z",
   "model": "glm-5.3"
 }

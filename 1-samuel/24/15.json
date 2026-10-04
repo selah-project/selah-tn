@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tn",
   "chapter": 24,
-  "translation": "Morago ga mang kgosi ya Yisraele e tlile go tswa? o tlisitse mang? Morago ga ntša e tlhokafetseng, morago ga lerothlodi le le lengwe?",
+  "translation": "Morago ga mang kgosi ya Yisraele e tswile? morago ga mang o letse? o letse morago ga phiri e e tlhokafetseng, morago ga lephata le le lengwe.",
   "tokens": [
     {
       "surface": "אחרי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יצא",
-      "gloss": "e tlile go tswa"
+      "gloss": "e tswile"
     },
     {
       "surface": "מלך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "wena"
+      "gloss": "o"
     },
     {
       "surface": "רדף",
-      "gloss": "o tlisitse"
+      "gloss": "letse"
     },
     {
       "surface": "אחרי",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "כלב",
-      "gloss": "ntša"
+      "gloss": "phiri"
     },
     {
       "surface": "מת",
-      "gloss": "e tlhokafetseng"
+      "gloss": "e e tlhokafetseng"
     },
     {
       "surface": "אחרי",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "פרעש",
-      "gloss": "lerothlodi"
+      "gloss": "lephata"
     },
     {
       "surface": "אחד",
       "gloss": "le le lengwe"
     }
   ],
-  "timestamp": "2026-10-03T23:04:18.942093064Z",
+  "timestamp": "2026-10-04T03:37:24.429088218Z",
   "model": "glm-5.3"
 }

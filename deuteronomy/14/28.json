@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Kwa mafelelong a dingwaga tse tharo, o ntsha ⟨את⟩ mašerufa onyana a sejo sa gago ka ngwaga yoo, o bo o a beela mo dikgorong tsa gago.",
+  "translation": "Mafatshe a bofelo a dingwaga tse tharo o tla ntsha ⟨את⟩ sephatlo sa peo ya gouta ya gago ka ngwaga oo, mme wa se batla mo dikgorong tsa gago.",
   "tokens": [
     {
       "surface": "מקצה",
-      "gloss": "Kwa mafelelong a"
+      "gloss": "mafatshe a bofelo"
     },
     {
       "surface": "שלש",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "תוציא",
-      "gloss": "o ntsha"
+      "gloss": "o tla ntsha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mašerufa onyana"
+      "marks": "sephatlo sa peo ya gouta"
     },
     {
       "surface": "כל",
-      "gloss": "onyana"
+      "gloss": "sotlhe"
     },
     {
       "surface": "מעשר",
-      "gloss": "mašerufa"
+      "gloss": "sephatlo"
     },
     {
       "surface": "תבואתך",
-      "gloss": "a sejo sa gago"
+      "gloss": "peo ya gouta ya gago"
     },
     {
       "surface": "בשנה",
@@ -46,17 +46,17 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "yoo"
+      "gloss": "oo"
     },
     {
       "surface": "והנחת",
-      "gloss": "o bo o a beela"
+      "gloss": "mme wa se batla"
     },
     {
       "surface": "בשעריך",
       "gloss": "mo dikgorong tsa gago"
     }
   ],
-  "timestamp": "2026-10-03T22:25:17.777467811Z",
+  "timestamp": "2026-10-04T03:34:38.574083590Z",
   "model": "glm-5.3"
 }

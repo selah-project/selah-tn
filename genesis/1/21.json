@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Mme Elohim o ne a bopa ⟨את⟩ ditannine tse dikgolo, le ⟨את⟩ sešupiwa sotle sa moya o tshelang o o tsamayang, se se tlisitsweng ke metsi ka mela ya sone, le ⟨את⟩ nonyane sotle ya lefuka ka mola wa yone; mme Elohim a bona gore go siame.",
+  "translation": "Mme Elohim a bopa ⟨את⟩ diphologolo tse dikgolo tsa lewatle, le ⟨את⟩ sengwe le sengwe se se nang se le moeti wa botshelo, o o sokamang, seo metsi a neng a a tlhaga ka bontsi go ya ka mofuta wa sona, le ⟨את⟩ nonyane ya lefuka, sengwe le sengwe go ya ka mofuta wa yone; mme Elohim a bona gore go siame.",
   "tokens": [
     {
       "surface": "ויברא",
-      "gloss": "o ne a bopa"
+      "gloss": "a bopa"
     },
     {
       "surface": "אלהים",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ditannine tse dikgolo"
+      "marks": "diphologolo tse dikgolo tsa lewatle"
     },
     {
       "surface": "התנינם",
-      "gloss": "ditannine"
+      "gloss": "diphologolo tse dikgolo tsa lewatle"
     },
     {
       "surface": "הגדלים",
@@ -31,31 +31,31 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "sešupiwa sotle sa moya o tshelang"
+      "marks": "sengwe le sengwe se se nang se le moeti wa botshelo"
     },
     {
       "surface": "כל",
-      "gloss": "sotle"
+      "gloss": "sengwe le sengwe"
     },
     {
       "surface": "נפש",
-      "gloss": "moya"
+      "gloss": "moeti wa botshelo"
     },
     {
       "surface": "החיה",
-      "gloss": "o tshelang"
+      "gloss": "wa botshelo"
     },
     {
       "surface": "הרמשת",
-      "gloss": "o o tsamayang"
+      "gloss": "o o sokamang"
     },
     {
       "surface": "אשר",
-      "gloss": "se se tlisitsweng"
+      "gloss": "seo"
     },
     {
       "surface": "שרצו",
-      "gloss": "se metsi a se tlisitseng ka bontsi"
+      "gloss": "a neng a a tlhaga ka bontsi"
     },
     {
       "surface": "המים",
@@ -63,16 +63,16 @@
     },
     {
       "surface": "למינהם",
-      "gloss": "ka mela ya sone"
+      "gloss": "go ya ka mofuta wa sona"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "nonyane sotle ya lefuka"
+      "marks": "nonyane ya lefuka"
     },
     {
       "surface": "כל",
-      "gloss": "sotle"
+      "gloss": "sengwe le sengwe"
     },
     {
       "surface": "עוף",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "למינהו",
-      "gloss": "ka mola wa yone"
+      "gloss": "go ya ka mofuta wa yone"
     },
     {
       "surface": "וירא",
@@ -103,6 +103,6 @@
       "gloss": "go siame"
     }
   ],
-  "timestamp": "2026-10-03T21:13:12.496577759Z",
+  "timestamp": "2026-10-04T03:29:30.176632099Z",
   "model": "glm-5.3"
 }

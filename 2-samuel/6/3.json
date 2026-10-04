@@ -5,40 +5,40 @@
   "book": "2-samuel",
   "lang": "tn",
   "chapter": 6,
-  "translation": "Ba ne ba bea ⟨את⟩ morongwa oa Elohim godimo ga koloi e ntšha, mme ba o tsema mo ntlong ya Abhinadabe, e e kwa Gibehe; mme Uza le mpaenye wa gagwe, bana ba Abhinadabe, ba ne ba kgweetsa koloi e ntšha.",
+  "translation": "Mme ba bayaela ⟨את⟩ arone ya Elohim mo koloeng e ncha, mme ba e tlisa mo ntlong ya Abinadabe e e kwa Gibea; mme Uza le Ahio, bana ba Abinadabe, ba ne ba kgweetsa ⟨את⟩ koloi e ncha.",
   "tokens": [
     {
       "surface": "וירכבו",
-      "gloss": "ba bea godimo ga koloi"
+      "gloss": "ba bayaela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "morongwa oa Elohim"
+      "marks": "arone ya Elohim"
     },
     {
       "surface": "ארון",
-      "gloss": "morongwa"
+      "gloss": "arone"
     },
     {
       "surface": "האלהים",
-      "gloss": "oa Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אל",
-      "gloss": "godimo ga"
+      "gloss": "mo"
     },
     {
       "surface": "עגלה",
-      "gloss": "koloi"
+      "gloss": "koloe"
     },
     {
       "surface": "חדשה",
-      "gloss": "e ntšha"
+      "gloss": "e ncha"
     },
     {
       "surface": "וישאהו",
-      "gloss": "ba o tsema"
+      "gloss": "ba e tlisa"
     },
     {
       "surface": "מבית",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אבינדב",
-      "gloss": "ya Abhinadabe"
+      "gloss": "ya Abinadabe"
     },
     {
       "surface": "אשר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "בגבעה",
-      "gloss": "kwa Gibehe"
+      "gloss": "kwa Gibea"
     },
     {
       "surface": "ועזא",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ואחיו",
-      "gloss": "le mpaenye wa gagwe"
+      "gloss": "le Ahio"
     },
     {
       "surface": "בני",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אבינדב",
-      "gloss": "ba Abhinadabe"
+      "gloss": "ba Abinadabe"
     },
     {
       "surface": "נהגים",
@@ -79,7 +79,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "koloi e ntšha"
+      "marks": "koloi e ncha"
     },
     {
       "surface": "העגלה",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "חדשה",
-      "gloss": "e ntšha"
+      "gloss": "e ncha"
     }
   ],
-  "timestamp": "2026-10-03T23:11:02.101276164Z",
+  "timestamp": "2026-10-04T03:48:58.082741370Z",
   "model": "glm-5.3"
 }

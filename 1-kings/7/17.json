@@ -5,31 +5,31 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 7,
-  "translation": "Mabolokgwe a tiro ya bolokgwe, le dikgabi tse di dirilweng ka dikhonokhonoši, bakotara tse di mo tlhogo ya dikholomo; dikedi di le supa bakotara e le nngwe, le dikedi di le supa bakotara ya bobedi.",
+  "translation": "Dikgatlhamo tsa go dira kgatlhamo, le dikgarapa tsa go dira dithapo, bakotara tse di mo tlhogong ya dikgotla, di le supa bakotara e nngwe, le di le supa bakotara ya bobedi.",
   "tokens": [
     {
       "surface": "שבכים",
-      "gloss": "mabolokgwe"
+      "gloss": "dikgatlhamo"
     },
     {
       "surface": "מעשה",
-      "gloss": "tiro"
+      "gloss": "go dira"
     },
     {
       "surface": "שבכה",
-      "gloss": "bolokgwe"
+      "gloss": "kgatlhamo"
     },
     {
       "surface": "גדלים",
-      "gloss": "dikgabi"
+      "gloss": "dikgarapa"
     },
     {
       "surface": "מעשה",
-      "gloss": "tiro"
+      "gloss": "go dira"
     },
     {
       "surface": "שרשרות",
-      "gloss": "dikhonokhonoši"
+      "gloss": "dithapo"
     },
     {
       "surface": "לכתרת",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "ראש",
-      "gloss": "tlhogo"
+      "gloss": "tlhogong"
     },
     {
       "surface": "העמודים",
-      "gloss": "dikholomo"
+      "gloss": "ya dikgotla"
     },
     {
       "surface": "שבעה",
-      "gloss": "supa"
+      "gloss": "di le supa"
     },
     {
       "surface": "לכתרת",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "האחת",
-      "gloss": "e le nngwe"
+      "gloss": "e nngwe"
     },
     {
       "surface": "ושבעה",
-      "gloss": "le supa"
+      "gloss": "le di le supa"
     },
     {
       "surface": "לכתרת",
@@ -76,6 +76,6 @@
       "gloss": "ya bobedi"
     }
   ],
-  "timestamp": "2026-10-03T23:22:58.003773741Z",
+  "timestamp": "2026-10-04T03:39:04.170382156Z",
   "model": "glm-5.3"
 }

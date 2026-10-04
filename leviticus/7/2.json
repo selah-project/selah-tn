@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 7,
-  "translation": "Kwa lefelong le ba bolaelang ⟨את⟩ setlhabelo sa go gopolwa kwa go sona, ba tlaa bolaela ⟨את⟩ se ašame; mme ⟨את⟩ madi a yone o tlaa a phunyeka mo altareng, ka dikakaretso.",
+  "translation": "Kwa lefelong leo ba bolaelang ⟨את⟩ haolah teng, ba tla bolaela ⟨את⟩ ashame; mme ⟨את⟩ madi a yone o tla a nomosa mo altareng ka go dikologa.",
   "tokens": [
     {
       "surface": "במקום",
-      "gloss": "kwa lefelong"
+      "gloss": "Kwa lefelong"
     },
     {
       "surface": "אשר",
-      "gloss": "le"
+      "gloss": "leo"
     },
     {
       "surface": "ישחטו",
@@ -22,24 +22,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "setlhabelo sa go gopolwa"
+      "marks": "haolah"
     },
     {
       "surface": "העלה",
-      "gloss": "setlhabelo sa go gopolwa"
+      "gloss": "haolah"
     },
     {
       "surface": "ישחטו",
-      "gloss": "ba tlaa bolaela"
+      "gloss": "ba tla bolaela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ašame"
+      "marks": "ashame"
     },
     {
       "surface": "האשם",
-      "gloss": "ašame"
+      "gloss": "ashame"
     },
     {
       "surface": "ואת",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "יזרק",
-      "gloss": "o tlaa a phunyeka"
+      "gloss": "o tla a nomosa"
     },
     {
       "surface": "על",
@@ -64,9 +64,9 @@
     },
     {
       "surface": "סביב",
-      "gloss": "ka dikakaretso"
+      "gloss": "ka go dikologa"
     }
   ],
-  "timestamp": "2026-10-03T21:51:44.810560034Z",
+  "timestamp": "2026-10-04T03:32:26.010745759Z",
   "model": "glm-5.3"
 }

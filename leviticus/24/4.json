@@ -5,8 +5,46 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 24,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:00:48.075170358Z",
+  "translation": "Mo sedirikhwareng se se phepa o tlaa rulaganya ⟨את⟩ dibui tsa one kwa pele ga Yahwe ka go sa kgaotse.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "sedirikhwareng"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "se se phepa"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "o tlaa rulaganya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibui"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "dibui"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kwa pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka go sa kgaotse"
+    }
+  ],
+  "timestamp": "2026-10-04T03:32:52.520069631Z",
   "model": "glm-5.3"
 }

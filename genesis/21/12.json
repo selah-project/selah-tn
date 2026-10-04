@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 21,
-  "translation": "Mme Elohim a re go Abrahame: A se ka go utlwisa botlhoko mo matlhong a gago ka mosimane le ka mošomi wa gago; sengwe le sengwe se Sara a se buang le wena, utlwa lentswe la gagwe; gonne ka Yitshake peo e tla bidiwang ya gago.",
+  "translation": "Mme Elohim a bua le Abrahame: A seka wa nna bonolo thata mo go wena ka ngwana yoo le ka mosadi wa gago wa moletwa; go tshega sepe fela se se Sarha a se buang le wena, mmatla lentswe la gagwe; gore ka Yitshake peo e tla bidiwa ya gago.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "mme ... a bua"
     },
     {
       "surface": "אלהים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "le"
     },
     {
       "surface": "אברהם",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "a se ka"
+      "gloss": "a seka"
     },
     {
       "surface": "ירע",
-      "gloss": "go utlwisa botlhoko"
+      "gloss": "wa nna bonolo thata"
     },
     {
       "surface": "בעיניך",
-      "gloss": "mo matlhong a gago"
+      "gloss": "mo go wena"
     },
     {
       "surface": "על",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנער",
-      "gloss": "mosimane"
+      "gloss": "ngwana yoo"
     },
     {
       "surface": "ועל",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אמתך",
-      "gloss": "mošomi wa gago"
+      "gloss": "mosadi wa gago wa moletwa"
     },
     {
       "surface": "כל",
-      "gloss": "sengwe le sengwe"
+      "gloss": "go tshega sepe fela"
     },
     {
       "surface": "אשר",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "שרה",
-      "gloss": "Sara"
+      "gloss": "Sarha"
     },
     {
       "surface": "שמע",
-      "gloss": "utlwa"
+      "gloss": "mmatla"
     },
     {
       "surface": "בקלה",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "gonne"
+      "gloss": "gore"
     },
     {
       "surface": "ביצחק",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "יקרא",
-      "gloss": "e tla bidiwang"
+      "gloss": "e tla bidiwa"
     },
     {
       "surface": "לך",
@@ -100,6 +100,6 @@
       "gloss": "peo"
     }
   ],
-  "timestamp": "2026-10-03T21:19:23.297898788Z",
+  "timestamp": "2026-10-04T03:29:54.313454915Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 31,
-  "translation": "Mme Moshe, le Elazare kohene, le balaodi botlhe ba phuthego, ba ne ba tswa go ba kopanela, kwa ntle ga ⟨the⟩ kampeng.",
+  "translation": "Mme Moshe, Aharone-Elazare mokwetshi, le balaodi botlhe ba setshaba, ba tswa go ba amogela, kwa ntle ga kampu.",
   "tokens": [
     {
       "surface": "ויצאו",
-      "gloss": "ba ne ba tswa"
+      "gloss": "ba tswa"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohene"
+      "gloss": "mokwetshi"
     },
     {
       "surface": "וכל",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "נשיאי",
-      "gloss": "balaodi ba"
+      "gloss": "balaodi"
     },
     {
       "surface": "העדה",
-      "gloss": "phuthego"
+      "gloss": "ba setshaba"
     },
     {
       "surface": "לקראתם",
-      "gloss": "go ba kopanela"
+      "gloss": "go ba amogela"
     },
     {
       "surface": "אל",
-      "gloss": "go ya kwa"
+      "gloss": "kwa"
     },
     {
       "surface": "מחוץ",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "kampeng"
+      "gloss": "ga kampu"
     }
   ],
-  "timestamp": "2026-10-03T22:17:31.359368126Z",
+  "timestamp": "2026-10-04T03:33:49.042172742Z",
   "model": "glm-5.3"
 }

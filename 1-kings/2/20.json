@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 2,
-  "translation": "A re: Kopo e nnye e le nngwe ke e kopa ⟨את⟩ go wena; se ke o buše ⟨את⟩ sefala sa me. Kgosi ya mo re: Kopa, mma; gonne ga nkitla ke buša ⟨את⟩ sefala sa gago.",
+  "translation": "Mme a re: kopo e nnye e le nngwe ke e kopa go wena ⟨את⟩; se ka wa e buselela sefathego sa me. Mme kgosi a mo raya: Kopa, mma, gonne ga ke kitla ke buselela sefathego sa gago.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -33,28 +33,28 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "⟨את⟩ go wena"
+      "gloss": "go wena ⟨את⟩"
     },
     {
       "surface": "אל",
-      "gloss": "se"
+      "gloss": "se ka"
     },
     {
       "surface": "תשב",
-      "gloss": "o buše"
+      "gloss": "wa buselela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sefala sa me"
+      "marks": "sefathego sa me"
     },
     {
       "surface": "פני",
-      "gloss": "sefala sa me"
+      "gloss": "sefathego sa me"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ya re"
+      "gloss": "a raya"
     },
     {
       "surface": "לה",
@@ -78,22 +78,22 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga nkitla ke"
+      "gloss": "ga"
     },
     {
       "surface": "אשיב",
-      "gloss": "buša"
+      "gloss": "ke buselele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sefala sa gago"
+      "marks": "sefathego sa gago"
     },
     {
       "surface": "פניך",
-      "gloss": "sefala sa gago"
+      "gloss": "sefathego sa gago"
     }
   ],
-  "timestamp": "2026-10-03T23:20:59.329313221Z",
+  "timestamp": "2026-10-04T03:39:11.005620313Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,57 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 16,
-  "translation": "Mme Moshe a re: A re e je kajeno, gonne kajeno ke Shabata ya Yahwe; kajeno ga lo ka e batla mo kgorong e nang le mashudu.",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:38:30.205702563Z",
+  "translation": "Mme Moshe a re: E tlang e je ⟨את⟩ gone le kajeno, gonne Shabata ya le kajeno ke ya Yahwe; le kajeno ga le kitla le e bona mo masimong.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "e je ⟨את⟩ gone"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le kajeno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya le kajeno"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le kajeno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "le e bona"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mo masimong"
+    }
+  ],
+  "timestamp": "2026-10-04T03:30:38.815330064Z",
   "model": "glm-5.3"
 }

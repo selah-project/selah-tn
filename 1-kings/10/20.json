@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 10,
+  "translation": "Mme ditau di le lesome le pedi di eme foo mo dikagareng tse thataro, mo lelakabeleng le le mo lelakabeleng le; ga go a ka ga dirwa jalo mo bogosing bope.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "mme di le"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome le pedi"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "ditau"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "di eme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "thataro"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "mo dikagareng tse"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mo lelakabeleng le"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "le mo lelakabeleng le"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "a ka ga dirwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bogosing bope"
+    }
+  ],
+  "timestamp": "2026-10-04T03:39:09.029958620Z",
+  "model": "glm-5.3"
+}

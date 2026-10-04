@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 13,
-  "translation": "Mme Moshe a bua le setšhaba, a re: Gakologelwa ⟨את⟩ letsatsi leno le lo neng lo tswa mo Mitsrayime, mo ntlong ya bokgobokardi, gonne ka matlhagatlhaga ya seatla Yahwe o lo ntshitse ⟨את⟩ mo go lena; mme ga go kitlanngwe ja se betilweng.",
+  "translation": "Mme Moshe a bua le setshaba, a re: Gakologelang ⟨את⟩ letsatsi leno le lo tlileng go tswa mo go lona mo Mitsrayime, mo phaposing ya badiri, gonne ka maatla a seatla Yahwe o lo ntshitse mo go sena; mme se se tobilweng ga se ka go jelwa.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "זכור",
-      "gloss": "Gakologelwa"
+      "gloss": "Gakologelang"
     },
     {
       "surface": "את",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "היום",
-      "gloss": "letsatsi leno"
+      "gloss": "letsatsi"
     },
     {
       "surface": "הזה",
-      "gloss": "le"
+      "gloss": "leno"
     },
     {
       "surface": "אשר",
-      "gloss": "le lo neng lo tswa"
+      "gloss": "le"
     },
     {
       "surface": "יצאתם",
-      "gloss": "lo tswa"
+      "gloss": "lo tlileng go tswa"
     },
     {
       "surface": "ממצרים",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "מבית",
-      "gloss": "mo ntlong ya"
+      "gloss": "mo phaposing ya"
     },
     {
       "surface": "עבדים",
-      "gloss": "bokgobokardi"
+      "gloss": "badiri"
     },
     {
       "surface": "כי",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "בחזק",
-      "gloss": "ka matlhagatlhaga"
+      "gloss": "ka maatla a"
     },
     {
       "surface": "יד",
-      "gloss": "ya seatla"
+      "gloss": "seatla"
     },
     {
       "surface": "הוציא",
@@ -82,26 +82,26 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ mo go lena",
-      "marks": "mo go lena"
+      "gloss": "⟨את⟩ lo",
+      "marks": "lo"
     },
     {
       "surface": "מזה",
-      "gloss": "mo go lena"
+      "gloss": "mo go sena"
     },
     {
       "surface": "ולא",
-      "gloss": "mme ga go"
+      "gloss": "mme ga"
     },
     {
       "surface": "יאכל",
-      "gloss": "kitlanngwe ja"
+      "gloss": "go jelwa"
     },
     {
       "surface": "חמץ",
-      "gloss": "se betilweng"
+      "gloss": "se se tobilweng"
     }
   ],
-  "timestamp": "2026-10-03T21:38:05.207208077Z",
+  "timestamp": "2026-10-04T03:30:45.881367752Z",
   "model": "glm-5.3"
 }

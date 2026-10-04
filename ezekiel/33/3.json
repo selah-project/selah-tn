@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 33,
-  "translation": "mme a bona ⟨את⟩ tshaka e tla mo go ⟨the⟩ naga, mme a letla ka shofara, mme a gakolola ⟨את⟩ setshaba;",
+  "translation": "mme a bona ⟨את⟩ tshaka e tla mo lefatsheng, a odusa ka shophara, a tlhagisa ⟨את⟩ setshaba.",
   "tokens": [
     {
       "surface": "וראה",
@@ -26,23 +26,23 @@
     },
     {
       "surface": "על",
-      "gloss": "mo go"
+      "gloss": "mo"
     },
     {
       "surface": "הארץ",
-      "gloss": "naga"
+      "gloss": "lefatsheng"
     },
     {
       "surface": "ותקע",
-      "gloss": "mme a letla"
+      "gloss": "a odusa ka"
     },
     {
       "surface": "בשופר",
-      "gloss": "ka shofara"
+      "gloss": "shophara"
     },
     {
       "surface": "והזהיר",
-      "gloss": "mme a gakolola"
+      "gloss": "a tlhagisa"
     },
     {
       "surface": "את",
@@ -54,6 +54,6 @@
       "gloss": "setshaba"
     }
   ],
-  "timestamp": "2026-10-04T00:45:21.111796044Z",
+  "timestamp": "2026-10-04T03:42:20.278600818Z",
   "model": "glm-5.3"
 }

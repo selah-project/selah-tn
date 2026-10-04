@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 31,
-  "translation": "Mme wena, bua le bana ba Yisraele, o re: Ruri Shabata ya me e tlaa bolokwa ke lona, ke ⟨את⟩ Shabata ya me lo e bolokang; gonne e ⟨is⟩ sešupo magareng ga me le magareng ga lona, mo malokong a lona, gore lo itse gore ke nna Yahwe, yo lo itshepisang.",
+  "translation": "Mme wena o bua le bana ba Yisraele, o re: Ruri ⟨את⟩ Shabata ya me e tla bolokwa, gonne ke sesupo magareng ga me le ga lona, mo malokolong a lona, gore lo itse gore ke nna Yahwe, yo lo itshepisang.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "bua"
+      "gloss": "o bua"
     },
     {
       "surface": "אל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "תשמרו",
-      "gloss": "lo e boloka"
+      "gloss": "e tla bolokwa"
     },
     {
       "surface": "כי",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "אות",
-      "gloss": "sešupo"
+      "gloss": "sesupo"
     },
     {
       "surface": "הוא",
-      "gloss": "e"
+      "gloss": "ke"
     },
     {
       "surface": "ביני",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "וביניכם",
-      "gloss": "le magareng ga lona"
+      "gloss": "le ga lona"
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "mo malokong a lona"
+      "gloss": "mo malokolong a lona"
     },
     {
       "surface": "לדעת",
@@ -93,6 +93,6 @@
       "gloss": "yo lo itshepisang"
     }
   ],
-  "timestamp": "2026-10-03T21:44:53.468845422Z",
+  "timestamp": "2026-10-04T03:32:14.721919503Z",
   "model": "glm-5.3"
 }

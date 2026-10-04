@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 21,
-  "translation": "Mme fa a beeletsa ⟨את⟩ morwawe, ka tekano ya barwadi o mo dira.",
+  "translation": "Mme fa a mo behela morwawe, a mo direla jaaka katlholo ya barwadi a tla mo dira.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "mme fa"
+      "gloss": "Mme fa"
     },
     {
       "surface": "לבנו",
@@ -17,26 +17,25 @@
     },
     {
       "surface": "ייעדנה",
-      "gloss": "a beeletsa"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "morwawe"
+      "gloss": "a mo behela"
     },
     {
       "surface": "כמשפט",
-      "gloss": "ka tekano ya"
+      "gloss": "jaaka katlholo ya"
     },
     {
       "surface": "הבנות",
       "gloss": "barwadi"
     },
     {
-      "surface": "ייעדנה לה",
-      "gloss": "o mo dira"
+      "surface": "יעשה",
+      "gloss": "a tla mo dira"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
     }
   ],
-  "timestamp": "2026-10-03T21:40:32.901202426Z",
+  "timestamp": "2026-10-04T03:52:27.537031124Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "nehemiah",
   "lang": "tn",
   "chapter": 8,
-  "translation": "Mme Nechemja — ene ⟨ke⟩ Tirtašata — le Ezra moruti, mokwaledi, le balefi ba ba tlhalosetsang setshaba, ba re go setshaba sotlhe: Letsatsi leno le boitshepo go Yahwe Elohim ya lona; se ke lwa tshwenyege, mme se ke lla. Gonne setshaba sotlhe se ne se lla fa se utlula ⟨את⟩ mafoko a Torah.",
+  "translation": "Mme Nekemjah — ene, Tirishta — le Ezara moruti yo o kwadang, balefi ⟨את⟩ ba ba tlhalosetsang setshaba, ba bua le setshaba sotlhe: Letsatsi leno le boitshepo go Yahwe Elohim ya lona; se ke la tlhoka teboego, se ke lla. Gonne setshaba sotlhe se ne se lla ⟨את⟩ fa se utlwa ⟨את⟩ mafoko a Torah.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ba re"
+      "gloss": "ba bua le"
     },
     {
       "surface": "נחמיה",
-      "gloss": "Nechemja"
+      "gloss": "Nekemjah"
     },
     {
       "surface": "הוא",
@@ -21,27 +21,31 @@
     },
     {
       "surface": "התרשתא",
-      "gloss": "Tirtašata"
+      "gloss": "Tirishta"
     },
     {
-      "surface": "ו עזרא",
-      "gloss": "le Ezra"
+      "surface": "ויאמר",
+      "gloss": "le"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezara"
     },
     {
       "surface": "הכהן",
       "gloss": "moruti"
     },
     {
-      "surface": "הספר",
-      "gloss": "mokwaledi"
+      "surface": "הסופר",
+      "gloss": "yo o kwadang"
     },
     {
       "surface": "והלוים",
-      "gloss": "le balefi"
+      "gloss": "balefi"
     },
     {
       "surface": "המבינים",
-      "gloss": "ba ba tlhalosetsang"
+      "gloss": "⟨את⟩ ba ba tlhalosetsang"
     },
     {
       "surface": "את",
@@ -54,23 +58,23 @@
     },
     {
       "surface": "לכל",
-      "gloss": "go sotlhe sa"
+      "gloss": "le setshaba sotlhe"
     },
     {
       "surface": "העם",
-      "gloss": "setshaba"
+      "gloss": ""
     },
     {
       "surface": "היום",
-      "gloss": "letsatsi leno"
+      "gloss": "Letsatsi leno"
     },
     {
-      "surface": "קדש",
+      "surface": "קדוש",
       "gloss": "le boitshepo"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ke⟩"
+      "gloss": ""
     },
     {
       "surface": "ליהוה",
@@ -86,11 +90,11 @@
     },
     {
       "surface": "תתאבלו",
-      "gloss": "lwa tshwenyege"
+      "gloss": "la tlhoka teboego"
     },
     {
       "surface": "ואל",
-      "gloss": "mme se ke"
+      "gloss": "se ke"
     },
     {
       "surface": "תבכו",
@@ -102,11 +106,11 @@
     },
     {
       "surface": "בוכים",
-      "gloss": "se lla"
+      "gloss": "se ne se lla"
     },
     {
       "surface": "כל",
-      "gloss": "sotlhe sa"
+      "gloss": "sotlhe"
     },
     {
       "surface": "העם",
@@ -114,22 +118,22 @@
     },
     {
       "surface": "כשמעם",
-      "gloss": "fa se utlula"
+      "gloss": "⟨את⟩ fa se utlwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mafoko"
+      "marks": "mafoko a Torah"
     },
     {
       "surface": "דברי",
-      "gloss": "mafoko"
+      "gloss": "mafoko a"
     },
     {
       "surface": "התורה",
-      "gloss": "a Torah"
+      "gloss": "Torah"
     }
   ],
-  "timestamp": "2026-10-04T02:33:00.627003139Z",
+  "timestamp": "2026-10-04T03:46:45.596147651Z",
   "model": "glm-5.3"
 }

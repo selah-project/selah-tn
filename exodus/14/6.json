@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Mme a bopelela ⟨את⟩ dikoloi tsa gagwe tsa ntwa, mme a tseela ⟨את⟩ setšhaba sa gagwe se a nang le sone.",
+  "translation": "Mme a baakanyetsa ⟨את⟩ dikoloi tsa gagwe tsa ntwa, mme ⟨את⟩ setshaba sa gagwe a sa tsaya le ene.",
   "tokens": [
     {
       "surface": "ויאסר",
-      "gloss": "a bopelela"
+      "gloss": "a baakanyetsa"
     },
     {
       "surface": "את",
@@ -22,22 +22,22 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "setšhaba sa gagwe"
+      "gloss": "le ⟨את⟩",
+      "marks": "setshaba sa gagwe"
     },
     {
       "surface": "עמו",
-      "gloss": "setšhaba sa gagwe"
+      "gloss": "setshaba sa gagwe"
     },
     {
       "surface": "לקח",
-      "gloss": "a tseela"
+      "gloss": "a sa tsaya"
     },
     {
       "surface": "עמו",
-      "gloss": "se a nang le sone"
+      "gloss": "le ene"
     }
   ],
-  "timestamp": "2026-10-03T21:37:09.059222278Z",
+  "timestamp": "2026-10-04T03:31:19.009965240Z",
   "model": "glm-5.3"
 }

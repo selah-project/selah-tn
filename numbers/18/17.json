@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 18,
-  "translation": "Mme moemong wa kgomo, kgotsa moemong wa kwanyana, kgotsa moemong wa pudi — o se ka wa boela o e falotsa: tse di itshepa ke tsona. Madi a tsona o a hlatlosa mo ⟨the⟩ altareng, mme mafuta a tsona o a nosa jaaka seabela sa molelo, e le seabe se se monate go Yahwe.",
+  "translation": "Mme ntlha ya kgomo, kgotsa ntlha ya kwanyana, kgotsa ntlha ya pudi, o se ka wa e boloka ka madi; boitshepo ke jona: ⟨את⟩ madi a tsona o tla a tlhatlosa mo altarong, mme ⟨את⟩ mafura a tsona o tla a foka jaaka sehlabelo sa molelo, se se nang sebakanyo se se monate go Yahwe.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "mme"
+      "gloss": "Mme ntlha ya"
     },
     {
       "surface": "בכור",
-      "gloss": "moemong"
+      "gloss": "ntlo-ya"
     },
     {
       "surface": "שור",
-      "gloss": "wa kgomo"
+      "gloss": "kgomo"
     },
     {
       "surface": "או",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בכור",
-      "gloss": "moemong"
+      "gloss": "ntlha ya"
     },
     {
       "surface": "כשב",
-      "gloss": "wa kwanyana"
+      "gloss": "kwanyana"
     },
     {
       "surface": "או",
@@ -37,27 +37,27 @@
     },
     {
       "surface": "בכור",
-      "gloss": "moemong"
+      "gloss": "ntlha ya"
     },
     {
       "surface": "עז",
-      "gloss": "wa pudi"
+      "gloss": "pudi"
     },
     {
       "surface": "לא",
-      "gloss": "o se ka"
+      "gloss": "o se ka wa"
     },
     {
       "surface": "תפדה",
-      "gloss": "wa boela o e falotsa"
+      "gloss": "e boloka ka madi"
     },
     {
       "surface": "קדש",
-      "gloss": "tse di itshepa"
+      "gloss": "boitshepo"
     },
     {
       "surface": "הם",
-      "gloss": "ke tsona"
+      "gloss": "ke jona"
     },
     {
       "surface": "את",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "תזרק",
-      "gloss": "o a hlatlosa"
+      "gloss": "o tla a tlhatlosa"
     },
     {
       "surface": "על",
@@ -78,38 +78,38 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altareng"
+      "gloss": "altarong"
     },
     {
       "surface": "ואת",
       "gloss": "mme ⟨את⟩",
-      "marks": "mafuta a tsona"
+      "marks": "mafura a tsona"
     },
     {
       "surface": "חלבם",
-      "gloss": "mafuta a tsona"
+      "gloss": "mafura a tsona"
     },
     {
       "surface": "תקטיר",
-      "gloss": "o a nosa jaaka"
+      "gloss": "o tla a foka"
     },
     {
       "surface": "אשה",
-      "gloss": "seabela sa molelo"
+      "gloss": "sehlabelo sa molelo"
     },
     {
       "surface": "לריח",
-      "gloss": "e le seabe se se"
+      "gloss": "se se nang sebakanyo"
     },
     {
       "surface": "ניחח",
-      "gloss": "monate"
+      "gloss": "se se monate"
     },
     {
       "surface": "ליהוה",
       "gloss": "go Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T22:11:45.751986588Z",
+  "timestamp": "2026-10-04T03:33:56.389796066Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,58 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 11,
-  "translation": "Mme ⟨את⟩ sefataneng: gonne ke mosaedi wa gera, mme phutla ga e a kgaola, e šhef ka go loka go lona.",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:52:45.434854775Z",
+  "translation": "Mme ⟨את⟩ shafane, gonne o ntsha ⟨את⟩ gerah, mme pharasa ga e a e aroganya — o seng boitshepo go lona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "shafane"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "shafane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "o ntsha"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "mme pharasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "e aroganya"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "o seng boitshepo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-04T03:31:36.023000790Z",
   "model": "glm-5.3"
 }

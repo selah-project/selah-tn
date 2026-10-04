@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 32,
-  "translation": "Kgwanya go ya kwa thabeng ya Haarabirimye ⟨the⟩, thabeng ya Nebo, e e mo lefatsheng la Moabe, e e kwa sehubeng sa Yerikhoo; mme o bone ⟨את⟩ lefatshe la Kenaana, leo ke neng ke le fa bareng ba Yisraele go le nna lesedi la bone.",
+  "translation": "Go swela kwa thabeng ya Abarime, go ya kwa thabeng ya Nebo, e e mo lefatsheng la Moabe, e e leng kgatlhanong le Yerikho, mme o bone ⟨את⟩ lefatshe la Kenae, le ke neng ke le fa bana ba Yisraele go le nna boswa jwa bone.",
   "tokens": [
     {
       "surface": "עלה",
-      "gloss": "Kgwanya"
+      "gloss": "Go swela"
     },
     {
       "surface": "אל",
-      "gloss": "go ya kwa"
+      "gloss": "kwa"
     },
     {
       "surface": "הר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "העברים",
-      "gloss": "ya Haarabirimye"
+      "gloss": "ya Abarime"
     },
     {
       "surface": "הזה",
-      "gloss": "⟨the⟩"
+      "gloss": "e"
     },
     {
       "surface": "הר",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "e e"
+      "gloss": "e e mo"
     },
     {
       "surface": "בארץ",
-      "gloss": "mo lefatsheng"
+      "gloss": "lefatsheng"
     },
     {
       "surface": "מואב",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "e e"
+      "gloss": "e e leng"
     },
     {
       "surface": "על",
-      "gloss": "kwa"
+      "gloss": "kgatlhanong le"
     },
     {
       "surface": "פני",
-      "gloss": "sehubeng sa"
+      "gloss": "ponong ya"
     },
     {
       "surface": "ירחו",
-      "gloss": "Yerikhoo"
+      "gloss": "Yerikho"
     },
     {
       "surface": "וראה",
@@ -70,7 +70,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lefatshe la Kenaana"
+      "marks": "lefatshe"
     },
     {
       "surface": "ארץ",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "כנען",
-      "gloss": "la Kenaana"
+      "gloss": "la Kenae"
     },
     {
       "surface": "אשר",
-      "gloss": "leo"
+      "gloss": "le"
     },
     {
       "surface": "אני",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "bareng ba"
+      "gloss": "bana ba"
     },
     {
       "surface": "ישראל",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "לאחזה",
-      "gloss": "go le nna lesedi la bone"
+      "gloss": "go le nna boswa jwa bone"
     }
   ],
-  "timestamp": "2026-10-03T22:33:53.157381355Z",
+  "timestamp": "2026-10-04T03:34:55.252677044Z",
   "model": "glm-5.3"
 }

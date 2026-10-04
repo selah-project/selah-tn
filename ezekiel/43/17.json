@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 43,
-  "translation": "Mme ⟨the⟩ terase e nna e le ya boleele jwa di-kobo di le nne le masome a mane, le bophara jwa di-kobo di le nne le masome a mane, go ya ka dikhutlo di le nne tsa yona; mme mollwane o mo molaleng wa yona o nna halofo ya ama; mme mocheng wa yona go nna go le ama e le nngwe mo molaleng; mme ditepiso tsa yona di lebile botlhabatsatsi.",
+  "translation": "Mme setshegetso se nne boleele jwa dikubitha di le lesome le nne, le bophara jwa dikubitha di le lesome le nne, go ya ka dikarolo tsa yone tse nne; mme mollwane o mo dikarolong tsa yone e le sephatlo sa kubitha, mme motopo wa yone o le kubitha e le nngwe go dikologa, mme dikonkoxo tsa yone di lebile kwa botlhaba.",
   "tokens": [
     {
       "surface": "והעזרה",
-      "gloss": "mme terase"
+      "gloss": "mme setshegetso"
     },
     {
       "surface": "ארבע",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בארבע",
-      "gloss": "ka nne"
+      "gloss": "di le"
     },
     {
       "surface": "עשרה",
-      "gloss": "lesome le"
+      "gloss": "lesome le nne"
     },
     {
       "surface": "רחב",
@@ -41,52 +41,51 @@
     },
     {
       "surface": "ארבעת",
-      "gloss": "nne"
+      "gloss": "tse nne"
     },
     {
       "surface": "רבעיה",
-      "gloss": "dikhutlo tsa yona"
+      "gloss": "dikarolo tsa yone"
     },
     {
-      "surface": "והגבול",
+      "surface": "ו הגבול",
       "gloss": "mme mollwane"
     },
     {
       "surface": "סביב",
-      "gloss": "mo molaleng"
+      "gloss": "mo dikarolong"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "yona"
+      "gloss": "⟨את⟩ e"
     },
     {
       "surface": "חצי",
-      "gloss": "halofo"
+      "gloss": "sephatlo"
     },
     {
       "surface": "האמה",
-      "gloss": "ya ama"
+      "gloss": "sa kubitha"
     },
     {
       "surface": "והחיק",
-      "gloss": "mme mocheng"
+      "gloss": "mme motopo"
     },
     {
       "surface": "לה",
-      "gloss": "wa yona"
+      "gloss": "wa yone"
     },
     {
       "surface": "אמה",
-      "gloss": "ama"
+      "gloss": "kubitha"
     },
     {
       "surface": "סביב",
-      "gloss": "mo molaleng"
+      "gloss": "go dikologa"
     },
     {
       "surface": "ומעלתהו",
-      "gloss": "mme ditepiso tsa yona"
+      "gloss": "mme dikonkoxo tsa yone"
     },
     {
       "surface": "פנות",
@@ -94,9 +93,9 @@
     },
     {
       "surface": "קדים",
-      "gloss": "botlhabatsatsi"
+      "gloss": "kwa botlhaba"
     }
   ],
-  "timestamp": "2026-10-04T00:50:28.831586234Z",
+  "timestamp": "2026-10-04T03:42:59.999314364Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,82 @@
   "book": "jeremiah",
   "lang": "tn",
   "chapter": 49,
-  "translation": "Mme dikamele tsa bone di tla nna serapa, mme bontsi jwa leruo la bone seretse; mme ba ba kgaotseng meriri kwa thogwaneng ke ba ke kgaoganyeng ka phefo nngwe le nngwe; mme go tswa kwa mafelong a bone otlhe ke tlisa ⟨את⟩ maswe a bone, go bua Yahwe.",
-  "tokens": [],
-  "timestamp": "2026-10-04T00:29:02.459228729Z",
+  "translation": "Mme dikamela tsa bone di tla nna popo ya ntwa, mme palo e ntsi ya dikgomo tsa bone e tla nna duelo; ba ba kgopametseng dikgopo tsa meriri ke tla ba phatlalatsa mo ruakh nngwe le nngwe; mme go tswa mabodikong a one otlhe ke tla isa ⟨את⟩ maswe a bone, go bua Yahwe.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "mme di tla nna"
+    },
+    {
+      "surface": "גמליהם",
+      "gloss": "dikamela tsa bone"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "popo ya ntwa"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "mme palo e ntsi"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ya dikgomo tsa bone"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "duelo"
+    },
+    {
+      "surface": "וזרתים",
+      "gloss": "ke tla ba phatlalatsa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh nngwe le nngwe"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "ba ba kgopametseng"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "dikgopo tsa meriri"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "עבריו",
+      "gloss": "mabodikong a one otlhe"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ke tla isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maswe a bone"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "maswe a bone"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:42:32.877424514Z",
   "model": "glm-5.3"
 }

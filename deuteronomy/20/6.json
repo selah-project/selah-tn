@@ -5,27 +5,27 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme ke mang ⟨⟨the⟩⟩ motho yo o lesitseng setshimo sa merara mme a sa je mabele a one? A tsamaye a boele kwa ntlong ya gagwe, gore a se ke a swa mo ntweng, mme motho yo mongwe a je mabele a one.",
+  "translation": "Mme ke mang yo o taditseng serotlo sa Dinose mme a sa se isa kwa boiteleng? A a tsamaye a boe kwa ntlong ya gagwe, gore a se ke a swa mo ntweng, mme motho yo mongwe a se ise kwa boiteleng.",
   "tokens": [
     {
       "surface": "ומי",
-      "gloss": "Mme ke mang"
+      "gloss": "mme ke mang"
     },
     {
       "surface": "האיש",
-      "gloss": "motho"
-    },
-    {
-      "surface": "אשר",
       "gloss": "yo"
     },
     {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
       "surface": "נטע",
-      "gloss": "o lesitseng"
+      "gloss": "taditseng"
     },
     {
       "surface": "כרם",
-      "gloss": "setshimo sa merara"
+      "gloss": "serotlo sa Dinose"
     },
     {
       "surface": "ולא",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "חללו",
-      "gloss": "je mabele a one"
+      "gloss": "se isa kwa boiteleng"
     },
     {
       "surface": "ילך",
-      "gloss": "A tsamaye"
+      "gloss": "a tsamaye"
     },
     {
       "surface": "וישב",
-      "gloss": "a boele"
+      "gloss": "a boe"
     },
     {
       "surface": "לביתו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "פן",
-      "gloss": "gore a se ke"
+      "gloss": "gore a se ke a"
     },
     {
       "surface": "ימות",
-      "gloss": "a swa"
+      "gloss": "swa"
     },
     {
       "surface": "במלחמה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "mme motho"
+      "gloss": "mme motho yo mongwe"
     },
     {
       "surface": "אחר",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "יחללנו",
-      "gloss": "a je mabele a one"
+      "gloss": "a se ise kwa boiteleng"
     }
   ],
-  "timestamp": "2026-10-03T22:28:26.321182332Z",
+  "timestamp": "2026-10-04T03:35:27.176692859Z",
   "model": "glm-5.3"
 }

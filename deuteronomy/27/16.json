@@ -5,8 +5,41 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Yo o tlhwekekang rraagwe kgotsa mmaagwe o tshwanetse go bolelwa",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:30:22.621825936Z",
+  "translation": "O laotswe yo o tlhaolang rraagwe le mmaagwe; mme setshaba sotlhe se tla re: Ame.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "o laotswe"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "yo o tlhaolang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rraagwe"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "le mmaagwe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "se tla re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ame"
+    }
+  ],
+  "timestamp": "2026-10-04T03:35:34.552521871Z",
   "model": "glm-5.3"
 }

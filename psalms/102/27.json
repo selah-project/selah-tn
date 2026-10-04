@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 102,
-  "translation": "Tšona di tlaa senyega, mme wena o tlaa ema; mme tsotlhe di tlaa bolaega jaaka aparo; jaaka mosetlhako o tlaa di fetola, mme di tlaa fetoga.",
+  "translation": "Ba tlaa nyelela, mme wena o tlaa ema; le ba botlhe jaaka seaparo ba tlaa bolaala, jaaka diaparo o tlaa ba fetola, mme ba fetolwe.",
   "tokens": [
     {
       "surface": "המה",
-      "gloss": "Tšona"
+      "gloss": "ba"
     },
     {
       "surface": "יאבדו",
-      "gloss": "di tlaa senyega"
+      "gloss": "tlaa nyelela"
     },
     {
       "surface": "ואתה",
@@ -25,29 +25,29 @@
     },
     {
       "surface": "וכלם",
-      "gloss": "mme tsotlhe"
+      "gloss": "le ba botlhe"
     },
     {
       "surface": "כבגד",
-      "gloss": "jaaka aparo"
+      "gloss": "jaaka seaparo"
     },
     {
       "surface": "יבלו",
-      "gloss": "di tlaa bolaega"
+      "gloss": "ba tlaa bolaala"
     },
     {
       "surface": "כלבוש",
-      "gloss": "jaaka mosetlhako"
+      "gloss": "jaaka diaparo"
     },
     {
       "surface": "תחליפם",
-      "gloss": "o tlaa di fetola"
+      "gloss": "o tlaa ba fetola"
     },
     {
       "surface": "ויחלפו",
-      "gloss": "mme di tlaa fetoga"
+      "gloss": "mme ba fetolwe"
     }
   ],
-  "timestamp": "2026-10-04T01:33:44.069276931Z",
+  "timestamp": "2026-10-04T03:45:20.773232971Z",
   "model": "glm-5.3"
 }

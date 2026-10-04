@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tn",
   "chapter": 25,
-  "translation": "Mme go ne go le ngwaga wa bo masome a mararo le bosupa wa kgolagano ya Yehoyakine kgosi ya Yehuda, kgweding ya bošupa, la masome a mabedi le bosupa la kgwedi, Ewile-Merodake kgosi ya Babeli, ngwaga o neng a simolola go busa, a tlhatlosa ⟨את⟩ tlhago ya Yehoyakine kgosi ya Yehuda a mo ntsha mo tlhokomelong ya kgolegelo.",
+  "translation": "Mme go ne go le mo ngwageng wa masome a mararo le supa go tloga ka go tlhaselwa ga Yehoyakine kgosi ya Yuda, ka kgwedi ya bolesomepedi, ka la masome a mabedi le supa la kgwedi, Ewile-Merodake kgosi ya Babilone, ka ngwaga o a neng a tsena bogosi, a tlhagolela ⟨את⟩ tlhago ya Yehoyakine kgosi ya Yada mo kgolegelong.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בשלשים",
-      "gloss": "mo masomeng a"
+      "gloss": "mo masome a mararo"
     },
     {
       "surface": "ושבע",
-      "gloss": "mararo le bosupa"
+      "gloss": "le supa"
     },
     {
       "surface": "שנה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לגלות",
-      "gloss": "wa kgolagano ya"
+      "gloss": "go tloga ka go tlhaselwa"
     },
     {
       "surface": "יהויכין",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kgosi ya"
+      "gloss": "kgosi"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yuda"
     },
     {
       "surface": "בשנים",
-      "gloss": "mo dingwageng tse"
+      "gloss": "ka bolesomepedi"
     },
     {
       "surface": "עשר",
-      "gloss": "di le lesomepedi"
+      "gloss": "bolesomepedi"
     },
     {
       "surface": "חדש",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "בעשרים",
-      "gloss": "la masome a mabedi"
+      "gloss": "ka masome a mabedi"
     },
     {
       "surface": "ושבעה",
-      "gloss": "le bosupa"
+      "gloss": "le supa"
     },
     {
       "surface": "לחדש",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "נשא",
-      "gloss": "a tlhatlosa"
+      "gloss": "a tlhagolela"
     },
     {
       "surface": "אויל",
-      "gloss": "Ewile-"
+      "gloss": "Ewile"
     },
     {
       "surface": "מרדך",
@@ -77,24 +77,24 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kgosi ya"
+      "gloss": "kgosi"
     },
     {
       "surface": "בבל",
-      "gloss": "Babeli"
+      "gloss": "Babilone"
     },
     {
       "surface": "בשנת",
-      "gloss": "ngwaga"
+      "gloss": "ka ngwaga"
     },
     {
       "surface": "מלכו",
-      "gloss": "o neng a busa"
+      "gloss": "o a neng a tsena bogosi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tlhago"
+      "marks": "tlhago ya Yehoyakine kgosi ya Yuda"
     },
     {
       "surface": "ראש",
@@ -106,21 +106,21 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kgosi ya"
+      "gloss": "kgosi"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yuda"
     },
     {
       "surface": "מבית",
-      "gloss": "a mo ntsha mo"
+      "gloss": "mo"
     },
     {
       "surface": "כלא",
       "gloss": "kgolegelong"
     }
   ],
-  "timestamp": "2026-10-03T23:44:32.511142482Z",
+  "timestamp": "2026-10-04T03:40:16.051903950Z",
   "model": "glm-5.3"
 }

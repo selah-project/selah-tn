@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 43,
-  "translation": "Ditshaba tsotlhe di phuthilwe mmogo, mme ditšhaba... Setshaba sengwe le sengwe se phuthilwe mmogo, mme setšhaba sengwe le sengwe se phuthilwe mmogo. Ke mang wa tsone yo o ka boaelang se, mme a re boaela dilo tsa pele? A di neele baki ba tsone, gore di siamisiwe; mme di reetse, mme di re: Ke boammaaruri.",
+  "translation": "Ditshaba tsotlhe di kakaretswa mmogo, mme ditshaba di kokoanela: ke mang mo go tsone yo o ka begang se, go re bolelela dilo tsa ntlha? A di neye boidiidi jwa tsone, mme di tshwarwe di le tsiamiso, mme di utlwe, mme di re: ke nnete.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "ditšhaba"
+      "gloss": "ditshaba"
     },
     {
       "surface": "נקבצו",
-      "gloss": "di phuthilwe mmogo"
+      "gloss": "di kakaretswa"
     },
     {
       "surface": "יחדו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ויאספו",
-      "gloss": "mme di phuthilwe"
+      "gloss": "mme di kokoanela"
     },
     {
       "surface": "לאמים",
-      "gloss": "batho"
+      "gloss": "ditshaba"
     },
     {
       "surface": "מי",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בהם",
-      "gloss": "wa tsone"
+      "gloss": "mo go tsone"
     },
     {
       "surface": "יגיד",
-      "gloss": "yo o ka boaelang"
+      "gloss": "yo o ka begang"
     },
     {
       "surface": "זאת",
@@ -49,37 +49,37 @@
     },
     {
       "surface": "וראשנות",
-      "gloss": "mme dilo tsa pele"
+      "gloss": "dilo tsa ntlha"
     },
     {
       "surface": "ישמיענו",
-      "gloss": "a re boaela"
+      "gloss": "go re bolelela"
     },
     {
       "surface": "יתנו",
-      "gloss": "a di neele"
+      "gloss": "a di neye"
     },
     {
       "surface": "עדיהם",
-      "gloss": "baki ba tsone"
+      "gloss": "boidiidi jwa tsone"
     },
     {
       "surface": "ויצדקו",
-      "gloss": "gore di siamisiwe"
+      "gloss": "mme di tshwarwe di le tsiamiso"
     },
     {
       "surface": "וישמעו",
-      "gloss": "mme di reetse"
+      "gloss": "mme di utlwe"
     },
     {
-      "surface": "ויאמרו",
+      "surface": "ואמרו",
       "gloss": "mme di re"
     },
     {
       "surface": "אמת",
-      "gloss": "ke boammaaruri"
+      "gloss": "ke nnete"
     }
   ],
-  "timestamp": "2026-10-03T23:57:04.749349656Z",
+  "timestamp": "2026-10-04T03:49:11.556359714Z",
   "model": "glm-5.3"
 }

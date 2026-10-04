@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 38,
-  "translation": "Mme Khizkiyahu a tlhabolola sefatlhego sa gagwe go 〈the〉 boteng, a rapela go Yahwe.",
+  "translation": "Mme Khizkiyahu a sutlha sefathegong sa gagwe kwa boteng, mme a rapela go Yahwe,",
   "tokens": [
     {
       "surface": "ויסב",
-      "gloss": "mme ... a tlhabolola"
+      "gloss": "a sutlha"
     },
     {
       "surface": "חזקיהו",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "פניו",
-      "gloss": "sefatlhego sa gagwe"
+      "gloss": "sefathegong sa gagwe"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "kwa"
     },
     {
       "surface": "הקיר",
-      "gloss": "〈the〉 boteng"
+      "gloss": "boteng"
     },
     {
       "surface": "ויתפלל",
@@ -40,6 +40,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T23:55:23.758303208Z",
+  "timestamp": "2026-10-04T03:40:30.467535742Z",
   "model": "glm-5.3"
 }

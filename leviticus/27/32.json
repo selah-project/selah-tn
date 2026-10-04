@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Mme sephatlo sa dikgomo le ditshipi — sengwe le sengwe se se fetang ka tlase ga molamu, sa bošomeng — se tla nna boitshepo go Yahwe.",
+  "translation": "Mme mokgolo otlhe wa dikgomo le dinku, sengwe le sengwe se se tlang feta ka fa tlase ga mosupa, se wa boferabongwe ga lesome se tla nna se se boitshepo go Yahwe.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Mme sengwe le sengwe sa"
+      "gloss": "Mme ... otlhe"
     },
     {
       "surface": "מעשר",
-      "gloss": "sephatlo"
+      "gloss": "mokgolo"
     },
     {
       "surface": "בקר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וצאן",
-      "gloss": "le ditshipi"
+      "gloss": "le dinku"
     },
     {
       "surface": "כל",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "יעבר",
-      "gloss": "se fetang"
+      "gloss": "se tlang feta"
     },
     {
       "surface": "תחת",
-      "gloss": "ka tlase ga"
+      "gloss": "ka fa tlase ga"
     },
     {
       "surface": "השבט",
-      "gloss": "molamu"
+      "gloss": "mosupa"
     },
     {
       "surface": "העשירי",
-      "gloss": "sa bošomeng"
+      "gloss": "se wa boferabongwe ga lesome"
     },
     {
       "surface": "יהיה",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "קדש",
-      "gloss": "boitshepo"
+      "gloss": "se se boitshepo"
     },
     {
       "surface": "ליהוה",
       "gloss": "go Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T22:02:21.634975856Z",
+  "timestamp": "2026-10-04T03:32:23.452448112Z",
   "model": "glm-5.3"
 }

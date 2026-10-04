@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "tn",
   "chapter": 2,
-  "translation": "Mme bana ba ⟨the⟩ porofense, ba ba neng ba tlola go tswa mo botlhaping jwa ba ba neng ba tsewa botlhaping, ba ba neng Nebukadnetseware, kgosi ya Babele, a ba tseela Babele, ba boela Yerushalayime le go ya kwa Yudia, mongwe le mongwe kwa toropong ya gagwe.",
+  "translation": "Mme bana ba ⟨bana⟩ ba porofense eno, ba ba neng ba tlhatloga go tswa mo botsuding jwa ba ba neng ba sulwadwe, bao Nebukadnetshare, kgosi ya Babele, a neng a ba sulweditse kwa Babele, ba boela kwa Yerushalayime le kwa Yudua, mongwe le mongwe kwa toropong ya gagwe,",
   "tokens": [
     {
       "surface": "ואלה",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "המדינה",
-      "gloss": "porofense"
+      "gloss": "ba porofense"
     },
     {
       "surface": "העלים",
-      "gloss": "ba tlola"
+      "gloss": "ba ba tlhatlogang"
     },
     {
       "surface": "משבי",
-      "gloss": "go tswa mo botlhaping"
+      "gloss": "go tswa mo botsuding"
     },
     {
       "surface": "הגולה",
-      "gloss": "jwa ba ba tsewang botlhaping"
+      "gloss": "jwa ba ba sulwadwe"
     },
     {
       "surface": "אשר",
-      "gloss": "ba ba neng"
+      "gloss": "bao"
     },
     {
       "surface": "הגלה",
-      "gloss": "a tseela botlhaping"
+      "gloss": "a neng a ba sulweditse"
     },
     {
       "surface": "נבוכדנצור",
-      "gloss": "Nebukadnetseware"
+      "gloss": "Nebukadnetshare"
     },
     {
       "surface": "מלך",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לבבל",
-      "gloss": "go ya Babele"
+      "gloss": "kwa Babele"
     },
     {
       "surface": "וישובו",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "לירושלם",
-      "gloss": "Yerushalayime"
+      "gloss": "kwa Yerushalayime"
     },
     {
       "surface": "ויהודה",
-      "gloss": "le Yudia"
+      "gloss": "le kwa Yudua"
     },
     {
       "surface": "איש",
@@ -76,6 +76,6 @@
       "gloss": "kwa toropong ya gagwe"
     }
   ],
-  "timestamp": "2026-10-04T02:25:12.967469459Z",
+  "timestamp": "2026-10-04T03:45:58.348409659Z",
   "model": "glm-5.3"
 }

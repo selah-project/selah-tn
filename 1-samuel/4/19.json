@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "tn",
   "chapter": 4,
-  "translation": "Mme morwadia-mogologolo wa gagwe, mosadi wa Finehase, o ne a imile, a siile go belega; mme fa a utlwa ⟨את⟩ polelo ya go tsewa ga arekong ya Elohim, le go tlhokafala ga mokgwenyane wa gagwe le monna wa gagwe, o ne a khurumama a belega, gonne botlhoko jwa go belega bo ne jwa mo mošupišo.",
+  "translation": "Mme mokgwenenyana wa gagwe, mosadi wa Pinechase, o ne a imile, a lekile go belega; mme fa a utlwa ⟨את⟩ pakanyo ya ⟨gore⟩ Areka ya Elohim e tserwe, le gore selegare sa gagwe le monna wa gagwe ba tlhokafetse, o ne a thubama, a belega, gonne ditlharelo tsa gagwe di ne di mo buseditse.",
   "tokens": [
     {
       "surface": "וכלתו",
-      "gloss": "morwadia-mogologolo wa gagwe"
+      "gloss": "mme mokgwenenyana wa gagwe"
     },
     {
       "surface": "אשת",
@@ -17,52 +17,52 @@
     },
     {
       "surface": "פינחס",
-      "gloss": "Finehase"
+      "gloss": "Pinechase"
     },
     {
       "surface": "הרה",
-      "gloss": "a imile"
+      "gloss": "o imile"
     },
     {
       "surface": "ללת",
-      "gloss": "a siile go belega"
+      "gloss": "a lekile go belega"
     },
     {
       "surface": "ותשמע",
-      "gloss": "a utlwa"
+      "gloss": "fa a utlwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "polelo"
+      "marks": "pakanyo"
     },
     {
       "surface": "השמעה",
-      "gloss": "polelo"
+      "gloss": "pakanyo"
     },
     {
       "surface": "אל",
-      "gloss": "ya"
+      "gloss": "⟨gore⟩"
     },
     {
       "surface": "הלקח",
-      "gloss": "go tsewa ga"
+      "gloss": "go tserwa ga"
     },
     {
       "surface": "ארון",
-      "gloss": "arekong"
+      "gloss": "Areka"
     },
     {
       "surface": "האלהים",
-      "gloss": "ya Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ומת",
-      "gloss": "le go tlhokafala ga"
+      "gloss": "ba tlhokafetse"
     },
     {
       "surface": "חמיה",
-      "gloss": "mokgwenyane wa gagwe"
+      "gloss": "selegare sa gagwe"
     },
     {
       "surface": "ואישה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ותכרע",
-      "gloss": "a khurumama"
+      "gloss": "a thubama"
     },
     {
       "surface": "ותלד",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "נהפכו",
-      "gloss": "bo ne jwa"
+      "gloss": "di buseditse"
     },
     {
       "surface": "עליה",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "צריה",
-      "gloss": "mošupišo"
+      "gloss": "ditlharelo tsa gagwe"
     }
   ],
-  "timestamp": "2026-10-03T22:57:22.693589830Z",
+  "timestamp": "2026-10-04T03:37:08.179914340Z",
   "model": "glm-5.3"
 }

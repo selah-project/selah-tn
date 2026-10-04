@@ -5,8 +5,53 @@
   "book": "1-chronicles",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Bana ba Sheyme: Elame, le Ashure, le Arfakasheḱa... ",
-  "tokens": [],
-  "timestamp": "2026-10-04T02:34:50.422534458Z",
+  "translation": "Bana ba Sheime: Eylame, le Ashure, le Arfakashade, le Lude, le Arame, mme bana ba Arame: Utse, le Khule, le Getere, le Mesheke.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheime"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Eylame"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "le Ashure"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "le Arfakashade"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "le Lude"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "le Arame"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "mme bana ba Arame: Utse"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "le Khule"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "le Getere"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "le Mesheke"
+    }
+  ],
+  "timestamp": "2026-10-04T03:46:17.874746692Z",
   "model": "glm-5.3"
 }

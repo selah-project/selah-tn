@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 7,
-  "translation": "Mme Yahwe Elohim wa gago o tla di koba ⟨את⟩ ditšhaba tse di fa pele ga gago, ka iketlo ka iketlo; o ka se kgone go di fedisa ka bonako, e le gore phologolo ya naga e se ka wa oketsega go go feta.",
+  "translation": "Mme Yahwe Elohim wa gago o tla ntsha ⟨את⟩ ditshaba tseno mo go wena ka bonnye ka bonnye; o se kgone go di fetsa ka bonako, gore molemo wa naga o se ka wa ata go go okolota.",
   "tokens": [
     {
       "surface": "ונשל",
-      "gloss": "o tla di koba"
+      "gloss": "o tla ntsha"
     },
     {
       "surface": "יהוה",
@@ -22,39 +22,39 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ditšhaba tse"
+      "marks": "ditshaba tseno"
     },
     {
       "surface": "הגוים",
-      "gloss": "ditšhaba tse"
+      "gloss": "ditshaba tseno"
     },
     {
       "surface": "האל",
-      "gloss": "tse"
+      "gloss": "tseno"
     },
     {
       "surface": "מפניך",
-      "gloss": "fa pele ga gago"
+      "gloss": "mo go wena"
     },
     {
       "surface": "מעט",
-      "gloss": "ka iketlo"
+      "gloss": "ka bonnye"
     },
     {
       "surface": "מעט",
-      "gloss": "ka iketlo"
+      "gloss": "ka bonnye"
     },
     {
       "surface": "לא",
-      "gloss": "o ka se"
+      "gloss": "o se kgone"
     },
     {
       "surface": "תוכל",
-      "gloss": "kgone"
+      "gloss": "go kgona"
     },
     {
       "surface": "כלתם",
-      "gloss": "go di fedisa"
+      "gloss": "go di fetsa"
     },
     {
       "surface": "מהר",
@@ -62,25 +62,25 @@
     },
     {
       "surface": "פן",
-      "gloss": "e le gore e se ka"
+      "gloss": "gore... o se ka"
     },
     {
       "surface": "תרבה",
-      "gloss": "wa oketsega"
+      "gloss": "wa ata"
     },
     {
       "surface": "עליך",
-      "gloss": "go go feta"
+      "gloss": "go go okolota"
     },
     {
       "surface": "חית",
-      "gloss": "phologolo ya"
+      "gloss": "molelo wa naga"
     },
     {
       "surface": "השדה",
-      "gloss": "naga"
+      "gloss": "wa naga"
     }
   ],
-  "timestamp": "2026-10-03T22:23:11.880614257Z",
+  "timestamp": "2026-10-04T03:34:38.966539381Z",
   "model": "glm-5.3"
 }

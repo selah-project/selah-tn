@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 8,
-  "translation": "Bakgakgamatsi ba ne ba re go Farao: Se ke ⟨the⟩ monwana wa Elohim; mme pelo ya Farao e ne ya nonofa, mme a sa ba reetlelela, jaaka Yahwe a ne a buile.",
+  "translation": "Mme boidsididi ba re go Paroh: Sedala sa Elohim ke se. Mme pelo ya Paroh ya nonofa, mme a sa ba reetlela, jaaka Yahwe a buile.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ba ne ba re"
+      "gloss": "ba re"
     },
     {
       "surface": "החרטמים",
-      "gloss": "bakgakgamatsi"
+      "gloss": "boidsididi"
     },
     {
       "surface": "אל",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Farao"
+      "gloss": "Paroh"
     },
     {
       "surface": "אצבע",
-      "gloss": "monwana"
+      "gloss": "sedala"
     },
     {
       "surface": "אלהים",
-      "gloss": "wa Elohim"
+      "gloss": "sa Elohim"
     },
     {
       "surface": "הוא",
-      "gloss": "se ke"
+      "gloss": "ke se"
     },
     {
       "surface": "ויחזק",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "ya Farao"
+      "gloss": "ya Paroh"
     },
     {
       "surface": "ולא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "reetlelela"
+      "gloss": "reetlela"
     },
     {
       "surface": "אלהם",
@@ -72,6 +72,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T21:36:25.002161478Z",
+  "timestamp": "2026-10-04T03:29:59.928781961Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 4,
-  "translation": "Fa moruti yo o tloditsweng a dira phoso, e dira setšhaba se nne se se nang molato, a tle a neele phoso ya gagwe eo a e dirileng, namane ya kgomo e e se nang maswabi, go Yahwe, e le mpho ya phoso.",
+  "translation": "Fa moperesiti yo o tloditsweng a ka dira boleo, go dira gore setshaba se nne le molato, a tle a tlele ka boleo jwa gagwe a bo dirileng, phafana, ngwana wa dikgomo, e e se nang phoso, go Yahwe, e le mpho ya boleo.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "moruti"
+      "gloss": "moperesiti"
     },
     {
       "surface": "המשיח",
@@ -21,51 +21,51 @@
     },
     {
       "surface": "יחטא",
-      "gloss": "a dira phoso"
+      "gloss": "a ka dira boleo"
     },
     {
       "surface": "לאשמת",
-      "gloss": "e dira ... se nne se se nang molato"
+      "gloss": "go dira gore ... se nne le molato"
     },
     {
       "surface": "העם",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "והקריב",
-      "gloss": "a tle a neele"
+      "gloss": "a tle a tlele"
     },
     {
       "surface": "על",
-      "gloss": "ka boka jwa"
+      "gloss": "ka"
     },
     {
       "surface": "חטאתו",
-      "gloss": "phoso ya gagwe"
+      "gloss": "boleo jwa gagwe"
     },
     {
       "surface": "אשר",
-      "gloss": "eo"
+      "gloss": "a bo"
     },
     {
       "surface": "חטא",
-      "gloss": "a e dirileng"
+      "gloss": "dirileng"
     },
     {
       "surface": "פר",
-      "gloss": "namane"
+      "gloss": "phafana"
     },
     {
       "surface": "בן",
-      "gloss": "ya"
+      "gloss": "ngwana"
     },
     {
       "surface": "בקר",
-      "gloss": "kgomo"
+      "gloss": "wa dikgomo"
     },
     {
       "surface": "תמים",
-      "gloss": "e e se nang maswabi"
+      "gloss": "e e se nang phoso"
     },
     {
       "surface": "ליהוה",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "לחטאת",
-      "gloss": "e le mpho ya phoso"
+      "gloss": "e le mpho ya boleo"
     }
   ],
-  "timestamp": "2026-10-03T21:50:47.796779503Z",
+  "timestamp": "2026-10-04T03:31:45.612385865Z",
   "model": "glm-5.3"
 }

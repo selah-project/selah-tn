@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "tn",
   "chapter": 14,
-  "translation": "Mme bonolo, lelapa lotlhe le eme kgatlhanong le mašika a gago, mme ba re: O neela yo o neng a bitsa kgaitsadie, re mo bolaye ka botshelo jwa kgaitsadie yo a neng a mo bolaileng, mme re senye le mojarwa; ba a tima didirisiwa tsa me tse di setseng, ba sa siee leina kana masome a monna wa mo lefatsheng leno.",
+  "translation": "Mme bona, losika lotlhe lo tsoga kgatlhanong le lekgoba la gago, mme ba re: Neela ⟨את⟩ yo o tlhabileng morwarrahe, gore re mo bolaye ka botshelo jwa morwarrahe a neng a mo bolaileng, mme re senye gape ⟨את⟩ mojafalefa; ba tla tima ⟨את⟩ kgadima ya me e setseng, ba sa baya leina kwa mong wa me, mmogo le boswa, mo lefatshe.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "mme bonolo"
+      "gloss": "mme bona"
     },
     {
       "surface": "קמה",
-      "gloss": "leme"
+      "gloss": "a tsoga"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "המשפחה",
-      "gloss": "lelapa"
+      "gloss": "losika"
     },
     {
       "surface": "על",
@@ -29,28 +29,28 @@
     },
     {
       "surface": "שפחתך",
-      "gloss": "mašika a gago"
+      "gloss": "lekgoba la gago"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "mme ba re"
+      "gloss": "ba re"
     },
     {
       "surface": "תני",
-      "gloss": "o neela"
+      "gloss": "neela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yo o bitsang"
+      "marks": "yo o tlhabileng morwarrahe"
     },
     {
       "surface": "מכה",
-      "gloss": "yo o bitsang"
+      "gloss": "yo o tlhabileng"
     },
     {
       "surface": "אחיו",
-      "gloss": "kgaitsadie"
+      "gloss": "morwarrahe"
     },
     {
       "surface": "ונמתהו",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "בנפש",
-      "gloss": "ka botshelo jwa"
+      "gloss": "ka botshelo"
     },
     {
       "surface": "אחיו",
-      "gloss": "kgaitsadie"
+      "gloss": "jwa morwarrahe"
     },
     {
       "surface": "אשר",
-      "gloss": "yo a neng a"
+      "gloss": "a neng a"
     },
     {
       "surface": "הרג",
@@ -74,53 +74,53 @@
     },
     {
       "surface": "ונשמידה",
-      "gloss": "mme re senye"
+      "gloss": "re senye"
     },
     {
       "surface": "גם",
-      "gloss": "le"
+      "gloss": "gape"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mojarwa"
+      "marks": "mojafalefa"
     },
     {
       "surface": "היורש",
-      "gloss": "mojarwa"
+      "gloss": "mojafalefa"
     },
     {
       "surface": "וכבו",
-      "gloss": "ba a tima"
+      "gloss": "ba tla tima"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "didirisiwa tsa me"
+      "marks": "kgadima ya me"
     },
     {
       "surface": "גחלתי",
-      "gloss": "didirisiwa tsa me"
+      "gloss": "kgadima ya me"
     },
     {
       "surface": "אשר",
-      "gloss": "tse di"
+      "gloss": "e neng e"
     },
     {
       "surface": "נשארה",
-      "gloss": "di setseng"
+      "gloss": "setseng"
     },
     {
       "surface": "לבלתי",
-      "gloss": "gore ba se ka"
+      "gloss": "gore e se"
     },
     {
       "surface": "שום",
-      "gloss": "ba siea"
+      "gloss": "baya"
     },
     {
       "surface": "לאישי",
-      "gloss": "monna wa me"
+      "gloss": "kwa mong wa me"
     },
     {
       "surface": "שם",
@@ -128,7 +128,7 @@
     },
     {
       "surface": "ושארית",
-      "gloss": "kana masome"
+      "gloss": "mmogo le boswa"
     },
     {
       "surface": "על",
@@ -136,13 +136,13 @@
     },
     {
       "surface": "פני",
-      "gloss": "lefatsheng"
+      "gloss": ""
     },
     {
       "surface": "האדמה",
-      "gloss": "leno"
+      "gloss": "lefatshe"
     }
   ],
-  "timestamp": "2026-10-03T23:12:41.160812667Z",
+  "timestamp": "2026-10-04T03:38:19.906476364Z",
   "model": "glm-5.3"
 }

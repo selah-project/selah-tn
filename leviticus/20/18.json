@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme monna yo o tla robalang le ⟨את⟩ mosadi yo o balang (wa nako ya madi a gagwe), mme a senola ⟨את⟩ bosele jwa gagwe — ⟨את⟩ motswedi wa gagwe o o senotse, mme yena a senola ⟨את⟩ motswedi wa madi a gagwe; mme ba babedi ba tla kgaolwa mo gare ga setšhaba sa bone.",
+  "translation": "Mme monna yo o robang le ⟨את⟩ mosadi yo o lweleng ke madi, mme a senola ⟨את⟩ bonakedi jwa yona — ⟨את⟩ motsedi wa yona o boilotse, mme yona a senotse ⟨את⟩ motsedi wa madi a yona; ba babedi ba tla kgaolwa mo gareng ga setshaba sa bone.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישכב",
-      "gloss": "o tla robalang le"
+      "gloss": "o robang le"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "דוה",
-      "gloss": "yo o balang"
+      "gloss": "yo o lweleng ke madi"
     },
     {
       "surface": "וגלה",
@@ -39,49 +39,49 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bosele jwa gagwe"
+      "marks": "bonakedi jwa yona"
     },
     {
       "surface": "ערותה",
-      "gloss": "bosele jwa gagwe"
+      "gloss": "bonakedi jwa yona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "motswedi wa gagwe"
+      "marks": "motsedi wa yona"
     },
     {
       "surface": "מקרה",
-      "gloss": "motswedi wa gagwe"
+      "gloss": "motsedi wa yona"
     },
     {
       "surface": "הערה",
-      "gloss": "o o senotse"
+      "gloss": "o boilotse"
     },
     {
       "surface": "והיא",
-      "gloss": "mme yena"
+      "gloss": "mme yona"
     },
     {
       "surface": "גלתה",
-      "gloss": "a senola"
+      "gloss": "a senotse"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "motswedi"
+      "marks": "motsedi"
     },
     {
       "surface": "מקור",
-      "gloss": "motswedi"
+      "gloss": "motsedi"
     },
     {
       "surface": "דמיה",
-      "gloss": "wa madi a gagwe"
+      "gloss": "wa madi a yona"
     },
     {
       "surface": "ונכרתו",
-      "gloss": "mme ba tla kgaolwa"
+      "gloss": "ba tla kgaolwa"
     },
     {
       "surface": "שניהם",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "מקרב",
-      "gloss": "mo gare ga"
+      "gloss": "mo gareng ga"
     },
     {
       "surface": "עמם",
-      "gloss": "setšhaba sa bone"
+      "gloss": "setshaba sa bone"
     }
   ],
-  "timestamp": "2026-10-03T21:59:33.651419849Z",
+  "timestamp": "2026-10-04T03:33:15.956046586Z",
   "model": "glm-5.3"
 }

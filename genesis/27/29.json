@@ -5,8 +5,73 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Mafatshe a go direle, mme ditšhaba di ikarlhele; o nne mong wa bana ba ga mmaago gape ba go ikarlhele; ba ba go tlhoileng ba a gasiwa, mme ba ba go segofatseng ba a segofadiwa.",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:22:33.290652690Z",
+  "translation": "Ditshaba di a go direla, mme ditshaba tse dingwe di ikobele go wena; nna mong wa bakaulengwe ba gago, mme bana ba mmaago ba go ikobele; ba ba go logang ba a logwa, mme ba ba go segofatsang ba a segofadiwa.",
+  "tokens": [
+    {
+      "surface": "יעבדוך",
+      "gloss": "di a go direla"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "mme di ikobele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ditshaba tse dingwe"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "nna"
+    },
+    {
+      "surface": "גביר",
+      "gloss": "mong"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "wa bakaulengwe ba gago"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ba go ikobele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ba mmaago"
+    },
+    {
+      "surface": "ארריך",
+      "gloss": "ba ba go logang"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ba a logwa"
+    },
+    {
+      "surface": "ומברכיך",
+      "gloss": "mme ba ba go segofatsang"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ba a segofadiwa"
+    }
+  ],
+  "timestamp": "2026-10-04T03:29:24.322222273Z",
   "model": "glm-5.3"
 }

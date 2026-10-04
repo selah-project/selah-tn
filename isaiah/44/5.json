@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 44,
-  "translation": "Yo o ntšhang a re: Ke wa Yahwe; mme yo o ikadimang ka leina la Yaakobo; mme yo o kwadileng ka seatla sa gagwe go Yahwe, mme ka leina la Yisraele a ikanya leina.",
+  "translation": "Yo o mongwe o tla re: Ke wa Yahwe; mme yo o mongwe o tla itsaya leina la Yaakobo; mme yo o mongwe o tla kwala ka letsogo la gagwe ⟨go⟩ Yahwe, mme ka leina la Yisraele o tla itsaya leina.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "yo o ntšhang"
+      "gloss": "yo o mongwe"
     },
     {
       "surface": "יאמר",
-      "gloss": "a re"
+      "gloss": "o tla re"
     },
     {
       "surface": "ליהוה",
-      "gloss": "ke wa Yahwe"
+      "gloss": "wa Yahwe"
     },
     {
       "surface": "אני",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "וזה",
-      "gloss": "mme yo"
+      "gloss": "mme yo o mongwe"
     },
     {
       "surface": "יקרא",
-      "gloss": "o ikadima"
+      "gloss": "o tla itsaya leina"
     },
     {
       "surface": "בשם",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "וזה",
-      "gloss": "mme yo"
+      "gloss": "mme yo o mongwe"
     },
     {
       "surface": "יכתב",
-      "gloss": "o kwadile"
+      "gloss": "o tla kwala ka letsogo la gagwe"
     },
     {
       "surface": "ידו",
-      "gloss": "ka seatla sa gagwe"
+      "gloss": "letsogo la gagwe"
     },
     {
       "surface": "ליהוה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ובשם",
-      "gloss": "ka leina la"
+      "gloss": "mme ka leina la"
     },
     {
       "surface": "ישראל",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "יכנה",
-      "gloss": "a ikanya leina"
+      "gloss": "o tla itsaya leina"
     }
   ],
-  "timestamp": "2026-10-03T23:58:11.709471845Z",
+  "timestamp": "2026-10-04T03:40:42.513163599Z",
   "model": "glm-5.3"
 }

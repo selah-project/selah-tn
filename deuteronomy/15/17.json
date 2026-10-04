@@ -5,24 +5,24 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 15,
-  "translation": "Mme o tla tshwara ⟨את⟩ marutla, o bo o a bo a bea mo tsebeng ya gagwe le mo lebating, mme o nna motsamedi wa gago go ya bereng, le mošomi wa gago wa mosadi o mo dira jalo.",
+  "translation": "Mme o tla tseela ⟨את⟩ maruntshwana a phatla, mme o a beya mo tsebeng ya gagwe le mo lebatising, mme o nna modiri wa gago ka bosikhale; mme le lekalanyane la gago o mo dira jalo.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "mme o tla tshwara"
+      "gloss": "Mme o tla tseela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "marutla"
+      "marks": "maruntshwana a phatla"
     },
     {
       "surface": "המרצע",
-      "gloss": "marutla"
+      "gloss": "maruntshwana a phatla"
     },
     {
       "surface": "ונתתה",
-      "gloss": "o bo o a bo a bea"
+      "gloss": "mme o a beya"
     },
     {
       "surface": "באזנו",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ובדלת",
-      "gloss": "le mo lebating"
+      "gloss": "le mo lebatising"
     },
     {
       "surface": "והיה",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "עבד",
-      "gloss": "motsamedi"
+      "gloss": "modiri"
     },
     {
       "surface": "עולם",
-      "gloss": "go ya bereng"
+      "gloss": "ka bosikhale"
     },
     {
       "surface": "ואף",
-      "gloss": "le"
+      "gloss": "mme le"
     },
     {
       "surface": "לאמתך",
-      "gloss": "mošomi wa gago wa mosadi"
+      "gloss": "lekalanyane la gago"
     },
     {
       "surface": "תעשה",
@@ -65,6 +65,6 @@
       "gloss": "jalo"
     }
   ],
-  "timestamp": "2026-10-03T22:25:20.182623070Z",
+  "timestamp": "2026-10-04T03:34:39.044444983Z",
   "model": "glm-5.3"
 }

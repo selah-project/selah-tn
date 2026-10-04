@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 42,
+  "translation": "Dikele tsa me di ne di le senkgwe mo go nna letsatsi le bosigo, ba re go nna letsatsi lotlhe: kae Elohim wa gago?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "di ne di le"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "dikele tsa me"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "senkgwe"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bosigo"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    }
+  ],
+  "timestamp": "2026-10-04T03:44:26.799158900Z",
+  "model": "glm-5.3"
+}

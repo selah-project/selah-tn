@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 92,
-  "translation": "Mizmore, sefela, sa letsatsi la ⟨את⟩ Shabata — fela Shaabata ga e na את... Mizmore wa sefela, wa letsatsi la Shabata.",
+  "translation": "Mizmore, sefela, ya letsatsi la Shabata.",
   "tokens": [
     {
       "surface": "מזמור",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "ליום",
-      "gloss": "la letsatsi la"
+      "gloss": "ya letsatsi"
     },
     {
       "surface": "השבת",
-      "gloss": "Shabata"
+      "gloss": "la Shabata"
     }
   ],
-  "timestamp": "2026-10-04T01:32:25.082706769Z",
+  "timestamp": "2026-10-04T03:44:30.783617142Z",
   "model": "glm-5.3"
 }

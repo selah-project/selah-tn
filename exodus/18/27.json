@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 18,
-  "translation": "Mme Moshe a romela ⟨את⟩ rnogiša-mmogo — a romela ⟨את⟩ motsadi wa mosadi wa gagwe, mme ene a ya kwa nageng ya gagwe.",
+  "translation": "Mme Moshe a romela ⟨את⟩ mogalaagwe wa gagwe, mme a tsamaya ⟨a ya⟩ kwa lefatsheng la gagwe.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "motsadi wa mosadi wa gagwe"
+      "marks": "mogalaagwe wa gagwe"
     },
     {
       "surface": "חתנו",
-      "gloss": "motsadi wa mosadi wa gagwe"
+      "gloss": "mogalaagwe wa gagwe"
     },
     {
       "surface": "וילך",
-      "gloss": "mme a ya"
+      "gloss": "a tsamaya"
     },
     {
       "surface": "לו",
-      "gloss": "⟨tsela ya gagwe⟩"
+      "gloss": "⟨a ya⟩"
     },
     {
       "surface": "אל",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "ארצו",
-      "gloss": "nageng ya gagwe"
+      "gloss": "lefatsheng la gagwe"
     }
   ],
-  "timestamp": "2026-10-03T21:38:59.050098170Z",
+  "timestamp": "2026-10-04T03:30:38.759937235Z",
   "model": "glm-5.3"
 }

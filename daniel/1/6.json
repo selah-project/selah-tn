@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Mme go ne go le mo go bone ba bengwe ba ba tswang mo baneng ba Yehuda: Daniyele, Khanania, Mishaele le Azaria.",
+  "translation": "Mme go ne go na mo go bone bangwe ba ba tswang mo baneng ba ba bueng Setswana jalo: ba Yahunta... ba Yahunta; gore ba Yahunta, ba Yahunta, ba Yahunta, ba Yahunta... ",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "mme go ne go le"
+      "gloss": "go ne go na"
     },
     {
       "surface": "בהם",
@@ -17,14 +17,29 @@
     },
     {
       "surface": "מבני",
-      "gloss": "ba ba tswang mo baneng ba"
+      "gloss": "bangwe ba ba tswang mo baneng ba"
     },
     {
-      "surface": "יהוה",
-      "gloss": "",
-      "notes": ""
+      "surface": "יהודה",
+      "gloss": "Yahunta"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyele"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Khananya"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishaele"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "le Azarya"
     }
   ],
-  "timestamp": "2026-10-04T02:18:04.098377624Z",
+  "timestamp": "2026-10-04T03:45:35.308156443Z",
   "model": "glm-5.3"
 }

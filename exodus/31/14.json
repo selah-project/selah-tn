@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 31,
-  "translation": "Mme lo tlaa boloka ⟨את⟩ Shabata, gonne e boitshepo go lona; yo o e gatelelang, a bolawe ka tlhamalalo; gonne mongwe le mongwe yo o dirang mo go yona tiro, ⟨ה⟩ mopheo woo o tlaa ramiwa mo gare ga batho ba gagwe.",
+  "translation": "Mme lo tla boloka ⟨את⟩ Shabata, gonne ⟨e⟩ boitshepo ke jwa lona; yotlhe yo o e senyang, o tla bolawa ka tlhamalalo; gonne yotlhe yo o dirang tiro mo go yona, motho yo o tla segolwa mo gare ga setshaba sa gagwe.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Mme lo tlaa boloka"
+      "gloss": "Mme lo tla boloka"
     },
     {
       "surface": "את",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "הוא",
-      "gloss": "e"
+      "gloss": "⟨e⟩"
     },
     {
       "surface": "לכם",
-      "gloss": "go lona"
+      "gloss": "ke jwa lona"
     },
     {
       "surface": "מחלליה",
-      "gloss": "yo o e gatelelang"
+      "gloss": "yo o e senyang"
     },
     {
       "surface": "מות",
-      "gloss": "a bolawe"
+      "gloss": "o tla bolawa"
     },
     {
       "surface": "יומת",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "mongwe le mongwe"
+      "gloss": "yotlhe"
     },
     {
       "surface": "העשה",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "ונכרתה",
-      "gloss": "o tlaa ramiwa"
+      "gloss": "o tla segolwa"
     },
     {
       "surface": "הנפש",
-      "gloss": "mopheo"
+      "gloss": "motho yo"
     },
     {
       "surface": "ההוא",
-      "gloss": "woo"
+      "gloss": "yo"
     },
     {
       "surface": "מקרב",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "עמיה",
-      "gloss": "batho ba gagwe"
+      "gloss": "setshaba sa gagwe"
     }
   ],
-  "timestamp": "2026-10-03T21:44:53.469753360Z",
+  "timestamp": "2026-10-04T03:32:14.722241987Z",
   "model": "glm-5.3"
 }

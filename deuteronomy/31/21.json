@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 31,
-  "translation": "Mme e tla nna, fa ba ka bonwa ke dilo tse dintši tse dibabi le ditsietsi, kopolo eno e tla araba peleng ga bona jaaka paki; gonne ga e kitla e tlhalokiwa molomong wa peo ya bona; gonne ke itse ⟨את⟩ maikaelelo a bona ao ba a dirang kajeno, pele ke ba ise lefatsheng leo ke neng ka ikana.",
+  "translation": "Mme go tla nna jalo, fa dilo tse dintshi tse dibolo le mathata di ka fitlhelela ⟨אתו⟩ bone, pina e e tla araba pele ga bone e le bopaki ka bosikhutshwanyana; ka gore e ka se phimolwe mo molomong wa peo ya yone; ka gore ke a itse ⟨את⟩ boikaelelo jwa yone, se yone e se dirang le kajeno, pele ke sa e tsenya mo lefatsheng leo ke neng ka tshepisa go e sefa.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Mme e tla nna"
+      "gloss": "go tla nna jalo"
     },
     {
       "surface": "כי",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "תמצאן",
-      "gloss": "ba ka bonwa ke"
+      "gloss": "di ka fitlhelela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "dilo tse dibabi"
+      "gloss": "⟨אתו⟩",
+      "marks": "bone"
     },
     {
       "surface": "רעות",
-      "gloss": "dilo tse dibabi"
+      "gloss": "dilo tse dibolo"
     },
     {
       "surface": "רבות",
-      "gloss": "tse dintši"
+      "gloss": "tse dintshi"
     },
     {
       "surface": "וצרות",
-      "gloss": "le ditsietsi"
+      "gloss": "le mathata"
     },
     {
       "surface": "וענתה",
@@ -42,23 +42,23 @@
     },
     {
       "surface": "השירה",
-      "gloss": "kopolo eno e tla araba"
+      "gloss": "pina"
     },
     {
       "surface": "הזאת",
-      "gloss": "eno"
+      "gloss": "e"
     },
     {
       "surface": "לפניו",
-      "gloss": "peleng ga bona"
+      "gloss": "pele ga bone"
     },
     {
       "surface": "לעד",
-      "gloss": "ka bosakhutshweng"
+      "gloss": "ka bosikhutshwanyana"
     },
     {
       "surface": "כי",
-      "gloss": "gonne"
+      "gloss": "ka gore"
     },
     {
       "surface": "לא",
@@ -66,48 +66,48 @@
     },
     {
       "surface": "תשכח",
-      "gloss": "e kitla e tlhalokiwa"
+      "gloss": "e ka phimolwa"
     },
     {
       "surface": "מפי",
-      "gloss": "molomong"
+      "gloss": "mo molomong"
     },
     {
       "surface": "זרעו",
-      "gloss": "wa peo ya bona"
+      "gloss": "peo ya yone"
     },
     {
       "surface": "כי",
-      "gloss": "gonne"
+      "gloss": "ka gore"
     },
     {
       "surface": "ידעתי",
-      "gloss": "ke itse"
+      "gloss": "ke a itse"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maikaelelo a bona"
+      "marks": "boikaelelo jwa yone"
     },
     {
       "surface": "יצרו",
-      "gloss": "maikaelelo a bona"
+      "gloss": "boikaelelo jwa yone"
     },
     {
       "surface": "אשר",
-      "gloss": "ao"
+      "gloss": "se"
     },
     {
       "surface": "הוא",
-      "gloss": "ba"
+      "gloss": "yone"
     },
     {
       "surface": "עשה",
-      "gloss": "a dirang"
+      "gloss": "e se dirang"
     },
     {
       "surface": "היום",
-      "gloss": "kajeno"
+      "gloss": "le kajeno"
     },
     {
       "surface": "בטרם",
@@ -115,11 +115,11 @@
     },
     {
       "surface": "אביאנו",
-      "gloss": "ke ba ise"
+      "gloss": "ke sa e tsenya"
     },
     {
       "surface": "אל",
-      "gloss": "go ya"
+      "gloss": "mo"
     },
     {
       "surface": "הארץ",
@@ -131,9 +131,9 @@
     },
     {
       "surface": "נשבעתי",
-      "gloss": "ke neng ka ikana"
+      "gloss": "ke neng ka tshepisa"
     }
   ],
-  "timestamp": "2026-10-03T22:34:49.206335579Z",
+  "timestamp": "2026-10-04T03:35:10.730255151Z",
   "model": "glm-5.3"
 }

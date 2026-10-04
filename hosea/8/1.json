@@ -5,19 +5,19 @@
   "book": "hosea",
   "lang": "tn",
   "chapter": 8,
-  "translation": "Ela sefako mo molomong wa gago; jaaka lenong ⟨⟨he⟩⟩ o tsamaisa ntlo ya Yahwe, mme ba tlola kgolagano ya me, le kgatlhanong le Torah ya me ba tsuologa.",
+  "translation": "Mo molomong wa gago — shofare; o tla tla jaaka lenong mo ntlong ya Yahwe, gonne ba tlola ⟨את⟩ kgolagano ya me, mme ba ikgaoganya le Torah ya me.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "ela"
+      "gloss": "mo"
     },
     {
       "surface": "חכך",
-      "gloss": "mo molomong wa gago"
+      "gloss": "molomong wa gago"
     },
     {
       "surface": "שפר",
-      "gloss": "sefako"
+      "gloss": "shofare"
     },
     {
       "surface": "כנשר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "על",
-      "gloss": "o tsamaisa"
+      "gloss": "mo"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo"
+      "gloss": "ntlong"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יען",
-      "gloss": "mme"
+      "gloss": "gonne"
     },
     {
       "surface": "עברו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "le kgatlhanong le"
+      "gloss": "le"
     },
     {
       "surface": "תורתי",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "פשעו",
-      "gloss": "ba tsuologa"
+      "gloss": "ba ikgaoganya le yone"
     }
   ],
-  "timestamp": "2026-10-04T00:55:24.191667850Z",
+  "timestamp": "2026-10-04T03:42:45.287154462Z",
   "model": "glm-5.3"
 }

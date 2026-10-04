@@ -5,8 +5,57 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 37,
-  "translation": "E bidiwa: <empty line>",
-  "tokens": [],
-  "timestamp": "2026-10-03T23:55:36.691677738Z",
+  "translation": "Gore go tswa mo Yerushalayime go tla tswa se se setseng, le se se falotseng se tswa mo thabeng ya Tsiyone; tlhoafatso ya Yahwe Tsebaote e tla dira se.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "go tswa mo Yerushalayime"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "go tla tswa"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "se se setseng"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "le se se falotseng"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "se tswa mo thabeng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsiyone"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "tlhoafatso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "e tla dira"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-04T03:41:10.107453572Z",
   "model": "glm-5.3"
 }

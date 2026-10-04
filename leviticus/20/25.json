@@ -5,31 +5,31 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme lōna lo tlaa kgaogantsha gare ga phologolo e e boitshepo le e e sa boitshepang, le gare ga nonyane e e sa boitshepang le e e boitshepo; mme lo se ke la dira ⟨את⟩ meya ya lōna bošula ka phologolo, kana ka nonyane, kana ka sengwe le sengwe se ke thuthafatsang mo lefatsheng, se ke se kgaogantshitse go lōna e le bošula.",
+  "translation": "Mme lo tla kgaoganya magareng ga phoofolo e e phepang le e e sa phegang, le magareng ga nonyane e e sa phegang le e e phepang; mme lo se tla dira ⟨את⟩ meja ya lona e nne e tlhoilwe ka phoofolo, kana ka nonyane, kana ka sengwe le sengwe se se remang mo lefatsheng, se nka se kgaolang go lona e le se se sa phegang.",
   "tokens": [
     {
       "surface": "והבדלתם",
-      "gloss": "lo tlaa kgaogantsha"
+      "gloss": "Mme lo tla kgaoganya"
     },
     {
       "surface": "בין",
-      "gloss": "gare ga"
+      "gloss": "magareng ga"
     },
     {
       "surface": "הבהמה",
-      "gloss": "phologolo"
+      "gloss": "phoofolo"
     },
     {
       "surface": "הטהרה",
-      "gloss": "e e boitshepo"
+      "gloss": "e e phepang"
     },
     {
       "surface": "לטמאה",
-      "gloss": "le e e sa boitshepang"
+      "gloss": "le e e sa phegang"
     },
     {
       "surface": "ובין",
-      "gloss": "le gare ga"
+      "gloss": "le magareng ga"
     },
     {
       "surface": "העוף",
@@ -37,40 +37,40 @@
     },
     {
       "surface": "הטמא",
-      "gloss": "e e sa boitshepang"
+      "gloss": "e e sa phegang"
     },
     {
       "surface": "לטהר",
-      "gloss": "le e e boitshepo"
+      "gloss": "le e e phepang"
     },
     {
       "surface": "ולא",
-      "gloss": "mme lo se ke"
+      "gloss": "mme lo se tla"
     },
     {
       "surface": "תשקצו",
-      "gloss": "la dira bošula"
+      "gloss": "dira e nne e tlhoilwe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "meya ya lōna"
+      "marks": "meja ya lona"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "meya ya lōna"
+      "gloss": "meja ya lona"
     },
     {
       "surface": "בבהמה",
-      "gloss": "ka phologolo"
+      "gloss": "ka phoofolo"
     },
     {
       "surface": "ובעוף",
-      "gloss": "le ka nonyane"
+      "gloss": "kana ka nonyane"
     },
     {
       "surface": "ובכל",
-      "gloss": "le ka sengwe le sengwe"
+      "gloss": "kana ka sengwe le sengwe"
     },
     {
       "surface": "אשר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "תרמש",
-      "gloss": "se ke thuthafatsang"
+      "gloss": "se remang"
     },
     {
       "surface": "האדמה",
@@ -90,17 +90,17 @@
     },
     {
       "surface": "הבדלתי",
-      "gloss": "ke se kgaogantshitse"
+      "gloss": "nka se kgaolang"
     },
     {
       "surface": "לכם",
-      "gloss": "go lōna"
+      "gloss": "go lona"
     },
     {
       "surface": "לטמא",
-      "gloss": "e le bošula"
+      "gloss": "e le se se sa phegang"
     }
   ],
-  "timestamp": "2026-10-03T21:58:40.229175834Z",
+  "timestamp": "2026-10-04T03:33:24.132737929Z",
   "model": "glm-5.3"
 }

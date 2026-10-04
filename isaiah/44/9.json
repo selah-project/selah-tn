@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 44,
-  "translation": "Ba ba bopang setshwantsho — botlhe ke lefufa; mme dilo tsa bone tse di lebletsweng ga di so nne molemo; mme bakiši ba bone — ⟨bone⟩ — ga ba ise ba bone, mme ga ba itse; gore ba tlhwise maikutlo.",
+  "translation": "Ba ba bopang setshwantsho botlhe ke tohu, mme dilo tsa bone tse di lakategang ga di dire sepe; mme baki ba bone ke bone: ga ba bone, mme ga ba itse, gore ba tshwanngwe ke mahlonoko.",
   "tokens": [
     {
       "surface": "יצרי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "תהו",
-      "gloss": "lefufa"
+      "gloss": "tohu"
     },
     {
       "surface": "וחמודיהם",
-      "gloss": "mme dilo tsa bone tse di lebletsweng"
+      "gloss": "mme dilo tsa bone tse di lakategang"
     },
     {
       "surface": "בל",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "יועילו",
-      "gloss": "so nne molemo"
+      "gloss": "di dire sepe"
     },
     {
       "surface": "ועדיהם",
-      "gloss": "mme bakiši ba bone"
+      "gloss": "mme baki ba bone"
     },
     {
       "surface": "המה",
-      "gloss": "bone"
+      "gloss": "ke bone"
     },
     {
       "surface": "בל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יראו",
-      "gloss": "ba ise ba bone"
+      "gloss": "ba bone"
     },
     {
       "surface": "ובל",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "יבשו",
-      "gloss": "ba tlhwise maikutlo"
+      "gloss": "ba tshwanngwe ke mahlonoko"
     }
   ],
-  "timestamp": "2026-10-03T23:58:57.518939577Z",
+  "timestamp": "2026-10-04T03:40:40.138141126Z",
   "model": "glm-5.3"
 }

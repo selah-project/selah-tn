@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 1:8",
+  "book": "micah",
+  "lang": "tn",
+  "chapter": 1,
+  "translation": "Ka ntlha ya se ke tla llela le go kua, ke tla tsamaya boka dinao le sa apara sepe; ke tla dira boso jaaka diphiri, le kutlobotlhoko jaaka bana ba ntshu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "אספדה",
+      "gloss": "ke tla llela"
+    },
+    {
+      "surface": "ואילילה",
+      "gloss": "le go kua"
+    },
+    {
+      "surface": "אילכה",
+      "gloss": "ke tla tsamaya"
+    },
+    {
+      "surface": "שילל",
+      "gloss": "boka dinao"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "sa apara sepe"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "boso"
+    },
+    {
+      "surface": "כתנים",
+      "gloss": "jaaka diphiri"
+    },
+    {
+      "surface": "ואבל",
+      "gloss": "le kutlobotlhoko"
+    },
+    {
+      "surface": "כבנות",
+      "gloss": "jaaka bana ba"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ntshu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:44:01.662219376Z",
+  "model": "glm-5.3"
+}

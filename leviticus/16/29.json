@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 16,
-  "translation": "Mme e tla nna sešwaeno sa bosakhutshwanyane go lona: ka kgwedi ya bosupa, ka la bolesome la kgwedi, lo tla koafatsa ⟨את⟩ bophelo jwa lona, mme tiro yotlhe ga lo ka ke la e dira — moahi wa lefatshe le moafiri yo o nang fa gare ga lona.",
+  "translation": "Mme e tla nna go lona molao wa go sa fetoge: ka kgwedi ya bosupa, ka la boferabongwe la kgwedi, lo tla kgwatisa ⟨את⟩ mea ya lona, mme tiro yotlhe ga lo e dire — moagi wa moago le moafamedi yo o nang mo gare ga lona.",
   "tokens": [
     {
       "surface": "והיתה",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "לחקת",
-      "gloss": "sešwaeno sa"
+      "gloss": "molao wa"
     },
     {
       "surface": "עולם",
-      "gloss": "bosakhutshwanyane"
+      "gloss": "go sa fetoge"
     },
     {
       "surface": "בחדש",
-      "gloss": "ka kgwedi ya"
+      "gloss": "ka kgwedi"
     },
     {
       "surface": "השביעי",
-      "gloss": "bosupa"
+      "gloss": "ya bosupa"
     },
     {
       "surface": "בעשור",
-      "gloss": "ka la bolesome"
+      "gloss": "ka la boferabongwe"
     },
     {
       "surface": "לחדש",
@@ -41,20 +41,20 @@
     },
     {
       "surface": "תענו",
-      "gloss": "lo tla koafatsa"
+      "gloss": "lo tla kgwatisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bophelo jwa lona"
+      "marks": "mea ya lona"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "bophelo jwa lona"
+      "gloss": "mea ya lona"
     },
     {
       "surface": "וכל",
-      "gloss": "le tiro yotlhe"
+      "gloss": "mme yotlhe"
     },
     {
       "surface": "מלאכה",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "lo dira"
+      "gloss": "lo e dire"
     },
     {
       "surface": "האזרח",
-      "gloss": "moahi wa lefatshe"
+      "gloss": "moagi wa moago"
     },
     {
       "surface": "והגר",
-      "gloss": "le moafiri"
+      "gloss": "le moafamedi"
     },
     {
       "surface": "הגר",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "בתוככם",
-      "gloss": "fa gare ga lona"
+      "gloss": "mo gare ga lona"
     }
   ],
-  "timestamp": "2026-10-03T21:57:54.278152761Z",
+  "timestamp": "2026-10-04T03:33:25.101282546Z",
   "model": "glm-5.3"
 }

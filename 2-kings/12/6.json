@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "tn",
   "chapter": 12,
-  "translation": "Bapriste ba tle ba tsaya selefera go bone, mongwe le mongwe go tswa go ⟨את⟩ molapeng wa gagwe; mme bone ba tle ba nonotsha ⟨את⟩ phoko ya ntlo, kwa sengwe le sengweng se se ka bonwang foo e le phoko.",
+  "translation": "Baperesti ba tle ba tsayele bone, mongwe le mongwe kwa ⟨את⟩ yo a mo itseng; mme bone ba tiise ⟨את⟩ sebaka sa ntlo, kwa se sengwe le se sengwe se se ka bonwang koo sa sebaka.",
   "tokens": [
     {
       "surface": "יקחו",
-      "gloss": "ba tle ba tsaya"
+      "gloss": "ba tle ba tsayele"
     },
     {
       "surface": "להם",
-      "gloss": "go bone"
+      "gloss": "bone"
     },
     {
       "surface": "הכהנים",
-      "gloss": "bapriste"
+      "gloss": "baperesti"
     },
     {
       "surface": "איש",
@@ -25,12 +25,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "go tswa go ⟨את⟩",
-      "marks": "molapeng wa gagwe"
+      "gloss": "kwa ⟨את⟩"
     },
     {
       "surface": "מכרו",
-      "gloss": "molapeng wa gagwe"
+      "gloss": "yo a mo itseng"
     },
     {
       "surface": "והם",
@@ -38,28 +37,28 @@
     },
     {
       "surface": "יחזקו",
-      "gloss": "ba tle ba nonotše"
+      "gloss": "ba tiise"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "phoko ya ntlo"
+      "marks": "sebaka sa ntlo"
     },
     {
       "surface": "בדק",
-      "gloss": "phoko"
+      "gloss": "sebaka"
     },
     {
       "surface": "הבית",
-      "gloss": "ya ntlo"
+      "gloss": "sa ntlo"
     },
     {
       "surface": "לכל",
-      "gloss": "kwa sengwe le sengweng"
+      "gloss": "kwa se sengwe le se sengwe"
     },
     {
       "surface": "אשר",
-      "gloss": "se"
+      "gloss": "se se ka bonwang koo"
     },
     {
       "surface": "ימצא",
@@ -67,13 +66,13 @@
     },
     {
       "surface": "שם",
-      "gloss": "foo"
+      "gloss": "koo"
     },
     {
       "surface": "בדק",
-      "gloss": "phoko"
+      "gloss": "sa sebaka"
     }
   ],
-  "timestamp": "2026-10-03T23:38:15.744400300Z",
+  "timestamp": "2026-10-04T03:39:02.171779896Z",
   "model": "glm-5.3"
 }

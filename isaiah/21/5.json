@@ -5,8 +5,49 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 21,
-  "translation": "Baakanya ⟨את⟩ tafola, bolola mo boleloding, ja, nwa: tlhogang, dikgosi, mme lo tlhotlhise ⟨את⟩ thebe.",
-  "tokens": [],
-  "timestamp": "2026-10-03T23:50:00.652958670Z",
+  "translation": "A beaya tafole, go boloka mo motsibing, ja, nwa: tsogang, lona dikgosi, mme lo olafatse sekhukhu.",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "a beaya"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "mo motsibing"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "tsogang"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "lona dikgosi"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "lo olafatse"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sekhukhu"
+    }
+  ],
+  "timestamp": "2026-10-04T03:40:15.481272141Z",
   "model": "glm-5.3"
 }

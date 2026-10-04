@@ -5,8 +5,73 @@
   "book": "jeremiah",
   "lang": "tn",
   "chapter": 49,
-  "translation": "Swaang, tlhanyang kgatlhanong le setshaba se se pholotsego, se se dulang ka kagiso, go bua Yahwe; se se nang le mabati a lekaenyana le badibari, se se dulang nosi.",
-  "tokens": [],
-  "timestamp": "2026-10-04T00:29:02.459051736Z",
+  "translation": "Suuang, tlhatlogang kgatlhanong le setshaba se se didimetseng, se se dulang ka tshireletso, go bua Yahwe; se se senang mabati le sethibelo; ba nna nosi.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Suuang"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "tlhatlogang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kgatlhanong le"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "שליו",
+      "gloss": "se se didimetseng"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "se se dulang"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka tshireletso"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se se senang"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "mabati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "sethibelo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "nosi"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ba nna"
+    }
+  ],
+  "timestamp": "2026-10-04T03:42:32.877208966Z",
   "model": "glm-5.3"
 }

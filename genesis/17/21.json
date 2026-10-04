@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 17,
-  "translation": "Mme ⟨את⟩ kgolagano ya me ke e tla tlhomišang ka ⟨את⟩ Yitshake, yo Sare a tlaa moolang ka nako e e beilweng e, ngwaga o o latelang.",
+  "translation": "Mme ⟨את⟩ kgolagano ya me ke e tlhomang le ⟨את⟩ Yitshake, yo Sara a mo tsholafatsang ka nako e e beilweng eno, ngwaga o o latelang.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "mme ⟨את⟩",
       "marks": "kgolagano ya me"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "surface": "אקים",
-      "gloss": "ke e tla tlhomišang"
+      "gloss": "ke e tlhomang"
     },
     {
       "surface": "את",
@@ -35,23 +35,23 @@
     },
     {
       "surface": "תלד",
-      "gloss": "a tlaa moolang"
+      "gloss": "a tsholafatsang"
     },
     {
       "surface": "לך",
-      "gloss": "ka wena"
+      "gloss": "o"
     },
     {
       "surface": "שרה",
-      "gloss": "Sare"
+      "gloss": "Sara"
     },
     {
       "surface": "למועד",
-      "gloss": "nako e e beilweng"
+      "gloss": "ka nako e e beilweng"
     },
     {
       "surface": "הזה",
-      "gloss": "e"
+      "gloss": "eno"
     },
     {
       "surface": "בשנה",
@@ -62,6 +62,6 @@
       "gloss": "o o latelang"
     }
   ],
-  "timestamp": "2026-10-03T21:18:00.166367531Z",
+  "timestamp": "2026-10-04T03:29:33.081660844Z",
   "model": "glm-5.3"
 }

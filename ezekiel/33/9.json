@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 33,
-  "translation": "Mme wena, fa o tlhokometse moši ka tsela ya gagwe ya go boela go yona, mme a sa boe mo tseleng ya gagwe, ene o tlaa swa ka boikgapho jwa gagwe; mme wena o bolokile botshelo jwa gago.",
+  "translation": "Mme wena, fa o lemositse moengelebe ka tsela ya gagwe gore a boele mo go yona, mme a sa boele mo tseleng ya gagwe, ene o tla swa mo molatong wa gagwe, mme wena o bolokile ⟨את⟩ moya wa gago.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "mme wena"
+      "gloss": "Mme wena"
     },
     {
       "surface": "כי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הזהרת",
-      "gloss": "o tlhokometse"
+      "gloss": "o lemositse"
     },
     {
       "surface": "רשע",
-      "gloss": "moši"
+      "gloss": "moengelebe"
     },
     {
       "surface": "מדרכו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לשוב",
-      "gloss": "go boela"
+      "gloss": "gore a boele"
     },
     {
       "surface": "ממנה",
-      "gloss": "go yona"
+      "gloss": "mo go yona"
     },
     {
       "surface": "ולא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "שב",
-      "gloss": "boa"
+      "gloss": "boele"
     },
     {
       "surface": "מדרכו",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "בעונו",
-      "gloss": "ka boikgapho jwa gagwe"
+      "gloss": "mo molatong wa gagwe"
     },
     {
       "surface": "ימות",
-      "gloss": "o tlaa swa"
+      "gloss": "o tla swa"
     },
     {
       "surface": "ואתה",
@@ -65,13 +65,14 @@
     },
     {
       "surface": "נפשך",
-      "gloss": "botshelo jwa gago"
+      "gloss": "moya wa gago"
     },
     {
       "surface": "הצלת",
-      "gloss": "o bolokile"
+      "gloss": "o bolokile",
+      "marks": "moya wa gago"
     }
   ],
-  "timestamp": "2026-10-04T00:46:01.446809990Z",
+  "timestamp": "2026-10-04T03:42:31.095331619Z",
   "model": "glm-5.3"
 }

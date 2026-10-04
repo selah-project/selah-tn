@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "tn",
   "chapter": 18,
-  "translation": "Go tlhatloga ⟨⟨the⟩⟩ sefathego sa yo o bobe ga go a siama, go tilusa yo o lokileng mo katlholong.",
+  "translation": "Go baakanya sefathego sa molato ga go a siama, go tilusa yo o siameng mo katlholong.",
   "tokens": [
     {
       "surface": "שאת",
-      "gloss": "go tlhatloga"
+      "gloss": "go baakanya"
     },
     {
       "surface": "פני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "רשע",
-      "gloss": "yo o bobe"
+      "gloss": "molato"
     },
     {
       "surface": "לא",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "yo o lokileng"
+      "gloss": "yo o siameng"
     },
     {
       "surface": "במשפט",
       "gloss": "mo katlholong"
     }
   ],
-  "timestamp": "2026-10-04T01:47:43.916736310Z",
+  "timestamp": "2026-10-04T03:45:17.776911871Z",
   "model": "glm-5.3"
 }

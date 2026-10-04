@@ -5,8 +5,45 @@
   "book": "ecclesiastes",
   "lang": "tn",
   "chapter": 2,
-  "translation": "Ke ne ke dira go nna di KGOLWE a go kwadile yo o siameng ka metlha. — tshwanetse: Ke ne ke dira gore ke nne le dithuso tse di siameng.",
-  "tokens": [],
-  "timestamp": "2026-10-04T02:12:45.591413492Z",
+  "translation": "Ka dira ⟨mo go nna⟩ madino le diparadisa, mme ka jala mo go tsone setlhare sa peo yotlhe ya maungo.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ka dira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mo go nna⟩"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "madino"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "le diparadisa"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "mme ka jala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mo go tsone"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "setlhare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yotlhe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "peo ya maungo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:46:00.894358561Z",
   "model": "glm-5.3"
 }

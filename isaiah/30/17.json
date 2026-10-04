@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 30,
-  "translation": "Sekete se le sengwe se tla tshaba ka ntlha ya kgalefo ya mongwe; ka kgalefo ya ba batlhano lōna lo tla tshaba, go fitlha lo salwa jaaka molala o mo tlhogong ya ⟨the⟩ thaba, le jaaka lebantsi le mo ⟨the⟩ thabana.",
+  "translation": "Sekete se le sengwe se tla tshabela ka ntlha ya kanelo ya mongwe, mme ka ntlha ya kanelo ya ba le batlhano le tla tshabela ka botlano, go fitlha le sa sala jaaka sethere sa sefatanaga se se kwa godimo ga thaba, le jaaka sesupa kwa godimo ga thaba e nnye.",
   "tokens": [
     {
       "surface": "אלף",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "גערת",
-      "gloss": "kgalefo"
+      "gloss": "kanelo"
     },
     {
       "surface": "אחד",
-      "gloss": "mongwe"
+      "gloss": "ya mongwe"
     },
     {
       "surface": "מפני",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "גערת",
-      "gloss": "kgalefo"
+      "gloss": "kanelo"
     },
     {
       "surface": "חמשה",
-      "gloss": "ba batlhano"
+      "gloss": "ya ba le batlhano"
     },
     {
       "surface": "תנסו",
-      "gloss": "lo tla tshaba"
+      "gloss": "le tla tshabela"
     },
     {
       "surface": "עד",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨fa⟩"
     },
     {
       "surface": "נותרתם",
-      "gloss": "lo salwa"
+      "gloss": "le sa sala"
     },
     {
       "surface": "כתרן",
-      "gloss": "jaaka molala"
+      "gloss": "jaaka sethere sa sefatanaga"
     },
     {
       "surface": "על",
-      "gloss": "mo"
+      "gloss": "kwa godimo ga"
     },
     {
       "surface": "ראש",
-      "gloss": "tlhogong ya"
+      "gloss": "thabo"
     },
     {
       "surface": "ההר",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "וכנס",
-      "gloss": "le jaaka lebantsi"
+      "gloss": "le jaaka sesupa"
     },
     {
       "surface": "על",
-      "gloss": "mo"
+      "gloss": "kwa godimo ga"
     },
     {
       "surface": "הגבעה",
-      "gloss": "thabana"
+      "gloss": "thaba e nnye"
     }
   ],
-  "timestamp": "2026-10-03T23:54:44.610888044Z",
+  "timestamp": "2026-10-04T03:40:03.314246299Z",
   "model": "glm-5.3"
 }

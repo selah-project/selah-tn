@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 31,
-  "translation": "Ke nna ⟨the⟩ El wa Bet-Ele, koo o itshepisitseng leje le le emeng teng, koo o ikanaetseng ikano le nna teng. Jaanong tlhoga, tsamaa mo lefatsheng le, mme boela kwa lefatsheng la botsalo jwa gago.",
+  "translation": "Ke nna El wa Bet-Ele, kwa o tloditseng teng setlhako, kwa o ikannetseng teng ikano go nna; jaanong tshoga, tswa mo lefatsheng le, mme boela mo lefatsheng la go tswalwa ga gago.",
   "tokens": [
     {
       "surface": "אנכי",
-      "gloss": "Ke nna"
+      "gloss": "ke nna"
     },
     {
       "surface": "האל",
-      "gloss": "⟨the⟩ El"
+      "gloss": "El"
     },
     {
       "surface": "בית",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "koo"
+      "gloss": "kwa"
     },
     {
       "surface": "משחת",
-      "gloss": "o itshepisitseng"
+      "gloss": "o tloditseng"
     },
     {
       "surface": "שם",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "מצבה",
-      "gloss": "leje le le emeng"
+      "gloss": "setlhako"
     },
     {
       "surface": "אשר",
-      "gloss": "koo"
+      "gloss": "kwa"
     },
     {
       "surface": "נדרת",
-      "gloss": "o ikanaetseng"
+      "gloss": "o ikannetseng"
     },
     {
       "surface": "לי",
-      "gloss": "le nna"
+      "gloss": "go nna"
     },
     {
       "surface": "שם",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "עתה",
-      "gloss": "Jaanong"
+      "gloss": "jaanong"
     },
     {
       "surface": "קום",
-      "gloss": "tlhoga"
+      "gloss": "tshoga"
     },
     {
       "surface": "צא",
-      "gloss": "tsamaa"
+      "gloss": "tswa"
     },
     {
       "surface": "מן",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "lefatsheng"
+      "gloss": "lefatsheng le"
     },
     {
       "surface": "הזאת",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "mo"
     },
     {
       "surface": "ארץ",
@@ -97,9 +97,9 @@
     },
     {
       "surface": "מולדתך",
-      "gloss": "la botsalo jwa gago"
+      "gloss": "la go tswalwa ga gago"
     }
   ],
-  "timestamp": "2026-10-03T21:24:17.547333526Z",
+  "timestamp": "2026-10-04T03:30:15.275328964Z",
   "model": "glm-5.3"
 }

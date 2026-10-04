@@ -5,15 +5,15 @@
   "book": "haggai",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Mme ka bitsa kaka mo lefatsheng, le mo dithabeng, le mo pooneng, le mo veineng e ntšha, le mo mafureng, le mo go se leng se mmu o se ntshang, le mo bathong, le mo diphoofolong, le mo tirong yotlhe ya diatla.",
+  "translation": "Mme ka laletsa kome mo lefatshe, le mo dithabeng, le mo mabele, le mo beine e ncha, le mo mafura, le mo sepe se lefatshe le se ntshang, le mo bathong, le mo diphoofolong, le mo tirong yotlhe ya diatla.",
   "tokens": [
     {
       "surface": "ואקרא",
-      "gloss": "mme ka bitsa"
+      "gloss": "mme ka laletsa"
     },
     {
       "surface": "חרב",
-      "gloss": "kaka"
+      "gloss": "kome"
     },
     {
       "surface": "על",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הדגן",
-      "gloss": "pooneng"
+      "gloss": "mabele"
     },
     {
       "surface": "ועל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "התירוש",
-      "gloss": "veineng e ntšha"
+      "gloss": "beine e ncha"
     },
     {
       "surface": "ועל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "היצהר",
-      "gloss": "mafureng"
+      "gloss": "mafura"
     },
     {
       "surface": "ועל",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "go se leng se"
+      "gloss": "se"
     },
     {
       "surface": "תוציא",
-      "gloss": "o se ntshang"
+      "gloss": "le se ntshang"
     },
     {
       "surface": "האדמה",
-      "gloss": "mmu"
+      "gloss": "lefatshe"
     },
     {
       "surface": "ועל",
@@ -97,13 +97,13 @@
     },
     {
       "surface": "יגיע",
-      "gloss": "tiro"
+      "gloss": "tirong"
     },
     {
       "surface": "כפים",
-      "gloss": "ya diatla"
+      "gloss": "diatla"
     }
   ],
-  "timestamp": "2026-10-04T01:06:45.362501231Z",
+  "timestamp": "2026-10-04T03:49:46.503613220Z",
   "model": "glm-5.3"
 }

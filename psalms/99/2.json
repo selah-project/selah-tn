@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 99,
-  "translation": "Yahwe ke yo mogolo kwa Tsiyone, mme o kwa godigo ga ditshaba tsotlhe ⟨⟨he⟩⟩.",
+  "translation": "Yahwe ke mogolo mo Tsiyone, mme o kwa godimo ga ditshaba tsotlhe.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "בציון",
-      "gloss": "kwa Tsiyone"
+      "gloss": "mo Tsiyone"
     },
     {
       "surface": "גדול",
-      "gloss": "ke yo mogolo"
+      "gloss": "ke mogolo"
     },
     {
       "surface": "ורם",
-      "gloss": "mme o kwa godigo"
+      "gloss": "mme o kwa godimo"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨he⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "על",
@@ -40,6 +40,6 @@
       "gloss": "ditshaba"
     }
   ],
-  "timestamp": "2026-10-04T01:33:09.946658171Z",
+  "timestamp": "2026-10-04T03:44:53.503045787Z",
   "model": "glm-5.3"
 }

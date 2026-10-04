@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "tn",
   "chapter": 16,
-  "translation": "Mme Shimshone a tshwara ka thata ⟨את⟩ dikolomo tse pedi tsa bogare, tseo ntlo e neng e emetse ka tsone, mme a ikgweetsa ka tsone, e nngwe ka letlhagane la gagwe la moja, mme e nngwe ka la mošha.",
+  "translation": "Mme Shimshone a tshwara ⟨את⟩ dipilara tse pedi tsa mo bogareng, tse ntlo e neng e tsamaisiwa ka tsone, mme a ikgabisetsa mo go tsone, e nngwe ka letlaola la gagwe la moja, mme e nngwe ka la moletshe.",
   "tokens": [
     {
       "surface": "וילפת",
-      "gloss": "a tshwara ka thata"
+      "gloss": "a tshwara"
     },
     {
       "surface": "שמשון",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dikolomo tse pedi tsa bogare"
+      "marks": "dipilara tse pedi"
     },
     {
       "surface": "שני",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "עמודי",
-      "gloss": "dikolomo"
+      "gloss": "dipilara"
     },
     {
       "surface": "התוך",
-      "gloss": "tsa bogare"
+      "gloss": "tsa mo bogareng"
     },
     {
       "surface": "אשר",
-      "gloss": "tseo"
+      "gloss": "tse"
     },
     {
       "surface": "הבית",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "נכון",
-      "gloss": "e neng e emetse"
+      "gloss": "e neng e tsamaisiwa"
     },
     {
       "surface": "עליהם",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "ויסמך",
-      "gloss": "mme a ikgweetsa"
+      "gloss": "mme a ikgabisetsa"
     },
     {
       "surface": "עליהם",
-      "gloss": "ka tsone"
+      "gloss": "mo go tsone"
     },
     {
       "surface": "אחד",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "בימינו",
-      "gloss": "ka letlhagane la gagwe la moja"
+      "gloss": "ka letlaola la gagwe la moja"
     },
     {
       "surface": "ואחד",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "בשמאלו",
-      "gloss": "ka la mošha"
+      "gloss": "ka la moletshe"
     }
   ],
-  "timestamp": "2026-10-03T22:52:56.063021553Z",
+  "timestamp": "2026-10-04T03:48:54.433611905Z",
   "model": "glm-5.3"
 }

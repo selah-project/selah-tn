@@ -5,11 +5,11 @@
   "book": "hosea",
   "lang": "tn",
   "chapter": 2,
-  "translation": "Mme lefatshe le tla araba ⟨את⟩ korong, le ⟨את⟩ beine e ntšha, le ⟨את⟩ mafura; mme one a tla araba ⟨את⟩ Yizreele.",
+  "translation": "Mme lefatshe le tla araba ⟨את⟩ korong le ⟨את⟩ beine le ⟨את⟩ mafura; mme bone ba tla araba ⟨את⟩ Yizreele.",
   "tokens": [
     {
       "surface": "והארץ",
-      "gloss": "lefatshe"
+      "gloss": "Mme lefatshe"
     },
     {
       "surface": "תענה",
@@ -27,11 +27,11 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "beine e ntšha"
+      "marks": "beine"
     },
     {
       "surface": "התירוש",
-      "gloss": "beine e ntšha"
+      "gloss": "beine"
     },
     {
       "surface": "ואת",
@@ -44,11 +44,11 @@
     },
     {
       "surface": "והם",
-      "gloss": "mme one"
+      "gloss": "mme bone"
     },
     {
       "surface": "יענו",
-      "gloss": "a tla araba"
+      "gloss": "ba tla araba"
     },
     {
       "surface": "את",
@@ -60,6 +60,6 @@
       "gloss": "Yizreele"
     }
   ],
-  "timestamp": "2026-10-04T00:53:02.582894498Z",
+  "timestamp": "2026-10-04T03:42:51.041470925Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,73 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 11,
-  "translation": "Gore lo ka nna lobaka lo leleele mo lefatsheng leo Yahwe a neng a tshepa gore o tla go neela boago le peo ya bone — lefatshe le elelang mashi le mašoso.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:23:33.137005461Z",
+  "translation": "Mme gore lo ka nna le matsatsi a mantsi mo lefatsheng leo Yahwe a neng a tsaya laure la go se neela borre ba lona le peo ya bone, lefatshe le le thothomotsang mashi le dinotshe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "mme gore"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "lo ka nna le matsatsi a mantsi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a tsaya laure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "borre ba lona"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go neela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "le peo ya bone"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "le le thothomotsang"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mashi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le dinotshe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:48:38.508728827Z",
   "model": "glm-5.3"
 }

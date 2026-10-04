@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Ya Dawide. Yahwe ⟨is⟩ lesedi la me le poloko ya me — ke mang yo ke tlang go mo tshaba? Yahwe ⟨is⟩ nonofo ya botshelo jwa me — ke mang yo ke tlang go mo eseya?",
+  "translation": "Ya Dawide. Yahwe ⟨ke⟩ lesedi la me le tshepo ya me — ke mang yo ke tshwanetseng go mo tsoga? Yahwe ⟨ke⟩ maatla a botshelo jwa me — ke mang yo ke tshwanetseng go mo tshaba?",
   "tokens": [
     {
       "surface": "לדוד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וישעי",
-      "gloss": "le poloko ya me"
+      "gloss": "le tshepo ya me"
     },
     {
       "surface": "ממי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אירא",
-      "gloss": "ke tlang go mo tshaba"
+      "gloss": "go mo tsoga"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מעוז",
-      "gloss": "nonofo"
+      "gloss": "maatla"
     },
     {
       "surface": "חיי",
-      "gloss": "ya botshelo jwa me"
+      "gloss": "a botshelo jwa me"
     },
     {
       "surface": "ממי",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "אפחד",
-      "gloss": "ke tlang go mo eseya"
+      "gloss": "go mo tshaba"
     }
   ],
-  "timestamp": "2026-10-04T01:17:38.170634395Z",
+  "timestamp": "2026-10-04T03:47:33.408303602Z",
   "model": "glm-5.3"
 }

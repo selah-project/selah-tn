@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tn",
   "chapter": 12,
-  "translation": "Mme gape ba ba neng ba kgaufatse le bone, go fitlha go Yisaskare le Sebulune le Naftale, ba ne ba isa senkgwe mo diphukeng tsa tonki, mo dikameleng, mo dipitse tsa mahedire le mo dikgomong: dijo tsa moutu, dikuku tsa mafeilo, mašmorogwane, beine, mafura, dikgomo le dipudi ka bontsi; go ne go na le boitumelo mo Yisraele.",
+  "translation": "Mme gape ba ba mo gaufi le bone, go fitlha kwa Yisasekhare le kwa Sebulone le kwa Nafutale, ba ne ba isa senkgwe mo ditong, mo dikameleng, mo dipitse tsa tlhago le mo dikgong, nama, bolawa, dikuku tsa mafeikjo, merara e omilweng, beine le mafura, dikgomo le dipodi ka bontsi; go ne go na le boitumelo kwa Yisraele.",
   "tokens": [
     {
       "surface": "וגם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הקרובים",
-      "gloss": "ba ba kgaufatse"
+      "gloss": "ba ba mo gaufi"
     },
     {
       "surface": "אליהם",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "עד",
-      "gloss": "go fitlha go"
+      "gloss": "go fitlha"
     },
     {
       "surface": "יששכר",
-      "gloss": "Yisaskare"
+      "gloss": "Yisasekhare"
     },
     {
       "surface": "וזבלון",
-      "gloss": "le Sebulune"
+      "gloss": "le kwa Sebulone"
     },
     {
       "surface": "ונפתלי",
-      "gloss": "le Naftale"
+      "gloss": "le kwa Nafutale"
     },
     {
       "surface": "מביאים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בחמורים",
-      "gloss": "mo diphukeng tsa tonki"
+      "gloss": "mo ditong"
     },
     {
       "surface": "ובגמלים",
@@ -53,27 +53,27 @@
     },
     {
       "surface": "ובפרדים",
-      "gloss": "mo dipitse tsa mahedire"
+      "gloss": "mo dipitse tsa tlhago"
     },
     {
       "surface": "ובבקר",
-      "gloss": "mo dikgomong"
+      "gloss": "mo dikgong"
     },
     {
       "surface": "מאכל",
-      "gloss": "dijo"
+      "gloss": "nama"
     },
     {
       "surface": "קמח",
-      "gloss": "tsa moutu"
+      "gloss": "bolawa"
     },
     {
       "surface": "דבלים",
-      "gloss": "dikuku tsa mafeilo"
+      "gloss": "dikuku tsa mafeikjo"
     },
     {
       "surface": "וצמוקים",
-      "gloss": "mašmorogwane"
+      "gloss": "merara e omilweng"
     },
     {
       "surface": "ויין",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "וצאן",
-      "gloss": "dipudi"
+      "gloss": "dipodi"
     },
     {
       "surface": "לרב",
@@ -105,9 +105,9 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "mo Yisraele"
+      "gloss": "kwa Yisraele"
     }
   ],
-  "timestamp": "2026-10-04T02:39:40.454469493Z",
+  "timestamp": "2026-10-04T03:46:33.970984699Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,45 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 26,
-  "translation": "Bana ba Yisaskare, ka malapa a bona: ba Serede, lelapa la ba-Seredi; ba Elone, lelapa la ba-Eloni; ba Yakhleele, lelapa la ba-Yakhleeli.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:14:33.971276097Z",
+  "translation": "A e tse ke malapa a Yisaskare go ya ka ba ba neng ba balwa: dikete di le masome a mane le marataro le makgolo a mararo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "A e tse"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaskare"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "go ya ka ba ba neng ba balwa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "di le mane"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "le masome a marataro"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a mararo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:33:31.952729268Z",
   "model": "glm-5.3"
 }

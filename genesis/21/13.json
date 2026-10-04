@@ -5,28 +5,28 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 21,
-  "translation": "Mme ⟨את⟩ morwa wa molatedi wa mošomong le ena ke tla mo dira setšhaba, gonne ke peo ya gago.",
+  "translation": "Mme mo ngwaneng wa mosadi wa moletwa le gongwe, ke tla mo dira setshaba, gore ke peo ya gago.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "mme le"
+      "gloss": "mme ... le gongwe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "morwa"
+      "marks": "ngwana wa mosadi wa moletwa"
     },
     {
       "surface": "בן",
-      "gloss": "morwa"
+      "gloss": "ngwana"
     },
     {
       "surface": "האמה",
-      "gloss": "wa molatedi wa mošomong"
+      "gloss": "wa mosadi wa moletwa"
     },
     {
       "surface": "לגוי",
-      "gloss": "setšhaba"
+      "gloss": "setshaba"
     },
     {
       "surface": "אשימנו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "gonne"
+      "gloss": "gore"
     },
     {
       "surface": "זרעך",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ke ena"
+      "gloss": "ke"
     }
   ],
-  "timestamp": "2026-10-03T21:19:43.484296136Z",
+  "timestamp": "2026-10-04T03:29:54.313965428Z",
   "model": "glm-5.3"
 }

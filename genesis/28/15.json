@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 28,
-  "translation": "Mme tafole, ke na le wena, ke tla go sireletsa kwa o yang kae kae, ke tla go busa mo lefatsheng leno; gonne ga ke tla go tlogela, go fitlha ke dira ⟨את⟩ se ke se buileng go wena.",
+  "translation": "Mme bonê, ke na le wena, mme ke tlaa go boloka kwa oyang kaele kaele, mme ke tlaa busetsa mo lefatshe le, gonne ga nkitla ke go tlogela, go fitlha ke dira ⟨את⟩ se ke se buileng go wena.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "Mme tafole"
+      "gloss": "Mme bonê"
     },
     {
       "surface": "אנכי",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "ושמרתיך",
-      "gloss": "ke tla go sireletsa"
+      "gloss": "ke tlaa go boloka"
     },
     {
       "surface": "בכל",
-      "gloss": "kae kae"
+      "gloss": "kwa"
     },
     {
       "surface": "אשר",
-      "gloss": "kwa o yang"
+      "gloss": "aele"
     },
     {
       "surface": "תלך",
-      "gloss": ""
+      "gloss": "oyang"
     },
     {
       "surface": "והשבתיך",
-      "gloss": "ke tla go busa"
+      "gloss": "ke tlaa busetsa"
     },
     {
       "surface": "אל",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "lefatsheng"
+      "gloss": "lefatshe"
     },
     {
       "surface": "הזאת",
-      "gloss": "leno"
+      "gloss": "le"
     },
     {
       "surface": "כי",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אעזבך",
-      "gloss": "ke tla go tlogela"
+      "gloss": "nkitla ke go tlogela"
     },
     {
       "surface": "עד",
@@ -69,20 +69,20 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "se"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ke"
     },
     {
       "surface": "עשיתי",
-      "gloss": "ke dira"
+      "gloss": "dira"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "se ke se buileng"
+      "marks": "se"
     },
     {
       "surface": "אשר",
@@ -97,6 +97,6 @@
       "gloss": "go wena"
     }
   ],
-  "timestamp": "2026-10-03T21:22:30.041741499Z",
+  "timestamp": "2026-10-04T03:30:00.168657380Z",
   "model": "glm-5.3"
 }

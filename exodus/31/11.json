@@ -5,12 +5,12 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 31,
-  "translation": "le ⟨את⟩ mafura a go itshepisa le ⟨את》 mofofane wa dintshi tsa bofefo bakeng sa boitshepo; go ya ka tsotlhe tse ke di laetseng, ba di dire.",
+  "translation": "Le ⟨את⟩ mafura a go itshepisa, le ⟨את⟩ mooswa wa dinamane wa boitshepo; go ya ka tsotlhe tse ke laileng wena, ba tlaa di dira.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "mafura"
+      "marks": "mafura a go itshepisa"
     },
     {
       "surface": "שמן",
@@ -23,19 +23,19 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "mofofane"
+      "marks": "mooswa wa dinamane"
     },
     {
       "surface": "קטרת",
-      "gloss": "mofofane wa"
+      "gloss": "mooswa"
     },
     {
       "surface": "הסמים",
-      "gloss": "dintshi tsa bofefo"
+      "gloss": "wa dinamane"
     },
     {
       "surface": "לקדש",
-      "gloss": "bakeng sa boitshepo"
+      "gloss": "wa boitshepo"
     },
     {
       "surface": "ככל",
@@ -47,13 +47,13 @@
     },
     {
       "surface": "צויתך",
-      "gloss": "ke di laetseng"
+      "gloss": "ke laileng wena"
     },
     {
       "surface": "יעשו",
-      "gloss": "ba di dire"
+      "gloss": "ba tlaa di dira"
     }
   ],
-  "timestamp": "2026-10-03T21:44:37.902087013Z",
+  "timestamp": "2026-10-04T03:31:38.735781384Z",
   "model": "glm-5.3"
 }

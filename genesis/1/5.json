@@ -5,8 +5,61 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 1,
-  "translation": "Mme Elohim a bitsa ⟨את⟩ lesedi Kganya, mme sephiri a se bitsa Bosigo; mme go nna le mahutabego, mme go nna le moso — Letsatsi la ntlha.",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:13:42.595964743Z",
+  "translation": "Mme Elohim a bitsa ⟨את⟩ lesedi le re “letsatsi”, le go lefifi a bitsa “bosigo”. Mme go nna boitemogolo, mme go nna moso — letsatsi la ntlha.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "lesedi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "go lefifi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "boitemogolo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "la ntlha"
+    }
+  ],
+  "timestamp": "2026-10-04T03:29:30.271230275Z",
   "model": "glm-5.3"
 }

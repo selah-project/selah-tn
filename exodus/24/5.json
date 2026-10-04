@@ -5,8 +5,58 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 24,
-  "translation": "Mme a romela ⟨את⟩ bashanyana ba ba tswang mo baneng ba Yisraele, mme ba tlhagisa dikabelo tsa go chesa, mme ba tlhagisa dikabelo tsa kagiso tsa ditonki tse nne tsa ditonki tse nne tsa ⟨את⟩ dikabelo tsa kagiso tsa ditonki — ba ne ba dira jalo go Yahwe: E ne e le dikabelo tsa kagiso tsa ditonki tse nne tsa kgomo.",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:41:33.261850462Z",
+  "translation": "Mme a romela ⟨את⟩ bashanyana ba bana ba Yisraele, mme ba ne ba isa diphophojwana tsa go chesa jaaka dintho tse di chesiwang, mme ba ne ba bolaela Yahwe diphophojwana tsa kgolagano.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bashanyana ba bana ba Yisraele"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "bashanyana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba ne ba isa jaaka dintho tse di chesiwang"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "diphophojwana tsa go chesa"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ba ne ba bolaela"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "diphophojwana"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "tsa kgolagano"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "diphologolo tsa dikgomo"
+    }
+  ],
+  "timestamp": "2026-10-04T03:30:59.744474585Z",
   "model": "glm-5.3"
 }

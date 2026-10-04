@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 18,
-  "translation": "Mme Yahwe a bua le Aharone: Mo lefatsheng la bone o se ka wa rüa karolo, mme karolo o se ka wa nna le yone mo go bone; nna ke karolo ya gago le boswa jwa gago mo gare ga barwa ba Yisraele.",
+  "translation": "Mme Yahwe a bua le Aharone: Mo lefatsheng la bone o se ka wa boa o na le kgonagalo ya go ruа, mme karolo o se ka wa e nna le yone mo go bone; nna ke karolo ya gago le boswa ja gago mo gare ga bana ba Yisraele.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "mme ... a bua"
+      "gloss": "a bua"
     },
     {
       "surface": "יהוה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "o se ka"
+      "gloss": "o se ka wa"
     },
     {
       "surface": "תנחל",
-      "gloss": "wa boela wa büa karolo"
+      "gloss": "go rua"
     },
     {
       "surface": "וחלק",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "o se ka"
+      "gloss": "o se ka wa e nna le yone"
     },
     {
       "surface": "יהיה",
-      "gloss": "wa nna le yone"
+      "gloss": "e nne"
     },
     {
       "surface": "לך",
-      "gloss": "mo go wena"
+      "gloss": "ya gago"
     },
     {
       "surface": "בתוכם",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "חלקך",
-      "gloss": "ke karolo ya gago"
+      "gloss": "karolo ya gago"
     },
     {
       "surface": "ונחלתך",
-      "gloss": "le boswa jwa gago"
+      "gloss": "le boswa ja gago"
     },
     {
       "surface": "בתוך",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "barwa ba"
+      "gloss": "bana ba"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-03T22:11:45.752670669Z",
+  "timestamp": "2026-10-04T03:33:56.782085744Z",
   "model": "glm-5.3"
 }

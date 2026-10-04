@@ -5,44 +5,44 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 31,
-  "translation": "mme o kgaoganye ⟨את⟩ ⟨the⟩ olelo ka halofo, gareng ga ba ba neng ba le mo ntewing, ba ba tsamaileng go ya sesoleng, le setshaba sotlhe.",
+  "translation": "Mme o kgaoganye ⟨את⟩ sehapo ka bobedi: magareng ga ba ba tsere dintwa, ba ba tseng kwa letsholong la ntwa, le setshaba sotlhe.",
   "tokens": [
     {
       "surface": "וחצית",
-      "gloss": "o kgaoganye ka halofo"
+      "gloss": "o kgaoganye ka bobedi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olelo"
+      "marks": "sehapo"
     },
     {
       "surface": "המלקוח",
-      "gloss": "olelo"
+      "gloss": "sehapo"
     },
     {
       "surface": "בין",
-      "gloss": "gareng ga"
+      "gloss": "magareng ga"
     },
     {
       "surface": "תפשי",
-      "gloss": "ba ba neng ba le mo ntewing"
+      "gloss": "ba ba tsere"
     },
     {
       "surface": "המלחמה",
-      "gloss": "ntwe"
+      "gloss": "dintwa"
     },
     {
       "surface": "היצאים",
-      "gloss": "ba ba tsamaileng"
+      "gloss": "ba ba tseng"
     },
     {
       "surface": "לצבא",
-      "gloss": "go ya sesoleng"
+      "gloss": "kwa letsholong la ntwa"
     },
     {
       "surface": "ובין",
-      "gloss": "le"
+      "gloss": "le magareng ga"
     },
     {
       "surface": "כל",
@@ -53,6 +53,6 @@
       "gloss": "setshaba"
     }
   ],
-  "timestamp": "2026-10-03T22:17:56.333880796Z",
+  "timestamp": "2026-10-04T03:34:11.084505684Z",
   "model": "glm-5.3"
 }

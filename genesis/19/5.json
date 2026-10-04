@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 19,
-  "translation": "Mme ba bitsa Lote, mme ba mo raya ba re: Banna bao ba ba neng ba tsena mo go weng bosigo bosheng joo, kae? Ba ntše ba tle go re, re di bone ⟨אתם⟩.",
+  "translation": "Mme ba bitsa Lote, mme ba mo re: Banna bao ba ba neng ba tsena go wena bo bosigo ba kae? Ba ntsha go tla go rona, gore re ba itse ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ויקראו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "go"
     },
     {
       "surface": "לוט",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ba mo raya"
+      "gloss": "ba re"
     },
     {
       "surface": "לו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "banna"
+      "gloss": "banna bao"
     },
     {
       "surface": "אשר",
-      "gloss": "bao"
+      "gloss": "ba"
     },
     {
       "surface": "באו",
@@ -45,29 +45,30 @@
     },
     {
       "surface": "אליך",
-      "gloss": "mo go weng"
+      "gloss": "go wena"
     },
     {
       "surface": "הלילה",
-      "gloss": "bosigo bosheng joo"
+      "gloss": "bo bosigo"
     },
     {
       "surface": "הוציאם",
-      "gloss": "ba ntše ba tle"
+      "gloss": "ba ntsha"
     },
     {
       "surface": "אלינו",
-      "gloss": "go re"
+      "gloss": "go tla go rona"
     },
     {
       "surface": "ונדעה",
-      "gloss": "re di bone"
+      "gloss": "gore re ba itse"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩"
+      "gloss": "⟨אתם⟩",
+      "marks": "banna"
     }
   ],
-  "timestamp": "2026-10-03T21:18:14.974925785Z",
+  "timestamp": "2026-10-04T03:29:31.452363683Z",
   "model": "glm-5.3"
 }

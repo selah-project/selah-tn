@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 9,
-  "translation": "Mme go ya ka go tlhatloga ga ⟨⟨the⟩⟩ setlhare sa maru go tswa kwa tlase ga pheko, mme morago ga moo bana ba Yisraele ba ne ba tsamaya; mme kwa lefelong leo maru a nang a nna teng, koo bana ba Yisraele ba neng ba kgama matlhago teng.",
+  "translation": "Mme go ya ka go tlhatloga ga leru mo bohabogodimo jwa tensele, mme morago ga moo bana ba Yisraele ba ne ba tsamaya; mme kwa lefelong lefang leru le nang gone, koo bana ba Yisraele ba neng ba kgweetsa ditente.",
   "tokens": [
     {
       "surface": "ולפי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "הענן",
-      "gloss": "maru"
+      "gloss": "leru"
     },
     {
       "surface": "מעל",
-      "gloss": "go tswa kwa tlase ga"
+      "gloss": "mo bohabogodimo jwa"
     },
     {
       "surface": "האהל",
-      "gloss": "pheko"
+      "gloss": "tensele"
     },
     {
       "surface": "ואחרי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יסעו",
-      "gloss": "ba ne ba tsamaya"
+      "gloss": "ba tsamaya"
     },
     {
       "surface": "בני",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "leo"
+      "gloss": "lefang"
     },
     {
       "surface": "ישכן",
-      "gloss": "a nang a nna"
+      "gloss": "le nang"
     },
     {
       "surface": "שם",
-      "gloss": "koo"
+      "gloss": "gone"
     },
     {
       "surface": "הענן",
-      "gloss": "maru"
+      "gloss": "leru"
     },
     {
       "surface": "שם",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "יחנו",
-      "gloss": "ba ne ba kgama matlhago"
+      "gloss": "ba kgweetsa ditente"
     },
     {
       "surface": "בני",
@@ -84,6 +84,6 @@
       "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-03T22:07:36.689613359Z",
+  "timestamp": "2026-10-04T03:33:55.066802364Z",
   "model": "glm-5.3"
 }

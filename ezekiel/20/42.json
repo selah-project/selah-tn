@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme lo tlaa itse gore ke nna Yahwe, fa ke tlisa lona kwa setšhabeng sa Yisraele, kwa lefatsheng leo ke neng ke tlhatlosa ⟨את⟩ seatla sa me go se neela bookoloi ba lona.",
+  "translation": "Mme lo tla itse gore ke nna Yahwe, fa ke tlisa lona go lefatshe la Yisraaele, go lefatshe leo ke neng ke tlhatlhobetse ⟨את⟩ seatla sa me go le neela bokaulengwe ba lona.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "mme lo tlaa itse"
+      "gloss": "lo tla itse"
     },
     {
       "surface": "כי",
@@ -29,28 +29,28 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩"
-    },
-    {
-      "surface": "אל",
-      "gloss": "kwa",
+      "gloss": "⟨את⟩ lona",
       "marks": "lona"
     },
     {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
       "surface": "אדמת",
-      "gloss": "setšhabeng sa"
+      "gloss": "lefatshe la"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "Yisraaele"
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "go"
     },
     {
       "surface": "הארץ",
-      "gloss": "lefatsheng"
+      "gloss": "lefatshe leo"
     },
     {
       "surface": "אשר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "ke neng ke tlhatlosa"
+      "gloss": "ke neng ke tlhatlhobetse"
     },
     {
       "surface": "את",
@@ -75,14 +75,13 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ se",
-      "marks": "lefatshe leo"
+      "gloss": "⟨את⟩ e"
     },
     {
       "surface": "לאבותיכם",
-      "gloss": "go bookoloi ba lona"
+      "gloss": "bokaulengwe ba lona"
     }
   ],
-  "timestamp": "2026-10-04T00:39:49.332529412Z",
+  "timestamp": "2026-10-04T03:41:22.451359079Z",
   "model": "glm-5.3"
 }

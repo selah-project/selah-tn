@@ -5,39 +5,39 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 7,
-  "translation": "Mme ⟨את⟩ dipitsa, le ⟨את⟩ dikhwapa, le ⟨את⟩ didinotse, le ⟨את⟩ dithoto tse di neng di le mo teng ga ⟨the⟩ haele, tse Khirame a neng a di direla kgosi Shelomoe ka yone — ntlo ya Yahwe — tse nthatlhwa ya tshipi e e nang le tlhare.",
+  "translation": "Le ⟨את⟩ didiriswa, le ⟨את⟩ dihlapa, le ⟨את⟩ dikgarapa, le ⟨את⟩ dithuluso tsotlhe tsa betshwana,HIRAME a di direla kgosi Salomone ntlong ya Yahwe — di ne tsa dirwa ka kopore e e nang le boikhutso.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Mme ⟨את⟩",
-      "marks": "dipitsa"
+      "gloss": "Le ⟨את⟩",
+      "marks": "didiriswa"
     },
     {
       "surface": "הסירות",
-      "gloss": "dipitsa"
+      "gloss": "didiriswa"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "dikhwapa"
+      "marks": "dihlapa"
     },
     {
       "surface": "היעים",
-      "gloss": "dikhwapa"
+      "gloss": "dihlapa"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "didinotse"
+      "marks": "dikgarapa"
     },
     {
       "surface": "המזרקות",
-      "gloss": "didinotse"
+      "gloss": "dikgarapa"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "dithoto tsotlhe"
+      "marks": "dithuluso tsotlhe tsa betshwana"
     },
     {
       "surface": "כל",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "הכלים",
-      "gloss": "dithoto"
+      "gloss": "dithuluso tsa betshwana"
     },
     {
       "surface": "האהל",
-      "gloss": "haele"
+      "gloss": ""
     },
     {
       "surface": "אשר",
-      "gloss": "tse"
+      "gloss": "a di direlang"
     },
     {
       "surface": "עשה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "חירם",
-      "gloss": "Khirame"
+      "gloss": "HIRAME"
     },
     {
       "surface": "למלך",
@@ -69,25 +69,25 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoe"
+      "gloss": "Salomone"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo"
+      "gloss": "ntlong"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "ya Yahwe"
     },
     {
       "surface": "נחשת",
-      "gloss": "nthatlhwa ya tshipi"
+      "gloss": "kopore"
     },
     {
       "surface": "ממרט",
-      "gloss": "e e nang le tlhare"
+      "gloss": "e e nang le boikhutso"
     }
   ],
-  "timestamp": "2026-10-03T23:21:51.802098553Z",
+  "timestamp": "2026-10-04T03:38:58.910922649Z",
   "model": "glm-5.3"
 }

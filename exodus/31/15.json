@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 31,
-  "translation": "Malatsi a mabedi le mane, tiro e ka dirwa; mme letšatši la bosupa ke Shabata, phomolo ya Shabata, boitshepo go Yahwe; mongwe le mongwe yo o dirang tiro ka letšatši la Shabata, a bolawe ka tlhamalalo.",
+  "translation": "Ka malatsi a marataro tiro e ka dirwa; mme ka letsatsi la bosupa ke Shabata, phomolo ya Shabata, boitshepo seya go Yahwe; yotlhe yo o dirang tiro ka letsatsi la Shabata o tla bolawa ka tlhamalalo.",
   "tokens": [
     {
       "surface": "ששת",
-      "gloss": "a mabedi le mane"
+      "gloss": "a marataro"
     },
     {
       "surface": "ימים",
-      "gloss": "Malatsi"
+      "gloss": "Ka malatsi"
     },
     {
       "surface": "יעשה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וביום",
-      "gloss": "mme ka letšatši"
+      "gloss": "mme ka letsatsi"
     },
     {
       "surface": "השביעי",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "go Yahwe"
+      "gloss": "seya go Yahwe"
     },
     {
       "surface": "כל",
-      "gloss": "mongwe le mongwe"
+      "gloss": "yotlhe"
     },
     {
       "surface": "העשה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "ka letšatši"
+      "gloss": "ka letsatsi"
     },
     {
       "surface": "השבת",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "מות",
-      "gloss": "a bolawe"
+      "gloss": "o tla bolawa"
     },
     {
       "surface": "יומת",
       "gloss": "ka tlhamalalo"
     }
   ],
-  "timestamp": "2026-10-03T21:44:53.469971561Z",
+  "timestamp": "2026-10-04T03:32:14.722399911Z",
   "model": "glm-5.3"
 }

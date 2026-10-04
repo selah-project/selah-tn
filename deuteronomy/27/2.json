@@ -5,8 +5,91 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 27,
-  "translation": "Mme e tla bo e le letsatsi lengwe le le lengwe le le tlwaelegileng le lona lo feta ⟨את⟩ Yoridane, mo lefatsheng leo Yahwe Elohim ya lona a se nayang, lo bee lo ikobile maje a magolo, lo ba lo apara ⟨את⟩ one ka sadire.",
-  "tokens": [],
-  "timestamp": "2026-10-03T22:30:21.207091650Z",
+  "translation": "Mme go tla nna jalo: ka letsatsi lo lo tlalang ⟨את⟩ Yoredene, lo ya kwa lefatsheng leo Yahwe Elohim wa gago a lo nayong, o tlhomiwelejeje maje a magolo, mme o a apese ka sidia.",
+  "tokens": [
+    {
+      "surface": "ו היה",
+      "gloss": "Mme go tla nna jalo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo lo"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "tlalang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lo ya kwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a lo nayong"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "o tlhomiwelejeje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "maje"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "a magolo"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "o a apese"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maje"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "ka sidia"
+    }
+  ],
+  "timestamp": "2026-10-04T03:35:29.430524745Z",
   "model": "glm-5.3"
 }

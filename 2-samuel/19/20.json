@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "tn",
   "chapter": 19,
-  "translation": "Mme a re le kgosi: Morena wa me, a se ke a nteka molato; o se ke wa gakologelwa se mošomi wa gago a se dirileng ka tsela e e fosagetsemeng ka letsatsi leo morena wa me kgosi a neng a tswa kwa Yerushalayime, gore kgosi e se ke wa se beya mo pelong ya gagwe.",
+  "translation": "Mme a re go kgosi: Morena wa me, a se ka a mpolelela boleo, mme o se ka wa gopola ⟨את⟩ se modiri wa gago o neng a o dira ka tsela e e fosagetsweng, ka letsatsi leo morena wa me kgosi a neng a tswa kwa Yerushalayime, gore kgosi e se ka e tsenya mo pelong ya gagwe.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "Mme a re"
     },
     {
       "surface": "אל",
-      "gloss": "le"
+      "gloss": "go"
     },
     {
       "surface": "המלך",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "a se ke"
+      "gloss": "a se ka"
     },
     {
       "surface": "יחשב",
-      "gloss": "a nteka"
+      "gloss": "a mpolelela"
     },
     {
       "surface": "לי",
-      "gloss": "N\/A"
+      "gloss": "mo go nna"
     },
     {
       "surface": "אדני",
@@ -37,19 +37,20 @@
     },
     {
       "surface": "עון",
-      "gloss": "molato"
+      "gloss": "boleo"
     },
     {
       "surface": "ואל",
-      "gloss": "o se ke"
+      "gloss": "mme o se ka"
     },
     {
       "surface": "תזכר",
-      "gloss": "wa gakologelwa"
+      "gloss": "wa gopola"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "se"
     },
     {
       "surface": "אשר",
@@ -57,15 +58,15 @@
     },
     {
       "surface": "העוה",
-      "gloss": "a se dirileng ka tsela e e fosagetsemeng"
+      "gloss": "o neng a o dira ka tsela e e fosagetsweng"
     },
     {
       "surface": "עבדך",
-      "gloss": "mošomi wa gago"
+      "gloss": "modiri wa gago"
     },
     {
       "surface": "ביום",
-      "gloss": "ka letsatsi leo"
+      "gloss": "ka letsatsi"
     },
     {
       "surface": "אשר",
@@ -89,7 +90,7 @@
     },
     {
       "surface": "לשום",
-      "gloss": "gore...a se ke wa se beya"
+      "gloss": "gore e se ka e tsenya"
     },
     {
       "surface": "המלך",
@@ -104,6 +105,6 @@
       "gloss": "pelong ya gagwe"
     }
   ],
-  "timestamp": "2026-10-03T23:17:09.175110774Z",
+  "timestamp": "2026-10-04T03:38:03.430551813Z",
   "model": "glm-5.3"
 }

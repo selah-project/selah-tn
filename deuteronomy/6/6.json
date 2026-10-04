@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 6,
-  "translation": "Mme mafoko a a⟨the⟩ a o ke a laola gompieno a nne mo pelong ya gago.",
+  "translation": "Mme mafoko a, ao ke a laelang gago le kajeno, a nne mo pelong ya gago.",
   "tokens": [
     {
       "surface": "והיו",
-      "gloss": "mme a nne"
+      "gloss": "Mme ... a nne"
     },
     {
       "surface": "הדברים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "האלה",
-      "gloss": "a a"
+      "gloss": "a"
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "ao"
     },
     {
       "surface": "אנכי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "a laola"
+      "gloss": "a laelang gago"
     },
     {
       "surface": "היום",
-      "gloss": "gompieno"
+      "gloss": "le kajeno"
     },
     {
       "surface": "על",
@@ -44,6 +44,6 @@
       "gloss": "pelong ya gago"
     }
   ],
-  "timestamp": "2026-10-03T22:21:35.959525319Z",
+  "timestamp": "2026-10-04T03:34:44.461978930Z",
   "model": "glm-5.3"
 }

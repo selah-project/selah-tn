@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 23,
-  "translation": "Mme senkgwe, le korong e besitsweng, le poono e ntšhwa, ga le ke le ja fitlha ka botlalo letsatsi le, fitlha le tsenya ⟨את⟩ mpho ya Elohim ya lona: molao wa bosakhutleng go meloko ya lona, kwa mafelong oo lona a nang.",
+  "translation": "Mme ga se senkgwe, kgotsa dirobilweng, kgotsa peo e ntšha e sa babang, ye o ka e jang, go fitlha ka lerapo la letsatsi leno, go fitlha ha le tsisa ⟨את⟩ mpho ya Elohim ya lona — e tla nna taelo ya bosakhutleng bakeng sa dikokomana tsa lona, kwa mafelong ohle a lona a go nna mo go one.",
   "tokens": [
     {
       "surface": "ולחם",
-      "gloss": "Mme senkgwe"
+      "gloss": "mme ga se senkgwe"
     },
     {
       "surface": "וקלי",
-      "gloss": "le korong e besitsweng"
+      "gloss": "kgotsa dirobilweng"
     },
     {
       "surface": "וכרמל",
-      "gloss": "le poono e ntšhwa"
+      "gloss": "kgotsa peo e ntšha e sa babang"
     },
     {
       "surface": "לא",
@@ -25,36 +25,36 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "le ja"
+      "gloss": "ye o ka e jang"
     },
     {
       "surface": "עד",
-      "gloss": "fitlha"
+      "gloss": "go fitlha"
     },
     {
       "surface": "עצם",
-      "gloss": "ka botlalo"
+      "gloss": "ka lerapo"
     },
     {
       "surface": "היום",
-      "gloss": "letsatsi"
+      "gloss": "la letsatsi"
     },
     {
       "surface": "הזה",
-      "gloss": "le"
+      "gloss": "leno"
     },
     {
       "surface": "עד",
-      "gloss": "fitlha"
+      "gloss": "go fitlha"
     },
     {
       "surface": "הביאכם",
-      "gloss": "le tsenya"
+      "gloss": "ha le tsisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mpho"
+      "marks": "mpho ya Elohim ya lona"
     },
     {
       "surface": "קרבן",
@@ -66,25 +66,25 @@
     },
     {
       "surface": "חקת",
-      "gloss": "molao"
+      "gloss": "taelo"
     },
     {
       "surface": "עולם",
-      "gloss": "wa bosakhutleng"
+      "gloss": "ya bosakhutleng"
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "go meloko ya lona"
+      "gloss": "bakeng sa dikokomana tsa lona"
     },
     {
       "surface": "בכל",
-      "gloss": "kwa"
+      "gloss": "kwa ohle"
     },
     {
       "surface": "משבתיכם",
-      "gloss": "mafelong oo lona a nang"
+      "gloss": "mafelong a lona a go nna mo go one"
     }
   ],
-  "timestamp": "2026-10-04T03:04:46.810328097Z",
+  "timestamp": "2026-10-04T03:48:40.760267215Z",
   "model": "glm-5.3"
 }

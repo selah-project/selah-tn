@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "tn",
   "chapter": 5,
-  "translation": "Mme ba ne ba tla go tswa mo go ditshaba tsotlhe go utlwa ⟨את⟩ botlhale jwa Shelomo, go tswa ⟨את⟩ kingi tsotlhe ba lefatshe, ba ba neng ba utlwa ⟨את⟩ botlhale jwa gagwe.",
+  "translation": "Mme go tswa mo ditshabeng tsotlhe go ne go tla go utlwa botlhale jwa Solomone, go tswa kwa bakosing botlhe ba lefatshe, ba ba neng ba utlile ⟨את⟩ botlhale jwa gagwe.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "mme ba ne ba tla"
+      "gloss": "go ne go tla"
     },
     {
       "surface": "מכל",
-      "gloss": "go tswa mo go tsotlhe"
+      "gloss": "go tswa mo … tsotlhe"
     },
     {
       "surface": "העמים",
-      "gloss": "tšhaba tse dingwe"
+      "gloss": "ditshabeng"
     },
     {
       "surface": "לשמע",
@@ -26,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "botlhale"
+      "marks": "botlhale jwa Solomone"
     },
     {
       "surface": "חכמת",
-      "gloss": "botlhale"
+      "gloss": "botlhale jwa"
     },
     {
       "surface": "שלמה",
-      "gloss": "jwa Shelomo"
+      "gloss": "Solomone"
     },
     {
       "surface": "מאת",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "tsotlhe"
+      "gloss": "botlhe"
     },
     {
       "surface": "מלכי",
-      "gloss": "kingi"
+      "gloss": "bakosing"
     },
     {
       "surface": "הארץ",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ba ba neng"
+      "gloss": "ba ba neng ba"
     },
     {
       "surface": "שמעו",
-      "gloss": "ba utlwa"
+      "gloss": "ba utlile"
     },
     {
       "surface": "את",
@@ -70,6 +70,6 @@
       "gloss": "botlhale jwa gagwe"
     }
   ],
-  "timestamp": "2026-10-03T23:22:01.376075952Z",
+  "timestamp": "2026-10-04T03:38:47.161862923Z",
   "model": "glm-5.3"
 }

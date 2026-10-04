@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tn",
   "chapter": 3,
-  "translation": "Mme a re: Ke tla bo ke le le wena; mme se se tla nnang ⟨ה⟩sesupo sa gore ke a go romile: fa o ntshile ⟨את⟩ setshaba go tswa mo Mitsrayime, lo tla ntshikela ⟨את⟩ Elohim godimo ga thaba e.",
+  "translation": "Mme a re: Ke tla bo ke na le wena, mme se se tlaa nna seka gore ke wena ke a go romile: fa o ntsha ⟨את⟩ setshaba se mo Mitsrayime, lo tlaa dira tiro ya ⟨את⟩ Elohim mo thabeng eno.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "Ke tla bo ke le"
+      "gloss": "Ke tla bo ke na"
     },
     {
       "surface": "עמך",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "sa go"
+      "gloss": "go wena"
     },
     {
       "surface": "האות",
-      "gloss": "sesupo"
+      "gloss": "seka"
     },
     {
       "surface": "כי",
-      "gloss": "sa gore"
+      "gloss": "gore"
     },
     {
       "surface": "אנכי",
@@ -45,28 +45,28 @@
     },
     {
       "surface": "שלחתיך",
-      "gloss": "a go romile"
+      "gloss": "ke a go romile"
     },
     {
       "surface": "בהוציאך",
-      "gloss": "fa o ntshile"
+      "gloss": "fa o ntsha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "setshaba"
+      "marks": "setshaba se"
     },
     {
       "surface": "העם",
-      "gloss": "setshaba"
+      "gloss": "setshaba se"
     },
     {
       "surface": "ממצרים",
-      "gloss": "go tswa mo Mitsrayime"
+      "gloss": "mo Mitsrayime"
     },
     {
       "surface": "תעבדון",
-      "gloss": "lo tla ntshikela"
+      "gloss": "lo tlaa dira tiro ya"
     },
     {
       "surface": "את",
@@ -79,17 +79,17 @@
     },
     {
       "surface": "על",
-      "gloss": "godimo ga"
+      "gloss": "mo"
     },
     {
       "surface": "ההר",
-      "gloss": "thaba"
+      "gloss": "thabeng"
     },
     {
       "surface": "הזה",
-      "gloss": "e"
+      "gloss": "eno"
     }
   ],
-  "timestamp": "2026-10-03T21:34:21.269579550Z",
+  "timestamp": "2026-10-04T03:30:17.797182135Z",
   "model": "glm-5.3"
 }

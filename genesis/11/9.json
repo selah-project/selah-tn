@@ -5,8 +5,85 @@
   "book": "genesis",
   "lang": "tn",
   "chapter": 11,
-  "translation": "Ka ntlha ya seo, leina la yone le biditswe Babele, gonne koo Yahwe o ruru MOSIMANE — kamoo — koo Yahwe o ruruntse sefofane sa lefatshe lonaka, mme go tswa koo Yahwe ba phatlaladitse go sefofane sa lefatshe lonaka.",
-  "tokens": [],
-  "timestamp": "2026-10-03T21:16:11.333483087Z",
+  "translation": "Ka ntlha ya seo, leina la yone le biditswe Babele, gonne koo Yahwe o rulagantse seka ya lefatshe lotlhe; mme go tswa koo Yahwe o ba phatsime mo sekhutlong sa lefatshe lotlhe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o biditswe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "leina la yone"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "בלל",
+      "gloss": "o rulagantse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "seka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "mme go tswa koo"
+    },
+    {
+      "surface": "הפיצם",
+      "gloss": "o ba phatsime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sekhutlong sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lotlhe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-04T03:29:28.480668952Z",
   "model": "glm-5.3"
 }

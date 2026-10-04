@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 50,
-  "translation": "Ga ke tseye phologolo ya kgomo e ntshe kwa ntlong ya gago,_dimo di boima mo masapeng a gago.",
-  "tokens": [],
-  "timestamp": "2026-10-04T01:20:44.828870784Z",
+  "translation": "Ga ke tla go tsaya poo mo ntlong ya gago, kgotsa ditono mo masakeng a gago.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ke tla go tsaya"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "mo ntlong ya gago"
+    },
+    {
+      "surface": "פר",
+      "gloss": "poo"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "mo masakeng a gago"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "ditono"
+    }
+  ],
+  "timestamp": "2026-10-04T03:44:15.976703989Z",
   "model": "glm-5.3"
 }

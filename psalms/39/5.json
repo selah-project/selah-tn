@@ -5,8 +5,53 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 39,
-  "translation": "Ntsa go itse, Yahwe, mafelelo a me, le tekanyo ya malatsi a me — ke efe? gore ke itse gore ke mo o o khutlang; lefoko.",
-  "tokens": [],
-  "timestamp": "2026-10-04T01:19:56.029020076Z",
+  "translation": "Mpontshe Yahwe ⟨את⟩ qetelo ya me, le tekanyo ya malatsi a me, gore ke itse e feleletse ka eng; ke tla itse gore ke fokola ga kana kang.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Mpontshe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "qetelo ya me"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "le tekanyo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ya malatsi a me"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gore ... e feleletse ka eng"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "ke tla itse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ga kana kang"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ke fokola"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-10-04T03:44:23.281701027Z",
   "model": "glm-5.3"
 }

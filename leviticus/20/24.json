@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tn",
   "chapter": 20,
-  "translation": "Mme ke ne ke re go lona: lona le tla rua ⟨את⟩ lefatshe la bone, mme nna ke tla le neela go lona go le rua — lefatshe le elelang mashi le mašwe; ke nna Yahwe Elohim ya lona, yo o le kgaogileng mo ditshabeng.",
+  "translation": "Mme ke ne ke re go lona: lona lo tla rua ⟨את⟩ lefatshe la bone, mme nna ke tla se neela lona go se rua, lefatshe le le tholang mashi le senotlhole; ke nna Yahwe Elohim ya lona, yo lo kileng go ba kgaogantse mo ditshabeng.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "Mme ke ne ke re"
+      "gloss": "mme ke ne ke re"
     },
     {
       "surface": "לכם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תירשו",
-      "gloss": "le tla rua"
+      "gloss": "lo tla rua"
     },
     {
       "surface": "את",
@@ -38,20 +38,20 @@
     },
     {
       "surface": "אתננה",
-      "gloss": "ke tla le neela"
+      "gloss": "ke tla se neela"
     },
     {
       "surface": "לכם",
-      "gloss": "go lona"
+      "gloss": "lona"
     },
     {
       "surface": "לרשת",
-      "gloss": "go le rua"
+      "gloss": "go se rua"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
-      "marks": "lefatshe leo"
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
     },
     {
       "surface": "ארץ",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "זבת",
-      "gloss": "le elelang"
+      "gloss": "le le tholang"
     },
     {
       "surface": "חלב",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ודבש",
-      "gloss": "le mašwe"
+      "gloss": "le senotlhole"
     },
     {
       "surface": "אני",
@@ -87,11 +87,11 @@
     },
     {
       "surface": "הבדלתי",
-      "gloss": "o le kgaogileng"
+      "gloss": "lo kileng go ba kgaogantse"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ lona",
       "marks": "lona"
     },
     {
@@ -103,6 +103,6 @@
       "gloss": "ditshabeng"
     }
   ],
-  "timestamp": "2026-10-03T21:59:39.615285566Z",
+  "timestamp": "2026-10-04T03:48:43.667524076Z",
   "model": "glm-5.3"
 }

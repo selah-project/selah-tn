@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 37,
-  "translation": "O tlhoile ⟨את⟩ mang, o rogotse mang? mme go mang o tlhodisetse lentswe, wa tlhatlama kwa godimo matlho a gago — go ⟨the⟩ Yo o Boitshepo wa Yisraele?",
+  "translation": "⟨את⟩ mang o mo tlhoile, mme o mo gwevaditse? Mme o bolotse lentswe kafa godimo ga mang? Ee, o tsere matlhako a gago a le kwa godimo — kgatlhanong le Yo o Boitshepo wa Yisraele!",
   "tokens": [
     {
       "surface": "את",
@@ -18,15 +18,15 @@
     },
     {
       "surface": "חרפת",
-      "gloss": "o tlhoile"
+      "gloss": "o mo tlhoile"
     },
     {
       "surface": "וגדפת",
-      "gloss": "o rogotse"
+      "gloss": "mme o mo gwevaditse"
     },
     {
       "surface": "ועל",
-      "gloss": "mme go"
+      "gloss": "mme kgatlhanong le"
     },
     {
       "surface": "מי",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הרימותה",
-      "gloss": "o tlhodisetse"
+      "gloss": "o bolotse"
     },
     {
       "surface": "קול",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ותשא",
-      "gloss": "wa tlhatlama"
+      "gloss": "o tsere"
     },
     {
       "surface": "מרום",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "עיניך",
-      "gloss": "matlho a gago"
+      "gloss": "matlhako a gago"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "kgatlhanong le"
     },
     {
       "surface": "קדוש",
@@ -65,6 +65,6 @@
       "gloss": "wa Yisraele"
     }
   ],
-  "timestamp": "2026-10-03T23:56:31.335793598Z",
+  "timestamp": "2026-10-04T03:39:46.461448222Z",
   "model": "glm-5.3"
 }

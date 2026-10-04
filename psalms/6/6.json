@@ -5,27 +5,27 @@
   "book": "psalms",
   "lang": "tn",
   "chapter": 6,
-  "translation": "Gore kwa losong ga go na le segopotso sa gago; kwa Sheole, ke mang yo o tla go lebogang?",
+  "translation": "Gore mo losong ga go ⟨⟨go⟩⟩ keteko ya gago; mo Sheole ke mang yo o tla go lebogelang?",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Gore"
+      "gloss": "gore"
     },
     {
       "surface": "אין",
-      "gloss": "ga go na le"
+      "gloss": "ga go"
     },
     {
       "surface": "במות",
-      "gloss": "kwa losong"
+      "gloss": "mo losong"
     },
     {
       "surface": "זכרך",
-      "gloss": "segopotso sa gago"
+      "gloss": "keteko ya gago"
     },
     {
       "surface": "בשאול",
-      "gloss": "kwa Sheole"
+      "gloss": "mo Sheole"
     },
     {
       "surface": "מי",
@@ -33,16 +33,13 @@
     },
     {
       "surface": "יודה",
-      "gloss": "yo o tla go lebogang"
+      "gloss": "yo o tla lebogelang"
     },
     {
       "surface": "לך",
       "gloss": "go"
-    },
-    {
-      "tokens_note": ""
     }
   ],
-  "timestamp": "2026-10-04T01:12:26.022864413Z",
+  "timestamp": "2026-10-04T03:43:29.925687443Z",
   "model": "glm-5.3"
 }

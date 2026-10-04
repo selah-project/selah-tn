@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tn",
   "chapter": 40,
-  "translation": "Mme a ntlisa kwa ⟨the⟩ phaposing ya ntle, mme bonê, diphaposi, le kotla e e dirilweng ya phaposi, kgotlamedi, kgotlamedi; diphaposi di le masome a mararo mo godimo ga kotla.",
+  "translation": "Mme a ntlisa kwa phaposing ya kwa ntle, mme ⟨bona⟩ diphaposi le boalo bo dirilweng phaposing, go dikologa ka go dikologa: diphaposi di le masome a mararo fa boalong.",
   "tokens": [
     {
       "surface": "ויביאני",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "החצר",
-      "gloss": "⟨the⟩ phaposing"
+      "gloss": "phaposing"
     },
     {
       "surface": "החיצונה",
-      "gloss": "ya ntle"
+      "gloss": "ya kwa ntle"
     },
     {
       "surface": "והנה",
-      "gloss": "mme bonê"
+      "gloss": "mme ⟨bona⟩"
     },
     {
       "surface": "לשכות",
@@ -33,27 +33,27 @@
     },
     {
       "surface": "ורצפה",
-      "gloss": "le kotla"
+      "gloss": "le boalo"
     },
     {
       "surface": "עשוי",
-      "gloss": "e e dirilweng"
+      "gloss": "bo dirilweng"
     },
     {
       "surface": "לחצר",
-      "gloss": "ya phaposi"
+      "gloss": "phaposing"
     },
     {
       "surface": "סביב",
-      "gloss": "kgotlamedi"
+      "gloss": "go dikologa"
     },
     {
       "surface": "סביב",
-      "gloss": "kgotlamedi"
+      "gloss": "ka go dikologa"
     },
     {
       "surface": "שלשים",
-      "gloss": "di le masome a mararo"
+      "gloss": "masome a mararo"
     },
     {
       "surface": "לשכות",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "mo godimo ga"
+      "gloss": "fa"
     },
     {
       "surface": "הרצפה",
-      "gloss": "kotla"
+      "gloss": "boalong"
     }
   ],
-  "timestamp": "2026-10-04T00:48:49.145605204Z",
+  "timestamp": "2026-10-04T03:42:50.421136660Z",
   "model": "glm-5.3"
 }

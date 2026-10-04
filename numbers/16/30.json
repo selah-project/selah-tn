@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tn",
   "chapter": 16,
-  "translation": "Mme fa Yahwe a bopa se sešwa, mme lefatshe le bule lefatshe la molelo la yone, la ba metsa, mmogo le sengwe le sengwe se se leng sa bone, mme ba tsamaela ba tshela ba ya kwa go Sheole, tlaa itse gore banna baba ba ne ba tlotla Yahwe ka go neela seroma.",
+  "translation": "Mme fa Yahwe a bopa sengwe se se sa tlwaelegang, mme lefatshe le bula molomo wa lone mme la ba metsa le ⟨את⟩ sengwe le sengwe se se leng sa bone, mme ba tlalogela ba sa tlhokafala ba ya Sheole, le tla itse fa batho ba ba ba ne ba nyenya ⟨את⟩ Yahwe.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בריאה",
-      "gloss": "se sešwa"
+      "gloss": "sengwe se se sa tlwaelegang"
     },
     {
       "surface": "יברא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ופצתה",
-      "gloss": "mme le bule"
+      "gloss": "mme le bula"
     },
     {
       "surface": "האדמה",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lefatshe la molelo la yone"
+      "marks": "molomo wa lone"
     },
     {
       "surface": "פיה",
-      "gloss": "sebete sa yone"
+      "gloss": "molomo wa lone"
     },
     {
       "surface": "ובלעה",
@@ -46,12 +46,13 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "bone"
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "sengwe le sengwe se se leng sa bone"
     },
     {
       "surface": "כל",
@@ -63,39 +64,39 @@
     },
     {
       "surface": "להם",
-      "gloss": "se se leng sa bone"
+      "gloss": "se leng sa bone"
     },
     {
       "surface": "וירדו",
-      "gloss": "mme ba tsamaela"
+      "gloss": "mme ba tlalogela"
     },
     {
       "surface": "חיים",
-      "gloss": "ba tshela"
+      "gloss": "ba sa tlhokafala"
     },
     {
       "surface": "שאלה",
-      "gloss": "kwa go Sheole"
+      "gloss": "Sheole"
     },
     {
       "surface": "וידעתם",
-      "gloss": "mme le tlaa itse"
+      "gloss": "mme le tla itse"
     },
     {
       "surface": "כי",
-      "gloss": "gore"
+      "gloss": "fa"
     },
     {
       "surface": "נאצו",
-      "gloss": "ba ne ba tlotla ka go neela seroma"
+      "gloss": "ba nyenya"
     },
     {
       "surface": "האנשים",
-      "gloss": "banna"
+      "gloss": "batho"
     },
     {
       "surface": "האלה",
-      "gloss": "baba"
+      "gloss": "ba ba"
     },
     {
       "surface": "את",
@@ -107,6 +108,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T22:11:32.515854568Z",
+  "timestamp": "2026-10-04T03:34:00.151699075Z",
   "model": "glm-5.3"
 }

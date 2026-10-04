@@ -5,8 +5,85 @@
   "book": "jeremiah",
   "lang": "tn",
   "chapter": 49,
-  "translation": "Tshabang, tsamayang kgakala thata, iphitlhang kwa tlase go nna, lona ba ba dulang kwa Hatsore, go bua Yahwe; gorene Nebukadretsure, kgosi ya Babilone, o rera leano kgatlhanong le lona, mme o rerela bone maano.",
-  "tokens": [],
-  "timestamp": "2026-10-04T00:29:02.458929504Z",
+  "translation": "Fojang, tsamayang kgakala thata, nang le boteng fa o ntse o nna, lona ba ba dulang Hatsore, go bua Yahwe; gore Nebukadnetsara kgosi ya Babilone o gakotse sebopego kgatlhanong le lona, mme a ikakgola maano kgatlhanong le bone.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "Fojang"
+    },
+    {
+      "surface": "נדו",
+      "gloss": "tsamayang kgakala"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "that a"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "nang le boteng"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "fa o ntse o nna"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba ba dulang"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsore"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "o gakotse"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kgatlhanong le lona"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadnetsara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilone"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sebopego"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "mme a ikakgola"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kgatlhanong le bone"
+    },
+    {
+      "surface": "מחשבה",
+      "gloss": "maano"
+    }
+  ],
+  "timestamp": "2026-10-04T03:42:32.877015210Z",
   "model": "glm-5.3"
 }

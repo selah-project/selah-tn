@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tn",
   "chapter": 50,
-  "translation": "Ke mang wa lona yo o sa tshabeng Yahwe, a utlisa sefefo sa mošomi wa gagwe, yo o neng a tsamaya mo lefifing mme a se nè lesedi? A tshepe ka Leina la Yahwe, a ikemele go Elohim wa gagwe.",
+  "translation": "Ke mang mo go lona yo o tlhobileng Yahwe, yo o utlwang lentswe la modiri wa gagwe, yo o tsamayang mo lefifing, mme o sena lesedi? A a tshepe ka leina la Yahwe, mme a ikaege ka Elohim wa gagwe.",
   "tokens": [
     {
       "surface": "מי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בכם",
-      "gloss": "wa lona"
+      "gloss": "mo go lona"
     },
     {
       "surface": "ירא",
-      "gloss": "yo o sa tshabeng"
+      "gloss": "yo o tlhobileng"
     },
     {
       "surface": "יהוה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "שמע",
-      "gloss": "a utlisa"
+      "gloss": "yo o utlwang"
     },
     {
       "surface": "בקול",
-      "gloss": "sefefo"
+      "gloss": "lentswe la"
     },
     {
       "surface": "עבדו",
-      "gloss": "mošomi wa gagwe"
+      "gloss": "modiri wa gagwe"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "a tsamaya"
+      "gloss": "o tsamayang"
     },
     {
       "surface": "חשכים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ואין",
-      "gloss": "mme a se nè"
+      "gloss": "mme o sena"
     },
     {
       "surface": "נגה",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "⟨gagwe⟩"
+      "gloss": "mo go ene"
     },
     {
       "surface": "יבטח",
-      "gloss": "A tshepe"
+      "gloss": "A a tshepe"
     },
     {
       "surface": "בשם",
-      "gloss": "ka Leina la"
+      "gloss": "ka leina la"
     },
     {
       "surface": "יהוה",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "וישען",
-      "gloss": "a ikemele go"
+      "gloss": "mme a ikaege"
     },
     {
       "surface": "באלהיו",
-      "gloss": "Elohim wa gagwe"
+      "gloss": "ka Elohim wa gagwe"
     }
   ],
-  "timestamp": "2026-10-04T00:00:45.042628525Z",
+  "timestamp": "2026-10-04T03:40:49.249644604Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tn",
   "chapter": 25,
-  "translation": "Bana bao botlhe e ne e le ba ga Heman, mopiši wa kgosi, mo mafokong a Elohim, go tlhatlosa lenaka; mme Elohim o ne a fa Heman bana ba le lesome le bone, le barwadi ba le bararo.",
+  "translation": "Bana botlhe ba e neng e le ba Hemane, moponeli wa kgosi mafokong a Elohim, go tlhatlosa lenaka; mme Elohim a fa Hemane bana ba le lesome le bone, le barwadi ba le bararo.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "bao"
+      "gloss": "ba e neng e le"
     },
     {
       "surface": "בנים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "להימן",
-      "gloss": "ba ga Heman"
+      "gloss": "ba Hemane"
     },
     {
       "surface": "חזה",
-      "gloss": "mopiši"
+      "gloss": "moponeli"
     },
     {
       "surface": "המלך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "בדברי",
-      "gloss": "mo mafokong a"
+      "gloss": "mafokong"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "a Elohim"
     },
     {
       "surface": "להרים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "mme o ne a fa"
+      "gloss": "mme ... a fa"
     },
     {
       "surface": "האלהים",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "להימן",
-      "gloss": "Heman"
+      "gloss": "Hemane"
     },
     {
       "surface": "בנים",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ארבעה",
-      "gloss": "ba le lesome le"
+      "gloss": "ba le lesome le bone"
     },
     {
       "surface": "עשר",
-      "gloss": "bone"
+      "gloss": ""
     },
     {
       "surface": "ובנות",
@@ -80,6 +80,6 @@
       "gloss": "ba le bararo"
     }
   ],
-  "timestamp": "2026-10-04T02:44:00.802519450Z",
+  "timestamp": "2026-10-04T03:46:27.405674606Z",
   "model": "glm-5.3"
 }

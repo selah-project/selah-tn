@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tn",
   "chapter": 5,
-  "translation": "O se ka wa elela mosadi wa mogwafoa wa gago, mme o se ka wa kgama ntlo ya mogwafoa wa gago, tshimo ya gagwe, le modiri wa gagwe, le mošomi wa gagwe, kgomo ya gagwe, le tonki ya gagwe, le sengwe le sengwe se se leng sa mogwafoa wa gago.",
+  "translation": "O se ka wa kgatlhegele mosadi wa moagisani wa gago, o se ka wa lakatsa ntlo ya moagisani wa gago, tshimo ya gagwe, modiri wa gagwe le modiri wa mosadi wa gagwe, kgomo ya gagwe le tonki ya gagwe, le sengwe le sengwe se se leng sa moagisani wa gago.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "mme o se ka wa"
+      "gloss": "o se ka wa"
     },
     {
       "surface": "תחמד",
-      "gloss": "elela"
+      "gloss": "kgatlhegele"
     },
     {
       "surface": "אשת",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "רעך",
-      "gloss": "mogwafoa wa gago"
+      "gloss": "moagisani wa gago"
     },
     {
       "surface": "ולא",
-      "gloss": "mme o se ka wa"
+      "gloss": "o se ka wa"
     },
     {
       "surface": "תתאוה",
-      "gloss": "kgama"
+      "gloss": "lakatsa"
     },
     {
       "surface": "בית",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "רעך",
-      "gloss": "mogwafoa wa gago"
+      "gloss": "moagisani wa gago"
     },
     {
       "surface": "שדהו",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ועבדו",
-      "gloss": "le modiri wa gagwe"
+      "gloss": "modiri wa gagwe"
     },
     {
       "surface": "ואמתו",
-      "gloss": "le mošomi wa gagwe"
+      "gloss": "modiri wa mosadi wa gagwe"
     },
     {
       "surface": "שורו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "וחמרו",
-      "gloss": "le tonki ya gagwe"
+      "gloss": "tonki ya gagwe"
     },
     {
       "surface": "וכל",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "לרעך",
-      "gloss": "se se leng sa mogwafoa wa gago"
+      "gloss": "se se leng sa moagisani wa gago"
     }
   ],
-  "timestamp": "2026-10-03T22:22:46.357550245Z",
+  "timestamp": "2026-10-04T03:48:58.414963046Z",
   "model": "glm-5.3"
 }
