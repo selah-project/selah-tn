@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Areka",
+      "rationale": "ארון ke seputha (box); Areka ke lefoko le le tlwaelegileng, mme sebopego sa lone ke seputha sa kgolagano"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכהנים הלוים",
+      "rationale": "Baebele di ka bontsha 'bapriste ba Malivi' kgotsa 'bapriste, e leng Malivi' — dikai di farologana"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba e bekwere",
+      "rationale": "נשאים ke 'go bekwere\/go ka boa' — Setswana se tlhoka go itsise gore ba e bekwere"
+    }
+  ],
+  "translation": "Mme ba laela ⟨את⟩ setshaba ba re: Fa lo bona ⟨את⟩Areka ya kgolagano ya Yahwe Elohim ya lona, le babereki ba Malivi ba ⟨את⟩ e bekwere, lona lo tlogele kwa le leng teng, lo tsamaye lo mo salela morago.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "1f28938c5adf8c2aab5cd0862e0b60805352b4a0845a929c8e249187995f47da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/joshua\/3\/3-3.1791263921346.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "Mme ba laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "Fa lo bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Areka ya kgolagano ya Yahwe Elohim ya lona"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Areka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya kgolagano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "le babereki"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ba Malivi"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "ba e bekwere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "lo tlogele"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "kwa le leng teng"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "lo tsamaye"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "lo mo salela morago"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:41.348535396Z",
+  "model": "glm-5.3"
+}

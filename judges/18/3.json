@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 18:3",
+  "book": "judges",
+  "lang": "tn",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jaana",
+      "rationale": "Setswana e tlhoka go baya mafoko a go buisa pele ga potso; Sehebera se na le ויאמרו fela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ומה לך פה",
+      "rationale": "Lefoko la Sehebera le le kopotswang ka tlhamalale — 'mme se ke sengwe go wena, fano' — le ranotswe jaaka potso e e tlwaelegileng"
+    },
+    {
+      "kind": "you",
+      "subject": "to Molevite",
+      "rationale": "Dipotso di thibelana ka tlhamalalo kwa mosimaneng Molevite ka polelo ya boraro"
+    }
+  ],
+  "translation": "Ba ne ba le kwa ntlong ya Mika, ba bonala ba itse ⟨את⟩ lentswe la mosimane yoo Molevite, ba ikgethela koo, ba mmolelela jaana: Ke mang yo o go tlisitseng kwa? O dira eng mo lefelong le? Mme go wena, o eng fano?",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "987806c4c587b859ac20d73ab30b504ae798f527eca5bd172e71b15b0aebad27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/judges\/18\/3-3.1791263896083.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ba ne ba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ba bonala ba"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosimane yoo"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Molevite"
+    },
+    {
+      "surface": "ויסורו",
+      "gloss": "ba ikgethela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba mmolelela jaana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "הביאך",
+      "gloss": "yo o go tlisitseng"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "O"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dira"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "mo lefelong le"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "פה",
+      "gloss": "fano"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:16.087540518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עלה נעלה",
+      "rationale": "Poelelo ya go tlaga: go tlaga \/ re tla tlaga — e phophametse thata mme e latlhegelwa ke bongwe jwa yone mo phetolelong."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכול נוכל",
+      "rationale": "Go boa ga modi o le mongwe wa go kgona (re ka kgona \/ re ka kgona) — se se nonotsha polelo ya Kalebe."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka bonako",
+      "rationale": "KJV e oketse 'at once' e le mo mokwalong; Setswana se se na le yone fela go tlhalosa go tsamaya ga bona pele ga selo se diragala — mokwalo o se na wona."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וירשנו",
+      "rationale": "Go laola go raya go gatelela batho ba ba mo gae ba bo ba nna mo lefelong la bone — e seng go fenya fela."
+    },
+    {
+      "kind": "you",
+      "subject": "go setshaba",
+      "rationale": "Kalebe o bua le setshaba sa Yisraele ka tlhamalalo, a ba thibela go bua dilo tse di seng botlhoka."
+    }
+  ],
+  "translation": "Mme Kalebe a thibela ⟨את⟩ setshaba fa pele ga Moshe, mme a re: A re tlage ka bonako, mme re e laole; gonne re ka kgona go e fenya.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "026f7024385940a726a8e65b44e8112d61a4b0e0bec260eecb9cfaa0bd161305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/numbers\/13\/30-30.1791263905957.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "a thibela"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a re tlage"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "re tlage"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "mme re e laole"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "re ka kgona"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "re ka kgona"
+    },
+    {
+      "surface": "לה",
+      "gloss": "go e fenya"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:25.959252828Z",
+  "model": "glm-5.3"
+}

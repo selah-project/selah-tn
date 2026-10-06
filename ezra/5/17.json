@@ -1,0 +1,167 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 5:17",
+  "book": "ezra",
+  "lang": "tn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "טעם",
+      "rationale": "Neno ya Aramaic e leng 'taelo' e neelwa maemo a go bitsa kgang ya go aga gape; Setswana se rulagantse dipono ka tsela e nngwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Eloha",
+      "rationale": "אלהא ke Aramaic; go latela tafole ya maina, Leina ga le ranolwe go nna 'Modimo'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pitso ya kgosi",
+      "rationale": "Lefoko le le kopa kgosi ka bonolo — go batlisiwe, a re romelè — boikaelo jo bo tsenehang jwa poletso."
+    }
+  ],
+  "translation": "Jaanong ka jalo, fa go siametse kgosi, a go batlisiwe mo ntlong ya diphahlo tsa kgosi e e kwa Babele, gore go itsagale fa go na le taelo ya go aga ntlo ya Eloha eno kwa Yerushalayime, e e neng e setse ke ya Koreshe kgosi; mme thato ya kgosi ka ga se se tlholwang seno a e re romelè.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "3dd54888bba2391b0d1af2f5f9886ed2b3787a55cb32c9c49ff19a14c48190f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/ezra\/5\/17-17.1791263957105.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכען",
+      "gloss": "jaanong ka jalo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "fa"
+    },
+    {
+      "surface": "על",
+      "gloss": "go siametse"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "טב",
+      "gloss": "go siametse"
+    },
+    {
+      "surface": "יתבקר",
+      "gloss": "a go batlisiwe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "ya diphahlo"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "e e kwa"
+    },
+    {
+      "surface": "די",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "הן",
+      "gloss": "fa"
+    },
+    {
+      "surface": "איתי",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koreshe"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "שים",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "למבנא",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "דך",
+      "gloss": "eno"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kwa Yerushalayime"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "mme thato"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "se se tlholwang seno"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "a e re romelè"
+    },
+    {
+      "surface": "עלינא",
+      "gloss": "go rona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:17.106372672Z",
+  "model": "glm-5.3"
+}

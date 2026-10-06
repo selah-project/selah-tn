@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 7:3",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "קצה",
+      "rationale": "kwa bofelong — 'kwa' e okeditsweng ka Setswana, Setswana e se na setlhopha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאר ישוב",
+      "rationale": "Leina la morwa — 'ba ba salang ba tla boa' — le le tshwana le molaetsa wa kgolagano, le phatlalala mo Setswaneng"
+    },
+    {
+      "kind": "crux",
+      "subject": "כובס",
+      "rationale": "motlhapadi wa diaparo (go tlhapisa ka maoto) kgatlhanong le 'moaparo-phetla' wa bagologolo"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yeshayahu",
+      "rationale": "Yahwe o laela Yeshayahu ka tlhamalalo — pitso ya go tswa"
+    }
+  ],
+  "translation": "Mme Yahwe a re go Yeshayahu: Tswa, ke kopa oa, go kopana le Akaze, wena le Sheare-Yashube morwa wa gago, kwa bofelong jwa tsela ya metsi ya sediba se se kwa godimo, kwa tseleng e kgolo ya masimo a motlhapadi wa diaparo.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "9b30fee8c3d65061f0d17d7f15ad337d7de68849e88a92fe12e02cb5c5a73edb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/isaiah\/7\/3-3.1791263929194.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Tswa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa oa"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "go kopana le"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akaze"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "le Sheare"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "Yashube"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "bofelong"
+    },
+    {
+      "surface": "תעלת",
+      "gloss": "tsela ya metsi ya"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "sediba"
+    },
+    {
+      "surface": "העליונה",
+      "gloss": "se se kwa godimo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מסלת",
+      "gloss": "tseleng e kgolo ya"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "masimo a"
+    },
+    {
+      "surface": "כובס",
+      "gloss": "motlhapadi wa diaparo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:49.195641468Z",
+  "model": "glm-5.3"
+}

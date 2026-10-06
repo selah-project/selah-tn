@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 14:3",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "dinamane tsa molomo wa rona",
+      "rationale": "פרים שפתינו — 'dikgomo tsa molomo wa rona': puo e e tlhamilweng; diphophojo tsa sebopego di emisediwa ke mafoko"
+    },
+    {
+      "kind": "crux",
+      "subject": "se se siameng",
+      "rationale": "וקח טוב: KJV\/JPS 'amogela se se siameng \/ amogela rona ka mosa'; YLT 'neela botle' — go tseye kgotsa go neela?"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Tsayang mafoko le lona, mme boelang",
+      "rationale": "Taolo ya bokaulengwe e bitsetswa go boela go Yahwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tlosa",
+      "rationale": "תשא 'go tlosa\/go epa' — KJV 'Take away'; mafoko a a tlwaelegileng a ranola 'e phutholose'"
+    }
+  ],
+  "translation": "Tsayang mafoko le lona, mme boelang go Yahwe; mo re bone: Tlosa ⟨את⟩ bolato jotlhe, mme o tseye se se siameng, mme re tla felela ka dinamane tsa molomo wa rona.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "0a4358f48f6194faf359cf385989702359ebdf842d39cd8b3e80982edfc724ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/hosea\/14\/3-3.1791263930044.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Tsayang"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "mme boelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mo re bone"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jotlhe"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "Tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolato jotlhe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bolato"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "mme o tseye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "ונשלמה",
+      "gloss": "mme re tla felela ka"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "dinamane"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "molomo wa rona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:50.045595425Z",
+  "model": "glm-5.3"
+}

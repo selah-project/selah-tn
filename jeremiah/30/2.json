@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mo⟩",
+      "rationale": "Setswana e tlhoka lefoko la boemedi go hlalosa דברתי אליך — lefoko le okeditswe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברים\/דברתי",
+      "rationale": "go boela ga modi דבר — mafoko\/ka go bua — sediriswa se se latelwang"
+    }
+  ],
+  "translation": "Go bua jalo Yahwe, Elohim wa Yisraele, a re: Kwalela o ⟨את⟩ mafoko otlhe ao ke neng ka go bua ⟨mo⟩ go sebupe sa buka.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "6a34891f329b2a5065f8834f794192c83adfb291ba4a3645e3236dfec087bced",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/jeremiah\/30\/2-2.1791263891475.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "jalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "kwalela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko otlhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke neng ka go bua"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sebupe sa buka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:11.496278330Z",
+  "model": "glm-5.3"
+}

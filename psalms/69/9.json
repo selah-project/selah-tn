@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motho wa kwa ntle",
+      "rationale": "מוזר ke 'yo o fapafapaneng, wa selegae se sele' — karolo ya pelo, e seng fela motho wa kwa ntle"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מוזר\/נכרי",
+      "rationale": "Phetišo e diriswa gabedi: 'motho wa kwa ntle' le 'wa dithata' — papatleho e tshwanang ya Seminare"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba me",
+      "rationale": "Sehebera se re 'go ba bongwane' fela — bopaki bo okeditswe ka Setswana"
+    }
+  ],
+  "translation": "Ke ne ka nna motho wa kwa ntle go ba bongwane ba me, mme ke wa dithata go bana ba mme wa me.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "eed8296fc2af5f791d959aa8662d3fa96bb9015e2aa082ef758630487f386c0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/psalms\/69\/9-9.1791263940898.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "motho wa kwa ntle"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ka nna"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "go ba bongwane ba me"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "mme ke wa dithata"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mme wa me"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:00.899347378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 38:18",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dialema di le masome a mabedi · di le tlhano",
+      "rationale": "Mefa ya phuka ya kgoro e lalediwa ka tlhamalalo — boleele le bogolo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "khunamadi ya sekhukhu",
+      "rationale": "תולעת שני ke 'sekhukhu sa khunamadi' — serodumwa se segologolo se dirang mmala wa khunou; khunamadi e fedisa setshwantsho sa sename."
+    },
+    {
+      "kind": "crux",
+      "subject": "bogolo ka bophara",
+      "rationale": "וקומה ברחב — 'bogolo ka bophara': KJV\/ASV di boloka sekgoba se se sa tlhabologang; BSB e ranola 'five cubits high' e lebie sebakanyego."
+    }
+  ],
+  "translation": "Mme phuka ya kgoro ya bogare jwa e ne e le tiro ya mokgabi wa ditlhaka, tekhelete le argamane le khunamadi ya sekhukhu le chose e e netefaditsweng; mme boleele jwa yone bo ne bo le dialema di le masome a mabedi, mme bogolo jwa yone ka bophara bo le dialema di le tlhano, go lekana le diphetlha tsa bogare.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "e687020836d4a55b93d49994cc74b1b1ad175d0e6e635f9d4b807a2eb122978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/exodus\/38\/18-18.1791263922906.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומסך",
+      "gloss": "mme phuka"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya bogare"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "mokgabi wa ditlhaka"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le argamane"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "le sekhukhu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "khunamadi ya"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le chose"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "e e netefaditsweng"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mme masome a mabedi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dialema"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "boleele"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "mme bogolo"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "ka bophara"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "di le tlhano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dialema"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "go lekana le"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "diphetlha"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tsa bogare"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:42.906990142Z",
+  "model": "glm-5.3"
+}

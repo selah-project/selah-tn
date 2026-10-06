@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 21:13",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba dirisa",
+      "rationale": "בלה e kaya go felelwa\/go bophara go fela; 'go dirisa matsatsi' ke pono e e tlwaelegileng, e seng thaloso ya mokwalo ka tsela e tseneletseng"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וברגע",
+      "rationale": "רגע ke 'puloso ya leitlho' — nako e khutshwane thata; Setswana 'ka segaja' a sa boloke setshwantsho sa leitlho"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba ya tlase kwa Sheole",
+      "rationale": "JPS\/BSB a bala 'ka kagiso' (ובשלום ya mabokopodiso); mokwalo jaaka o ntse o re 'ka segaja'"
+    }
+  ],
+  "translation": "Ba dirisa matsatsi a bone ka botoka, mme ka segaja ba ya tlase kwa Sheole.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "0f3db5594faace8cb1f756ac3464dc8951dd652f8c418c2d1b35f277f6aea436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/job\/21\/13-13.1791263942435.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבלו",
+      "gloss": "ba dirisa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka botoka"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "matsatsi a bone"
+    },
+    {
+      "surface": "וברגע",
+      "gloss": "mme ka segaja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kwa Sheole"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "ba ya tlase"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:02.435772922Z",
+  "model": "glm-5.3"
+}

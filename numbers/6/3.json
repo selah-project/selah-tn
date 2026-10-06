@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "tn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go tswa mo",
+      "rationale": "Sehebera se se ka Sepakanyo se raya 'go tswa mo' — mafoko a okeditsweng go tlhalosa go ikhutsa go tswa mo selong"
+    },
+    {
+      "kind": "substitution",
+      "subject": "eshero",
+      "rationale": "חמץ ke eshero ya beine — go siame, e seng 'mabeine a a tlhotse'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזיר\/נזיר",
+      "rationale": "Tiriso ya יזיר mo teng ga molao wa Nazirite — lefoko le le tshwanang le la go ikhutsa, se se latlhegelwang ke phetolelo"
+    }
+  ],
+  "translation": "Go tswa mo beining le mo sekgoweng o tlaa ikhutsa; eshero ya beine le eshero ya sekgowe ga a tlaa a nwa; le sepe se se diretsweng go tswa mo dinapeng ga a tlaa a nwa; mme dinope tse di tala le tse di omileng ga a tlaa a ja.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "25a81eb3a6aaf921856dd28df4cc8b2ff29923adac2db263f40b0737c9a94129",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/numbers\/6\/3-3.1791263895470.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "go tswa mo beining"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "le mo sekgoweng"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "o tlaa ikhutsa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "eshero"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ya beine"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "le eshero"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ya sekgowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "a tlaa a nwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sepe"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "se se diretsweng"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "go tswa mo dinapeng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "a tlaa a nwa"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "mme dinope"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "tse di tala"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "le tse di omileng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a tlaa a ja"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:15.471240018Z",
+  "model": "glm-5.3"
+}

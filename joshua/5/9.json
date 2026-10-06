@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 5:9",
+  "book": "joshua",
+  "lang": "tn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גלותי\/גלגל",
+      "rationale": "Go golola (גָּלַל) le leina la Gilgale (גִּלְגָּל) di tshwana ka modumo — Yahwe o golola tlhotlolo, ke moo lefelo le nang le leina la lona."
+    },
+    {
+      "kind": "crux",
+      "subject": "tlhotlolo ya Mitsrayime",
+      "rationale": "חרפת מצרים: kgotsa tlhotlolo e e neng e tshwerwe kwa Mitsrayime, kgotsa tlhotlolo ya go se boiwa kwa Mitsrayime (bongwe bwa bonya)."
+    }
+  ],
+  "translation": "Mme Yahwe a bua le Yehoshua: Lefatshe le le tlang, kamoso, go tswa foo; gompieno Ke golotse ⟨את⟩ tlhotlolo ya Mitsrayime go tswa mo go lona. Mme ba bitsa leina la lefelo leo Gilgale go fitlha gompieno.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "724f74cc05ce9f04c7233f0f0e3d8537957a3cf6478671acc1412a2eaa524b5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/joshua\/5\/9-9.1791263912543.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "גלותי",
+      "gloss": "Ke golotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhotlolo ya Mitsrayime"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "tlhotlolo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "go tswa mo go lona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ba bitsa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "Gilgale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gompieno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eno"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:32.544582823Z",
+  "model": "glm-5.3"
+}

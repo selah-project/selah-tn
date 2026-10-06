@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 23:17",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חלילה",
+      "rationale": "Lefoko le mentle la Sehebera le re 'sepe se se sa siamang' — le ntshitswe jaaka tekanyetso: 'a se ka wa nna jaana'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "melelo",
+      "rationale": "נפשותם ke 'melelo ya bone' (moya\/theko ya botshelo), e seng 'matshelo' jaaka mokwalo wa segologolo o re."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הדם \/ האנשים",
+      "rationale": "David o bua ka madi a metsi — metsi a nnileng kotsi ya madi; Setswana se latlha tlhamane eno."
+    },
+    {
+      "kind": "crux",
+      "subject": "הדם האנשים ההלכים בנפשותם",
+      "rationale": "Potso kgotsa go ganetsa: 'a ga se madi a banna ba…?' — KJV\/ASV di e dira potso; YLT e e dira go bega fela."
+    }
+  ],
+  "translation": "A re: A se ka wa nna jaana, Yahwe, go dira se ke se dirileng; a ga se madi a banna ba ba tsamaileng ka melelo ya bone? Mme a sa batle go a nwa. Dilo tse di ne tsa dirwa ke ba gakolotlhe ba bararo.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "7b4edb6e6b9a871e535ed5258da618002a5e5ed2add3c50fe452f41ed94d35ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/2-samuel\/23\/17-17.1791263913391.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "a se ka wa nna jaana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעשתי",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a banna"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ba ba tsamaileng"
+    },
+    {
+      "surface": "בנפשותם",
+      "gloss": "ka melelo ya bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "batle"
+    },
+    {
+      "surface": "לשתותם",
+      "gloss": "go a nwa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dilo tse"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di ne tsa dirwa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba bararo"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ba gakolotlhe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:33.392966237Z",
+  "model": "glm-5.3"
+}

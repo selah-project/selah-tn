@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סקול יסקל",
+      "rationale": "Infinitive-absolute plus finite verb — 'stoning it shall be stoned' — intensifier rendered 'ka botlalo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bosiamisi",
+      "rationale": "נקי is 'innocent\/clean' of guilt; rendered with a tsedeke-root word"
+    },
+    {
+      "kind": "addition",
+      "subject": "o na le",
+      "rationale": "Setswana requires a copula that Hebrew omits"
+    }
+  ],
+  "translation": "Mme fa shuru e kgwisa ⟨את⟩ monna kgotsa ⟨את⟩ mosadi, a swa, shuru e tlaa oloolwa ka maje ka botlalo, mme ⟨את⟩ nama ya yone ga e ka jewa; mme mong wa shuru o na le bosiamisi.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "aba9d74682a08fb40e99769aa5416053a9e0249b0046b922904a0cd526da293f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/exodus\/21\/28-28.1791263913812.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Mme fa"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "e kgwisa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "shuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "או",
+      "gloss": "kgotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a swa"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "e tlaa oloolwa ka maje"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "השור",
+      "gloss": "shuru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "e ka jewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama ya yone"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya yone"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "mme mong wa"
+    },
+    {
+      "surface": "השור",
+      "gloss": "shuru"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "o na le bosiamisi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:33.814303923Z",
+  "model": "glm-5.3"
+}

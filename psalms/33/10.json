@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o phutlhatsela",
+      "rationale": "הפיר leina la go pukula\/go phutlha; 'go phutlhatsela' go tshwara go kgoba thoko, go na le go pukusa"
+    }
+  ],
+  "translation": "Yahwe o phutlhatsela kgakololong ya ditshaba, o tlhotlheletsa maitlhomo a merafe.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "bfb9d3c8288f28296da14f622f30d27afda83a1705985285eaeea462dc7960b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/psalms\/33\/10-10.1791263935460.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "o phutlhatsela"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "kgakololong ya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditshaba"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "o tlhotlheletsa"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "maitlhomo a"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "merafe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:55.461487697Z",
+  "model": "glm-5.3"
+}

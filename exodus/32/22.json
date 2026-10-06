@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יחר אף",
+      "rationale": "Sehebera se buisanya 'go tuka tlhotlha' — tlhotlha ke sebopego sa bogale; 'bogale' fela go latlha setshwantsho."
+    },
+    {
+      "kind": "substitution",
+      "subject": "morena wa me",
+      "rationale": "אדני fano ke motho (Moshe), e seng Modimo — ka jalo 'morena wa me' go siame, e seng Adonai."
+    },
+    {
+      "kind": "crux",
+      "subject": "ברע הוא",
+      "rationale": "'se mo bokolonong' (boemo) kgatlhanong le 'se tlwaetse bokololo' (setso) — mokwalo o re 'e mo bokolonong' fela."
+    }
+  ],
+  "translation": "Mme Aharone a re: A seka wa tuka tlhotlha ya morena wa me; wena o itse ⟨את⟩ setshaba, gore se mo bokolonong.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "fe4aff9c2455f06957cbfb967484ae84cbaa5fae33e8cb653ba8e8e104558e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/exodus\/32\/22-22.1791263913611.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a seka"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "wa tuka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tlhotlha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mo bokolonong"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:33.612334265Z",
+  "model": "glm-5.3"
+}

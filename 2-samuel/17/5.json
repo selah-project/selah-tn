@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 17:5",
+  "book": "2-samuel",
+  "lang": "tn",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בפיו",
+      "rationale": "'se se mo molomong wa gagwe' — literal 'what is in his mouth', meaning what he says"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ... גם",
+      "rationale": "repetition of גם ('also...also') frames the verse; kept as gape ... gape"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "particle of entreaty 'ke go kopa' has no single word; rendered as softener"
+    }
+  ],
+  "translation": "Mme Abishalome a re: Bitla ⟨gape⟩ Khushaye wa Ereke, mme re utlwe se se mo molomong wa gagwe, le ene ⟨gape⟩.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "8e4a589971592fa9346a7fb9dc1ac81760c39f5e37687ca27ad01477635b92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/2-samuel\/17\/5-5.1791263904301.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abishalome"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bitla"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke go kopa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לחושי",
+      "gloss": "Khushaye"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "wa Erek"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "mme re utlwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "se mo molomong wa gagwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "le ene"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:24.302547374Z",
+  "model": "glm-5.3"
+}

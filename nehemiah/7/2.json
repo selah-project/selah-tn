@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o ne a le",
+      "rationale": "Sehebera se se na le kerufa (copula) e e tlhokegang ke Setswana"
+    },
+    {
+      "kind": "crux",
+      "subject": "הבירה",
+      "rationale": "'bofora' (castle) kgatlhanong le 'ntlo ya kgosi' (palace) — babetholeli ba sa utlwane"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nnete",
+      "rationale": "אמת e rata go re 'boitshepo jo bo tiileng, bo ikanyegang' — 'nnete' ke karolo ya bokao fela"
+    }
+  ],
+  "translation": "Mme ka laela ⟨את⟩ Khanane mokaitsadiake, le ⟨את⟩ Khananya musi wa bofora, kwa Yerushalayime; gonne o ne a le jaaka motho wa nnete, mme a tshaba ⟨את⟩ Elohim go feta ba bantsi.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "708b7d05d83a74a341ec682aeda00407031eb0035e9597f30ef08fccf0de7353",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/nehemiah\/7\/2-2.1791263949435.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ka laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanane"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Khanane"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mokaitsadiake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khananya"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Khananya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "musi"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "wa bofora"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jaaka motho"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "wa nnete"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mme a tshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "go feta ba bantsi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:09.437502621Z",
+  "model": "glm-5.3"
+}

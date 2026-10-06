@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בול",
+      "rationale": "Sefoko se se tlhagelela fano fela mo Tanakeng; se kaya diholo tsa naga (ditholo tsa dithaba)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישאו לו",
+      "rationale": "Diphetolelo di farologana: 'go apesa' (KJV) kgotsa 'go tselela' — dithaba di neelana diholo tsa tsone le Behemote."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישחקו",
+      "rationale": "Sehebera se kaya 'go tshega\/go tshameka'; 'go tshameka' ke boreo bo bo siametseng kgolagano ya diphoofole."
+    }
+  ],
+  "translation": "Gore diholo tsa dithaba di mo tselela, mme diphoofolo tsotlhe tsa naga di tshameka fela.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "b38439fd3f94b20d50b9885cf1f0514f9e91641cec42f12590798eb217b004ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/job\/40\/20-20.1791263943082.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בול",
+      "gloss": "diholo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tsa dithaba"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "di mo tselela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme tsotlhe"
+    },
+    {
+      "surface": "חית",
+      "gloss": "diphoofolo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tsa naga"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "di tshameka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "fela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:03.082796228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 7:3",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שוא",
+      "rationale": "Sehebera se re 'dikgwedi tsa שוא (se se se nang sepe\/masuwe)' — phetolelo ya Setswana e kaya botlhoko, go latlhegelwa ke bokao jwa go nna sepe."
+    },
+    {
+      "kind": "crux",
+      "subject": "הנחלתי",
+      "rationale": "Go busiwa go na le bontsi: 'go dirisediwa go rua' kgatlhanong le 'go abelwa' — tiro e e pateletseng, jaaka modiri yo o ruang se a sa se batleng."
+    }
+  ],
+  "translation": "Ke jalo go ⟨את⟩ kgolagano ya me: dikgwedi tsa go utlwwa botlhoko, mme malatsi a bosigo a bokgwelo a neela me.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "e5d6c424483fe392d6edb2b54e45b94962e404e7f9937a823325c9002f3892a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/job\/7\/3-3.1791263941145.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ke jalo"
+    },
+    {
+      "surface": "הנחלתי",
+      "gloss": "go kgolagano ya me"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya me"
+    },
+    {
+      "surface": "ירחי",
+      "gloss": "dikgwedi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tsa go utlwwa botlhoko"
+    },
+    {
+      "surface": "ולילות",
+      "gloss": "mme malatsi a bosigo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "a bokgwelo"
+    },
+    {
+      "surface": "מנו",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:01.146319845Z",
+  "model": "glm-5.3"
+}

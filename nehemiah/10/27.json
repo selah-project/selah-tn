@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lenane la maina",
+      "rationale": "Ke karolo ya lenane la maina a ba ba saenang kgolagano."
+    }
+  ],
+  "translation": "Le Achiya, Khanane, Anane.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "9ba1cb93c26a318c773c9f828a68454e10b52d52322947d6f67211f4ebf84990",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/nehemiah\/10\/27-27.1791263941673.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "Le Achiya"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Khanane"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "Anane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:01.674438790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lenane la dikoko",
+      "rationale": "Mafelelo a mainyane a malapa a balebedi ba tempele — go balwa ga maina."
+    },
+    {
+      "kind": "addition",
+      "subject": "morwa",
+      "rationale": "בן mo tatelanong ya maina go ranolwa jaaka 'morwa' go tlhalosa kamano; Sehebera se kwala fela leina."
+    }
+  ],
+  "translation": "Mme barwa ba Merari, bokaulengwe ba bone, kwa molemeng: Eytane morwa Kiyishe, morwa Abdi, morwa Maluke.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "cd200efc3bfbde2234d47f89c1e20a18547e00c3633cc6f9f4bf1019987c6427",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/1-chronicles\/6\/29-29.1791263946718.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mme barwa"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ba Merari"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "bokaulengwe ba bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "molemeng"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Eytane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "Kiyishe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Maluke"
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:06.719412139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 31:32",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "badimo ba gago",
+      "rationale": "אלהיך fano e bua ka terafima ja ga Rakhese, e seng Elohim wa nnete — lefoko la Setswana le le dinnye le kaya medimo ya mmatota"
+    },
+    {
+      "kind": "crux",
+      "subject": "yo o tlago fitlhela",
+      "rationale": "עם אשר תמצא: go ka ranolwa 'le yo o tlago go fitlhela' kgotsa 'fa go mongwe yo o tlaa fitlhelang'"
+    },
+    {
+      "kind": "irony",
+      "subject": "o seke wa tshela",
+      "rationale": "Yaakobo o aga kutlwololofi ya loso a sa itse gore Rakhese ke ene morutwa"
+    }
+  ],
+  "translation": "Yo o tlago fitlhela ⟨את⟩ badimo ba gago, o seke wa tshela; fa pele ga bakaulengwe ba rona, tlhotlhomisa wena se se ⟨mo⟩ go nna, mme o se tsaye. Mme Yaakobo a ne a sa itse gore Rakhese ke ene yo o ba utswileng.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "592e57175595b130e6cf570630423125618a407c593e2ce3d076b678b85558c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/genesis\/31\/32-32.1791263902694.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "o tlago fitlhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badimo ba gago"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "badimo ba gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o seke"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "wa tshela"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fa pele ga"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "bakaulengwe ba rona"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "tlhotlhomisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se se"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mo go nna"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "mme o se tsaye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "itse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhese"
+    },
+    {
+      "surface": "גנבתם",
+      "gloss": "yo o ba utswileng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:22.694964740Z",
+  "model": "glm-5.3"
+}

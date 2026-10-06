@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 16:23",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o ne a simolola",
+      "rationale": "Setswana e tlhoka mokgwa wa go bontsha go simolola ga puso; Sehebera o dirisa מלך fela"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dingwaga tsa puso",
+      "rationale": "Setshwantsho sa go bala dingwaga tsa puso ya Omri — lesome le pedi, thataro kwa Tirtsa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pelo",
+      "rationale": "Sehebera se ka fa tlase ga tiro; lefoko le le tlhokegang fela la Setswana le thusa mmadi"
+    }
+  ],
+  "translation": "Ngwaga wa masome a mararo le bongwe wa puso ya Asa, kgosi ya Yuda, Omri o ne a simolola go busa go Yisraele, mme a busa dingwaga di le lesome le pedi; kwa Tirtsa o ne a busa dingwaga di le thataro.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "b510e476bf4684f9292486d1285c70b44d33e75dbbefdf64ea0591ad142611f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/1-kings\/16\/23-23.1791263898538.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Ngwaga wa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "masome a mararo"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "le bongwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ya Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "go busa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome le"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "kwa Tirtsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "thataro"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:18.539674008Z",
+  "model": "glm-5.3"
+}

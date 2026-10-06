@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 23:40",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כחלת — penta",
+      "rationale": "Sehebera se kaya go penta mahlo ka sekoromokwa (antimony), setshwantsho sa go ipaakanyetsa bosiana"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשלחנה — bontsi kgotsa bongotsi",
+      "rationale": "Setshwantsho se bua le Oholiba jaaka motho a le mongwe wa bong boselee, mme kaelo ya Setswana e dirisa 'o romela'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלח\/שלוח",
+      "rationale": "Go boela ga lefoko 'go romela' gabedi mo temaneng — go romela le go boelwa morongwa, go latlhegelwa ke sebopego mo phetolelong"
+    },
+    {
+      "kind": "you",
+      "subject": "go Oholiba (Jerusalema)",
+      "rationale": "Temana e bua ka yunitse o o tlhamaletseng le setshwantsho sa kgarebe e e sennye"
+    }
+  ],
+  "translation": "Mme gape o ile wa ba romela ⟨את⟩ banna ba tswang kwa kgakala, ba ba neng ba rometswe morongwa go ba; mme bonwe, ba tsile; o ile wa itlapa ka ntlha ya bona, wa penta mahlo a gago, mme wa itshokisa ka diaparo tsa kgabo.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "2ca4f9d23b777a4f59014977256b2a71fa9130fdfbaa504ee8c16d2cbdc37142",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/ezekiel\/23\/40-40.1791263925246.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "mme gape"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תשלחנה",
+      "gloss": "o romela"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ba tswang"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "kwa kgakala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "morongwa"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "ba rometswe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonwe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tsile"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ka ntlha ya bona"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "wa itlapa"
+    },
+    {
+      "surface": "כחלת",
+      "gloss": "wa penta"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a gago"
+    },
+    {
+      "surface": "ועדית",
+      "gloss": "mme wa itshokisa"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ka diaparo tsa kgabo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:45.246815581Z",
+  "model": "glm-5.3"
+}

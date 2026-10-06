@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "setshilo\/name",
+      "rationale": "Setirho sa setshilo le nama se bua seširo sa setsho sa baporofeti ba babelaya ba toropo (Esekiyele 11:3); Yahwe o buša seširo ka go busetsa katlholo kwa molelwaneng."
+    },
+    {
+      "kind": "crux",
+      "subject": "היא",
+      "rationale": "Baeteledipele ba dumalana gore se se bua ka toropo (Yerushalayime) e e sa buiwang fano; JPS e aga mo go 'e seng setshilo sa lona' e bile e ntse e le 'nama' — phetolelo e kgotsofatsang go feta ya Setswana."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sehebera se sa bale sebopego sa motho mo go אשפט; Setswana se se hloka sona."
+    },
+    {
+      "kind": "you",
+      "subject": "balaodi ba Yerushalayime",
+      "rationale": "Poledisano e lebelo go balaodi ba Yerushalayime ka bontsi jwa bobedi (lona)."
+    }
+  ],
+  "translation": "E ga e tlaa nna setshilo sa lona, mme lona lo tlaa nna nama ka bofogare jwa yona; mo molelwaneng wa Yisraele ⟨ke⟩ tla go atlhola ⟨את⟩ lona.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "c2fd80bde2aacedd016928da38d349f5f7a22366e43a5fd3bd03a5ba81596e8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/ezekiel\/11\/11-11.1791263931297.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tlaa nna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa lona"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "setshilo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "lo tlaa nna"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ka bofogare jwa yona"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelwaneng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "tla go atlhola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:51.298337357Z",
+  "model": "glm-5.3"
+}

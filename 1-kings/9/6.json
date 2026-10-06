@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 9:6",
+  "book": "1-kings",
+  "lang": "tn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "Elohim a mangwe — medimo ya ditshaba; lefoko le le dikologile fela la Setswana ka ditlhaka tse dinnye go ya ka D1"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוב תשבון",
+      "rationale": "Infinitive absolute pele ga kerbete — go boela morago ga go boela morago — tlhatlhobo e e kopantsweng"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאחרי",
+      "rationale": "Literal 'go tswa morago ga me' — go ralala le mo Sephetoleleng se se tlwaelegileng ka 'go tswa kwa go nna'"
+    }
+  ],
+  "translation": "Mme fa lona le bana ba lona lo boela morago go tswa kwa go nna, mme lo sa boloke melao ya me le dikaelo tsa me tse ke neng ke di beile pele ga lona, mme lo tsamaya lo dire medimo e mengwe, lo e tlhopha go e rapela:",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "0134baabe82c2cafa6b9021bc746dd7e4980ffe6f9f3bb6493bf3eaeac9529ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/1-kings\/9\/6-6.1791263931085.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go boela morago"
+    },
+    {
+      "surface": "תשבון",
+      "gloss": "lo boela morago"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "le bana ba lona"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "go tswa kwa go nna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme lo sa"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "boloke"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "melao ya me"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "dikaelo tsa me"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke neng ke di beile"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "mme lo tsamaya"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "lo dire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e mengwe"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "lo e tlhopha go e rapela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:51.086012982Z",
+  "model": "glm-5.3"
+}

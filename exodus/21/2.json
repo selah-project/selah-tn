@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "tn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dingwaga di thataro \/ wa bosupa",
+      "rationale": "Go bala dingwaga tsa tiro le go gololwa ka ngwaga wa bosupa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "a gololwa",
+      "rationale": "לחפשי le raya 'yo o sa boleleng sepe' — o gololwa go tswa mo bokgobeng."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבד \/ יעבד",
+      "rationale": "Go ntsha ga mokwalo ('modiri' \/ 'o tlaa dira') go bopagana jaaka mo Sehebereng."
+    }
+  ],
+  "translation": "Fa o reka modiri wa Mohebera, dingwaga di thataro o tlaa dira; mme mo go wa bosupa o tlaa tswa a gololwa mahala.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "4bc3676333d657bacf08dc253034c10305506821f1e385ef0565f1b284b9419d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/exodus\/21\/2-2.1791263914688.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "o reka"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "modiri"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Mohebera"
+    },
+    {
+      "surface": "שש",
+      "gloss": "thataro"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "o tlaa dira"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "mme mo go wa bosupa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tlaa tswa"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "a gololwa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:34.689608785Z",
+  "model": "glm-5.3"
+}

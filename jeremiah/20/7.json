@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 20:7",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פתה (o ntlogotse)",
+      "rationale": "Ntlogolo kgatlhanong le 'go sedusa\/kopa': fa Yahwe a ka sedusa moporofeti, go buiwa ka ditsamaiso tsa maitemogelo a a farologaneng — jaloale 'o ntlogotse' go tlhalosa maitemogelo a a sa kgotsofatsegang a moporofeti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשחוק",
+      "rationale": "Lefoko 'se se isitsweng kwa go babusi ba bangwe' le tlhalosa sengwe se se dirisitsweng go gana motho — se se sa lumellang le sepe sa gago — e seng 'go tshega' fela."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke ne ke",
+      "rationale": "Setswana se tlhoka mafoko a thuso a go nna teng (copula) ao Sehebera se se latlhang ka tlhamalalo fa o bapisa le הייתי."
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "Mafoko a Setswana 'ba ntshwara seaka' a kwadilwe jaaka sediriswa se le sengwe, ka jalo temana ya bofelo e sedirisiwa fela ga e bonale jaaka e tlhakanetse."
+    }
+  ],
+  "translation": "O Yahwe, o ntlogotse, mme ke ntlogotswe; o ntshitse maatla, mme o fenye: ke nna se se segang bosigo jwa tsela nako e ntshi, ke tlhagisa se se isitsweng kwa go babusi ba bangwe letsatsi lotho, ba le bantsi ba ntshwara seaka.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "9ea8cbeb025eb985af2c5a81158fb922431464a9fbf668f1efe0d4648b4873d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/jeremiah\/20\/7-7.1791263912142.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתיתני",
+      "gloss": "o ntlogotse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואפת",
+      "gloss": "mme ke ntlogotswe"
+    },
+    {
+      "surface": "חזקתני",
+      "gloss": "o ntshitse maatla"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "mme o fenye"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "se se isitsweng kwa go babusi ba bangwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nako e ntshi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "lotho"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ba ntshwara seaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:32.143641529Z",
+  "model": "glm-5.3"
+}

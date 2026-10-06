@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 51:16",
+  "book": "isaiah",
+  "lang": "tn",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sehebera se se buang ga se na sebopego sa kopula; Setswana se e hloka"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנטע שמים",
+      "rationale": "Bahebera ba re 'go naya magodimo' — diphophotho tse di farologaneng: go na fela, kgotsa motho (Tsiyone\/modirisi wa Modimo) — diphetho tse dintsi di tsaya gore ke Modimo"
+    },
+    {
+      "kind": "elision",
+      "subject": "לנטע\/וליסוד",
+      "rationale": "Ditlhaka tsa maikaelelo tse di neng di tlhalosa ka fa pele ga maele, di fitlhetse mo go 'gore' le mo motsamaisi o o kopaneng"
+    },
+    {
+      "kind": "you",
+      "subject": "to Tsiyone",
+      "rationale": "Mafoko a a rometsweng go Tsiyone ka tlhamalalo: 'O setshaba sa me'"
+    }
+  ],
+  "translation": "Mme ke ne ke beile mafoko a me mo molomong wa gago, mme ka sekhureng sa seatla sa me ke ne ke go kabile, gore ke naye magodimo, ke thee lefatshe, mme ke re go Tsiyone: O ⟨ke⟩ setshaba sa me.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "8e82de1ccfe538674cf5e6a924a18794a626861bee24cedb4445e1446fc02329",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/isaiah\/51\/16-16.1791263923201.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "ke ne ke beile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a me"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "mo molomong wa gago"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "mme ka sekhureng"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sa seatla sa me"
+    },
+    {
+      "surface": "כסיתיך",
+      "gloss": "ke ne ke go kabile"
+    },
+    {
+      "surface": "לנטע",
+      "gloss": "gore ke naye"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "וליסד",
+      "gloss": "ke thee"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ולאמר",
+      "gloss": "mme ke re"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "go Tsiyone"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setshaba sa me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:43.201744897Z",
+  "model": "glm-5.3"
+}

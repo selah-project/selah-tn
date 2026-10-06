@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "tn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Sehebera se kgaogantse leina la Asaele (עשהאל); se ne se ranolwa jaaka leina, mme selo se se supang se ne sa tlogelwa."
+    },
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Setswana se tlhoka kopulapo; Sehebera ga se na sone."
+    },
+    {
+      "kind": "elision",
+      "subject": "לחם",
+      "gloss": "",
+      "rationale": "Betheleheme ke leina le le kopantsweng; karolo ya bobedi e timeletse mo leineng le le nosi."
+    }
+  ],
+  "translation": "Mme ba ba nonofileng ba masomo e ne e le Asaele kgaitsadio Yoabe, Elkhanane mora Dodo wa Betheleheme.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "47047bb64fdc7da1b5b927bd9901a9e99543d999cafb74d03419eb56dcf337ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/1-chronicles\/11\/26-26.1791263947772.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "Mme ba ba nonofileng"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "ba masomo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Asaele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kgaitsadio"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elkhanane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Dodo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa Betheleheme"
+    },
+    {
+      "surface": "לחם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-06T05:19:07.773507807Z",
+  "model": "glm-5.3"
+}

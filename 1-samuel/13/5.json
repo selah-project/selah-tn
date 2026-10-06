@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 13:5",
+  "book": "1-samuel",
+  "lang": "tn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "masome a mararo ka dikete dikoloi",
+      "rationale": "Go balega mabotho a Bafilisitia ka dinomoro"
+    },
+    {
+      "kind": "crux",
+      "subject": "dikoloi di le masome a mararo ka dikete",
+      "rationale": "Masome a mararo ka dikete a dithaele go feta BSB (dikete di le tharo); mokwalo wa Sehebera o re שלשים אלף"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lerole la lewatle",
+      "rationale": "כחול ke metsi a lewatle a a seng botlhale; 'lerole la lewatle' ke mofuta o o tlwaelegileng — sebopego sa 'jaaka ... ka bontsi' se bolotswe"
+    }
+  ],
+  "translation": "Mme Bafilisitia ba kokoantswe go lwa le Yisraele — dikoloi di le masome a mararo ka dikete le ba ba namageng ba le dikete di le thataro, le setshaba jaaka lerole la lewatle le le mo lotshitshing lwa lewatle ka bontsi — mme ba tlala ba ya go nna kwa Mikhmashe, bobotlhana jwa Bethi-Avene.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "4631ab8d64a4c6c9e5069da8658869dcd196a29c67d3e728207ff2ddf63e2baa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/1-samuel\/13\/5-5.1791263932590.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Mme Bafilisitia"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ba kokoantswe"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "di le masome a mararo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "dikoloi"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "le tse di le thataro"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka dikete"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ba ba namageng"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le setshaba"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "jaaka lerole la lewatle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le le mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "lotshitshing lwa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lotshitshi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ka bontsi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mme ba tlala"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba ya go nna"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "kwa Mikhmashe"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "bobotlhana jwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avene"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:52.591124393Z",
+  "model": "glm-5.3"
+}

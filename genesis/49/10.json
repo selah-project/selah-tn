@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 49:10",
+  "book": "genesis",
+  "lang": "tn",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Shilo",
+      "rationale": "she-lo ay-kah-ah she-lo-ha-loo to Shiloh (the place) vs 'until he comes' vs 'until his come \/ tribute come' — three ancient readings of שילה."
+    },
+    {
+      "kind": "crux",
+      "subject": "עד כי",
+      "rationale": "'until (ki) Shiloh come' vs 'as long as men come to Shiloh' (JPS) — the function of כי is disputed."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "shevet\/mechoqeq",
+      "rationale": "scepter-and-lawgiver pairing, a ruling staff plus the one who engraves decrees, lost as plain nouns."
+    },
+    {
+      "kind": "mystery",
+      "subject": "Shilo",
+      "rationale": "the verse is deliberately opaque — an epithet whose meaning is withheld from the first hearer."
+    },
+    {
+      "kind": "alternative",
+      "subject": "yiqqehat ammim",
+      "rationale": "'obedience of peoples' (ASV, YLT) rendered here as 'tumelano ya ditshaba' (allegiance), following the root יקה 'to obey\/align oneself'."
+    }
+  ],
+  "translation": "Setlhako se sa tla se ikgaoge go Yudahe, le mothehi wa melao go magareng ga dinao tsa gagwe, go fitlha Shilo a tsena; mme go ene ke tumelano ya ditshaba.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "0d39d1faac55ab66cc81e5eeb1ca5fa4e09d09de67fd4106406b18022ecb49f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/genesis\/49\/10-10.1791263895925.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יָס֥וּר",
+      "gloss": "e tla se ikgaoge"
+    },
+    {
+      "surface": "שֵׁ֨בֶט֙",
+      "gloss": "setlhako"
+    },
+    {
+      "surface": "מִֽיהוּדָ֔ה",
+      "gloss": "go Yudahe"
+    },
+    {
+      "surface": "וּמְחֹקֵ֖ק",
+      "gloss": "mothehi wa melao"
+    },
+    {
+      "surface": "מִבֵּ֣ין",
+      "gloss": "go magareng ga"
+    },
+    {
+      "surface": "רַגְלָ֑יו",
+      "gloss": "dinao tsa gagwe"
+    },
+    {
+      "surface": "עַ֚ד",
+      "gloss": "go fitlha"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "⟨sepe se⟩"
+    },
+    {
+      "surface": "יָבֹ֣א",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "שִׁילֹ֗ה",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "וְל֖וֹ",
+      "gloss": "mme go ene"
+    },
+    {
+      "surface": "יִקְּהַ֥ת",
+      "gloss": "ke tumelano"
+    },
+    {
+      "surface": "עַמִּֽים",
+      "gloss": "ya ditshaba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:15.927030435Z",
+  "model": "glm-5.3"
+}

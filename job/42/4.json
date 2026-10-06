@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "quote of Yahwe",
+      "rationale": "Job 42:4 repeats Job 38:3 almost verbatim — Job quoting God's own challenge back to Him; BSB supplies 'You said' which the Hebrew here lacks"
+    },
+    {
+      "kind": "addition",
+      "subject": "wena",
+      "rationale": "pronoun added before והודיעני to mark the shift of subject to the addressee"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ee kwa",
+      "rationale": "imperative summons addressing Yahwe directly"
+    }
+  ],
+  "translation": "Ee kwa, ke a kopa, mme nna ke tla bua; ke tla go botsa, mme wena o nthute.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "c2117353b54801f13c50e0c591f1860688420c99b4d636135cf5244c3f2fe36b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/job\/42\/4-4.1791263938617.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ee kwa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke a kopa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke tla bua"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ke tla go botsa"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "mme o nthute"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:58.617971647Z",
+  "model": "glm-5.3"
+}

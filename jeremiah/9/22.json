@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 9:22",
+  "book": "jeremiah",
+  "lang": "tn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "go bua Yahwe",
+      "rationale": "נאם יהוה e ranolwa jaaka go bua Yahwe, mefuta e mengwe ya Seesemane e dirisa 'thus saith'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכם\/בחכמתו · הגבור\/בגבורתו · עשיר\/בעשרו",
+      "rationale": "phepo ya mafoko a a buisanang ka nomoro e tharo e ka se ka ya bolokega ka botlalo mo Setswaneng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "madi",
+      "rationale": "עשר ke madi a go reka; fela 'madi' fela go ka utlwala e le madi a mmele — mo e leng madi a kgetsewa"
+    },
+    {
+      "kind": "you",
+      "subject": "mo bathong ba ba mo tlhoyang botlhale, maatla le madi",
+      "rationale": "taolo e e buang kwa go borraesetshaba ba Yuda"
+    }
+  ],
+  "translation": "Go bua Yahwe: molao-o-o-bangwang a seka wa ikakgatsa ka bohlale ba gagwe, mme o nonofileng a seka wa ikakgatsa ka maatla a gagwe, mo-o-humanegileng a seka wa ikakgatsa ka madi a gagwe.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "bb802d1cb785daedfb3f468f9d1e430cfcfa2d72c4e28fd6e890d87d5fe56946",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/jeremiah\/9\/22-22.1791263896026.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "go bua"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a seka"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ikakgatsa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "molao-o-o-bangwang"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "ka bohlale ba gagwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme a seka"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ikakgatsa"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "o nonofileng"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "ka maatla a gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a seka"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ikakgatsa"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mo-o-humanegileng"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "ka madi a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:16.027628037Z",
+  "model": "glm-5.3"
+}

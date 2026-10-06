@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 20:6",
+  "book": "ezekiel",
+  "lang": "tn",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא יד",
+      "rationale": "Go ntsha letsogo — sekhumo sa go ikana; KJV 'sware' e ranola sekhumo, e seng mokwalo."
+    },
+    {
+      "kind": "crux",
+      "subject": "תרתי",
+      "rationale": "E tswa mo תּוּר (go batla\/go lekola); bafetoledi bangwe ba e bala jaaka 'ke ne ke ikana' ka ntlha ya khopi e nngwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צבי",
+      "rationale": "צבי e kaya segalagala\/sedume sa tlholego le kgabontle; 'kgabontle' bo tshwara lefoko le le lengwe mme sedume se nyeletse."
+    }
+  ],
+  "translation": "Ka letsatsi leo, ke ne ke ntsha letsogo la me go ba, go ba ntsha mo lefatsheng la Mitsrayime, go ya lefatsheng leo ke neng ke le batlile go ba, le le thulang masapi le dinotshe; kgabontle ke yona go mafatshe otlhe.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "d754a92de4a85186bce489202ddef5e5f97b244bb634bdd8741b579b8a24191c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/ezekiel\/20\/6-6.1791263915565.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke ne ke ntsha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "letsogo la me"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "go ba ntsha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mo lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo se"
+    },
+    {
+      "surface": "תרתי",
+      "gloss": "ke ne ke le batlile"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "e e thulang"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "masapi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le dinotshe"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "kgabontle"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke yona"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go otlhe"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mafatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:18:35.566421015Z",
+  "model": "glm-5.3"
+}
