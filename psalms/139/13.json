@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "tn",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diphapo",
+      "rationale": "כליות ke diphapo tse di feletseng; ba fetoleli bangwe ba akanya `boteng jwa me` — Sethebera se bua ka diphapo ka bonna"
+    },
+    {
+      "kind": "crux",
+      "subject": "קנית",
+      "rationale": "`bopa` kgatlhanong le `go reka\/ago` — KJV `possessed`, JPS `made`; leina le bothata fa e le go bopa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o nkokeditse",
+      "rationale": "סכך go aga setlhareng\/go bokolola — `go khubeka` mo Setswana"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Sehebera se na le `אמי` fela; `wa` o okeditswe go tlhalosa tiro ya `בבטן`"
+    }
+  ],
+  "translation": "Gore wena o ne wa bopa diphapo tsa me, o nkokeditse mo mpeng wa mme ⟨wa⟩ me.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "93e872202f730d41c125dac2cae90b5ef9c56f6f552ce57a7dd5435392c0270f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/psalms\/139\/13-13.1791273105307.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "o ne wa bopa"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "diphapo tsa me"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "o nkokeditse"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "mo mpeng"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "wa mme wa me"
+    }
+  ],
+  "timestamp": "2026-10-06T07:51:45.308451678Z",
+  "model": "glm-5.3"
+}
