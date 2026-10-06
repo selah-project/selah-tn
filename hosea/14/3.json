@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 14:3",
+  "book": "hosea",
+  "lang": "tn",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "se se siameng",
+      "rationale": "וקח טוב: 'amogole se se siameng' (KJV\/ASV\/JPS) kgatlhanong le 'amogole ka mosa' (ketso ya mosa, e seng selo); Sehebera se re 'amogola molemo'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרים \/ פרי",
+      "rationale": "פרים (dipoo, dikgomo) le פרי (peo\/dinotshe) di utlwana ka mokgwa o le mongwe; BSB e ra peo, YLT e ra dinotshe — papatana e a nyelela mo Setswaneng."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Israel",
+      "rationale": "Moeti o laela Israel go isa mafoko le go boela go Yahwe — pitso ya go boela gae."
+    },
+    {
+      "kind": "elision",
+      "subject": "כל",
+      "rationale": "'otlhe' mo Sehebera se ema pele ga tiro (תשא); mo Setswanang se tlhatlhobilwe jaaka 'molato otlhe' go phuthetsa maikaelelo."
+    }
+  ],
+  "translation": "Reng mafoko ka lona, mme boelang go Yahwe; mo reng: O tlosetse molato otlhe, mme o amogole se se siameng, mme re tla duela dipoo tsa molomo wa rona.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "0a4358f48f6194faf359cf385989702359ebdf842d39cd8b3e80982edfc724ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/hosea\/14\/3-3.1791272164763.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Reng"
+    },
+    {
+      "surface": "עמככם",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mafoko"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "mme boelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "reng"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "otlhe"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "O tlosetse"
+    },
+    {
+      "surface": "עון",
+      "gloss": "molato"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "mme o amogole"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se se siameng"
+    },
+    {
+      "surface": "ונשלמה",
+      "gloss": "mme re tla duela"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "dipoo"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "molomo wa rona"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:04.766530197Z",
+  "model": "glm-5.3"
+}

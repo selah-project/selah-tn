@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "tn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bolwetse",
+      "rationale": "נגע ke kgoboso\/mokwatla wa letlalo, ga se bolwetse ka botlalo; lefoko le le leka go swara sebopego sa go kgobwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "o itshepisa",
+      "rationale": "וטהר mopriste: go itshepisa bolwetse (Declerck: a bo a bolela gore bo a bo le boitshepo) kgatlhanong le go itshepisa motho yo o nang le bolwetse (KJV\/ASV)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "go lebelela ga mopriste",
+      "rationale": "patlo ya maoto-a-mahutu ya mopriste e dirisa tlhaloso le tekanyetso ya mmala go tlhomamisa boemo"
+    }
+  ],
+  "translation": "Mme mopriste a mo lebelela, mme bona, bolwetse bo fetogile go nna bosweu, mme mopriste o itshepisa ⟨את⟩ bolwetse; bo a bo le boitshepo.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "d4feb451cba9ea230fd0ed7ac1b4a8fee449671c93a758412e64927e8ff0cff7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/leviticus\/13\/17-17.1791272162500.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "mme a mo lebelela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "bo fetogile"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "bolwetse"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "go nna bosweu"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "mme o itshepisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolwetse"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "bolwetse"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "boitshepo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:02.504274599Z",
+  "model": "glm-5.3"
+}

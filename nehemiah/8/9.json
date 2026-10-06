@@ -1,0 +1,166 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 8:9",
+  "book": "nehemiah",
+  "lang": "tn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התרשתא",
+      "rationale": "Tirisata: seina sa Peresia sa tonakgolo — se ranolwa 'mususi' (ASV) kgotsa se bolokwa jaaka leina (KJV\/JPS); go bolokwa fano."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אבל",
+      "rationale": "תתאבלו: go tlhoga maikutlo a maswe \/ go lala bosula — lentswe la Setswana le le bapang le go lekela mo thapong."
+    },
+    {
+      "kind": "you",
+      "subject": "go setshaba sotlhe",
+      "rationale": "Mafoko a a kgothatsa a a buiwang kwa setshabeng sotlhe ka tlhamalalo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכו\/בוכים",
+      "rationale": "Go busediwa ga lefoko 'go lala' mo kganelo (le se ka la lala) le mo tlhaloso (se ne se lala) — popego e ntshang tsela e emelwa."
+    }
+  ],
+  "translation": "Mme Nekemya — ⟨ke⟩ ene Tirisata — le Eḓra moruti mongodi, balaodi ba ba le moruti le Balevi ba ba tlhalosetsang ⟨את⟩ setshaba, ba re go setshaba sotlhe: Latsatsi la gompieno ke la boitshepo, ke la Yahwe Elohim ya lona; le se ka la tlhoga maikutlo a maswe, le se ka la lala. Gonne setshaba sotlhe se ne se lala fa se utlwa ⟨את⟩ mafoko a Torah.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "6209642e8c800efd6fc21d47df33b599cb118501f30cab6c81cd76b25680f875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/nehemiah\/8\/9-9.1791272169644.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... ba re"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nekemya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke⟩ ene"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "Tirisata"
+    },
+    {
+      "surface": "ועזרא",
+      "gloss": "le Eḓra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moruti"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mongodi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le Balevi"
+    },
+    {
+      "surface": "המבינים",
+      "gloss": "ba ba tlhalosetsang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go setshaba sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba sotlhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "latsatsi la gompieno"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "la boitshepo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke la"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le se ka"
+    },
+    {
+      "surface": "תתאבלו",
+      "gloss": "la tlhoga maikutlo a maswe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le se ka"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "la lala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "בוכים",
+      "gloss": "se ne se lala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setshaba"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "fa se utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko a Torah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:09.647762606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "tn",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mo",
+      "rationale": "Setswana e ka `X ke Y` e tlhoka mo; Sehebera o na le `הייתי` fela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sefofu",
+      "rationale": "לעור ke go sa bone, ka tlhamane kgotsa ka boammaaruri"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עינים\/ורגלים",
+      "rationale": "Pharologanyo ya matlho\/maoto e tiisa tiro ya Job ya go thusa, e bolokegileng mo phetolelong"
+    }
+  ],
+  "translation": "Matlho ke ne ke le ⟨mo⟩ wa sefofu, le maoto wa semaletsa, ke ene.",
+  "provenance": {
+    "system-sha256": "686629a1d674c5e53d93a01848daf61d11355c54ac075301be53a09324d8a038",
+    "user-sha256": "1f7b57c85a4cbeb3864516b6062f85ffe643ea2c5061485397a02342c6b49d59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tn\/job\/29\/15-15.1791272154192.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "matlho"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "wa sefofu"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "le maoto"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "wa semaletsa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke ene"
+    }
+  ],
+  "timestamp": "2026-10-06T07:35:54.211036541Z",
+  "model": "glm-5.3"
+}
