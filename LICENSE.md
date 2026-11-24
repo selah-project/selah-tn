@@ -19,7 +19,7 @@ International (CC BY-SA 4.0)**.
 ## Ka fa tlase ga melao e
 
 - **Go tlotla motswedi** — bolela motswedi (**porojeke ya Selah**,
-  https://selahproject.com), naya kgolagano ya laesense, mme o bontshe fa o dirile
+  https://s33k3r.com), naya kgolagano ya laesense, mme o bontshe fa o dirile
   diphetogo.
 - **Abelana ka tsela e e tshwanang** — fa o fetola tiro e kgotsa o aga mo godimo ga
   yone, phasalatsa se o se okeditseng ka fa tlase ga laesense e e tshwanang le ya
